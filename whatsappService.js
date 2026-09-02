@@ -291,7 +291,15 @@ async function initWhatsApp() {
             pairingRequested = false;
             console.log(`[WhatsApp] Connection closed (status: ${statusCode || 'unknown'}).`);
 
-            // If Code 401 (Unauthorized/Stale Creds), wipe obsolete keys so fresh pairing can execute
+            // Case 1: WhatsApp requested immediate reconnect to complete pairing (Error 515 / restartRequired)
+            if (statusCode === DisconnectReason.restartRequired || statusCode === 515) {
+                console.log('⚡ [WhatsApp Handshake] Received pairing keys from phone! Reconnecting instantly to finalize link...');
+                await saveCreds();
+                setTimeout(initWhatsApp, 1500);
+                return;
+            }
+
+            // Case 2: Code 401 (Unauthorized / Stale credentials)
             if (statusCode === DisconnectReason.loggedOut || statusCode === 401) {
                 console.log('[WhatsApp] Stale session encountered (401). Purging old PostgreSQL credentials table...');
                 try {
@@ -299,11 +307,12 @@ async function initWhatsApp() {
                 } catch (e) {
                     console.error('Failed to clear table:', e.message);
                 }
-                console.log('[WhatsApp] Restarting with fresh keys in 5 seconds...');
-                setTimeout(initWhatsApp, 5000);
+                console.log('[WhatsApp] Restarting clean session in 4 seconds...');
+                setTimeout(initWhatsApp, 4000);
                 return;
             }
 
+            // Case 3: Other unexpected disconnects
             console.log('[WhatsApp] Reconnecting in 6 seconds...');
             setTimeout(initWhatsApp, 6000);
 
@@ -313,7 +322,7 @@ async function initWhatsApp() {
             console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated via PostgreSQL!');
         }
 
-        // Generate Pairing Code ONLY when not registered and not yet requested
+        // Request pairing code if credentials are not yet registered
         if (!sock.authState.creds.registered && !pairingRequested && connection !== 'close') {
             pairingRequested = true;
             setTimeout(async () => {
@@ -330,7 +339,7 @@ async function initWhatsApp() {
                     console.error('Failed to request pairing code:', err.message);
                     pairingRequested = false;
                 }
-            }, 5000);
+            }, 4000);
         }
     });
 
