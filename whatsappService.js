@@ -5,7 +5,7 @@ const pool = require('./db');
 
 let sock = null;
 let isConnected = false;
-let isPairingActive = false;
+let pairingRequested = false;
 
 // 30 Curated Parental Guidance Tips & Insights
 const PARENTAL_TIPS = [
@@ -276,6 +276,7 @@ async function initWhatsApp() {
         printQRInTerminal: false,
         browser: ['Ubuntu', 'Chrome', '20.0.04'],
         connectTimeoutMs: 60000,
+        keepAliveIntervalMs: 25000,
         defaultQueryTimeoutMs: 60000
     });
 
@@ -283,51 +284,55 @@ async function initWhatsApp() {
 
     sock.ev.on('connection.update', async (update) => {
         const { connection, lastDisconnect } = update;
+        const statusCode = lastDisconnect?.error?.output?.statusCode;
 
         if (connection === 'close') {
             isConnected = false;
-            const statusCode = lastDisconnect?.error?.output?.statusCode;
-            const isLoggedOut = statusCode === DisconnectReason.loggedOut;
-            console.log(`[WhatsApp] Connection status: closed (code: ${statusCode || 'unknown'}).`);
+            pairingRequested = false;
+            console.log(`[WhatsApp] Connection closed (status: ${statusCode || 'unknown'}).`);
 
-            // If we are waiting for pairing code input, do NOT restart instantly
-            if (isPairingActive) {
-                console.log('[WhatsApp] Awaiting pairing code entry on device. Auto-reconnect paused.');
+            // If Code 401 (Unauthorized/Stale Creds), wipe obsolete keys so fresh pairing can execute
+            if (statusCode === DisconnectReason.loggedOut || statusCode === 401) {
+                console.log('[WhatsApp] Stale session encountered (401). Purging old PostgreSQL credentials table...');
+                try {
+                    await pool.query('TRUNCATE TABLE baileys_auth_store;');
+                } catch (e) {
+                    console.error('Failed to clear table:', e.message);
+                }
+                console.log('[WhatsApp] Restarting with fresh keys in 5 seconds...');
+                setTimeout(initWhatsApp, 5000);
                 return;
             }
 
-            if (!isLoggedOut) {
-                console.log('[WhatsApp] Reconnecting in 8 seconds...');
-                setTimeout(initWhatsApp, 8000);
-            }
+            console.log('[WhatsApp] Reconnecting in 6 seconds...');
+            setTimeout(initWhatsApp, 6000);
+
         } else if (connection === 'open') {
             isConnected = true;
-            isPairingActive = false;
+            pairingRequested = false;
             console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated via PostgreSQL!');
         }
-    });
 
-    // Request Pairing Code safely once at startup
-    if (!sock.authState.creds.registered) {
-        isPairingActive = true;
-        setTimeout(async () => {
-            try {
-                if (ADMIN_PHONE_NUMBER && ADMIN_PHONE_NUMBER !== '233XXXXXXXXX') {
-                    const cleanPhone = ADMIN_PHONE_NUMBER.replace(/[^0-9]/g, '');
-                    const code = await sock.requestPairingCode(cleanPhone);
-                    console.log('\n======================================================');
-                    console.log(`📱 YOUR WHATSAPP PAIRING CODE IS:  ${code}`);
-                    console.log('======================================================');
-                    console.log('👉 Open WhatsApp on your phone -> Linked Devices -> Link with phone number instead -> Enter this code.\n');
-                } else {
-                    console.warn('\n⚠️ [WhatsApp Warning] Set ADMIN_PHONE_NUMBER to generate pairing code.\n');
+        // Generate Pairing Code ONLY when not registered and not yet requested
+        if (!sock.authState.creds.registered && !pairingRequested && connection !== 'close') {
+            pairingRequested = true;
+            setTimeout(async () => {
+                try {
+                    if (ADMIN_PHONE_NUMBER && ADMIN_PHONE_NUMBER !== '233XXXXXXXXX') {
+                        const cleanPhone = ADMIN_PHONE_NUMBER.replace(/[^0-9]/g, '');
+                        const code = await sock.requestPairingCode(cleanPhone);
+                        console.log('\n======================================================');
+                        console.log(`📱 YOUR WHATSAPP PAIRING CODE IS:  ${code}`);
+                        console.log('======================================================');
+                        console.log('👉 Open WhatsApp on phone -> Linked Devices -> Link with phone number instead -> Enter this code.\n');
+                    }
+                } catch (err) {
+                    console.error('Failed to request pairing code:', err.message);
+                    pairingRequested = false;
                 }
-            } catch (err) {
-                console.error('Failed to request pairing code:', err.message);
-                isPairingActive = false;
-            }
-        }, 4000);
-    }
+            }, 5000);
+        }
+    });
 
     sock.ev.on('messages.upsert', async ({ messages, type }) => {
         if (type !== 'notify') return;
