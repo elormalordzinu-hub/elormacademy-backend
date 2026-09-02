@@ -1,0 +1,421 @@
+// File: whatsappService.js | System: School Monitor WhatsApp Notification Hub (Pairing Code Mode)
+const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
+const pino = require('pino');
+const path = require('path');
+const fs = require('fs');
+
+let sock = null;
+let isConnected = false;
+
+// 30 Curated Parental Guidance Tips & Insights
+const PARENTAL_TIPS = [
+    '"Children perform better when their effort is noticed and rewarded." — Jean Piaget',
+    '"Encourage problem-solving rather than just seeking the right answer." — Jerome Bruner',
+    '"Children are not vessels to be filled, but lamps to be lit." — Plutarch',
+    '"Praise the process and effort, not just innate intelligence." — Carol Dweck',
+    '"Rebuke with purpose and guide with patience." — Ken Sab',
+    '"Play and hands-on discovery are the highest forms of learning." — Albert Einstein',
+    '"Consistent daily habits beat occasional intense study sessions." — Educational Insight',
+    '"A child who asks questions is actively building understanding." — Lev Vygotsky',
+    '"Mistakes are proof that a child is trying and learning." — John Dewey',
+    '"Correct a child in private, praise a child in public." — Parenting Principle',
+    '"Curiosity is the engine of intellectual growth; protect it." — Sir Ken Robinson',
+    '"Listen to your child\'s explanations before offering corrections." — Educational Wisdom',
+    '"Small, steady progress every day leads to massive long-term mastery." — Learning Insight',
+    '"Discipline teaches self-control; anger only teaches fear." — Child Development Insight',
+    '"A child who feels safe to fail will eventually succeed." — Parenting Insight',
+    '"Help children learn how to think, not just what to think." — Margaret Mead',
+    '"Routine and structure give children the freedom to focus." — Maria Montessori',
+    '"When a child struggles, guide them to the next small step rather than doing it for them." — Lev Vygotsky',
+    '"Reading with your child builds vocabulary faster than any textbook." — Literacy Insight',
+    '"Celebrate persistence over perfection." — Growth Mindset Principle',
+    '"Children learn more from what parents model than what parents lecture." — James Baldwin',
+    '"A quiet study space with zero distractions multiplies focus." — Study Habit Tip',
+    '"Encourage your child to teach you what they learned today." — Feynman Technique',
+    '"Patience with a slow learner builds lifelong confidence." — Pedagogical Insight',
+    '"Ask open questions: \'How did you solve that?\' builds critical thinking." — STEM Learning Tip',
+    '"Praise courage when they attempt a hard math or science challenge." — Academic Coaching Tip',
+    '"Rest and adequate sleep are just as critical as study hours for memory retention." — Cognitive Science',
+    '"Affirm their identity as capable learners every single day." — Parental Affirmation',
+    '"A parent\'s belief in a child becomes the child\'s inner voice." — Developmental Insight',
+    '"Consistency in guidance produces stability in character and academics." — Educational Principle'
+];
+
+// Anti-Spam Queue & Safeguard State
+const messageQueue = [];
+let isProcessingQueue = false;
+const loginCooldowns = new Map();
+const LOGIN_COOLDOWN_MS = 15 * 60 * 1000; // 15-minute anti-spam debouncing window
+const autoReplyCooldowns = new Map();
+const AUTO_REPLY_COOLDOWN_MS = 60 * 60 * 1000; // 1 hour cooldown per sender for auto-replies
+
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+// True-random picker engine using crypto-strong randomness
+function getRandomParentTip() {
+    const randomIdx = Math.floor(Math.random() * PARENTAL_TIPS.length);
+    return PARENTAL_TIPS[randomIdx];
+}
+
+const ADMIN_PHONE_NUMBER = process.env.ADMIN_PHONE_NUMBER || '233201351763';
+
+// Format and strictly sanitize phone number into WhatsApp JID
+function formatToJid(phone) {
+    if (!phone) return null;
+    let clean = phone.toString().replace(/[^0-9]/g, '');
+    if (clean.startsWith('0') && clean.length === 10) {
+        clean = '233' + clean.slice(1);
+    }
+    if (clean.length < 9 || clean === '233000000000' || /^0+$/.test(clean)) {
+        return null;
+    }
+    return `${clean}@s.whatsapp.net`;
+}
+
+// Format seconds into readable duration
+function formatStudyTime(secs) {
+    const s = parseInt(secs, 10) || 0;
+    if (s < 60) return `${s}s`;
+    const mins = Math.floor(s / 60);
+    const remSecs = s % 60;
+    if (mins < 60) {
+        return remSecs > 0 ? `${mins}m ${remSecs}s` : `${mins}m`;
+    }
+    const hours = Math.floor(mins / 60);
+    const remMins = mins % 60;
+    return `${hours}h ${remMins}m`;
+}
+
+// Format English possessive name (e.g., ELLA -> ELLA's, JAMES -> JAMES')
+function formatPossessiveName(name) {
+    if (!name) return "Student's";
+    const clean = name.trim().toUpperCase();
+    return clean.endsWith('S') ? `${clean}'` : `${clean}'s`;
+}
+
+// Evaluate behavior badge from metrics mirroring analytics rules
+function evaluateBehaviorStatus(m = {}) {
+    const totalSecs = parseInt(m.activePlayTimeSeconds, 10) || 0;
+    const activities = parseInt(m.activitiesCompleted, 10) || (Array.isArray(m.challenges) ? m.challenges.length : 0);
+    const avgScore = parseFloat(m.averageScore) || 0;
+
+    if (totalSecs < 30 && activities === 0) return "Initializing";
+    if (m.isIdle) return "Idle / Disengaged";
+    if (avgScore < 50 && totalSecs < 300 && activities > 0) return "Rushing / Skimming";
+    if (avgScore < 60 && totalSecs >= 600) return "Diligent / Struggling";
+    return "Focused & Progressing";
+}
+
+// Calculate dynamic expiration notice from expiry date string
+function formatExpiryNotice(expDateStr) {
+    if (!expDateStr || expDateStr === "Not yet") {
+        return `*Subscription Status:* Active`;
+    }
+
+    const targetDate = new Date(expDateStr);
+    if (isNaN(targetDate.getTime())) {
+        return `*Subscription Status:* Active`;
+    }
+
+    const now = new Date();
+    const todayMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const expMidnight = new Date(targetDate.getFullYear(), targetDate.getMonth(), targetDate.getDate());
+
+    const diffDays = Math.round((expMidnight - todayMidnight) / (1000 * 60 * 60 * 24));
+
+    const formattedDate = targetDate.toLocaleDateString('en-GB', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric'
+    });
+
+    if (diffDays <= 0) {
+        return `*Subscription expires by close of today, please renew.*`;
+    } else if (diffDays === 1) {
+        return `*Subscription expires in 1 day, please renew.*`;
+    } else if (diffDays === 2) {
+        return `*Subscription expires in 2 days time, please renew.*`;
+    } else if (diffDays === 3) {
+        return `*Subscription expires in 3 days time, please renew.*`;
+    } else {
+        return `*Subscription expires on ${formattedDate}.*`;
+    }
+}
+
+// Asynchronous Outbound Queue Processor with Jitter and Presence Simulation
+async function processMessageQueue() {
+    if (isProcessingQueue) return;
+    isProcessingQueue = true;
+
+    while (messageQueue.length > 0) {
+        const currentTask = messageQueue.shift();
+        const { recipientJid, messageBody, logMessage, resolve } = currentTask;
+
+        try {
+            if (!sock || !isConnected) {
+                console.warn(`[WhatsApp Notice] Bot not connected. Message for ${recipientJid} skipped.`);
+                resolve({ success: false, message: "WhatsApp client is not connected." });
+                continue;
+            }
+
+            // 1. Randomized Human Jitter Delay (3000ms to 6000ms)
+            const jitterMs = Math.floor(Math.random() * 3000) + 3000;
+            await sleep(jitterMs);
+
+            // 2. Simulated Typing State (Presence Composing)
+            await sock.sendPresenceUpdate('composing', recipientJid);
+            const typingDuration = Math.floor(Math.random() * 1500) + 1500; // 1.5s - 3s
+            await sleep(typingDuration);
+            await sock.sendPresenceUpdate('paused', recipientJid);
+
+            // 3. Dispatch Message
+            await sock.sendMessage(recipientJid, { text: messageBody });
+            if (logMessage) {
+                console.log(logMessage);
+            }
+
+            resolve({ success: true, message: "Message sent successfully." });
+        } catch (err) {
+            console.error("[WhatsApp Queue Dispatch Error]:", err.message);
+            resolve({ success: false, error: err.message });
+        }
+    }
+
+    isProcessingQueue = false;
+}
+
+// Queue Helper Function
+function enqueueOutboundNotification(recipientJid, messageBody, logMessage) {
+    return new Promise((resolve) => {
+        messageQueue.push({ recipientJid, messageBody, logMessage, resolve });
+        processMessageQueue();
+    });
+}
+
+async function initWhatsApp() {
+    const authDir = process.env.RAILWAY_VOLUME_MOUNT_PATH 
+        ? path.join(process.env.RAILWAY_VOLUME_MOUNT_PATH, 'auth_info_baileys')
+        : path.join(__dirname, 'auth_info_baileys');
+
+    if (!fs.existsSync(authDir)) {
+        fs.mkdirSync(authDir, { recursive: true });
+    }
+
+    const { state, saveCreds } = await useMultiFileAuthState(authDir);
+
+    sock = makeWASocket({
+        auth: state,
+        logger: pino({ level: 'silent' }),
+        printQRInTerminal: false,
+        browser: ['Ubuntu', 'Chrome', '20.0.04']
+    });
+
+    if (!sock.authState.creds.registered) {
+        if (ADMIN_PHONE_NUMBER && ADMIN_PHONE_NUMBER !== '233XXXXXXXXX') {
+            setTimeout(async () => {
+                try {
+                    const cleanPhone = ADMIN_PHONE_NUMBER.replace(/[^0-9]/g, '');
+                    const code = await sock.requestPairingCode(cleanPhone);
+                    console.log('\n======================================================');
+                    console.log(`📱 YOUR WHATSAPP PAIRING CODE IS:  ${code}`);
+                    console.log('======================================================');
+                    console.log('👉 On your phone: Open WhatsApp -> Linked Devices -> Link with phone number instead -> Enter this code.\n');
+                } catch (err) {
+                    console.error('Failed to request pairing code:', err.message);
+                }
+            }, 3000);
+        } else {
+            console.warn('\n⚠️ [WhatsApp Warning] Please set ADMIN_PHONE_NUMBER in whatsappService.js or .env to generate your 8-digit pairing code.\n');
+        }
+    }
+
+    sock.ev.on('creds.update', saveCreds);
+
+    sock.ev.on('connection.update', (update) => {
+        const { connection, lastDisconnect } = update;
+
+        if (connection === 'close') {
+            isConnected = false;
+            const statusCode = lastDisconnect?.error?.output?.statusCode;
+            const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
+            console.log('[WhatsApp] Connection closed. Reconnecting:', shouldReconnect);
+            if (shouldReconnect) {
+                setTimeout(initWhatsApp, 3000);
+            }
+        } else if (connection === 'open') {
+            isConnected = true;
+            console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated!');
+        }
+    });
+
+    // Two-Way Conversation Auto-Reply Handler
+    sock.ev.on('messages.upsert', async ({ messages, type }) => {
+        if (type !== 'notify') return;
+        for (const msg of messages) {
+            if (!msg.key.fromMe && msg.message && !msg.key.remoteJid.includes('@g.us')) {
+                const senderJid = msg.key.remoteJid;
+                const now = Date.now();
+                const lastReplied = autoReplyCooldowns.get(senderJid);
+
+                if (!lastReplied || (now - lastReplied) > AUTO_REPLY_COOLDOWN_MS) {
+                    autoReplyCooldowns.set(senderJid, now);
+                    try {
+                        await sleep(2000);
+                        await sock.sendPresenceUpdate('composing', senderJid);
+                        await sleep(2000);
+                        await sock.sendPresenceUpdate('paused', senderJid);
+                        await sock.sendMessage(senderJid, {
+                            text: "Thank you for reaching out to Bright & Bold! 🎓\nThis is an automated notification line for student learning updates.\nhttps://www.elormacademy.com"
+                        });
+                        console.log(`💬 [WhatsApp Two-Way Auto-Reply] Replied to ${senderJid}`);
+                    } catch (err) {
+                        console.error('[WhatsApp Auto-Reply Error]:', err.message);
+                    }
+                }
+            }
+        }
+    });
+}
+
+/**
+ * Message 1: Dispatched strictly when student clicks Enter Arena on index.html.
+ */
+async function sendSessionLoginNotification(student) {
+    try {
+        const parentNumber = student.parentWhatsapp;
+        if (!parentNumber || parentNumber === "+233000000000") {
+            console.log(`[WhatsApp Skipped] No valid parent WhatsApp number registered for student: ${student.name}`);
+            return { success: false, message: "No valid phone number." };
+        }
+
+        const recipientJid = formatToJid(parentNumber);
+        if (!recipientJid) {
+            console.log(`[WhatsApp Skipped] Malformed phone number: ${parentNumber}`);
+            return { success: false, message: "Invalid phone number format." };
+        }
+
+        // Anti-Spam Login Debounce Check
+        const studentIdentifier = student.id || student.username || student.name;
+        const lastLoginTime = loginCooldowns.get(studentIdentifier);
+        const now = Date.now();
+        if (lastLoginTime && (now - lastLoginTime) < LOGIN_COOLDOWN_MS) {
+            console.log(`[WhatsApp Login Cooldown] Entry alert for ${student.name} skipped (within 15m cooldown window).`);
+            return { success: true, message: "Login alert skipped due to cooldown window." };
+        }
+        loginCooldowns.set(studentIdentifier, now);
+
+        if (!sock || !isConnected) {
+            console.warn(`[WhatsApp Notice] Bot not connected. Login alert for ${student.name} skipped.`);
+            return { success: false, message: "WhatsApp client is not connected." };
+        }
+
+        const dateFormatted = new Date().toLocaleDateString('en-GB', {
+            weekday: 'long',
+            day: 'numeric',
+            month: 'long',
+            year: 'numeric'
+        });
+
+        const timeString = new Date().toLocaleTimeString('en-GB', {
+            hour: '2-digit',
+            minute: '2-digit'
+        });
+
+        const messageBody = `🔔 *Bright & Bold Learning Notice*\n` +
+            `https://www.elormacademy.com\n\n` +
+            `*${student.name}* has entered the Bright & Bold online classroom.\n\n` +
+            `📅 *Date:* ${dateFormatted}\n` +
+            `⏰ *Login Time:* ${timeString}\n\n` +
+            `You will receive a detailed performance summary once this study session concludes.`;
+
+        const logMsg = `✅ [WhatsApp Login Sent] Entry alert successfully sent to ${student.name} (${parentNumber})`;
+        return await enqueueOutboundNotification(recipientJid, messageBody, logMsg);
+
+    } catch (error) {
+        console.error("[WhatsApp Login Alert Error]:", error.message);
+        return { success: false, error: error.message };
+    }
+}
+
+/**
+ * Message 2: Dispatched strictly upon exit or after 15-minute inactivity.
+ */
+async function sendWhatsAppNotification(student, metrics = {}) {
+    try {
+        const parentNumber = student.parentWhatsapp;
+        if (!parentNumber || parentNumber === "+233000000000") {
+            console.log(`[WhatsApp Skipped] No valid parent WhatsApp number registered for student: ${student.name}`);
+            return { success: false, message: "No valid phone number." };
+        }
+
+        const recipientJid = formatToJid(parentNumber);
+        if (!recipientJid) {
+            console.log(`[WhatsApp Skipped] Malformed phone number: ${parentNumber}`);
+            return { success: false, message: "Invalid phone number format." };
+        }
+
+        if (!sock || !isConnected) {
+            console.warn(`[WhatsApp Notice] Bot not connected. Message for ${student.name} skipped.`);
+            return { success: false, message: "WhatsApp client is not connected. Enter pairing code in terminal." };
+        }
+
+        let rawChallenges = metrics.challenges || [];
+        if (typeof rawChallenges === 'string') {
+            try { rawChallenges = JSON.parse(rawChallenges); } catch(e) { rawChallenges = []; }
+        }
+
+        const challengeSumSeconds = rawChallenges.reduce((sum, c) => sum + (parseInt(c.durationSeconds, 10) || 0), 0);
+        const totalActiveSeconds = Math.max(challengeSumSeconds, parseInt(metrics.activePlayTimeSeconds, 10) || 0);
+        const timeFormatted = formatStudyTime(totalActiveSeconds);
+
+        let challengesText = "None - Practice makes perfect!";
+        if (rawChallenges && rawChallenges.length > 0) {
+            challengesText = rawChallenges.map(c => {
+                const sub = c.subject ? `[${c.subject.charAt(0).toUpperCase() + c.subject.slice(1)}] ` : '';
+                const top = c.topic || 'General Topic';
+                const score = Math.round(parseFloat(c.percentage !== undefined ? c.percentage : (c.totalScore || 0)));
+                const dur = formatStudyTime(c.durationSeconds || 0);
+                return `${sub}${top} (${score}% - ${dur})`;
+            }).join('\n• ');
+            challengesText = '\n• ' + challengesText;
+        }
+
+        const behaviorStatus = evaluateBehaviorStatus({ ...metrics, challenges: rawChallenges, activePlayTimeSeconds: totalActiveSeconds });
+        const randomTip = getRandomParentTip();
+        const possessiveName = formatPossessiveName(student.name);
+        const expiryNotice = formatExpiryNotice(student.expiryDate);
+
+        const dateFormatted = new Date().toLocaleDateString('en-GB', {
+            weekday: 'long',
+            day: 'numeric',
+            month: 'long',
+            year: 'numeric'
+        });
+
+        const messageBody = `📚 *Bright & Bold Learning Update*\n` +
+            `https://www.elormacademy.com\n\n` +
+            `*${possessiveName}* session progress report:\n\n` +
+            `💡 *Parenting Wisdom:*\n_${randomTip}_\n\n` +
+            `📅 *Date:* ${dateFormatted}\n` +
+            `⏱️ *Active Study Time:* ${timeFormatted}\n` +
+            `📊 *Average Score:* ${Math.round(parseFloat(metrics.averageScore) || 0)}%\n` +
+            `🎯 *Behavior:* ${behaviorStatus}\n` +
+            `📝 *Topics Attempted:* ${challengesText}\n\n` +
+            `${expiryNotice}`;
+
+        const logMsg = `✅ [WhatsApp Sent] Report successfully sent to ${student.name} (${parentNumber})`;
+        return await enqueueOutboundNotification(recipientJid, messageBody, logMsg);
+
+    } catch (error) {
+        console.error("[WhatsApp Service Error]:", error.message);
+        return { success: false, error: error.message };
+    }
+}
+
+initWhatsApp().catch(err => console.error('[WhatsApp Init Error]:', err));
+
+module.exports = { 
+    sendWhatsAppNotification, 
+    sendSessionLoginNotification, 
+    initWhatsApp 
+};
