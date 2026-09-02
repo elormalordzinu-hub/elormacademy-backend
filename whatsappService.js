@@ -1,8 +1,7 @@
-// File: whatsappService.js | System: School Monitor WhatsApp Notification Hub (Pairing Code Mode)
-const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
+// File: whatsappService.js | System: School Monitor WhatsApp Notification Hub (Pairing Code Mode + PostgreSQL Auth Persistence)
+const { default: makeWASocket, DisconnectReason, initAuthCreds, BufferJSON, proto } = require('@whiskeysockets/baileys');
 const pino = require('pino');
-const path = require('path');
-const fs = require('fs');
+const pool = require('./db');
 
 let sock = null;
 let isConnected = false;
@@ -192,16 +191,94 @@ function enqueueOutboundNotification(recipientJid, messageBody, logMessage) {
     });
 }
 
+// PostgreSQL-Backed Multi-Auth State Handler for Baileys
+async function usePostgresAuthState() {
+    await pool.query(`
+        CREATE TABLE IF NOT EXISTS baileys_auth_store (
+            id VARCHAR(255) PRIMARY KEY,
+            value TEXT NOT NULL,
+            updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+        );
+    `);
+
+    const readData = async (key) => {
+        try {
+            const res = await pool.query('SELECT value FROM baileys_auth_store WHERE id = $1', [key]);
+            if (res.rows.length > 0) {
+                return JSON.parse(res.rows[0].value, BufferJSON.reviver);
+            }
+            return null;
+        } catch (err) {
+            console.error(`[Baileys PG Auth] Read Error for key "${key}":`, err.message);
+            return null;
+        }
+    };
+
+    const writeData = async (key, value) => {
+        try {
+            const serialized = JSON.stringify(value, BufferJSON.replacer);
+            await pool.query(`
+                INSERT INTO baileys_auth_store (id, value, updated_at) 
+                VALUES ($1, $2, CURRENT_TIMESTAMP)
+                ON CONFLICT (id) DO UPDATE 
+                SET value = EXCLUDED.value, updated_at = CURRENT_TIMESTAMP
+            `, [key, serialized]);
+        } catch (err) {
+            console.error(`[Baileys PG Auth] Write Error for key "${key}":`, err.message);
+        }
+    };
+
+    const removeData = async (key) => {
+        try {
+            await pool.query('DELETE FROM baileys_auth_store WHERE id = $1', [key]);
+        } catch (err) {
+            console.error(`[Baileys PG Auth] Delete Error for key "${key}":`, err.message);
+        }
+    };
+
+    const credsData = await readData('creds');
+    const creds = credsData || initAuthCreds();
+
+    return {
+        state: {
+            creds,
+            keys: {
+                get: async (type, ids) => {
+                    const data = {};
+                    await Promise.all(
+                        ids.map(async (id) => {
+                            let value = await readData(`${type}-${id}`);
+                            if (type === 'app-state-sync-key' && value) {
+                                value = proto.Message.AppStateSyncKeyData.fromObject(value);
+                            }
+                            data[id] = value;
+                        })
+                    );
+                    return data;
+                },
+                set: async (data) => {
+                    const tasks = [];
+                    for (const category in data) {
+                        for (const id in data[category]) {
+                            const value = data[category][id];
+                            const key = `${category}-${id}`;
+                            if (value) {
+                                tasks.push(writeData(key, value));
+                            } else {
+                                tasks.push(removeData(key));
+                            }
+                        }
+                    }
+                    await Promise.all(tasks);
+                }
+            }
+        },
+        saveCreds: () => writeData('creds', creds)
+    };
+}
+
 async function initWhatsApp() {
-    const authDir = process.env.RAILWAY_VOLUME_MOUNT_PATH 
-        ? path.join(process.env.RAILWAY_VOLUME_MOUNT_PATH, 'auth_info_baileys')
-        : path.join(__dirname, 'auth_info_baileys');
-
-    if (!fs.existsSync(authDir)) {
-        fs.mkdirSync(authDir, { recursive: true });
-    }
-
-    const { state, saveCreds } = await useMultiFileAuthState(authDir);
+    const { state, saveCreds } = await usePostgresAuthState();
 
     sock = makeWASocket({
         auth: state,
@@ -244,7 +321,7 @@ async function initWhatsApp() {
             }
         } else if (connection === 'open') {
             isConnected = true;
-            console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated!');
+            console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated via PostgreSQL!');
         }
     });
 
