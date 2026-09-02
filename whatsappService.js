@@ -44,13 +44,12 @@ const PARENTAL_TIPS = [
 const messageQueue = [];
 let isProcessingQueue = false;
 const loginCooldowns = new Map();
-const LOGIN_COOLDOWN_MS = 15 * 60 * 1000; // 15-minute anti-spam debouncing window
+const LOGIN_COOLDOWN_MS = 15 * 60 * 1000;
 const autoReplyCooldowns = new Map();
-const AUTO_REPLY_COOLDOWN_MS = 60 * 60 * 1000; // 1 hour cooldown per sender for auto-replies
+const AUTO_REPLY_COOLDOWN_MS = 60 * 60 * 1000;
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
-// True-random picker engine using crypto-strong randomness
 function getRandomParentTip() {
     const randomIdx = Math.floor(Math.random() * PARENTAL_TIPS.length);
     return PARENTAL_TIPS[randomIdx];
@@ -58,7 +57,6 @@ function getRandomParentTip() {
 
 const ADMIN_PHONE_NUMBER = process.env.ADMIN_PHONE_NUMBER || '233201351763';
 
-// Format and strictly sanitize phone number into WhatsApp JID
 function formatToJid(phone) {
     if (!phone) return null;
     let clean = phone.toString().replace(/[^0-9]/g, '');
@@ -71,7 +69,6 @@ function formatToJid(phone) {
     return `${clean}@s.whatsapp.net`;
 }
 
-// Format seconds into readable duration
 function formatStudyTime(secs) {
     const s = parseInt(secs, 10) || 0;
     if (s < 60) return `${s}s`;
@@ -85,14 +82,12 @@ function formatStudyTime(secs) {
     return `${hours}h ${remMins}m`;
 }
 
-// Format English possessive name (e.g., ELLA -> ELLA's, JAMES -> JAMES')
 function formatPossessiveName(name) {
     if (!name) return "Student's";
     const clean = name.trim().toUpperCase();
     return clean.endsWith('S') ? `${clean}'` : `${clean}'s`;
 }
 
-// Evaluate behavior badge from metrics mirroring analytics rules
 function evaluateBehaviorStatus(m = {}) {
     const totalSecs = parseInt(m.activePlayTimeSeconds, 10) || 0;
     const activities = parseInt(m.activitiesCompleted, 10) || (Array.isArray(m.challenges) ? m.challenges.length : 0);
@@ -105,7 +100,6 @@ function evaluateBehaviorStatus(m = {}) {
     return "Focused & Progressing";
 }
 
-// Calculate dynamic expiration notice from expiry date string
 function formatExpiryNotice(expDateStr) {
     if (!expDateStr || expDateStr === "Not yet") {
         return `*Subscription Status:* Active`;
@@ -141,7 +135,6 @@ function formatExpiryNotice(expDateStr) {
     }
 }
 
-// Asynchronous Outbound Queue Processor with Jitter and Presence Simulation
 async function processMessageQueue() {
     if (isProcessingQueue) return;
     isProcessingQueue = true;
@@ -157,17 +150,14 @@ async function processMessageQueue() {
                 continue;
             }
 
-            // 1. Randomized Human Jitter Delay (3000ms to 6000ms)
             const jitterMs = Math.floor(Math.random() * 3000) + 3000;
             await sleep(jitterMs);
 
-            // 2. Simulated Typing State (Presence Composing)
             await sock.sendPresenceUpdate('composing', recipientJid);
-            const typingDuration = Math.floor(Math.random() * 1500) + 1500; // 1.5s - 3s
+            const typingDuration = Math.floor(Math.random() * 1500) + 1500;
             await sleep(typingDuration);
             await sock.sendPresenceUpdate('paused', recipientJid);
 
-            // 3. Dispatch Message
             await sock.sendMessage(recipientJid, { text: messageBody });
             if (logMessage) {
                 console.log(logMessage);
@@ -183,7 +173,6 @@ async function processMessageQueue() {
     isProcessingQueue = false;
 }
 
-// Queue Helper Function
 function enqueueOutboundNotification(recipientJid, messageBody, logMessage) {
     return new Promise((resolve) => {
         messageQueue.push({ recipientJid, messageBody, logMessage, resolve });
@@ -277,6 +266,8 @@ async function usePostgresAuthState() {
     };
 }
 
+let pairingRequested = false;
+
 async function initWhatsApp() {
     const { state, saveCreds } = await usePostgresAuthState();
 
@@ -284,11 +275,32 @@ async function initWhatsApp() {
         auth: state,
         logger: pino({ level: 'silent' }),
         printQRInTerminal: false,
-        browser: ['Ubuntu', 'Chrome', '20.0.04']
+        browser: ['Ubuntu', 'Chrome', '20.0.04'],
+        connectTimeoutMs: 60000,
+        defaultQueryTimeoutMs: 60000
     });
 
-    if (!sock.authState.creds.registered) {
-        if (ADMIN_PHONE_NUMBER && ADMIN_PHONE_NUMBER !== '233XXXXXXXXX') {
+    sock.ev.on('creds.update', saveCreds);
+
+    sock.ev.on('connection.update', async (update) => {
+        const { connection, lastDisconnect } = update;
+
+        if (connection === 'close') {
+            isConnected = false;
+            pairingRequested = false;
+            const statusCode = lastDisconnect?.error?.output?.statusCode;
+            const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
+            console.log('[WhatsApp] Connection closed. Reconnecting in 5s...', shouldReconnect);
+            setTimeout(initWhatsApp, 5000);
+        } else if (connection === 'open') {
+            isConnected = true;
+            pairingRequested = false;
+            console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated via PostgreSQL!');
+        }
+
+        // Request pairing code only when registration is needed and pairing hasn't been triggered yet
+        if (!sock.authState.creds.registered && !pairingRequested) {
+            pairingRequested = true;
             setTimeout(async () => {
                 try {
                     const cleanPhone = ADMIN_PHONE_NUMBER.replace(/[^0-9]/g, '');
@@ -299,33 +311,12 @@ async function initWhatsApp() {
                     console.log('👉 On your phone: Open WhatsApp -> Linked Devices -> Link with phone number instead -> Enter this code.\n');
                 } catch (err) {
                     console.error('Failed to request pairing code:', err.message);
+                    pairingRequested = false;
                 }
-            }, 3000);
-        } else {
-            console.warn('\n⚠️ [WhatsApp Warning] Please set ADMIN_PHONE_NUMBER in whatsappService.js or .env to generate your 8-digit pairing code.\n');
-        }
-    }
-
-    sock.ev.on('creds.update', saveCreds);
-
-    sock.ev.on('connection.update', (update) => {
-        const { connection, lastDisconnect } = update;
-
-        if (connection === 'close') {
-            isConnected = false;
-            const statusCode = lastDisconnect?.error?.output?.statusCode;
-            const shouldReconnect = statusCode !== DisconnectReason.loggedOut;
-            console.log('[WhatsApp] Connection closed. Reconnecting:', shouldReconnect);
-            if (shouldReconnect) {
-                setTimeout(initWhatsApp, 3000);
-            }
-        } else if (connection === 'open') {
-            isConnected = true;
-            console.log('🚀 [WhatsApp Bot Online] Successfully connected and authenticated via PostgreSQL!');
+            }, 6000);
         }
     });
 
-    // Two-Way Conversation Auto-Reply Handler
     sock.ev.on('messages.upsert', async ({ messages, type }) => {
         if (type !== 'notify') return;
         for (const msg of messages) {
@@ -354,9 +345,6 @@ async function initWhatsApp() {
     });
 }
 
-/**
- * Message 1: Dispatched strictly when student clicks Enter Arena on index.html.
- */
 async function sendSessionLoginNotification(student) {
     try {
         const parentNumber = student.parentWhatsapp;
@@ -371,7 +359,6 @@ async function sendSessionLoginNotification(student) {
             return { success: false, message: "Invalid phone number format." };
         }
 
-        // Anti-Spam Login Debounce Check
         const studentIdentifier = student.id || student.username || student.name;
         const lastLoginTime = loginCooldowns.get(studentIdentifier);
         const now = Date.now();
@@ -414,9 +401,6 @@ async function sendSessionLoginNotification(student) {
     }
 }
 
-/**
- * Message 2: Dispatched strictly upon exit or after 15-minute inactivity.
- */
 async function sendWhatsAppNotification(student, metrics = {}) {
     try {
         const parentNumber = student.parentWhatsapp;
