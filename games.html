@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Arena | Lab Stage</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <style>
+        /* Ensures the name display stands out */
+        .student-display {
+            color: var(--neon-cyan);
+            text-align: right;
+            padding: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="games-page">
+
+    <div class="app-container">
+        <aside class="panel-left">
+            <h2 id="welcomeText">GAME CENTRE</h2>
+            
+            <div class="filter-group">
+                <label>Subject</label>
+                <select id="subject">
+                    <option value="">All Subjects</option>
+                    <option value="physics">Physics</option>           
+                </select>
+                
+                <label>Grade</label>
+                <select id="grade">
+                    <option value="">All Grades</option>                    
+                    <option value="grade-7">Grade 7</option>                 
+                </select>
+
+                <label>Curriculum</label>
+                <select id="curriculum">
+                    <option value="">Select Curriculum</option>
+                    <option value="cambridge">Cambridge</option>                   
+                </select>
+
+                <button class="btn-filter" onclick="filterSimulations()">Load Games </button>
+                <button class="btn-back" onclick="window.location.href='index.html'">Back to Home</button>
+            </div>
+        </aside>
+
+        <main class="panel-right">
+            <div id="studentNameDisplay" class="student-display"></div>
+
+            <div class="search-container">
+                <input type="text" id="simSearch" placeholder="Search Games by name..." onkeyup="searchSimulations()">
+            </div>
+
+            <div id="labStage" class="lab-stage">
+                <h1 style="text-align: center;">Game Stage</h1>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // Retrieve and display the student's name
+        const studentName = localStorage.getItem('studentName');
+        const displayDiv = document.getElementById('studentNameDisplay');
+        if (studentName) {
+            displayDiv.innerText = "Welcome, " + studentName + "!";
+        } else {
+            displayDiv.innerText = "Welcome, Student!";
+        }
+    </script>
+    <script src="js/dataService.js"></script>
+    <script src="js/games.js"></script>
+</body>
+</html>

@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-diff-app",
+  "name": "Applications of differentiation tangents and optimization",
+  "questions": [
+    {
+      "q": "What is the gradient of the tangent to the curve y = 3x³ - 4x² + 5x - 2 at the point where x = 1?",
+      "a": ["6", "4", "5", "8"],
+      "correct": 0
+    },
+    {
+      "q": "Find the x-coordinate of the stationary point of the curve y = x² - 6x + 9.",
+      "a": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "q": "Determine the equation of the normal to the curve y = x² at the point (2, 4).",
+      "a": ["y = 4x - 4", "y = -2x + 8", "y = -0.25x + 4.5", "y = 0.25x + 3.5"],
+      "correct": 2
+    },
+    {
+      "q": "What is the nature of the stationary point of y = x³ at x = 0?",
+      "a": ["Local minimum", "Local maximum", "Undefined", "Point of inflection"],
+      "correct": 3
+    },
+    {
+      "q": "For the function f(x) = 2x³ - 9x² + 12x + 1, find the values of x for which the function is increasing.",
+      "a": ["x < 1 or x > 2", "1 < x < 2", "x > 3", "x < 0"],
+      "correct": 0
+    },
+    {
+      "q": "Find the minimum value of the quadratic function y = x² - 4x + 7.",
+      "a": ["2", "3", "4", "7"],
+      "correct": 1
+    },
+    {
+      "q": "A particle moves in a straight line such that its displacement s meters from a fixed point at time t seconds is given by s = t³ - 6t² + 9t. Find the acceleration when t = 4 seconds.",
+      "a": ["6 m/s²", "12 m/s²", "18 m/s²", "24 m/s²"],
+      "correct": 2
+    },
+    {
+      "q": "Find the rate of change of the area of a circle with respect to its radius r when r = 5 cm.",
+      "a": ["5π", "10π", "20π", "25π"],
+      "correct": 3
+    },
+    {
+      "q": "What is the gradient of the normal to the curve y = 4√x at x = 4?",
+      "a": ["-2", "-1", "-0.5", "2"],
+      "correct": 0
+    },
+    {
+      "q": "Find the x-coordinate of the local maximum of the function y = -x³ + 3x² + 9x - 5.",
+      "a": ["-2", "-1", "1", "3"],
+      "correct": 1
+    },
+    {
+      "q": "An open rectangular box with a square base is to be made from 100 cm² of material. What is the maximum volume of the box?",
+      "a": ["50 cm³", "100 cm³", "250/3 cm³", "120 cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Find the second derivative of y = (2x - 1)⁴ at x = 1.",
+      "a": ["48", "72", "96", "192"],
+      "correct": 3
+    },
+    {
+      "q": "At what point on the curve y = x³ - 3x is the tangent parallel to the x-axis?",
+      "a": ["(1, -2) and (-1, 2)", "(0, 0)", "(2, 2)", "(-2, -2)"],
+      "correct": 0
+    },
+    {
+      "q": "If the displacement of a body is given by s = t³ - 3t², find the time t when the velocity is zero (for t > 0).",
+      "a": ["t = 1", "t = 2", "t = 3", "t = 4"],
+      "correct": 1
+    },
+    {
+      "q": "Find the interval for which the curve y = 2x³ - 15x² + 36x is concave downwards.",
+      "a": ["x > 2.5", "x < 2.5", "x < 2.5", "x > 3"],
+      "correct": 2
+    },
+    {
+      "q": "The radius of a sphere is increasing at a rate of 2 cm/s. Find the rate of increase of its volume when the radius is 3 cm.",
+      "a": ["18π cm³/s", "36π cm³/s", "54π cm³/s", "72π cm³/s"],
+      "correct": 3
+    },
+    {
+      "q": "Find the equation of the tangent to the curve y = e²ˣ at the point where x = 0.",
+      "a": ["y = 2x + 1", "y = x + 1", "y = 2x - 1", "y = e²ˣ"],
+      "correct": 0
+    },
+    {
+      "q": "What is the maximum value of y = x - x² for real numbers x?",
+      "a": ["0.25", "0.5", "1", "2"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of x where the function f(x) = x³ - 12x has a point of inflection.",
+      "a": ["x = 2", "x = -2", "x = 0", "x = 4"],
+      "correct": 2
+    },
+    {
+      "q": "A ladder 10 meters long rests against a vertical wall. If the bottom of the ladder slides away from the wall at a rate of 1 m/s, how fast is the top sliding down the wall when the bottom is 6 meters from the wall?",
+      "a": ["0.5 m/s", "1.0 m/s", "1.25 m/s", "0.75 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "Find the slope of the curve y = ln(3x) at x = 2.",
+      "a": ["0.5", "1", "1.5", "2"],
+      "correct": 0
+    },
+    {
+      "q": "Determine the x-coordinate of the stationary point for y = x × eˣ.",
+      "a": ["1", "-1", "0", "e"],
+      "correct": 1
+    },
+    {
+      "q": "For the curve y = x⁴ - 4x³, find the x-coordinate of the stationary point that is a point of inflection.",
+      "a": ["0", "1", "3", "4"],
+      "correct": 2
+    },
+    {
+      "q": "If y = sin(2x), what is the value of d²y / dx² at x = π/4?",
+      "a": ["0", "2", "-2", "-4"],
+      "correct": 3
+    },
+    {
+      "q": "Find the acute angle that the tangent to the curve y = x² at the point (1, 1) makes with the positive x-axis.",
+      "a": ["arctan(2)", "π/4", "π/3", "π/6"],
+      "correct": 0
+    },
+    {
+      "q": "What is the minimum product of two positive numbers whose sum is 20?",
+      "a": ["75", "100", "96", "84"],
+      "correct": 1
+    },
+    {
+      "q": "Find the gradient of the curve y = x³ - 3x² + 2x at its point of inflection.",
+      "a": ["-2", "0", "-1", "1"],
+      "correct": 2
+    },
+    {
+      "q": "A cylindrical can is to hold 1000 cm³ of liquid. Find the radius that minimizes the total surface area.",
+      "a": ["(500/π)^(1/3)", "(1000/π)^(1/3)", "π^(1/3)", "(500/π)^(1/3)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the x-coordinate of the point on the curve y = x² - 5x + 4 where the tangent is perpendicular to the line y = x.",
+      "a": ["3", "2", "2.5", "1.5"],
+      "correct": 0
+    },
+    {
+      "q": "If f(x) = x³ + ax² + b has a local extremum at x = -2 and x = 1, find the value of a.",
+      "a": ["1.5", "1.5", "3", "-1.5"],
+      "correct": 1
+    },
+    {
+      "q": "Find the rate of change of the perimeter of a square when its side length is expanding at a rate of 3 cm/s.",
+      "a": ["3 cm/s", "6 cm/s", "12 cm/s", "24 cm/s"],
+      "correct": 2
+    },
+    {
+      "q": "Determine the value of constant k for which y = kx - ln(x) has a stationary point at x = 0.5.",
+      "a": ["1", "0.5", "4", "2"],
+      "correct": 3
+    },
+    {
+      "q": "Find the maximum velocity given displacement s = t³ - 6t² + 15t for t ≥ 0.",
+      "a": ["6", "9", "12", "15"],
+      "correct": 0
+    },
+    {
+      "q": "What is the equation of the tangent to y = x³ - 3x at the origin (0, 0)?",
+      "a": ["y = x", "y = -3x", "y = 3x", "y = 0"],
+      "correct": 1
+    },
+    {
+      "q": "Find the smallest value of the function f(x) = x³ - 3x + 5 on the interval [0, 2].",
+      "a": ["7", "3", "2", "5"],
+      "correct": 2
+    },
+    {
+      "q": "If y = x² × ln(x), what is dy/dx when x = e?",
+      "a": ["e", "2e", "e²", "3e"],
+      "correct": 3
+    },
+    {
+      "q": "Find the x-coordinate of the inflection point for y = 3x⁵ - 5x⁴.",
+      "a": ["1", "0.5", "0", "1.5"],
+      "correct": 0
+    },
+    {
+      "q": "A rectangular garden is to be fenced with 40 meters of wire. What is the maximum possible area of the garden?",
+      "a": ["80 m²", "100 m²", "120 m²", "160 m²"],
+      "correct": 1
+    },
+    {
+      "q": "Find the gradient of the curve y = tan(x) at x = π/4.",
+      "a": ["1", "0", "2", "√2"],
+      "correct": 2
+    },
+    {
+      "q": "Determine the value of a such that the function f(x) = x³ + ax² + x has no stationary points.",
+      "a": ["a = 0", "a = 1", "a = √3", "-√3 < a < √3"],
+      "correct": 3
+    }
+  ]
+}

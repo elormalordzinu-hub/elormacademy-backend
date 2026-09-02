@@ -1,0 +1,166 @@
+{
+"id": "chem-alevel-quizzes-acids",
+"name": "Acid-base equilibria buffers and Ka values",
+"questions": [
+{
+"q": "According to the Brønsted-Lowry theory, what is an acid defined as?",
+"a": ["A proton (H<sup>+</sup>) donor", "A proton acceptor", "An electron pair donor", "A hydroxide ion producer in water"],
+"correct": 0
+},
+{
+"q": "What is the conjugate base of the ammonium ion (NH<sub>4</sub><sup>+</sup>)?",
+"a": ["Nitric acid (HNO<sub>3</sub>)", "Ammonia (NH<sub>3</sub>)", "Amide ion (NH<sub>2</sub><sup>-</sup>)", "Hydronium ion (H<sub>3</sub>O<sup>+</sup>)"],
+"correct": 1
+},
+{
+"q": "What is the expression for the acid dissociation constant (Ka) of a weak monoprotic acid HA?",
+"a": ["Ka = [HA] / ([H<sup>+</sup>] [A<sup>-</sup>])", "Ka = [H<sup>+</sup>] [OH<sup>-</sup>]", "Ka = [H<sup>+</sup>] [A<sup>-</sup>] / [HA]", "Ka = [A<sup>-</sup>] / [HA]"],
+"correct": 2
+},
+{
+"q": "How is the pH of an aqueous solution defined mathematically?",
+"a": ["pH = log<sub>10</sub>([H<sup>+</sup>])", "pH = -ln([H<sup>+</sup>])", "pH = [H<sup>+</sup>] squared", "pH = -log<sub>10</sub>([H<sup>+</sup>])"],
+"correct": 3
+},
+{
+"q": "What is the ionic product of water (Kw) at 298 Kelvin?",
+"a": ["1.0 x 10<sup>-14</sup> mol<sup>2</sup> dm<sup>-6</sup>", "1.0 x 10<sup>-7</sup> mol dm<sup>-3</sup>", "1.0 x 10<sup>-14</sup> mol dm<sup>-3</sup>", "55.5 mol dm<sup>-3</sup>"],
+"correct": 0
+},
+{
+"q": "What distinguishes a strong acid from a weak acid in aqueous solution?",
+"a": ["Strong acids have high concentrations while weak acids are dilute", "Strong acids dissociate completely into ions in aqueous solution, whereas weak acids dissociate only partially", "Strong acids contain more hydrogen atoms per molecule", "Strong acids do not conduct electricity"],
+"correct": 1
+},
+{
+"q": "What is the function of an acidic buffer solution?",
+"a": ["To maintain a strictly neutral pH of exactly 7.0 at all times", "To neutralize all acids added to it", "To resist changes in pH when small amounts of strong acid or strong base are added", "To increase the rate of esterification reactions"],
+"correct": 2
+},
+{
+"q": "Which of the following mixtures forms an effective acidic buffer solution?",
+"a": ["Hydrochloric acid and sodium chloride", "Nitric acid and sodium nitrate", "Sulfuric acid and sodium sulfate", "Ethanoic acid and sodium ethanoate"],
+"correct": 3
+},
+{
+"q": "What is the pKa value of an acid if its acid dissociation constant (Ka) is 1.74 x 10<sup>-5</sup> mol dm<sup>-3</sup>?",
+"a": ["4.76", "3.12", "5.25", "9.25"],
+"correct": 0
+},
+{
+"q": "What is the pH of a 0.050 mol dm<sup>-3</sup> solution of strong monoprotic hydrochloric acid (HCl)?",
+"a": ["1.00", "1.30", "2.00", "3.00"],
+"correct": 1
+},
+{
+"q": "What color change is observed when methyl orange indicator is used in a titration of a strong acid with a strong alkali, going from acidic to alkaline conditions?",
+"a": ["Colorless to pink", "Blue to yellow", "Red to yellow", "Yellow to purple"],
+"correct": 2
+},
+{
+"q": "What is the pH of a 0.10 mol dm<sup>-3</sup> aqueous solution of sodium hydroxide (NaOH) at 298 Kelvin, given Kw = 1.0 x 10<sup>-14</sup>?",
+"a": ["1.0", "7.0", "10.0", "13.0"],
+"correct": 3
+},
+{
+"q": "In the acid-base equilibrium: CH<sub>3</sub>COOH + H<sub>2</sub>O <-> CH<sub>3</sub>COO<sup>-</sup> + H<sub>3</sub>O<sup>+</sup>, which species acts as the conjugate acid of water?",
+"a": ["H<sub>3</sub>O<sup>+</sup> (Hydronium ion)", "CH<sub>3</sub>COO<sup>-</sup>", "CH<sub>3</sub>COOH", "OH<sup>-</sup>"],
+"correct": 0
+},
+{
+"q": "What is the pH range over which phenolphthalein indicator changes color, making it suitable for strong acid-strong base or weak acid-strong base titrations?",
+"a": ["3.1 to 4.4", "8.2 to 10.0", "6.0 to 7.6", "1.2 to 2.8"],
+"correct": 1
+},
+{
+"q": "How does the value of pKa relate to acid strength?",
+"a": ["Larger pKa values indicate stronger acids", "pKa has no relationship to acid strength", "Smaller pKa values indicate stronger acids", "pKa values are always negative for strong acids"],
+"correct": 2
+},
+{
+"q": "What chemical species are present in high concentrations within a natural buffer solution made from ethanoic acid and sodium ethanoate?",
+"a": ["Only undissociated ethanoic acid molecules", "Only sodium and hydroxide ions", "Only hydronium and ethanoate ions", "Reserve un-ionized ethanoic acid and high concentrations of ethanoate ions (along with sodium spectator ions)"],
+"correct": 3
+},
+{
+"q": "What is the hydrogen ion concentration [H<sup>+</sup>] of a solution with a pH of 3.40?",
+"a": ["3.98 x 10<sup>-4</sup> mol dm<sup>-3</sup>", "1.00 x 10<sup>-3</sup> mol dm<sup>-3</sup>", "3.40 x 10<sup>-2</sup> mol dm<sup>-3</sup>", "5.50 x 10<sup>-4</sup> mol dm<sup>-3</sup>"],
+"correct": 0
+},
+{
+"q": "Which of the following is classified as a Lewis acid?",
+"a": ["Ammonia (NH<sub>3</sub>)", "Boron trifluoride (BF<sub>3</sub>)", "Hydroxide ion (OH<sup>-</sup>)", "Water (H<sub>2</sub>O)"],
+"correct": 1
+},
+{
+"q": "What is the primary reason why the pH of pure water changes from 7.0 at 298 Kelvin to a lower value at 373 Kelvin?",
+"a": ["Water becomes acidic due to carbon dioxide absorption", "Autoionization of water is endothermic, so increasing temperature increases Kw, increasing [H<sup>+</sup>] and lowering pH", "Water molecules decompose into hydrogen gas", "Dissolved mineral impurities increase"],
+"correct": 2
+},
+{
+"q": "What is the pH of the resulting solution when 50 cm<sup>3</sup> of 0.10 mol dm<sup>-3</sup> sodium hydroxide is added to 50 cm<sup>3</sup> of 0.10 mol dm<sup>-3</sup> hydrochloric acid?",
+"a": ["1.0", "3.0", "11.0", "7.0 (neutral equivalence point)"],
+"correct": 3
+},
+{
+"q": "What approximation is commonly made when calculating the hydrogen ion concentration of a weak monoprotic acid solution?",
+"a": ["Equilibrium concentration of [HA] is approximately equal to initial concentration [HA]0, and [H<sup>+</sup>] equals [A<sup>-</sup>]", "Dissociation is assumed to be 100 percent", "Temperature is assumed to be absolute zero", "Activity coefficients are assumed to equal zero"],
+"correct": 0
+},
+{
+"q": "What is the buffer action when a small amount of strong alkali (OH<sup>-</sup>) is added to an ethanoic acid/sodium ethanoate buffer solution?",
+"a": ["Hydroxide ions react with sodium ions to form a precipitate", "Added hydroxide ions react with reserve ethanoic acid molecules to form water and ethanoate ions, preventing significant pH rise", "Ethanoic acid precipitates out of solution", "pH drops dramatically to 1.0"],
+"correct": 1
+},
+{
+"q": "What is the base dissociation constant (Kb) expression for aqueous ammonia (NH<sub>3</sub>)?",
+"a": ["Kb = [NH<sub>3</sub>] / ([NH<sub>4</sub><sup>+</sup>] [OH<sup>-</sup>])", "Kb = [H<sup>+</sup>] [OH<sup>-</sup>] / [NH<sub>3</sub>]", "Kb = [NH<sub>4</sub><sup>+</sup>] [OH<sup>-</sup>] / [NH<sub>3</sub>]", "Kb = [NH<sub>4</sub><sup>+</sup>] / [NH<sub>3</sub>] [OH<sup>-</sup>]"],
+"correct": 2
+},
+{
+"q": "Which curve shape is characteristic of a titration of a weak acid (e.g., ethanoic acid) with a strong base (e.g., sodium hydroxide)?",
+"a": ["Steep inflection starting around pH 1 and ending at pH 13 with equivalence at pH 7", "Gradual pH rise with an initial buffer region, an inflection point in the alkaline region (pH 8-10), and final high pH plateau", "Constant pH throughout followed by abrupt vertical jump", "Continuous linear increase"],
+"correct": 3
+},
+{
+"q": "What is the relationship between pKw, pH, and pOH in aqueous solutions at 298 Kelvin?",
+"a": ["pKw = pH + pOH = 14.00", "pKw = pH minus pOH", "pKw = pH multiplied by pOH", "pKw = pOH divided by pH"],
+"correct": 0
+},
+{
+"q": "What is defined as a proton acceptor in chemistry?",
+"a": ["A Brønsted-Lowry acid", "A Brønsted-Lowry base", "An Arrhenius oxidizing agent", "A Lewis acid"],
+"correct": 1
+},
+{
+"q": "What is the pH of a buffer solution prepared from 0.20 mol dm<sup>-3</sup> acid (Ka = 1.0 x 10<sup>-5</sup>) and 0.20 mol dm<sup>-3</sup> salt?",
+"a": ["3.00", "4.00", "5.00", "9.00"],
+"correct": 2
+},
+{
+"q": "Why does a solution of sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) exhibit an alkaline pH in water?",
+"a": ["Sodium ions react with water to form sodium hydroxide", "Carbonate ions undergo complete precipitation", "Carbonate ions act as strong oxidizing agents", "Carbonate ions act as Brønsted-Lowry bases, accepting protons from water molecules to produce hydroxide ions (OH<sup>-</sup>)"],
+"correct": 3
+},
+{
+"q": "What is the conjugate acid of water (H<sub>2</sub>O) when it acts as a base?",
+"a": ["Hydronium ion (H<sub>3</sub>O<sup>+</sup>)", "Hydroxide ion (OH<sup>-</sup>)", "Hydrogen gas (H<sub>2</sub>)", "Oxygen gas (O<sub>2</sub>)"],
+"correct": 0
+},
+{
+"q": "What is the concentration of hydroxide ions [OH<sup>-</sup>] in an aqueous solution with a pOH of 3.00?",
+"a": ["1.00 x 10<sup>-14</sup> mol dm<sup>-3</sup>", "1.00 x 10<sup>-3</sup> mol dm<sup>-3</sup>", "3.00 mol dm<sup>-3</sup>", "1.00 x 10<sup>-11</sup> mol dm<sup>-3</sup>"],
+"correct": 1
+},
+{
+"q": "Which indicator is best suited for a titration between a strong acid and a weak base (e.g., HCl and NH<sub>3</sub>)?",
+"a": ["Phenolphthalein (pH range 8.2-10.0)", "Thymolphthalein", "Methyl orange (pH range 3.1-4.4)", "Universal indicator only"],
+"correct": 2
+},
+{
+"q": "What term describes substances such as amino acids that can act as both an acid and a base depending on the chemical environment?",
+"a": ["Optically active", "Hydrophobic", "Polyprotic", "Amphoteric / Amphiprotic"],
+"correct": 3
+}
+]
+}

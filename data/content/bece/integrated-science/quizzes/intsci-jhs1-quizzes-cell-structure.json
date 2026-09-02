@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-cell-structure",
+"name": "Cell Structure",
+"questions": [
+{
+"q": "Who is credited with first observing and naming 'cells' using a primitive microscope to examine cork?",
+"a": ["Robert Hooke", "Louis Pasteur", "Charles Darwin", "Gregor Mendel"],
+"correct": 0
+},
+{
+"q": "Which cellular organelle is known as the 'powerhouse of the cell' because it generates chemical energy (ATP)?",
+"a": ["Ribosome", "Mitochondrion", "Vacuole", "Lysosome"],
+"correct": 1
+},
+{
+"q": "What is the jelly-like substance enclosed by the cell membrane where most cellular activities take place?",
+"a": ["Nucleus", "Cell wall", "Cytoplasm", "Chloroplast"],
+"correct": 2
+},
+{
+"q": "Which structure controls all activities of the cell and contains hereditary material (DNA)?",
+"a": ["Cell membrane", "Ribosome", "Endoplasmic reticulum", "Nucleus"],
+"correct": 3
+},
+{
+"q": "Which of the following structures is found in plant cells but is completely absent in animal cells?",
+"a": ["Cell wall", "Mitochondria", "Cell membrane", "Cytoplasm"],
+"correct": 0
+},
+{
+"q": "What is the primary function of the cell membrane in both plant and animal cells?",
+"a": ["To provide rigid mechanical support", "To regulate the movement of substances in and out of the cell", "To manufacture food via photosynthesis", "To store excess water and cell sap"],
+"correct": 1
+},
+{
+"q": "Which organelle contains chlorophyll and is responsible for carrying out photosynthesis in plant cells?",
+"a": ["Mitochondrion", "Ribosome", "Chloroplast", "Nucleolus"],
+"correct": 2
+},
+{
+"q": "What term is used to describe living organisms that consist of only a single cell?",
+"a": ["Multicellular", "Tissue-level", "Organ-level", "Unicellular"],
+"correct": 3
+},
+{
+"q": "Which of the following is an example of a unicellular organism?",
+"a": ["Amoeba", "Mango tree", "Human being", "Tilapia fish"],
+"correct": 0
+},
+{
+"q": "What is the function of the large permanent vacuole found in mature plant cells?",
+"a": ["To synthesize proteins", "To store water, nutrients, and waste, maintaining cell rigidity", "To direct cell division", "To digest invading bacteria"],
+"correct": 1
+},
+{
+"q": "Which microscope part is used to focus the light onto the specimen on the stage?",
+"a": ["Eyepiece lens", "Coarse adjustment knob", "Mirror or condenser", "Objective lens"],
+"correct": 2
+},
+{
+"q": "What is the correct biological hierarchy from simplest to most complex?",
+"a": ["Organ -> Tissue -> Cell -> System", "System -> Organ -> Tissue -> Cell", "Cell -> Organ -> Tissue -> System", "Cell -> Tissue -> Organ -> System"],
+"correct": 3
+},
+{
+"q": "Which of the following scientists proposed the cell theory stating that all living things are made of cells?",
+"a": ["Schleiden and Schwann", "Watson and Crick", "Isaac Newton", "Albert Einstein"],
+"correct": 0
+},
+{
+"q": "What is the main chemical component of a plant cell wall that provides rigidity and strength?",
+"a": ["Protein", "Cellulose", "Lipid", "Starch"],
+"correct": 1
+},
+{
+"q": "Which tiny cellular structures are responsible for protein synthesis?",
+"a": ["Vacuoles", "Chloroplasts", "Ribosomes", "Cell walls"],
+"correct": 2
+},
+{
+"q": "Why are animal cells typically irregular in shape compared to plant cells?",
+"a": ["They have a thick outer layer of wood", "They contain too many chloroplasts", "They lack a rigid cell wall", "They do not have a nucleus"],
+"correct": 3
+},
+{
+"q": "What is the function of the eyepiece (ocular lens) in a light microscope?",
+"a": ["To magnify the image formed by the objective lens for the viewer's eye", "To hold the glass slide securely", "To generate illumination", "To adjust fine focus"],
+"correct": 0
+},
+{
+"q": "Which term describes cells that are specialized to perform a specific function in multicellular organisms?",
+"a": ["Unspecialized cells", "Differentiated cells", "Stems cells", "Mutated cells"],
+"correct": 1
+},
+{
+"q": "What is the function of red blood cells in the human body?",
+"a": ["To fight off bacterial infections", "To transmit electrical impulses", "To transport oxygen from the lungs to body tissues", "To digest food nutrients"],
+"correct": 2
+},
+{
+"q": "Which of the following plant cells is specially adapted for absorbing water and minerals from the soil?",
+"a": ["Palisade cell", "Guard cell", "Xylem vessel cell", "Root hair cell"],
+"correct": 3
+},
+{
+"q": "What is the name of the process by which water molecules move across a selectively permeable membrane from a region of higher water concentration to a region of lower water concentration?",
+"a": ["Osmosis", "Diffusion", "Active transport", "Photosynthesis"],
+"correct": 0
+},
+{
+"q": "Which process describes the random movement of particles from an area of higher concentration to an area of lower concentration until they are evenly distributed?",
+"a": ["Osmosis", "Diffusion", "Filtration", "Condensation"],
+"correct": 1
+},
+{
+"q": "What is the term for a group of different tissues working together to carry out a specific life function in an organism?",
+"a": ["Cell", "Organelle", "Organ", "System"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of an organ in human beings?",
+"a": ["Blood cell", "Muscle tissue", "Nervous system", "Heart"],
+"correct": 3
+},
+{
+"q": "What happens to a plant cell when it is placed in a concentrated salt solution (hypertonic solution)?",
+"a": ["It undergoes plasmolysis (shrinks as water leaves)", "It bursts open", "It stays completely unchanged", "It turns green"],
+"correct": 0
+},
+{
+"q": "Which part of a light microscope holds the objective lenses and can be rotated to change magnification?",
+"a": ["Stage clip", "Revolving nosepiece", "Mirror", "Base"],
+"correct": 1
+},
+{
+"q": "Why do root hair cells lack chloroplasts?",
+"a": ["They are exposed to direct sunlight underground", "They do not need water", "They grow underground where sunlight cannot reach for photosynthesis", "They are too small to hold them"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes the function of nerve cells (neurons)?",
+"a": ["To contract and cause body movement", "To store excess body fat", "To provide structural support to bones", "To transmit electrical signals rapidly across the body"],
+"correct": 3
+},
+{
+"q": "What is the total magnification of a microscope with a 10x eyepiece lens and a 40x objective lens?",
+"a": ["400x", "50x", "4x", "1040x"],
+"correct": 0
+},
+{
+"q": "Which cellular structure acts as a transport network moving materials around inside the cell?",
+"a": ["Cell wall", "Endoplasmic reticulum", "Vacuole", "Chloroplast"],
+"correct": 1
+},
+{
+"q": "What is the main difference between prokaryotic cells and eukaryotic cells?",
+"a": ["Prokaryotes have a true nucleus", "Eukaryotes lack DNA", "Prokaryotes lack a true membrane-bound nucleus", "Eukaryotes are always unicellular"],
+"correct": 2
+},
+{
+"q": "Which of the following organisms is classified as a prokaryote?",
+"a": ["Amoeba", "Human white blood cell", "Yeast fungus", "Bacterium"],
+"correct": 3
+},
+{
+"q": "What is the role of guard cells in plant leaves?",
+"a": ["To control the opening and closing of stomata for gas exchange", "To protect the root from pests", "To transport sugars down the stem", "To absorb mineral salts"],
+"correct": 0
+},
+{
+"q": "Which instrument is essential for viewing microscopic cell structures that cannot be seen with the naked eye?",
+"a": ["Telescope", "Microscope", "Stethoscope", "Barometer"],
+"correct": 1
+},
+{
+"q": "What is the function of the nucleolus found inside the cell nucleus?",
+"a": ["To store digestive enzymes", "To produce energy", "To synthesize and assemble ribosomes", "To build the cell wall"],
+"correct": 2
+},
+{
+"q": "Why is the cell membrane described as 'selectively permeable' (or semi-permeable)?",
+"a": ["It lets all substances pass through freely", "It blocks everything from entering the cell", "It allows only water to pass through", "It allows certain molecules to pass while blocking others"],
+"correct": 3
+},
+{
+"q": "Which instrument component adjusts the focus slightly for sharp, high-power imaging under a microscope?",
+"a": ["Fine adjustment knob", "Mirror mount", "Stage clips", "Diaphragm lever"],
+"correct": 0
+},
+{
+"q": "What type of cellular division results in the formation of identical daughter cells for growth and repair?",
+"a": ["Meiosis", "Mitosis", "Binary fission only", "Budding"],
+"correct": 1
+},
+{
+"q": "Which type of plant tissue is responsible for transporting manufactured food (sugars) from the leaves to other parts of the plant?",
+"a": ["Xylem", "Cortex", "Phloem", "Epidermis"],
+"correct": 2
+},
+{
+"q": "What is the primary function of white blood cells in animals?",
+"a": ["To carry oxygen molecules", "To clot blood during injury", "To provide structural strength", "To defend the body against pathogens and disease"],
+"correct": 3
+}
+]
+}

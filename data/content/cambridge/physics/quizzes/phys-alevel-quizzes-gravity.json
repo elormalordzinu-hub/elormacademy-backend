@@ -1,0 +1,206 @@
+{
+  "id": "phys-alevel-quizzes-gravity",
+  "name": "Gravitational fields and orbits",
+  "questions": [
+    {
+      "q": "What is Newton's law of gravitation for the magnitude of the attractive force between two point masses m₁ and m₂ separated by distance r?",
+      "a": ["F = G m₁ m₂ / r²", "F = G m₁ m₂ / r", "F = G m₁ m₂ r²", "F = G m₁ m₂ / r³"],
+      "correct": 0
+    },
+    {
+      "q": "How is gravitational field strength g defined at a point in a gravitational field?",
+      "a": ["The total gravitational potential energy of a test mass", "The gravitational force exerted per unit mass placed at that point", "The rate of change of gravitational potential with time", "The product of mass and gravitational acceleration"],
+      "correct": 1
+    },
+    {
+      "q": "What is the gravitational potential at a distance r from a point mass M, taking infinity as the zero reference?",
+      "a": ["V = G M / r²", "V = +G M / r", "V = -G M / r", "V = -G M / r²"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following statements correctly describes gravitational field lines for a uniform radial field around a spherical mass?",
+      "a": ["They are parallel and equally spaced lines.", "They form concentric circles around the mass.", "They are curved lines that intersect at the surface.", "They are radial lines directed towards the center of mass, getting closer together as the mass is approached."],
+      "correct": 3
+    },
+    {
+      "q": "What is the orbital speed v of a satellite in a circular orbit of radius r around a planet of mass M?",
+      "a": ["v = √(G M / r)", "v = G M / r", "v = √(G M r)", "v = G M / r²"],
+      "correct": 0
+    },
+    {
+      "q": "What does Kepler's third law state regarding the square of the orbital period T and the cube of the orbital radius r for a circular orbit?",
+      "a": ["T is proportional to r", "T² is directly proportional to r³", "T³ is directly proportional to r²", "T is inversely proportional to r²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the gravitational potential energy Eₚ of a mass m situated at a distance r from the center of a planet of mass M?",
+      "a": ["Eₚ = m g h", "Eₚ = -G M m / r²", "Eₚ = -G M m / r", "Eₚ = +G M m / r"],
+      "correct": 2
+    },
+    {
+      "q": "What is the escape velocity vₑₛꜛ from the surface of a planet of mass M and radius R?",
+      "a": ["vₑₛꜛ = √(G M / R)", "vₑₛꜛ = G M / R", "vₑₛꜛ = 2 G M / R", "vₑₛꜛ = √(2 G M / R)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary characteristic of a geostationary orbit around the Earth?",
+      "a": ["The satellite has a period of 24 hours, orbits from west to east directly above the equator, and remains stationary relative to a fixed point on Earth's surface.", "The satellite orbits in a polar plane passing through both geographic poles.", "The satellite moves at variable speed in an elliptical orbit.", "The orbital period is exactly 12 hours."],
+      "correct": 0
+    },
+    {
+      "q": "What does the gradient of a gravitational potential versus distance (V-r) graph represent?",
+      "a": ["Gravitational potential energy", "Gravitational field strength (g)", "Mass of the central body", "Gravitational constant G"],
+      "correct": 1
+    },
+    {
+      "q": "If the distance between two point masses is tripled, what happens to the gravitational force between them?",
+      "a": ["It increases by a factor of 3", "It decreases by a factor of 3", "It decreases by a factor of 9", "It remains unchanged"],
+      "correct": 2
+    },
+    {
+      "q": "Why is gravitational potential defined with a negative sign when using infinity as zero?",
+      "a": ["Because gravitational field strength is a vector quantity", "Because energy is created when masses approach", "Because work must be done by an external force to bring a mass from infinity to that point against the attractive force, or work is done by the field as mass moves in", "Because gravitational potential energy can never be zero"],
+      "correct": 3
+    },
+    {
+      "q": "What is the total mechanical energy E of a satellite of mass m in a stable circular orbit of radius r around a planet of mass M?",
+      "a": ["E = -G M m / (2 r)", "E = -G M m / r", "E = +G M m / (2 r)", "E = zero"],
+      "correct": 0
+    },
+    {
+      "q": "What are the SI base units of the universal gravitational constant G?",
+      "a": ["N m² kg⁻²", "kg⁻¹ m³ s⁻²", "kg m² s⁻²", "N kg⁻¹"],
+      "correct": 1
+    },
+    {
+      "q": "A planet has twice the mass of Earth and twice the radius of Earth. What is the surface gravitational field strength of this planet compared to Earth (where Earth surface field strength is g)?",
+      "a": ["2 g", "g", "0.5 g", "0.25 g"],
+      "correct": 2
+    },
+    {
+      "q": "What does Kepler's first law of planetary motion state?",
+      "a": ["All planets move in perfect circular orbits with the sun at the center.", "The line joining a planet to the sun sweeps out equal areas in equal intervals of time.", "The square of a planet's orbital period is proportional to the cube of its semi-major axis.", "The orbit of a planet is an ellipse with the sun located at one of the two foci."],
+      "correct": 3
+    },
+    {
+      "q": "What is the binding energy of a satellite in a circular orbit of radius r?",
+      "a": ["The energy required to move the satellite from its orbit to infinity, equal to +G M m / (2 r)", "The total kinetic energy of the satellite", "The potential energy stored in the central planet", "The energy lost due to atmospheric drag"],
+      "correct": 0
+    },
+    {
+      "q": "What does Kepler's second law (law of areas) directly imply about a planet's orbital speed?",
+      "a": ["The speed is constant throughout the entire orbit.", "The planet moves faster when it is closer to the sun (perihelion) and slower when it is farther away (aphelion).", "The speed depends only on the mass of the sun.", "The angular momentum of the planet changes continuously."],
+      "correct": 1
+    },
+    {
+      "q": "What is the gravitational field strength inside a uniform solid spherical shell or planet at a distance r from the center (where r < R)?",
+      "a": ["It remains constant and equal to the surface value.", "It increases linearly with r to infinity.", "It is directly proportional to r (or zero if hollow cavity), decreasing to zero at the exact center.", "It is inversely proportional to r²."],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following bodies experiences weightlessness inside an orbiting spacecraft?",
+      "a": ["Only objects with zero mass", "Objects outside the gravitational field", "Objects that have reached escape velocity", "Astronauts and objects in free-fall orbit where the gravitational force provides the exact centripetal acceleration required."],
+      "correct": 3
+    },
+    {
+      "q": "What is the period of a satellite orbiting very close to the surface of a spherical planet of uniform density ρ?",
+      "a": ["Independent of density and radius", "Dependent only on the mass of the satellite", "Inversely proportional to the square root of density (T = √[3 π / (G ρ)])", "Directly proportional to the radius cubed"],
+      "correct": 0
+    },
+    {
+      "q": "How is gravitational potential energy related to gravitational potential V at a point where a mass m is placed?",
+      "a": ["Eₚ = V / m", "Eₚ = m V", "Eₚ = m V²", "Eₚ = -V / m"],
+      "correct": 1
+    },
+    {
+      "q": "What is the work done by the gravitational field when a mass m is moved from a distance r₁ to a greater distance r₂ from a fixed mass M?",
+      "a": ["G M m (r₂ - r₁) / (r₁ r₂)", "Zero", "G M m [(1 / r₁) - (1 / r₂)]", "-G M m [(1 / r₁) - (1 / r₂)]"],
+      "correct": 2
+    },
+    {
+      "q": "What is the definition of a gravitational field?",
+      "a": ["A region of space where magnetic materials experience a force", "A region where electric charges experience a force", "Any region where electromagnetic waves travel", "A region of space where a mass experiences a gravitational force"],
+      "correct": 3
+    },
+    {
+      "q": "If the Earth were to suddenly shrink to half its current radius while keeping its mass constant, what would happen to the escape velocity from its surface?",
+      "a": ["It would increase by a factor of √2 (approx 1.41)", "It would double", "It would remain unchanged", "It would be halved"],
+      "correct": 0
+    },
+    {
+      "q": "What is the ratio of kinetic energy to potential energy (absolute value) for a satellite in a circular orbit?",
+      "a": ["1 : 1", "1 : 2", "2 : 1", "1 : 4"],
+      "correct": 1
+    },
+    {
+      "q": "What is the orbital period of a satellite orbiting at a radius r around a mass M in terms of fundamental constants?",
+      "a": ["T = 2 π r / (G M)", "T = 2 π √(r / G M)", "T = 2 π √(r³ / (G M))", "T = π r² / (G M)"],
+      "correct": 2
+    },
+    {
+      "q": "Why do astronauts in the International Space Station float despite being subjected to Earth's gravity?",
+      "a": ["Because gravity is completely zero at orbital altitudes.", "Because centrifugal force cancels gravity.", "Because air pressure inside the station counteracts gravity.", "Because both the astronaut and the station are accelerating towards Earth at the same rate under gravity."],
+      "correct": 3
+    },
+    {
+      "q": "What is the magnitude of the gravitational force between two lead spheres of mass 50 kg each whose centers are separated by 0.50 m? (G = 6.67 × 10⁻¹¹ N m² kg⁻²)",
+      "a": ["6.67 × 10⁻⁷ N", "1.33 × 10⁻⁶ N", "3.33 × 10⁻⁷ N", "2.67 × 10⁻⁶ N"],
+      "correct": 0
+    },
+    {
+      "q": "What does the area under a gravitational field strength versus distance (g-r) graph represent between two points?",
+      "a": ["Gravitational force", "Change in gravitational potential", "Total mass", "Kinetic energy"],
+      "correct": 1
+    },
+    {
+      "q": "What is the speed of a geostationary satellite orbiting the Earth at a radius of approximately 42,200 km?",
+      "a": ["1.5 km s⁻¹", "7.9 km s⁻¹", "3.07 km s⁻¹", "11.2 km s⁻¹"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following quantities is conserved for a planet orbiting the sun in an elliptical orbit?",
+      "a": ["Kinetic energy only", "Potential energy only", "Orbital speed", "Total mechanical energy and angular momentum"],
+      "correct": 3
+    },
+    {
+      "q": "What is the gravitational potential at the surface of the Earth given mass M = 5.97 × 10²⁴ kg and radius R = 6371 km?",
+      "a": ["-6.26 × 10⁷ J kg⁻¹", "-3.13 × 10⁷ J kg⁻¹", "-9.81 J kg⁻¹", "-6.67 × 10⁻¹¹ J kg⁻¹"],
+      "correct": 0
+    },
+    {
+      "q": "What is the escape velocity from the Earth's surface in km s⁻¹ approximately?",
+      "a": ["7.9 km s⁻¹", "11.2 km s⁻¹", "3.1 km s⁻¹", "42.0 km s⁻¹"],
+      "correct": 1
+    },
+    {
+      "q": "If a satellite is moved from a circular orbit of radius r to a higher circular orbit of radius 2r, what happens to its orbital speed?",
+      "a": ["It increases by a factor of 2", "It increases by a factor of √2", "It decreases by a factor of √2", "It decreases by a factor of 2"],
+      "correct": 2
+    },
+    {
+      "q": "What is the main purpose of placing meteorological and communication satellites in geostationary orbits?",
+      "a": ["To map polar ice caps", "To achieve zero gravity for manufacturing", "To measure solar radiation outside the atmosphere", "To remain continuously above the same geographical location on Earth's surface for constant dish alignment."],
+      "correct": 3
+    },
+    {
+      "q": "What force acts as the centripetal force for a satellite orbiting a planet?",
+      "a": ["Gravitational force", "Magnetic force", "Electrostatic force", "Tension"],
+      "correct": 0
+    },
+    {
+      "q": "What is the acceleration of free fall g related to the mass M and radius R of a planet?",
+      "a": ["g = G M R", "g = G M / R²", "g = G R² / M", "g = M / (G R²)"],
+      "correct": 1
+    },
+    {
+      "q": "How much work is required to lift a satellite of mass 500 kg from the Earth's surface to an infinite distance away? (Take Earth mass M = 5.97 × 10²⁴ kg, R = 6.37 × 10⁶ m)",
+      "a": ["1.57 × 10¹⁰ J", "3.13 × 10¹⁰ J", "3.13 × 10¹⁰ J", "6.26 × 10¹⁰ J"],
+      "correct": 2
+    },
+    {
+      "q": "Which type of gravitational field can be considered uniform over a small region near the Earth's surface?",
+      "a": ["Radial field", "Point source field", "Cylindrical field", "Uniform parallel gravitational field where field lines are parallel and equally spaced."],
+      "correct": 3
+    }
+  ]
+}

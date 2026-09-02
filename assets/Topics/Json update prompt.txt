@@ -1,0 +1,13 @@
+"Act as a software architect. I have an existing JSON file named 'cambridge.json' 
+that contains a master list of subjects, grades, and their corresponding educational activities.  
+Task: Update the entry for Biology at Year 7 
+using the list of subtopics attached.
+Strict Requirements:Maintain Integrity: 
+Do not change, delete, or reformat any other part of the 'cambridge.json' file. 
+Leave all other subjects and grades exactly as they are.
+Targeted Update: 
+Only update the structure for the requested subject and grade.Consistency: 
+For the new subtopics, create an entry in every one of the 
+eight activity categories: 'games', 'quizzes', 'simulations', 'definitions', 'study-guides', 'true-false', 'videos', and 'worksheets'.Formatting: 
+Use the same ID naming convention as the rest of the file e.g., 'bio-yr7-games'.
+Output: Provide the complete, final version of the 'cambridge.json' file in a single code block, ready for immediate copy-paste replacement."

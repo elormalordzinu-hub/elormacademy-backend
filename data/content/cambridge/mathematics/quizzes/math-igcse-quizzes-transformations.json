@@ -1,0 +1,201 @@
+{
+  "id": "math-igcse-quizzes-transformations",
+  "name": "Geometric transformations reflection rotation and translation",
+  "questions": [
+    {
+      "q": "When a shape is reflected in the line y = x, the point (3, 5) maps to:",
+      "a": ["(5, 3)", "(-3, 5)", "(3, -5)", "(-5, -3)"],
+      "correct": 0
+    },
+    {
+      "q": "A translation is described by the column vector $\\begin{pmatrix} 4 \\\\ -3 \\end{pmatrix}$. Where does the point (2, 5) move to?",
+      "a": ["(6, 2)", "(6, 2)", "(6, 8)", "(-2, 8)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the image of the point (-4, 2) after a rotation of 90° clockwise about the origin?",
+      "a": ["(4, -2)", "(-2, -4)", "(2, -4)", "(4, 2)"],
+      "correct": 2
+    },
+    {
+      "q": "Which transformation preserves orientation and size without any flipping or turning?",
+      "a": ["Reflection", "Rotation", "Enlargement", "Translation"],
+      "correct": 3
+    },
+    {
+      "q": "Reflecting the point (7, -3) in the x-axis gives the point:",
+      "a": ["(7, 3)", "(-7, -3)", "(-7, 3)", "(3, -7)"],
+      "correct": 0
+    },
+    {
+      "q": "A rotation of 180° about the origin maps the point (x, y) to:",
+      "a": ["(y, x)", "(-x, -y)", "(x, -y)", "(-x, y)"],
+      "correct": 1
+    },
+    {
+      "q": "Vector A is $\\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$ and Vector B is $\\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix}$. What is the combined translation vector A + B?",
+      "a": ["(2, 6)", "(4, 2)", "(2, 6)", "(2, 2)"],
+      "correct": 2
+    },
+    {
+      "q": "When describing a full rotation transformation, which three pieces of information must be stated?",
+      "a": ["Angle, scale factor, and direction", "Center, scale factor, and line", "Angle, direction, and vector", "Angle, direction (clockwise/counter-clockwise), and center of rotation"],
+      "correct": 3
+    },
+    {
+      "q": "Reflecting the point (-2, 6) in the y-axis produces the image:",
+      "a": ["(2, 6)", "(-2, -6)", "(2, -6)", "(6, -2)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the single column vector that represents a translation 5 units left and 4 units up?",
+      "a": ["$\\begin{pmatrix} 5 \\\\ 4 \\end{pmatrix}$", "$\\begin{pmatrix} -5 \\\\ 4 \\end{pmatrix}$", "$\\begin{pmatrix} 4 \\\\ -5 \\end{pmatrix}$", "$\\begin{pmatrix} -4 \\\\ 5 \\end{pmatrix}$"],
+      "correct": 1
+    },
+    {
+      "q": "A shape undergoes a rotation of 90° counter-clockwise about the origin. The point (1, 4) maps to:",
+      "a": ["(4, -1)", "(-1, -4)", "(-4, 1)", "(1, -4)"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following describes a reflection in a diagonal line?",
+      "a": ["y = 0", "x = 0", "y = -x", "y = x or y = -x"],
+      "correct": 3
+    },
+    {
+      "q": "If triangle ABC is mapped to triangle A'B'C' by a translation vector $\\begin{pmatrix} 2 \\\\ -5 \\end{pmatrix}$, what happens to each coordinate (x, y)?",
+      "a": ["(x + 2, y - 5)", "(x - 2, y + 5)", "(x + 5, y - 2)", "(x × 2, y × -5)"],
+      "correct": 0
+    },
+    {
+      "q": "A rotation of 270° clockwise about the origin is equivalent to a rotation of:",
+      "a": ["90° clockwise", "90° counter-clockwise", "180°", "360°"],
+      "correct": 1
+    },
+    {
+      "q": "When a shape is reflected in the line x = 3, what is the image of the point (5, 2)?",
+      "a": ["(1, 2)", "(5, -2)", "(1, 2)", "(3, 2)"],
+      "correct": 2
+    },
+    {
+      "q": "Which transformation is fully defined by giving a mirror line equation?",
+      "a": ["Translation", "Rotation", "Enlargement", "Reflection"],
+      "correct": 3
+    },
+    {
+      "q": "The point (4, -1) is translated by the vector $\\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}$. Its new coordinates are:",
+      "a": ["(1, 4)", "(-1, 4)", "(7, -6)", "(1, -6)"],
+      "correct": 0
+    },
+    {
+      "q": "Reflecting the point (x, y) in the line y = -x swaps the coordinates and changes their signs. The point (3, 8) becomes:",
+      "a": ["(8, 3)", "(-8, -3)", "(-3, -8)", "(3, -8)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the center of rotation if the point (2, 3) maps to (-2, -3) under a 180° rotation?",
+      "a": ["(2, 3)", "(-2, -3)", "(0, 0)", "(1, 1)"],
+      "correct": 2
+    },
+    {
+      "q": "If a shape is translated and then reflected, is the resulting combined transformation generally a single standard transformation?",
+      "a": ["Always a translation", "Always a rotation", "Always an enlargement", "A combination that can be described as a glide reflection or composite transformation"],
+      "correct": 3
+    },
+    {
+      "q": "What is the image of (0, 0) under any rotation about the origin?",
+      "a": ["(0, 0)", "(1, 1)", "(0, 1)", "(1, 0)"],
+      "correct": 0
+    },
+    {
+      "q": "A shape is rotated 90° about the point (1, 1). If a vertex is at (3, 1), what is its distance from the center of rotation?",
+      "a": ["1 unit", "2 units", "3 units", "4 units"],
+      "correct": 1
+    },
+    {
+      "q": "If point P(x, y) is reflected in the x-axis, its invariant points (points that do not move) lie on which axis?",
+      "a": ["The y-axis", "The line y = x", "The x-axis", "The origin"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following transformations changes the handedness (orientation) of a 2D shape?",
+      "a": ["Translation", "Rotation", "Enlargement", "Reflection"],
+      "correct": 3
+    },
+    {
+      "q": "What is the vector that reverses the translation vector $\\begin{pmatrix} 4 \\\\ -7 \\end{pmatrix}$?",
+      "a": ["$\\begin{pmatrix} -4 \\\\ 7 \\end{pmatrix}$", "$\\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix}$", "$\\begin{pmatrix} -7 \\\\ 4 \\end{pmatrix}$", "$\\begin{pmatrix} 7 \\\\ -4 \\end{pmatrix}$"],
+      "correct": 0
+    },
+    {
+      "q": "Reflecting a shape twice in the exact same mirror line results in:",
+      "a": ["A 180° rotation", "The original shape (identity transformation)", "A translation", "An enlargement"],
+      "correct": 1
+    },
+    {
+      "q": "If the point (5, 2) is mapped to (5, -2), the line of reflection is:",
+      "a": ["The y-axis", "The line y = x", "The x-axis", "The line x = 5"],
+      "correct": 2
+    },
+    {
+      "q": "What is the image of (-3, -4) after a 180° rotation about the origin?",
+      "a": ["(-3, 4)", "(3, -4)", "(-4, -3)", "(3, 4)"],
+      "correct": 3
+    },
+    {
+      "q": "A translation maps point A(2, 3) to point A'(5, 7). What is the translation vector?",
+      "a": ["$\\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}$", "$\\begin{pmatrix} 7 \\\\ 10 \\end{pmatrix}$", "$\\begin{pmatrix} -3 \\\\ -4 \\end{pmatrix}$", "$\\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}$"],
+      "correct": 0
+    },
+    {
+      "q": "Under a reflection in the line y = x, which of the following points is invariant?",
+      "a": ["(2, -2)", "(4, 4)", "(0, 5)", "(-3, 3)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the image of (4, 1) after a rotation of 90° clockwise about the center (1, 1)?",
+      "a": ["(1, 4)", "(4, -2)", "(1, -2)", "(1, 4)"],
+      "correct": 2
+    },
+    {
+      "q": "Which transformation does not have any invariant points unless the transformation is trivial (identity)?",
+      "a": ["Reflection", "Rotation", "Enlargement with scale factor not equal to 1", "Translation (unless vector is zero)"],
+      "correct": 3
+    },
+    {
+      "q": "Reflecting the point (-5, -2) in the line y = 0 (the x-axis) gives:",
+      "a": ["(-5, 2)", "(5, 2)", "(5, -2)", "(-2, -5)"],
+      "correct": 0
+    },
+    {
+      "q": "A shape is rotated about a point. The distance from any point on the shape to the center of rotation:",
+      "a": ["Doubles", "Remains constant", "Halves", "Changes depending on the angle"],
+      "correct": 1
+    },
+    {
+      "q": "If a translation vector is $\\begin{pmatrix} 0 \\\\ 0 \\end{pmatrix}$, the transformation is known as:",
+      "a": ["A reflection", "A rotation", "The identity transformation", "An enlargement"],
+      "correct": 2
+    },
+    {
+      "q": "When a point (x, y) is rotated 90° counter-clockwise about the origin, the rule for coordinates is:",
+      "a": ["(x, -y)", "(-x, y)", "(-y, x)", "(-x, -y)"],
+      "correct": 3
+    },
+    {
+      "q": "The point (2, 6) is reflected in the line x = 1. What are the coordinates of the image?",
+      "a": ["(0, 6)", "(-2, 6)", "(2, -6)", "(-1, 6)"],
+      "correct": 0
+    },
+    {
+      "q": "Which set of transformations can be combined to map any congruent shape to another in a 2D plane?",
+      "a": ["Enlargement only", "Translation, reflection, and rotation", "Rotation only", "Reflection only"],
+      "correct": 1
+    },
+    {
+      "q": "A translation vector is given as $\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}$. If the image point is (4, 1), what were the coordinates of the original point?",
+      "a": ["(2, 4)", "(6, -2)", "(6, -2)", "(2, -2)"],
+      "correct": 2
+    }
+  ]
+}

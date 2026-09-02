@@ -1,0 +1,206 @@
+{
+"id": "phys-igcse-quizzes-transfers",
+"name": "Thermal energy transfers and insulation",
+"questions": [
+{
+"q": "What are the three primary methods by which thermal energy can be transferred from one place to another?",
+"a": ["Conduction, convection, and radiation", "Reflection, refraction, and diffraction", "Fission, fusion, and decay", "Voltage, current, and resistance"],
+"correct": 0
+},
+{
+"q": "How does thermal conduction primarily occur in solid non-metals (insulators)?",
+"a": ["By bulk movement of fluid particles", "By lattice vibrations (phonon transfer) passing atomic kinetic energy from particle to neighboring particle", "By emission of infrared light waves", "By free electron drift"],
+"correct": 1
+},
+{
+"q": "Why are metals exceptionally good thermal conductors compared to wood or plastics?",
+"a": ["Metals have higher density.", "Metals contain free delocalized electrons that can move rapidly through the crystal lattice, transferring kinetic energy quickly throughout the material.", "Metals reflect all heat away.", "Metals absorb magnetic fields."],
+"correct": 2
+},
+{
+"q": "What is convection?",
+"a": ["The transfer of heat through a vacuum by electromagnetic waves", "The direct transfer of vibration between adjacent stationary atoms", "The flow of electric charge through a metal wire", "The transfer of thermal energy through fluids (liquids and gases) by the bulk movement of warmer, less dense regions rising and cooler, denser regions sinking"],
+"correct": 3
+},
+{
+"q": "Why does a convection current form when a beaker of water is heated from the bottom?",
+"a": ["Water at the bottom expands when heated, becomes less dense, and rises, while cooler, denser water sinks to take its place.", "Water molecules become magnetic when warm.", "Heat travels downward by radiation.", "Glass walls push water in circles."],
+"correct": 0
+},
+{
+"q": "What type of electromagnetic wave is primarily responsible for thermal radiation (infrared radiation)?",
+"a": ["Ultraviolet waves", "Infrared waves", "Gamma rays", "X-rays"],
+"correct": 1
+},
+{
+"q": "Which type of surface is the best absorber and best emitter of infrared thermal radiation?",
+"a": ["Shiny silver and polished surfaces", "Transparent glass", "Dull, matt black surfaces", "White painted surfaces"],
+"correct": 2
+},
+{
+"q": "Why are solar water heaters painted with a matt black coating on their absorbing panels?",
+"a": ["To make them invisible", "To prevent thermal conduction", "To reflect sunlight away", "To maximize the absorption of incident infrared thermal radiation from the Sun"],
+"correct": 3
+},
+{
+"q": "How does a vacuum flask (Thermos flask) minimize heat transfer by conduction?",
+"a": ["By using a double-walled glass container with a vacuum between the walls, since conduction requires a medium of particles to travel through", "By using thick copper walls", "By filling the gap with dense water", "By painting the inside black"],
+"correct": 0
+},
+{
+"q": "How does a vacuum flask minimize heat transfer by convection?",
+"a": ["By opening the lid constantly", "By eliminating gas particles in the vacuum gap, preventing fluid bulk movement and convection currents", "By using a metal fan", "By adding ice cubes inside"],
+"correct": 1
+},
+{
+"q": "How does a vacuum flask minimize heat transfer by radiation?",
+"a": ["By using a thick rubber stopper", "By absorbing all rays", "By silvering the internal glass surfaces to reflect infrared radiation back toward the contents", "By generating an electric field"],
+"correct": 2
+},
+{
+"q": "Why do double-glazed windows provide better thermal insulation for houses than single-pane glass windows?",
+"a": ["They let more light enter.", "They are thicker and heavier.", "They are magnetically shielded.", "They trap a layer of dry air or gas between two glass panes, significantly reducing thermal conduction and convection heat loss."],
+"correct": 3
+},
+{
+"q": "In a domestic hot water system, why is the heating element or boiler usually placed at the bottom of the water tank?",
+"a": ["To set up a convection current that heats the entire volume of water efficiently from bottom to top", "To prevent electrical shocks", "To increase water pressure", "To cool the water down"],
+"correct": 0
+},
+{
+"q": "Why do land breezes occur near coastal areas during nighttime?",
+"a": ["The land retains heat longer than the sea.", "The sea stays warmer than the land during the night, causing warm air above the sea to rise and cooler air from the land to blow out toward the sea.", "Sunlight heats the sand at night.", "Wind travels from high altitude to low altitude."],
+"correct": 1
+},
+{
+"q": "Which of the following materials is commonly used in roof loft insulation to trap air and reduce heat loss from a building?",
+"a": ["Solid copper sheets", "Polished aluminum foil", "Fiberglass or mineral wool batting", "Dense concrete slabs"],
+"correct": 2
+},
+{
+"q": "How does wearing layers of woolen clothing keep a person warm in cold weather?",
+"a": ["Wool generates chemical heat continuously.", "Wool conducts heat rapidly away from the body.", "Wool reflects infrared light.", "Wool traps pockets of trapped air, which is a poor thermal conductor, preventing rapid heat loss from the body."],
+"correct": 3
+},
+{
+"q": "If you touch a piece of metal and a piece of wood in a room that is at 20 degrees Celsius, why does the metal feel much colder to the touch than the wood?",
+"a": ["Metal is a good thermal conductor and rapidly conducts heat away from your warm fingers, whereas wood is a poor conductor (insulator).", "Metal is at a lower temperature than wood.", "Wood generates internal heat.", "Metal absorbs sweat."],
+"correct": 0
+},
+{
+"q": "Why are cavity walls in modern houses often filled with foam insulation or mineral wool?",
+"a": ["To make walls structurally rigid", "To trap air pockets in tiny cavities, preventing convection currents and reducing thermal conduction through the wall", "To stop sound waves from entering", "To prevent water pipes from freezing outside"],
+"correct": 1
+},
+{
+"q": "Unlike conduction and convection, how does thermal radiation travel through space?",
+"a": ["By particle vibration", "By fluid flow", "As electromagnetic waves that do not require any medium or particles", "By sound waves"],
+"correct": 2
+},
+{
+"q": "Why do firefighters wear reflective silver-coated suits when approaching intense fires?",
+"a": ["To look futuristic", "To increase thermal conduction", "To conduct electricity safely", "To reflect radiant heat away and protect them from severe thermal radiation burns"],
+"correct": 3
+},
+{
+"q": "Why are saucepan bases often made of thick copper or aluminum, while their handles are made of plastic or wood?",
+"a": ["Metals conduct heat rapidly to the food inside, while plastic handles are poor conductors so they stay cool enough to touch safely without burns.", "Plastic is cheaper than metal.", "Copper reflects heat away from food.", "Wood conducts heat faster than metal."],
+"correct": 0
+},
+{
+"q": "What happens to the rate of thermal radiation emitted by an object when its temperature is increased?",
+"a": ["Emission rate decreases to zero.", "Emission rate increases significantly, and the emitted wavelength spectrum shifts to shorter wavelengths.", "Emission rate remains strictly constant.", "The object turns into a liquid."],
+"correct": 1
+},
+{
+"q": "Why do penguins huddling together in freezing Antarctic conditions survive severe cold?",
+"a": ["They share food.", "They generate nuclear energy.", "They minimize their exposed surface area to volume ratio, reducing overall heat loss by radiation and convection.", "They absorb sunlight."],
+"correct": 2
+},
+{
+"q": "What is the main reason why chimneys are built tall above houses with open fireplaces?",
+"a": ["To store smoke inside", "To look decorative", "To block wind from entering the room", "To establish a strong upward convection current of hot combustion gases, drawing fresh air into the fire"],
+"correct": 3
+},
+{
+"q": "Which of the following surfaces is the worst emitter of infrared radiation?",
+"a": ["Polished silver or shiny chrome surface", "Matt black painted surface", "Charcoal briquette", "Red brick wall"],
+"correct": 0
+},
+{
+"q": "How does heat reach the Earth from the Sun across the vacuum of space?",
+"a": ["By conduction through space dust", "By infrared radiation traveling as electromagnetic waves", "By convection currents in the upper atmosphere", "By sound waves"],
+"correct": 1
+},
+{
+"q": "Why are domestic radiators usually placed underneath windows in living rooms?",
+"a": ["To melt window glass", "To block outside views", "To set up a vertical convection current that warms cold air descending from the window, circulating heat evenly around the room", "To dry wet window panes"],
+"correct": 2
+},
+{
+"q": "Why are car engines often surrounded by cooling fins made of metal?",
+"a": ["To make the engine heavier", "To store fuel", "To dampen engine noise", "To increase the surface area of metal, maximizing heat dissipation by conduction, convection, and radiation to prevent overheating"],
+"correct": 3
+},
+{
+"q": "Which state of matter cannot transfer thermal energy via convection currents, and why?",
+"a": ["Solids, because their particles are held in fixed positions and cannot undergo bulk movement", "Gases, because they have no mass", "Liquids, because they have zero thermal energy", "Plasma, because it is too hot"],
+"correct": 0
+},
+{
+"q": "What is the purpose of painting domestic water storage tanks in a loft with bright white or shiny reflective paint?",
+"a": ["To absorb solar heat", "To minimize heat absorption from the surroundings by radiation", "To prevent rust formation", "To make them easier to see in the dark"],
+"correct": 1
+},
+{
+"q": "A sealed metal container of hot water cools down faster when its outer surface is painted matt black compared to when it is polished silver. Why?",
+"a": ["Black paint makes the water colder inside.", "Silver paint absorbs heat from the air.", "Matt black surfaces are much better emitters of infrared thermal radiation.", "Black paint increases the mass of the container."],
+"correct": 2
+},
+{
+"q": "Why do double-glazed window manufacturers sometimes evacuate the air completely between the two glass panes or fill the gap with argon gas?",
+"a": ["To inflate the window like a balloon", "To increase glass transparency", "To make the windows magnetic", "To eliminate air convection currents and reduce thermal conduction further than standard air"],
+"correct": 3
+},
+{
+"q": "What is the primary method of heat transfer through a concrete house floor resting directly on the ground?",
+"a": ["Conduction", "Convection", "Radiation", "Evaporation"],
+"correct": 0
+},
+{
+"q": "Why do tropical houses often have white or light-colored exterior walls and roofs?",
+"a": ["To absorb heat during the night", "To reflect incident solar radiation and keep the interior cooler", "To attract tourists", "To increase thermal conduction"],
+"correct": 1
+},
+{
+"q": "How does a ceiling fan cool a room down by circulating air?",
+"a": ["By refrigerating the air electrically", "By generating a vacuum", "By increasing air speed across human skin, which enhances sweat evaporation and convective cooling", "By removing moisture from walls"],
+"correct": 2
+},
+{
+"q": "Which of the following materials has the lowest thermal conductivity?",
+"a": ["Copper", "Iron", "Glass", "Trapped air"],
+"correct": 3
+},
+{
+"q": "When boiling soup in a metal pot, heat travels through the metal base primarily by what process?",
+"a": ["Conduction", "Convection", "Radiation", "Expansion"],
+"correct": 0
+},
+{
+"q": "Why are freezer compartments in domestic refrigerators positioned at the top of the fridge cabinet rather than the bottom?",
+"a": ["To make food easier to reach", "Cold air is denser than warm air, so it sinks from the top, setting up a convection current that cools the entire refrigerator cabinet efficiently", "To prevent electrical shorts", "To save manufacturing costs"],
+"correct": 1
+},
+{
+"q": "Which form of thermal energy transfer requires physical contact between objects of different temperatures?",
+"a": ["Radiation", "Convection", "Conduction", "Induction"],
+"correct": 2
+},
+{
+"q": "Why does an Eskimo igloo made of compressed snow blocks provide effective thermal insulation against freezing external arctic winds?",
+"a": ["Snow is made of solid ice crystals which conduct heat very well.", "Snow blocks are heated by electricity.", "Snow acts as a greenhouse.", "Packed snow contains numerous tiny trapped air pockets, making it an excellent thermal insulator that retains body heat."],
+"correct": 3
+}
+]
+}

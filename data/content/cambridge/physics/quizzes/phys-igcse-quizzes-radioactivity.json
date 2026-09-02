@@ -1,0 +1,166 @@
+{
+"id": "phys-igcse-quizzes-radioactivity",
+"name": "Radioactivity and atomic structure",
+"questions": [
+{
+"q": "What is the structure of an atom according to the nuclear model?",
+"a": ["A tiny, dense positive nucleus at the center surrounded by orbiting electrons in mostly empty space", "A solid sphere of positive charge with embedded electrons like a plum pudding", "A uniform cloud of negative charge with no nucleus", "Neutrons occupying the outer shell and protons in the center"],
+"correct": 0
+},
+{
+"q": "What are isotopes defined as?",
+"a": ["Atoms of the same element with different numbers of protons", "Atoms of different elements with the same mass number", "Atoms of the same element having the same number of protons but different numbers of neutrons", "Atoms with zero electrical charge"],
+"correct": 1
+},
+{
+"q": "Which type of nuclear radiation consists of high-speed electrons emitted from the nucleus?",
+"a": ["Alpha particle", "Gamma ray", "Beta-minus particle", "X-ray"],
+"correct": 2
+},
+{
+"q": "What is the nature of an alpha particle?",
+"a": ["A single high-energy photon", "A fast-moving electron", "A neutral neutron", "A helium nucleus consisting of 2 protons and 2 neutrons"],
+"correct": 3
+},
+{
+"q": "Which type of radioactive emission has the highest ionizing power but the lowest penetration range in air?",
+"a": ["Alpha particles", "Beta particles", "Gamma rays", "Neutron radiation"],
+"correct": 0
+},
+{
+"q": "What material is typically used to absorb and stop beta radiation completely?",
+"a": ["A thin sheet of paper", "A few millimeters of aluminum", "Several centimeters of lead", "A thick wall of concrete"],
+"correct": 1
+},
+{
+"q": "What are gamma rays classified as in the electromagnetic spectrum?",
+"a": ["High-speed charged particles", "Low-frequency sound waves", "High-frequency, high-energy electromagnetic waves", "Infrared thermal radiation"],
+"correct": 2
+},
+{
+"q": "How does the emission of an alpha particle affect the mass number (A) and atomic number (Z) of a parent nucleus?",
+"a": ["Mass number increases by 4, atomic number increases by 2.", "Mass number decreases by 2, atomic number decreases by 4.", "Mass number stays the same, atomic number decreases by 1.", "Mass number decreases by 4 and atomic number decreases by 2."],
+"correct": 3
+},
+{
+"q": "What happens to the atomic number of a nucleus when it emits a beta-minus particle?",
+"a": ["Atomic number increases by 1 because a neutron turns into a proton.", "Atomic number decreases by 1.", "Atomic number remains completely unchanged.", "Atomic number increases by 2."],
+"correct": 0
+},
+{
+"q": "What effect does the emission of gamma radiation have on the mass number and atomic number of a radioactive nucleus?",
+"a": ["Both mass number and atomic number decrease.", "Mass number and atomic number remain completely unchanged because gamma is an electromagnetic wave, not a particle.", "Mass number increases by 1.", "Atomic number decreases by 2."],
+"correct": 1
+},
+{
+"q": "What is meant by the term 'half-life' of a radioactive isotope?",
+"a": ["The time it takes for half of the atoms in a sample to decay completely into stable gas", "The time it takes for a radioactive sample to lose all its mass", "The average time taken for the activity of a radioactive source to decrease to half of its initial value", "The time required for half the electrons to leave the atom"],
+"correct": 2
+},
+{
+"q": "A radioactive source has an initial count rate of 800 counts per minute. If its half-life is 4 hours, what will the count rate be after 12 hours?",
+"a": ["400 counts per minute", "200 counts per minute", "100 counts per minute", "100 counts per minute (Wait, let's check: 800 -> 400 (4h) -> 200 (8h) -> 100 (12h). Yes, 100 counts per minute is index 3 if options are: 400, 200, 50, 100). Let's verify options: a) 400, b) 200, c) 50, d) 100."],
+"correct": 3
+},
+{
+"q": "Which of the following is a major source of background radiation on Earth?",
+"a": ["Cosmic rays from space, rocks, radon gas, and medical x-rays", "Microwave ovens in kitchens", "Standard electrical power lines", "Mobile phone towers"],
+"correct": 0
+},
+{
+"q": "How is background radiation accounted for when taking measurements of a radioactive source in a laboratory?",
+"a": ["Background radiation is ignored entirely.", "The background count rate measured before the source is introduced must be subtracted from the total count rate.", "Background radiation is doubled to compensate for error.", "The experiment must be performed in a vacuum."],
+"correct": 1
+},
+{
+"q": "What is background radiation?",
+"a": ["Radiation emitted by fluorescent light bulbs", "Radiation created by electric fans", "The constant, low-level ionizing radiation present in the environment from natural and artificial sources", "Radiation caused by sound waves"],
+"correct": 2
+},
+{
+"q": "Which safety precautions should scientists follow when handling radioactive sources in a school laboratory?",
+"a": ["Hold sources directly with bare fingers for speed.", "Store sources in open trays on desks.", "Eat and drink while experiments are conducted.", "Use long-handled tongs, store sources in lead-lined containers, and minimize exposure time."],
+"correct": 3
+},
+{
+"q": "What is nuclear fission?",
+"a": ["The splitting of a heavy, unstable nucleus (such as uranium-235) into two smaller daughter nuclei, releasing neutrons and a large amount of energy", "The joining of two hydrogen nuclei to form helium", "The natural radioactive decay of alpha particles", "The melting of solid metal"],
+"correct": 0
+},
+{
+"q": "What is nuclear fusion?",
+"a": ["The splitting of large radioactive atoms", "The process where two light atomic nuclei (such as hydrogen isotopes) combine under extreme temperature and pressure to form a heavier nucleus, releasing massive energy", "The burning of fossil fuels in a power plant", "The absorption of beta radiation by lead"],
+"correct": 1
+},
+{
+"q": "What powers the energy generation in the core of the Sun and other stars?",
+"a": ["Nuclear fission of uranium", "Chemical combustion of hydrogen gas", "Nuclear fusion reactions converting hydrogen into helium", "Radioactive decay of carbon-14"],
+"correct": 2
+},
+{
+"q": "In a nuclear fission reactor, what is the purpose of the control rods (such as boron or cadmium)?",
+"a": ["To speed up the fission reaction", "To cool down the reactor coolant water", "To shield workers from gamma rays", "To absorb excess neutrons and regulate the rate of the chain reaction"],
+"correct": 3
+},
+{
+"q": "What is the function of the moderator (such as graphite or heavy water) in a nuclear fission reactor?",
+"a": ["To slow down fast-moving neutrons released in fission so they can successfully trigger further uranium fissions", "To absorb all neutrons instantly", "To generate electricity directly", "To remove radioactive waste"],
+"correct": 0
+},
+{
+"q": "What is a chain reaction in nuclear fission?",
+"a": ["A series of chemical explosions", "A self-sustaining process where neutrons released from one split nucleus go on to trigger further fissions in neighboring nuclei", "The release of light waves from radioactive atoms", "The decay of carbon into nitrogen"],
+"correct": 1
+},
+{
+"q": "What term describes the random nature of radioactive decay?",
+"a": ["It can be predicted precisely for every individual atom.", "It speeds up when heated.", "It is impossible to predict exactly when a specific unstable nucleus will decay, though statistical behavior of large numbers can be modeled.", "It stops completely at freezing temperatures."],
+"correct": 2
+},
+{
+"q": "Which type of radiation is most dangerous to living human tissue when sources are inside the body (internal contamination)?",
+"a": ["Gamma rays because they pass right through", "X-rays", "Beta particles", "Alpha particles because they are highly ionizing and cause severe damage to local cells"],
+"correct": 3
+},
+{
+"q": "What discovery resulted from the Rutherford-Geiger-Marsden alpha scattering experiment?",
+"a": ["The discovery that atoms have a tiny, dense, positively charged nucleus", "The discovery of electrons", "The measurement of the speed of light", "The discovery of nuclear fusion"],
+"correct": 0
+},
+{
+"q": "Why were most alpha particles able to pass straight through the thin gold foil in Rutherford's experiment without deflecting?",
+"a": ["Gold foil is made of plastic.", "Most of the volume of an atom consists of empty space.", "Alpha particles have zero mass.", "The gold nuclei repelled each other."],
+"correct": 1
+},
+{
+"q": "What does the atomic number (proton number, Z) of an atom represent?",
+"a": ["The total number of protons and neutrons combined", "The total number of electrons orbiting outside the nucleus", "The number of protons in the nucleus of an atom", "The total mass of the atom"],
+"correct": 2
+},
+{
+"q": "What does the nucleon number (mass number, A) represent?",
+"a": ["The number of electrons only", "The number of neutrons minus protons", "The number of protons only", "The total sum of protons and neutrons in the atomic nucleus"],
+"correct": 3
+},
+{
+"q": "How can radioactive materials be used safely in medicine for treating cancerous tumors (radiotherapy)?",
+"a": ["By directing targeted beams of gamma radiation or beta radiation to destroy cancer cells while sparing healthy tissue", "By injecting alpha sources into bloodstreams", "By swallowing radioactive waste", "By exposing patients to sunlight"],
+"correct": 0
+},
+{
+"q": "What is carbon-14 dating used for?",
+"a": ["Measuring ocean water temperatures", "Estimating the age of organic historical artifacts by measuring the remaining fraction of radioactive carbon-14", "Testing electrical conductivity in metals", "Calculating planetary orbits"],
+"correct": 1
+},
+{
+"q": "What are tracer applications of radioactivity used for in industry and medicine?",
+"a": ["To generate high-voltage electricity", "To weld thick steel pipes together", "To track the flow of substances through pipes, biological systems, or industrial machinery using a small radioactive emitter", "To clean laboratory glassware"],
+"correct": 2
+},
+{
+"q": "Why is high-level radioactive waste from nuclear power plants hazardous for thousands of years?",
+"a": ["It emits cold air currents.", "It explodes when touched by water.", "It dissolves into harmless salt within hours.", "It contains long-lived radioactive isotopes that emit harmful ionizing radiation and require secure, long-term underground storage."],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"id": "phys-yr9-quizzes-thermal-basic",
+"name": "Thermal energy transfer",
+"questions": [
+{
+"q": "Through which state of matter does thermal conduction primarily occur by means of free electrons and lattice vibrations?",
+"a": ["Solids", "Gases", "A vacuum", "Empty space"],
+"correct": 0
+},
+{
+"q": "What term describes the transfer of thermal energy through fluids (liquids and gases) via upward movement of warmer, less dense regions?",
+"a": ["Conduction", "Convection", "Radiation", "Reflection"],
+"correct": 1
+},
+{
+"q": "How is thermal energy transferred from the Sun to the Earth across the vacuum of space?",
+"a": ["Conduction", "Convection", "Infrared radiation", "Direct physical contact"],
+"correct": 2
+},
+{
+"q": "Why do metals feel colder to the touch than wooden objects at the exact same room temperature?",
+"a": ["Metals are naturally at a lower temperature than wood.", "Metals generate their own coldness.", "Metals absorb sweat.", "Metals are good thermal conductors and rapidly conduct heat away from your hand."],
+"correct": 3
+},
+{
+"q": "What happens to the density of a liquid or gas when it is heated during a convection current?",
+"a": ["Its density decreases, causing it to rise.", "Its density increases, causing it to sink.", "Its density remains completely unchanged.", "Its density drops to absolute zero."],
+"correct": 0
+},
+{
+"q": "Which of the following surfaces is the best absorber of infrared radiation?",
+"a": ["Shiny silver surface", "Dull black surface", "Polished white surface", "Clear glass surface"],
+"correct": 1
+},
+{
+"q": "Which of the following materials is generally considered the best thermal insulator?",
+"a": ["Copper", "Aluminium", "Trapped air", "Iron"],
+"correct": 2
+},
+{
+"q": "Why are cavity walls in houses often filled with foam insulation or fiberglass wool?",
+"a": ["To make the walls stronger against earthquakes", "To increase electrical conductivity", "To add weight to the building structure", "To reduce thermal energy transfer through conduction and convection"],
+"correct": 3
+},
+{
+"q": "What color and texture of surface should an emergency thermal blanket (space blanket) have to reflect radiant heat back to a person?",
+"a": ["Shiny and silver", "Matt black", "Dark blue", "Rough gray"],
+"correct": 0
+},
+{
+"q": "In which direction do convection currents naturally move within a room heated by a radiator?",
+"a": ["Horizontally along the floor only", "Warm air rises near the heater, cools near the ceiling, and sinks down on the opposite side", "Downward toward the foundation", "Randomly in all directions without a pattern"],
+"correct": 1
+},
+{
+"q": "Why do double-glazed windows feature a sealed gap filled with air or argon gas?",
+"a": ["To prevent glass panes from rattling", "To allow heavy rain to pass through", "To minimize thermal energy loss via conduction through the window", "To generate electrical power"],
+"correct": 2
+},
+{
+"q": "Which method of thermal energy transfer requires no medium or particles whatsoever?",
+"a": ["Conduction", "Convection", "Fluid diffusion", "Radiation"],
+"correct": 3
+},
+{
+"q": "What role do free electrons play in thermal conduction through metals?",
+"a": ["They drift through the metal lattice, colliding with ions and transferring kinetic thermal energy quickly.", "They create static electricity charges.", "They block all heat flow.", "They freeze into fixed positions."],
+"correct": 0
+},
+{
+"q": "Which of the following statements about infrared radiation is correct?",
+"a": ["It can only travel through solid iron bars.", "It is a type of electromagnetic wave that travels at the speed of light.", "It only travels downwards.", "It requires air molecules to propagate."],
+"correct": 1
+},
+{
+"q": "Why is the heating element of an electric kettle always placed near the bottom of the water tank?",
+"a": ["To make the kettle look balanced", "To keep the handle cool", "To set up an efficient convection current heating the entire volume of water", "To prevent electrical shorts"],
+"correct": 2
+},
+{
+"q": "Which of these surfaces is the poorest emitter of infrared radiation?",
+"a": ["Dull black metal", "Dark green plastic", "Rough brick wall", "Shiny polished silver"],
+"correct": 3
+},
+{
+"q": "What happens when a hot object is placed in a cooler environment over a long period of time?",
+"a": ["It transfers thermal energy to the surroundings until thermal equilibrium is reached.", "It absorbs coldness from the air.", "Its temperature increases infinitely.", "It stops emitting radiation entirely."],
+"correct": 0
+},
+{
+"q": "Why do cooking pots made of aluminum or copper often have wooden or plastic handles?",
+"a": ["To increase the weight of the pan", "To prevent thermal energy from conducting into the user's hand", "To make the pot boil faster", "To absorb infrared radiation"],
+"correct": 1
+},
+{
+"q": "Which process is primarily responsible for cooling the upper layers of a liquid container when heat is applied from below?",
+"a": ["Radiation", "Conduction", "Convection", "Evaporation alone"],
+"correct": 2
+},
+{
+"q": "How does a vacuum flask (thermos) minimize thermal energy transfer by conduction and convection?",
+"a": ["By using thick copper walls", "By keeping the lid open", "By filling the inner core with boiling water", "By incorporating a double-walled glass or steel vessel with a vacuum between the walls"],
+"correct": 3
+},
+{
+"q": "Which type of energy transfer is heavily dependent on temperature differences between regions?",
+"a": ["Thermal energy transfer", "Magnetic induction", "Gravitational pull", "Mass conservation"],
+"correct": 0
+},
+{
+"q": "If you leave a metal spoon in a hot bowl of soup, the end of the spoon outside the soup becomes hot. What process caused this?",
+"a": ["Convection", "Conduction", "Radiation", "Evaporation"],
+"correct": 1
+},
+{
+"q": "Why do people wear light-colored, loose-fitting clothes in hot sunny deserts?",
+"a": ["To absorb as much heat as possible", "To increase body weight", "Light colors reflect thermal radiation, and loose clothes allow air circulation", "To generate static electricity"],
+"correct": 2
+},
+{
+"q": "What effect does a shiny silver coating on the inside walls of a vacuum flask have?",
+"a": ["It attracts heat inward.", "It stops liquid from spilling.", "It conducts electricity safely.", "It reflects infrared radiation back into or away from the contents, reducing radiant heat transfer."],
+"correct": 3
+},
+{
+"q": "Which state of matter cannot support convection currents because its particles cannot flow?",
+"a": ["Solid", "Liquid", "Gas", "Plasma"],
+"correct": 0
+},
+{
+"q": "Why does land heat up faster than the sea during a hot sunny day?",
+"a": ["Land has a much higher specific heat capacity than water.", "Land has a lower specific heat capacity and is stationary, so radiant heat concentrates on the surface.", "Water reflects all sunlight.", "Air pressure is higher over the sea."],
+"correct": 1
+},
+{
+"q": "What causes sea breezes to blow toward the land during the afternoon?",
+"a": ["Earth's rotation", "High altitude winds", "Warm air over the land rises, and cooler air from the sea moves in to replace it", "Magnetic forces from the ocean floor"],
+"correct": 2
+},
+{
+"q": "Which of these materials would make the best insulation wrap for a hot water pipe?",
+"a": ["Solid copper foil", "Thick steel plating", "Bare iron wire", "Fiberglass or expanded foam lagging"],
+"correct": 3
+},
+{
+"q": "What term describes the state reached when two objects in contact have the same temperature and net heat transfer stops?",
+"a": ["Thermal equilibrium", "Freezing point", "Absolute zero", "Phase transition"],
+"correct": 0
+},
+{
+"q": "Why are radiators placed near the floor in rooms rather than near the ceiling?",
+"a": ["To save wall space", "To heat the air near the floor, which then rises and sets up a convection cycle warming the whole room", "To cool the ceiling down", "To keep electrical wires hidden"],
+"correct": 1
+},
+{
+"q": "Which property of air makes it an excellent thermal insulator when trapped in small pockets?",
+"a": ["Its high density", "Its ability to conduct heat rapidly", "Its poor thermal conductivity when stationary", "Its high concentration of metals"],
+"correct": 2
+},
+{
+"q": "How can you test which surface absorbs infrared radiation fastest in a laboratory setting?",
+"a": ["Use a magnetic balance", "Measure electrical resistance", "Weigh the plates on a kitchen scale", "Place identical containers painted black and silver near a radiant heater and measure temperature rises"],
+"correct": 3
+},
+{
+"q": "What happens to the rate of thermal energy transfer through a wall if its thickness is doubled, assuming material properties remain constant?",
+"a": ["The rate of heat transfer decreases significantly.", "The rate of heat transfer doubles.", "Heat transfer stops entirely.", "Heat transfer increases exponentially."],
+"correct": 0
+},
+{
+"q": "Which of the following is a practical application of convection in everyday life?",
+"a": ["A microwave oven cooking food", "A domestic hot water tank system and atmospheric weather systems", "A magnetic compass pointing north", "A bicycle rolling down a hill"],
+"correct": 1
+},
+{
+"q": "Why do birds fluff up their feathers during cold winter weather?",
+"a": ["To make themselves look larger to predators", "To shed old feathers", "To trap pockets of air between feathers, reducing heat loss by conduction", "To absorb sunlight directly into their blood"],
+"correct": 2
+},
+{
+"q": "Which phrase correctly describes how infrared radiation travels?",
+"a": ["As mechanical sound waves through water", "As particle vibrations through solids", "As direct electrical currents", "As electromagnetic waves through transparent media or a vacuum"],
+"correct": 3
+},
+{
+"q": "Why do freezer compartments in domestic refrigerators usually placed at the very top?",
+"a": ["Cold air is denser and sinks, creating a convection current that cools the entire fridge interior", "It makes the fridge door easier to open", "It prevents ice cream from melting on the floor", "It keeps the motor quiet"],
+"correct": 0
+},
+{
+"q": "Which material characteristic ensures that a cooking pan distributes heat evenly across its base?",
+"a": ["High thermal conductivity", "High electrical resistance", "Poor heat capacity", "Dark coloration"],
+"correct": 1
+},
+{
+"q": "What role does the cork stopper play in a traditional vacuum flask?",
+"a": ["It lets steam escape safely.", "It generates heat.", "It acts as an insulator to prevent heat loss or gain through the top by conduction and convection.", "It creates a magnetic seal."],
+"correct": 2
+},
+{
+"q": "If you hold your hand beside a hot horizontal grill element, how does most of the thermal energy reach your hand?",
+"a": ["By conduction through the air", "By convection currents moving downward", "By physical contact", "By infrared radiation"],
+"correct": 3
+}
+]
+}

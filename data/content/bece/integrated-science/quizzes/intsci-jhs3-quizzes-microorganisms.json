@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-microorganisms",
+"name": "Microorganisms",
+"questions": [
+{
+"q": "What general term is used to describe living organisms that are too small to be seen clearly with the unaided human eye?",
+"a": ["Microorganisms (Microbes)", "Macronutrients", "Vertebrates", "Multicellular flora"],
+"correct": 0
+},
+{
+"q": "Which of the following groups of microorganisms is considered non-living outside a host cell because they lack cellular machinery?",
+"a": ["Bacteria", "Viruses", "Fungi", "Protozoa"],
+"correct": 1
+},
+{
+"q": "Which microscopic fungus is widely used in baking bread and brewing beverages due to its ability to ferment sugars?",
+"a": ["Penicillium", "Mucor", "Yeast", "Amoeba"],
+"correct": 2
+},
+{
+"q": "What type of microorganisms includes single-celled organisms like Paramecium and Plasmodium?",
+"a": ["Viruses", "Bacteriophages", "Multicellular algae", "Protozoa"],
+"correct": 3
+},
+{
+"q": "Which bacterial shape is spherical or ball-shaped?",
+"a": ["Coccus", "Bacillus", "Spirillum", "Vibrio"],
+"correct": 0
+},
+{
+"q": "What disease is caused by the Plasmodium parasite, which is transmitted through the bite of an infected female Anopheles mosquito?",
+"a": ["Tuberculosis", "Malaria", "Cholera", "Typhoid fever"],
+"correct": 1
+},
+{
+"q": "Which beneficial microorganisms live in the root nodules of leguminous plants and fix atmospheric nitrogen into nitrates?",
+"a": ["Pathogenic fungi", "Nitrosomonas algae", "Rhizobium bacteria", "Cyanide viruses"],
+"correct": 2
+},
+{
+"q": "What is the primary role of saprophytic microorganisms in an ecosystem?",
+"a": ["Causing fatal infectious diseases in animals", "Producing primary energy via photosynthesis", "Manufacturing synthetic plastics", "Decomposing dead organic matter and recycling nutrients"],
+"correct": 3
+},
+{
+"q": "Which of the following viral infections affects the human immune system, progressively weakening the body's defense against diseases?",
+"a": ["HIV / AIDS", "Tetanus", "Cholera", "Ringworm"],
+"correct": 0
+},
+{
+"q": "What substance, originally discovered by Alexander Fleming from a mold, is used to treat bacterial infections?",
+"a": ["Insulin", "Penicillin", "Adrenaline", "Paracetamol"],
+"correct": 1
+},
+{
+"q": "How do most bacteria reproduce asexually under favorable environmental conditions?",
+"a": ["Spore formation", "Budding", "Binary fission", "Sexual conjugation only"],
+"correct": 2
+},
+{
+"q": "Which of the following food preservation methods relies on low temperatures to slow down the growth and reproduction of microorganisms?",
+"a": ["Salting", "Canning", "Sun-drying", "Refrigeration and freezing"],
+"correct": 3
+},
+{
+"q": "What term is used to describe harmful microorganisms that cause diseases in humans, animals, and plants?",
+"a": ["Pathogens", "Probiotics", "Symbionts", "Antibodies"],
+"correct": 0
+},
+{
+"q": "Which bacterial water-borne disease is characterized by severe watery diarrhea, rapid dehydration, and vomiting?",
+"a": ["Common cold", "Cholera", "Influenza", "Chickenpox"],
+"correct": 1
+},
+{
+"q": "What is the process by which milk is heated to a specific high temperature for a short time to kill harmful microbes without altering its taste called?",
+"a": ["Fermentation", "Distillation", "Pasteurization", "Hydrogenation"],
+"correct": 2
+},
+{
+"q": "Which of the following microorganisms is used in the commercial production of yoghurt and cheese from milk?",
+"a": ["Rhizobium", "Escherichia coli", "Plasmodium", "Lactobacillus bacteria"],
+"correct": 3
+},
+{
+"q": "What protective structure do some bacteria form under unfavorable environmental conditions to survive extreme heat or dryness?",
+"a": ["Endospore", "Capsule seed", "Flagellum", "Nucleoid wall"],
+"correct": 0
+},
+{
+"q": "Which fungal infection affects human skin, typically forming circular, itchy, red patches?",
+"a": ["Tuberculosis", "Ringworm", "Poliomyelitis", "Hepatitis"],
+"correct": 1
+},
+{
+"q": "What gas is produced by yeast during the baking process that causes dough to rise and become spongy?",
+"a": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "Which of the following practices helps prevent the spread of airborne microbial infections like tuberculosis?",
+"a": ["Boiling all drinking water", "Washing raw vegetables with salt water", "Avoiding crowded rooms and covering the mouth when coughing", "Disinfecting swimming pools with chlorine"],
+"correct": 3
+},
+{
+"q": "What class of drugs is completely ineffective against viral infections such as the common cold or flu?",
+"a": ["Antibiotics", "Antivirals", "Analgesics", "Antipyretics"],
+"correct": 0
+},
+{
+"q": "Which microorganism is rod-shaped and commonly studied in school laboratories?",
+"a": ["Yeast fungus", "Bacillus bacteria", "Amoeba protozoan", "Tobacco mosaic virus"],
+"correct": 1
+},
+{
+"q": "What is the primary mode of transmission for typhoid fever?",
+"a": ["Inhalation of cough droplets", "Bite of infected mosquitoes", "Ingestion of food or water contaminated with Salmonella typhi", "Direct skin contact with soil"],
+"correct": 2
+},
+{
+"q": "Which of the following organisms represents a microscopic multi-celled or single-celled eukaryotic group that includes mushrooms, molds, and yeasts?",
+"a": ["Bacteria", "Viruses", "Protozoans", "Fungi"],
+"correct": 3
+},
+{
+"q": "What term refers to the introduction of a weakened or killed pathogen into the body to stimulate immunity against a specific disease?",
+"a": ["Vaccination (Immunization)", "Pasteurization", "Quarantine", "Dialysis"],
+"correct": 0
+},
+{
+"q": "Which infectious disease affecting the lungs is caused by the bacterium Mycobacterium tuberculosis?",
+"a": ["Malaria", "Tuberculosis", "Cholera", "Tetanus"],
+"correct": 1
+},
+{
+"q": "What is the main function of white blood cells when pathogenic microorganisms invade the human body?",
+"a": ["Transporting oxygen to tissues", "Digesting food nutrients in the stomach", "Destroying pathogens and producing antibodies", "Regulating body temperature"],
+"correct": 2
+},
+{
+"q": "Which of the following preserving agents works by removing moisture from food, thereby preventing microbial growth?",
+"a": ["Adding pure water", "Keeping food in warm, dark cupboards", "Sealing food in breathable cloth bags", "Adding high concentrations of sugar or salt"],
+"correct": 3
+},
+{
+"q": "What are microscopic, single-celled animal-like organisms that often thrive in aquatic environments called?",
+"a": ["Protozoa", "Viruses", "Algae", "Bacteriophages"],
+"correct": 0
+},
+{
+"q": "Which viral disease affects the nervous system and can cause paralysis, though largely controlled through immunization?",
+"a": ["Anthrax", "Poliomyelitis (Polio)", "Ringworm", "Gonorrhea"],
+"correct": 1
+},
+{
+"q": "Why are refrigeration and freezing effective in food safety management?",
+"a": ["They instantly kill all existing bacteria", "They turn all water into steam", "They stop or drastically slow down microbial reproduction and enzyme activity", "They introduce sterile gases into the food"],
+"correct": 2
+},
+{
+"q": "Which of the following is a beneficial application of microorganisms in agriculture?",
+"a": ["Causing crop rust diseases", "Wilting plant leaves", "Destroying stored grains", "Decomposition of organic manure to enrich soil fertility"],
+"correct": 3
+},
+{
+"q": "What name is given to the study of microorganisms?",
+"a": ["Microbiology", "Botany", "Zoology", "Genetics"],
+"correct": 0
+},
+{
+"q": "Which of the following infectious diseases is transmitted primarily through sexual contact?",
+"a": ["Tuberculosis", "Syphilis or Gonorrhea", "Cholera", "Tetanus"],
+"correct": 1
+},
+{
+"q": "What structural feature do bacteria possess that plant and animal cells lack in terms of nuclear organization?",
+"a": ["A distinct nuclear membrane", "Multiple chromosomes in a nucleolus", "A naked circular DNA strand located in the cytoplasm (no true nucleus)", "Complex nuclear pores"],
+"correct": 2
+},
+{
+"q": "Which of the following hygiene practices is most effective in preventing food poisoning caused by harmful bacteria?",
+"a": ["Eating food immediately after it falls on the floor", "Washing hands thoroughly with soap before handling and eating food", "Storing raw meat next to fresh fruits in an open basket", "Using unwashed utensils"],
+"correct": 3
+},
+{
+"q": "What term describes a localized or widespread outbreak of an infectious disease among a large population at a particular time?",
+"a": ["Epidemic", "Mutation", "Symbiosis", "Fermentation"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of a fungal disease that affects staple crops like maize and wheat?",
+"a": ["Bacterial blight", "Rust or smut fungal infection", "Viral mosaic", "Protozoan wilt"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of adding chemical preservatives like sodium benzoate to canned foods?",
+"a": ["To enhance the sweet flavor", "To add artificial color", "To inhibit the growth of spoilage microorganisms and extend shelf life", "To remove all vitamins"],
+"correct": 2
+},
+{
+"q": "Which type of microorganism requires a living host cell to replicate and synthesize its proteins?",
+"a": ["Saprophytic fungus", "Nitrogen-fixing bacterium", "Free-living amoeba", "Virus"],
+"correct": 3
+}
+]
+}

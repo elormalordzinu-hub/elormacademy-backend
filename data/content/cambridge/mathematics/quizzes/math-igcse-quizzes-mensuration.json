@@ -1,0 +1,186 @@
+{
+  "id": "math-igcse-quizzes-mensuration",
+  "name": "Mensuration surface area and volume of complex solids",
+  "questions": [
+    {
+      "q": "What is the formula for the volume of a sphere with radius r?",
+      "a": ["(4/3)πr³", "4πr²", "(1/3)πr²h", "πr²h"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the curved surface area of a cylinder with radius 3 cm and height 10 cm (leave in terms of π).",
+      "a": ["30π cm²", "60π cm²", "90π cm²", "120π cm²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the volume of a cone with radius 6 cm and vertical height 9 cm?",
+      "a": ["54π cm³", "108π cm³", "108π cm³", "324π cm³"],
+      "correct": 2
+    },
+    {
+      "q": "A solid hemisphere has a radius of 6 cm. What is its total surface area (including the flat circular base)?",
+      "a": ["36π cm²", "72π cm²", "108π cm²", "108π cm²"],
+      "correct": 3
+    },
+    {
+      "q": "Find the volume of a pyramid with a square base of side length 4 cm and a vertical height of 9 cm.",
+      "a": ["48 cm³", "144 cm³", "36 cm³", "96 cm³"],
+      "correct": 0
+    },
+    {
+      "q": "A cylindrical metal pipe has an external radius of 5 cm, an internal radius of 4 cm, and a length of 100 cm. What is the volume of the metal used?",
+      "a": ["900π cm³", "900π cm³", "1000π cm³", "1200π cm³"],
+      "correct": 1
+    },
+    {
+      "q": "What is the total surface area of a solid sphere of radius 5 cm?",
+      "a": ["25π cm²", "50π cm²", "100π cm²", "500/3π cm²"],
+      "correct": 2
+    },
+    {
+      "q": "A compound solid consists of a cylinder surmounted by a cone of the same radius. If the cylinder radius is 3 cm, cylinder height is 8 cm, and cone slant height is 5 cm, what is the total exterior surface area (excluding the bottom base)?",
+      "a": ["48π cm²", "57π cm²", "66π cm²", "69π cm²"],
+      "correct": 3
+    },
+    {
+      "q": "What is the volume of a frustum of a cone formed by cutting off the top cone where the large radius is 6 cm, small radius is 2 cm, and height of the frustum is 6 cm?",
+      "a": ["152π cm³", "228π cm³", "304π cm³", "76π cm³"],
+      "correct": 0
+    },
+    {
+      "q": "A solid block of iron in the shape of a rectangular cuboid measures 10 cm by 5 cm by 2 cm. It is melted down and recast into identical small cubes of edge length 1 cm. How many cubes can be made?",
+      "a": ["50", "100", "200", "20"],
+      "correct": 1
+    },
+    {
+      "q": "What is the curved surface area of a cone with base radius 4 cm and slant height 7 cm?",
+      "a": ["14π cm²", "28π cm²", "28π cm²", "56π cm²"],
+      "correct": 2
+    },
+    {
+      "q": "A capsule is formed by a cylinder of length 10 cm and radius 3 cm with a hemisphere at each end. What is the total volume of the capsule?",
+      "a": ["90π cm³", "108π cm³", "126π cm³", "126π cm³"],
+      "correct": 3
+    },
+    {
+      "q": "What is the formula for the total surface area of a closed cylinder of radius r and height h?",
+      "a": ["2πrh + 2πr²", "πrh + πr²", "2πrh", "4πr²"],
+      "correct": 0
+    },
+    {
+      "q": "A rectangular swimming pool is 12 m long, 6 m wide, and has a uniform depth of 2 meters. How many liters of water does it hold? (1 cubic meter = 1000 liters)",
+      "a": ["72,000 liters", "144,000 liters", "288,000 liters", "1,440,000 liters"],
+      "correct": 1
+    },
+    {
+      "q": "If the volume of a sphere is 288π cm³, what is the radius of the sphere?",
+      "a": ["4 cm", "5 cm", "6 cm", "8 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A solid wooden block has a hemispherical depression carved into its top face. If the block is a cube of side 10 cm and the hemisphere has radius 4 cm, what is the total surface area of the resulting solid?",
+      "a": ["600π cm²", "600 - 16π cm²", "600 - 16π cm²", "600 - 16π cm²"],
+      "correct": 3
+    },
+    {
+      "q": "What is the volume of a hemisphere with radius 6 cm?",
+      "a": ["144π cm³", "288π cm³", "72π cm³", "216π cm³"],
+      "correct": 0
+    },
+    {
+      "q": "A right pyramid has a square base of side 8 cm and a slant height of 5 cm. What is the total surface area of the pyramid?",
+      "a": ["64 cm²", "144 cm²", "128 cm²", "192 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "If a solid cylinder has a diameter of 10 cm and a height of 10 cm, what is its total surface area?",
+      "a": ["100π cm²", "150π cm²", "150π cm²", "200π cm²"],
+      "correct": 2
+    },
+    {
+      "q": "A hollow spherical shell has an outer radius of 6 cm and an inner radius of 3 cm. What is the volume of the material composing the shell?",
+      "a": ["108π cm³", "144π cm³", "216π cm³", "252π cm³"],
+      "correct": 3
+    },
+    {
+      "q": "What is the height of a cylinder that has a radius of 4 cm and a volume of 160π cm³?",
+      "a": ["10 cm", "20 cm", "5 cm", "8 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A solid is made by joining a cylinder and a hemisphere along their identical circular bases of radius 3 cm. If the total height of the solid is 12 cm, what is the height of the cylindrical part?",
+      "a": ["6 cm", "9 cm", "12 cm", "15 cm"],
+      "correct": 1
+    },
+    {
+      "q": "What is the volume of a cone whose base diameter is 10 cm and vertical height is 12 cm?",
+      "a": ["100π cm³", "200π cm³", "100π cm³", "400π cm³"],
+      "correct": 2
+    },
+    {
+      "q": "A triangular prism has a cross-section that is a right-angled triangle with sides 3 cm, 4 cm, and 5 cm. If the length of the prism is 10 cm, what is its total surface area?",
+      "a": ["120 cm²", "132 cm²", "144 cm²", "132 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "A solid metal sphere of radius 3 cm is melted down and recast into a cylinder of radius 3 cm. What is the height of the cylinder?",
+      "a": ["4 cm", "3 cm", "2 cm", "1 cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the surface area of a hemisphere with radius 5 cm (including the flat base)?",
+      "a": ["50π cm²", "75π cm²", "100π cm²", "125π cm²"],
+      "correct": 1
+    },
+    {
+      "q": "A water tank is in the shape of a cylinder with a hemispherical top. The radius of the cylinder is 2 meters, and the height of the cylindrical part is 5 meters. What is the total volume of the tank?",
+      "a": ["20π m³", "22π m³", "68/3π m³", "28π m³"],
+      "correct": 2
+    },
+    {
+      "q": "If the surface area of a sphere is 144π cm², what is its volume?",
+      "a": ["144π cm³", "216π cm³", "252π cm³", "288π cm³"],
+      "correct": 3
+    },
+    {
+      "q": "A solid cone of radius 6 cm and height 8 cm has a smaller cone of radius 3 cm and height 4 cm removed from its top. What is the volume of the remaining frustum?",
+      "a": ["96π cm³", "84π cm³", "72π cm³", "60π cm³"],
+      "correct": 0
+    },
+    {
+      "q": "What is the capacity in liters of a cylindrical drum with radius 50 cm and height 1 meter? (1 liter = 1000 cm³, π = 3.14)",
+      "a": ["31.4 liters", "785 liters", "1570 liters", "3140 liters"],
+      "correct": 1
+    },
+    {
+      "q": "A solid cuboid measures 8 cm by 6 cm by 5 cm. What is the length of the longest diagonal inside the cuboid?",
+      "a": ["10 cm", "12 cm", "5√5 cm", "14 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the total surface area of an open-topped cylindrical bucket with radius 15 cm and height 40 cm?",
+      "a": ["1200π cm²", "1350π cm²", "1425π cm²", "1425π cm²"],
+      "correct": 3
+    },
+    {
+      "q": "If a metal cube of side length 6 cm is dropped into a full cylindrical glass of water of radius 4 cm, what height of water overflows?",
+      "a": ["1.07 cm", "2.15 cm", "3.18 cm", "4.25 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A regular tetrahedron has edge length 4 cm. What is the sum of the lengths of all its edges?",
+      "a": ["16 cm", "24 cm", "32 cm", "48 cm"],
+      "correct": 1
+    },
+    {
+      "q": "What is the volume of a sphere whose surface area is 36π cm²?",
+      "a": ["18π cm³", "24π cm³", "36π cm³", "48π cm³"],
+      "correct": 2
+    },
+    {
+      "q": "A solid compound shape consists of a cylinder of radius 4 cm and height 10 cm with a conical hole of radius 4 cm and height 6 cm drilled into the top. What is the total volume of the solid?",
+      "a": ["120π cm³", "140π cm³", "150π cm³", "128π cm³"],
+      "correct": 3
+    }
+  ]
+}

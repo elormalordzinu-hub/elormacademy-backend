@@ -1,0 +1,146 @@
+{
+"id": "chem-alevel-quizzes-lattice",
+"name": "Lattice energy and Born-Haber cycles",
+"questions": [
+{
+"q": "What is defined as the standard lattice enthalpy of formation (lattice energy) of an ionic crystal?",
+"a": ["The enthalpy change when one mole of a solid ionic compound is formed from its constituent gaseous ions under standard conditions", "The energy required to melt one mole of a solid salt", "The enthalpy change when a salt dissolves in water to saturation", "The energy released when an element burns in oxygen"],
+"correct": 0
+},
+{
+"q": "Which of the following enthalpy changes in a Born-Haber cycle is always endothermic (absorbs energy)?",
+"a": ["First electron affinity of halogens", "First ionization energy of a metal", "Lattice formation enthalpy", "Enthalpy of neutralization"],
+"correct": 1
+},
+{
+"q": "According to electrostatic principles, what effect do smaller ionic radii and higher ionic charges have on the magnitude of lattice energy?",
+"a": ["Lattice energy becomes smaller in magnitude", "Lattice energy remains completely unaffected", "Lattice energy becomes larger in magnitude (more exothermic) due to stronger electrostatic attraction", "Lattice energy becomes positive"],
+"correct": 2
+},
+{
+"q": "What is the standard enthalpy change of atomization defined as?",
+"a": ["The energy released when atoms condense into a liquid", "The energy required to break covalent bonds in a polymer", "The enthalpy change when gaseous atoms combine to form a solid lattice", "The enthalpy change when one mole of gaseous atoms is produced from an element in its standard state under standard conditions"],
+"correct": 3
+},
+{
+"q": "What is the first electron affinity of chlorine defined as?",
+"a": ["The enthalpy change when one mole of gaseous chloride ions is formed by adding one mole of electrons to one mole of gaseous chlorine atoms", "The energy required to remove an electron from a chlorine atom", "The enthalpy change when chlorine gas dissolves in water", "The bond dissociation energy of Cl<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "Why is the second electron affinity of oxygen (O<sup>-</sup> + e<sup>-</sup> -> O<sup>2-</sup>) an endothermic process?",
+"a": ["Oxygen atoms are radioactive", "Energy must be supplied to overcome the strong electrostatic repulsion between the incoming electron and the already negatively charged O<sup>-</sup> ion", "Electrons have positive mass", "The nucleus repels all electrons"],
+"correct": 1
+},
+{
+"q": "What law is applied when constructing a Born-Haber cycle to calculate an unknown enthalpy change such as lattice energy?",
+"a": ["Faraday's Law", "Ideal Gas Law", "Hess's Law", "Le Chatelier's Principle"],
+"correct": 2
+},
+{
+"q": "What is the primary reason why theoretical lattice energies calculated using pure electrostatic point-charge models sometimes differ from experimental Born-Haber cycle values?",
+"a": ["Experimental values ignore temperature completely", "Theoretical models assume atoms are square-shaped", "Experimental values contain radioactive errors", "Compounds possess significant covalent character due to polarization of anions by cations (Fajans' rules)"],
+"correct": 3
+},
+{
+"q": "What factor according to Fajans' rules increases the degree of covalent character in an ionic compound?",
+"a": ["High positive charge and small size of the cation, combined with a large polarizable anion", "Low ionic charge and very large cation radius", "Spherical unpolarizable anions only", "Complete absence of electrons"],
+"correct": 0
+},
+{
+"q": "How is the enthalpy of solution (Delta H_sol) related to lattice enthalpy (Delta H_lattice) and hydration enthalpies (Delta H_hyd) of the constituent ions?",
+"a": ["Delta H_sol equals lattice enthalpy multiplied by hydration enthalpy", "Delta H_sol equals the sum of hydration enthalpies minus the lattice enthalpy", "Delta H_sol equals lattice enthalpy plus hydration enthalpy", "Delta H_sol equals zero for all soluble salts"],
+"correct": 1
+},
+{
+"q": "What is indicated if the calculated enthalpy of solution for an ionic salt in water is strongly positive (endothermic)?",
+"a": ["The salt will dissolve instantly with violent heat release", "The salt is completely insoluble under all conditions", "The salt is likely to be sparingly soluble or insoluble in water at room temperature because hydration energy is insufficient to overcome the high lattice energy", "The salt undergoes thermal decomposition"],
+"correct": 2
+},
+{
+"q": "What is the standard enthalpy of atomization of diatomic chlorine gas (Cl<sub>2</sub>) related to?",
+"a": ["Twice the bond enthalpy", "The electron affinity of chlorine", "The lattice energy of sodium chloride", "One-half of the Cl-Cl bond dissociation enthalpy"],
+"correct": 3
+},
+{
+"q": "Which of the following compounds is expected to have the highest (most exothermic) lattice energy based on ionic charges and radii?",
+"a": ["Magnesium oxide (MgO)", "Sodium chloride (NaCl)", "Potassium chloride (KCl)", "Sodium iodide (NaI)"],
+"correct": 0
+},
+{
+"q": "What is the hydration enthalpy of an ion defined as?",
+"a": ["The energy required to dehydrate a salt crystal", "The enthalpy change when one mole of gaseous ions dissolves in sufficient water to form an infinitely dilute solution", "The energy released when solid salt melts into a liquid", "The heat produced during neutralization of an acid"],
+"correct": 1
+},
+{
+"q": "Why does the solubility of Group 2 sulfates generally decrease down the group from magnesium sulfate to barium sulfate?",
+"a": ["Lattice energy increases rapidly down the group", "Hydration enthalpies increase down the group", "Hydration enthalpy of Group 2 cations decreases significantly and faster than lattice energy as ionic radius increases down the group", "Sulfates decompose into sulfides"],
+"correct": 2
+},
+{
+"q": "Which of the following equations correctly represents the first ionization energy of sodium?",
+"a": ["Na (s) -> Na<sup>+</sup> (g) + e<sup>-</sup>", "Na<sup>+</sup> (g) + e<sup>-</sup> -> Na (g)", "Na (g) -> Na<sup>+</sup> (s) + e<sup>-</sup>", "Na (g) -> Na<sup>+</sup> (g) + e<sup>-</sup>"],
+"correct": 3
+},
+{
+"q": "What is the overall purpose of a Born-Haber cycle in chemical thermodynamics?",
+"a": ["To determine experimental lattice enthalpies that cannot be measured directly through a single laboratory experiment", "To measure the exact speed of light in crystals", "To calculate the pH of salt solutions", "To determine reaction rates"],
+"correct": 0
+},
+{
+"q": "How does the lattice energy of sodium chloride (NaCl) compare numerically to that of magnesium oxide (MgO)?",
+"a": ["NaCl has a much higher magnitude of lattice energy than MgO", "MgO has a much higher magnitude of lattice energy because Mg<sup>2+</sup> and O<sup>2-</sup> have higher charges (+2 and -2) and smaller radii", "Both have identical lattice energies", "NaCl has a positive lattice energy while MgO is negative"],
+"correct": 1
+},
+{
+"q": "Which of the following species has a standard enthalpy of formation equal to zero by definition?",
+"a": ["Liquid water (H<sub>2</sub>O)", "Gaseous carbon dioxide (CO<sub>2</sub>)", "Solid carbon in the form of graphite (C)", "Aqueous sodium ions (Na<sup>+</sup>)"],
+"correct": 2
+},
+{
+"q": "What term describes the distortion of an anion's electron cloud by a neighboring positive cation?",
+"a": ["Ionization", "Hydrolysis", "Polymorphism", "Polarization"],
+"correct": 3
+},
+{
+"q": "Which Born-Haber cycle step represents the formation of a solid ionic lattice from its gaseous ions?",
+"a": ["Lattice formation enthalpy (exothermic)", "Atomization enthalpy", "First ionization energy", "Electron affinity"],
+"correct": 0
+},
+{
+"q": "What is the effect of increasing cation charge on hydration enthalpy?",
+"a": ["Hydration enthalpy decreases", "Hydration enthalpy becomes more exothermic (higher magnitude) due to stronger ion-dipole attractions with water molecules", "Hydration enthalpy becomes zero", "Hydration enthalpy becomes positive"],
+"correct": 1
+},
+{
+"q": "Why is the first electron affinity of fluorine exothermic, whereas the theoretical calculation of multivalent anion formation involves endothermic steps?",
+"a": ["Fluorine is a metal", "Energy is absorbed during electron addition", "Energy is released when the first electron is added because of attractive forces between the nucleus and the incoming electron", "Fluorine has zero electrons"],
+"correct": 2
+},
+{
+"q": "Which of the following salts is expected to be most soluble in water based on lattice and hydration energetics?",
+"a": ["Magnesium oxide (MgO)", "Calcium sulfate (CaSO<sub>4</sub>)", "Barium sulfate (BaSO<sub>4</sub>)", "Sodium chloride (NaCl)"],
+"correct": 3
+},
+{
+"q": "What is the standard state of bromine used in atomization enthalpy calculations?",
+"a": ["Liquid bromine (Br<sub>2</sub> (l))", "Gaseous bromine atoms (Br (g))", "Solid bromine crystals", "Aqueous bromide ions (Br<sup>-</sup>)"],
+"correct": 0
+},
+{
+"q": "What does a negative value of enthalpy of solution indicate about the dissolution process?",
+"a": ["The process absorbs heat and cools the container", "The process releases heat to the surroundings", "The salt is insoluble", "The lattice energy is infinite"],
+"correct": 1
+},
+{
+"q": "According to Fajans' rules, which cation has the highest polarizing power?",
+"a": ["Potassium ion (K<sup>+</sup>)", "Sodium ion (Na<sup>+</sup>)", "Aluminium ion (Al<sup>3+</sup>)", "Cesium ion (Cs<sup>+</sup>)"],
+"correct": 2
+},
+{
+"q": "What is the enthalpy change associated with turning one mole of solid metal into gaseous metal atoms?",
+"a": ["Enthalpy of vaporization", "Enthalpy of fusion", "Lattice energy", "Enthalpy of atomization of the metal"],
+"correct": 3
+}
+]
+}

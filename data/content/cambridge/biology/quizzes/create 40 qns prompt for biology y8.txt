@@ -1,0 +1,20 @@
+Act as an expert biology curriculum developer for the cambridge syllabus.
+Create a comprehensive set of 40 multiple-choice questions for biology,
+specifically focused on the topic and id provided alongside the json structure. strictly maintain the json structure-topic and id
+Difficulty: strictly aim for cambriYear 8 level not above
+
+Constraint Checklist:
+
+JSON Output: Provide the output strictly as a JSON object with the following 
+structure: {"id": "[INSERT_ID]", "name": "[INSERT_QUIZ_TITLE]", "questions": [{"q": "Question text?", "a": ["Opt1", "Opt2", "Opt3", "Opt4"], "correct": [INDEX_0_TO_3]}]}.
+
+Difficulty: Aim for Year 8 level, ensuring a mix of definition-based, application-based, and scenario-based questions suitable for comprehensive exam preparation.
+
+Accuracy: Ensure the 'correct' index points to the right answer in the 'a' array.
+
+Balanced Distribution: Strictly ensure the correct answer index is distributed equally across all possible indices (0, 1, 2, and 3). No index should be over-represented.
+
+Rigorous Audit: After generating, perform a mandatory audit of your own output covering:
+* Index Verification: Validate that every 'correct' index points to the actual correct option.  
+Curriculum Alignment: Ensure all terminology and scientific definitions are precise to the current Cambridge year 8 syllabus.
+* Distractor Quality: Ensure all distractors are plausible but clearly incorrect, avoiding ambiguity.  

@@ -1,0 +1,156 @@
+{
+"id": "math-jhs3-quizzes-vectors-plane",
+"name": "Vectors in a Plane",
+"questions": [
+{
+"q": "What is the primary definition of a vector quantity in mathematics and physics?",
+"a": ["A quantity that has both magnitude and direction", "A quantity that has magnitude only", "A quantity measured only in units of length", "A fixed point on a Cartesian plane"],
+"correct": 0
+},
+{
+"q": "How is a vector column typically written in coordinate notation, for example, moving 3 units horizontally and 4 units vertically?",
+"a": ["(3, 4)", "[3 \\\\ 4]", "(4, 3)", "{3, 4}"],
+"correct": 1
+},
+{
+"q": "If vector a = (2, 3) and vector b = (4, 1), what is the sum of the two vectors, a + b?",
+"a": ["(8, 3)", "(2, 2)", "(6, 4)", "(6, 2)"],
+"correct": 2
+},
+{
+"q": "What is the magnitude (length) of the vector v = (3, 4) in a Cartesian plane?",
+"a": ["3 units", "4 units", "7 units", "5 units"],
+"correct": 3
+},
+{
+"q": "If vector p = (5, 7) and vector q = (2, 3), what is the resulting vector when you subtract q from p (p - q)?",
+"a": ["(3, 4)", "(7, 10)", "(3, 10)", "(21, 6)"],
+"correct": 0
+},
+{
+"q": "What term is used to describe a vector that has a magnitude of 1 unit?",
+"a": ["Zero vector", "Unit vector", "Position vector", "Equal vector"],
+"correct": 1
+},
+{
+"q": "If you multiply a vector v = (3, -2) by a scalar scalar value of 4, what is the resulting vector 4v?",
+"a": ["(7, 2)", "(12, -2)", "(12, -8)", "(3/4, -1/2)"],
+"correct": 2
+},
+{
+"q": "What is the term for a vector that starts at the origin (0, 0) and points to a specific point P(x, y) on the plane?",
+"a": ["Displacement vector", "Parallel vector", "Free vector", "Position vector"],
+"correct": 3
+},
+{
+"q": "If vector AB has coordinates from point A(1, 2) to point B(4, 6), what is the column vector representation of AB?",
+"a": ["(3, 4)", "(5, 8)", "(3, 8)", "(4, 3)"],
+"correct": 0
+},
+{
+"q": "What happens to the direction of a vector when it is multiplied by a negative scalar (e.g., -2v)?",
+"a": ["The direction remains completely unchanged", "The direction is reversed (points in the opposite direction)", "The vector becomes a scalar number", "The vector rotates by 90 degrees"],
+"correct": 1
+},
+{
+"q": "Which of the following represents two vectors that are parallel to each other?",
+"a": ["(1, 2) and (2, 1)", "(2, 3) and (4, 6)", "(3, 4) and (-4, 3)", "(1, 0) and (0, 1)"],
+"correct": 2
+},
+{
+"q": "What is the term for two or more vectors that have the exact same magnitude and the exact same direction, regardless of their starting points?",
+"a": ["Opposite vectors", "Perpendicular vectors", "Unit vectors", "Equal vectors"],
+"correct": 3
+},
+{
+"q": "If vector u = (-2, 5) and vector v = (6, -1), what is u + v?",
+"a": ["(4, 4)", "(8, 6)", "(-12, -5)", "(4, 6)"],
+"correct": 0
+},
+{
+"q": "What is the negative (inverse) of vector a = (3, -4)?",
+"a": ["(3, 4)", "(-3, 4)", "(-3, -4)", "(4, 3)"],
+"correct": 1
+},
+{
+"q": "Calculate the magnitude of the vector w = (5, 12).",
+"a": ["7 units", "17 units", "13 units", "60 units"],
+"correct": 2
+},
+{
+"q": "What is the result of adding any vector to its negative vector (e.g., v + (-v))?",
+"a": ["The vector 2v", "A unit vector", "The scalar 1", "The zero vector (0, 0)"],
+"correct": 3
+},
+{
+"q": "If vector a = (4, -3) and vector b = (-1, 5), what is 2a + b?",
+"a": ["(7, -1)", "(8, -6)", "(3, 2)", "(7, 1)"],
+"correct": 0
+},
+{
+"q": "What geometric feature do the vectors v = (2, 4) and w = (1, 2) share?",
+"a": ["They are perpendicular", "They are parallel (since w is a scalar multiple of v)", "They have equal magnitudes", "They are inverse vectors"],
+"correct": 1
+},
+{
+"q": "Given points P(2, 3) and Q(5, 7), what vector represents the translation from P to Q?",
+"a": ["(7, 10)", "(3, 3)", "(3, 4)", "(4, 3)"],
+"correct": 2
+},
+{
+"q": "In vector geometry, what does the triangle law of vector addition state for vectors AB and BC?",
+"a": ["AB - BC = AC", "AC + CB = BA", "AB × BC = AC", "AB + BC = AC"],
+"correct": 3
+},
+{
+"q": "If vector r = (-3, -4), what is its magnitude?",
+"a": ["5 units", "7 units", "1 unit", "25 units"],
+"correct": 0
+},
+{
+"q": "Which of the following pairs of vectors are perpendicular (orthogonal) to each other?",
+"a": ["(1, 2) and (2, 4)", "(3, 4) and (-4, 3)", "(1, 1) and (2, 2)", "(2, 3) and (3, 2)"],
+"correct": 1
+},
+{
+"q": "If vector m = (6, 8), what is the simplified vector representing 0.5m?",
+"a": ["(12, 16)", "(3, 3)", "(3, 4)", "(6, 8)"],
+"correct": 2
+},
+{
+"q": "If vector a = (x, y) and its magnitude is √((x² + y²)), what mathematical theorem is this formula directly derived from?",
+"a": ["Midpoint theorem", "Thales' theorem", "Factor theorem", "Pythagoras' theorem"],
+"correct": 3
+},
+{
+"q": "If a translation vector T = (5, -2) is applied to a point A(1, 4), what are the coordinates of the image point A'?",
+"a": ["(6, 2)", "(4, 6)", "(-4, 6)", "(5, -8)"],
+"correct": 0
+},
+{
+"q": "What is the vector that, when added to vector a, yields the zero vector?",
+"a": ["The unit vector", "The negative vector (-a)", "The magnitude of a", "The scalar multiple 2a"],
+"correct": 1
+},
+{
+"q": "If vector x = (2, -5) and vector y = (-2, 5), what is x + y?",
+"a": ["(4, -10)", "(-4, 10)", "(0, 0)", "(1, 1)"],
+"correct": 2
+},
+{
+"q": "If a vector is described as having a magnitude of 10 units in the direction of vector (3, 4), which of the following represents its proper scaling?",
+"a": ["Multiplying the unit vector of (3, 4) by 10", "Adding 10 to each component", "Squaring the components", "Dividing components by 10"],
+"correct": 0
+},
+{
+"q": "What is the resultant vector when vector AB is added to vector BC and then vector CD (AB + BC + CD)?",
+"a": ["Vector BD", "Vector AC", "Vector AD", "Vector DA"],
+"correct": 2
+},
+{
+"q": "If vector u = (4, 2) and vector v = (x, 3) are parallel, what is the value of x?",
+"a": ["2", "4", "3", "6"],
+"correct": 3
+}
+]
+}

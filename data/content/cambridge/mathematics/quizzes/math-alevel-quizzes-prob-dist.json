@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-prob-dist",
+  "name": "Probability distributions discrete and continuous",
+  "questions": [
+    {
+      "q": "For a discrete random variable X with probability distribution P(X = x) = kx for x = 1, 2, 3, 4, find the value of the constant k.",
+      "a": ["1/10", "1/5", "1/4", "1/3"],
+      "correct": 0
+    },
+    {
+      "q": "If a discrete random variable X has an expected value E(X) = 3 and E(X²) = 13, find the variance Var(X).",
+      "a": ["2", "4", "5", "9"],
+      "correct": 1
+    },
+    {
+      "q": "A discrete random variable X takes values 1, 2, 3 with probabilities 0.2, 0.5, and 0.3 respectively. Find the cumulative distribution function value F(2).",
+      "a": ["0.2", "0.3", "0.7", "1.0"],
+      "correct": 2
+    },
+    {
+      "q": "For any two random variables X and Y, which of the following properties always holds true for expectation?",
+      "a": ["E(XY) = E(X)E(Y)", "E(X + Y) = E(X) - E(Y)", "E(cX) = E(X) for constant c", "E(X + Y) = E(X) + E(Y)"],
+      "correct": 3
+    },
+    {
+      "q": "A continuous random variable X has probability density function f(x) = kx² for 0 ≤ x ≤ 3 and 0 otherwise. Find the value of k.",
+      "a": ["1/9", "1/3", "3/27", "1/27"],
+      "correct": 0
+    },
+    {
+      "q": "If the probability density function of X is f(x) = 2x for 0 ≤ x ≤ 1, find the expected value E(X).",
+      "a": ["1/3", "2/3", "3/4", "1/2"],
+      "correct": 1
+    },
+    {
+      "q": "Let X be a continuous random variable with pdf f(x). What must the total area under the curve f(x) over all possible values of x equal?",
+      "a": ["0", "0.5", "1", "∞"],
+      "correct": 2
+    },
+    {
+      "q": "If Var(X) = 5, find the variance of Y = 3X - 2.",
+      "a": ["13", "15", "43", "45"],
+      "correct": 3
+    },
+    {
+      "q": "A biased coin has a probability of landing heads of 0.4. If it is tossed 5 times, find the probability of getting exactly 2 heads.",
+      "a": ["0.3456", "0.2304", "0.0768", "0.5000"],
+      "correct": 0
+    },
+    {
+      "q": "A discrete random variable X follows a binomial distribution B(10, 0.3). Find the mean of X.",
+      "a": ["2.1", "3.0", "7.0", "3.3"],
+      "correct": 1
+    },
+    {
+      "q": "If X follows B(n, p) with mean 4 and variance 3, find the parameters n and p.",
+      "a": ["n = 12, p = 1/3", "n = 8, p = 1/2", "n = 16, p = 1/4", "n = 20, p = 1/5"],
+      "correct": 2
+    },
+    {
+      "q": "The continuous random variable X has cumulative distribution function F(x). How is the probability P(a < X ≤ b) expressed in terms of F?",
+      "a": ["F(b) + F(a)", "F(a) - F(b)", "F(a) × F(b)", "F(b) - F(a)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the median m of the continuous random variable X with pdf f(x) = 1/4 for 0 ≤ x ≤ 4.",
+      "a": ["2", "1", "2.5", "3"],
+      "correct": 0
+    },
+    {
+      "q": "A continuous random variable X has pdf f(x) = 3(1 - x²)/2 for -1 ≤ x ≤ 1. Find P(X > 0).",
+      "a": ["0.25", "0.50", "0.75", "1.00"],
+      "correct": 1
+    },
+    {
+      "q": "If X and Y are independent random variables such that Var(X) = 4 and Var(Y) = 9, find Var(X + Y).",
+      "a": ["5", "25", "13", "36"],
+      "correct": 2
+    },
+    {
+      "q": "A Poisson distribution has a mean rate λ = 4 per hour. Find the probability of exactly 2 events occurring in a 1-hour interval.",
+      "a": ["0.0733", "0.1465", "0.2930", "0.1465"],
+      "correct": 3
+    },
+    {
+      "q": "If X is a Poisson random variable with mean 2.5, find P(X = 0).",
+      "a": ["e⁻²·⁵", "1 - e⁻²·⁵", "2.5e⁻²·⁵", "1 / 2.5"],
+      "correct": 0
+    },
+    {
+      "q": "For a Poisson distribution, which of the following statements is always true regarding its mean and variance?",
+      "a": ["Mean is greater than variance", "Mean is equal to variance", "Variance is the square of the mean", "Mean is zero"],
+      "correct": 1
+    },
+    {
+      "q": "A machine produces components of which 2% are defective. Using a suitable approximation, find the probability that in a random sample of 150 components, exactly 3 are defective.",
+      "a": ["0.124", "0.184", "0.224", "0.256"],
+      "correct": 2
+    },
+    {
+      "q": "Which condition must be met to use a Poisson approximation to a binomial distribution B(n, p)?",
+      "a": ["n is small and p is close to 0.5", "n is small and p is large", "n and p are both very large", "n is large and p is small such that np < 10"],
+      "correct": 3
+    },
+    {
+      "q": "Let X be a continuous random variable with pdf f(x) = 2x for 0 ≤ x ≤ 1. Find the 75th percentile of X.",
+      "a": ["√0.75", "0.75", "0.50", "√0.50"],
+      "correct": 0
+    },
+    {
+      "q": "If E(X) = 5 and E(2X + 3) is calculated, what is the resulting value?",
+      "a": ["10", "13", "16", "8"],
+      "correct": 1
+    },
+    {
+      "q": "A discrete probability distribution is given by P(X = x) = c(x + 1) for x = 1, 2, 3. Find c.",
+      "a": ["1/6", "1/8", "1/9", "1/12"],
+      "correct": 2
+    },
+    {
+      "q": "If X is a continuous random variable, what is the probability that X takes any exact single specific value P(X = c)?",
+      "a": ["1", "c", "0.5", "0"],
+      "correct": 3
+    },
+    {
+      "q": "Find E(X²) for the discrete random variable with values X = -1, 0, 2 and corresponding probabilities 0.2, 0.5, 0.3.",
+      "a": ["1.4", "1.0", "2.0", "0.8"],
+      "correct": 0
+    },
+    {
+      "q": "A continuous random variable X has pdf f(x) = k for 2 ≤ x ≤ 5. Find k.",
+      "a": ["1/5", "1/3", "1/2", "1/7"],
+      "correct": 1
+    },
+    {
+      "q": "If a discrete random variable X has Var(X) = 6, find Var(5 - 2X).",
+      "a": ["12", "24", "24", "30"],
+      "correct": 2
+    },
+    {
+      "q": "The cumulative distribution function of X is given by F(x) = x³/8 for 0 ≤ x ≤ 2. Find the pdf f(x) for this range.",
+      "a": ["3x / 8", "3x² / 4", "3x² / 8", "3x² / 8"],
+      "correct": 3
+    },
+    {
+      "q": "If calls arrive at a call center at a mean rate of 3 per minute, find the probability of at least 1 call arriving in a 1-minute interval.",
+      "a": ["1 - e⁻³", "e⁻³", "1 - 3e⁻³", "3e⁻³"],
+      "correct": 0
+    },
+    {
+      "q": "A continuous random variable X has pdf f(x) = 2x e⁻ˣ² for x ≥ 0. Find P(X ≤ 1).",
+      "a": ["1 - e⁻¹", "1 - e⁻¹", "e⁻¹", "1 - 2e⁻¹"],
+      "correct": 1
+    },
+    {
+      "q": "For a discrete random variable, the sum of all probabilities in its probability distribution must equal:",
+      "a": ["0", "∞", "1", "Mean of X"],
+      "correct": 2
+    },
+    {
+      "q": "If X has mean 10 and standard deviation 3, find the standardized variable Z when X = 16.",
+      "a": ["1", "1.5", "3", "2"],
+      "correct": 3
+    },
+    {
+      "q": "A fair six-sided die is rolled 4 times. Let X be the number of sixes obtained. Find P(X ≥ 1).",
+      "a": ["1 - (5/6)⁴", "(1/6)⁴", "4/6", "1 - (1/6)⁴"],
+      "correct": 0
+    },
+    {
+      "q": "If X is a continuous random variable with symmetric pdf about x = 5, what is the median of X?",
+      "a": ["0", "5", "10", "Cannot be determined"],
+      "correct": 1
+    },
+    {
+      "q": "If expectation properties give E(X) = 4 and E(X(X - 1)) = 15, find Var(X).",
+      "a": ["3", "4", "5", "6"],
+      "correct": 2
+    },
+    {
+      "q": "A continuous random variable X has pdf f(x) = k(x + 1) for 0 ≤ x ≤ 2. Find the value of E(X).",
+      "a": ["10/9", "11/9", "13/9", "14/9"],
+      "correct": 3
+    },
+    {
+      "q": "If X is a binomial variable B(20, 0.1), use the normal approximation to estimate P(X ≤ 3) with continuity correction.",
+      "a": ["P(Z ≤ 1.18)", "P(Z ≤ 1.05)", "P(Z ≤ 0.88)", "P(Z ≤ 1.35)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the mode of a continuous probability distribution defined by pdf f(x)?",
+      "a": ["The point where the integral is 0.5", "The value of x where f(x) is maximized", "The expected value E(X)", "The lower quartile"],
+      "correct": 1
+    },
+    {
+      "q": "If X and Y are independent random variables, which of the following is true for their expectations?",
+      "a": ["E(XY) = E(X) + E(Y)", "E(XY) = E(X) / E(Y)", "E(XY) = E(X) × E(Y)", "E(XY) = 0"],
+      "correct": 2
+    },
+    {
+      "q": "A continuous random variable X has pdf f(x) = 1 / (b - a) for a ≤ x ≤ b. What type of distribution is this?",
+      "a": ["Normal distribution", "Poisson distribution", "Exponential distribution", "Continuous uniform distribution"],
+      "correct": 3
+    }
+  ]
+}

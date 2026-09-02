@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr7-quizzes-curves",
+  "name": "Heating and cooling curves",
+  "questions": [
+    {
+      "q": "What term describes the temperature at which a solid turns into a liquid?",
+      "a": ["Melting point", "Boiling point", "Freezing point", "Condensation point"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the temperature at which a liquid turns into a gas throughout the liquid?",
+      "a": ["Melting point", "Boiling point", "Sublimation point", "Deposition point"],
+      "correct": 1
+    },
+    {
+      "q": "During a heating curve experiment, what happens to the temperature of a pure substance while it is melting?",
+      "a": ["It continues to rise rapidly", "It drops down to zero", "It stays completely constant (flat plateau) until all the solid has melted", "It fluctuates up and down randomly"],
+      "correct": 2
+    },
+    {
+      "q": "Why does the temperature remain constant during a phase change (like boiling or melting) even though heat energy is still being supplied?",
+      "a": ["The heater has stopped working", "All the particles have stopped moving completely", "Heat energy is lost to the outer space", "The added thermal energy is used to overcome the forces of attraction between particles rather than raising temperature"],
+      "correct": 3
+    },
+    {
+      "q": "On a standard heating curve graph, what physical state is represented by the first rising section at the bottom left?",
+      "a": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct": 0
+    },
+    {
+      "q": "On a heating curve graph, what does the second flat horizontal plateau represent?",
+      "a": ["Melting (solid changing to liquid)", "Boiling / Evaporation (liquid changing to gas)", "Freezing (liquid changing to solid)", "Condensation (gas changing to liquid)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the physical process where a gas turns directly into a liquid upon cooling?",
+      "a": ["Evaporation", "Sublimation", "Condensation", "Melting"],
+      "correct": 2
+    },
+    {
+      "q": "What is the freezing point of pure water at standard atmospheric pressure in degrees Celsius?",
+      "a": ["100°C", "50°C", "212°C", "0°C"],
+      "correct": 3
+    },
+    {
+      "q": "What is the boiling point of pure water at standard atmospheric pressure in degrees Celsius?",
+      "a": ["100°C", "0°C", "50°C", "273°C"],
+      "correct": 0
+    },
+    {
+      "q": "How do the particles in a solid behave when heat is applied during the first stage of a heating curve?",
+      "a": ["They break apart and fly around freely", "They vibrate faster and more vigorously in their fixed positions", "They turn into subatomic protons", "They disappear completely"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the arrangement and movement of particles when a liquid reaches its boiling point and turns into a gas?",
+      "a": ["They pack tightly together in a regular lattice", "They slow down and form crystals", "They break away completely from each other and move rapidly in all directions", "They stop moving altogether"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following terms describes a cooling curve rather than a heating curve?",
+      "a": ["Melting", "Boiling", "Vaporization", "Condensation"],
+      "correct": 3
+    },
+    {
+      "q": "On a cooling curve, what does a flat horizontal plateau represent as the substance cools down?",
+      "a": ["A state change where energy is released as bonds form (such as freezing or condensing)", "A rapid chemical explosion", "An increase in particle speed", "The destruction of matter"],
+      "correct": 0
+    },
+    {
+      "q": "Why is the melting point of a pure substance sharp and exact, whereas an impure substance melts over a range of temperatures?",
+      "a": ["Impure substances contain no particles", "Impurities disrupt the regular crystal lattice structure, causing melting to occur at varying lower temperatures", "Pure substances have no mass", "Pure substances melt only in a vacuum"],
+      "correct": 1
+    },
+    {
+      "q": "What is the physical process called when a solid turns directly into a gas without passing through the liquid state?",
+      "a": ["Evaporation", "Condensation", "Sublimation", "Freezing"],
+      "correct": 2
+    },
+    {
+      "q": "If a substance has a melting point of -10°C and a boiling point of 60°C, what physical state is it in at room temperature (25°C)?",
+      "a": ["Solid", "Gas", "Plasma", "Liquid"],
+      "correct": 3
+    },
+    {
+      "q": "In an experiment to plot a cooling curve for molten stearic acid or wax, why is it recommended to stir the substance continuously?",
+      "a": ["To ensure even temperature distribution throughout the liquid", "To make it boil faster", "To turn it into a gas instantly", "To cool the thermometer down to zero"],
+      "correct": 0
+    },
+    {
+      "q": "What energy change occurs when a gas condenses into a liquid?",
+      "a": ["Energy is absorbed from the surroundings", "Energy is released to the surroundings", "Energy remains exactly zero", "Energy turns into electricity"],
+      "correct": 1
+    },
+    {
+      "q": "Which state of matter has a fixed volume but no fixed shape, taking the shape of its container?",
+      "a": ["Solid", "Gas", "Liquid", "Plasma"],
+      "correct": 2
+    },
+    {
+      "q": "On a heating curve, what state of matter exists at the very top right section after the final plateau?",
+      "a": ["Solid", "Liquid", "Slush", "Gas"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the kinetic energy of particles in a substance as it is heated up along a sloping line on a heating curve?",
+      "a": ["Kinetic energy increases as particle speed increases", "Kinetic energy decreases to zero", "Kinetic energy stays constant", "Kinetic energy converts into mass"],
+      "correct": 0
+    },
+    {
+      "q": "Why is it important to place the thermometer bulb correctly in the liquid rather than touching the bottom of the heating container during a melting point experiment?",
+      "a": ["To measure the temperature of the glass beaker instead", "To measure the true temperature of the substance rather than the hot container wall", "To prevent the thermometer from floating away", "To keep the liquid from boiling"],
+      "correct": 1
+    },
+    {
+      "q": "If a pure solid is heated and its melting point is found to be exactly 80°C, what will happen to its temperature when it reaches 80°C?",
+      "a": ["It will continue rising without stopping", "It will drop to 0°C immediately", "It will stop rising and stay at 80°C until all the solid melts", "It will explode"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes the transition of a substance from a gas directly into a solid (the reverse of sublimation)?",
+      "a": ["Melting", "Evaporation", "Condensation", "Deposition (or desublimation)"],
+      "correct": 3
+    },
+    {
+      "q": "When plotting a heating curve from experimental data, what variable is typically placed on the horizontal x-axis?",
+      "a": ["Time (in minutes or seconds)", "Temperature (in degrees Celsius)", "Volume of the container", "Mass of the thermometer"],
+      "correct": 0
+    },
+    {
+      "q": "When plotting a heating curve, what variable is typically placed on the vertical y-axis?",
+      "a": ["Number of stirrers", "Temperature (in degrees Celsius)", "Time elapsed", "Atmospheric pressure"],
+      "correct": 1
+    },
+    {
+      "q": "What does a horizontal flat line on a cooling curve indicate about the state of the substance?",
+      "a": ["It is rapidly expanding into space", "It is a superheated gas", "It is undergoing a change of state (freezing or condensing)", "It is undergoing chemical combustion"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these substances has the highest boiling point?",
+      "a": ["Oxygen (-183°C)", "Water (100°C)", "Ethanol (78°C)", "Iron (2862°C)"],
+      "correct": 3
+    },
+    {
+      "q": "How does adding an impurity (such as salt) to ice affect its melting point on a cooling/heating curve analysis?",
+      "a": ["It lowers the melting point below 0°C", "It raises the melting point above 100°C", "It eliminates the melting point entirely", "It turns the ice into a gas"],
+      "correct": 0
+    },
+    {
+      "q": "During the condensation of steam into liquid water, what happens to the spacing between particles?",
+      "a": ["Particles move much further apart", "Particles move significantly closer together", "Particles form a rigid crystal lattice", "Particles expand to fill infinite volume"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary difference between evaporation and boiling?",
+      "a": ["Evaporation only happens at freezing point", "Boiling only happens in a vacuum", "Evaporation happens at any temperature at the surface of a liquid, whereas boiling happens at a specific fixed temperature throughout the liquid", "Evaporation produces solid crystals"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following changes of state is exothermic (releases thermal energy to the surroundings)?",
+      "a": ["Melting ice", "Boiling water", "Subliming dry ice", "Freezing liquid water into ice"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following changes of state is endothermic (absorbs thermal energy from the surroundings)?",
+      "a": ["Melting a solid", "Condensing a gas", "Freezing a liquid", "Deposition of a gas"],
+      "correct": 0
+    },
+    {
+      "q": "If you look at a heating curve for ice being heated from -20°C to 120°C, how many flat plateaus will you observe?",
+      "a": ["One plateau", "Two plateaus (one for melting at 0°C, one for boiling at 100°C)", "Three plateaus", "Zero plateaus"],
+      "correct": 1
+    },
+    {
+      "q": "What physical property can scientists use to check the purity of an unknown chemical sample in a laboratory?",
+      "a": ["Its color in sunlight", "Its loud sound when dropped", "Its melting or boiling point", "Its magnetic attraction"],
+      "correct": 2
+    },
+    {
+      "q": "Why does liquid evaporate faster when it is heated or spread over a large surface area?",
+      "a": ["Particles lose all their mass", "Gravity pulls them downward", "Air pressure increases to maximum", "Particles gain more kinetic energy to escape from the liquid surface into the gas phase"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for the fixed temperature at which a liquid turns into a solid?",
+      "a": ["Freezing point", "Boiling point", "Sublimation point", "Critical point"],
+      "correct": 0
+    },
+    {
+      "q": "In terms of particle theory, why do solids maintain a fixed shape and volume?",
+      "a": ["Particles are completely motionless", "Particles are held tightly in a fixed, regular pattern by strong forces of attraction", "Particles repel each other with infinite force", "Particles have no mass"],
+      "correct": 1
+    },
+    {
+      "q": "When water boils in an open beaker, why does the temperature remain steady at 100°C and not rise to 105°C?",
+      "a": ["The thermometer is broken", "Heat is escaping into the table", "Any extra thermal energy supplied is consumed by turning liquid water into steam at the boiling point", "Water decomposes into rock"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following describes the arrangement of particles in a gas?",
+      "a": ["Packed closely in regular rows", "Touching but arranged randomly", "Locked tightly in place", "Far apart, randomly arranged, and moving rapidly in all directions"],
+      "correct": 3
+    }
+  ]
+}

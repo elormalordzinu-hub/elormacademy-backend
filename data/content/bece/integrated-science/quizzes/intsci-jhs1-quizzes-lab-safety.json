@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-lab-safety",
+"name": "Lab Safety",
+"questions": [
+{
+"q": "What is the primary reason for wearing safety goggles in the science laboratory?",
+"a": ["To protect the eyes from chemical splashes, flying debris, and heat", "To look like a professional scientist", "To improve vision under dim laboratory lights", "To keep dust away from the face"],
+"correct": 0
+},
+{
+"q": "What should you do immediately if a chemical substance splashes into your eyes?",
+"a": ["Rub your eyes vigorously with dry hands", "Rinse eyes continuously at the eyewash station and inform the teacher", "Cover your eyes with a clean cloth and wait until class ends", "Apply cooking oil to soothe the irritation"],
+"correct": 1
+},
+{
+"q": "Which of the following equipment is specifically designed to put out small clothing fires or wrap around someone whose clothes are burning?",
+"a": ["Fire extinguisher", "Sand bucket", "Fire blanket", "Fume cupboard"],
+"correct": 2
+},
+{
+"q": "Why is it strictly forbidden to taste or eat any substance in the science laboratory?",
+"a": ["Because laboratory chemicals are expensive", "Because food is not allowed in school", "Because it wastes time during practical lessons", "Because chemicals may be toxic, corrosive, or contaminated and cause severe poisoning"],
+"correct": 3
+},
+{
+"q": "What is the correct procedure for smelling a chemical substance in the laboratory?",
+"a": ["Wafting the vapor gently toward your nose with your hand", "Placing your nose directly over the open test tube and inhaling deeply", "Heating the container strongly and sniffing the smoke", "Tasting a small drop on the tip of your tongue first"],
+"correct": 0
+},
+{
+"q": "Which of the following symbols on a chemical container indicates that the substance can burn easily and catch fire rapidly?",
+"a": ["Corrosive symbol", "Flammable symbol", "Radioactive symbol", "Toxic skull and crossbones"],
+"correct": 1
+},
+{
+"q": "What is the safest way to dilute an concentrated acid with water?",
+"a": ["Pour water quickly into the concentrated acid", "Add the acid slowly to water while stirring constantly", "Mix equal volumes of acid and water at once without stirring", "Heat the acid before adding any water"],
+"correct": 2
+},
+{
+"q": "What should you do if you break a glass beaker during a practical session?",
+"a": ["Pick up the large pieces with your bare hands and throw them in the dustbin", "Sweep the glass under the table and leave it there", "Ignore it and continue working with the remaining equipment", "Inform the teacher immediately and use a brush and dustpan to clean up safely"],
+"correct": 3
+},
+{
+"q": "Which piece of protective clothing is worn to protect school clothes and skin from harmful chemical spills?",
+"a": ["Laboratory coat or apron", "Woolen sweater", "Silk scarf", "Heavy winter jacket"],
+"correct": 0
+},
+{
+"q": "What does a hazard sign showing a skull and crossbones signify?",
+"a": ["The substance is highly explosive", "The substance is toxic or poisonous", "The substance is extremely cold", "The substance is a source of electrical power"],
+"correct": 1
+},
+{
+"q": "Why must long hair be tied back securely during laboratory experiments involving open flames?",
+"a": ["To keep students looking neat", "To prevent sweat on the forehead", "To prevent hair from accidentally catching fire or dipping into chemicals", "To make it easier to wear safety goggles"],
+"correct": 2
+},
+{
+"q": "Which of the following actions demonstrates good laboratory safety practice?",
+"a": ["Running around the laboratory to collect apparatus quickly", "Tasting unknown chemicals to identify them", "Performing unauthorized experiments when the teacher is away", "Following all written and verbal instructions given by the teacher"],
+"correct": 3
+},
+{
+"q": "Where should chemical waste, such as strong acids or toxic metal solutions, be disposed of?",
+"a": ["In designated waste containers specified by the teacher", "By pouring it into the classroom flower pots", "By drinking it to test its strength", "By throwing it out of the laboratory window"],
+"correct": 0
+},
+{
+"q": "What is the primary function of a fume cupboard in a science laboratory?",
+"a": ["To store extra glassware and test tubes", "To safely remove toxic or noxious gases and vapors away from the user", "To heat water to boiling point rapidly", "To cool down hot metallic objects"],
+"correct": 1
+},
+{
+"q": "How should you heat a liquid in a test tube using a Bunsen burner?",
+"a": ["Point the mouth of the test tube directly at your lab partner", "Hold the test tube completely stationary at the very bottom of the flame", "Point the mouth of the test tube away from yourself and others while moving it gently", "Seal the test tube tightly with a rubber bung before heating"],
+"correct": 2
+},
+{
+"q": "What is the first step you should take if a chemical spills on your skin?",
+"a": ["Wipe it off with a dry piece of tissue paper", "Apply a layer of petroleum jelly immediately", "Cover the affected area with a bandage without cleaning", "Wash the affected area immediately with plenty of running water and notify the teacher"],
+"correct": 3
+},
+{
+"q": "Why are open-toed shoes or sandals prohibited in the science laboratory?",
+"a": ["To protect feet from spilled chemicals and falling sharp objects", "Because they make too much noise on the floor", "Because they are not part of the school uniform code", "To ensure students can run faster during drills"],
+"correct": 0
+},
+{
+"q": "What should be used to handle hot crucibles or evaporating dishes after heating?",
+"a": ["Bare hands if they look dry", "Tongs or heat-resistant gloves", "A piece of wet tissue paper", "Plastic forceps"],
+"correct": 1
+},
+{
+"q": "What does a corrosive hazard symbol indicate about a chemical?",
+"a": ["It will explode when exposed to air", "It causes skin irritation only when licked", "It can destroy living tissue and damage metals upon contact", "It glows brightly in the dark"],
+"correct": 2
+},
+{
+"q": "Why is it important to wash your hands thoroughly with soap and water after every practical lesson?",
+"a": ["To remove any invisible chemical residues or harmful microorganisms", "To cool your hands down after handling glassware", "To make your skin smell nice for the next class", "To test the quality of the laboratory soap"],
+"correct": 3
+},
+{
+"q": "What should you do if the Bunsen burner flame goes out unexpectedly?",
+"a": ["Turn off the gas tap immediately", "Keep the gas tap open and try striking a match near the burner", "Throw water onto the burner", "Blow into the gas tubing to clear blockages"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of unsafe behavior in the laboratory?",
+"a": ["Reading instructions carefully before starting an experiment", "Horseplay, pushing, or running around the laboratory benches", "Keeping your working area clean and tidy", "Reporting any cracked glassware to the teacher"],
+"correct": 1
+},
+{
+"q": "What is the correct way to test the odor of a gas produced in a test tube?",
+"a": ["Inhale deeply directly above the open mouth of the test tube", "Taste a small amount of the gas", "Waft the fumes gently toward your nose with your hand", "Seal the test tube and shake it near your face"],
+"correct": 2
+},
+{
+"q": "Why must electrical equipment with frayed wires never be used in the laboratory?",
+"a": ["Because they cost too much money to replace", "Because they consume too much electricity", "Because they do not match modern laboratory decor", "Because they pose a serious risk of electric shock and fire outbreaks"],
+"correct": 3
+},
+{
+"q": "What is the main purpose of safety rules in the school laboratory?",
+"a": ["To prevent accidents, injuries, and ensure a safe working environment", "To make practical lessons as difficult as possible", "To prevent students from ever using chemicals", "To reduce the amount of equipment used in school"],
+"correct": 0
+},
+{
+"q": "What type of fire extinguisher is generally used for electrical fires in the laboratory?",
+"a": ["Water-filled fire extinguisher", "Carbon dioxide or dry powder extinguisher", "Foam bucket filled with muddy water", "Hand-held water hose"],
+"correct": 1
+},
+{
+"q": "When should safety goggles be worn during a practical session?",
+"a": ["Only when writing down observations in your notebook", "Only when leaving the laboratory", "At all times when working with chemicals, heat, or glassware", "Only when the teacher asks you to take a photo"],
+"correct": 2
+},
+{
+"q": "What is the correct action to take if your clothing catches fire in the laboratory?",
+"a": ["Run out of the laboratory as fast as you can to find water", "Wave your arms wildly to blow the flames out", "Stand completely still and shout for help", "Stop, drop, and roll, and have someone cover you with a fire blanket"],
+"correct": 3
+},
+{
+"q": "Why should you never return unused chemicals to their original stock bottles?",
+"a": ["It can contaminate the entire stock bottle with impurities", "Stock bottles are always kept locked away", "Unused chemicals turn into solids instantly", "It is against school administrative policy"],
+"correct": 0
+},
+{
+"q": "What should you check before heating a glass test tube with a Bunsen burner?",
+"a": ["Whether the test tube has any colorful stickers on it", "Whether the test tube is dry on the outside and free of cracks", "Whether the test tube is filled to the very brim", "Whether the test tube is made of ordinary window glass"],
+"correct": 1
+},
+{
+"q": "What is the purpose of the yellow luminous flame (safety flame) on a Bunsen burner when it is not actively being used for heating?",
+"a": ["To heat substances as fast as possible", "To produce maximum light in the room", "To make the burner easily visible so no one gets burned accidentally", "To burn up excess gas in the pipes"],
+"correct": 2
+},
+{
+"q": "How should gas cylinders or burners be handled at the end of a practical session?",
+"a": ["Leave the main gas valve open for the next class", "Blow out the flame and leave the gas tap open", "Disconnect all rubber tubing with bare hands", "Turn off the gas supply valves securely at the bench and main source"],
+"correct": 3
+},
+{
+"q": "Which of the following is considered personal protective equipment (PPE) in a science lab?",
+"a": ["Safety goggles, lab coat, and protective gloves", "School backpack and pencil case", "Sports jersey and running sneakers", "Leather belt and wrist watch"],
+"correct": 0
+},
+{
+"q": "What should you do if you feel dizzy or unwell after inhaling fumes in the laboratory?",
+"a": ["Continue working until the lesson finishes", "Move immediately to fresh air outside the laboratory and inform the teacher", "Lie down flat on the laboratory floor", "Drink a cup of cold water from the sink"],
+"correct": 1
+},
+{
+"q": "Why are walkways and aisles in the laboratory required to be kept clear of bags and stools?",
+"a": ["To make the room look spacious for visitors", "To allow students to dance during breaks", "To prevent tripping hazards and allow quick evacuation during emergencies", "To keep bags clean and free from dust"],
+"correct": 2
+},
+{
+"q": "What should be done with broken or chipped glassware?",
+"a": ["Glue it back together with school gum and use it again", "Hide it in the back of the storage cupboard", "Wrap it in old newspaper and give it away", "Discard it in a special rigid container designated for broken glass"],
+"correct": 3
+},
+{
+"q": "Why is eating or drinking strictly prohibited during a science experiment?",
+"a": ["Food can easily absorb toxic chemical vapors or become contaminated with poisonous substances", "Eating makes students sleepy during lessons", "Teachers want to keep all snacks for themselves", "Food reacts violently with ordinary laboratory air"],
+"correct": 0
+},
+{
+"q": "What is the appropriate response if a small chemical fire starts on a bench top?",
+"a": ["Throw a bucket of loose sand or use a suitable fire extinguisher, and notify the teacher", "Fan the flames with a notebook to blow them out", "Pour cooking oil over the fire", "Pour concentrated acid onto the fire"],
+"correct": 1
+},
+{
+"q": "How should reagent bottles be handled when pouring liquids into test tubes?",
+"a": ["Hold the label upside down so it gets wet", "Place the stopper flat on the dusty floor", "Hold the label facing upwards against your palm so drips do not damage the label", "Hold the bottle as far away from your body as possible without support"],
+"correct": 2
+},
+{
+"q": "What is the key rule regarding unauthorized experiments in the laboratory?",
+"a": ["They are allowed if you finish your classwork early", "They are encouraged if you bring your own ingredients", "They can be performed quietly with a partner", "They are strictly prohibited because they can lead to serious, uncontrolled accidents"],
+"correct": 3
+}
+]
+}

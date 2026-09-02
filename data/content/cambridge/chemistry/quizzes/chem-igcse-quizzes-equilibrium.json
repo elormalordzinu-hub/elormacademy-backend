@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-equilibrium",
+"name": "Reversible reactions and equilibrium",
+"questions": [
+{
+"q": "What is a reversible reaction?",
+"a": ["A reaction in which products can react to reform the original reactants", "A reaction that only proceeds in one direction until completion", "A reaction that requires continuous electrical input", "A physical change like melting ice"],
+"correct": 0
+},
+{
+"q": "Which condition is essential for a reversible reaction to achieve dynamic equilibrium in a closed system?",
+"a": ["The rates of the forward and reverse reactions must be unequal", "The rate of the forward reaction equals the rate of the reverse reaction", "All reactants must be completely converted into products", "The temperature must be kept at absolute zero"],
+"correct": 1
+},
+{
+"q": "What does Le Chatelier principle state?",
+"a": ["Energy can be neither created nor destroyed in chemical systems", "Pressure is directly proportional to temperature in closed containers", "If a dynamic equilibrium is disturbed by changing conditions, the position of equilibrium shifts to counteract the change", "The rate of a reaction is proportional to the product of active masses"],
+"correct": 2
+},
+{
+"q": "In the contact process, sulfur dioxide reacts with oxygen to form sulfur trioxide: 2SO<sub>2</sub> + O<sub>2</sub> <--> 2SO<sub>3</sub> (Delta H is negative). What effect does increasing the temperature have on the equilibrium yield of sulfur trioxide?",
+"a": ["Yield increases significantly", "Yield remains completely unchanged", "Yield fluctuates unpredictably", "Yield decreases because the reverse endothermic reaction is favored"],
+"correct": 3
+},
+{
+"q": "In the Haber process for manufacturing ammonia: N<sub>2</sub> + 3H<sub>2</sub> <--> 2NH<sub>3</sub> (Delta H is negative), what effect does increasing the pressure have on the yield of ammonia?",
+"a": ["Yield increases because there are fewer moles of gas on the product side", "Yield decreases because gas volume expands", "Yield is unaffected by pressure changes", "Yield drops to zero instantly"],
+"correct": 0
+},
+{
+"q": "What term describes a system in which neither matter nor energy can escape to the surroundings?",
+"a": ["Open system", "Closed system", "Isolated system", "Dynamic system"],
+"correct": 1
+},
+{
+"q": "Why are moderate temperatures (around 450 degrees Celsius) used in the Haber process despite lower temperatures giving a higher percentage yield of ammonia?",
+"a": ["Higher temperatures increase the equilibrium yield", "Lower temperatures cause the catalyst to melt", "At too low temperatures, the reaction rate becomes too slow to be economically viable", "Moderate temperatures eliminate all energy costs"],
+"correct": 2
+},
+{
+"q": "What color change is observed when blue hydrated copper(II) sulfate is heated to form white anhydrous copper(II) sulfate and water vapor?",
+"a": ["Blue to green", "Colorless to pink", "Yellow to brown", "Blue to white"],
+"correct": 3
+},
+{
+"q": "What happens to the position of equilibrium if the concentration of a reactant is increased?",
+"a": ["The equilibrium shifts to the right to use up the added reactant and form more product", "The equilibrium shifts to the left", "The equilibrium position does not change", "The reaction stops completely"],
+"correct": 0
+},
+{
+"q": "Which of the following describes dynamic equilibrium?",
+"a": ["All chemical reactions have stopped entirely", "The forward and reverse reactions continue at equal rates, so macroscopic properties remain constant", "Reactants and products are present in equal masses", "The system is open to the atmosphere"],
+"correct": 1
+},
+{
+"q": "In an endothermic reversible reaction, how does increasing the temperature affect the position of equilibrium?",
+"a": ["Shifts to the left (reactants side)", "Has no effect on equilibrium", "Shifts to the right (products side) to absorb the added thermal energy", "Stops the forward reaction"],
+"correct": 2
+},
+{
+"q": "What catalyst is used in the Haber process?",
+"a": ["Vanadium(V) oxide", "Platinum mesh", "Manganese(IV) oxide", "Iron"],
+"correct": 3
+},
+{
+"q": "What catalyst is used in the Contact process for manufacturing sulfur trioxide?",
+"a": ["Vanadium(V) oxide", "Iron powder", "Nickel", "Concentrated sulfuric acid"],
+"correct": 0
+},
+{
+"q": "How does increasing the pressure affect the position of equilibrium for a gaseous reaction where the number of moles of gas is equal on both sides (e.g., H<sub>2</sub> + I<sub>2</sub> <--> 2HI)?",
+"a": ["Shifts towards the products", "Has no effect on the position of equilibrium", "Shifts towards the reactants", "Halves the equilibrium constant"],
+"correct": 1
+},
+{
+"q": "What is indicated by a reversible reaction arrow (<-->) in a chemical equation?",
+"a": ["The reaction proceeds only in the forward direction", "The reaction is explosive", "The reaction can occur in both forward and reverse directions", "The reaction requires intense ultraviolet light"],
+"correct": 2
+},
+{
+"q": "In the decomposition of ammonium chloride: NH<sub>4</sub>Cl <--> NH<sub>3</sub> + HCl, heating causes the solid to break down into gases. Upon cooling near the top of the test tube, solid ammonium chloride reforms. What type of process is this?",
+"a": ["Irreversible combustion", "Catalytic cracking", "Neutralization titration", "Reversible thermal dissociation"],
+"correct": 3
+},
+{
+"q": "If the forward reaction in a reversible system is exothermic, what will happen to the equilibrium constant and yield if the temperature is lowered?",
+"a": ["Yield of products increases", "Yield of products decreases", "Equilibrium shifts to the left", "No change occurs"],
+"correct": 0
+},
+{
+"q": "Why is high pressure avoided in some industrial gaseous processes despite favoring product yield?",
+"a": ["It stops all chemical reactions", "It requires extremely strong and expensive equipment and poses high safety risks", "It causes catalysts to dissolve", "It turns all gases into liquids instantly"],
+"correct": 1
+},
+{
+"q": "Which of the following is a key characteristic of a system at dynamic equilibrium?",
+"a": ["Concentrations of all reactants and products must be equal", "The reaction rate is zero", "Macroscopic properties (like color and pressure) remain constant", "Adding a catalyst changes the equilibrium composition"],
+"correct": 2
+},
+{
+"q": "What term describes the relative amounts of reactants and products present at equilibrium?",
+"a": ["Reaction velocity", "Stoichiometric ratio", "Activation barrier", "Position of equilibrium"],
+"correct": 3
+},
+{
+"q": "What happens to the position of equilibrium in the reaction N<sub>2</sub> + 3H<sub>2</sub> <--> 2NH<sub>3</sub> if ammonia is continuously removed from the reaction vessel?",
+"a": ["Equilibrium shifts to the right to produce more ammonia", "Equilibrium shifts to the left", "No change occurs", "The reaction stops"],
+"correct": 0
+},
+{
+"q": "Which term refers to the raw materials used in the Haber process?",
+"a": ["Sulfur and air", "Nitrogen (from air) and hydrogen (from natural gas or steam reforming)", "Carbon dioxide and water", "Sodium chloride and sulfuric acid"],
+"correct": 1
+},
+{
+"q": "In the reversible hydration of anhydrous copper(II) sulfate, what is added to the white solid to turn it blue?",
+"a": ["Concentrated hydrochloric acid", "Ethanol", "Water", "Sodium hydroxide solution"],
+"correct": 2
+},
+{
+"q": "Why does adding a catalyst have no effect on the position of dynamic equilibrium?",
+"a": ["Catalysts are destroyed in equilibrium mixtures", "Catalysts only work on solid reactants", "Catalysts lower activation energy", "It increases the rates of both the forward and reverse reactions by the exact same factor"],
+"correct": 3
+},
+{
+"q": "What is the source of sulfur dioxide used in the Contact process?",
+"a": ["Burning sulfur in air or roasting sulfide ores like iron pyrites", "Dissolving sulfate salts in water", "Decomposing sulfuric acid", "Reaction of limestone with acid"],
+"correct": 0
+},
+{
+"q": "What pressure range is typically employed in the industrial Haber process?",
+"a": ["1 to 2 atmospheres", "200 to 250 atmospheres", "1000 atmospheres", "5000 atmospheres"],
+"correct": 1
+},
+{
+"q": "What color is observed when cobalt(II) chloride paper is exposed to moisture (water)?",
+"a": ["White to yellow", "Green to black", "Blue to pink", "Red to colorless"],
+"correct": 2
+},
+{
+"q": "How does decreasing the concentration of a product affect the position of a chemical equilibrium?",
+"a": ["Shifts equilibrium to the left", "Has no effect", "Stops the reverse reaction", "Shifts equilibrium to the right to replace the product that was removed"],
+"correct": 3
+},
+{
+"q": "In the manufacture of sulfuric acid by the Contact process, sulfur trioxide is dissolved in which substance before adding water, to prevent violent mist formation?",
+"a": ["Concentrated sulfuric acid", "Pure water", "Ethanol", "Liquid ammonia"],
+"correct": 0
+},
+{
+"q": "Which of the following best defines a closed system in chemistry?",
+"a": ["A system sealed with a wooden cork", "A system where reactants and products cannot enter or leave from the surroundings", "A container kept at absolute zero temperature", "A system where all reactions have finished"],
+"correct": 1
+},
+{
+"q": "What is the purpose of recycling unreacted nitrogen and hydrogen gases in the Haber process?",
+"a": ["To cool down the reaction vessel", "To remove poisonous impurities", "To maximize overall efficiency and economic yield", "To increase the activation energy"],
+"correct": 2
+},
+{
+"q": "In the endothermic equilibrium system: Co(H<sub>2</sub>O)<sub>6</sub><sup>2+</sup> + 4Cl<sup>-</sup> <--> CoCl<sub>4</sub><sup>2-</sup> + 6H<sub>2</sub>O (pink to blue), what happens when the mixture is cooled?",
+"a": ["Solution turns dark purple", "Solution turns bright green", "Solution turns completely colorless", "Solution turns pink because cooling favors the exothermic reverse reaction"],
+"correct": 3
+},
+{
+"q": "What is the economic trade-off considered when choosing operating conditions for industrial reversible reactions?",
+"a": ["Balancing maximum percentage yield (favored by low temp/high pressure) with high reaction rate and safety (favored by moderate temp/pressure)", "Using as much electricity as possible", "Eliminating all catalysts to save metal", "Running reactions at room temperature exclusively"],
+"correct": 0
+},
+{
+"q": "Which gas is passed over heated iron catalyst in the Haber process?",
+"a": ["Carbon dioxide and oxygen", "A 1:3 mixture of nitrogen and hydrogen gases", "Pure chlorine gas", "Methane and steam"],
+"correct": 1
+},
+{
+"q": "If the forward reaction is exothermic, how does an increase in temperature affect the equilibrium constant (K)?",
+"a": ["Increases K", "Keeps K constant", "Decreases K", "Makes K zero"],
+"correct": 2
+},
+{
+"q": "What happens when an aqueous solution of bismuth chloride is diluted with excess water, forming a white precipitate of bismuth oxychloride in a reversible reaction?",
+"a": ["The reaction is irreversible", "The precipitate dissolves instantly into a gas", "Equilibrium shifts to the left", "Equilibrium shifts to the right to form more precipitate"],
+"correct": 3
+},
+{
+"q": "Which of the following is true regarding macroscopic properties at dynamic equilibrium?",
+"a": ["They remain constant because forward and reverse rates are balanced", "They fluctuate wildly over time", "They drop to zero", "They change continuously as reactants are consumed"],
+"correct": 0
+},
+{
+"q": "What is the primary use of ammonia produced via the Haber process?",
+"a": ["Fueling commercial aircraft", "Manufacture of fertilizers and nitric acid", "Purifying drinking water", "Welding metals together"],
+"correct": 1
+},
+{
+"q": "In the equilibrium reaction: 2NO<sub>2</sub> <--> N<sub>2</sub>O<sub>4</sub> (brown gas to colorless gas, Delta H is negative), what happens to the color intensity of the mixture when the pressure is increased?",
+"a": ["Color becomes much darker brown", "Color turns neon green", "Color fades or becomes lighter because equilibrium shifts to the side with fewer gas moles (N<sub>2</sub>O<sub>4</sub>)", "Color disappears instantly"],
+"correct": 2
+},
+{
+"q": "Why is vanadium(V) oxide used in the Contact process instead of platinum alone?",
+"a": ["Platinum is too cheap", "Vanadium(V) oxide is a liquid", "Vanadium(V) oxide is radioactive", "Platinum is easily poisoned by impurities and is much more expensive"],
+"correct": 3
+}
+]
+}

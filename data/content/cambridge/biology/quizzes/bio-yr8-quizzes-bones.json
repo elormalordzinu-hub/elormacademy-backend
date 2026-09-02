@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-bones",
+"name": "Human Skeleton and Bones",
+"questions": [
+{
+"q": "What is the primary function of the human skeleton?",
+"a": ["To digest food and absorb nutrients", "To pump blood around the body", "To provide support, protection, and movement", "To produce chemical hormones"],
+"correct": 2
+},
+{
+"q": "Which part of the skeleton protects the brain?",
+"a": ["The ribcage", "The skull", "The backbone", "The pelvis"],
+"correct": 1
+},
+{
+"q": "Which organ is primarily protected by the ribcage?",
+"a": ["The stomach", "The kidneys", "The lungs", "The intestines"],
+"correct": 2
+},
+{
+"q": "What scientific name is given to the backbone?",
+"a": ["Femur", "Cranium", "Vertebral column", "Sternum"],
+"correct": 2
+},
+{
+"q": "Bones store essential minerals such as calcium and which other mineral?",
+"a": ["Phosphorus", "Iron", "Sodium", "Potassium"],
+"correct": 0
+},
+{
+"q": "What type of tissue inside bones produces blood cells?",
+"a": ["Cartilage", "Bone marrow", "Ligament", "Tendon"],
+"correct": 1
+},
+{
+"q": "What is the name of the long bone in the upper leg?",
+"a": ["Humerus", "Tibia", "Fibula", "Femur"],
+"correct": 3
+},
+{
+"q": "What is the name of the upper arm bone?",
+"a": ["Radius", "Humerus", "Ulna", "Clavicle"],
+"correct": 1
+},
+{
+"q": "What tissue connects bone to bone at a joint?",
+"a": ["Tendon", "Ligament", "Cartilage", "Muscle"],
+"correct": 1
+},
+{
+"q": "What tissue connects skeletal muscle to bone?",
+"a": ["Ligament", "Tendon", "Cartilage", "Joint capsule"],
+"correct": 1
+},
+{
+"q": "What is the function of cartilage at the ends of bones in a joint?",
+"a": ["To absorb shock and reduce friction", "To produce red blood cells", "To contract and cause movement", "To attach muscles directly to skin"],
+"correct": 0
+},
+{
+"q": "Which type of joint is found at the shoulder and hip, allowing movement in all directions?",
+"a": ["Hinge joint", "Fixed joint", "Ball-and-socket joint", "Pivot joint"],
+"correct": 2
+},
+{
+"q": "Which type of joint is found at the knee and elbow, allowing movement in one plane?",
+"a": ["Ball-and-socket joint", "Hinge joint", "Sutures", "Gliding joint"],
+"correct": 1
+},
+{
+"q": "How do skeletal muscles work together to move bones?",
+"a": ["In antagonistic pairs, where one contracts while the other relaxes", "By both contracting at the same time to push bones", "By dissolving bone matrix to lengthen limbs", "By sending electrical impulses directly to the skin"],
+"correct": 0
+},
+{
+"q": "When you bend your arm at the elbow, which muscle contracts?",
+"a": ["Triceps", "Biceps", "Pectorals", "Deltoids"],
+"correct": 1
+},
+{
+"q": "When you straighten your arm at the elbow, which muscle contracts?",
+"a": ["Biceps", "Triceps", "Quadriceps", "Hamstrings"],
+"correct": 1
+},
+{
+"q": "What kind of skeleton do humans have inside their bodies?",
+"a": ["Exoskeleton", "Hydrostatic skeleton", "Endoskeleton", "Invertebrate skeleton"],
+"correct": 2
+},
+{
+"q": "Which bones make up the protective cage around the heart and lungs?",
+"a": ["Ribs and sternum", "Pelvis and femur", "Skull and jaw", "Radius and ulna"],
+"correct": 0
+},
+{
+"q": "Why is the skeletal system important for movement?",
+"a": ["It stores all the body's water", "It acts as a framework that muscles pull against", "It generates chemical energy for cells", "It pumps blood to the limbs"],
+"correct": 1
+},
+{
+"q": "Which mineral makes bones hard and rigid?",
+"a": ["Calcium", "Carbon", "Nitrogen", "Hydrogen"],
+"correct": 0
+},
+{
+"q": "What is the role of synovial fluid in a joint?",
+"a": ["To anchor muscles to bones", "To lubricate the joint and reduce friction", "To supply oxygen directly to bone cells", "To connect bones together rigidly"],
+"correct": 1
+},
+{
+"q": "Which of the following describes an immovable (fixed) joint?",
+"a": ["The knee joint", "The elbow joint", "The joints between skull bones", "The shoulder joint"],
+"correct": 2
+},
+{
+"q": "If a person damages their tendon, what difficulty will they most likely experience?",
+"a": ["Bones will not be able to connect to other bones", "Muscles will not be able to pull on bones", "Joints will lack lubricating fluid", "Blood cells will no longer form"],
+"correct": 1
+},
+{
+"q": "Which bone forms the lower jaw?",
+"a": ["Mandible", "Maxilla", "Cranium", "Clavicle"],
+"correct": 0
+},
+{
+"q": "What are the individual bones that stack up to form the spine called?",
+"a": ["Ribs", "Vertebrae", "Phalanges", "Carpals"],
+"correct": 1
+},
+{
+"q": "Which part of the skeleton supports the lower abdominal organs and connects the legs to the spine?",
+"a": ["Pelvis", "Scapula", "Sternum", "Patella"],
+"correct": 0
+},
+{
+"q": "What is the common name for the patella?",
+"a": ["Collarbone", "Kneecap", "Shoulder blade", "Breastbone"],
+"correct": 1
+},
+{
+"q": "Which two bones make up the lower arm?",
+"a": ["Femur and tibia", "Radius and ulna", "Humerus and femur", "Tibia and fibula"],
+"correct": 1
+},
+{
+"q": "Which two bones make up the lower leg?",
+"a": ["Radius and ulna", "Tibia and fibula", "Humerus and radius", "Carpals and tarsals"],
+"correct": 1
+},
+{
+"q": "What is the main function of red bone marrow?",
+"a": ["To store fat reserves", "To produce blood cells", "To make bones flexible", "To filter waste from blood"],
+"correct": 1
+},
+{
+"q": "Which structure encloses and protects the spinal cord?",
+"a": ["The ribcage", "The skull", "The vertebral column", "The sternum"],
+"correct": 2
+},
+{
+"q": "What happens to a muscle when it contracts?",
+"a": ["It gets shorter and thicker", "It gets longer and thinner", "It dissolves into liquid", "It stays the exact same shape"],
+"correct": 0
+},
+{
+"q": "Why can muscles only pull on bones and never push?",
+"a": ["Muscle cells can only shorten when stimulated, not elongate under their own power", "Bones are too heavy for muscles to push", "Tendons prevent pushing motions", "Nerves do not send push signals"],
+"correct": 0
+},
+{
+"q": "Which term describes joints that allow a wide range of movement, like hips and knees?",
+"a": ["Fixed joints", "Freely movable joints", "Sutures", "Immovable joints"],
+"correct": 1
+},
+{
+"q": "What is the outer layer of a bone mostly known for providing?",
+"a": ["Compact, strong structural support", "Soft cushioning material", "Blood cell manufacture", "Elastic flexibility like rubber"],
+"correct": 0
+},
+{
+"q": "Which mineral deficiency can lead to soft, weak bones in humans?",
+"a": ["Calcium", "Sodium", "Chlorine", "Iodine"],
+"correct": 0
+},
+{
+"q": "What is the function of the joint capsule?",
+"a": ["To enclose the joint and hold synovial fluid inside", "To connect two muscles together", "To send nerve signals to the brain", "To anchor teeth in the jaw"],
+"correct": 0
+},
+{
+"q": "Which of these is a bone located in the hand?",
+"a": ["Tarsal", "Carpal", "Tibia", "Fibula"],
+"correct": 1
+},
+{
+"q": "Which of these is a bone located in the foot?",
+"a": ["Carpal", "Metacarpal", "Tarsal", "Ulna"],
+"correct": 2
+},
+{
+"q": "What is the anatomical name for the collarbone?",
+"a": ["Scapula", "Clavicle", "Sternum", "Pelvis"],
+"correct": 1
+}
+]
+}

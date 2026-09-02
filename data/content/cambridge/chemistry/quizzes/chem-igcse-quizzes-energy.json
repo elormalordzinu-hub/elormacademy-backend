@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-energy",
+"name": "Chemical reactions and energy changes",
+"questions": [
+{
+"q": "What term describes a chemical reaction that releases thermal energy to the surroundings, causing the temperature to rise?",
+"a": ["Exothermic reaction", "Endothermic reaction", "Photochemical reaction", "Neutralization balance"],
+"correct": 0
+},
+{
+"q": "Which of the following processes is always endothermic?",
+"a": ["Combustion of fuels", "Breaking of chemical bonds", "Neutralization of acid by alkali", "Respiration in living cells"],
+"correct": 1
+},
+{
+"q": "What happens to the surroundings during an endothermic reaction?",
+"a": ["They gain thermal energy and heat up", "They remain at a constant temperature", "They lose thermal energy, causing the temperature to drop", "They emit light energy spontaneously"],
+"correct": 2
+},
+{
+"q": "In an energy level diagram (reaction pathway diagram) for an exothermic reaction, how does the energy of the products compare to the energy of the reactants?",
+"a": ["Products have higher energy than reactants", "Products have equal energy to reactants", "Energy first drops and then rises infinitely", "Products have lower energy than reactants"],
+"correct": 3
+},
+{
+"q": "What is activation energy?",
+"a": ["The minimum amount of energy particles must collide with to start a chemical reaction", "The total energy released during bond formation", "The heat absorbed when a liquid turns into a gas", "The electrical energy required to run electrolysis"],
+"correct": 0
+},
+{
+"q": "Why is energy absorbed during the bond-breaking phase of a chemical reaction?",
+"a": ["Energy is created by splitting atoms", "Energy must be supplied to overcome the electrostatic forces holding the bonded atoms together", "Energy is absorbed to cool the reaction down", "Electrons are destroyed in the process"],
+"correct": 1
+},
+{
+"q": "How is overall enthalpy change (Delta H) calculated in terms of bond energies?",
+"a": ["Energy released in breaking bonds minus energy absorbed in forming bonds", "Total energy of products multiplied by total energy of reactants", "Energy absorbed in breaking bonds minus energy released in forming bonds", "Sum of all bond energies in the entire system"],
+"correct": 2
+},
+{
+"q": "What sign is given to the enthalpy change (Delta H) for an exothermic reaction?",
+"a": ["Positive (+)", "Neutral (0)", "Variable depending on volume", "Negative (-)"],
+"correct": 3
+},
+{
+"q": "Which of the following reactions is classified as exothermic?",
+"a": ["Neutralization between hydrochloric acid and sodium hydroxide", "Thermal decomposition of calcium carbonate", "Photosynthesis in green plants", "Melting of ice cubes"],
+"correct": 0
+},
+{
+"q": "What does a catalyst do to the activation energy of a chemical reaction?",
+"a": ["Increases the activation energy", "Lowers the activation energy by providing an alternative reaction pathway", "Keeps the activation energy completely unchanged", "Eliminates activation energy entirely so no collisions are needed"],
+"correct": 1
+},
+{
+"q": "Which of the following processes represents an endothermic energy change?",
+"a": ["Freezing of water", "Condensation of steam", "Thermal decomposition of limestone", "Burning of natural gas"],
+"correct": 2
+},
+{
+"q": "In an endothermic reaction energy profile diagram, what is represented by the vertical height from the reactants line to the peak of the curve?",
+"a": ["Overall enthalpy change", "Heat of neutralization", "Bond energy of products", "Activation energy for the forward reaction"],
+"correct": 3
+},
+{
+"q": "What occurs during bond formation in a chemical reaction?",
+"a": ["Energy is released to the surroundings", "Energy is absorbed from the surroundings", "No energy change takes place", "Activation energy is consumed permanently"],
+"correct": 0
+},
+{
+"q": "Which of the following statements about bond energies is correct?",
+"a": ["Bond breaking is an exothermic process", "Bond making is an exothermic process", "Bond breaking and bond making both release energy", "Bond breaking and bond making both absorb energy"],
+"correct": 1
+},
+{
+"q": "If a reaction has more energy released during bond formation than was absorbed during bond breaking, what type of reaction is it?",
+"a": ["Endothermic", "Photochemical", "Exothermic", "Thermal equilibrium"],
+"correct": 2
+},
+{
+"q": "Which device is used in the laboratory to measure the temperature change during solution reactions or neutralization?",
+"a": ["Voltmeter", "Barometer", "Hydrometer", "Thermometer"],
+"correct": 3
+},
+{
+"q": "Why does a simple chemical cell (battery) generate electrical energy?",
+"a": ["Exothermic redox reactions convert chemical energy directly into electrical energy", "Endothermic reactions absorb electricity from the air", "Heat from the room boils electrolyte solutions", "Friction between metal plates creates static electricity"],
+"correct": 0
+},
+{
+"q": "During the thermal decomposition of copper(II) carbonate, what type of heat change is observed in the test tube?",
+"a": ["Exothermic because heat is generated rapidly", "Endothermic because heat must be continuously supplied from a Bunsen burner", "Neutralization because pH changes to 7", "Combustion because gases ignite"],
+"correct": 1
+},
+{
+"q": "Which of the following everyday items utilizes an exothermic chemical reaction?",
+"a": ["Instant cold pack for sports injuries", "Refrigerator cooling coils", "Hand warmer utilizing iron oxidation", "Electric kettle heating element"],
+"correct": 2
+},
+{
+"q": "What is the primary role of a fuel cell, such as a hydrogen-oxygen fuel cell?",
+"a": ["To store electrical charges like a standard capacitor", "To burn hydrogen gas explosively to produce mechanical thrust", "To decompose water into hydrogen and oxygen using heat", "To generate electrical energy directly from the combustion of a fuel without burning it"],
+"correct": 3
+},
+{
+"q": "How does increasing the temperature of a reaction mixture affect the energy of the colliding particles?",
+"a": ["It increases the kinetic energy and speed of particles, leading to more frequent and energetic successful collisions", "It decreases particle movement to stabilize bonds", "It stops collisions entirely", "It reduces the activation energy barrier"],
+"correct": 0
+},
+{
+"q": "What is the enthalpy change (Delta H) sign for an endothermic process?",
+"a": ["Negative (-)", "Positive (+)", "Zero (0)", "Infinite"],
+"correct": 1
+},
+{
+"q": "Which reaction represents a typical combustion process that is strongly exothermic?",
+"a": ["Melting solid wax", "Dissolving ammonium nitrate in water", "Burning methane in excess oxygen", "Boiling liquid water into steam"],
+"correct": 2
+},
+{
+"q": "In a reaction profile diagram, what does the difference in height between the reactants line and the products line represent?",
+"a": ["Activation energy", "Catalytic effect", "Reaction rate", "Overall enthalpy change (Delta H)"],
+"correct": 3
+},
+{
+"q": "Why do chemical reactions require an initial input of activation energy?",
+"a": ["To overcome repulsive forces between electron clouds and start breaking existing chemical bonds", "To cool the reactants down to stable temperatures", "To increase the mass of the products", "To convert protons into neutrons"],
+"correct": 0
+},
+{
+"q": "Which of the following processes is used in instant cold packs for sports injuries due to its strong endothermic nature?",
+"a": ["Oxidation of iron powder", "Dissolving ammonium nitrate salt in water", "Neutralization of acid with base", "Combustion of ethanol"],
+"correct": 1
+},
+{
+"q": "What happens to the temperature of water when sodium hydroxide pellets are dissolved in it?",
+"a": ["Temperature drops significantly", "Temperature remains constant", "Temperature rises because the dissolution is exothermic", "Water freezes instantly"],
+"correct": 2
+},
+{
+"q": "Which factor determines whether a chemical reaction is exothermic or endothermic overall?",
+"a": ["The physical state of the reactants only", "The presence of a platinum catalyst", "The atmospheric pressure in the laboratory", "The relative magnitude of energy absorbed in breaking bonds versus energy released in forming new bonds"],
+"correct": 3
+},
+{
+"q": "When hydrogen and oxygen react to form water vapor, energy is released. What does this indicate about the bonds in reactants versus products?",
+"a": ["The bonds formed in water are stronger than the bonds broken in hydrogen and oxygen", "The bonds in the reactants are stronger than the bonds in the products", "No bonds are formed during this reaction", "The reaction is endothermic"],
+"correct": 0
+},
+{
+"q": "Which of the following statements about catalysts in energy changes is correct?",
+"a": ["Catalysts change the overall enthalpy change (Delta H) of a reaction", "Catalysts lower the activation energy by providing an alternative reaction route", "Catalysts make endothermic reactions become exothermic", "Catalysts are consumed permanently during bond formation"],
+"correct": 1
+},
+{
+"q": "If 50 cm<sup>3</sup> of acid is neutralized by 50 cm<sup>3</sup> of alkali and the temperature increases by 6 degrees Celsius, what type of reaction has occurred?",
+"a": ["Endothermic", "Photochemical", "Exothermic", "Thermal decomposition"],
+"correct": 2
+},
+{
+"q": "Which of the following energy changes is expected when bonds with high bond energies are formed from atoms?",
+"a": ["A small amount of energy is absorbed", "Energy remains unchanged", "Energy is consumed by electrons", "A large amount of energy is released"],
+"correct": 3
+},
+{
+"q": "What is the primary energy transformation occurring in a car engine during the combustion of petrol?",
+"a": ["Chemical energy to thermal and kinetic mechanical energy", "Electrical energy to chemical energy", "Light energy to nuclear energy", "Thermal energy to gravitational potential energy"],
+"correct": 0
+},
+{
+"q": "Why does a glowing splint reignite in oxygen? (Considering energy and collision factors)",
+"a": ["Oxygen cools the splint down rapidly", "Higher concentration of oxygen increases successful collision frequency and rate of exothermic combustion", "Oxygen absorbs all heat from the splint", "Decomposition of carbon dioxide occurs"],
+"correct": 1
+},
+{
+"q": "In bond energy calculations, if the total energy required to break bonds is 1200 kJ/mol and the total energy released in forming bonds is 1500 kJ/mol, what is the enthalpy change (Delta H)?",
+"a": ["+300 kJ/mol", "+2700 kJ/mol", "-300 kJ/mol", "-2700 kJ/mol"],
+"correct": 2
+},
+{
+"q": "Which term describes the energy needed to break one mole of a particular covalent bond in gaseous molecules?",
+"a": ["Latent heat of vaporization", "Ionization energy", "Activation energy", "Bond dissociation energy (bond energy)"],
+"correct": 3
+},
+{
+"q": "What is observed when solid ammonium chloride is dissolved in water inside a beaker?",
+"a": ["The beaker feels cold because the process is endothermic", "The beaker feels hot because the process is exothermic", "The solution boils vigorously", "Solid crystals precipitate instantly"],
+"correct": 0
+},
+{
+"q": "Which of the following best describes the role of activation energy in a stable mixture of hydrogen and oxygen gases at room temperature?",
+"a": ["It is zero, so they react instantaneously", "It is high enough that without a spark or flame, the molecules do not collide with sufficient energy to react", "It causes the gases to liquefy", "It absorbs all thermal energy from the container"],
+"correct": 1
+},
+{
+"q": "During photosynthesis, plants absorb light energy from the Sun to convert carbon dioxide and water into glucose. How is this reaction classified?",
+"a": ["Exothermic", "Combustion", "Endothermic", "Neutralization"],
+"correct": 2
+},
+{
+"q": "What is the main advantage of using a catalyst in industrial exothermic processes, such as the Haber process?",
+"a": ["It increases the final yield of products infinitely", "It eliminates the need for any containers", "It consumes unwanted waste gases", "It allows the reaction to proceed faster at lower temperatures, saving energy and operational costs"],
+"correct": 3
+}
+]
+}

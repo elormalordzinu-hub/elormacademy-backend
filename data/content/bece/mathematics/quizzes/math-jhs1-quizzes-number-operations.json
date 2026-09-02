@@ -1,0 +1,206 @@
+{
+  "id": "math-jhs1-quizzes-number-operations",
+  "name": "Number Operations",
+  "questions": [
+    {
+      "q": "What is the sum of all prime numbers between 1 and 10?",
+      "a": ["17", "15", "18", "16"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate the following expression using order of operations: 15 - 3 × 4 + 6.",
+      "a": ["54", "9", "48", "12"],
+      "correct": 1
+    },
+    {
+      "q": "What is the Highest Common Factor (HCF) of 24 and 36?",
+      "a": ["6", "8", "12", "4"],
+      "correct": 2
+    },
+    {
+      "q": "Find the Least Common Multiple (LCM) of 6, 8, and 12.",
+      "a": ["48", "36", "72", "24"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of -15 + 28 - (-7)?",
+      "a": ["20", "36", "50", "6"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following numbers is a composite number?",
+      "a": ["13", "15", "17", "19"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate: (-8) × (-5) + (-24) / 4.",
+      "a": ["56", "44", "37", "34"],
+      "correct": 2
+    },
+    {
+      "q": "What is the square root of 529?",
+      "a": ["21", "27", "29", "23"],
+      "correct": 3
+    },
+    {
+      "q": "Express 360 as a product of its prime factors in index form.",
+      "a": ["2³ × 3² × 5", "2² × 3³ × 5", "2³ × 3 × 5²", "2 × 3² × 5²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the value of 5 + 3 × (8 - 2) / 2?",
+      "a": ["16", "14", "18", "24"],
+      "correct": 1
+    },
+    {
+      "q": "Find the cube root of 1728.",
+      "a": ["14", "16", "12", "18"],
+      "correct": 2
+    },
+    {
+      "q": "What is the sum of the first four square numbers?",
+      "a": ["10", "16", "25", "30"],
+      "correct": 3
+    },
+    {
+      "q": "A school has 720 students. If they are arranged in rows of 18, how many rows are formed?",
+      "a": ["40", "35", "45", "50"],
+      "correct": 0
+    },
+    {
+      "q": "What is the result when -45 is divided by 9 and then multiplied by -3?",
+      "a": ["-15", "15", "-135", "135"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following sets contains only prime numbers?",
+      "a": ["2, 3, 9, 11", "5, 7, 15, 19", "2, 11, 13, 17", "3, 13, 21, 23"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate: 4³ - 3³ + 2³.",
+      "a": ["45", "56", "37", "45"],
+      "correct": 3
+    },
+    {
+      "q": "What is the smallest 4-digit number that is divisible by both 4 and 9?",
+      "a": ["1008", "1012", "1036", "1004"],
+      "correct": 0
+    },
+    {
+      "q": "If a farmer harvests 45 bags of maize on Monday, 38 on Tuesday, and sells 52 on Wednesday, how many bags does he have left?",
+      "a": ["25", "31", "35", "29"],
+      "correct": 1
+    },
+    {
+      "q": "What is the difference between the LCM and HCF of 18 and 24?",
+      "a": ["66", "60", "68", "72"],
+      "correct": 2
+    },
+    {
+      "q": "Simplify completely: -18 - (-12) + 5 × (-3).",
+      "a": ["-9", "6", "-15", "-21"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of 8 + 4 × 3 - 6 / 2?",
+      "a": ["17", "14", "20", "15"],
+      "correct": 0
+    },
+    {
+      "q": "Find the missing number in the sequence: 2, 3, 5, 7, 11, _, 17.",
+      "a": ["15", "13", "14", "12"],
+      "correct": 1
+    },
+    {
+      "q": "What is the product of the square of 7 and the square root of 81?",
+      "a": ["441", "343", "567", "63"],
+      "correct": 2
+    },
+    {
+      "q": "A tank contains 2400 litres of water. If 350 litres are pumped out every hour, how much water remains after 4 hours?",
+      "a": ["800 litres", "900 litres", "1200 litres", "1000 litres"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of (-2)⁵?",
+      "a": ["-32", "32", "-10", "10"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate: 50 - [20 + (12 / 4) × 2].",
+      "a": ["22", "24", "26", "20"],
+      "correct": 1
+    },
+    {
+      "q": "What is the nearest whole number to the square root of 200?",
+      "a": ["13", "15", "14", "16"],
+      "correct": 2
+    },
+    {
+      "q": "If three bells toll at intervals of 6, 8, and 12 minutes respectively, after how many minutes will they toll together again?",
+      "a": ["36 minutes", "48 minutes", "18 minutes", "24 minutes"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of 15 + (-8) - 12 + 6?",
+      "a": ["1", "5", "3", "7"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following numbers is divisible by both 3 and 11?",
+      "a": ["132", "143", "156", "165"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the value of: 7 × (14 - 8) + 36 / 4.",
+      "a": ["48", "56", "51", "60"],
+      "correct": 2
+    },
+    {
+      "q": "What is the sum of all factors of 20?",
+      "a": ["38", "40", "45", "42"],
+      "correct": 3
+    },
+    {
+      "q": "Find the value of 100 - [25 - (5 × 3)].",
+      "a": ["90", "85", "80", "95"],
+      "correct": 0
+    },
+    {
+      "q": "What is the product of -12, -3, and 2?",
+      "a": ["-72", "72", "-36", "36"],
+      "correct": 1
+    },
+    {
+      "q": "If a number is multiplied by 7 and 15 is subtracted from the result, the answer is 48. What is the number?",
+      "a": ["7", "8", "9", "6"],
+      "correct": 2
+    },
+    {
+      "q": "What is the value of 3⁴ / 3² + 4²?",
+      "a": ["18", "21", "23", "25"],
+      "correct": 3
+    },
+    {
+      "q": "What is the exact value of (-5) × [12 + (-4)] / 2?",
+      "a": ["-20", "-10", "20", "15"],
+      "correct": 0
+    },
+    {
+      "q": "Find the highest common factor of 48, 72, and 108.",
+      "a": ["16", "24", "12", "18"],
+      "correct": 1
+    },
+    {
+      "q": "What is the value of the expression: 18 / (9 - 6) + 5 × 2?",
+      "a": ["12", "14", "16", "18"],
+      "correct": 2
+    },
+    {
+      "q": "If P = {prime numbers less than 10} and Q = {even numbers less than 10}, what is the number of elements in P union Q?",
+      "a": ["5", "6", "7", "8"],
+      "correct": 3
+    }
+  ]
+}

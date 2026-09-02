@@ -1,0 +1,296 @@
+{
+  "id": "phys-igcse-quizzes-waves",
+  "name": "General wave properties",
+  "questions": [
+    {
+      "q": "What do waves transfer from one location to another without transferring matter?",
+      "a": ["Energy", "Mass", "Atoms", "Physical particles"],
+      "correct": 0
+    },
+    {
+      "q": "What is the difference between transverse waves and longitudinal waves in terms of particle oscillation?",
+      "a": [
+        "Transverse wave oscillations are parallel, while longitudinal oscillations are perpendicular.",
+        "Transverse wave oscillations are perpendicular to energy propagation, whereas longitudinal oscillations are parallel.",
+        "Transverse waves require a medium, while longitudinal waves do not.",
+        "Transverse waves move slower than longitudinal waves."
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is an example of a transverse wave?",
+      "a": ["Sound wave in air", "Ultrasonic wave in steel", "Water surface ripples and electromagnetic waves", "Seismic P-wave"],
+      "correct": 2
+    },
+    {
+      "q": "What is defined as the maximum displacement of a wave particle from its undisturbed (rest) position?",
+      "a": ["Wavelength", "Frequency", "Period", "Amplitude"],
+      "correct": 3
+    },
+    {
+      "q": "What is the wavelength of a wave?",
+      "a": [
+        "The horizontal distance between two consecutive corresponding points on a wave, such as crest to crest",
+        "The total height from trough to crest",
+        "The time taken for one full wave to pass",
+        "The speed at which the wave travels"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the frequency of a wave defined as?",
+      "a": [
+        "The distance traveled by the wave per second",
+        "The number of complete wave cycles passing a given point per unit time (measured in hertz)",
+        "The time taken for one wave cycle",
+        "The maximum amplitude of the wave"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the period (T) of a wave?",
+      "a": [
+        "The distance between two crests",
+        "The total duration of the wave experiment",
+        "The time taken for one complete wave cycle to pass a given point",
+        "The inverse of wave amplitude"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "How is the frequency (f) of a wave related to its time period (T)?",
+      "a": ["f = T", "f = T²", "f = 1 × T", "f = 1 / T"],
+      "correct": 3
+    },
+    {
+      "q": "What wave equation links wave speed (v), frequency (f), and wavelength (λ)?",
+      "a": ["v = f × λ", "v = λ / f", "v = f / λ", "v = f + λ"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to wavefronts when water waves pass from deep water into shallow water where their speed decreases?",
+      "a": [
+        "Wavefronts spread further apart and wavelength increases.",
+        "Wavefronts bunch closer together and wavelength decreases while frequency remains constant.",
+        "Frequency drops to zero.",
+        "Wave direction remains completely unaffected."
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is reflection of a wave?",
+      "a": [
+        "The bending of a wave around an obstacle",
+        "The change in speed of a wave entering a new medium",
+        "The bouncing of a wave off a boundary when it hits a surface",
+        "The absorption of wave energy by a medium"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is refraction of waves?",
+      "a": [
+        "The complete stopping of wave motion",
+        "The splitting of a wave into two colors",
+        "The reflection of wave energy backward",
+        "The bending of a wave as it passes from one medium into another due to a change in wave speed"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "When water waves undergo diffraction through a narrow gap or aperture, what determines the extent of the bending?",
+      "a": [
+        "The size of the gap relative to the wavelength of the waves",
+        "The amplitude of the incoming waves",
+        "The color of the water",
+        "The depth of the water tank only"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Under what condition is diffraction of waves most pronounced and noticeable?",
+      "a": [
+        "When the gap or obstacle size is much larger than the wavelength",
+        "When the size of the gap is comparable to or smaller than the wavelength of the waves",
+        "When the wave speed is zero",
+        "When frequency is infinitely high"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is a wavefront?",
+      "a": [
+        "A single particle oscillating up and down",
+        "The trailing edge of a wave pulse",
+        "An imaginary line joining points on a wave that are all in the same phase of oscillation",
+        "The physical barrier reflecting the wave"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "If a wave has a frequency of 50 Hz and a wavelength of 0.4 meters, what is its speed?",
+      "a": ["12.5 m/s", "50.4 m/s", "20.0 m/s", "2.0 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "Which wave phenomenon explains why you can hear sounds around a barrier even when you cannot see the source?",
+      "a": ["Diffraction", "Specular reflection", "Total internal reflection", "Polarization"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the frequency of a wave when it is refracted as it enters a denser medium?",
+      "a": ["Frequency increases.", "Frequency remains constant.", "Frequency decreases.", "Frequency drops to zero."],
+      "correct": 1
+    },
+    {
+      "q": "If 20 complete wave ripples pass a cork bobbing on water in 5 seconds, what is the frequency of the waves?",
+      "a": ["0.25 Hz", "1.00 Hz", "4.00 Hz", "100.0 Hz"],
+      "correct": 2
+    },
+    {
+      "q": "What is a ripple tank primarily used to demonstrate in physics classrooms?",
+      "a": [
+        "Electrical resistance in circuits",
+        "Magnetic fields around wires",
+        "Radio wave broadcasting",
+        "Wave properties such as reflection, refraction, diffraction, and interference using water ripples"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "When a wave reflects off a flat plane barrier, how does the angle of reflection compare to the angle of incidence?",
+      "a": ["Angle of reflection equals angle of incidence", "Angle of reflection is greater", "Angle of reflection is smaller", "Angle of reflection is always 90 degrees"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the phenomenon where two overlapping waves reinforce each other to produce a wave of larger amplitude?",
+      "a": ["Destructive interference", "Constructive interference", "Diffraction", "Attenuation"],
+      "correct": 1
+    },
+    {
+      "q": "What happens during destructive interference of two identical waves that are completely out of phase (180 degrees out of phase)?",
+      "a": [
+        "Their amplitudes add up to double size.",
+        "They turn into sound waves.",
+        "They cancel each other out, resulting in zero amplitude.",
+        "They reflect backward."
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is true for all electromagnetic waves traveling through a vacuum?",
+      "a": [
+        "They have different speeds depending on their frequency.",
+        "They are longitudinal waves.",
+        "They require solid matter to propagate.",
+        "They all travel at the same constant speed of approximately 300,000,000 m/s."
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the time period of a wave with a frequency of 200 Hz?",
+      "a": ["0.005 seconds", "0.05 seconds", "0.5 seconds", "2.0 seconds"],
+      "correct": 0
+    },
+    {
+      "q": "Why do water waves slow down when traveling from deep water into shallow water?",
+      "a": [
+        "Water temperature drops.",
+        "Interaction with the bottom of the shallow tank creates drag and reduces wave speed.",
+        "Air pressure increases.",
+        "Wavelength becomes infinite."
+      ],
+      "correct": 1
+    },
+    {
+      "q": "In a transverse wave diagram, what is the distance from a crest to an adjacent trough equal to in terms of amplitude?",
+      "a": ["One full wavelength", "Half an amplitude", "Twice the amplitude (2A)", "Four times the amplitude"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the wavelength of a wave if its speed doubles while its frequency remains constant?",
+      "a": ["Wavelength is halved.", "Wavelength remains unchanged.", "Wavelength decreases by a factor of four.", "Wavelength is doubled."],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following types of waves requires a material medium and cannot travel through a vacuum?",
+      "a": ["Sound waves", "Light waves", "X-rays", "Radio waves"],
+      "correct": 0
+    },
+    {
+      "q": "What is the defining characteristic of a progressive (traveling) wave?",
+      "a": [
+        "It stores energy permanently in one spot without moving.",
+        "It transfers energy from one place to another through the vibration of a medium or field.",
+        "It has zero frequency.",
+        "It travels only in a vacuum."
+      ],
+      "correct": 1
+    },
+    {
+      "q": "If a wave crest passes a fixed point every 0.2 seconds, what is the frequency of the wave?",
+      "a": ["0.2 Hz", "2.0 Hz", "5.0 Hz", "10.0 Hz"],
+      "correct": 2
+    },
+    {
+      "q": "When plane water waves pass through a wide gap that is much larger than their wavelength, what is observed regarding diffraction?",
+      "a": [
+        "Waves spread out in semicircles everywhere.",
+        "Waves stop completely.",
+        "Waves reflect backward.",
+        "Waves pass straight through with very little noticeable diffraction at the edges."
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the phase relationship between two points on a wave separated by exactly one full wavelength (λ)?",
+      "a": ["In phase (moving in step with each other)", "Out of phase by 90 degrees", "Out of phase by 180 degrees", "Opposite in every physical property"],
+      "correct": 0
+    },
+    {
+      "q": "Which wave property changes when a wave refracts into a different medium?",
+      "a": ["Frequency", "Speed and wavelength", "Amplitude only", "Phase only"],
+      "correct": 1
+    },
+    {
+      "q": "What is the frequency of a wave if its time period is 0.02 seconds?",
+      "a": ["0.5 Hz", "2.0 Hz", "50.0 Hz", "200.0 Hz"],
+      "correct": 2
+    },
+    {
+      "q": "How does the energy carried by a wave relate to its amplitude?",
+      "a": [
+        "Energy is inversely proportional to amplitude.",
+        "Energy is proportional to the square root of amplitude.",
+        "Energy is independent of amplitude.",
+        "Energy is proportional to the square of the amplitude (Energy ∝ A²)."
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the bending of light or sound waves when they pass around obstacles or through openings?",
+      "a": ["Diffraction", "Reflection", "Refraction", "Dispersion"],
+      "correct": 0
+    },
+    {
+      "q": "If water waves travel a distance of 12 meters in 3 seconds, and 4 complete wavelengths span that distance, what is the wavelength of the waves?",
+      "a": ["1.0 meter", "3.0 meters", "4.0 meters", "12.0 meters"],
+      "correct": 1
+    },
+    {
+      "q": "What type of wave are all electromagnetic waves (light, X-rays, radio)?",
+      "a": ["Longitudinal mechanical waves", "Stationary sound waves", "Transverse electromagnetic waves", "Pressure waves in gases"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when two wave pulses traveling in opposite directions meet, temporarily combine, and then continue on their original paths unchanged?",
+      "a": [
+        "They destroy each other permanently.",
+        "They bounce off each other as particles.",
+        "They change frequency.",
+        "They undergo superposition interference and pass through each other."
+      ],
+      "correct": 3
+    }
+  ]
+}

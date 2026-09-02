@@ -1,0 +1,186 @@
+{
+"id": "phys-yr9-quizzes-magnetism",
+"name": "Magnetism and electromagnets",
+"questions": [
+{
+"q": "Which of the following metals is strongly magnetic (ferromagnetic) at room temperature?",
+"a": ["Iron", "Copper", "Aluminum", "Gold"],
+"correct": 0
+},
+{
+"q": "What happens when the North pole of one bar magnet is brought close to the North pole of another bar magnet?",
+"a": ["They attract each other strongly.", "They repel each other.", "They cancel each other's magnetism completely.", "They rotate to face East."],
+"correct": 1
+},
+{
+"q": "What name is given to the region surrounding a magnet where its magnetic force can be detected?",
+"a": ["An electrostatic field", "A gravitational zone", "A magnetic field", "A thermal current"],
+"correct": 2
+},
+{
+"q": "In which direction do magnetic field lines outside a bar magnet conventionally run?",
+"a": ["From South pole to North pole", "In closed concentric circles around the middle only", "Randomly in all directions", "From North pole to South pole"],
+"correct": 3
+},
+{
+"q": "Which material is commonly used to make a temporary electromagnet core because it magnetizes and demagnetizes easily?",
+"a": ["Soft iron", "Hard steel", "Hard plastic", "Pure copper"],
+"correct": 0
+},
+{
+"q": "How can you increase the strength of an electromagnet in a school laboratory?",
+"a": ["Decrease the current and remove the iron core", "Increase the number of turns on the coil or increase the current", "Use a plastic rod instead of iron", "Shorten the wire completely"],
+"correct": 1
+},
+{
+"q": "What happens to a freely suspended bar magnet when it comes to rest in the Earth's magnetic field?",
+"a": ["It points straight up toward the sky.", "It points randomly.", "It aligns roughly along a North-South direction.", "It spins continuously."],
+"correct": 2
+},
+{
+"q": "Which of the following devices relies on an electromagnet to operate a mechanical switch or alarm bell?",
+"a": ["A simple glass magnifying lens", "A wooden lever", "A mercury thermometer", "A relay or electric bell"],
+"correct": 3
+},
+{
+"q": "What term describes a magnet that maintains its magnetism permanently without requiring an electric current?",
+"a": ["Permanent magnet", "Electromagnet", "Temporary core", "Induction coil"],
+"correct": 0
+},
+{
+"q": "If you cut a bar magnet in half into two separate pieces, what happens to the poles?",
+"a": ["One piece becomes purely a North pole and the other becomes purely a South pole.", "Both pieces become two new independent magnets, each with its own North and South pole.", "Both pieces lose all magnetic properties instantly.", "The magnetic strength triples."],
+"correct": 1
+},
+{
+"q": "Which of the following metals is classified as non-magnetic?",
+"a": ["Nickel", "Cobalt", "Wood or plastic (or non-magnetic metals like zinc/brass)", "Iron filings"],
+"correct": 2
+},
+{
+"q": "What shape do iron filings form when sprinkled around a bar magnet on a piece of paper, illustrating magnetic field lines?",
+"a": ["Parallel straight lines across the room", "Random clumps", "Concentric squares", "Curves looping from the North pole to the South pole"],
+"correct": 3
+},
+{
+"q": "What happens to the magnetic field strength as you move further away from the poles of a bar magnet?",
+"a": ["It decreases as the field lines spread further apart.", "It increases significantly.", "It remains 100 percent constant.", "It turns into electricity."],
+"correct": 0
+},
+{
+"q": "Which of these is a major advantage of an electromagnet over a permanent magnet?",
+"a": ["It requires no energy source ever.", "It can be switched on and off and its strength can be adjusted.", "It never gets warm.", "It works only in outer space."],
+"correct": 1
+},
+{
+"q": "What is magnetic induction?",
+"a": ["The heating of a wire by electric current", "The evaporation of liquid from a surface", "The process where a piece of unmagnetized magnetic material becomes magnetized when placed near a magnetic field", "The creation of gravity by spinning masses"],
+"correct": 2
+},
+{
+"q": "Which tool uses a small magnetized needle balanced on a pivot to help hikers find direction?",
+"a": ["A thermometer", "A newton meter", "A barometer", "A magnetic compass"],
+"correct": 3
+},
+{
+"q": "What happens when a current-carrying wire is wrapped around an iron nail?",
+"a": ["It creates a powerful electromagnet.", "It stops the electric current completely.", "It melts the wire instantly.", "It generates sound waves."],
+"correct": 0
+},
+{
+"q": "Which of the following describes the Earth's geographic North Pole relative to magnetism?",
+"a": ["It is actually near a magnetic South pole attracting the North-seeking pole of a compass.", "It has zero magnetic properties.", "It is a pure magnetic North pole repelling all compasses.", "It changes location every second."],
+"correct": 1
+},
+{
+"q": "How does reversing the direction of the electric current flowing through an electromagnet affect its poles?",
+"a": ["The magnet loses all power.", "The strength doubles.", "The positions of the North and South poles reverse.", "The wire melts."],
+"correct": 2
+},
+{
+"q": "Which of the following substances would be attracted to a strong horseshoe magnet?",
+"a": ["A piece of paper", "A glass marble", "A clean cotton rag", "An iron paperclip"],
+"correct": 3
+},
+{
+"q": "What happens if you bring a North pole near the South pole of another magnet?",
+"a": ["They attract each other.", "They repel each other.", "They create a short circuit.", "They neutralize each other's mass."],
+"correct": 0
+},
+{
+"q": "Why is steel often used to make permanent magnets rather than soft iron?",
+"a": ["Steel is cheaper to mine.", "Steel retains its magnetism much longer and resists demagnetization once magnetized.", "Steel is a liquid at room temperature.", "Steel cannot conduct electricity."],
+"correct": 1
+},
+{
+"q": "What term describes the invisible lines used to map out the direction and strength of a magnetic field?",
+"a": ["Electric circuits", "Sound wave crests", "Magnetic field lines", "Gravitational vectors"],
+"correct": 2
+},
+{
+"q": "Which of these factors does NOT affect the strength of an electromagnet?",
+"a": ["The number of turns in the coil", "The size of the electric current", "The material of the core", "The color of the insulation on the copper wire"],
+"correct": 3
+},
+{
+"q": "What occurs inside a magnetic material when it is unmagnetized?",
+"a": ["Its internal magnetic domains point in random directions, canceling each other out.", "All atoms stop moving.", "Electrons stop flowing.", "Magnetic fields become infinite."],
+"correct": 0
+},
+{
+"q": "Which experiment demonstrates the magnetic effect of an electric current?",
+"a": ["Oersted's experiment showing a compass needle deflecting near a live wire", "Hooke's spring extension test", "Boyle's gas pressure law test", "Newton's prism dispersion test"],
+"correct": 1
+},
+{
+"q": "What happens to iron filings when placed near the center (side) of a bar magnet compared to the poles?",
+"a": ["They stand vertically upright.", "They gather in massive clumps.", "They show weaker attraction because field lines are less concentrated there.", "They vaporize."],
+"correct": 2
+},
+{
+"q": "Which of the following appliances uses a powerful electromagnet inside its motor or speaker system?",
+"a": ["A wooden kitchen spoon", "A glass tumbler", "A wool sweater", "An electric loudspeaker or DC motor"],
+"correct": 3
+},
+{
+"q": "What is the primary reason why core materials like soft iron boost electromagnet strength?",
+"a": ["They concentrate and intensify the magnetic field lines produced by the coil.", "They add chemical energy to the circuit.", "They cool down the copper wire.", "They prevent electrical shocks."],
+"correct": 0
+},
+{
+"q": "Which pole of a freely turning compass needle points toward the Earth's geographic North region?",
+"a": ["Its South-seeking pole", "Its North-seeking pole", "Both poles simultaneously", "Neither pole"],
+"correct": 1
+},
+{
+"q": "How can a permanent magnet lose some or all of its magnetism?",
+"a": ["By being kept in a dark room", "By being painted red", "By being strongly heated or repeatedly dropped and hammered", "By being submerged in cold water"],
+"correct": 2
+},
+{
+"q": "Which of these actions will stop an electromagnet from working instantly?",
+"a": ["Painting the iron core", "Lengthening the copper wire slightly", "Flipping the iron core upside down", "Opening the switch to cut off the electric current"],
+"correct": 3
+},
+{
+"q": "What are the regions of a magnet where the magnetic force is strongest called?",
+"a": ["Magnetic poles (North and South)", "Thermal centers", "Resistance nodes", "Current hubs"],
+"correct": 0
+},
+{
+"q": "Why do magnetic field lines never cross each other?",
+"a": ["Because magnetic forces are imaginary", "Because a compass needle at that point would point in two different directions at once, which is impossible", "Because air pressure blocks intersections", "Because poles repel each other"],
+"correct": 1
+},
+{
+"q": "What happens when you sprinkle iron filings over a wire carrying a large direct electric current?",
+"a": ["They form straight lines parallel to the wire.", "They gather in a single ball.", "They form concentric circles centered around the wire.", "They melt into liquid iron."],
+"correct": 2
+},
+{
+"q": "Which of these devices uses an electromagnet to pick up heavy scrap iron and steel in a recycling yard?",
+"a": ["An optical microscope", "A hydraulic pump", "A solar photovoltaic panel", "A scrap yard crane with a giant electromagnetic lifting head"],
+"correct": 3
+}
+]
+}

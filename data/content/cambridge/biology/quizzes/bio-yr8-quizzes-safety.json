@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-safety",
+"name": "Scientific enquiry and laboratory safety",
+"questions": [
+{
+"q": "What should you do immediately if you spill a hazardous chemical on your skin during a laboratory experiment?",
+"a": ["Rinse the affected area thoroughly with plenty of running water and inform your teacher immediately", "Wipe it off with a dirty laboratory cloth", "Cover it tightly with a bandage without washing", "Ignore it and wait until the end of the lesson"],
+"correct": 0
+},
+{
+"q": "Which variable is intentionally changed or manipulated by the investigator during a fair scientific test?",
+"a": ["The dependent variable", "The independent variable", "The controlled variable", "The random variable"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of wearing safety goggles during biology laboratory practicals involving chemicals or heating?",
+"a": ["To look like a professional scientist", "To improve your eyesight in dim light", "To protect your eyes from splashes, fumes, or accidental breakages", "To keep your face warm"],
+"correct": 2
+},
+{
+"q": "Which piece of laboratory equipment is best suited for measuring an exact volume of liquid, such as 25.0 cm3?",
+"a": ["A glass stirring rod", "A porcelain evaporating basin", "A triple-beam balance", "A graduated measuring cylinder or pipette"],
+"correct": 3
+},
+{
+"q": "What term describes the variable that is measured or recorded as the outcome in an experiment?",
+"a": ["The dependent variable", "The independent variable", "The constant variable", "The fixed variable"],
+"correct": 0
+},
+{
+"q": "Why is it important to keep variables other than the independent and dependent variables strictly controlled?",
+"a": ["To ensure that any change in the dependent variable is caused only by the independent variable, making the test fair", "To make the experiment take as long as possible", "To stop any chemical reactions from happening", "To reduce the temperature of the room"],
+"correct": 1
+},
+{
+"q": "What does a hazard symbol depicting a skull and crossbones indicate on a chemical bottle?",
+"a": ["The substance is explosive", "The substance is radioactive", "The substance is toxic or poisonous", "The substance is highly flammable"],
+"correct": 2
+},
+{
+"q": "How should a heated test tube be positioned when heating a liquid over a Bunsen burner?",
+"a": ["Pointed directly at your lab partner's face", "Pointing straight down at the laboratory bench", "Held flat and horizontal on the desk", "Pointed away from yourself and everyone else at an angle"],
+"correct": 3
+},
+{
+"q": "What type of data consists of descriptive observations, colors, textures, or changes without numerical values?",
+"a": ["Qualitative data", "Quantitative data", "Anomalous data", "Continuous data"],
+"correct": 0
+},
+{
+"q": "What term is used for a measurement result that does not fit the pattern of the rest of the data set?",
+"a": ["A precise value", "An anomalous result", "A controlled variable", "A primary hypothesis"],
+"correct": 1
+},
+{
+"q": "Why should long hair always be tied back securely during practical laboratory work involving flames or chemicals?",
+"a": ["To keep hair clean from water", "To make it easier to wear safety goggles", "To prevent hair from catching fire or dipping into chemical solutions", "To follow school fashion rules"],
+"correct": 2
+},
+{
+"q": "What is a scientific hypothesis?",
+"a": ["A proven law of physics that never changes", "A random guess with no reasoning", "A completed summary table of results", "A proposed explanation or testable statement for a scientific observation"],
+"correct": 3
+},
+{
+"q": "What should you do with broken glassware in the laboratory?",
+"a": ["Notify your teacher immediately and dispose of it in a designated glass bin, never with normal trash", "Pick up the pieces with bare hands and throw them in the sink", "Sweep them under the lab bench", "Glue them back together using tape"],
+"correct": 0
+},
+{
+"q": "Which instrument is used in biology to observe microscopic structures like plant cells and stomata?",
+"a": ["A telescope", "A light microscope", "A barometer", "A centrifuge"],
+"correct": 1
+},
+{
+"q": "What does a hazard symbol showing a flame over a circle indicate?",
+"a": ["The chemical freezes water", "The chemical is a food flavoring", "The chemical is an oxidizer that can cause or intensify fires", "The chemical is completely harmless"],
+"correct": 2
+},
+{
+"q": "What is the correct way to smell a chemical or gas safely in the laboratory if instructed to do so?",
+"a": ["Place your nose directly over the container and inhale deeply", "Heat the container until it boils and breathe the steam", "Pour the chemical onto your hand", "Gently waft the vapors toward your nose using your hand from a safe distance"],
+"correct": 3
+},
+{
+"q": "What does repeating an experiment and obtaining similar results multiple times improve?",
+"a": ["The reliability and accuracy of the investigation", "The cost of the equipment", "The volume of chemicals used", "The room temperature"],
+"correct": 0
+},
+{
+"q": "Which graph type is most appropriate for displaying continuous data, such as plant growth over a period of weeks?",
+"a": ["A pie chart", "A line graph or scatter plot with a line of best fit", "A block diagram of disconnected categories", "A Venn diagram"],
+"correct": 1
+},
+{
+"q": "What is the primary function of a Bunsen burner air hole when fully open?",
+"a": ["To produce a cool, yellow, smoky safety flame", "To extinguish the burner automatically", "To provide an oxygen-rich, hot, roaring blue flame for heating", "To cool down glass tubing"],
+"correct": 2
+},
+{
+"q": "Why is it strictly forbidden to eat or drink inside a science laboratory?",
+"a": ["To keep desks clean for the next class", "Because food is expensive", "To save time for practical work", "To prevent accidental ingestion of toxic chemicals or biological pathogens"],
+"correct": 3
+},
+{
+"q": "What term describes data that is expressed in numbers, quantities, or measurable values?",
+"a": ["Quantitative data", "Qualitative data", "Subjective opinion", "Descriptive text"],
+"correct": 0
+},
+{
+"q": "What should you do at the very end of a practical laboratory session before leaving the room?",
+"a": ["Leave your equipment assembled for the next class", "Wash your hands thoroughly and ensure your workspace is clean and safe", "Pour all remaining chemicals back into their original stock bottles", "Turn off the lights and run outside"],
+"correct": 1
+},
+{
+"q": "What does a hazard symbol showing an exclamation mark generally indicate?",
+"a": ["The substance is radioactive", "The substance can cure headaches", "The substance is a moderate hazard, irritant, or harmful to skin and eyes", "The substance is boiling hot"],
+"correct": 2
+},
+{
+"q": "What is the purpose of a control experiment in a biological investigation?",
+"a": ["To waste extra chemicals", "To make the report look longer", "To test a different independent variable entirely", "To provide a baseline comparison showing that the result is due to the independent variable alone"],
+"correct": 3
+},
+{
+"q": "When recording data in a scientific table, what must always be included in the column headers?",
+"a": ["The correct physical units of measurement (e.g., cm, g, seconds)", "The names of every student in the school", "The cost of the materials", "The color of the lab coats"],
+"correct": 0
+},
+{
+"q": "What is the main reason for drawing a line of best fit rather than connecting every dot with jagged lines on a scatter graph?",
+"a": ["To make the graph look colorful", "To show the general trend or relationship between variables while smoothing out minor experimental errors", "To hide incorrect measurements", "To change the conclusion of the experiment"],
+"correct": 1
+},
+{
+"q": "What should be done if a Bunsen burner flame is left unattended and not in use during a practical?",
+"a": ["Turn it up to maximum roar", "Leave it alone until the end of class", "Adjust it to the cool, yellow safety flame and close the air hole", "Blow on it until it goes out"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a fair test when investigating the effect of light intensity on photosynthesis?",
+"a": ["Changing the temperature, carbon dioxide, and light intensity all at the same time", "Using different plant species for every single test", "Changing the color of the water randomly", "Keeping temperature and carbon dioxide constant while only changing the distance of the lamp"],
+"correct": 3
+},
+{
+"q": "What is the safety significance of knowing the location of fire extinguishers, fire blankets, and eye-wash stations in the lab?",
+"a": ["To be able to respond quickly and safely in the event of an emergency or accident", "To use them as toys during free time", "To clean the floors after class", "To decorate the walls"],
+"correct": 0
+},
+{
+"q": "What does a corrosive hazard symbol (depicting liquid eating through a surface and a hand) mean?",
+"a": ["The substance is edible", "The substance can destroy living tissue and materials upon contact", "The substance is magnetic", "The substance is a gentle soap"],
+"correct": 1
+},
+{
+"q": "What is a conclusion in a scientific investigation?",
+"a": ["The equipment list written before starting", "A guess about what you will eat for lunch", "A summary statement explaining what the results show, based on the evidence collected", "A list of things that went wrong during the day"],
+"correct": 2
+},
+{
+"q": "Why are digital balances or measuring instruments preferred over rough estimation in scientific experiments?",
+"a": ["They are more expensive", "They require batteries", "They make experiments harder to finish", "They provide higher precision and reduce human reading error"],
+"correct": 3
+},
+{
+"q": "What is the correct action if someone's clothing catches fire in the laboratory?",
+"a": ["Use a fire blanket to smother the flames and stop, drop, and roll", "Run around the laboratory as fast as possible to blow out the fire", "Throw a beaker of cold water on them from across the room", "Hide under a wooden desk"],
+"correct": 0
+},
+{
+"q": "What is the term for factors that are kept constant throughout an experiment to ensure validity?",
+"a": ["Independent variables", "Controlled variables", "Dependent variables", "Anomalous variables"],
+"correct": 1
+},
+{
+"q": "What should you check before plugging in or turning on any electrical equipment in a school science laboratory?",
+"a": ["That the equipment has a pleasant smell", "That the lights are turned off", "That the wires and plugs are undamaged and dry", "That the room is completely dark"],
+"correct": 2
+},
+{
+"q": "Why is it important to record observations immediately during an experiment rather than trying to remember them later?",
+"a": ["Paper is cheap", "Teachers like collecting papers", "It keeps your hands busy", "To prevent human memory errors and ensure accurate data collection"],
+"correct": 3
+},
+{
+"q": "What does a biohazard symbol indicate in a biological laboratory setting?",
+"a": ["The presence of infectious biological agents, bacteria, or viruses that pose risks to health", "That the room is extremely cold", "The presence of heavy electrical machinery", "That food is being prepared"],
+"correct": 0
+},
+{
+"q": "How should test tubes be heated safely in a water bath or over a flame?",
+"a": ["Sealed tightly with a rubber bung so nothing escapes", "Held securely with a test tube holder and heated gently along the sides of the liquid", "Held directly in bare hands", "Placed upside down on the bench"],
+"correct": 1
+},
+{
+"q": "What is evaluation in the context of scientific enquiry?",
+"a": ["Throwing away all data tables", "Copying answers from a textbook", "Assessing the method, identifying sources of error, and suggesting improvements for future tests", "Writing a fictional story about science"],
+"correct": 2
+},
+{
+"q": "Why are repeat readings taken during a scientific experiment?",
+"a": ["To waste time", "To use up all the chemicals in the lab room", "To make the data table look longer", "To calculate a mean (average) and identify or filter out anomalous results"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+"id": "math-igcse-quizzes-statistics",
+"name": "Cumulative frequency and box plots",
+"questions": [
+{
+"q": "What does a cumulative frequency graph plot against the upper class boundary of each interval?",
+"a": ["The running total of frequencies up to that point", "The frequency of that individual class interval alone", "The midpoint of the class interval", "The percentage change from the previous interval"],
+"correct": 0
+},
+{
+"q": "On a cumulative frequency curve, how is the median estimated?",
+"a": ["At half of the maximum frequency on the vertical axis", "At three-quarters of the maximum frequency on the vertical axis", "At the maximum point of the curve", "At the lower quartile position"],
+"correct": 1
+},
+{
+"q": "What does the lower quartile (LQ) represent on a cumulative frequency graph?",
+"a": ["The value at one-quarter (25 percent) of the total frequency", "The value at half (50 percent) of the total frequency", "The value at three-quarters (75 percent) of the total frequency", "The minimum data value in the set"],
+"correct": 2
+},
+{
+"q": "How is the Interquartile Range (IQR) calculated from quartiles?",
+"a": ["Upper Quartile plus Lower Quartile", "Maximum value minus Minimum value", "Upper Quartile minus Lower Quartile", "Median divided by two"],
+"correct": 3
+},
+{
+"q": "Which five values are required to draw a box-and-whisker plot?",
+"a": ["Mean, median, mode, range, and variance", "Minimum, lower quartile, median, upper quartile, and maximum", "First value, middle value, last value, frequency, and total", "Lower boundary, upper boundary, cumulative frequency, IQR, and mean"],
+"correct": 0
+},
+{
+"q": "What percentage of the data lies between the lower quartile and the upper quartile in a box plot?",
+"a": ["25 percent", "75 percent", "100 percent", "50 percent"],
+"correct": 1
+},
+{
+"q": "In a box plot, what does the vertical line inside the box represent?",
+"a": ["The mean", "The median", "The mode", "The upper quartile"],
+"correct": 2
+},
+{
+"q": "If the total frequency is 80, at what cumulative frequency value do you look to find the upper quartile (UQ)?",
+"a": ["20", "40", "60", "80"],
+"correct": 3
+},
+{
+"q": "What does a wider box in a box plot indicate about the data distribution?",
+"a": ["The middle 50 percent of the data is more spread out", "The data is heavily skewed to the left", "The sample size was too small", "The median value is zero"],
+"correct": 0
+},
+{
+"q": "If a cumulative frequency curve rises very steeply in the middle and flattens out at the ends, what does this show about the data?",
+"a": ["Data is spread evenly across all values", "Data is concentrated heavily around the median", "Data has a high number of extreme outliers", "Data values are all identical"],
+"correct": 1
+},
+{
+"q": "Why are grouped frequency tables used before drawing cumulative frequency graphs for large continuous datasets?",
+"a": ["To make calculation of the exact mean easier", "To eliminate all potential outliers", "To organize continuous data into manageable class intervals", "To find the exact mode instantly"],
+"correct": 2
+},
+{
+"q": "If the lower quartile is 12 and the upper quartile is 36, what is the interquartile range?",
+"a": ["12", "18", "24", "48"],
+"correct": 3
+},
+{
+"q": "When reading a cumulative frequency graph for a total frequency of 120, at what frequency value is the median found?",
+"a": ["60", "30", "90", "120"],
+"correct": 0
+},
+{
+"q": "What measure of spread is typically used alongside the median when dealing with cumulative frequency data?",
+"a": ["Standard deviation", "Interquartile range", "Total range only", "Variance"],
+"correct": 1
+},
+{
+"q": "On a cumulative frequency graph, points are plotted at the upper class boundary. What is plotted on the horizontal axis?",
+"a": ["Cumulative frequency", "Frequency density", "Data variable values", "Class width"],
+"correct": 2
+},
+{
+"q": "If a box plot has a much longer right whisker than left whisker, how is the distribution described?",
+"a": ["Symmetrical", "Negatively skewed", "Uniform", "Positively skewed"],
+"correct": 3
+},
+{
+"q": "What does a cumulative frequency curve always look like in terms of its overall shape?",
+"a": ["An S-shape (ogive)", "A bell curve", "A straight horizontal line", "A U-shaped parabola"],
+"correct": 0
+},
+{
+"q": "How do you find the number of data items greater than a given value using a cumulative frequency graph?",
+"a": ["Read the cumulative frequency directly at that value", "Subtract the cumulative frequency at that value from the total frequency", "Divide the total frequency by that value", "Find the median and multiply by two"],
+"correct": 1
+},
+{
+"q": "What does the length of the box in a box plot represent?",
+"a": ["The total range", "The standard deviation", "The interquartile range (IQR)", "The median value"],
+"correct": 2
+},
+{
+"q": "If the minimum value is 5, lower quartile is 15, median is 25, upper quartile is 40, and maximum value is 60, what is the range of the dataset?",
+"a": ["35", "45", "50", "55"],
+"correct": 3
+},
+{
+"q": "Which summary statistics are best suited for data with extreme outliers?",
+"a": ["Median and interquartile range", "Mean and standard deviation", "Mean and total range", "Mode and variance"],
+"correct": 0
+},
+{
+"q": "If total frequency is n, at what vertical position is the lower quartile located on a cumulative frequency graph?",
+"a": ["n / 2", "n / 4", "3n / 4", "n / 3"],
+"correct": 1
+},
+{
+"q": "What do the 'whiskers' on a box plot extend to?",
+"a": ["The lower and upper quartiles", "The mean and median", "The minimum and maximum values (excluding outliers)", "The first and last class boundaries"],
+"correct": 2
+},
+{
+"q": "If two box plots are drawn on the same scale, what does comparing their medians allow you to do?",
+"a": ["Compare their total sample sizes", "Compare their spreads only", "Compare their maximum values", "Compare their central tendencies (average performance)"],
+"correct": 3
+},
+{
+"q": "When constructing a cumulative frequency table from a grouped frequency table, what do you do to the frequencies of each consecutive row?",
+"a": ["Add them cumulatively row by row", "Multiply them by the class midpoint", "Divide them by the class width", "Find the average of adjacent rows"],
+"correct": 0
+},
+{
+"q": "If a cumulative frequency graph shows that 40 out of 50 students scored below 70 marks, what percentage of students scored 70 or above?",
+"a": ["10 percent", "20 percent", "80 percent", "90 percent"],
+"correct": 1
+},
+{
+"q": "Why is the cumulative frequency curve started at the lower boundary of the first class interval (where cumulative frequency is zero)?",
+"a": ["To make the graph look symmetrical", "To ensure the maximum frequency is reached", "To anchor the graph and show that no values exist below the lowest boundary", "To calculate the mean value accurately"],
+"correct": 2
+},
+{
+"q": "If the interquartile range of dataset A is 10 and dataset B is 25, what can be inferred about the two datasets?",
+"a": ["Dataset A has a higher median than dataset B", "Dataset B has a smaller sample size than dataset A", "Dataset A has a higher total sum of values", "Dataset B has a greater spread in its middle 50 percent of data"],
+"correct": 3
+},
+{
+"q": "What term describes data that is bunched up towards the higher end with a long tail towards the lower values?",
+"a": ["Negatively skewed", "Positively skewed", "Normally distributed", "Uniformly distributed"],
+"correct": 0
+},
+{
+"q": "If the lower quartile is 20 and the median is 35, what can you say about the distance between the minimum value and lower quartile compared to the box?",
+"a": ["It must be exactly equal to the interquartile range", "It is represented by the left whisker and shows the spread of the bottom 25 percent of data", "It proves the data is perfectly symmetrical", "It represents the upper 50 percent of data"],
+"correct": 1
+},
+{
+"q": "In a box plot representing test scores from 0 to 100, where is 50 percent of the student population located?",
+"a": ["Inside the whiskers", "On the median line alone", "Inside the box (between lower and upper quartiles)", "Above the upper quartile"],
+"correct": 2
+},
+{
+"q": "If a question asks for the number of items within a certain range [a, b] using a cumulative frequency graph, how is it calculated?",
+"a": ["Add the cumulative frequencies at a and b", "Multiply the cumulative frequency at b by a", "Subtract the cumulative frequency at a from the cumulative frequency at b", "Find the difference between maximum and minimum values"],
+"correct": 3
+},
+{
+"q": "What is the primary advantage of using a box plot over a standard bar chart for comparing two distributions?",
+"a": ["It clearly highlights median, spread, and overall skewness side by side", "It shows the exact frequency of every single data point", "It calculates the exact mean automatically", "It eliminates the need for any data collection"],
+"correct": 0
+},
+{
+"q": "If the upper quartile is 60 and the lower quartile is 20, what is the value of the interquartile range?",
+"a": ["30", "40", "80", "120"],
+"correct": 1
+},
+{
+"q": "When drawing a cumulative frequency graph on grid paper, which values should be scaled along the vertical axis?",
+"a": ["Class boundaries", "Midpoints", "Cumulative frequencies", "Percentages"],
+"correct": 2
+},
+{
+"q": "If 75 percent of a dataset is below a value x, what term defines x?",
+"a": ["The median", "The lower quartile", "The mode", "The upper quartile"],
+"correct": 3
+}
+]
+}

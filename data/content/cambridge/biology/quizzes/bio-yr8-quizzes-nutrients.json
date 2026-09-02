@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-nutrients",
+"name": "Nutrients and a balanced diet",
+"questions": [
+{
+"q": "What is a balanced diet defined as?",
+"a": ["Eating only raw fruits and vegetables every day", "Consuming all the necessary food groups in the correct proportions to provide energy and maintain health", "Eating the maximum possible amount of food to gain muscle mass", "Consuming only protein-rich foods to build body tissues"],
+"correct": 1
+},
+{
+"q": "Which nutrient group serves as the body's primary and most rapid source of energy?",
+"a": ["Vitamins", "Minerals", "Carbohydrates", "Water"],
+"correct": 2
+},
+{
+"q": "Which food test is used to check for the presence of starch in a food sample?",
+"a": ["Biuret test", "Iodine test", "Benedict's test", "Ethanol emulsion test"],
+"correct": 1
+},
+{
+"q": "What color change confirms a positive result when testing for starch using iodine solution?",
+"a": ["Brick-red", "Blue-black", "Purple", "Clear yellow"],
+"correct": 1
+},
+{
+"q": "Which reagent is used to test for the presence of proteins?",
+"a": ["Iodine solution", "Benedict's solution", "Biuret solution", "Ethanol"],
+"correct": 2
+},
+{
+"q": "What color change indicates a positive result for the Biuret test when protein is present?",
+"a": ["From green to brick-red", "From brown to blue-black", "From clear to milky white", "From blue to lilac or purple"],
+"correct": 3
+},
+{
+"q": "Which chemical test is used to identify reducing sugars (like glucose)?",
+"a": ["Biuret test", "Benedict's test with heating", "Iodine test", "Ethanol emulsion test"],
+"correct": 1
+},
+{
+"q": "What final color change indicates a high concentration of reducing sugar during a heated Benedict's test?",
+"a": ["Brick-red", "Blue", "Green", "Yellow"],
+"correct": 0
+},
+{
+"q": "Which test is used to detect lipids (fats and oils) in food?",
+"a": ["Biuret test", "Ethanol emulsion test", "Iodine test", "Benedict's test"],
+"correct": 1
+},
+{
+"q": "What visual observation confirms a positive lipid result using the ethanol emulsion test?",
+"a": ["A clear blue liquid turns purple", "The liquid turns bright yellow", "A cloudy white emulsion forms when water is added", "A solid precipitate settles at the bottom"],
+"correct": 2
+},
+{
+"q": "Why does the human body require dietary fiber (roughage) even though it cannot be digested?",
+"a": ["To provide high amounts of daily chemical energy", "To add bulk to food and help peristalsis push waste through the intestines", "To build new cell membranes in muscles", "To neutralize stomach acid during digestion"],
+"correct": 1
+},
+{
+"q": "Which deficiency disease is caused by a severe lack of Vitamin C in the diet?",
+"a": ["Scurvy", "Rickets", "Anemia", "Kwashiorkor"],
+"correct": 0
+},
+{
+"q": "What are the common symptoms of scurvy?",
+"a": ["Softening of bones and bowed legs", "Bleeding gums, joint pain, and poor wound healing", "Swollen thyroid gland in the neck", "Extreme fatigue caused by low red blood cell count"],
+"correct": 1
+},
+{
+"q": "Which mineral and vitamin combination is essential for strong, healthy bones and teeth, and prevents rickets?",
+"a": ["Iron and Vitamin A", "Sodium and Vitamin C", "Calcium and Vitamin D", "Potassium and Vitamin B"],
+"correct": 2
+},
+{
+"q": "Which deficiency disease results from a lack of dietary iron?",
+"a": ["Night blindness", "Anemia", "Scurvy", "Marasmus"],
+"correct": 1
+},
+{
+"q": "What is the main function of fats (lipids) in a balanced diet?",
+"a": ["Carrying oxygen through the blood plasma", "Providing long-term energy storage, insulation, and protecting internal organs", "Regulating body water balance", "Speeding up chemical reactions as enzymes"],
+"correct": 1
+},
+{
+"q": "Which type of malnutrition occurs when a person consumes too much energy-rich food over a long period, leading to excess body fat?",
+"a": ["Starvation", "Kwashiorkor", "Obesity", "Anemia"],
+"correct": 2
+},
+{
+"q": "What is the primary role of proteins in the human body?",
+"a": ["Acting as the main fuel source during sprinting", "Storing backup water inside bones", "Growth, tissue repair, and forming enzymes and antibodies", "Insulating the skin against cold temperatures"],
+"correct": 2
+},
+{
+"q": "Which element is found in proteins that is typically absent in pure carbohydrates and fats?",
+"a": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+"correct": 3
+},
+{
+"q": "Why is water considered an essential component of a balanced diet?",
+"a": ["It acts as a solvent for chemical reactions, regulates temperature, and transports substances in blood plasma", "It provides high amounts of stored energy for muscle contraction", "It acts as a solid structural support for bones", "It prevents tooth decay entirely"],
+"correct": 0
+},
+{
+"q": "Which food group is a rich source of dietary protein?",
+"a": ["Butter and cooking oil", "White sugar and honey", "Beans, lean meat, fish, and eggs", "Pure mineral water"],
+"correct": 2
+},
+{
+"q": "What condition is caused by a severe deficiency of protein in children, often resulting in a swollen abdomen?",
+"a": ["Scurvy", "Kwashiorkor", "Rickets", "Goitre"],
+"correct": 1
+},
+{
+"q": "How is energy measured in food items?",
+"a": ["In volts or amperes", "In joules or kilojoules (kJ)", "In liters or milliliters", "In grams or kilograms"],
+"correct": 1
+},
+{
+"q": "Which group of people typically requires the highest total daily energy intake?",
+"a": ["An elderly person resting indoors", "A young toddler sleeping", "An office worker sitting at a desk", "A growing teenage athlete training vigorously every day"],
+"correct": 3
+},
+{
+"q": "Which vitamin is crucial for maintaining good vision in dim light and healthy skin?",
+"a": ["Vitamin C", "Vitamin A", "Vitamin D", "Vitamin K"],
+"correct": 1
+},
+{
+"q": "What is the consequence of prolonged starvation (extreme lack of both energy and protein)?",
+"a": ["Rapid muscle and fat wasting, leading to severe emaciation (marasmus)", "Immediate doubling of bone density", "Excessive accumulation of red blood cells", "Permanent immunity to all infections"],
+"correct": 0
+},
+{
+"q": "Which of the following foods provides a high amount of complex carbohydrates (starch)?",
+"a": ["Pure olive oil and butter", "Pasta, rice, potatoes, and bread", "Fresh fish and chicken breast", "Table salt and mineral water"],
+"correct": 1
+},
+{
+"q": "Why do pregnant women require an increased intake of iron and calcium compared to non-pregnant adults?",
+"a": ["To prevent them from feeling tired while sleeping", "To support the baby's developing blood supply and skeletal system", "To increase their body height rapidly", "To digest food without a stomach"],
+"correct": 1
+},
+{
+"q": "What happens to excess glucose in the human body that is not needed immediately for respiration?",
+"a": ["It is exhaled directly through the lungs as solid dust", "It is converted into glycogen for storage or transformed into fat", "It turns instantly into calcium carbonate in bones", "It is stored inside red blood cells"],
+"correct": 1
+},
+{
+"q": "Which food is the best natural source of Vitamin D when exposed to sunlight?",
+"a": ["Refined white sugar", "Dietary fiber and cellulose", "Oily fish, egg yolks, and synthesized skin exposure", "Pure mineral water"],
+"correct": 2
+},
+{
+"q": "What is the primary risk associated with a diet high in saturated fats and refined sugars?",
+"a": ["Development of scurvy and rickets", "Increased risk of heart disease, obesity, and type 2 diabetes", "Severe protein deficiency and kwashiorkor", "Rapid muscle growth and increased stamina"],
+"correct": 1
+},
+{
+"q": "Which mineral is necessary for the formation of healthy red blood cells?",
+"a": ["Calcium", "Sodium", "Iron", "Magnesium"],
+"correct": 2
+},
+{
+"q": "What is a major dietary source of fiber?",
+"a": ["Refined white flour and sugar", "Pure vegetable oil", "Boneless chicken breast", "Whole grain cereals, vegetables, beans, and fruit skins"],
+"correct": 3
+},
+{
+"q": "Why do teenagers generally need more energy and protein than adults of the same weight?",
+"a": ["Because their digestive systems are less efficient", "Because they sleep significantly more than adults", "Because they are undergoing rapid growth and development and high physical activity", "Because they do not consume water"],
+"correct": 2
+},
+{
+"q": "Which of the following describes malnutrition?",
+"a": ["Eating exactly the correct number of calories every day", "Any condition caused by an improper or unbalanced diet, including undernutrition and overnutrition", "A medical condition caused exclusively by viral infections", "Eating only organic food products"],
+"correct": 1
+},
+{
+"q": "What role do vitamins and minerals play in the body, even though they are required in small amounts?",
+"a": ["They provide 90 percent of daily physical energy", "They act as vital regulators of metabolic processes and maintain cellular health", "They serve as building blocks for thick bones only", "They replace the need for water"],
+"correct": 1
+},
+{
+"q": "Which simple sugars make up complex carbohydrates like starch?",
+"a": ["Amino acid polymers", "Fatty acids and glycerol units", "Glucose molecules joined together in long chains", "Nucleic acid strands"],
+"correct": 2
+},
+{
+"q": "What is the effect of a lack of iodine in a person's diet?",
+"a": ["Bleeding gums and loose teeth", "Soft and deformed leg bones", "Enlargement of the thyroid gland known as a goitre", "Severe muscle cramps"],
+"correct": 2
+},
+{
+"q": "Which lifestyle factor directly increases energy requirements beyond normal basal metabolic needs?",
+"a": ["Extended periods of bed rest", "Regular physical exercise and manual labor", "Sleeping for over 10 hours a day", "Sitting in a cold room without moving"],
+"correct": 1
+},
+{
+"q": "What is the correct chemical breakdown product when proteins are fully digested?",
+"a": ["Simple glucose", "Fatty acids and glycerol", "Mineral salts", "Amino acids"],
+"correct": 3
+}
+]
+}

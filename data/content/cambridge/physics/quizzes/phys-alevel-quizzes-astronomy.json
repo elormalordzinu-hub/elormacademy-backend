@@ -1,0 +1,198 @@
+{
+"id": "phys-alevel-quizzes-astronomy",
+"name": "Astronomy and cosmology",
+"questions": [
+{
+"q": "What is a standard candle in astronomy?",
+"p": "Context from source 14.",
+"a": ["An astronomical object of known luminosity whose distance can be determined by measuring its apparent brightness", "A star that burns hydrogen at a strictly constant temperature", "A unit of stellar mass equal to our Sun", "A hypothetical star used to calibrate telescope lenses"],
+"correct": 0
+},
+{
+"q": "What does Wien's displacement law state regarding the peak wavelength lambda_max of black-body radiation and its absolute temperature T?",
+"p": "Context from source 14.",
+"a": ["lambda_max * T² = constant", "lambda_max * T = constant (Wien's constant)", "lambda_max = constant * T", "lambda_max / T = constant"],
+"correct": 1
+},
+{
+"q": "What does Stefan-Boltzmann law state for the total radiant power (luminosity L) emitted by a spherical star of radius R and surface temperature T?",
+"p": "Context from source 14.",
+"a": ["L = 4 * pi * R * sigma * T²", "L = sigma * T⁴ / (4 * pi * R²)", "L = 4 * pi * R² * sigma * T⁴", "L = 4 / (pi * R² * sigma * T⁴)"],
+"correct": 2
+},
+{
+"q": "What is a light-year (ly) defined as?",
+"p": "Context from source 14.",
+"a": ["The time it takes for light to travel from the Moon to Earth", "The distance the Earth travels around the Sun in one year", "The distance from the Earth to the nearest star", "The distance that a photon in a vacuum travels in one Julian year (3.15 x 10⁷ seconds)"],
+"correct": 3
+},
+{
+"q": "How is the astronomical distance of a star determined using the stellar parallax method?",
+"p": "Context from source 14.",
+"a": ["By measuring the apparent shift in position of the star against distant background stars when viewed from opposite points in Earth's orbit around the Sun", "By analyzing the red shift of its emission spectrum", "By measuring its apparent brightness and applying Stefan-Boltzmann law", "By timing how long radio echoes take to bounce off its surface"],
+"correct": 0
+},
+{
+"q": "What is one parsec (pc) defined as?",
+"p": "Context from source 14.",
+"a": ["The distance at which the mean radius of Earth's orbit subtends an angle of one arcsecond", "The distance light travels in one second", "The distance from Earth to the center of the Milky Way galaxy", "The radius of the observable universe"],
+"correct": 1
+},
+{
+"q": "What is Hubble's law relating the recessional speed v of a distant galaxy to its distance d from Earth (where H_0 is the Hubble constant)?",
+"p": "Context from source 14.",
+"a": ["v = H_0 * d²", "v = d / H_0", "v = H_0 * d", "v = H_0 / d"],
+"correct": 2
+},
+{
+"q": "What does the cosmological red shift of light from distant galaxies indicate?",
+"p": "Context from source 14.",
+"a": ["Galaxies are moving closer together", "The universe is contracting uniformly", "Stars are aging and cooling down", "Space itself is expanding, stretching the wavelength of light as it travels towards us"],
+"correct": 3
+},
+{
+"q": "What is the Cosmic Microwave Background (CMB) radiation considered to be?",
+"p": "Context from source 14.",
+"a": ["Leftover thermal black-body radiation from the hot, dense early stages of the Big Bang, now cooled to about 2.7 K", "Radiation emitted by black holes in galactic centers", "Radio interference caused by solar wind", "Scattered light from nearby stars"],
+"correct": 0
+},
+{
+"q": "What does the cosmological principle assume about the universe on a large scale?",
+"p": "Context from source 14.",
+"a": ["The universe has a distinct center and edge", "The universe is homogeneous and isotropic on a large scale", "The universe is static and unchanging over infinite time", "Physical laws change depending on location in the universe"],
+"correct": 1
+},
+{
+"q": "What is the primary energy source powering main-sequence stars like our Sun?",
+"p": "Context from source 14.",
+"a": ["Gravitational contraction and cooling", "Chemical combustion of hydrogen and oxygen", "Nuclear fusion of hydrogen nuclei into helium nuclei via the proton-proton chain", "Radioactive decay of uranium"],
+"correct": 2
+},
+{
+"q": "What happens to a star with a mass similar to our Sun at the end of its main-sequence lifetime?",
+"p": "Context from source 14.",
+"a": ["It immediately explodes into a supernova leaving a black hole", "It collapses into a neutron star directly", "It turns into a white dwarf without any preceding stage", "It expands into a red giant, sheds its outer layers to form a planetary nebula, and leaves behind a dense white dwarf core"],
+"correct": 3
+},
+{
+"q": "What is the Chandrasekhar limit?",
+"p": "Context from source 14.",
+"a": ["The maximum stable mass of a white dwarf star, approximately 1.44 solar masses, beyond which it will collapse and explode as a Type Ia supernova", "The maximum mass of a main-sequence star before hydrogen fusion ceases", "The temperature limit for core nuclear fusion", "The maximum distance measurable by stellar parallax"],
+"correct": 0
+},
+{
+"q": "What is a neutron star?",
+"p": "Context from source 14.",
+"a": ["A cloud of cool interstellar gas", "An extremely dense stellar remnant composed almost entirely of neutrons, supported by neutron degeneracy pressure", "A star made of protons and electrons only", "A black hole event horizon"],
+"correct": 1
+},
+{
+"q": "What defines the event horizon of a black hole?",
+"p": "Context from source 14.",
+"a": ["The physical solid surface of the collapsed star", "The point where magnetic fields are strongest", "The boundary around a black hole beyond which nothing, not even light, can escape due to gravitational pull", "The outer radius where stellar wind stops"],
+"correct": 2
+},
+{
+"q": "What are Type Ia supernovae used for in cosmology?",
+"p": "Context from source 14.",
+"a": ["To measure the rotational speed of nearby planets", "To study solar flare activity", "To measure atmospheric temperature on Earth", "As standard candles to determine the distances of very distant galaxies and map the accelerated expansion of the universe"],
+"correct": 3
+},
+{
+"q": "What is stellar parallax angle p used to calculate distance d (in parsecs) to a nearby star?",
+"p": "Context from source 14.",
+"a": ["d = 1 / p (where p is in arcseconds)", "d = p / 360", "d = tan(p)", "d = p * 3.26"],
+"correct": 0
+},
+{
+"q": "What does the Doppler formula for red shift (delta lambda / lambda approx v / c) apply to in astronomy?",
+"p": "Context from source 14.",
+"a": ["Expansion of space on cosmological scales", "Determining the radial velocity v of stars or nearby galaxies moving through space relative to Earth", "Calculating stellar surface temperatures", "Measuring star radii via Stefan-Boltzmann law"],
+"correct": 1
+},
+{
+"q": "What is the approximate age of the universe estimated from the reciprocal of the Hubble constant (1 / H_0)?",
+"p": "Context from source 14.",
+"a": ["4.5 billion years", "1 million years", "Approximately 14 billion years", "100 billion years"],
+"correct": 2
+},
+{
+"q": "What characteristic features appear in the absorption spectrum of a star's atmosphere?",
+"p": "Context from source 14.",
+"a": ["Bright colored lines on a complete black background", "Continuous rainbow spectrum without any interruptions", "Completely black spectrum with zero light at all wavelengths", "Dark absorption lines superimposed on a continuous spectrum, corresponding to specific photon frequencies absorbed by cooler outer gases"],
+"correct": 3
+},
+{
+"q": "How does the surface temperature of a star relate to its color?",
+"p": "Context from source 14.",
+"a": ["Hotter stars appear blue or white, while cooler stars appear red or orange", "Hotter stars appear deep red, while cooler stars appear bright blue", "Star color depends entirely on distance from Earth, not temperature", "All main-sequence stars are pure yellow"],
+"correct": 0
+},
+{
+"q": "What is the Hertzsprung-Russell (H-R) diagram?",
+"p": "Context from source 14.",
+"a": ["A chart plotting star mass against star age", "A scatter plot of stars showing the relationship between stellar luminosity (or absolute magnitude) and surface temperature (or spectral class)", "A map of galaxy clusters across the observable universe", "A graph of stellar magnetic field strength versus rotation period"],
+"correct": 1
+},
+{
+"q": "Where are most stars located on an H-R diagram during the majority of their active lifetimes?",
+"p": "Context from source 14.",
+"a": ["The white dwarf cooling branch", "The supergiant upper right corner", "The main sequence running diagonally from hot, luminous blue stars to cool, dim red stars", "The planetary nebula ring"],
+"correct": 2
+},
+{
+"q": "What causes the acceleration in the expansion of the universe discovered via distant Type Ia supernovae measurements?",
+"p": "Context from source 14.",
+"a": ["Dark matter pulling galaxies apart", "Solar radiation pressure from massive stars", "Collisions between neighboring galaxy clusters", "Dark energy acting as a repulsive force across cosmological scales"],
+"correct": 3
+},
+{
+"q": "What is dark matter?",
+"p": "Context from source 14.",
+"a": ["Hypothetical non-luminous matter that does not emit, absorb, or reflect electromagnetic radiation, but whose presence is inferred from gravitational effects on galaxies", "Dust clouds blocking starlight in the Milky Way", "Dead black dwarf stars packed together", "Interstellar magnetic fields"],
+"correct": 0
+},
+{
+"q": "What is the apparent magnitude m of a star a measure of?",
+"p": "Context from source 14.",
+"a": ["Its intrinsic power output", "How bright a star appears to an observer on Earth", "Its physical diameter in kilometers", "Its distance in parsecs"],
+"correct": 1
+},
+{
+"q": "What is the absolute magnitude M of a star defined as?",
+"p": "Context from source 14.",
+"a": ["The brightness of the star viewed from the Sun", "The total energy emitted per second", "The apparent magnitude the star would have if it were placed at a standard distance of 10 parsecs (32.6 light-years)", "The magnitude corrected for atmospheric extinction"],
+"correct": 2
+},
+{
+"q": "What is the distance modulus formula relating apparent magnitude m, absolute magnitude M, and distance d in parsecs?",
+"p": "Context from source 14.",
+"a": ["m - M = d / 10", "m - M = 5 * log(d)", "m - M = 5 * log(d) - 5", "m + M = 5 * log(d) + 10"],
+"correct": 3
+},
+{
+"q": "What is the peak wavelength lambda_max of radiation emitted by a star with a surface temperature of 5800 K? (Wien's constant = 2.898 x 10⁻³ m K)",
+"p": "Context from source 14.",
+"a": ["500 nm (5.0 x 10⁻⁷ m)", "1000 nm", "250 nm", "5800 nm"],
+"correct": 0
+},
+{
+"q": "What is the luminosity of a spherical star with a radius of 7.0 x 10⁸ m and a surface temperature of 5800 K? (Stefan-Boltzmann constant sigma = 5.67 x 10⁻⁸ W m⁻² K⁻⁴)",
+"p": "Context from source 14.",
+"a": ["1.0 x 10²⁴ W", "3.85 x 10²⁶ W", "5.67 x 10²⁰ W", "1.20 x 10³⁰ W"],
+"correct": 1
+},
+{
+"q": "Why do massive stars have much shorter lifetimes on the main sequence than low-mass stars like the Sun?",
+"p": "Context from source 14.",
+"a": ["They contain fewer hydrogen atoms initially", "They fuse hydrogen at a slower rate", "Although they have more nuclear fuel, their luminosity is enormously greater, causing them to consume their fuel at an extreme rate", "They expel their cores before fusion begins"],
+"correct": 2
+},
+{
+"q": "What is the Schwarzschild radius r_s of a black hole of mass M?",
+"p": "Context from source 14.",
+"a": ["r_s = G * M / c", "r_s = 2 * G * M / c", "r_s = G * M / c²", "r_s = 2 * G * M / c²"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-periodic-table",
+"name": "Periodic Table",
+"questions": [
+{
+"q": "How are the chemical elements arranged in the modern Periodic Table?",
+"a": ["In order of increasing atomic number", "In order of decreasing atomic mass", "Alphabetically by their English names", "By their discovery dates"],
+"correct": 0
+},
+{
+"q": "What name is given to the vertical columns in the Periodic Table?",
+"a": ["Periods", "Groups", "Shells", "Blocks"],
+"correct": 1
+},
+{
+"q": "What term is used for the horizontal rows of elements across the Periodic Table?",
+"a": ["Families", "Groups", "Periods", "Valencies"],
+"correct": 2
+},
+{
+"q": "Which group of elements located on the far right of the Periodic Table is known for being extremely unreactive (inert gases)?",
+"a": ["Alkali metals", "Halogens", "Transition metals", "Noble gases"],
+"correct": 3
+},
+{
+"q": "Which of the following elements is classified as an alkali metal in Group 1 of the Periodic Table?",
+"a": ["Sodium", "Calcium", "Aluminum", "Iron"],
+"correct": 0
+},
+{
+"q": "What is the chemical symbol for the element Gold?",
+"a": ["Ag", "Au", "Fe", "Cu"],
+"correct": 1
+},
+{
+"q": "Which of the following subatomic particles determines the atomic number of an element?",
+"a": ["Neutrons only", "Electrons in outer shell", "Protons in the nucleus", "Total nucleons"],
+"correct": 2
+},
+{
+"q": "Which category of elements makes up the majority of the Periodic Table, characterized by being good conductors of heat and electricity?",
+"a": ["Non-metals", "Noble gases", "Metalloids", "Metals"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Iron?",
+"a": ["Fe", "Pb", "Ag", "Sn"],
+"correct": 0
+},
+{
+"q": "Which group of reactive non-metals includes fluorine, chlorine, bromine, and iodine?",
+"a": ["Alkali metals", "Halogens", "Noble gases", "Alkaline earth metals"],
+"correct": 1
+},
+{
+"q": "What does the atomic number of an atom represent?",
+"a": ["The total number of protons and neutrons", "The number of neutrons in the nucleus", "The number of protons in the nucleus", "The total mass of electrons"],
+"correct": 2
+},
+{
+"q": "Which of the following elements is a non-metal that exists as a liquid at room temperature?",
+"a": ["Mercury", "Sodium", "Copper", "Bromine"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Sodium?",
+"a": ["Na", "K", "S", "So"],
+"correct": 0
+},
+{
+"q": "Which of the following elements is a metalloid (semi-metal) commonly used in the semiconductor and computer chip industry?",
+"a": ["Sulfur", "Silicon", "Carbon", "Phosphorus"],
+"correct": 1
+},
+{
+"q": "What term describes the outermost electrons in an atom that participate in chemical bonding?",
+"a": ["Core electrons", "Nucleons", "Valence electrons", "Free radicals"],
+"correct": 2
+},
+{
+"q": "Which element has the chemical symbol 'K'?",
+"a": ["Krypton", "Calcium", "Sodium", "Potassium"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Potassium?",
+"a": ["K", "P", "Pt", "Po"],
+"correct": 0
+},
+{
+"q": "Which of the following properties is typical of non-metals on the Periodic Table?",
+"a": ["High electrical conductivity", "Brittle in solid form and poor conductors of heat", "Malleable and ductile", "High metallic luster"],
+"correct": 1
+},
+{
+"q": "What is the sum of protons and neutrons in the nucleus of an atom called?",
+"a": ["Atomic number", "Valence number", "Mass number (Atomic mass)", "Isotope index"],
+"correct": 2
+},
+{
+"q": "Which metal is liquid at room temperature and is commonly used in thermometers?",
+"a": ["Lead", "Iron", "Aluminum", "Mercury"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Silver?",
+"a": ["Ag", "Au", "Si", "Sr"],
+"correct": 0
+},
+{
+"q": "Which of the following elements is a noble gas used in filling brightly colored advertising signs?",
+"a": ["Nitrogen", "Neon", "Oxygen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "What do elements in the same group of the Periodic Table generally share in common?",
+"a": ["The exact same mass number", "The exact same number of total electron shells", "Similar chemical properties due to having the same number of valence electrons", "The same physical state at room temperature"],
+"correct": 2
+},
+{
+"q": "Which element has the chemical symbol 'Pb'?",
+"a": ["Platinum", "Palladium", "Phosphorus", "Lead"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Copper?",
+"a": ["Cu", "Co", "C", "Ca"],
+"correct": 0
+},
+{
+"q": "Which group 2 element is an alkaline earth metal found in bones, teeth, and limestone?",
+"a": ["Sodium", "Calcium", "Potassium", "Iron"],
+"correct": 1
+},
+{
+"q": "What term is given to atoms of the same element that have the same number of protons but different numbers of neutrons?",
+"a": ["Isomers", "Allotropes", "Isotopes", "Ions"],
+"correct": 2
+},
+{
+"q": "Which of the following elements is a halogen used in water purification and swimming pool disinfection?",
+"a": ["Helium", "Neon", "Argon", "Chlorine"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Calcium?",
+"a": ["Ca", "C", "Cl", "Co"],
+"correct": 0
+},
+{
+"q": "Which of the following characteristics describes alkali metals?",
+"a": ["They are extremely hard and brittle", "They are highly reactive metals that react vigorously with water", "They do not react with any other substances", "They exist as gases at room temperature"],
+"correct": 1
+},
+{
+"q": "How many valence electrons do elements in Group 18 (Noble Gases) typically possess, making them stable?",
+"a": ["1 valence electron", "4 valence electrons", "A full outer shell (usually 8, or 2 for helium)", "Zero electrons"],
+"correct": 2
+},
+{
+"q": "What is the chemical symbol for Carbon?",
+"a": ["Co", "Ca", "Cr", "C"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Nitrogen?",
+"a": ["N", "Ni", "Na", "Ne"],
+"correct": 0
+},
+{
+"q": "Which of the following elements is essential for respiration and belongs to Group 16 of the Periodic Table?",
+"a": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon"],
+"correct": 1
+},
+{
+"q": "Why are elements in the Periodic Table grouped together in columns?",
+"a": ["Because they all have the same atomic mass", "Because they were discovered in the same country", "Because they exhibit similar chemical properties and valence electron structures", "Because they have identical physical colors"],
+"correct": 2
+},
+{
+"q": "Which of the following scientists is credited with creating the early prototype of the periodic table based on atomic weights and chemical properties?",
+"a": ["Isaac Newton", "Albert Einstein", "Charles Darwin", "Dmitri Mendeleev"],
+"correct": 3
+},
+{
+"q": "What is the chemical symbol for Magnesium?",
+"a": ["Mg", "Mn", "Mo", "Me"],
+"correct": 0
+},
+{
+"q": "Which of the following is a transition metal commonly used to make electrical wires due to its high conductivity?",
+"a": ["Sulfur", "Copper", "Phosphorus", "Silicon"],
+"correct": 1
+},
+{
+"q": "What term describes the ability of metals to be hammered or rolled into thin sheets without breaking?",
+"a": ["Ductility", "Brittleness", "Malleability", "Conductivity"],
+"correct": 2
+},
+{
+"q": "What is the chemical symbol for Zinc?",
+"a": ["Zi", "Zn", "Zc", "Zr"],
+"correct": 3
+}
+]
+}

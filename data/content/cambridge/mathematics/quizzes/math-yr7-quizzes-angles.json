@@ -1,0 +1,206 @@
+{
+  "id": "math-yr7-quizzes-angles",
+  "name": "Angles parallel lines and geometric construction",
+  "questions": [
+    {
+      "q": "What is the size of an angle that is complementary to 35°?",
+      "a": ["55°", "145°", "90°", "180°"],
+      "correct": 0
+    },
+    {
+      "q": "Two angles are supplementary. If one angle measures 72°, what is the measure of the other angle?",
+      "a": ["18°", "108°", "288°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the sum of angles on a straight line?",
+      "a": ["90°", "270°", "180°", "360°"],
+      "correct": 2
+    },
+    {
+      "q": "What is the sum of angles around a single point?",
+      "a": ["90°", "180°", "270°", "360°"],
+      "correct": 3
+    },
+    {
+      "q": "If two straight lines intersect, vertically opposite angles are always...",
+      "a": ["Equal", "Complementary", "Supplementary", "Different"],
+      "correct": 0
+    },
+    {
+      "q": "When a transversal intersects two parallel lines, what is the relationship between alternate interior angles?",
+      "a": ["They add up to 180°", "They are equal", "They add up to 90°", "They are unequal"],
+      "correct": 1
+    },
+    {
+      "q": "Two parallel lines are crossed by a transversal. If one corresponding angle is 65°, what is the size of the other corresponding angle?",
+      "a": ["25°", "115°", "65°", "130°"],
+      "correct": 2
+    },
+    {
+      "q": "Co-interior (interior angles on the same side of the transversal) between parallel lines always add up to...",
+      "a": ["90°", "360°", "270°", "180°"],
+      "correct": 3
+    },
+    {
+      "q": "What is the interior angle sum of a triangle?",
+      "a": ["180°", "360°", "90°", "540°"],
+      "correct": 0
+    },
+    {
+      "q": "What is the size of each interior angle in a regular equilateral triangle?",
+      "a": ["45°", "60°", "90°", "120°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the sum of the interior angles of a quadrilateral?",
+      "a": ["180°", "270°", "360°", "540°"],
+      "correct": 2
+    },
+    {
+      "q": "An exterior angle of a triangle is equal to...",
+      "a": ["The sum of all three interior angles", "The adjacent interior angle", "Half of the opposite interior angle", "The sum of the two opposite interior angles"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of a polygon with 5 sides?",
+      "a": ["Pentagon", "Hexagon", "Heptagon", "Octagon"],
+      "correct": 0
+    },
+    {
+      "q": "What is the sum of the interior angles of a regular pentagon?",
+      "a": ["360°", "540°", "720°", "1080°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the size of each interior angle of a regular hexagon?",
+      "a": ["108°", "135°", "120°", "140°"],
+      "correct": 2
+    },
+    {
+      "q": "Which tool is used strictly for measuring angles in geometric construction?",
+      "a": ["Compass", "Ruler", "Set square", "Protractor"],
+      "correct": 3
+    },
+    {
+      "q": "When constructing the perpendicular bisector of a line segment, what tool must be used along with a straightedge?",
+      "a": ["Compass", "Protractor", "Set square", "Divider"],
+      "correct": 0
+    },
+    {
+      "q": "What is the process of dividing an angle into two equal parts called?",
+      "a": ["Angle extension", "Angle bisecting", "Angle reflection", "Angle translation"],
+      "correct": 1
+    },
+    {
+      "q": "If an angle measures 125°, what type of angle is it?",
+      "a": ["Acute", "Right", "Obtuse", "Reflex"],
+      "correct": 2
+    },
+    {
+      "q": "What type of angle is greater than 180° but less than 360°?",
+      "a": ["Acute", "Obtuse", "Straight", "Reflex"],
+      "correct": 3
+    },
+    {
+      "q": "In a triangle, if two angles are 50° and 60°, what is the third angle?",
+      "a": ["70°", "80°", "60°", "90°"],
+      "correct": 0
+    },
+    {
+      "q": "If an isosceles triangle has a vertex angle of 40°, what is the size of one of its base angles?",
+      "a": ["40°", "70°", "140°", "50°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the exterior angle sum of any convex polygon?",
+      "a": ["180°", "540°", "360°", "720°"],
+      "correct": 2
+    },
+    {
+      "q": "When constructing a triangle given all three side lengths (SSS), which tool is essential?",
+      "a": ["Protractor", "Set square", "T-square", "Compass"],
+      "correct": 3
+    },
+    {
+      "q": "Two lines meet at a 90° angle. They are described as...",
+      "a": ["Perpendicular", "Parallel", "Intersecting", "Tangent"],
+      "correct": 0
+    },
+    {
+      "q": "If angle A and angle B are vertically opposite, and angle A is 115°, what is angle B?",
+      "a": ["65°", "115°", "25°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the interior angle sum of a regular octagon (8 sides)?",
+      "a": ["900°", "720°", "1080°", "1440°"],
+      "correct": 2
+    },
+    {
+      "q": "Which construction involves drawing a line parallel to a given line through a specific point using a compass and ruler?",
+      "a": ["Perpendicular bisector", "Angle bisector", "Perpendicular from a point", "Copying an angle"],
+      "correct": 3
+    },
+    {
+      "q": "If a regular polygon has an exterior angle of 45°, how many sides does it have?",
+      "a": ["8 sides", "6 sides", "10 sides", "12 sides"],
+      "correct": 0
+    },
+    {
+      "q": "What is the measure of each exterior angle of a regular decagon (10 sides)?",
+      "a": ["45°", "36°", "60°", "72°"],
+      "correct": 1
+    },
+    {
+      "q": "If two interior angles of a triangle are equal and the third angle is 90°, what are the two equal angles?",
+      "a": ["60°", "30°", "45°", "40°"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following sets of side lengths can form a valid triangle?",
+      "a": ["2 cm, 3 cm, 6 cm", "4 cm, 5 cm, 10 cm", "1 cm, 2 cm, 3 cm", "3 cm, 4 cm, 5 cm"],
+      "correct": 3
+    },
+    {
+      "q": "What is the angle between the hands of a clock at 3:00?",
+      "a": ["90°", "180°", "45°", "60°"],
+      "correct": 0
+    },
+    {
+      "q": "If a transversal line cuts across two parallel lines and creates an interior angle of 78°, what is its alternate interior angle?",
+      "a": ["102°", "78°", "12°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the geometric term for a line that intersects two or more other lines?",
+      "a": ["Perpendicular", "Tangent", "Transversal", "Chord"],
+      "correct": 2
+    },
+    {
+      "q": "In an equilateral triangle, what is the size of each exterior angle?",
+      "a": ["60°", "90°", "135°", "120°"],
+      "correct": 3
+    },
+    {
+      "q": "What is the supplement of a 110° angle?",
+      "a": ["70°", "20°", "90°", "160°"],
+      "correct": 0
+    },
+    {
+      "q": "If the angles of a triangle are in the ratio 1:2:3, what is the size of the largest angle?",
+      "a": ["60°", "90°", "30°", "120°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the measure of the angle formed by the bisector of a 90° angle?",
+      "a": ["30°", "60°", "45°", "90°"],
+      "correct": 2
+    },
+    {
+      "q": "Which geometric construction is used when dropping a perpendicular line from a point to a line not containing it?",
+      "a": ["Angle bisector", "Parallel line construction", "Line segment duplication", "Perpendicular from a point construction"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr7-quizzes-periodic",
+  "name": "Periodic table patterns and groups",
+  "questions": [
+    {
+      "q": "Who is credited with developing the early layout of the modern Periodic Table by organizing elements by atomic mass and properties?",
+      "a": ["Dmitri Mendeleev", "Isaac Newton", "Antoine Lavoisier", "Albert Einstein"],
+      "correct": 0
+    },
+    {
+      "q": "What name is given to the vertical columns on the Periodic Table?",
+      "a": ["Periods", "Groups", "Shells", "Rows"],
+      "correct": 1
+    },
+    {
+      "q": "What name is given to the horizontal rows on the Periodic Table?",
+      "a": ["Families", "Columns", "Periods", "Layers"],
+      "correct": 2
+    },
+    {
+      "q": "Which group on the Periodic Table contains the alkali metals?",
+      "a": ["Group 0", "Group 7", "Group 8", "Group 1"],
+      "correct": 3
+    },
+    {
+      "q": "Which group on the Periodic Table contains the halogens (reactive non-metals)?",
+      "a": ["Group 7", "Group 1", "Group 2", "Group 3"],
+      "correct": 0
+    },
+    {
+      "q": "Which group contains the noble gases, which are famously unreactive and stable?",
+      "a": ["Group 1", "Group 0 (or Group 8)", "Group 2", "Group 5"],
+      "correct": 1
+    },
+    {
+      "q": "As you go down Group 1 (alkali metals), what happens to their reactivity with water?",
+      "a": ["It decreases to zero", "It stays completely unchanged", "It increases", "They stop being metals"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following elements is a halogen found in Group 7?",
+      "a": ["Sodium", "Helium", "Iron", "Chlorine"],
+      "correct": 3
+    },
+    {
+      "q": "What physical property is characteristic of all alkali metals?",
+      "a": ["They are soft and can be easily cut with a knife", "They have extremely high melting points", "They are gases at room temperature", "They are poor conductors of electricity"],
+      "correct": 0
+    },
+    {
+      "q": "What gas is always produced when an alkali metal reacts vigorously with water?",
+      "a": ["Carbon dioxide gas", "Hydrogen gas", "Oxygen gas", "Chlorine gas"],
+      "correct": 1
+    },
+    {
+      "q": "Why do elements in the same group of the Periodic Table share similar chemical properties?",
+      "a": ["They have the same atomic mass", "They are all found in the same physical state", "They have the same number of electrons in their outer shell", "They are colored silver"],
+      "correct": 2
+    },
+    {
+      "q": "Where are the non-metals generally located on the Periodic Table?",
+      "a": ["On the far left side", "In the very center block", "At the bottom in separate rows", "On the upper right side"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following is a transition metal?",
+      "a": ["Copper", "Potassium", "Fluorine", "Neon"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the melting points of the Group 7 halogens as you move down the group?",
+      "a": ["They decrease", "They increase", "They remain constant", "They fluctuate randomly"],
+      "correct": 1
+    },
+    {
+      "q": "Which element is a liquid at room temperature despite being a metal?",
+      "a": ["Iron", "Sodium", "Mercury", "Gold"],
+      "correct": 2
+    },
+    {
+      "q": "What type of compound is formed when a Group 1 metal reacts with a Group 7 non-metal?",
+      "a": ["A hydrocarbon", "An acid", "An alloy", "A salt (such as sodium chloride)"],
+      "correct": 3
+    },
+    {
+      "q": "Which noble gas is commonly used to fill party balloons because it is lighter than air and non-flammable?",
+      "a": ["Helium", "Argon", "Neon", "Xenon"],
+      "correct": 0
+    },
+    {
+      "q": "Why did Mendeleev leave gaps in his early version of the Periodic Table?",
+      "a": ["He ran out of paper", "To predict the existence and properties of undiscovered elements", "Because those elements were illegal", "To separate metals from liquids"],
+      "correct": 1
+    },
+    {
+      "q": "Which property is typical of transition metals compared to alkali metals?",
+      "a": ["They are soft enough to cut with a butter knife", "They react violently with cold water", "They are much harder, denser, and have higher melting points", "They melt at room temperature"],
+      "correct": 2
+    },
+    {
+      "q": "What is the appearance of solid iodine, a halogen in Group 7?",
+      "a": ["A shiny silver liquid", "A clear invisible gas", "A bright green metal", "A dark grey-purple crystalline solid that sublimes into purple vapor"],
+      "correct": 3
+    },
+    {
+      "q": "How many electrons can the first (innermost) electron shell of an atom hold?",
+      "a": ["Up to 2 electrons", "Up to 8 electrons", "Up to 18 electrons", "Only 1 electron"],
+      "correct": 0
+    },
+    {
+      "q": "How many electrons can the second and third electron shells stably hold in standard Year 7 models?",
+      "a": ["Up to 2 electrons", "Up to 8 electrons", "Up to 32 electrons", "Up to 50 electrons"],
+      "correct": 1
+    },
+    {
+      "q": "If an atom has an electronic structure of 2,8,3, which group of the Periodic Table does it belong to?",
+      "a": ["Group 2", "Group 8", "Group 3", "Group 5"],
+      "correct": 2
+    },
+    {
+      "q": "If an atom has 17 total electrons, what is its electronic configuration?",
+      "a": ["2, 8, 7", "2, 7, 8", "2, 9, 6", "10, 7"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes elements that have properties of both metals and non-metals (such as silicon)?",
+      "a": ["Metalloids (or semi-metals)", "Noble gases", "Alkali metals", "Halogens"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following alkali metals is the most reactive?",
+      "a": ["Lithium", "Cesium or Francium", "Sodium", "Potassium"],
+      "correct": 1
+    },
+    {
+      "q": "Why do noble gases not normally react with other elements?",
+      "a": ["They are radioactive", "They have too many protons", "They have a full outer shell of electrons", "They are all liquids"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when chlorine water is added to potassium bromide solution?",
+      "a": ["Nothing happens", "An explosion occurs", "The solution turns solid", "Chlorine displaces bromine, turning the solution orange/brown"],
+      "correct": 3
+    },
+    {
+      "q": "Which statement about periods on the Periodic Table is correct?",
+      "a": ["The period number tells you the number of electron shells in that atom", "Elements in the same period have identical chemical reactivity", "Periods are vertical columns", "Periods only contain non-metals"],
+      "correct": 0
+    },
+    {
+      "q": "What physical change occurs when solid iodine is heated gently and turns directly into a purple gas without melting?",
+      "a": ["Evaporation", "Sublimation", "Condensation", "Freezing"],
+      "correct": 1
+    },
+    {
+      "q": "Which metal is stored under oil to prevent it from reacting with oxygen and moisture in the air?",
+      "a": ["Copper", "Iron", "Potassium", "Gold"],
+      "correct": 2
+    },
+    {
+      "q": "What color flame is typically observed when sodium metal is burned in air or water?",
+      "a": ["Lilac (purple)", "Brick red", "Green", "Yellow-orange"],
+      "correct": 3
+    },
+    {
+      "q": "Which group of elements acts as catalysts in many industrial chemical reactions?",
+      "a": ["Transition metals", "Alkali metals", "Noble gases", "Halogens"],
+      "correct": 0
+    },
+    {
+      "q": "As you move down Group 7 (halogens), what happens to their physical state at room temperature from top to bottom?",
+      "a": ["They all remain invisible gases", "They change from gases (fluorine/chlorine) to a liquid (bromine) to solids (iodine)", "They turn into pure metals", "They become radioactive liquids"],
+      "correct": 1
+    },
+    {
+      "q": "What is the electronic configuration of a neutral neon atom (atomic number 10)?",
+      "a": ["2, 8", "2, 4, 4", "2, 8", "10"],
+      "correct": 2
+    },
+    {
+      "q": "Which scientist modified the Periodic Table by arranging elements according to atomic number rather than atomic mass?",
+      "a": ["Dmitri Mendeleev", "John Dalton", "J.J. Thomson", "Henry Moseley"],
+      "correct": 3
+    }
+  ]
+}

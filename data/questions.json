@@ -1,0 +1,14 @@
+{
+  "physics": {
+    "SHS1": {
+      "tf": [
+        { "question": "Energy is the capacity to do work.", "answer": true },
+        { "question": "Velocity is a scalar quantity.", "answer": false }
+      ],
+      "definition": [
+        { "term": "Force", "definition": "A push or pull upon an object resulting from the object's interaction with another object." }
+      ]
+    }
+  }
+}
+

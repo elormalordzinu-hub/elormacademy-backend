@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-energy",
+"name": "Work energy and power",
+"questions": [
+{
+"q": "How is work done by a constant force defined when the force is at an angle theta to the direction of displacement?",
+"a": ["W = F s cos(theta)", "W = F s sin(theta)", "W = F / s", "W = 0.5 F s²"],
+"correct": 0
+},
+{
+"q": "What is the kinetic energy of an object of mass m moving with relativistic speed or classical speed v?",
+"a": ["E_k = m v", "E_k = 0.5 m v²", "E_k = m g h", "E_k = p² / (2 m)"],
+"correct": 1
+},
+{
+"q": "A constant force of 50 N pulls a crate across a horizontal floor through a distance of 10 m in 5.0 s. What is the average power delivered by the force?",
+"a": ["50 W", "250 W", "100 W", "500 W"],
+"correct": 2
+},
+{
+"q": "Which of the following represents the principle of conservation of energy?",
+"a": ["Energy can be created in nuclear reactions but never destroyed", "Total momentum in an isolated system is constant", "Work done equals change in kinetic energy only", "Energy cannot be created or destroyed, only transformed from one form to another, so the total energy of an isolated system remains constant"],
+"correct": 3
+},
+{
+"q": "A pump extracts water from a well 20 m deep at a rate of 15 kg per second. What is the minimum useful output power of the pump? (g = 9.81 m s⁻²)",
+"a": ["2943 W", "1500 W", "3000 W", "5886 W"],
+"correct": 0
+},
+{
+"q": "What is gravitational potential energy near the Earth's surface defined as?",
+"a": ["E_p = m g / h", "E_p = m g h", "E_p = 0.5 m g h²", "E_p = g h / m"],
+"correct": 1
+},
+{
+"q": "An object of mass 2.0 kg is dropped from rest from a height of 15 m. What is its kinetic energy just before hitting the ground, assuming air resistance is negligible? (g = 9.81 m s⁻²)",
+"a": ["147.1 J", "98.1 J", "294.3 J", "588.6 J"],
+"correct": 2
+},
+{
+"q": "What is the definition of efficiency for a machine or energy converter?",
+"a": ["Total energy input divided by useful energy output", "Wasted energy divided by total energy input", "Power output multiplied by time", "Ratio of useful energy output to total energy input expressed as a fraction or percentage"],
+"correct": 3
+},
+{
+"q": "A car of mass 1200 kg accelerates uniformly from rest to a speed of 25 m s⁻¹ over a distance of 100 m on a level road. What is the average net power developed by the engine during this acceleration?",
+"a": ["3.75 kW", "7.50 kW", "15.0 kW", "37.5 kW"],
+"correct": 0
+},
+{
+"q": "What does the work-energy theorem state?",
+"a": ["Work done is equal to the change in potential energy", "The net work done on an object is equal to its change in kinetic energy", "Power is the rate of doing work", "Total mechanical energy is always conserved in real frictional systems"],
+"correct": 1
+},
+{
+"q": "A ball of mass 0.50 kg is thrown vertically upwards with an initial speed of 12 m s⁻¹. What maximum height does it reach, ignoring air resistance? (g = 9.81 m s⁻²)",
+"a": ["3.67 m", "5.88 m", "7.34 m", "14.69 m"],
+"correct": 2
+},
+{
+"q": "Which of the following forces is classified as non-conservative?",
+"a": ["Gravitational force", "Electrostatic force", "Elastic spring force", "Frictional force"],
+"correct": 3
+},
+{
+"q": "A block of mass 4.0 kg slides down a rough inclined plane of length 5.0 m and height 3.0 m. If it reaches the bottom with a speed of 6.0 m s⁻¹, how much mechanical energy was converted into thermal energy by friction?",
+"a": ["48.6 J", "117.7 J", "58.8 J", "176.4 J"],
+"correct": 0
+},
+{
+"q": "What is power defined as in terms of force and velocity for an object moving with constant velocity against a resistive force?",
+"a": ["P = F / v", "P = F v", "P = F v²", "P = 0.5 F v"],
+"correct": 1
+},
+{
+"q": "A spring with spring constant k = 200 N m⁻¹ is stretched by 0.050 m from its unstretched length. What is the elastic potential energy stored in the spring?",
+"a": ["0.10 J", "0.25 J", "0.50 J", "5.00 J"],
+"correct": 2
+},
+{
+"q": "Why is work considered a scalar quantity even though it is the product of two vector quantities (force and displacement)?",
+"a": ["Because force is always scalar", "Because displacement has no direction", "Because time cancels out vector properties", "Because it is calculated using the scalar dot product of force and displacement vectors"],
+"correct": 3
+},
+{
+"q": "An electric motor operates at 240 V and draws a current of 5.0 A. It lifts a 50 kg load through a vertical height of 10 m in 4.0 seconds. What is the efficiency of the motor? (g = 9.81 m s⁻²)",
+"a": ["40.9%", "81.8%", "20.5%", "95.0%"],
+"correct": 0
+},
+{
+"q": "What is the area under a force-displacement graph representing?",
+"a": ["Acceleration", "Work done", "Power", "Momentum"],
+"correct": 1
+},
+{
+"q": "A car travels up a slope inclined at 15 degrees to the horizontal at a steady speed of 20 m s⁻¹. The total mass of the car is 1500 kg and total resistive frictional forces equal 500 N. What is the total power output of the engine? (g = 9.81 m s⁻²)",
+"a": ["50.0 kW", "78.2 kW", "88.2 kW", "100.2 kW"],
+"correct": 2
+},
+{
+"q": "Which unit is equivalent to the watt?",
+"a": ["J s", "N m s⁻¹", "kg m² s⁻²", "J s⁻¹"],
+"correct": 3
+},
+{
+"q": "A bullet of mass 10 g traveling horizontally at 400 m s⁻¹ penetrates 10 cm into a stationary wooden block. What is the average resistive force exerted by the block?",
+"a": ["8.0 kN", "16.0 kN", "4.0 kN", "20.0 kN"],
+"correct": 0
+},
+{
+"q": "What is the kinetic energy of a 2000 kg car traveling at a speed of 72 km/h?",
+"a": ["200 kJ", "400 kJ", "800 kJ", "1000 kJ"],
+"correct": 1
+},
+{
+"q": "A particle moves in a potential energy field given by U(x) = x³ - 3x. At which position is the particle in stable equilibrium?",
+"a": ["x = -1", "x = 0", "x = 1", "x = square root of 3"],
+"correct": 2
+},
+{
+"q": "What characterizes a conservative force field?",
+"a": ["The work done by the force along a closed path is non-zero.", "Energy is continuously dissipated as heat.", "The force depends explicitly on the velocity of the particle.", "The work done by the force in moving an object between two points is independent of the path taken."],
+"correct": 3
+},
+{
+"q": "A ball is dropped from a height of 10 m and rebounds to a height of 6.4 m. What percentage of its kinetic energy is lost upon impact with the floor?",
+"a": ["36%", "64%", "30%", "45%"],
+"correct": 0
+},
+{
+"q": "A crane hoists a 500 kg load vertically upwards with a constant acceleration of 1.0 m s⁻² for 4.0 s from rest. What is the total work done by the crane cable during this time? (g = 9.81 m s⁻²)",
+"a": ["19.6 kJ", "21.6 kJ", "23.5 kJ", "25.0 kJ"],
+"correct": 1
+},
+{
+"q": "What is the relationship between momentum p and kinetic energy E_k for a non-relativistic object of mass m?",
+"a": ["E_k = p / m", "E_k = m p²", "E_k = p² / (2 m)", "E_k = 0.5 m p"],
+"correct": 2
+},
+{
+"q": "A cyclist pedals down a hill without braking, gaining both speed and elevation loss. Which statement correctly describes the energy transformations?",
+"a": ["Chemical energy is transformed only into thermal energy.", "Kinetic energy decreases while gravitational potential energy increases.", "Only work done against air resistance matters.", "Gravitational potential energy decreases and is transformed into kinetic energy and thermal energy due to friction and drag."],
+"correct": 3
+},
+{
+"q": "A constant force F pushes a block of mass m up a smooth incline of angle theta at a constant velocity v. What is the instantaneous power delivered by force F?",
+"a": ["m g v sin(theta)", "m g v cos(theta)", "F v tan(theta)", "F v cos(theta)"],
+"correct": 0
+},
+{
+"q": "If the momentum of a moving object is doubled, what happens to its kinetic energy?",
+"a": ["It is doubled", "It increases by a factor of 4", "It increases by a factor of 8", "It remains unchanged"],
+"correct": 1
+},
+{
+"q": "A 1000 kg car accelerates from 10 m s⁻¹ to 20 m s⁻¹ in 5.0 s. What is the average power developed during this time?",
+"a": ["30 kW", "45 kW", "60 kW", "75 kW"],
+"correct": 2
+},
+{
+"q": "Which of the following forms of energy is classified as degraded energy in typical thermodynamic processes?",
+"a": ["Chemical energy in fossil fuels", "Electrical energy in grid transmission", "High-temperature steam in a turbine", "Internal thermal energy dispersed uniformly into the surroundings at ambient temperature"],
+"correct": 3
+},
+{
+"q": "A spring stores 4.0 J of elastic potential energy when stretched by 0.20 m. What is the spring constant k?",
+"a": ["200 N m⁻¹", "100 N m⁻¹", "400 N m⁻¹", "50 N m⁻¹"],
+"correct": 0
+},
+{
+"q": "A pendulum bob of mass 0.20 kg is pulled aside until its center of mass rises by 0.10 m, then released from rest. What is its speed as it passes through the lowest point? (g = 9.81 m s⁻²)",
+"a": ["1.00 m s⁻¹", "1.40 m s⁻¹", "1.96 m s⁻¹", "2.00 m s⁻¹"],
+"correct": 1
+},
+{
+"q": "What is the physical significance of the gradient of a potential energy versus position graph (dU/dx)?",
+"a": ["It represents the kinetic energy at that point.", "It represents the total mechanical energy.", "It represents the negative of the conservative force acting on the particle.", "It represents the power delivered to the particle."],
+"correct": 2
+},
+{
+"q": "A body of mass m is thrown vertically upwards with speed u. At what height above the projection point is its kinetic energy equal to its potential energy?",
+"a": ["u² / (g)", "u² / (2g)", "u² / (4g)", "u² / (3g)"],
+"correct": 3
+},
+{
+"q": "A pump is rated at 5.0 kW. How long will it take to pump 1000 kg of water from a well 30 m deep? (g = 9.81 m s⁻²)",
+"a": ["58.9 s", "117.8 s", "29.4 s", "196.2 s"],
+"correct": 0
+},
+{
+"q": "An object slides down a curved frictionless track from rest. What determines its final speed at the bottom?",
+"a": ["The shape and length of the track", "The vertical height fallen from rest", "The mass of the object", "The horizontal displacement"],
+"correct": 1
+},
+{
+"q": "A particle of mass 2.0 kg has a velocity v = (3.0 i + 4.0 j) m s⁻¹. What is its total kinetic energy?",
+"a": ["12.5 J", "25.0 J", "50.0 J", "100.0 J"],
+"correct": 2
+},
+{
+"q": "Which of the following is true for an elastic collision in terms of kinetic energy?",
+"a": ["Total kinetic energy is zero after collision", "Kinetic energy is temporarily converted to thermal energy and lost permanently", "Kinetic energy of each individual body remains constant", "Total kinetic energy before collision equals total kinetic energy after collision"],
+"correct": 3
+}
+]
+}

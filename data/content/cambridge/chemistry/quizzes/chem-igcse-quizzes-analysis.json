@@ -1,0 +1,166 @@
+{
+"id": "chem-igcse-quizzes-analysis",
+"name": "Chemical analysis and identification of ions",
+"questions": [
+{
+"q": "Which chemical test is used to confirm the presence of water using anhydrous copper(II) sulfate?",
+"a": ["Color change from white to blue", "Color change from blue to pink", "Effervescence of carbon dioxide", "Precipitation of white solid"],
+"correct": 0
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added dropwise to a solution containing copper(II) ions?",
+"a": ["A white soluble precipitate", "A light blue precipitate that is insoluble in excess", "A green precipitate", "A red-brown precipitate"],
+"correct": 1
+},
+{
+"q": "Which gas turns damp red litmus paper blue?",
+"a": ["Carbon dioxide", "Chlorine", "Ammonia", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "What is the physical test to prove that a liquid sample of water is pure?",
+"a": ["Check if it turns blue litmus red", "Check if it dissolves salt", "Measure its density at room temperature", "Test that it boils at exactly 100 degrees Celsius and freezes at 0 degrees Celsius"],
+"correct": 3
+},
+{
+"q": "What is observed when dilute hydrochloric acid is added to a test tube containing carbonate ions?",
+"a": ["Effervescence of carbon dioxide gas, which turns limewater milky", "A pungent green gas is evolved", "A bright yellow precipitate forms", "The solution turns deep purple"],
+"correct": 0
+},
+{
+"q": "Which reagent is used to test for halide ions (such as chloride, bromide, or iodide) in aqueous solution?",
+"a": ["Acidified barium chloride", "Acidified silver nitrate solution", "Sodium hydroxide solution", "Limewater"],
+"correct": 1
+},
+{
+"q": "What color precipitate is formed when silver nitrate solution is added to an aqueous solution containing chloride ions?",
+"a": ["Yellow precipitate", "Cream precipitate", "White precipitate", "Black precipitate"],
+"correct": 2
+},
+{
+"q": "Which reagent is added to test for sulfate ions in solution?",
+"a": ["Aqueous ammonia", "Silver nitrate solution", "Sodium hydroxide", "Acidified barium chloride solution"],
+"correct": 3
+},
+{
+"q": "What is observed when acidified barium chloride solution is added to a solution containing sulfate ions?",
+"a": ["A dense white precipitate of barium sulfate forms", "A yellow precipitate forms", "Effervescence of hydrogen gas", "Solution turns bright green"],
+"correct": 0
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added to iron(III) ions?",
+"a": ["A green precipitate", "A red-brown precipitate", "A blue precipitate", "A white precipitate"],
+"correct": 1
+},
+{
+"q": "Which gas bleaches damp litmus paper?",
+"a": ["Carbon dioxide", "Ammonia", "Chlorine", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "What color precipitate is formed when silver nitrate is added to aqueous iodide ions?",
+"a": ["White", "Cream", "Blue", "Yellow"],
+"correct": 3
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added to aluminium ions in small amounts, and then added in excess?",
+"a": ["White precipitate forms, which dissolves in excess sodium hydroxide to give a colorless solution", "No precipitate forms at all", "Blue precipitate forms", "Brown precipitate forms"],
+"correct": 0
+},
+{
+"q": "Which test confirms the presence of carbon dioxide gas?",
+"a": ["Relights a glowing splint", "Turns limewater milky (cloudy)", "Pops with a lighted splint", "Bleaches damp litmus paper"],
+"correct": 1
+},
+{
+"q": "What is the flame color test result for lithium ions (Li<sup>+</sup>)?",
+"a": ["Lilac", "Golden yellow", "Crimson red", "Brick-red"],
+"correct": 2
+},
+{
+"q": "What is the flame test color for copper(II) ions (Cu<sup>2+</sup>)?",
+"a": ["Yellow", "Red", "Orange", "Blue-green"],
+"correct": 3
+},
+{
+"q": "What is observed when aqueous ammonia is added dropwise to copper(II) ions?",
+"a": ["Light blue precipitate forms, which dissolves in excess aqueous ammonia to form a deep blue solution", "White precipitate that is insoluble", "Red-brown precipitate", "No reaction"],
+"correct": 0
+},
+{
+"q": "What is the flame test color for sodium ions (Na<sup>+</sup>)?",
+"a": ["Lilac", "Golden yellow", "Brick-red", "Green"],
+"correct": 1
+},
+{
+"q": "Which gas produces a squeaky pop when tested with a lighted splint?",
+"a": ["Oxygen", "Carbon dioxide", "Hydrogen", "Chlorine"],
+"correct": 2
+},
+{
+"q": "What is the flame test color for potassium ions (K<sup>+</sup>)?",
+"a": ["Golden yellow", "Crimson red", "Blue-green", "Lilac"],
+"correct": 3
+},
+{
+"q": "What color precipitate is formed with aqueous sodium hydroxide and iron(II) ions?",
+"a": ["Green precipitate", "Red-brown precipitate", "Blue precipitate", "White precipitate"],
+"correct": 0
+},
+{
+"q": "Which test confirms the presence of oxygen gas?",
+"a": ["Turns limewater milky", "Relights a glowing splint", "Turns damp red litmus blue", "Pops with a lighted splint"],
+"correct": 1
+},
+{
+"q": "What color precipitate forms when aqueous sodium hydroxide is added to calcium ions?",
+"a": ["Blue precipitate", "Green precipitate", "White precipitate that is insoluble in excess", "Red-brown precipitate"],
+"correct": 2
+},
+{
+"q": "What is observed when aqueous ammonia is added to zinc ions in excess?",
+"a": ["White precipitate remains insoluble", "No reaction occurs", "Precipitate dissolves to form a brown solution", "White precipitate dissolves in excess to form a colorless solution"],
+"correct": 3
+},
+{
+"q": "What is the flame test color for calcium ions (Ca<sup>2+</sup>)?",
+"a": ["Brick-red (orange-red)", "Lilac", "Golden yellow", "Green"],
+"correct": 0
+},
+{
+"q": "Which reagent is used to distinguish between chloride, bromide, and iodide ions?",
+"a": ["Limewater", "Acidified silver nitrate solution", "Sodium hydroxide", "Hydrochloric acid"],
+"correct": 1
+},
+{
+"q": "What color precipitate is formed when silver nitrate is added to aqueous bromide ions?",
+"a": ["White", "Yellow", "Cream", "Black"],
+"correct": 2
+},
+{
+"q": "How do you test for ammonium ions (NH<sub>4</sub><sup>+</sup>) in a sample?",
+"a": ["Add barium chloride and look for white precipitate", "Add silver nitrate for cream precipitate", "Add dilute hydrochloric acid for gas bubbles", "Add aqueous sodium hydroxide and warm gently, then test evolved gas with damp red litmus paper"],
+"correct": 3
+},
+{
+"q": "What is observed when anhydrous cobalt(II) chloride paper is exposed to water?",
+"a": ["Color change from blue to pink", "Color change from pink to blue", "Paper dissolves completely", "Paper turns bright yellow"],
+"correct": 0
+},
+{
+"q": "Which chemical test is used to detect the presence of oxidizing agents like potassium manganate(VII)?",
+"a": ["Adding starch solution", "Adding aqueous potassium iodide, which turns brown as iodine is released", "Adding universal indicator", "Adding limewater"],
+"correct": 1
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added to zinc ions in small amounts?",
+"a": ["Blue precipitate", "Brown precipitate", "White precipitate", "No change"],
+"correct": 2
+},
+{
+"q": "Why is nitric acid added before testing for halide ions with silver nitrate?",
+"a": ["To neutralize excess acid", "To precipitate silver chloride", "To act as a catalyst", "To react with and remove interfering impurity ions like carbonates or sulfites that would form unwanted precipitates"],
+"correct": 3
+}
+]
+}

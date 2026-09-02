@@ -1,0 +1,146 @@
+{
+"id": "chem-alevel-quizzes-stereoisomerism",
+"name": "Stereoisomerism and optical activity",
+"questions": [
+{
+"q": "What is defined as stereoisomerism?",
+"a": ["Compounds with the same structural formula but different arrangements of atoms in three-dimensional space", "Compounds with completely different molecular formulas", "Compounds that differ only in chain length", "Compounds that contain different functional groups"],
+"correct": 0
+},
+{
+"q": "What type of stereoisomerism is caused by restricted rotation about a carbon-carbon double bond or across a ring structure?",
+"a": ["Optical isomerism", "Geometrical (cis-trans or E-Z) isomerism", "Functional group isomerism", "Position isomerism"],
+"correct": 1
+},
+{
+"q": "What term describes a carbon atom bonded to four different groups or atoms, giving rise to optical activity?",
+"a": ["Achiral center", "Carbonyl carbon", "Chiral center (asymmetric carbon)", "Free radical center"],
+"correct": 2
+},
+{
+"q": "What is a racemic mixture (racemate)?",
+"a": ["A pure sample containing only one enantiomer", "A solution that has no carbon atoms", "An inorganic salt mixture", "An equimolar mixture of two enantiomers that is optically inactive"],
+"correct": 3
+},
+{
+"q": "What physical property distinguishes two optical enantiomers from each other?",
+"a": ["The direction in which they rotate the plane of plane-polarized light", "Their melting points", "Their boiling points", "Their density in liquid form"],
+"correct": 0
+},
+{
+"q": "According to CIP (Cahn-Ingold-Prelog) priority rules for E-Z isomerism, how is priority determined for groups attached to a double-bonded carbon?",
+"a": ["By the alphabetical order of the group names", "By the atomic number of the atom directly attached to the carbon (higher atomic number gets higher priority)", "By the physical mass of the entire molecule", "By the length of the carbon chain"],
+"correct": 1
+},
+{
+"q": "What instrument is used in the laboratory to measure the angle of rotation of plane-polarized light by optically active solutions?",
+"a": ["Spectrophotometer", "Colorimeter", "Polarimeter", "Mass spectrometer"],
+"correct": 2
+},
+{
+"q": "Which of the following molecules is chiral and therefore exhibits optical isomerism?",
+"a": ["2-chloropropane", "1-chloropropane", "Dichloromethane", "2-chlorobutane"],
+"correct": 3
+},
+{
+"q": "What term is used to describe non-superimposable mirror-image stereoisomers?",
+"a": ["Enantiomers", "Diastereoisomers", "Structural isomers", "Conformational isomers"],
+"correct": 0
+},
+{
+"q": "Why does the nucleophilic addition of hydrogen cyanide to an unsymmetrical ketone (like butan-2-one) typically produce a racemic mixture?",
+"a": ["Because cyanide ions are optically active", "Because the planar carbonyl group can be attacked by the nucleophile from either side with equal probability", "Because HCN destroys chiral centers", "Because the reaction is carried out at high temperatures"],
+"correct": 1
+},
+{
+"q": "What is meant by the term 'plane-polarized light'?",
+"a": ["Light that travels in all directions without restriction", "Light with circular polarization only", "Light in which the electric field oscillations are restricted to a single plane", "Light emitted by a radioactive source"],
+"correct": 2
+},
+{
+"q": "Which of the following pairs of molecules represents geometric (E-Z) isomers of each other?",
+"a": ["Propane and cyclopropane", "Propan-1-ol and propan-2-ol", "Chloromethane and dichloromethane", "E-but-2-ene and Z-but-2-ene"],
+"correct": 3
+},
+{
+"q": "What structural feature is essential for a molecule to exhibit optical isomerism?",
+"a": ["At least one chiral center (asymmetric carbon atom) lacking a plane of symmetry", "A carbon-carbon double bond", "A cyclic ring of six carbon atoms", "A carboxylic acid group"],
+"correct": 0
+},
+{
+"q": "How does a chiral substance affect plane-polarized light?",
+"a": ["It absorbs all light completely", "It rotates the plane of polarization by a specific angle", "It converts light into infrared radiation", "It polarizes unpolarized light into two perpendicular planes"],
+"correct": 1
+},
+{
+"q": "What distinguishes diastereoisomers from enantiomers?",
+"a": ["Diastereoisomers are mirror images of each other", "Diastereoisomers are identical in all physical properties", "Diastereoisomers are stereoisomers that are not mirror images of one another (such as cis-trans isomers or compounds with multiple chiral centers)", "Diastereoisomers do not contain carbon"],
+"correct": 2
+},
+{
+"q": "Which of the following compounds exhibits E-Z (geometrical) isomerism?",
+"a": ["1,1-dichloroethene", "1,1-dibromoethane", "Ethene", "1,2-dichloroethene"],
+"correct": 3
+},
+{
+"q": "In Cahn-Ingold-Prelog nomenclature for E-Z isomerism, what does the descriptor 'E' (entgegen) indicate?",
+"a": ["The higher priority groups are on opposite sides of the carbon-carbon double bond", "The higher priority groups are on the same side of the carbon-carbon double bond", "The molecule is optically inactive", "The molecule is cyclic"],
+"correct": 0
+},
+{
+"q": "Why are optical isomers often referred to as optical antipodes?",
+"a": ["Because they react violently with each other", "Because they rotate plane-polarized light in equal and opposite directions", "Because they have different boiling points", "Because they cannot exist in aqueous solution"],
+"correct": 1
+},
+{
+"q": "Which of the following amino acids is achiral because its central alpha-carbon is bonded to two hydrogen atoms?",
+"a": ["Alanine", "Serine", "Glycine", "Valine"],
+"correct": 2
+},
+{
+"q": "What is observed when equal amounts of two enantiomers are mixed together?",
+"a": ["Optical activity is doubled", "The mixture becomes solid", "The solution becomes colored", "Optical rotation cancels out, resulting in optical inactivity (racemic mixture)"],
+"correct": 3
+},
+{
+"q": "What term describes molecules that have the same molecular formula and connectivity of atoms, but different three-dimensional orientations?",
+"a": ["Stereoisomers", "Structural isomers", "Chain isomers", "Functional isomers"],
+"correct": 0
+},
+{
+"q": "Which compound does NOT exhibit geometrical (E-Z) isomerism?",
+"a": ["But-2-ene", "1,2-dichloroethene", "But-1-ene", "Pent-2-ene"],
+"correct": 1
+},
+{
+"q": "If a pure enantiomer rotates plane-polarized light by +20 degrees, what rotation would be observed for a racemic mixture of the same substance?",
+"a": ["+20 degrees", "-20 degrees", "0 degrees", "+40 degrees"],
+"correct": 2
+},
+{
+"q": "Which of the following is true regarding the chemical properties of a pair of enantiomers in a chiral environment (such as an enzyme active site)?",
+"a": ["They react at identical rates with all reagents", "They have identical biological and pharmacological properties", "They cannot undergo reactions", "They often interact differently because of their distinct three-dimensional shapes fitting into chiral receptors"],
+"correct": 3
+},
+{
+"q": "What is the primary cause of geometrical (E-Z) isomerism in alkenes?",
+"a": ["Restricted rotation around the pi-bond of the carbon-carbon double bond", "Free rotation around single bonds", "Hydrogen bonding between molecules", "Ionic attraction between carbon atoms"],
+"correct": 0
+},
+{
+"q": "How many optical isomers are theoretically possible for a molecule containing two different chiral centers?",
+"a": ["2", "4", "8", "16"],
+"correct": 1
+},
+{
+"q": "What is a meso compound?",
+"a": ["A mixture of enantiomers", "An alkene with cis-trans isomers", "A compound with multiple chiral centers that is optically inactive due to an internal plane of symmetry", "A radical intermediate"],
+"correct": 2
+},
+{
+"q": "Which of the following physical or chemical properties is different between two enantiomers?",
+"a": ["Melting point", "Density", "Solubility in achiral solvents", "Direction of rotation of plane-polarized light"],
+"correct": 3
+}
+]
+}

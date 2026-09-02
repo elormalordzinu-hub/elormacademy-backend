@@ -1,0 +1,241 @@
+{
+  "id": "phys-yr8-quizzes-circuits",
+  "name": "Series and parallel circuits",
+  "questions": [
+    {
+      "q": "What is the defining characteristic of a series circuit?",
+      "a": [
+        "There is only a single, unbranched path for the electric current to flow through all components",
+        "Components are connected across multiple separate branches",
+        "Current splits into different directions at junctions",
+        "Removing one bulb keeps all other bulbs lit"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the defining characteristic of a parallel circuit?",
+      "a": [
+        "It has only one loop for current",
+        "It contains multiple independent branches, allowing current to divide and flow through different paths",
+        "Components have zero resistance",
+        "Voltage is different across every branch"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What happens in a series circuit containing three lamps if one of the lamps breaks or is unscrewed?",
+      "a": [
+        "The broken lamp glows brighter",
+        "The other two lamps stay lit normally",
+        "All the other lamps go out because the circuit is broken",
+        "The total current doubles"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What happens in a parallel circuit containing three lamps on separate branches if one lamp breaks or is removed?",
+      "a": [
+        "The entire circuit shuts down",
+        "The power source explodes",
+        "All lamps turn off immediately",
+        "The other lamps on separate branches remain lit"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "How is potential difference (voltage) shared across identical components connected in series with a battery?",
+      "a": [
+        "The total voltage of the supply is shared equally among the identical components",
+        "Each component receives the full battery voltage",
+        "Voltage becomes zero across all components",
+        "Voltage multiplies with each component"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What can be said about the potential difference (voltage) across components connected in parallel branches?",
+      "a": [
+        "Voltage splits into fractions across branches",
+        "The voltage across each parallel branch is equal to the source voltage",
+        "Voltage drops to zero in parallel loops",
+        "Voltage is highest on the last branch"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "How does electric current behave at any junction in a parallel circuit (Kirchhoff's First Law concept)?",
+      "a": [
+        "Current is destroyed at junctions",
+        "Current multiplies randomly",
+        "The total current entering a junction equals the total current leaving it (splits between branches)",
+        "Current flows backward into batteries"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why are household lighting and electrical sockets wired in parallel rather than in series?",
+      "a": [
+        "Parallel wiring uses more wire, making it expensive",
+        "Parallel circuits cause bulbs to burn out instantly",
+        "It ensures that if one appliance is turned off or breaks, all other appliances continue to work independently at full voltage",
+        "Series circuits cannot carry electricity"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the total resistance of a circuit when you add more resistors in series?",
+      "a": [
+        "Total resistance increases",
+        "Total resistance decreases",
+        "Total resistance drops to zero",
+        "Total resistance remains unaffected"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the total resistance of a circuit when you add more resistors in parallel branches?",
+      "a": [
+        "Total resistance increases",
+        "Total resistance decreases because providing extra pathways makes it easier for current to flow",
+        "Total resistance becomes infinite",
+        "Total resistance triples instantly"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "If three identical lamps are connected in series across a 6 V battery, what is the voltage across each individual lamp?",
+      "a": ["6 Volts", "18 Volts", "2 Volts", "0 Volts"],
+      "correct": 2
+    },
+    {
+      "q": "If three identical lamps are connected in parallel across a 6 V battery, what is the voltage across each individual lamp?",
+      "a": ["2 Volts", "1.5 Volts", "18 Volts", "6 Volts"],
+      "correct": 3
+    },
+    {
+      "q": "If a current of 2 A flows through a battery in a series circuit containing two identical bulbs, what is the current flowing through the second bulb?",
+      "a": ["2 Amperes", "1 Ampere", "4 Amperes", "0 Amperes"],
+      "correct": 0
+    },
+    {
+      "q": "In a parallel circuit with two branches, if 1 A of current flows through the first branch and 3 A flows through the second branch, what is the total current supplied by the battery?",
+      "a": ["2 Amperes", "4 Amperes", "1.5 Amperes", "3 Amperes"],
+      "correct": 1
+    },
+    {
+      "q": "Which type of circuit arrangement is best suited for decorative fairy lights where a single broken filament causes the whole string to go dark (in older models)?",
+      "a": ["Parallel circuit", "Complex grid circuit", "Series circuit", "Short circuit"],
+      "correct": 2
+    },
+    {
+      "q": "What is a 'short circuit' in an electrical system?",
+      "a": [
+        "A circuit with extra long wires",
+        "A circuit containing only resistors",
+        "A circuit with high resistance components",
+        "A low-resistance path that bypasses components, causing dangerously large currents to flow"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "How do you calculate the total resistance of two resistors connected in series?",
+      "a": [
+        "Add their individual resistance values together (R_total = R₁ + R₂)",
+        "Multiply their values",
+        "Divide the first by the second",
+        "Subtract the smaller from the larger"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why do car headlights stay bright even when other electrical accessories like the radio or wipers are turned on?",
+      "a": [
+        "Because car parts are wired in series",
+        "Because all accessories are connected in parallel across the same battery voltage",
+        "Because cars use alternating current",
+        "Because generators create extra energy"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "If two identical resistors are connected in series, how does the voltage drop across each resistor compare to the total battery voltage?",
+      "a": [
+        "Each resistor gets the full battery voltage",
+        "Voltage drops to zero",
+        "Each resistor drops half of the total battery voltage",
+        "Voltage doubles across each resistor"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What instrument is used to measure current in a circuit branch, and how must it be positioned?",
+      "a": [
+        "A voltmeter placed in parallel",
+        "An ohmmeter placed across terminals",
+        "A thermometer placed near wires",
+        "An ammeter placed in series with that specific branch"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the brightness of bulbs connected in series as you keep adding more bulbs to the same string?",
+      "a": [
+        "The bulbs become dimmer because the total voltage is shared among more components, reducing current",
+        "The bulbs become blindingly bright",
+        "Brightness stays completely unchanged",
+        "Bulbs begin flashing on and off"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the brightness of bulbs connected in parallel branches as you add more bulbs on new branches?",
+      "a": [
+        "All existing bulbs turn off",
+        "Each new bulb glows at normal brightness because each branch connects directly across the full voltage of the supply",
+        "Bulbs get dimmer sequentially",
+        "Bulbs turn blue"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "If a circuit diagram shows a single loop containing a cell, a switch, and two lamps, how are the lamps connected?",
+      "a": ["In parallel", "In a grid network", "In series", "In a short-circuit configuration"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary risk of plugging too many high-power appliances into a single multi-socket adapter wired into one wall outlet?",
+      "a": [
+        "It saves electrical energy",
+        "It freezes the wiring",
+        "It reduces current to zero",
+        "It draws an excessively large total current through the wires, causing overheating and potential electrical fires"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "In a series circuit containing a 12 V cell and two resistors of 4 ohms and 2 ohms respectively, what is the total resistance of the circuit?",
+      "a": ["6 ohms", "0.66 ohms", "2 ohms", "8 ohms"],
+      "correct": 0
+    },
+    {
+      "q": "Using the circuit described in the previous question (12 V total, 6 ohms total resistance), what is the current flowing through the series circuit?",
+      "a": ["0.5 Amperes", "2 Amperes", "72 Amperes", "18 Amperes"],
+      "correct": 1
+    },
+    {
+      "q": "Which circuit diagram symbol represents a component that restricts current flow and has a fixed value measured in ohms?",
+      "a": ["A circle with a cross", "Two parallel lines", "A rectangle", "A zigzag line"],
+      "correct": 2
+    },
+    {
+      "q": "What is the key advantage of using parallel circuits in a kitchen containing a refrigerator, microwave, and kettle?",
+      "a": [
+        "Appliances share voltage so they work slower",
+        "Appliances can only work one at a time",
+        "It reduces electricity bills to zero",
+        "Each appliance operates independently at full mains voltage and can be switched on or off separately"
+      ],
+      "correct": 3
+    }
+  ]
+}

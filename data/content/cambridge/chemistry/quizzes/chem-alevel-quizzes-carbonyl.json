@@ -1,0 +1,126 @@
+{
+"id": "chem-alevel-quizzes-carbonyl",
+"name": "Carbonyl compounds and carboxylic acid derivatives",
+"questions": [
+{
+"q": "What is the characteristic functional group present in both aldehydes and ketones?",
+"a": ["Carbonyl group (C=O)", "Hydroxyl group (-OH)", "Carboxyl group (-COOH)", "Ester group (-COO-)"],
+"correct": 0
+},
+{
+"q": "Which chemical test uses an ammoniacal silver nitrate solution to distinguish aldehydes from ketones, producing a silver mirror on the test tube walls?",
+"a": ["Fehling's test", "Tollens' reagent test", "2,4-DNPH test", "Iodoform test"],
+"correct": 1
+},
+{
+"q": "What is the purpose of adding 2,4-dinitrophenylhydrazine (2,4-DNPH) reagent to an unknown organic liquid?",
+"a": ["To oxidize alcohols into acids", "To reduce ketones into alkanes", "To test for the presence of a carbonyl group by forming a colored crystalline precipitate", "To measure solution pH"],
+"correct": 2
+},
+{
+"q": "Which of the following reagents can be used to specifically confirm the presence of a methyl ketone (or secondary alcohol that oxidizes to one) by forming a pale yellow precipitate of triiodomethane?",
+"a": ["Tollens' reagent", "Acidified potassium dichromate", "Fehling's solution", "Iodine in the presence of sodium hydroxide (Iodoform test)"],
+"correct": 3
+},
+{
+"q": "What is the primary organic product formed when an aldehyde is oxidized with acidified potassium dichromate(VI) under reflux?",
+"a": ["A carboxylic acid", "A ketone", "An alkene", "A primary alcohol"],
+"correct": 0
+},
+{
+"q": "What type of mechanism occurs when a nucleophile attacks the electron-deficient carbonyl carbon of an aldehyde or ketone?",
+"a": ["Electrophilic addition", "Nucleophilic addition", "Nucleophilic substitution", "Free radical substitution"],
+"correct": 1
+},
+{
+"q": "Why can aldehydes be easily oxidized to carboxylic acids, whereas ketones generally resist oxidation under mild conditions?",
+"a": ["Aldehydes contain a carbon-carbon double bond", "Ketones are ionic compounds", "Aldehydes have a hydrogen atom attached directly to the carbonyl carbon which can be removed during oxidation, whereas ketones have two alkyl groups", "Ketones have higher boiling points"],
+"correct": 2
+},
+{
+"q": "What is formed when a carboxylic acid reacts with an alcohol in the presence of a strong acid catalyst (such as concentrated sulfuric acid)?",
+"a": ["An aldehyde", "An ether", "A ketone", "An ester"],
+"correct": 3
+},
+{
+"q": "Which derivative of carboxylic acids is the most reactive toward nucleophilic addition-elimination reactions due to the strong electron-withdrawing chlorine atom?",
+"a": ["Acyl chloride (acid chloride)", "Ester", "Amide", "Carboxylate salt"],
+"correct": 0
+},
+{
+"q": "What is the organic product of the reaction between an acyl chloride and excess cold water?",
+"a": ["An ester and hydrogen chloride", "A carboxylic acid and hydrogen chloride gas", "An amide and chlorine gas", "An anhydride"],
+"correct": 1
+},
+{
+"q": "What color change is observed when Fehling's solution is warmed with an aldehyde?",
+"a": ["Orange to purple", "Colorless to dark green", "Blue solution to a brick-red precipitate of copper(I) oxide", "Pink to clear"],
+"correct": 2
+},
+{
+"q": "Which of the following compounds is produced when ethanoyl chloride reacts with methylamine?",
+"a": ["N-methylethanamide", "Ethylamine", "Methyl ethanoate", "Ethanoic acid"],
+"correct": 3
+},
+{
+"q": "What is the reducing agent commonly used in organic synthesis to reduce carbonyl compounds back into alcohols?",
+"a": ["Sodium borohydride (NaBH<sub>4</sub>) or lithium aluminium hydride (LiAlH<sub>4</sub>)", "Concentrated sulfuric acid", "Sodium chloride solution", "Bromine water"],
+"correct": 0
+},
+{
+"q": "What functional group is created when a carboxylic acid reacts with phosphorus pentachloride (PCl<sub>5</sub>)?",
+"a": ["An ester group", "An acyl chloride group (-COCl)", "An alcohol group", "An aldehyde group"],
+"correct": 1
+},
+{
+"q": "Why do carboxylic acids have significantly higher boiling points than alkanes of comparable relative molecular mass?",
+"a": ["They have higher atomic weights", "They contain ionic bonds", "They form extensive intermolecular hydrogen bonds between molecules", "They are strong oxidizing agents"],
+"correct": 2
+},
+{
+"q": "What are the products when an ester is hydrolyzed under alkaline conditions (such as heating with aqueous sodium hydroxide)?",
+"a": ["An alcohol and an acyl chloride", "An aldehyde and water", "A carboxylic acid and an amine", "A carboxylate salt and an alcohol"],
+"correct": 3
+},
+{
+"q": "What type of reaction mechanism occurs when acyl chlorides react with water, alcohols, or amines?",
+"a": ["Nucleophilic addition-elimination", "Electrophilic substitution", "Free radical addition", "Elimination"],
+"correct": 0
+},
+{
+"q": "Which carboxylic acid derivative is commonly used in industry to manufacture cellulose acetate and aspirin because it is safer and less violently reactive than acyl chlorides?",
+"a": ["Acid anhydride (e.g., ethanoic anhydride)", "Ammonium carboxylate", "Alkyl halide", "Primary amide"],
+"correct": 1
+},
+{
+"q": "What is observed when 2,4-DNPH is added to a solution containing a carbonyl compound?",
+"a": ["A gas is evolved", "A silver mirror forms", "A bright orange or yellow crystalline precipitate forms", "The solution turns deep blue"],
+"correct": 2
+},
+{
+"q": "What is the IUPAC name of the organic product formed from the oxidation of propan-2-ol?",
+"a": ["Propanal", "Propanoic acid", "Propene", "Propanone"],
+"correct": 3
+},
+{
+"q": "Which of the following compounds will give a positive iodoform test (yellow precipitate with alkaline iodine)?",
+"a": ["Ethan_ol_ (or propan-2-one)", "Propanal", "Methanol", "Butanoic acid"],
+"correct": 0
+},
+{
+"q": "How can a solid 2,4-DNPH derivative formed from an unknown aldehyde or ketone be used to identify the original compound?",
+"a": ["By measuring its electrical conductivity", "By determining its melting point and comparing it with literature values", "By weighing its mass accurately", "By testing its solubility in water"],
+"correct": 1
+},
+{
+"q": "What is the primary difference in physical properties between low-molecular-mass carboxylic acids and long-chain fatty acids?",
+"a": ["Low-molecular-mass acids are insoluble in water while long-chain acids are soluble", "Low-molecular-mass acids are gases while long-chain acids are solids", "Low-molecular-mass acids are completely miscible in water due to hydrogen bonding, whereas long-chain acids are insoluble due to the hydrophobic hydrocarbon chain", "Low-molecular-mass acids do not exhibit hydrogen bonding"],
+"correct": 2
+},
+{
+"q": "Which reagent will convert propanoic acid directly into propan-1-ol?",
+"a": ["Acidified potassium dichromate", "Sodium hydroxide solution", "Dilute hydrochloric acid", "Lithium aluminium hydride (LiAlH<sub>4</sub>) in dry ether"],
+"correct": 3
+}
+]
+}

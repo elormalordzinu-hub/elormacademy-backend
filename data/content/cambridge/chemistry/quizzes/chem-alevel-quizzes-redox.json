@@ -1,0 +1,126 @@
+{
+"id": "chem-alevel-quizzes-redox",
+"name": "Redox potentials and electrochemical cells",
+"questions": [
+{
+"q": "What is defined as reduction in terms of oxidation numbers?",
+"a": ["A decrease in oxidation number (gain of electrons)", "An increase in oxidation number (loss of electrons)", "Loss of hydrogen atoms", "Gain of oxygen atoms"],
+"correct": 0
+},
+{
+"q": "What is the standard hydrogen electrode (SHE) assigned as the reference standard electrode potential?",
+"a": ["+1.00 volts", "0.00 volts", "+1.23 volts", "-0.76 volts"],
+"correct": 1
+},
+{
+"q": "What conditions must be maintained for standard electrode potential (E_theta) measurements?",
+"a": ["Temperature 0 degrees Celsius, pressure 10 kPa, concentration 0.01 mol dm<sup>-3</sup>", "Temperature 500 Kelvin, pressure 1000 kPa", "Temperature 298 Kelvin (25 degrees Celsius), pressure 100 kPa (1 bar), solution concentration 1.0 mol dm<sup>-3</sup>", "Any arbitrary laboratory conditions"],
+"correct": 2
+},
+{
+"q": "How is the standard cell potential (E_cell theta) calculated from standard electrode potentials of oxidation and reduction half-cells?",
+"a": ["E_cell equals oxidation potential minus reduction potential", "E_cell equals reduction potential multiplied by oxidation potential", "E_cell equals reduction potential divided by two", "E_cell equals standard electrode potential of the reduction half-cell minus standard electrode potential of the oxidation half-cell (E_cathode minus E_anode)"],
+"correct": 3
+},
+{
+"q": "What does a large positive value of standard cell potential (E_cell theta) indicate about a redox reaction?",
+"a": ["The reaction is thermodynamically feasible and spontaneous under standard conditions", "The reaction is non-spontaneous and will not occur", "The reaction rate is extremely slow", "Equilibrium constant Kc is less than one"],
+"correct": 0
+},
+{
+"q": "In an electrochemical cell, what occurs at the anode?",
+"a": ["Reduction and gain of electrons", "Oxidation and loss of electrons", "Precipitation of metal crystals", "Neutralization of acid"],
+"correct": 1
+},
+{
+"q": "What is the purpose of the salt bridge in an electrochemical cell (galvanic/voltaic cell)?",
+"a": ["To supply electrons directly to the external circuit", "To heat the electrolyte solutions", "To maintain electrical neutrality in the half-cells by allowing free movement of spectator ions without mixing solutions", "To measure the exact pH of solutions"],
+"correct": 2
+},
+{
+"q": "What is the oxidation number of manganese in the permanganate ion (MnO<sub>4</sub><sup>-</sup>)?",
+"a": ["+4", "+2", "+6", "+7"],
+"correct": 3
+},
+{
+"q": "What is defined as an oxidizing agent?",
+"a": ["A species that oxidizes another substance and is itself reduced (gains electrons)", "A species that donates electrons", "A species that increases its own oxidation number", "A spectator ion in solution"],
+"correct": 0
+},
+{
+"q": "What reaction occurs during the electrolysis of concentrated aqueous sodium chloride using inert electrodes?",
+"a": ["Sodium metal plates out at the cathode", "Hydrogen gas is evolved at the cathode and chlorine gas is evolved at the anode", "Oxygen gas is evolved at the cathode", "Water is unaffected"],
+"correct": 1
+},
+{
+"q": "According to Faraday's laws of electrolysis, what quantity of electricity (charge in Coulombs) is carried by one mole of electrons?",
+"a": ["96485 Coulombs (one Faraday, F)", "6.02 x 10<sup>23</sup> Coulombs", "1000 Coulombs", "22400 Coulombs"],
+"correct": 2
+},
+{
+"q": "What is the relationship between standard cell potential (E_cell theta), standard Gibbs free energy change (Delta G theta), and the Faraday constant?",
+"a": ["Delta G theta equals n multiplied by F multiplied by E_cell", "Delta G theta equals E_cell divided by n F", "Delta G theta equals F multiplied by E_cell", "Delta G theta equals -n F E_cell"],
+"correct": 3
+},
+{
+"q": "Why is platinum used as an electrode in standard electrode half-cells involving gases or aqueous ions (e.g., Fe<sup>2+</sup> / Fe<sup>3+</sup>)?",
+"a": ["It is an inert, highly conductive metal that provides a surface for electron transfer without reacting chemically", "It acts as a strong reducing agent", "It catalyzes the formation of hydrogen gas", "It dissolves in acid to form ions"],
+"correct": 0
+},
+{
+"q": "What is the oxidation number of sulfur in sodium thiosulfate (Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>)?",
+"a": ["0", "+2 (average, with central +6 and terminal -2)", "+4", "+6"],
+"correct": 1
+},
+{
+"q": "Which of the following metals is strong enough to displace copper from an aqueous copper(II) sulfate solution?",
+"a": ["Silver", "Gold", "Zinc", "Platinum"],
+"correct": 2
+},
+{
+"q": "What type of cell converts chemical energy from a continuous supply of fuel (such as hydrogen) and oxygen into electrical energy efficiently?",
+"a": ["Lead-acid storage battery", "Lithium-ion rechargeable cell", "Primary Leclanche dry cell", "Hydrogen-oxygen fuel cell"],
+"correct": 3
+},
+{
+"q": "What happens to the potential of a standard hydrogen electrode if the hydrogen gas pressure is increased above 100 kPa?",
+"a": ["Electrode potential becomes negative (decreases)", "Electrode potential increases", "Electrode potential remains exactly zero", "Electrode potential becomes undefined"],
+"correct": 0
+},
+{
+"q": "What is the role of cryolite (Na<sub>3</sub>AlF<sub>6</sub>) in the industrial Hall-Héroult extraction process for aluminium?",
+"a": ["It acts as a chemical reducing agent for bauxite", "It acts as a solvent to dissolve aluminium oxide (Al<sub>2</sub>O<sub>3</sub>), significantly lowering its melting point and saving electrical energy", "It produces carbon dioxide gas at the cathode", "It prevents anode corrosion completely"],
+"correct": 1
+},
+{
+"q": "How many moles of electrons are required to liberate 1 mole of copper metal from aqueous copper(II) sulfate during electrolysis (Cu<sup>2+</sup> + 2e<sup>-</sup> -> Cu)?",
+"a": ["1 mole", "3 moles", "2 moles", "4 moles"],
+"correct": 2
+},
+{
+"q": "What is observed at the anode during the electrolysis of aqueous copper(II) sulfate using impure copper as the anode and pure copper as the cathode (electrorefinement of copper)?",
+"a": ["Oxygen gas is evolved", "Anode increases in mass", "Electrolyte turns colorless", "Anode dissolves into solution (Cu atoms lose electrons to form Cu<sup>2+</sup> ions)"],
+"correct": 3
+},
+{
+"q": "What is the correct balancing of the half-equation for the reduction of acidified manganate(VII) ions to manganese(II) ions?",
+"a": ["MnO<sub>4</sub><sup>-</sup> + 8H<sup>+</sup> + 5e<sup>-</sup> -> Mn<sup>2+</sup> + 4H<sub>2</sub>O", "MnO<sub>4</sub><sup>-</sup> + 4H<sup>+</sup> + 3e<sup>-</sup> -> MnO<sub>2</sub> + 2H<sub>2</sub>O", "MnO<sub>4</sub><sup>-</sup> + 2H<sup>+</sup> + 2e<sup>-</sup> -> Mn<sup>2+</sup> + H<sub>2</sub>O", "MnO<sub>4</sub><sup>-</sup> + 5e<sup>-</sup> -> Mn<sup>2+</sup>"],
+"correct": 0
+},
+{
+"q": "What does a more negative standard electrode potential value indicate about a chemical species?",
+"a": ["It is a stronger oxidizing agent", "It is a stronger reducing agent, meaning its reduced form readily loses electrons", "It is chemically inert", "It has zero electrical conductivity"],
+"correct": 1
+},
+{
+"q": "In a rechargeable lithium-ion battery during the discharge cycle, what process occurs at the lithium cobalt oxide positive electrode?",
+"a": ["Oxidation of lithium atoms", "Evolution of oxygen gas", "Reduction of cobalt ions as lithium ions intercalate into the lattice", "Dissolution of the battery casing"],
+"correct": 2
+},
+{
+"q": "What is the overall cell reaction for a standard hydrogen-oxygen fuel cell operating under acidic electrolyte conditions?",
+"a": ["2H<sub>2</sub>O -> 2H<sub>2</sub> + O<sub>2</sub>", "CH<sub>4</sub> + 2O<sub>2</sub> -> CO<sub>2</sub> + 2H<sub>2</sub>O", "2H<sub>2</sub> + O<sub>2</sub> -> 2H<sub>2</sub>O", "4Na + O<sub>2</sub> -> 2Na<sub>2</sub>O"],
+"correct": 3
+}
+]
+}

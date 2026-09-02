@@ -1,0 +1,206 @@
+{
+  "id": "math-igcse-quizzes-number-theory",
+  "name": "Number theory and significant figures",
+  "questions": [
+    {
+      "q": "What is 47,832 rounded to 3 significant figures?",
+      "a": ["47,800", "47,900", "48,000", "47,830"],
+      "correct": 0
+    },
+    {
+      "q": "Round 0.005467 to 2 significant figures.",
+      "a": ["0.005", "0.0055", "0.0054", "0.006"],
+      "correct": 1
+    },
+    {
+      "q": "Find the highest common factor (HCF) of 72 and 108.",
+      "a": ["18", "24", "36", "12"],
+      "correct": 2
+    },
+    {
+      "q": "Find the lowest common multiple (LCM) of 24 and 36.",
+      "a": ["36", "48", "108", "72"],
+      "correct": 3
+    },
+    {
+      "q": "Express 540 as a product of its prime factors in index notation.",
+      "a": ["2² × 3³ × 5", "2³ × 3² × 5", "2 × 3³ × 5²", "2² × 3 × 5³"],
+      "correct": 0
+    },
+    {
+      "q": "What is the lower bound of a number x if x = 14.2 rounded to 1 decimal place?",
+      "a": ["14.15", "14.15", "14.25", "14.10"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate 4.2 × 3.55, giving your answer to 3 significant figures.",
+      "a": ["14.9", "14.80", "14.91", "15.0"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following numbers is prime?",
+      "a": ["91", "51", "87", "97"],
+      "correct": 3
+    },
+    {
+      "q": "Round 3.0456 to 3 significant figures.",
+      "a": ["3.05", "3.04", "3.046", "3.10"],
+      "correct": 0
+    },
+    {
+      "q": "Write 0.0004085 to 2 significant figures.",
+      "a": ["0.0004", "0.00041", "0.00040", "0.0041"],
+      "correct": 1
+    },
+    {
+      "q": "What is the HCF of 3² × 5³ and 2³ × 3⁴ × 5?",
+      "a": ["3² × 5", "3⁴ × 5³", "3² × 5", "2³ × 3⁴ × 5³"],
+      "correct": 2
+    },
+    {
+      "q": "What is the LCM of 12, 15, and 20?",
+      "a": ["30", "45", "120", "60"],
+      "correct": 3
+    },
+    {
+      "q": "Estimate the value of (41.2 + 8.9) / (3.1 × 1.9) by rounding each number to 1 significant figure.",
+      "a": ["10", "8", "12", "15"],
+      "correct": 0
+    },
+    {
+      "q": "A rectangle has length 8.4 cm and width 5.2 cm, both measured to the nearest tenth of a cm. What is the upper bound for the perimeter?",
+      "a": ["27.1 cm", "27.3 cm", "27.2 cm", "27.4 cm"],
+      "correct": 1
+    },
+    {
+      "q": "Express 1260 as a product of prime factors.",
+      "a": ["2² × 3² × 5 × 7", "2 × 3³ × 5 × 7", "2² × 3² × 5 × 7", "2³ × 3 × 5² × 7"],
+      "correct": 2
+    },
+    {
+      "q": "How many significant figures are in the number 0.005020?",
+      "a": ["6", "5", "3", "4"],
+      "correct": 3
+    },
+    {
+      "q": "Round 99.96 to 3 significant figures.",
+      "a": ["100", "99.9", "100.0", "99.0"],
+      "correct": 0
+    },
+    {
+      "q": "Find the upper bound of x if x = 8.5 correct to 1 decimal place.",
+      "a": ["8.54", "8.55", "8.50", "8.60"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate √64.5 correct to 3 significant figures.",
+      "a": ["8.0", "8.02", "8.03", "8.1"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these numbers is irrational?",
+      "a": ["√144", "3.14159", "22/7", "√13"],
+      "correct": 3
+    },
+    {
+      "q": "Find the greatest integer that divides both 84 and 126 without a remainder.",
+      "a": ["42", "21", "14", "6"],
+      "correct": 0
+    },
+    {
+      "q": "What is the smallest positive integer k such that 120 × k is a square number?",
+      "a": ["2", "30", "15", "5"],
+      "correct": 1
+    },
+    {
+      "q": "Round 0.0003052 to 2 significant figures.",
+      "a": ["0.0003", "0.00031", "0.00031", "0.00030"],
+      "correct": 2
+    },
+    {
+      "q": "If x = 5.0 and y = 2.0, both correct to 1 decimal place, what is the lower bound of x / y?",
+      "a": ["2.375", "2.45", "2.5", "2.38"],
+      "correct": 3
+    },
+    {
+      "q": "Write 5,092,000 to 3 significant figures.",
+      "a": ["5.09 × 10⁶", "5.10 × 10⁶", "5.092 × 10⁶", "5.1 × 10⁶"],
+      "correct": 0
+    },
+    {
+      "q": "Find the prime factor 5 multiplicity in 50!.",
+      "a": ["10", "12", "15", "8"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the upper bound for the area of a square with side length 6.4 cm, measured to 1 decimal place.",
+      "a": ["40.96 cm²", "41.60 cm²", "41.6025 cm²", "42.25 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "Which number has exactly four factors?",
+      "a": ["15", "9", "25", "6"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate (3.4 × 10⁴) + (2.5 × 10³) giving the result to 3 significant figures in standard form.",
+      "a": ["3.65 × 10⁴", "3.65 × 10³", "3.43 × 10⁴", "3.65 × 10⁵"],
+      "correct": 0
+    },
+    {
+      "q": "Find the product of the HCF and LCM of 18 and 24.",
+      "a": ["36", "432", "216", "144"],
+      "correct": 1
+    },
+    {
+      "q": "Round 54,950 to 2 significant figures.",
+      "a": ["54,000", "55,900", "55,000", "54,900"],
+      "correct": 2
+    },
+    {
+      "q": "What is the lower bound of length L if L = 70 cm correct to the nearest 10 cm?",
+      "a": ["69.5 cm", "65 cm", "60 cm", "65 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Simplify √(3⁴ × 5²) as an exact integer.",
+      "a": ["45", "75", "135", "225"],
+      "correct": 0
+    },
+    {
+      "q": "What is the sum of the prime factors of 210?",
+      "a": ["15", "17", "19", "21"],
+      "correct": 1
+    },
+    {
+      "q": "If a number rounded to 2 significant figures is 450, what is its lower bound?",
+      "a": ["445", "449", "445", "455"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following fractions terminates when written as a decimal?",
+      "a": ["3 / 7", "5 / 12", "7 / 9", "11 / 16"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the value of (12.4 - 3.2)² correct to 3 significant figures.",
+      "a": ["84.6", "85.0", "84.64", "84.7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the least common multiple of 2³ × 3² and 2² × 3³.",
+      "a": ["2² × 3²", "2³ × 3³", "2⁵ × 3⁵", "2 × 3"],
+      "correct": 1
+    },
+    {
+      "q": "Express 0.007098 to 3 significant figures.",
+      "a": ["0.00709", "0.0071", "0.00710", "0.007"],
+      "correct": 2
+    },
+    {
+      "q": "A car travels 240 km correct to the nearest 10 km in 3 hours correct to the nearest hour. What is the maximum possible average speed?",
+      "a": ["85 km/h", "96 km/h", "90 km/h", "100 km/h"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+"id": "math-igcse-quizzes-matrices",
+"name": "Matrices multiplication and inverse",
+"questions": [
+{
+"q": "When is it possible to multiply two matrices A and B (calculating AB)?",
+"a": ["When the number of columns in A equals the number of rows in B", "When both matrices have the exact same dimensions", "When matrix A is a square matrix", "When the number of rows in A equals the number of columns in B"],
+"correct": 0
+},
+{
+"q": "If matrix A is of order 2x3 and matrix B is of order 3x1, what is the order of the product matrix AB?",
+"a": ["3x3", "2x1", "3x2", "1x2"],
+"correct": 1
+},
+{
+"q": "In general matrix algebra, is matrix multiplication commutative (does AB equal BA)?",
+"a": ["Yes, always", "Only if both matrices are identity matrices", "No, matrix multiplication is generally not commutative", "Only if the matrices have negative numbers"],
+"correct": 2
+},
+{
+"q": "How do you calculate the determinant of a 2x2 matrix with elements [a, b; c, d]?",
+"a": ["ad plus bc", "ac minus bd", "ab minus cd", "ad minus bc"],
+"correct": 3
+},
+{
+"q": "What is the inverse formula for a 2x2 matrix A with elements [a, b; c, d]?",
+"a": ["One over the determinant multiplied by [d, -b; -c, a]", "One over the determinant multiplied by [a, b; c, d]", "One over the determinant multiplied by [-d, b; c, -a]", "One over the determinant multiplied by [d, b; c, a]"],
+"correct": 0
+},
+{
+"q": "What condition must be met for a 2x2 matrix to have a valid inverse?",
+"a": ["Its trace must equal zero", "Its determinant must not equal zero", "All its elements must be positive integers", "It must be an identity matrix"],
+"correct": 1
+},
+{
+"q": "What is the term for a square matrix that does not have an inverse because its determinant is zero?",
+"a": ["An identity matrix", "A symmetric matrix", "A singular matrix", "An orthogonal matrix"],
+"correct": 2
+},
+{
+"q": "What is the result of multiplying any square matrix A by its inverse A-inverse?",
+"a": ["A zero matrix", "Matrix A itself", "A scalar value of 1", "The identity matrix I"],
+"correct": 3
+},
+{
+"q": "How is matrix multiplication performed for two 2x2 matrices?",
+"a": ["By taking the dot product of rows of the first matrix with columns of the second matrix", "By multiplying each corresponding element directly (multiplying top-left by top-left)", "By adding the rows and subtracting the columns", "By finding the inverse of both and adding them"],
+"correct": 0
+},
+{
+"q": "If matrix P is [1, 2; 3, 4] and matrix Q is [2, 0; 1, 2], what is the element in the top-left position of the product PQ?",
+"a": ["2", "4", "6", "8"],
+"correct": 1
+},
+{
+"q": "What is the determinant of the matrix [3, 2; 1, 4]?",
+"a": ["5", "8", "10", "12"],
+"correct": 2
+},
+{
+"q": "If the determinant of the matrix [x, 2; 3, 5] is equal to 4, what is the value of x?",
+"a": ["1", "2", "3", "2"],
+"correct": 3
+},
+{
+"q": "What is the inverse of the 2x2 identity matrix [1, 0; 0, 1]?",
+"a": ["The identity matrix itself", "A zero matrix", "Matrix [0, 1; 1, 0]", "Matrix [-1, 0; 0, -1]"],
+"correct": 0
+},
+{
+"q": "If matrix A has order 4x2 and matrix B has order 2x5, what is the order of the product matrix AB?",
+"a": ["2x2", "4x5", "5x4", "Multiplication is not possible"],
+"correct": 1
+},
+{
+"q": "Why is matrix multiplication described as associative, meaning (AB)C equals A(BC)?",
+"a": ["Because the order of matrices can be reversed freely", "Because grouping matrices in different associative pairs does not change the final product result", "Because all matrices can be added together first", "Because determinants always equal one"],
+"correct": 2
+},
+{
+"q": "What is the value of the determinant for the singular matrix [2, 4; 1, 2]?",
+"a": ["4", "8", "-2", "0"],
+"correct": 3
+},
+{
+"q": "When finding the inverse of a 2x2 matrix, what happens to the main diagonal elements (top-left and bottom-right)?",
+"a": ["Their positions are swapped", "Their signs are reversed", "They are divided by two", "They remain completely unchanged"],
+"correct": 0
+},
+{
+"q": "When finding the inverse of a 2x2 matrix, what happens to the off-diagonal elements (top-right and bottom-left)?",
+"a": ["Their positions are swapped", "Their signs are multiplied by negative one (signs are reversed)", "They are set to zero", "They are squared"],
+"correct": 1
+},
+{
+"q": "If matrix M has a determinant of 5, what is the determinant of its inverse matrix M-inverse?",
+"a": ["5", "25", "0.2", "-5"],
+"correct": 2
+},
+{
+"q": "If matrix A is [2, 1; 3, 2], what is its determinant used for finding its inverse?",
+"a": ["0", "1", "4", "1"],
+"correct": 3
+},
+{
+"q": "What is the product of matrix [2, 3; 1, 4] and the identity matrix [1, 0; 0, 1]?",
+"a": ["Matrix [2, 3; 1, 4] unchanged", "A zero matrix", "Matrix [1, 0; 0, 1]", "Matrix [4, 3; 1, 2]"],
+"correct": 0
+},
+{
+"q": "If you multiply a 2x2 matrix by a 2x1 column vector, what is the shape of the resulting output?",
+"a": ["A 2x2 matrix", "A 2x1 column vector", "A single scalar number", "A 1x2 row vector"],
+"correct": 1
+},
+{
+"q": "If matrix X multiplied by matrix Y gives the identity matrix I (XY = I), what is matrix Y relative to X?",
+"a": ["The transpose of X", "The negative of X", "The inverse of X", "The determinant of X"],
+"correct": 2
+},
+{
+"q": "What is the result of multiplying a matrix by a zero matrix of compatible dimensions?",
+"a": ["The original matrix", "The identity matrix", "An error", "A zero matrix"],
+"correct": 3
+},
+{
+"q": "If matrix A is [1, 3; 2, 4] and matrix B is [0, 5; 1, 2], what is the bottom-right element of product AB?",
+"a": ["18", "10", "15", "8"],
+"correct": 0
+},
+{
+"q": "Can a non-square matrix (for example, a 2x3 matrix) have an inverse?",
+"a": ["Yes, if its elements are all positive", "No, only square matrices can have inverses and determinants", "Yes, by transposing it first", "No, unless multiplied by a scalar"],
+"correct": 1
+},
+{
+"q": "If the determinant of a 2x2 matrix is -4, can the matrix be inverted?",
+"a": ["No, because negative determinants cannot be inverted", "Only if the matrix is symmetric", "Yes, because the determinant is non-zero (-4 is not equal to 0)", "No, because the determinant must be positive"],
+"correct": 2
+},
+{
+"q": "If matrix A equals [3, 1; 5, 2], what is the element in row 1, column 2 of matrix A?",
+"a": ["5", "3", "2", "1"],
+"correct": 3
+},
+{
+"q": "If matrix A is [4, 2; 1, 3], what is its determinant?",
+"a": ["10", "14", "12", "6"],
+"correct": 0
+},
+{
+"q": "What is the inverse of the matrix [2, 0; 0, 3]?",
+"a": ["Matrix [3, 0; 0, 2]", "Matrix [0.5, 0; 0, 0.333]", "Matrix [-2, 0; 0, -3]", "Matrix [1, 0; 0, 1]"],
+"correct": 1
+},
+{
+"q": "If matrix M has an inverse M-inverse, what is the inverse of M-inverse?",
+"a": ["A zero matrix", "An identity matrix", "The original matrix M", "Negative M"],
+"correct": 2
+},
+{
+"q": "What is the sum of the elements on the main diagonal of a 2x2 matrix called in advanced linear algebra?",
+"a": ["The determinant", "The modulus", "The cofactor", "The trace"],
+"correct": 3
+},
+{
+"q": "If you multiply matrix A by scalar k, what happens to its determinant if A is a 2x2 matrix?",
+"a": ["It is multiplied by k squared", "It remains unchanged", "It is multiplied by k", "It is divided by k"],
+"correct": 0
+},
+{
+"q": "If matrix A has order 2x3 and matrix B has order 3x4, is the product BA possible?",
+"a": ["Yes, the resulting order is 3x3", "No, because the number of columns in B (4) does not match the number of rows in A (2)", "Yes, the resulting order is 2x4", "Yes, because any two matrices can be multiplied"],
+"correct": 1
+},
+{
+"q": "Which of the following describes the distributive law for matrices over addition?",
+"a": ["A(B + C) = AB + AC", "A(B + C) = AB + BC", "A(B + C) = BA + CA", "A(B + C) = A plus B plus C"],
+"correct": 2
+},
+{
+"q": "If matrix A is [5, 2; 2, 1], what is its determinant?",
+"a": ["9", "4", "5", "1"],
+"correct": 3
+}
+]
+}

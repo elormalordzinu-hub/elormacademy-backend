@@ -1,0 +1,206 @@
+{
+"id": "phys-yr8-quizzes-pressure",
+"name": "Pressure in solids liquids and gases",
+"questions": [
+{
+"q": "What is the scientific definition of pressure?",
+"a": ["Force acting normally per unit area", "Total mass divided by total volume", "Speed multiplied by time", "Energy transferred per second"],
+"correct": 0
+},
+{
+"q": "What are the standard SI units for pressure?",
+"a": ["Newtons (N)", "Pascals (Pa) or N/m squared", "Joules per second (W)", "Kilograms per cubic metre"],
+"correct": 1
+},
+{
+"q": "Why do snowshoes prevent a person from sinking deeply into soft snow?",
+"a": ["They reduce the person's total weight", "They increase the surface area, decreasing the pressure exerted on the snow", "They increase the downward force on the ground", "They trap air beneath the feet to create heat"],
+"correct": 2
+},
+{
+"q": "Why is the cutting edge of a knife made very thin?",
+"a": ["To make the knife look nicer", "To increase the total mass of the blade", "To reduce the friction against food", "To provide a very small surface area, which concentrates the force and creates high pressure for cutting"],
+"correct": 3
+},
+{
+"q": "How does pressure change as you go deeper underwater?",
+"a": ["Pressure increases because of the weight of the water above", "Pressure decreases because the temperature drops", "Pressure stays exactly the same", "Pressure drops to zero immediately"],
+"correct": 0
+},
+{
+"q": "What causes gas pressure inside a closed container?",
+"a": ["Chemical reactions between the container walls", "Collisions of fast-moving gas particles with the container walls", "Gravity pulling gas molecules downward", "Magnetic forces between air atoms"],
+"correct": 1
+},
+{
+"q": "Which of the following statements about liquid pressure is correct?",
+"a": ["Liquid pressure acts only in a downward direction", "Liquid pressure decreases with depth", "Liquid pressure acts equally in all directions at a given depth", "Liquid pressure depends on the color of the liquid"],
+"correct": 2
+},
+{
+"q": "What happens to atmospheric pressure as you climb higher up a mountain?",
+"a": ["Atmospheric pressure increases rapidly", "Atmospheric pressure fluctuates wildly", "Atmospheric pressure stays constant", "Atmospheric pressure decreases because there is less air above you"],
+"correct": 3
+},
+{
+"q": "If a box weighing 200 N rests on a surface with an area of 2 square metres, what pressure does it exert?",
+"a": ["100 Pascals", "400 Pascals", "0.01 Pascals", "198 Pascals"],
+"correct": 0
+},
+{
+"q": "Why do deep-sea divers need special reinforced diving suits or submersibles?",
+"a": ["To keep them warm in the dark", "To withstand the immense water pressure at great depths", "To help them swim much faster", "To increase their overall body weight"],
+"correct": 1
+},
+{
+"q": "What happens to the pressure of a fixed mass of gas inside a syringe if its volume is compressed (decreased) at a constant temperature?",
+"a": ["The pressure decreases to zero", "The pressure remains unchanged", "The pressure increases because particles collide more frequently with the walls", "The pressure drops by half"],
+"correct": 2
+},
+{
+"q": "Why do sharp drawing pins have a large flat head on one end and a sharp point on the other?",
+"a": ["To make them easier to paint", "To ensure they roll away easily", "To prevent them from bending in half", "To allow a large thumb area to experience low pressure while the sharp point exerts high pressure to pierce wood"],
+"correct": 3
+},
+{
+"q": "Which scientific instrument is commonly used to measure atmospheric pressure?",
+"a": ["A barometer", "An ammeter", "A thermometer", "A newton meter"],
+"correct": 0
+},
+{
+"q": "What happens when you suck through a drinking straw to drink juice?",
+"a": ["You pump juice upward using muscle power", "You reduce the air pressure inside the straw, allowing higher atmospheric pressure on the liquid surface to push juice up", "You create a magnetic field that attracts the liquid", "You heat the liquid until it expands upward"],
+"correct": 1
+},
+{
+"q": "Why are dams built with much thicker walls at the bottom than at the top?",
+"a": ["To save building materials near the surface", "To look more symmetrical", "To withstand the much greater water pressure found at greater depths", "To prevent fish from swimming too low"],
+"correct": 2
+},
+{
+"q": "What is atmospheric pressure at sea level approximately equal to?",
+"a": ["1 Pascal", "10 Pascals", "1,000 Pascals", "100,000 Pascals (or 100 kPa)"],
+"correct": 3
+},
+{
+"q": "How does increasing the temperature of a sealed container of gas affect its pressure?",
+"a": ["Pressure increases because particles gain kinetic energy and collide harder and faster with the walls", "Pressure decreases because particles slow down", "Pressure stays the same because mass does not change", "Pressure drops to zero immediately"],
+"correct": 0
+},
+{
+"q": "Why do heavy trucks have many more wheels than standard cars?",
+"a": ["To use up more fuel", "To distribute the heavy load over a larger surface area, reducing the pressure on the road surface", "To travel much faster on highways", "To make steering easier for the driver"],
+"correct": 1
+},
+{
+"q": "What term describes an upward force exerted by a fluid on an object placed in it?",
+"a": ["Gravitational pull", "Frictional drag", "Upthrust (buoyancy)", "Magnetic repulsion"],
+"correct": 2
+},
+{
+"q": "Why does a solid steel ball sink in water, whereas a massive steel ship floats?",
+"a": ["Steel is lighter than water", "The ship is made of hollow sections containing air, displacing a large volume of water and creating enough upthrust", "The ship has a motor pushing it up", "Water avoids solid balls"],
+"correct": 3
+},
+{
+"q": "If you double the force acting on a surface while keeping the contact area constant, what happens to the pressure?",
+"a": ["The pressure is doubled", "The pressure is halved", "The pressure remains unchanged", "The pressure drops to zero"],
+"correct": 0
+},
+{
+"q": "What causes a suction cup to stick firmly to a smooth wall?",
+"a": ["Glue inside the rubber cup", "Air is pressed out from underneath, creating a low-pressure zone so higher outside atmospheric pressure pushes it against the wall", "Magnetic attraction between rubber and wall", "Electrostatic charge generated by rubbing"],
+"correct": 1
+},
+{
+"q": "Which of the following factors does NOT affect the pressure at a certain depth in a liquid?",
+"a": ["The depth below the liquid surface", "The density of the liquid", "The shape of the container holding the liquid", "The acceleration due to gravity"],
+"correct": 2
+},
+{
+"q": "What happens to a sealed bag of crisps (chips) if you take it from sea level up to the top of a high mountain?",
+"a": ["It shrinks into a flat wrapper", "It dissolves into air", "It remains completely unchanged", "It swells up and expands because outside atmospheric pressure is lower than the pressure inside the bag"],
+"correct": 3
+},
+{
+"q": "Why are high-altitude aircraft cabins pressurized?",
+"a": ["To ensure passengers and crew have enough air pressure to breathe comfortably", "To make the airplane fly faster", "To prevent the wings from melting", "To save electrical power"],
+"correct": 0
+},
+{
+"q": "What happens to the volume of a gas bubble as it rises from the deep bottom of a lake to the surface?",
+"a": ["The bubble shrinks to a tiny speck", "The bubble expands in size because the surrounding water pressure decreases", "The bubble turns into a solid crystal", "The bubble disappears instantly"],
+"correct": 1
+},
+{
+"q": "Why do camels have broad, wide feet instead of narrow hooves?",
+"a": ["To help them run faster on rocks", "To dig deeper wells in sand", "To distribute their body weight over a large area, preventing them from sinking into soft sand", "To keep their legs cool in the sun"],
+"correct": 2
+},
+{
+"q": "What happens when a balloon is filled with a gas and heated with a hair dryer?",
+"a": ["The gas particles slow down", "The balloon shrinks in size", "The gas pressure drops to zero", "The gas expands, increasing pressure or volume, making the balloon rise if it is lighter than air"],
+"correct": 3
+},
+{
+"q": "If a force of 500 N is applied over a surface area of 10 square metres, what is the pressure?",
+"a": ["50 Pascals", "5,000 Pascals", "0.02 Pascals", "490 Pascals"],
+"correct": 0
+},
+{
+"q": "Why does a helium-filled weather balloon expand as it ascends higher into the atmosphere?",
+"a": ["The temperature inside increases rapidly", "External atmospheric pressure decreases with altitude, allowing the internal gas pressure to expand the balloon", "Helium turns into a solid", "Gravity pulls the balloon outward"],
+"correct": 1
+},
+{
+"q": "Which state of matter transmits pressure equally in all directions within a closed system, as described by Pascal's principle?",
+"a": ["Solid blocks", "Rigid metals", "Enclosed fluids (liquids and gases)", "Gaseous plasmas only"],
+"correct": 2
+},
+{
+"q": "Why are stiletto heels more likely to damage wooden floors than flat shoes worn by a person of the same weight?",
+"a": ["Stiletto heels are made of steel", "The person walks faster in heels", "Heels absorb moisture from the floor", "The very small contact area of the heel concentrates the force, creating extremely high pressure"],
+"correct": 3
+},
+{
+"q": "What causes an object to float in water according to Archimedes' principle?",
+"a": ["The upward upthrust force equals the downward weight of the object", "The object has zero mass", "Water pushes objects away magnetically", "Gravity stops working underwater"],
+"correct": 0
+},
+{
+"q": "How does hydraulic machinery (such as car brakes or garage lifts) use liquid pressure?",
+"a": ["To create infinite energy from nothing", "To transmit force equally through an enclosed liquid from a small piston to a larger piston", "To cool down engine parts", "To remove friction completely"],
+"correct": 1
+},
+{
+"q": "Why is it difficult to breathe easily when climbing extremely high mountains like Mount Everest?",
+"a": ["The air temperature is too warm", "There is no oxygen present on mountains", "Atmospheric pressure is lower, meaning fewer air molecules are packed into each breath", "Gravity pulls air upward away from lungs"],
+"correct": 2
+},
+{
+"q": "What happens when you press a plunger down on a sealed bicycle pump?",
+"a": ["The air inside vanishes", "The temperature inside drops to freezing", "The air molecules are destroyed", "The volume of air decreases and the pressure increases, forcing air through the valve"],
+"correct": 3
+},
+{
+"q": "Which of these everyday objects is designed to produce a very high pressure by having a tiny surface area at its tip?",
+"a": ["A sewing needle or drawing pin", "A wooden baseball bat", "A large foam mattress", "A wide snow shovel"],
+"correct": 0
+},
+{
+"q": "Why do submarines have strong, thick steel hulls?",
+"a": ["To make them invisible to radar", "To withstand the immense crushing water pressure when submerged at deep levels", "To make them float on the surface", "To generate electrical power"],
+"correct": 1
+},
+{
+"q": "What happens to the pressure at the bottom of a container if you pour twice as much water into it?",
+"a": ["The pressure drops by half", "The pressure remains completely unchanged", "The pressure doubles because the depth (and weight of water) doubles", "The pressure increases a thousand times"],
+"correct": 2
+},
+{
+"q": "Why do ears sometimes 'pop' when an airplane ascends or descends rapidly?",
+"a": ["Sound waves echo in the cabin", "The engines change frequency", "Headphones create static electricity", "Air pressure inside the middle ear adjusts to match the changing external atmospheric pressure"],
+"correct": 3
+}
+]
+}

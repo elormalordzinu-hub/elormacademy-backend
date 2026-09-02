@@ -1,0 +1,201 @@
+{
+"id": "math-igcse-quizzes-vectors",
+"name": "Vectors and column notation",
+"questions": [
+{
+"q": "What is the column vector representing a displacement of 3 units right and 4 units down?",
+"a": ["[3, -4]", "[3, 4]", "[-3, 4]", "[-3, -4]"],
+"correct": 0
+},
+{
+"q": "If vector a = [2, 5] and vector b = [3, -1], what is a + b?",
+"a": ["[5, 6]", "[5, 4]", "[1, -6]", "[-1, 6]"],
+"correct": 1
+},
+{
+"q": "Find 3p given that p = [-2, 4].",
+"a": ["[-6, 4]", "[-2, 12]", "[-6, 12]", "[6, -12]"],
+"correct": 2
+},
+{
+"q": "What is the magnitude of the column vector [6, 8]?",
+"a": ["14", "10", "100", "7"],
+"correct": 3
+},
+{
+"q": "Given points A(1, 2) and B(4, 6), find the column vector AB.",
+"a": ["[3, 4]", "[5, 8]", "[-3, -4]", "[3, 8]"],
+"correct": 0
+},
+{
+"q": "If vector x = [4, -3], what is the negative vector -x?",
+"a": ["[-4, -3]", "[-4, 3]", "[4, 3]", "[3, -4]"],
+"correct": 1
+},
+{
+"q": "Simplify 2[1, 3] + 3[2, -1].",
+"a": ["[8, 9]", "[8, 3]", "[8, 3]", "[4, 9]"],
+"correct": 2
+},
+{
+"q": "What is the magnitude of the vector [5, 12]?",
+"a": ["17", "7", "169", "13"],
+"correct": 3
+},
+{
+"q": "If vector m = [-5, 2] and vector n = [1, -4], find m - n.",
+"a": ["['-6', '6']", "[-4, 6]", "[-6, -2]", "[-4, -2]"],
+"correct": 0
+},
+{
+"q": "Find the vector that represents translation by 0 units horizontally and -7 units vertically.",
+"a": ["[-7, 0]", "[0, -7]", "[0, 7]", "[7, 0]"],
+"correct": 1
+},
+{
+"q": "If vector u = [3, -4], what is the scalar multiple -2u?",
+"a": ["[-6, -8]", "[6, -8]", "[-6, 8]", "[6, 8]"],
+"correct": 2
+},
+{
+"q": "Point P has coordinates (-2, 5) and vector PQ is [4, -3]. What are the coordinates of point Q?",
+"a": ["[2, 2]", "[6, -8]", "[-6, 8]", "[2, 2]"],
+"correct": 3
+},
+{
+"q": "What does a column vector describe in a 2D Cartesian plane?",
+"a": ["Magnitude and direction", "Only area", "Only slope", "Only scalar length"],
+"correct": 0
+},
+{
+"q": "Given vector v = [-8, 6], what is its magnitude?",
+"a": ["2", "10", "14", "100"],
+"correct": 1
+},
+{
+"q": "If a = [1, 2], b = [3, 4], and c = [5, 6], find a + b + c.",
+"a": ["'['9', '10']'", "[8, 11]", "[9, 12]", "[8, 12]"],
+"correct": 2
+},
+{
+"q": "Find the column vector BA if position vector A = [2, 3] and position vector B = [5, 7].",
+"a": ["[3, 4]", "[-3, -4]", "[7, 10]", "[-3, 4]"],
+"correct": 3
+},
+{
+"q": "If 0.5 vector x = [3, -5], what is vector x?",
+"a": ["[6, -10]", "[1.5, -2.5]", "[6, 5]", "[-6, 10]"],
+"correct": 0
+},
+{
+"q": "Which of the following vectors is parallel to [2, 4]?",
+"a": [[-1, -2], [4, 8], [2, -4], [1, 3]],
+"correct": 1
+},
+{
+"q": "If vector r = [a, b] has magnitude 5 and a = 3, what is a possible value for b?",
+"a": ["3", "-3", "4", "5"],
+"correct": 2
+},
+{
+"q": "What is the sum of any vector and its negative vector?",
+"a": ["The original vector", "Double the vector", "Undefined", "The zero vector [0, 0]"],
+"correct": 3
+},
+{
+"q": "If vector c = [-3, -4] and vector d = [3, 4], what is c + d?",
+"a": ["[0, 0]", "[6, 8]", "[-6, -8]", "[0, 8]"],
+"correct": 0
+},
+{
+"q": "Find the missing component x if the vector [x, 6] has a magnitude of 10.",
+"a": ["6", "8", "4", "2"],
+"correct": 1
+},
+{
+"q": "If vector AB = [4, -2] and vector BC = [1, 5], what is vector AC?",
+"a": ["[-3, -7]", "[5, -3]", "[5, 3]", "[3, 7]"],
+"correct": 2
+},
+{
+"q": "Which property holds true for vector addition?",
+"a": ["It is non-associative", "It cannot be scaled", "It depends on the coordinate origin", "It is commutative"],
+"correct": 3
+},
+{
+"q": "If p = [7, -2], what is -3p?",
+"a": [ "[-21, 6]", "[21, -6]", "[-21, -6]", "[21, 6]"],
+"correct": 0
+},
+{
+"q": "Find the vector representing a displacement 5 units left and 12 units up.",
+"a": ["[5, 12]", "[-5, 12]", "[12, -5]", "[-12, 5]"],
+"correct": 1
+},
+{
+"q": "If vector w = [2, k] is parallel to vector [4, 10], what is the value of k?",
+"a": ["2.5", "8", "5", "20"],
+"correct": 2
+},
+{
+"q": "What is the resultant of adding vector [x, y] to the zero vector [0, 0]?",
+"a": ["[0, 0]", "[2x, 2y]", "[-x, -y]", "[x, y]"],
+"correct": 3
+},
+{
+"q": "If vector AB = [-3, 4], what is vector BA?",
+"a": ["[3, -4]", "[-3, 4]", "[3, 4]", "[-3, -4]"],
+"correct": 0
+},
+{
+"q": "Calculate the magnitude of vector [-1, 0].",
+"a": ["0", "1", "-1", "2"],
+"correct": 1
+},
+{
+"q": "If 4v = [12, -16], find vector v.",
+"a": [[3, -3], [4, -4], [3, -4], [-3, 4]],
+"correct": 2
+},
+{
+"q": "Given vector a = [2, 3] and vector b = [4, 6], which statement is correct?",
+"a": ["a and b are perpendicular", "a and b have equal magnitudes", "a is longer than b", "b is a scalar multiple of a"],
+"correct": 3
+},
+{
+"q": "What is the horizontal component of the vector [15, -8]?",
+"a": ["15", "-8", "17", "-15"],
+"correct": 0
+},
+{
+"q": "If vector s = [-4, 7] is multiplied by scalar -1, the result is:",
+"a": ["[-4, 7]", "[4, -7]", "[4, 7]", "[-4, -7]"],
+"correct": 1
+},
+{
+"q": "Find the column vector for a translation from (3, -2) to (-1, 4).",
+"a": ["[-4, -6]", "[4, 6]", "[-4, 6]", "[4, -6]"],
+"correct": 2
+},
+{
+"q": "If vector m has a magnitude of 1, it is called a:",
+"a": ["Zero vector", "Position vector", "Column vector", "Unit vector"],
+"correct": 3
+},
+{
+"q": "If vector v = [p, q], what is the expression for its magnitude?",
+"a": ["sqrt(p^2 + q^2)", "p + q", "sqrt(p + q)", "p^2 + q^2"],
+"correct": 0
+},
+{
+"q": "If vector x = [2, 3] and y = [1, -1], evaluate 3x - 2y.",
+"a": ["[8, 7]", "[4, 11]", "[5, 8]", "[6, -2]"],
+"correct": 1
+},
+{
+"q": "Which notation correctly represents a two-dimensional column vector?",
+"a": ["(x, y)", "{x, y}", "[x, y]", "<x, y>"],
+"correct": 2
+}
+]
+}

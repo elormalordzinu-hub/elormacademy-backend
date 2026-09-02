@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-fetus",
+"name": "Development of the fetus",
+"questions": [
+{
+"q": "What is the developmental stage of a human offspring called from the ninth week of pregnancy until birth?",
+"a": ["A zygote", "An embryo", "A fetus", "A gamete"],
+"correct": 2
+},
+{
+"q": "Through which structure does the fetus receive oxygen and nutrients from the mother's blood?",
+"a": ["The amniotic sac", "The sperm duct", "The placenta", "The cervix"],
+"correct": 2
+},
+{
+"q": "What is the function of the umbilical cord?",
+"a": ["To produce amniotic fluid for cushion", "To connect the fetus to the placenta, transporting blood containing nutrients and waste", "To act as a hard shell protecting against impact", "To pump blood independently using its own small heart"],
+"correct": 1
+},
+{
+"q": "How does oxygen pass from the mother's blood into the fetal blood within the placenta?",
+"a": ["By active pumping of white blood cells", "By direct mixing of maternal and fetal blood streams", "By diffusion across the very thin walls separating their blood supplies", "By electrical attraction of red blood cells"],
+"correct": 2
+},
+{
+"q": "What is the protective fluid-filled sac that surrounds and cushions the developing fetus called?",
+"a": ["The uterus", "The oviduct", "The amniotic sac", "The ovary"],
+"correct": 2
+},
+{
+"q": "What is the primary role of the amniotic fluid surrounding the fetus?",
+"a": ["To provide high amounts of starch and protein food directly", "To digest waste products produced by the baby", "To protect the fetus from physical shocks and bumps while allowing movement", "To act as the primary site for gas exchange"],
+"correct": 2
+},
+{
+"q": "Which waste substance produced by fetal cellular respiration diffuses across the placenta into the mother's blood to be excreted?",
+"a": ["Oxygen", "Glucose", "Carbon dioxide", "Amino acids"],
+"correct": 2
+},
+{
+"q": "Approximately how long does normal human gestation (fetal development inside the womb) last?",
+"a": ["About 3 weeks", "About 6 months", "About 2 years", "About 9 months (40 weeks)"],
+"correct": 3
+},
+{
+"q": "Which harmful substance, if consumed by a pregnant woman, can cross the placenta and restrict oxygen delivery to the fetus, leading to low birth weight?",
+"a": ["Pure mineral water", "Dietary calcium", "Nicotine from tobacco smoke", "Plant cellulose fiber"],
+"correct": 2
+},
+{
+"q": "What happens to the waste urea produced by the fetus?",
+"a": ["It builds up inside the baby permanently", "It turns into solid bone tissue", "It diffuses across the placenta into the mother's blood so her kidneys can remove it", "It is exhaled directly through the baby's lungs"],
+"correct": 2
+},
+{
+"q": "Which major organs begin to form and become functional during the first trimester before the fetal stage begins?",
+"a": ["Permanent adult teeth", "The heart, brain, and main spinal cord", "Hair follicles and facial beard", "Knee and elbow cartilage"],
+"correct": 1
+},
+{
+"q": "Why is it important that maternal and fetal blood do not physically mix together in the placenta?",
+"a": ["Because fetal blood is solid and cannot flow", "To prevent the baby from breathing air too early", "To protect the fetus from different blood group reactions and high maternal blood pressure", "So the mother can store extra blood"],
+"correct": 2
+},
+{
+"q": "What term describes the period of time when a baby develops inside the mother's uterus prior to birth?",
+"a": ["Menstruation", "Ovulation", "Pollination", "Gestation"],
+"correct": 3
+},
+{
+"q": "During which part of pregnancy is the developing organism most vulnerable to damage from harmful chemicals, alcohol, and infections?",
+"a": ["The final week before birth", "During childhood growth", "After the umbilical cord is cut", "The early embryonic and first trimester stages when major organs are forming"],
+"correct": 3
+},
+{
+"q": "What is the main source of glucose and amino acids for a growing fetus?",
+"a": ["Swallowing amniotic fluid directly as solid meals", "Transfer from the mother's blood through the placenta", "Direct sunlight shining through the womb", "Ingesting food from the amniotic sac"],
+"correct": 1
+},
+{
+"q": "What happens to the amniotic sac and fluid just before a baby is born?",
+"a": ["It seals permanently to store more fluid", "It turns into solid bone", "It is absorbed completely into the mother's stomach", "It ruptures, releasing the fluid through the vagina (commonly known as 'water breaking')"],
+"correct": 3
+},
+{
+"q": "Which of the following describes the fetus near the end of the third trimester?",
+"a": ["A single unfertilized egg cell", "A hollow ball of identical stem cells", "A microscopic zygote dividing for the first time", "Fully formed with developed organs, putting on weight, and ready for birth"],
+"correct": 3
+},
+{
+"q": "How does alcohol consumed by a pregnant mother affect the developing fetus?",
+"a": ["It helps the fetus grow stronger bones", "It provides extra vitamins for brain growth", "It has no effect on the fetus whatsoever", "It can cross the placenta, causing developmental delays and fetal alcohol syndrome"],
+"correct": 3
+},
+{
+"q": "What is the role of the muscular walls of the uterus during the final stage of pregnancy (labor)?",
+"a": ["To relax completely and stop all blood flow", "To digest the placenta internally", "To produce milk before birth", "To contract rhythmically with strong force to push the baby out through the cervix and vagina"],
+"correct": 3
+},
+{
+"q": "What happens immediately after the baby is born and the umbilical cord is clamped and cut?",
+"a": ["The baby stops all metabolic activity", "The mother's body shuts down completely", "The fetus turns back into an embryo", "The baby's lungs take in air for the first time, and independent breathing and circulation begin"],
+"correct": 3
+},
+{
+"q": "Which nutrients are stored in the fetus's body during the final weeks of gestation to provide energy after birth before feeding starts?",
+"a": ["Pure iron metal chunks", "Fats (adipose tissue) and glycogen", "Calcium carbonate rocks", "Cellulose fiber layers"],
+"correct": 1
+},
+{
+"q": "What structural feature of the placenta maximizes the rate of diffusion between mother and baby?",
+"a": ["A thick layer of muscle and bone", "Rigid cartilage rings preventing expansion", "A massive surface area with extremely thin barrier walls", "Active hydraulic pumps"],
+"correct": 2
+},
+{
+"q": "Why is the fetus unable to use its lungs to breathe air while inside the uterus?",
+"a": ["Because the baby holds its breath for 9 months", "Because the lungs are filled with amniotic fluid and gas exchange is handled entirely by the placenta", "Because the mother has no oxygen in her blood", "Because the trachea is tied in a knot"],
+"correct": 1
+},
+{
+"q": "What is the transition stage between a single-celled zygote and an established fetus called?",
+"a": ["The adult stage", "The menopausal stage", "The geriatric stage", "The embryonic stage"],
+"correct": 3
+},
+{
+"q": "How do infectious pathogens like certain viruses sometimes affect a fetus?",
+"a": ["They strengthen the baby's immune system permanently", "They turn into harmless protein food", "They can cross the placenta barrier and disrupt normal organ development", "They are blocked completely with 100 percent efficiency under all circumstances"],
+"correct": 2
+},
+{
+"q": "What role does the hormone progesterone play during gestation?",
+"a": ["It causes the uterine lining to break down immediately", "It induces rapid muscle fatigue", "It triggers the onset of puberty", "It maintains and thickens the lining of the uterus and prevents menstruation during pregnancy"],
+"correct": 3
+},
+{
+"q": "What is the medical term for giving birth to the baby?",
+"a": ["Ovulation", "Implantation", "Fertilization", "Parturition (labor and birth)"],
+"correct": 3
+},
+{
+"q": "Which of the following is true regarding the heart of a developing fetus?",
+"a": ["It only begins beating after the baby is born", "It is replaced by a mechanical pump inside the womb", "It starts beating weeks before birth during early development", "It pumps blood that mixes directly with the mother's heart"],
+"correct": 2
+},
+{
+"q": "What happens to the placenta after the baby is delivered?",
+"a": ["It remains inside the mother permanently as an organ", "It turns into milk-producing mammary glands", "It travels up into the baby's abdomen", "It is expelled from the uterus shortly after birth as the 'afterbirth'"],
+"correct": 3
+},
+{
+"q": "Why do pregnant women require extra dietary iron and folic acid?",
+"a": ["To prevent tooth decay in their own mouth", "To support increased blood volume, placenta growth, and neural tube development in the fetus", "To increase their physical height", "To digest fats without bile"],
+"correct": 1
+},
+{
+"q": "What protects the fetus from loud external sounds and bright lights?",
+"a": ["A thick layer of steel armor", "Special sunglasses and earplugs worn inside the womb", "Complete darkness and silence inside the mother's body at all times", "The mother's abdominal muscles, uterine wall, amniotic fluid, and membranes"],
+"correct": 3
+},
+{
+"q": "At roughly what point in pregnancy can the heartbeat of a fetus typically be detected using specialized equipment like an ultrasound?",
+"a": ["Only on the exact day of birth", "During the first trimester (around weeks 6 to 12)", "During the teenage years", "Never before birth"],
+"correct": 1
+},
+{
+"q": "What is the main function of the umbilical vein within the umbilical cord?",
+"a": ["To carry waste-laden blood away from the fetus", "To carry oxygen-rich and nutrient-rich blood from the placenta to the fetus", "To pump amniotic fluid into the stomach", "To connect the baby's lungs directly to the mother's lungs"],
+"correct": 1
+},
+{
+"q": "What is the main function of the two umbilical arteries within the umbilical cord?",
+"a": ["To supply fresh oxygen directly to the brain", "To feed the placenta with maternal food", "To circulate milk inside the fetus", "To carry deoxygenated blood and metabolic waste away from the fetus toward the placenta"],
+"correct": 3
+},
+{
+"q": "How does temperature regulation work for a fetus inside the womb?",
+"a": ["The fetus shivers to generate heat", "The fetus sweats to cool down", "The fetus relies entirely on the mother's internal body temperature via the placenta and amniotic fluid", "The baby wears tiny thermal clothes"],
+"correct": 2
+},
+{
+"q": "What characterizes the second trimester of pregnancy (weeks 13 to 26)?",
+"a": ["The initial fusion of sperm and egg", "The immediate process of labor and birth", "The cessation of all organ development", "Rapid growth in size, bone development, and the mother starting to feel fetal movements (quickening)"],
+"correct": 3
+},
+{
+"q": "Why is smoking during pregnancy linked to lower birth weights in babies?",
+"a": ["Smoking makes the mother eat less food", "Carbon monoxide binds to hemoglobin instead of oxygen, reducing oxygen delivery required for fetal growth", "Nicotine increases the baby's physical activity too much", "Tobacco fibers block the digestive tract"],
+"correct": 1
+},
+{
+"q": "What happens to the cervix during labor before the baby can pass through the vagina?",
+"a": ["It seals shut with solid bone", "It shrinks to microscopic size", "It dilates (widens) significantly to allow the baby's head and body to pass through", "It detaches completely from the body"],
+"correct": 2
+},
+{
+"q": "Which medical scan is commonly used during pregnancy to monitor fetal growth, check for abnormalities, and view position?",
+"a": ["X-ray fluoroscopy", "Magnetic resonance thermometer", "Ultrasound imaging (sonogram)", "Ultraviolet light scan"],
+"correct": 2
+},
+{
+"q": "What is the term for a baby born significantly before 37 weeks of full gestation?",
+"a": ["A post-term zygote", "An embryonic clone", "A fully mature adult", "A premature (pre-term) baby"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"id": "math-yr7-quizzes-linear-equations",
+"name": "Solving simple linear equations",
+"questions": [
+{
+"q": "Solve the equation: x + 7 = 15",
+"a": ["8", "22", "7", "2"],
+"correct": 0
+},
+{
+"q": "Solve the equation: 4x = 28",
+"a": ["6", "7", "112", "4"],
+"correct": 1
+},
+{
+"q": "Solve the equation: 3x - 5 = 16",
+"a": ["5", "8", "7", "3"],
+"correct": 2
+},
+{
+"q": "Solve the equation: x / 5 = 6",
+"a": ["30", "1.2", "11", "30"],
+"correct": 3
+},
+{
+"q": "Solve the equation: 2x + 9 = 17",
+"a": ["4", "13", "5", "8"],
+"correct": 0
+},
+{
+"q": "Solve the equation: 5x - 4 = 2x + 11",
+"a": ["3", "5", "7", "2"],
+"correct": 1
+},
+{
+"q": "Solve the equation: 3(x + 2) = 21",
+"a": ["7", "9", "5", "6"],
+"correct": 2
+},
+{
+"q": "Solve the equation: 12 - x = 5",
+"a": ["17", "8", "6", "7"],
+"correct": 3
+},
+{
+"q": "Solve the equation: 7x + 3 = 4x + 18",
+"a": ["5", "3", "7", "2"],
+"correct": 0
+},
+{
+"q": "Solve the equation: 4(2x - 1) = 28",
+"a": ["3", "4", "5", "6"],
+"correct": 1
+},
+{
+"q": "Solve the equation: (x / 3) + 4 = 9",
+"a": ["39", "27", "15", "13"],
+"correct": 2
+},
+{
+"q": "Solve the equation: 5(x + 3) = 2(x + 9)",
+"a": ["2", "0", "-1", "1"],
+"correct": 3
+},
+{
+"q": "Find the value of x if 6x - 7 = 2x + 9",
+"a": ["4", "2", "8", "3"],
+"correct": 0
+},
+{
+"q": "Solve for y: 3y / 4 = 9",
+"a": ["27", "12", "15", "36"],
+"correct": 1
+},
+{
+"q": "Solve the equation: 2(3x - 4) = 4(x + 1)",
+"a": ["4", "5", "6", "7"],
+"correct": 2
+},
+{
+"q": "If 5x + 12 = 32, what is the value of 2x?",
+"a": ["20", "8", "4", "16"],
+"correct": 3
+},
+{
+"q": "Solve: 9x - 8 = 4x + 17",
+"a": ["5", "7", "3", "4"],
+"correct": 0
+},
+{
+"q": "Solve: (2x + 5) / 3 = 7",
+"a": ["9", "8", "11", "13"],
+"correct": 1
+},
+{
+"q": "Solve: 10 - 3x = 1",
+"a": ["4", "2", "3", "5"],
+"correct": 2
+},
+{
+"q": "A number x is multiplied by 4 and then 7 is added. The result is 31. Form and solve the equation to find x.",
+"a": ["8", "5", "9", "6"],
+"correct": 3
+},
+{
+"q": "Solve: 7(x - 2) = 3(x + 6)",
+"a": ["8", "5", "7", "10"],
+"correct": 0
+},
+{
+"q": "Solve: 4x / 3 - 2 = 6",
+"a": ["9", "6", "12", "8"],
+"correct": 1
+},
+{
+"q": "Find x if 15 - 2x = 3x - 10",
+"a": ["3", "4", "5", "6"],
+"correct": 2
+},
+{
+"q": "Solve: 3(2x - 5) - 2(x - 1) = 11",
+"a": ["4", "5", "7", "6"],
+"correct": 3
+},
+{
+"q": "Solve: 8x + 5 = 6x + 25",
+"a": ["10", "15", "5", "8"],
+"correct": 0
+},
+{
+"q": "The sum of a number x and its double is 45. Form and solve the equation.",
+"a": ["22.5", "15", "30", "10"],
+"correct": 1
+},
+{
+"q": "Solve: 5(3x - 2) = 40",
+"a": ["3", "4", "2", "5"],
+"correct": 2
+},
+{
+"q": "Solve: (x + 3)/2 + (x - 1)/4 = 4",
+"a": ["7", "6", "5", "5"],
+"correct": 3
+},
+{
+"q": "Solve: 14 - 4x = 2",
+"a": ["3", "4", "2", "5"],
+"correct": 0
+},
+{
+"q": "Solve: 2(x + 4) + 3(x - 2) = 24",
+"a": ["3", "4", "5", "6"],
+"correct": 1
+},
+{
+"q": "Solve: 6x / 5 = 18",
+"a": ["22", "12", "15", "25"],
+"correct": 2
+},
+{
+"q": "If 3x - 4 = x + 12, what is the value of x + 5?",
+"a": ["11", "8", "16", "13"],
+"correct": 3
+},
+{
+"q": "Solve: 9x + 2 = 6x + 20",
+"a": ["6", "4", "5", "3"],
+"correct": 0
+},
+{
+"q": "Solve: 5(2x - 3) - 3(x + 1) = 22",
+"a": ["4", "5", "6", "3"],
+"correct": 1
+},
+{
+"q": "Solve: (5x - 4) / 3 = 7",
+"a": ["3", "4", "5", "6"],
+"correct": 2
+},
+{
+"q": "Find x if 20 - 3x = 8 + x",
+"a": ["2", "4", "5", "3"],
+"correct": 3
+},
+{
+"q": "Solve: 7(x + 1) = 4(x + 7)",
+"a": ["7", "5", "3", "6"],
+"correct": 0
+},
+{
+"q": "Solve: 3x / 4 + 5 = 11",
+"a": ["6", "8", "10", "12"],
+"correct": 1
+},
+{
+"q": "Solve: 12x - 5 = 8x + 15",
+"a": ["4", "6", "5", "3"],
+"correct": 2
+},
+{
+"q": "The perimeter of a rectangle is 40 cm. The length is 3 cm more than the width. Form and solve an equation to find the width x.",
+"a": ["7 cm", "8.5 cm", "10 cm", "7.25 cm"],
+"correct": 3
+}
+]
+}

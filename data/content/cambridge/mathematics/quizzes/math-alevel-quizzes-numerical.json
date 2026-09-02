@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-numerical",
+  "name": "Numerical methods for solving equations",
+  "questions": [
+    {
+      "q": "According to the change of sign method, if f(x) is continuous on [a, b] and f(a) × f(b) < 0, what can be deduced?",
+      "a": ["At least one root lies between a and b", "No roots exist in [a, b]", "Exactly one root exists in [a, b]", "The function is discontinuous"],
+      "correct": 0
+    },
+    {
+      "q": "What is the iterative formula for the Newton-Raphson method to solve f(x) = 0?",
+      "a": ["xₙ₊₁ = xₙ + f(xₙ) / f'(xₙ)", "xₙ₊₁ = xₙ - f(xₙ) / f'(xₙ)", "xₙ₊₁ = f'(xₙ) / f(xₙ)", "xₙ₊₁ = xₙ - f'(xₙ) / f(xₙ)"],
+      "correct": 1
+    },
+    {
+      "q": "When using the Newton-Raphson method, under what condition does the method fail or experience extreme slow convergence?",
+      "a": ["f'(xₙ) > 0", "f(xₙ) = 0", "f'(xₙ) = 0", "The initial guess is an integer"],
+      "correct": 2
+    },
+    {
+      "q": "In the context of fixed-point iteration x = g(x), what is the condition for convergence of the iterative sequence near the root α?",
+      "a": ["|g'(α)| > 1", "g'(α) = 1", "g(α) = 0", "|g'(α)| < 1"],
+      "correct": 3
+    },
+    {
+      "q": "An equation f(x) = x³ - x - 1 = 0 has a root near x = 1.5. Rearrange the equation into the form x = (x + 1)¹/³ and use x₀ = 1.5 to find x₁ to 3 decimal places.",
+      "a": ["1.357", "1.423", "1.500", "1.259"],
+      "correct": 0
+    },
+    {
+      "q": "Why might the interval halving (bisection) method fail to locate a root even if f(a) × f(b) < 0?",
+      "a": ["The function has an even number of roots in the interval", "The function is discontinuous in the interval", "The initial interval is too large", "The computer precision is insufficient"],
+      "correct": 1
+    },
+    {
+      "q": "Use one iteration of the Newton-Raphson method on f(x) = x² - 2 with an initial guess x₀ = 1.5 to find x₁.",
+      "a": ["1.400", "1.450", "1.417", "1.433"],
+      "correct": 2
+    },
+    {
+      "q": "What is the main advantage of the Newton-Raphson method compared to the bisection method?",
+      "a": ["It never fails", "It requires no calculus", "It always converges globally", "It generally converges much faster (quadratic convergence)"],
+      "correct": 3
+    },
+    {
+      "q": "If an iterative formula is given by xₙ₊₁ = (5 / xₙ²) + 2, what equation is this formula designed to solve?",
+      "a": ["x³ - 2x² - 5 = 0", "x³ - 5 = 0", "x² - 5x + 2 = 0", "x³ + 2x - 5 = 0"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following describes the convergence behavior of the bisection method?",
+      "a": ["Quadratic convergence", "Linear convergence (halving error each step)", "Cubic convergence", "No convergence guarantees"],
+      "correct": 1
+    },
+    {
+      "q": "In locating roots, if a continuous function changes sign between x = 2 and x = 3, and f(2) = -1.5 and f(3) = 2.0, what is the first bisection approximation of the root?",
+      "a": ["2.25", "2.75", "2.5", "2.1"],
+      "correct": 2
+    },
+    {
+      "q": "Find the error bound after 3 iterations of bisection starting with the interval [1, 2].",
+      "a": ["0.25", "0.5", "0.05", "0.125"],
+      "correct": 3
+    },
+    {
+      "q": "When does a cobweb diagram representing a fixed-point iteration show a spiral convergence?",
+      "a": ["-1 < g'(α) < 0", "0 < g'(α) < 1", "g'(α) > 1", "g'(α) = 1"],
+      "correct": 0
+    },
+    {
+      "q": "What does a staircase diagram representing fixed-point iteration indicate about the iteration?",
+      "a": ["Oscillating convergence", "Monotonic convergence", "Divergence", "No root exists"],
+      "correct": 1
+    },
+    {
+      "q": "Use the Newton-Raphson method to find the root of x³ - 3x - 1 = 0 starting with x₀ = 2. What is x₁?",
+      "a": ["1.857", "1.800", "1.833", "1.900"],
+      "correct": 2
+    },
+    {
+      "q": "If a root of f(x) = 0 is a repeated root (multiplicity > 1), how does the standard Newton-Raphson method behave?",
+      "a": ["It converges quadratically", "It diverges immediately", "It always fails to find any root", "Its convergence rate drops from quadratic to linear"],
+      "correct": 3
+    },
+    {
+      "q": "Show that the equation x³ + 2x - 5 = 0 has a root between 1 and 2. What are the function values at x = 1 and x = 2?",
+      "a": ["f(1) = -2, f(2) = 7", "f(1) = 1, f(2) = 3", "f(1) = -2, f(2) = 3", "f(1) = 0, f(2) = 5"],
+      "correct": 0
+    },
+    {
+      "q": "Which numerical method does not require the evaluation of the derivative of the function?",
+      "a": ["Newton-Raphson method", "Bisection method", "Gradient descent", "Taylor series method"],
+      "correct": 1
+    },
+    {
+      "q": "Consider the iteration xₙ₊₁ = 4 / (xₙ + 1). Find the fixed point α of this iteration.",
+      "a": ["α = 1", "α = 3", "α = 2", "α = 4"],
+      "correct": 2
+    },
+    {
+      "q": "For the iteration xₙ₊₁ = 4 / (xₙ + 1), test convergence at the fixed point α = 2 by finding g'(2). Does it converge?",
+      "a": ["No, because g'(2) = 1", "No, because g'(2) = -4", "Yes, because g'(2) = 0", "Yes, because |g'(2)| = 4/9 < 1"],
+      "correct": 3
+    },
+    {
+      "q": "In applying the Newton-Raphson method to solve x³ - 5 = 0, what is the explicit iterative formula?",
+      "a": ["xₙ₊₁ = (2xₙ³ + 5) / (3xₙ²)", "xₙ₊₁ = (xₙ³ + 5) / (xₙ²)", "xₙ₊₁ = xₙ - (xₙ³ - 5)/3", "xₙ₊₁ = xₙ³ / 5"],
+      "correct": 0
+    },
+    {
+      "q": "Why can the Newton-Raphson method diverge if the initial approximation is chosen poorly?",
+      "a": ["Derivatives cannot be calculated", "Tangents can project the next estimate far away from the root", "Functions must be linear", "Round-off errors accumulate infinitely"],
+      "correct": 1
+    },
+    {
+      "q": "If f(x) = x³ - 2x - 5, what is f'(x) used in the Newton-Raphson process?",
+      "a": ["3x² - 5", "3x² - 2x", "3x² - 2", "x² - 2"],
+      "correct": 2
+    },
+    {
+      "q": "How many iterations of bisection are typically required to reduce an initial interval of width 1 to an error less than 0.01?",
+      "a": ["5 iterations", "6 iterations", "8 iterations", "7 iterations"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following root-finding methods relies on secants (chord lines) rather than tangents?",
+      "a": ["The Secant Method", "The Newton-Raphson Method", "Fixed-point iteration", "The Bisection Method"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary drawback of the bisection method?",
+      "a": ["It requires calculating derivatives", "It converges slowly compared to derivative-based methods", "It can find the wrong root", "It only works for polynomial equations"],
+      "correct": 1
+    },
+    {
+      "q": "If g(x) = (6 - x)^(1/3), find g'(x).",
+      "a": ["-1 / (3(6 - x)^(2/3))", "-3 / (6 - x)^(2/3)", "-1 / (3(6 - x)^(2/3))", "1 / (3(6 - x)^(2/3))"],
+      "correct": 2
+    },
+    {
+      "q": "In numerical root-finding, what is meant by rounding error?",
+      "a": ["Error due to truncating an infinite series", "Error due to choosing a bad starting value", "Error due to function discontinuity", "Error due to finite precision representation in calculators or computers"],
+      "correct": 3
+    },
+    {
+      "q": "Given f(x) = eˣ - 3x, show there is a root in [1, 2]. What are the values of f(1) and f(2)?",
+      "a": ["f(1) = e - 3 ≈ -0.28, f(2) = e² - 6 ≈ 1.39", "f(1) = 0, f(2) = 1", "f(1) = 1, f(2) = -1", "f(1) = e, f(2) = e²"],
+      "correct": 0
+    },
+    {
+      "q": "If you apply fixed-point iteration with an unsuitable rearrangement where |g'(α)| > 1, what happens to the sequence of approximations?",
+      "a": ["It converges instantly", "It diverges away from the root", "It oscillates around the root infinitely with constant amplitude", "It becomes zero"],
+      "correct": 1
+    },
+    {
+      "q": "When evaluating roots of equations numerically, what does a sign change guarantee assuming continuity?",
+      "a": ["A unique root", "An even number of roots", "At least one root", "No other roots exist nearby"],
+      "correct": 2
+    },
+    {
+      "q": "Which numerical technique uses linear interpolation between two points whose function values have opposite signs?",
+      "a": ["Newton-Raphson method", "Fixed-point iteration", "Bisection method", "Regula Falsi (False Position) method"],
+      "correct": 3
+    },
+    {
+      "q": "Find the second approximation x₂ using Newton-Raphson for f(x) = x³ - 2x - 5 with x₀ = 2.",
+      "a": ["2.1", "2.094", "2.2", "2.15"],
+      "correct": 0
+    },
+    {
+      "q": "What is the geometric interpretation of the Newton-Raphson method?",
+      "a": ["Finding the intersection of two curves", "Approximating the root by the x-intercept of the tangent line at the current guess", "Bisecting the interval containing the root", "Drawing a chord between endpoints"],
+      "correct": 1
+    },
+    {
+      "q": "If an iterative formula for solving x³ - x - 3 = 0 is xₙ₊₁ = (xₙ + 3)^(1/3), find x₁ if x₀ = 2.",
+      "a": ["1.587", "1.442", "1.710", "1.650"],
+      "correct": 2
+    },
+    {
+      "q": "What criteria is commonly used as a stopping condition for computer algorithms solving f(x) = 0 numerically?",
+      "a": ["|f(xₙ)| < ε or |xₙ₊₁ - xₙ| < ε", "n > 1000", "xₙ becomes an integer", "f(xₙ) = xₙ"],
+      "correct": 3
+    },
+    {
+      "q": "If a function f(x) has a local extremum on the axis where f(x) = 0, why might the bisection method still succeed while Newton-Raphson fails?",
+      "a": ["Bisection only requires a sign change across an interval, whereas Newton-Raphson divides by f'(x) which approaches zero", "Bisection is faster", "Newton-Raphson cannot handle curves", "Bisection uses derivatives"],
+      "correct": 0
+    },
+    {
+      "q": "In fixed-point iteration, if g(x) = 5 - x², find the fixed points.",
+      "a": ["x = 1 and x = -2", "x = 2 and x = -3", "x = 5 and x = 0", "x = √5 and x = -√5"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate the convergence of g(x) = 5 - x² at the positive fixed point α = 2.",
+      "a": ["Converges because g'(2) = 0", "Diverges because g'(2) = 1", "Diverges because |g'(2)| = 4 > 1", "Converges because g'(2) = -2"],
+      "correct": 2
+    },
+    {
+      "q": "What is the order of convergence of the Newton-Raphson method under standard regular conditions?",
+      "a": ["Linear", "Cubic", "Sub-linear", "Quadratic"],
+      "correct": 3
+    }
+  ]
+}

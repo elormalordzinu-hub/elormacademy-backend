@@ -1,0 +1,161 @@
+{
+  "id": "phys-yr9-quizzes-gravity",
+  "name": "Gravity and weight",
+  "questions": [
+    {
+      "q": "What is the definition of weight?",
+      "a": ["The gravitational force acting on an object", "The amount of matter inside an object", "The volume of space an object occupies", "The density of a substance"],
+      "correct": 0
+    },
+    {
+      "q": "What is the standard unit of measurement for mass?",
+      "a": ["Newtons (N)", "Kilograms (kg)", "Joules (J)", "Meters per second (m/s)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the approximate value of gravitational field strength (g) on the surface of the Earth?",
+      "a": ["1.6 N/kg", "5.0 N/kg", "9.8 N/kg or 10 N/kg", "100 N/kg"],
+      "correct": 2
+    },
+    {
+      "q": "Which formula correctly links weight (W), mass (m), and gravitational field strength (g)?",
+      "a": ["W = m / g", "W = g / m", "W = m + g", "W = m × g"],
+      "correct": 3
+    },
+    {
+      "q": "If an astronaut travels from Earth to the Moon, what happens to their mass?",
+      "a": ["It remains exactly the same", "It decreases to one-sixth of its Earth value", "It increases significantly", "It becomes zero"],
+      "correct": 0
+    },
+    {
+      "q": "If an astronaut travels from Earth to the Moon, what happens to their weight?",
+      "a": ["It stays identical to Earth", "It decreases because the Moon's gravitational field strength is smaller", "It increases due to lack of air", "It triples"],
+      "correct": 1
+    },
+    {
+      "q": "What type of physical quantity is weight, which explains why it has both magnitude and a downward direction?",
+      "a": ["A scalar quantity", "A fundamental unit", "A vector quantity", "A constant property"],
+      "correct": 2
+    },
+    {
+      "q": "Which instrument is used to measure mass accurately in a laboratory?",
+      "a": ["A newton meter", "A spring balance", "A bathroom scale measuring pounds", "An electronic balance or top-pan balance"],
+      "correct": 3
+    },
+    {
+      "q": "What is mass a measure of?",
+      "a": ["The amount of matter contained in an object", "The pulling force of nearby planets", "The speed of a falling body", "The air pressure surrounding an object"],
+      "correct": 0
+    },
+    {
+      "q": "What is the weight of an object with a mass of 5 kg on Earth, assuming gravitational field strength is 10 N/kg?",
+      "a": ["0.5 N", "50 N", "5 N", "55 N"],
+      "correct": 1
+    },
+    {
+      "q": "Why do all objects dropped in a vacuum fall with the exact same acceleration, regardless of their mass?",
+      "a": ["Gravity does not work in vacuums", "Heavier objects have more air resistance", "Gravitational field strength pulls all masses with the same acceleration per unit mass and there is no air drag", "Magnets in the ground attract them equally"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following statements correctly differentiates mass from weight?",
+      "a": ["Mass changes depending on location, while weight is constant", "Mass is a force, while weight is a property of matter", "Mass is measured in newtons, while weight is measured in kilograms", "Mass is the amount of matter and does not change with location, whereas weight is a force that depends on gravity"],
+      "correct": 3
+    },
+    {
+      "q": "What force pulls objects toward the center of the Earth or any other large celestial body?",
+      "a": ["Gravitational force", "Magnetic force", "Frictional force", "Electrostatic force"],
+      "correct": 0
+    },
+    {
+      "q": "If an object has a weight of 120 N on Earth (where g = 10 N/kg), what is its mass?",
+      "a": ["1200 kg", "12 kg", "1.2 kg", "120 kg"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes the force of gravity acting on a unit mass of an object?",
+      "a": ["Inertial mass", "Density", "Gravitational field strength", "Terminal velocity"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these celestial bodies has the weakest gravitational field strength among Earth, the Moon, and Jupiter?",
+      "a": ["Earth", "Jupiter", "The Sun", "The Moon"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the weight of an object if the gravitational field strength where it is located doubles?",
+      "a": ["Its weight doubles", "Its weight halves", "Its weight remains unchanged", "Its weight drops to zero"],
+      "correct": 0
+    },
+    {
+      "q": "Why does a feather float down slowly in air compared to a lead ball, even though gravity acts on both?",
+      "a": ["Gravity is weaker on feathers", "Air resistance has a much greater proportional effect on the feather", "The feather has zero mass", "The lead ball has no weight in air"],
+      "correct": 1
+    },
+    {
+      "q": "What is the weight of a 2 kg object on a planet where the gravitational field strength is 4 N/kg?",
+      "a": ["0.5 N", "6 N", "8 N", "24 N"],
+      "correct": 2
+    },
+    {
+      "q": "Which unit is correct for expressing gravitational field strength (g)?",
+      "a": ["Kilograms per meter (kg/m)", "Newtons per meter (N/m)", "Joules per second (J/s)", "Newtons per kilogram (N/kg)"],
+      "correct": 3
+    },
+    {
+      "q": "If you take an object to the planet Jupiter, where gravity is much stronger than Earth, what happens to its mass?",
+      "a": ["It stays exactly the same", "It increases greatly", "It decreases", "It becomes zero"],
+      "correct": 0
+    },
+    {
+      "q": "What causes tides in Earth's oceans?",
+      "a": ["Underwater earthquakes", "The gravitational pull of the Moon and the Sun on Earth's waters", "Strong winds blowing across the equator", "Changes in Earth's core temperature"],
+      "correct": 1
+    },
+    {
+      "q": "An object has a mass of 50 kg. What is its weight on Earth, using g = 9.8 N/kg?",
+      "a": ["5.0 N", "50.0 N", "490.0 N", "9.8 N"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement best describes a gravitational field?",
+      "a": ["A physical fence around heavy objects", "A region where electric charges repel", "A zone where magnetic metals stick together", "A region of space where a mass experiences a gravitational attractive force"],
+      "correct": 3
+    },
+    {
+      "q": "If an object's weight on Earth is 250 N, what is its mass using g = 10 N/kg?",
+      "a": ["25 kg", "2500 kg", "2.5 kg", "250 kg"],
+      "correct": 1
+    },
+    {
+      "q": "Which factor determines the strength of the gravitational force between two objects?",
+      "a": ["Their colors and temperatures", "Their masses and the distance between them", "Their speed of rotation only", "Their surface texture"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary reason why planets maintain stable orbits around the Sun instead of flying off into deep space?",
+      "a": ["Magnetic attraction from solar flares", "Centrifugal repulsion", "High-speed solar wind pushing them", "The gravitational pull of the Sun acting as a centripetal force"],
+      "correct": 3
+    },
+    {
+      "q": "What is the weight of a 10 kg mass on Earth where g = 10 N/kg?",
+      "a": ["100 N", "1 N", "10 N", "1000 N"],
+      "correct": 0
+    },
+    {
+      "q": "Why does a heavy rock fall at the same rate as a light stone in a vacuum chamber?",
+      "a": ["Vacuum chambers have artificial anti-gravity", "The ratio of weight to mass is identical for both, and no air resistance is present", "The rock loses its mass in a vacuum", "The air inside is compressed"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the gravitational force between two objects if the distance between their centers increases significantly?",
+      "a": ["It increases rapidly", "It stays completely constant", "It decreases", "It drops instantly to zero"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following objects would have the greatest weight on Earth?",
+      "a": ["A 500 g apple", "A 1 kg bag of sugar", "A 2 kg textbook", "A 10 kg bowling ball"],
+      "correct": 3
+    }
+  ]
+}

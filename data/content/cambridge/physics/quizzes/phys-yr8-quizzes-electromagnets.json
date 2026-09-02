@@ -1,0 +1,166 @@
+{
+"id": "phys-yr8-quizzes-electromagnets",
+"name": "Electromagnets and their uses",
+"questions": [
+{
+"q": "What is an electromagnet?",
+"a": ["A magnet made by wrapping insulated wire around a magnetic core (like iron) and passing an electric current through it", "A rare mineral found naturally deep underground", "A permanent magnet made of hardened steel", "A device that creates electricity without energy"],
+"correct": 0
+},
+{
+"q": "What is the main advantage of an electromagnet over a permanent magnet?",
+"a": ["Electromagnets never need any power source", "Electromagnets can be turned on and off and their strength can be adjusted", "Electromagnets are always weaker than permanent magnets", "Electromagnets work only in freezing temperatures"],
+"correct": 1
+},
+{
+"q": "Which of the following components is required to build a basic working electromagnet?",
+"a": ["A glass rod, water, and a battery", "A wooden stick and a plastic thread", "A power source (battery), insulated copper wire, and a magnetic core (such as an iron nail)", "A solar panel and a mirror"],
+"correct": 2
+},
+{
+"q": "How can you increase the strength of an electromagnet?",
+"a": ["Use a plastic core instead of iron", "Decrease the number of wire coils", "Unplug the battery", "Increase the electric current, add more turns of wire to the coil, or use a soft iron core"],
+"correct": 3
+},
+{
+"q": "What happens to an electromagnet when the electric current flowing through its coil is switched off?",
+"a": ["It loses its magnetism almost immediately", "It becomes a permanent magnet forever", "Its poles reverse direction", "It turns into a light bulb"],
+"correct": 0
+},
+{
+"q": "What happens to the magnetic poles of an electromagnet if you reverse the direction of the electric current flowing through the coil?",
+"a": ["The magnet explodes", "The North and South poles swap places", "The magnetic strength doubles", "The magnet loses all power"],
+"correct": 1
+},
+{
+"q": "Which of the following everyday devices uses an electromagnet in its operation?",
+"a": ["A wooden kitchen spoon", "A glass window pane", "An electric bell, relay, or scrap yard crane", "A non-stick frying pan"],
+"correct": 2
+},
+{
+"q": "Why is soft iron used as the core inside an electromagnet rather than hardened steel?",
+"a": ["Soft iron is cheaper to mine", "Soft iron is a better electrical insulator", "Soft iron makes the wire heavier", "Soft iron magnetizes and demagnetizes easily, meaning the core doesn't stay magnetized when power is switched off"],
+"correct": 3
+},
+{
+"q": "How does a scrap metal recycling yard crane use an electromagnet?",
+"a": ["To pick up heavy iron and steel objects easily when switched on, and drop them instantly when switched off", "To melt scrap metal with heat", "To weigh vehicles on scales", "To cut steel plates in half"],
+"correct": 0
+},
+{
+"q": "What is the function of the insulated coating on the copper wire used to make an electromagnet coil?",
+"a": ["To make the wire look colorful", "To prevent short circuits by stopping current from leaking directly between touching loops of wire", "To increase air resistance", "To store chemical energy"],
+"correct": 1
+},
+{
+"q": "If you double the number of turns of wire in an electromagnet coil while keeping the current constant, what happens to its magnetic strength?",
+"a": ["The magnetic strength drops to zero", "The magnetic strength is halved", "The magnetic strength increases significantly", "The magnetic strength remains unchanged"],
+"correct": 2
+},
+{
+"q": "What role does an electromagnetic relay play in a large electrical circuit?",
+"a": ["It consumes all excess electricity", "It converts electrical energy into sound waves", "It acts as a mechanical brake", "It uses a small current in one circuit to switch on or control a much larger current in another circuit safely"],
+"correct": 3
+},
+{
+"q": "How does an electric bell use an electromagnet to produce a ringing sound?",
+"a": ["The electromagnet pulls an iron arm to strike a gong, which automatically breaks the circuit, turning off the magnet so the arm springs back, repeating rapidly", "The bell heats up until it melts", "Electricity flows through a hollow chime", "A motor spins a wheel inside the bell"],
+"correct": 0
+},
+{
+"q": "What happens to the strength of an electromagnet if you increase the voltage of the battery powering it?",
+"a": ["The strength decreases because voltage resists magnetism", "The strength increases because a higher voltage drives a larger electric current through the coils", "The strength stays completely constant", "The wire melts into gas"],
+"correct": 1
+},
+{
+"q": "Which of the following devices relies on electromagnets to convert electrical signals into sound waves in music speakers or headphones?",
+"a": ["A digital thermometer", "A handheld calculator", "A speaker voice coil interacting with a permanent magnet", "A incandescent lamp"],
+"correct": 2
+},
+{
+"q": "Why are electromagnets used in magnetic resonance imaging (MRI) machines in hospitals?",
+"a": ["To X-ray broken bones with light", "To sterilize medical equipment using heat", "To cool down patients' bodies", "To create exceptionally powerful magnetic fields used to scan internal body tissues and organs safely"],
+"correct": 3
+},
+{
+"q": "What happens if you wrap the wire coils of an electromagnet in opposite directions or cross them incorrectly?",
+"a": ["The magnetic fields from different sections may cancel each other out, reducing overall strength", "The battery explodes instantly", "The wire turns into a permanent magnet", "The current stops flowing entirely"],
+"correct": 0
+},
+{
+"q": "How do magnetically levitated (maglev) trains use electromagnets to achieve high-speed travel?",
+"a": ["To create friction against rails", "To lift and propel the train using magnetic repulsion and attraction, eliminating wheel-on-rail friction", "To generate steam power", "To cool the train's engine"],
+"correct": 1
+},
+{
+"q": "Which scientist discovered that an electric current flowing through a wire produces a magnetic field around it, linking electricity and magnetism?",
+"a": ["Isaac Newton", "Albert Einstein", "Hans Christian Oersted", "Thomas Edison"],
+"correct": 2
+},
+{
+"q": "What term is given to a coil of wire shaped into a cylinder used to create a uniform magnetic field when current flows through it?",
+"a": ["A capacitor", "A resistor", "A transformer", "A solenoid"],
+"correct": 3
+},
+{
+"q": "What is the shape of the magnetic field produced around a straight current-carrying wire?",
+"a": ["Concentric circles centered on the wire", "Straight parallel lines pointing upward", "Random zigzag points", "Square boxes"],
+"correct": 0
+},
+{
+"q": "If you increase the electrical resistance in the circuit powering an electromagnet, what happens to its magnetic strength?",
+"a": ["Strength increases massively", "Strength decreases because less current flows through the wire", "Strength remains unaffected", "Polarity reverses instantly"],
+"correct": 1
+},
+{
+"q": "Why are electromagnets preferred over permanent magnets on industrial assembly line cranes that sort metallic waste?",
+"a": ["Permanent magnets are too heavy", "Permanent magnets cannot be turned off to release the collected metal objects", "Electromagnets are cheaper to build than any metal", "Permanent magnets attract non-metals"],
+"correct": 2
+},
+{
+"q": "What safety precaution should be taken when building or operating a high-current electromagnet in a school laboratory?",
+"a": ["Wear heavy winter boots", "Immerse the circuit in ice water", "Keep hands away from moving parts", "Avoid touching the wires for too long because high currents can cause wires to become very hot and drain batteries quickly"],
+"correct": 3
+},
+{
+"q": "What happens inside a solenoid when an iron core is inserted into its center while current is flowing?",
+"a": ["The magnetic field becomes much stronger because the iron core concentrates and enhances the magnetic field lines", "The magnetic field disappears completely", "The current stops flowing", "The solenoid turns into a light bulb"],
+"correct": 0
+},
+{
+"q": "How does a circuit breaker in a home electrical fuse box use an electromagnet?",
+"a": ["To measure room temperature", "To trip a switch and break the circuit automatically if a dangerously high current flows, preventing fires", "To increase electricity bills", "To generate emergency power"],
+"correct": 1
+},
+{
+"q": "Which of the following factors does NOT affect the strength of an electromagnet?",
+"a": ["The number of turns in the coil", "The size of the electric current", "The color of the insulation on the wire", "The material used for the core"],
+"correct": 2
+},
+{
+"q": "What energy transformation takes place when an electromagnet operates in a device like an electric motor?",
+"a": ["Thermal energy into light", "Chemical energy into sound", "Nuclear energy into heat", "Electrical energy into magnetic and kinetic energy"],
+"correct": 3
+},
+{
+"q": "What rule or method can scientists use to determine the direction of the magnetic field around a current-carrying wire?",
+"a": ["The right-hand grip rule (thumb pointing in current direction, fingers curling in field direction)", "The boiling point formula", "The law of reflection", "Archimedes' float principle"],
+"correct": 0
+},
+{
+"q": "Why do wires carrying large currents in electromagnets sometimes feel warm to the touch?",
+"a": ["Electrical resistance in the copper wire converts some electrical energy into thermal energy (heat)", "Friction from magnetic fields heats the air", "Magnets naturally generate heat", "Batteries produce hot chemicals"],
+"correct": 1
+},
+{
+"q": "What is the purpose of a relay switch in a car starter motor circuit?",
+"a": ["To play music", "To dim the headlights", "To allow a small current from the ignition key to safely switch on the very large current required by the starter motor", "To recharge the car battery while driving"],
+"correct": 2
+},
+{
+"q": "Which of these devices uses a solenoid and a spring-loaded plunger operating as an electromagnet to open doors remotely or lock vehicles?",
+"a": ["A digital clock", "An electric toaster", "A standard thermometer", "An electromagnetic door latch or solenoid lock"],
+"correct": 3
+}
+]
+}

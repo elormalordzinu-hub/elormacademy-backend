@@ -1,0 +1,166 @@
+{
+  "id": "math-igcse-quizzes-functions",
+  "name": "Functions and mappings",
+  "questions": [
+    {
+      "q": "If f(x) = 3x - 4, what is the value of f(5)?",
+      "a": ["11", "15", "9", "19"],
+      "correct": 0
+    },
+    {
+      "q": "If g(x) = x² + 2x, find g(-3).",
+      "a": ["15", "3", "9", "-3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the inverse function f⁻¹(x) if f(x) = 2x + 6.",
+      "a": ["(x - 6) / 2", "2x - 6", "(x - 6) / 2", "x / 2 - 3"],
+      "correct": 2
+    },
+    {
+      "q": "If f(x) = x - 5 and g(x) = x², what is the composite function fg(x)?",
+      "a": ["(x - 5)²", "x² - 25", "x² - 5x", "x² - 5"],
+      "correct": 3
+    },
+    {
+      "q": "Using the functions from the previous question, what is gf(x)?",
+      "a": ["(x - 5)²", "x² - 5", "x² - 25", "(x² - 5)"],
+      "correct": 0
+    },
+    {
+      "q": "If h(x) = 4 / x for x ≠ 0, what is h(h(2))?",
+      "a": ["1", "2", "4", "0.5"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of x for which f(x) = 0 if f(x) = 5x - 15.",
+      "a": ["x = 5", "x = 0", "x = 3", "x = -3"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following relations is NOT a function for all real x?",
+      "a": ["f(x) = x²", "f(x) = 2x + 1", "f(x) = 1 / x", "y² = x"],
+      "correct": 3
+    },
+    {
+      "q": "If f(x) = 3 - 2x, solve f(x) = 11.",
+      "a": ["x = -4", "x = 4", "x = -7", "x = 7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the inverse function f⁻¹(x) if f(x) = x / 3 + 2.",
+      "a": ["3x + 2", "3(x - 2)", "x / 3 - 2", "(x - 2) / 3"],
+      "correct": 1
+    },
+    {
+      "q": "If f(x) = x² - 1 and g(x) = x + 3, evaluate fg(2).",
+      "a": ["24", "16", "24", "8"],
+      "correct": 2
+    },
+    {
+      "q": "What is the domain restriction for the function f(x) = 1 / (x - 4)?",
+      "a": ["x > 4", "x < 4", "x ≠ 0", "x ≠ 4"],
+      "correct": 3
+    },
+    {
+      "q": "If f(x) = 2x³, find f(-2).",
+      "a": ["-16", "16", "-12", "12"],
+      "correct": 0
+    },
+    {
+      "q": "Given f(x) = 5x + 3 and gf(x) = 10x + 9, what is the function g(x)?",
+      "a": ["g(x) = 2x + 5", "g(x) = 2x + 3", "g(x) = 5x + 2", "g(x) = 10x + 3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the inverse of the function f(x) = (x + 1) / 4.",
+      "a": ["4x + 1", "(x - 1) / 4", "4x - 1", "4 / (x + 1)"],
+      "correct": 2
+    },
+    {
+      "q": "If f(x) = x² - 4x + 3, what are the roots (values of x where f(x) = 0)?",
+      "a": ["x = 1 and x = -3", "x = -1 and x = -3", "x = -1 and x = 3", "x = 1 and x = 3"],
+      "correct": 3
+    },
+    {
+      "q": "If f(x) = 7 - x, what is ff(x)?",
+      "a": ["x", "7 - x", "14 - x", "x²"],
+      "correct": 0
+    },
+    {
+      "q": "Find the range of the function f(x) = x² + 5 for all real numbers x.",
+      "a": ["f(x) > 0", "f(x) ≥ 5", "f(x) ≥ 0", "All real numbers"],
+      "correct": 1
+    },
+    {
+      "q": "If f(x) = 2ˣ, evaluate f(3) + f(1).",
+      "a": ["10", "16", "10", "8"],
+      "correct": 2
+    },
+    {
+      "q": "What is the inverse of the function f(x) = x³ - 2?",
+      "a": ["∛(x + 2)", "∛x + 2", "x³ + 2", "∛(x - 2)"],
+      "correct": 3
+    },
+    {
+      "q": "If f(x) = 3x + 1 and g(x) = x - 2, solve the equation fg(x) = 10.",
+      "a": ["x = 3", "x = 2", "x = 5", "x = 1"],
+      "correct": 0
+    },
+    {
+      "q": "If f(x) = 10 / (2x - 1), find the value of x for which the function is undefined.",
+      "a": ["x = 0", "x = 0.5", "x = 1", "x = -0.5"],
+      "correct": 1
+    },
+    {
+      "q": "If f(x) = x², determine whether f(x) has an inverse function for all real numbers x without restricting the domain.",
+      "a": ["Yes, always", "Yes, because it is linear", "No, because it is not one-to-one", "No, because it has no roots"],
+      "correct": 2
+    },
+    {
+      "q": "If f(x) = ax + b, and f(2) = 11 and f(4) = 19, what are the values of a and b?",
+      "a": ["a = 3, b = 5", "a = 2, b = 7", "a = 5, b = 1", "a = 4, b = 3"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate f(4) if f(x) = √(x² + 9).",
+      "a": ["5", "7", "4", "25"],
+      "correct": 0
+    },
+    {
+      "q": "If f(x) = 3x - 2 and g(x) = x² + 1, find g(f(2)).",
+      "a": ["10", "17", "26", "5"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of x for which f(x) = f⁻¹(x) given f(x) = 10 - x.",
+      "a": ["x = 10", "x = 0", "x = 5", "Any real number"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following functions is self-inverse (i.e., f(x) = f⁻¹(x))?",
+      "a": ["f(x) = 2x", "f(x) = x + 3", "f(x) = x²", "f(x) = 5 / x for x ≠ 0"],
+      "correct": 3
+    },
+    {
+      "q": "If f(x) = 3ˣ⁻¹, find f(3).",
+      "a": ["9", "3", "27", "1"],
+      "correct": 0
+    },
+    {
+      "q": "Given f(x) = 4x - 5, find x when f⁻¹(x) = 3.",
+      "a": ["x = 3", "x = 7", "x = 12", "x = 27"],
+      "correct": 1
+    },
+    {
+      "q": "If f(x) = x / (x - 2), find an expression for f⁻¹(x).",
+      "a": ["(x - 2) / x", "2x / (x - 1)", "2x / (x - 1)", "x / (x + 2)"],
+      "correct": 2
+    },
+    {
+      "q": "What is the composite function f(f(x)) if f(x) = -x?",
+      "a": ["-x", "x²", "1", "x"],
+      "correct": 3
+    }
+  ]
+}

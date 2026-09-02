@@ -1,0 +1,206 @@
+{
+  "id": "math-jhs1-quizzes-measurement-skills",
+  "name": "Measurement Skills",
+  "questions": [
+    {
+      "q": "What standard SI unit is used to measure length or distance?",
+      "a": ["Metre", "Kilogram", "Second", "Litre"],
+      "correct": 0
+    },
+    {
+      "q": "Convert 3.5 kilometres into metres.",
+      "a": ["350 metres", "3500 metres", "35000 metres", "35 metres"],
+      "correct": 1
+    },
+    {
+      "q": "What is the perimeter of a rectangular football field with a length of 100 metres and a width of 60 metres?",
+      "a": ["300 metres", "320 metres", "320 metres", "6000 metres"],
+      "correct": 2
+    },
+    {
+      "q": "Calculate the area of a square whose side length is 12 cm.",
+      "a": ["48 cm²", "24 cm²", "96 cm²", "144 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "What is the volume of a rectangular block (cuboid) of length 10 cm, width 5 cm, and height 4 cm?",
+      "a": ["200 cm³", "190 cm³", "210 cm³", "100 cm³"],
+      "correct": 0
+    },
+    {
+      "q": "Convert 4500 grams into kilograms.",
+      "a": ["45 kg", "4.5 kg", "0.45 kg", "450 kg"],
+      "correct": 1
+    },
+    {
+      "q": "Find the area of a triangle with a base of 10 cm and a perpendicular height of 8 cm.",
+      "a": ["80 cm²", "20 cm²", "40 cm²", "60 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "What is the circumference of a circle with a radius of 14 cm? (Use pi = 22/7)",
+      "a": ["44 cm", "66 cm", "154 cm", "88 cm"],
+      "correct": 3
+    },
+    {
+      "q": "How many millimetres are there in 1 metre?",
+      "a": ["1000 millimetres", "100 millimetres", "10 millimetres", "10000 millimetres"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the area of a circle with a radius of 7 cm. (Use pi = 22/7)",
+      "a": ["44 cm²", "154 cm²", "88 cm²", "308 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "A classroom clock shows that a lesson lasted for 1 hour 45 minutes. How many total minutes is this?",
+      "a": ["95 minutes", "100 minutes", "105 minutes", "115 minutes"],
+      "correct": 2
+    },
+    {
+      "q": "What is the volume of a cylinder with radius 7 cm and height 10 cm? (Use pi = 22/7)",
+      "a": ["770 cm³", "1540 cm³", "308 cm³", "1540 cm³"],
+      "correct": 3
+    },
+    {
+      "q": "Convert 2 hours 15 minutes into seconds.",
+      "a": ["8100 seconds", "7200 seconds", "9000 seconds", "7500 seconds"],
+      "correct": 0
+    },
+    {
+      "q": "Find the area of a trapezium with parallel sides of lengths 8 cm and 12 cm, and a perpendicular height of 5 cm.",
+      "a": ["40 cm²", "50 cm²", "60 cm²", "100 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "If a car travels at a constant speed of 60 km/h for 3.5 hours, what distance does it cover?",
+      "a": ["180 km", "190 km", "210 km", "240 km"],
+      "correct": 2
+    },
+    {
+      "q": "What is the total surface area of a cube with a side length of 5 cm?",
+      "a": ["125 cm²", "100 cm²", "75 cm²", "150 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "Convert 3.2 litres into millilitres.",
+      "a": ["3200 millilitres", "320 millilitres", "32 millilitres", "32000 millilitres"],
+      "correct": 0
+    },
+    {
+      "q": "Find the perimeter of a regular hexagon with a side length of 9 cm.",
+      "a": ["45 cm", "54 cm", "63 cm", "72 cm"],
+      "correct": 1
+    },
+    {
+      "q": "A water tank holds 500 litres of water. If 350,000 millilitres are used, how many litres of water are left in the tank?",
+      "a": ["250 litres", "100 litres", "150 litres", "200 litres"],
+      "correct": 2
+    },
+    {
+      "q": "If it takes a runner 12 seconds to run 100 metres, what is the average speed in metres per second?",
+      "a": ["6.5 m/s", "7.5 m/s", "9.0 m/s", "8.33 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "What is the area of a parallelogram with a base of 15 cm and a perpendicular height of 6 cm?",
+      "a": ["90 cm²", "45 cm²", "60 cm²", "100 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the volume of a cube with an edge length of 4 cm.",
+      "a": ["48 cm³", "64 cm³", "32 cm³", "16 cm³"],
+      "correct": 1
+    },
+    {
+      "q": "How many hours are there in 10,800 seconds?",
+      "a": ["2 hours", "4 hours", "3 hours", "5 hours"],
+      "correct": 2
+    },
+    {
+      "q": "Find the cost of fencing a rectangular plot of land measuring 25 m by 15 m if the fencing wire costs GH₵ 10 per metre.",
+      "a": ["GH₵ 600", "GH₵ 400", "GH₵ 750", "GH₵ 800"],
+      "correct": 3
+    },
+    {
+      "q": "What is the mass in kilograms of a bag of rice weighing 5200 grams and a tin of oil weighing 1800 grams combined?",
+      "a": ["7 kg", "7.5 kg", "6.5 kg", "8 kg"],
+      "correct": 0
+    },
+    {
+      "q": "If the area of a rectangle is 96 cm² and its length is 12 cm, what is its width?",
+      "a": ["6 cm", "8 cm", "10 cm", "9 cm"],
+      "correct": 1
+    },
+    {
+      "q": "A runner completes a 1500 metre race in 5 minutes. What is the runner's speed in metres per second?",
+      "a": ["4 m/s", "6 m/s", "5 m/s", "8 m/s"],
+      "correct": 2
+    },
+    {
+      "q": "What is the capacity in litres of a rectangular fish tank measuring 50 cm long, 20 cm wide, and 30 cm high? (Note: 1 litre = 1000 cm³)",
+      "a": ["20 litres", "25 litres", "40 litres", "30 litres"],
+      "correct": 3
+    },
+    {
+      "q": "Convert 7.25 metres into centimetres.",
+      "a": ["725 cm", "72.5 cm", "7250 cm", "7.25 cm"],
+      "correct": 0
+    },
+    {
+      "q": "Find the perimeter of a semicircle with a diameter of 14 cm. (Use pi = 22/7)",
+      "a": ["22 cm", "36 cm", "44 cm", "28 cm"],
+      "correct": 1
+    },
+    {
+      "q": "If a piece of land has an area of 2 hectares, what is its area in square metres? (1 hectare = 10,000 m²)",
+      "a": ["5,000 m²", "10,000 m²", "20,000 m²", "200,000 m²"],
+      "correct": 2
+    },
+    {
+      "q": "What is the height of a cuboid if its volume is 240 cm³, its length is 8 cm, and its width is 5 cm?",
+      "a": ["4 cm", "5 cm", "8 cm", "6 cm"],
+      "correct": 3
+    },
+    {
+      "q": "How many small cubes of edge 2 cm can fit completely inside a large box of volume 192 cm³?",
+      "a": ["24", "16", "32", "48"],
+      "correct": 0
+    },
+    {
+      "q": "A train leaves a station at 08:30 hr and arrives at its destination at 14:15 hr. How long did the journey take?",
+      "a": ["5 hours 15 minutes", "5 hours 45 minutes", "6 hours 15 minutes", "4 hours 45 minutes"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the total surface area of an open rectangular box (no top) measuring 10 cm long, 6 cm wide, and 4 cm high.",
+      "a": ["180 cm²", "200 cm²", "188 cm²", "220 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "If 1 yard is approximately 0.914 metres, what is the length in metres of a 100-yard football pitch?",
+      "a": ["9.14 metres", "914 metres", "91.44 metres", "91.4 metres"],
+      "correct": 3
+    },
+    {
+      "q": "What is the radius of a circle whose circumference is 88 cm? (Use pi = 22/7)",
+      "a": ["14 cm", "7 cm", "21 cm", "28 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A metal rod is 2.4 metres long. How many pieces of length 15 cm can be cut from it?",
+      "a": ["12 pieces", "16 pieces", "20 pieces", "15 pieces"],
+      "correct": 1
+    },
+    {
+      "q": "What is the weight of 5 textbooks if each textbook weighs 450 grams, expressed in kilograms?",
+      "a": ["2.0 kg", "2.1 kg", "2.25 kg", "2.5 kg"],
+      "correct": 2
+    },
+    {
+      "q": "Find the area of the ring (annulus) formed between a circle of radius 10 cm and an inner concentric circle of radius 7 cm. (Use pi = 22/7)",
+      "a": ["154 cm²", "210 cm²", "198 cm²", "153 cm²"],
+      "correct": 3
+    }
+  ]
+}

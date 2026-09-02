@@ -1,0 +1,166 @@
+{
+"id": "phys-yr9-quizzes-dissipation",
+"name": "Energy conservation and dissipation",
+"questions": [
+{
+"q": "What does 'dissipated energy' generally refer to in a physical system?",
+"a": ["Energy that spreads out into the surroundings and becomes less useful", "Energy that is safely stored in a battery for later use", "Energy that is completely destroyed", "Energy that converts into heavy mass"],
+"correct": 0
+},
+{
+"q": "Which term describes a system where no energy enters or leaves the system from outside?",
+"a": ["An open circuit", "A closed system", "A mechanical pulley", "An unstable apparatus"],
+"correct": 1
+},
+{
+"q": "Why is it impossible to build a 100 percent efficient machine that runs forever without adding more energy?",
+"a": ["Because gravity stops working over time", "Because friction and air resistance always dissipate some energy as thermal energy", "Because machines lose their mass", "Because energy is created too quickly"],
+"correct": 2
+},
+{
+"q": "How is energy efficiency usually calculated?",
+"a": ["Total energy input divided by useful energy output", "Useful energy output multiplied by total input", "Total input minus useful output", "Useful energy output divided by total energy input multiplied by 100 percent"],
+"correct": 3
+},
+{
+"q": "What happens to the wasted energy produced by a car engine during a journey?",
+"a": ["It dissipates into the surrounding air and road as thermal energy and sound.", "It gets stored safely in the tires.", "It transforms back into fuel.", "It disappears from the universe entirely."],
+"correct": 0
+},
+{
+"q": "Which of the following actions helps reduce unwanted energy dissipation through friction in a bicycle chain?",
+"a": ["Using rough sandpaper on the chain", "Applying lubricating oil regularly", "Removing the chain completely", "Riding faster uphill"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of adding thermal insulation (like loft insulation or double glazing) to a house?",
+"a": ["To increase electrical resistance", "To make the house heavier", "To reduce the rate of thermal energy transfer to the cold outside environment", "To generate sound waves"],
+"correct": 2
+},
+{
+"q": "If a light bulb has an efficiency of 0.2 (or 20 percent), what fraction of the input electrical energy is wasted as thermal energy?",
+"a": ["1/4", "1/2", "1/10", "4/5 (or 80 percent)"],
+"correct": 3
+},
+{
+"q": "Which of the following devices typically has the highest energy efficiency when converting electrical energy to light?",
+"a": ["An LED light bulb", "An old-fashioned incandescent filament bulb", "An open fire", "A standard toaster"],
+"correct": 0
+},
+{
+"q": "What term describes the energy that is NOT usefully transferred by a device?",
+"a": ["Useful energy", "Wasted energy", "Stored potential energy", "Kinetic energy"],
+"correct": 1
+},
+{
+"q": "On a Sankey diagram, what do the widths of the arrows represent?",
+"a": ["The color of the materials", "The physical length of the wires", "The amount of energy being transferred", "The temperature of the system"],
+"correct": 2
+},
+{
+"q": "In a Sankey diagram for an electric motor, if the total input energy arrow is 100 J wide and the useful kinetic energy arrow is 70 J wide, how wide should the wasted thermal energy arrow be?",
+"a": ["100 J", "0 J", "50 J", "30 J"],
+"correct": 3
+},
+{
+"q": "Why do moving mechanical parts in machinery get hot during operation?",
+"a": ["Friction between the parts dissipates mechanical energy into thermal energy.", "They are connected to electrical heaters.", "Gravity creates internal heat.", "Air pressure squeezes them."],
+"correct": 0
+},
+{
+"q": "Which material property makes a good thermal insulator for keeping houses warm?",
+"a": ["High density and solid metal structure", "Trapped pockets of air or low thermal conductivity", "High electrical conductivity", "Extreme reflectivity to sound"],
+"correct": 1
+},
+{
+"q": "What does the principle of conservation of energy state about total energy?",
+"a": ["Total energy increases every second.", "Total energy decreases as time passes.", "Total energy in a closed system remains constant.", "Total energy can be destroyed easily."],
+"correct": 2
+},
+{
+"q": "Which of the following statements about energy efficiency is correct?",
+"a": ["Efficiency can sometimes exceed 100 percent.", "Efficiency has no units and is expressed as a ratio or percentage.", "Efficiency is measured in watts.", "Efficiency depends only on the color of the device."],
+"correct": 3
+},
+{
+"q": "How does double glazing reduce thermal energy transfer through windows in winter?",
+"a": ["The trapped layer of air or gas between the two glass panes acts as a poor thermal conductor.", "It lets more light pass through.", "It creates strong magnetic fields.", "It eliminates all sound waves."],
+"correct": 0
+},
+{
+"q": "What happens to the temperature of the surroundings as more energy is dissipated across various appliances?",
+"a": ["It decreases slightly.", "It increases slightly as thermal energy spreads out.", "It remains absolute zero.", "It fluctuates randomly."],
+"correct": 1
+},
+{
+"q": "Why do engineers streamline cars and trains?",
+"a": ["To increase the mass of the vehicle", "To make them look colorful", "To reduce air resistance and minimize wasted energy due to drag", "To generate more engine noise"],
+"correct": 2
+},
+{
+"q": "Which of the following energy transfers represents a strictly wasted output for a computer processor?",
+"a": ["Displaying images on the screen", "Processing user data calculations", "Playing audio through speakers", "Releasing heat into the computer case from the microchip"],
+"correct": 3
+},
+{
+"q": "What does a Sankey diagram visually display for a given machine or process?",
+"a": ["Energy inputs, useful outputs, and wasted energy outputs", "The chemical formula of fuels", "The wiring layout of an electric circuit", "The speed of moving particles"],
+"correct": 0
+},
+{
+"q": "If a machine has an input energy of 200 J and a useful output energy of 100 J, what is its efficiency?",
+"a": ["0.2 (20 percent)", "0.5 (50 percent)", "1.0 (100 percent)", "2.0 (200 percent)"],
+"correct": 1
+},
+{
+"q": "Which energy store is considered 'spread out' or 'degraded' when thermal energy dissipates into the environment?",
+"a": ["A concentrated chemical store", "A high-altitude gravitational store", "A thermal store spread so widely it can no longer easily do useful work", "An elastic spring store"],
+"correct": 2
+},
+{
+"q": "Why do factory boilers often have layers of lagging or fiberglass insulation wrapped around them?",
+"a": ["To make them heavier", "To increase pressure inside", "To improve electrical conductivity", "To reduce unwanted thermal energy transfer to the room"],
+"correct": 3
+},
+{
+"q": "What term is used to describe energy that is spread out into the surroundings and cannot easily be used to perform work?",
+"a": ["Dissipated energy", "Concentrated energy", "Stored potential energy", "Mechanical work"],
+"correct": 0
+},
+{
+"q": "Which of these devices converts electrical energy into useful sound energy while wasting some as heat?",
+"a": ["An electric iron", "A buzzer or loudspeaker", "A solar cell", "A battery charger"],
+"correct": 1
+},
+{
+"q": "In any energy transfer, what is always true regarding total input energy and total output energy?",
+"a": ["Total output energy is less than input energy because energy vanishes.", "Total output energy is greater than input energy.", "Total output energy (useful plus wasted) equals total input energy.", "There is no relationship between input and output."],
+"correct": 2
+},
+{
+"q": "What is the primary reason an old incandescent light bulb feels very hot after being on?",
+"a": ["It produces high-frequency sound waves.", "It stores nuclear energy.", "It generates strong magnetic fields.", "Most of the electrical energy input is dissipated as thermal energy rather than light."],
+"correct": 3
+},
+{
+"q": "Which of the following represents a practical application of reducing energy waste in transport?",
+"a": ["Using low-rolling-resistance tires on trucks", "Adding heavy steel plates to cars", "Removing shock absorbers completely", "Painting all vehicles black"],
+"correct": 0
+},
+{
+"q": "What feature on a Sankey diagram indicates that energy has been conserved overall?",
+"a": ["The arrows change color.", "The total width of the input arrows equals the combined total width of the output arrows.", "The diagram forms a closed circle.", "All arrows point upwards."],
+"correct": 1
+},
+{
+"q": "Why do sports clothing manufacturers use breathable, moisture-wicking fabrics for runners?",
+"a": ["To increase body weight", "To trap all thermal energy permanently", "To help regulate body temperature by allowing sweat and thermal energy to transfer away efficiently", "To generate static electricity"],
+"correct": 2
+},
+{
+"q": "If a portable heater transfers 500 J of electrical energy and produces 450 J of thermal energy in the room while 50 J escapes as light, what is the efficiency of heating?",
+"a": ["10 percent", "50 percent", "80 percent", "90 percent (0.9)"],
+"correct": 3
+}
+]
+}

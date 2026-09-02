@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-plants",
+"name": "Plants and life processes",
+"questions": [
+{
+"q": "What is the primary chemical process by which plants make their own food using light energy?",
+"a": ["Photosynthesis", "Respiration", "Transpiration", "Osmosis"],
+"correct": 0
+},
+{
+"q": "Which gas is absorbed from the atmosphere by leaves during photosynthesis?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "Which green pigment found in chloroplasts absorbs light energy for photosynthesis?",
+"a": ["Carotene", "Anthocyanin", "Chlorophyll", "Xanthophyll"],
+"correct": 2
+},
+{
+"q": "What are the two main products of photosynthesis?",
+"a": ["Carbon dioxide and water", "Glucose and oxygen", "Nitrate and starch", "Lactic acid and energy"],
+"correct": 1
+},
+{
+"q": "Which plant tissue is responsible for transporting water and dissolved mineral ions upward from the roots to the leaves?",
+"a": ["Phloem", "Cortex", "Xylem", "Epidermis"],
+"correct": 2
+},
+{
+"q": "Which plant tissue transports sugars and amino acids manufactured in the leaves to other parts of the plant?",
+"a": ["Xylem", "Cambium", "Pith", "Phloem"],
+"correct": 3
+},
+{
+"q": "What is the term for the loss of water vapor from plant leaves through the stomata?",
+"a": ["Transpiration", "Respiration", "Condensation", "Translocation"],
+"correct": 0
+},
+{
+"q": "Which microscopic pores on the underside of leaves allow gas exchange and water vapor release?",
+"a": ["Root hairs", "Lenticels", "Stomata", "Cuticles"],
+"correct": 2
+},
+{
+"q": "Which specialized cells control the opening and closing of stomata?",
+"a": ["Palisade cells", "Guard cells", "Xylem vessels", "Epidermal cells"],
+"correct": 1
+},
+{
+"q": "Why do root hair cells have a large surface area?",
+"a": ["To absorb water and mineral ions efficiently from the soil", "To catch sunlight underground", "To anchor the plant securely against wind", "To produce glucose via photosynthesis"],
+"correct": 0
+},
+{
+"q": "Which mineral ion is required by plants to synthesize amino acids and proteins for growth?",
+"a": ["Magnesium", "Nitrate", "Calcium", "Sodium"],
+"correct": 1
+},
+{
+"q": "Which mineral ion is essential for plants to manufacture chlorophyll molecules?",
+"a": ["Magnesium", "Potassium", "Iron", "Phosphate"],
+"correct": 0
+},
+{
+"q": "What happens to a plant leaf if it lacks sufficient magnesium ions?",
+"a": ["Roots grow excessively long", "Leaves turn yellow due to a lack of chlorophyll production", "Stems become woody and rigid", "Flowers change color instantly"],
+"correct": 1
+},
+{
+"q": "Which environmental factor does NOT directly affect the rate of transpiration?",
+"a": ["Light intensity", "Wind speed", "Soil pH", "Humidity"],
+"correct": 2
+},
+{
+"q": "How does high humidity affect the rate of transpiration in plants?",
+"a": ["It increases transpiration because air is wet", "It decreases transpiration because the water concentration gradient between leaf and air is reduced", "It stops photosynthesis completely", "It has zero effect on water movement"],
+"correct": 1
+},
+{
+"q": "Which layer inside a leaf contains the highest concentration of chloroplasts for maximum light absorption?",
+"a": ["Spongy mesophyll layer", "Palisade mesophyll layer", "Upper waxy cuticle", "Lower epidermis"],
+"correct": 1
+},
+{
+"q": "What is the function of the waxy cuticle on the upper surface of a leaf?",
+"a": ["To absorb sunlight", "To reduce water loss through evaporation", "To exchange carbon dioxide gas", "To anchor the leaf firmly to the stem"],
+"correct": 1
+},
+{
+"q": "How do water molecules enter root hair cells from the surrounding soil moisture?",
+"a": ["By active transport against gravity", "By osmosis down a water potential gradient", "By mechanical pumping from stem muscles", "By direct evaporation into gas"],
+"correct": 1
+},
+{
+"q": "What is translocation in plants?",
+"a": ["The movement of water up xylem vessels", "The transport of dissolved sugars through phloem tissue", "The loss of water vapor from stomata", "The absorption of minerals by roots"],
+"correct": 1
+},
+{
+"q": "Which gas is released into the atmosphere as a byproduct of photosynthesis?",
+"a": ["Carbon dioxide", "Nitrogen", "Oxygen", "Methane"],
+"correct": 2
+},
+{
+"q": "What energy transformation takes place during photosynthesis?",
+"a": ["Light energy is converted into chemical energy stored in glucose", "Chemical energy is turned into sound energy", "Heat energy is converted into kinetic wind energy", "Electrical energy is turned into light energy"],
+"correct": 1
+},
+{
+"q": "Why are most leaves broad and flat?",
+"a": ["To catch maximum sunlight and provide a large surface area for gas exchange", "To store heavy amounts of mineral water", "To prevent animals from eating them easily", "To block all wind from hitting roots"],
+"correct": 0
+},
+{
+"q": "What is the role of xylem vessel walls containing lignin?",
+"a": ["To absorb mineral salts directly", "To provide structural strength and prevent the vessels from collapsing under pressure", "To produce food for the plant root", "To capture sunlight underground"],
+"correct": 1
+},
+{
+"q": "Under which conditions would a plant experience the highest rate of transpiration?",
+"a": ["Hot, dry, windy, and sunny conditions", "Cold, damp, still, and dark conditions", "Freezing and waterlogged soil conditions", "Constant indoor darkness"],
+"correct": 3
+},
+{
+"q": "What happens to guard cells when they take up water and become turgid?",
+"a": ["The stomata close tightly", "The stomata open to allow gas exchange", "The leaf wilts completely", "Chlorophyll breaks down into sugar"],
+"correct": 1
+},
+{
+"q": "Which part of a flowering plant anchors it in the soil and absorbs water and minerals?",
+"a": ["The stem", "The leaves", "The roots", "The petals"],
+"correct": 2
+},
+{
+"q": "What is formed when plants store excess glucose produced during photosynthesis?",
+"a": ["Starch for long-term energy storage", "Pure protein fibers", "Heavy metal deposits", "Cellulose bones"],
+"correct": 1
+},
+{
+"q": "How can you test a leaf for the presence of starch experimentally?",
+"a": ["Boil in ethanol to remove chlorophyll, soften in hot water, and add iodine solution", "Soak in Biuret solution directly on the plant", "Heat with Benedict's solution in a test tube", "Add universal indicator to sap"],
+"correct": 1
+},
+{
+"q": "What color change confirms starch is present in a de-colorized leaf tested with iodine?",
+"a": ["From orange-brown to blue-black", "From blue to purple", "From clear to brick-red", "From green to yellow"],
+"correct": 1
+},
+{
+"q": "Why must a leaf be boiled in ethanol during a starch test?",
+"a": ["To cook the plant for consumption", "To dissolve and remove the green chlorophyll so color changes can be seen clearly", "To add extra sugar into the tissue", "To freeze the water inside cells"],
+"correct": 1
+},
+{
+"q": "What is the spongy mesophyll layer in a leaf adapted to do?",
+"a": ["Allow efficient circulation and diffusion of gases (carbon dioxide and oxygen) inside the leaf", "Absorb 99 percent of sunlight directly", "Form a waterproof outer armor", "Pump water upward to branches"],
+"correct": 1
+},
+{
+"q": "Which of the following is required for photosynthesis to occur besides carbon dioxide and water?",
+"a": ["Strong ultraviolet sound", "Light energy and chlorophyll", "Soil bacteria and oxygen", "High wind speed"],
+"correct": 1
+},
+{
+"q": "What happens to a plant if it lacks water and transpires faster than its roots can absorb replacement water?",
+"a": ["It grows twice as tall", "It wilts as cells lose turgor pressure", "Its leaves turn bright purple", "It stops respiring permanently"],
+"correct": 1
+},
+{
+"q": "Which cells in the root are responsible for water uptake?",
+"a": ["Xylem vessels", "Root hair cells", "Phloem tubes", "Cortex fibers"],
+"correct": 1
+},
+{
+"q": "What is the function of root cap cells at the tip of growing roots?",
+"a": ["To absorb sunlight", "To protect the root tip as it pushes through abrasive soil particles", "To conduct photosynthesis underground", "To produce flowers"],
+"correct": 1
+},
+{
+"q": "Which statement best describes respiration in plants?",
+"a": ["It only happens at night in total darkness", "It occurs continuously day and night, releasing energy from glucose", "It replaces photosynthesis entirely during summer", "It only takes place inside flowers"],
+"correct": 1
+},
+{
+"q": "How does carbon dioxide from the air reach the photosynthetic cells inside a leaf?",
+"a": ["By diffusing through the stomata into the air spaces of the spongy mesophyll", "By active transport through xylem vessels", "By being pumped by root hairs", "By dissolving in the waxy cuticle"],
+"correct": 1
+},
+{
+"q": "What is the primary structural difference between xylem and phloem tissue?",
+"a": ["Xylem transports water and minerals in dead hollow tubes, while phloem transports sugars using living cells", "Phloem is made of solid wood, while xylem is liquid", "Xylem transports food downward only", "Phloem has thick lignin rings while xylem has none"],
+"correct": 1
+},
+{
+"q": "Why do plants growing in shaded areas often have broader leaves than plants in direct sunlight?",
+"a": ["To capture as much available light energy as possible for photosynthesis", "To collect more rainwater on top", "To hide from grazing herbivores", "To keep their roots warm"],
+"correct": 1
+},
+{
+"q": "Which term describes the movement of water molecules from a region of higher water potential to a region of lower water potential across a partially permeable membrane?",
+"a": ["Active transport", "Diffusion", "Osmosis", "Transpiration"],
+"correct": 2
+}
+]
+}

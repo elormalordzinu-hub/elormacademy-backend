@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-physical-quantities",
+"name": "Physical Quantities",
+"questions": [
+{
+"q": "Which of the following is defined as the amount of matter contained in a body?",
+"a": ["Mass", "Weight", "Volume", "Density"],
+"correct": 0
+},
+{
+"q": "What is the standard International System of Units (SI) base unit for measuring length?",
+"a": ["Kilogram", "Metre", "Second", "Kelvin"],
+"correct": 1
+},
+{
+"q": "Which instrument is most accurate for measuring the internal diameter of a small test tube?",
+"a": ["Metre rule", "Measuring tape", "Vernier calipers", "Beam balance"],
+"correct": 2
+},
+{
+"q": "Which of the following represents a derived physical quantity rather than a fundamental one?",
+"a": ["Length", "Time", "Temperature", "Area"],
+"correct": 3
+},
+{
+"q": "What is the SI unit for measuring time interval in scientific experiments?",
+"a": ["Second", "Minute", "Hour", "Day"],
+"correct": 0
+},
+{
+"q": "Which property describes the degree of hotness or coldness of a substance?",
+"a": ["Mass", "Temperature", "Volume", "Pressure"],
+"correct": 1
+},
+{
+"q": "What is the correct SI unit for electric current?",
+"a": ["Volt", "Ohm", "Ampere", "Watt"],
+"correct": 2
+},
+{
+"q": "Which of the following fundamental quantities has the kilogram as its standard SI unit?",
+"a": ["Length", "Time", "Temperature", "Mass"],
+"correct": 3
+},
+{
+"q": "How many fundamental quantities are officially recognized in the International System of Units (SI)?",
+"a": ["Seven", "Three", "Five", "Ten"],
+"correct": 0
+},
+{
+"q": "Which instrument is used to measure the volume of an irregular solid object using the displacement method?",
+"a": ["Overflow can and measuring cylinder", "Spring balance", "Thermometer", "Metre rule"],
+"correct": 1
+},
+{
+"q": "What is the derived SI unit for calculating speed or velocity?",
+"a": ["Metre", "Second", "Metres per second (m/s)", "Kilogram per cubic metre"],
+"correct": 2
+},
+{
+"q": "Which physical quantity measures the total space occupied by a three-dimensional object?",
+"a": ["Mass", "Length", "Area", "Volume"],
+"correct": 3
+},
+{
+"q": "Which of the following is a fundamental quantity in physics and chemistry?",
+"a": ["Luminous intensity", "Speed", "Force", "Density"],
+"correct": 0
+},
+{
+"q": "What is the basic SI unit for thermodynamic temperature?",
+"a": ["Degree Celsius", "Kelvin", "Fahrenheit", "Joule"],
+"correct": 1
+},
+{
+"q": "Which tool is best suited for measuring curved boundary lengths or map distances?",
+"a": ["Vernier calipers", "Micrometer screw gauge", "Opisometer (map measurer)", "Beam balance"],
+"correct": 2
+},
+{
+"q": "What is the primary difference between fundamental quantities and derived quantities?",
+"a": ["Fundamental quantities can be changed easily", "Derived quantities are never measured", "Fundamental quantities are independent of others, while derived ones are combinations", "Derived quantities are always scalar"],
+"correct": 3
+},
+{
+"q": "Which unit is used to express the amount of substance in chemistry and physics?",
+"a": ["Mole", "Gram", "Litre", "Newton"],
+"correct": 0
+},
+{
+"q": "What is the standard unit of mass used in scientific laboratory work alongside the kilogram?",
+"a": ["Gram", "Tonne", "Pound", "Ounce"],
+"correct": 1
+},
+{
+"q": "Which instrument is used to measure the mass of a body by comparison with standard masses?",
+"a": ["Spring balance", "Bathroom scale", "Beam balance", "Hydrometer"],
+"correct": 2
+},
+{
+"q": "What is the derived SI unit for density?",
+"a": ["Kilogram (kg)", "Metre cubed (m³)", "Newton (N)", "Kilogram per cubic metre (kg/m³)"],
+"correct": 3
+},
+{
+"q": "Which of the following pairs contains only fundamental quantities?",
+"a": ["Length and Mass", "Area and Volume", "Speed and Force", "Density and Pressure"],
+"correct": 0
+},
+{
+"q": "What does a micrometer screw gauge measure with high precision?",
+"a": ["Large distances like room length", "Very small thicknesses or diameters", "Mass of liquid samples", "Time taken for a pendulum swing"],
+"correct": 1
+},
+{
+"q": "Why is parallax error dangerous when reading measurements from a graduated cylinder?",
+"a": ["It changes the temperature of the liquid", "It makes the balance unstable", "It causes inaccurate readings due to incorrect eye positioning", "It breaks the glass cylinder"],
+"correct": 2
+},
+{
+"q": "Which quantity measures the luminous intensity of a light source in the SI system?",
+"a": ["Lumen", "Watt", "Lux", "Candela"],
+"correct": 3
+},
+{
+"q": "What is the standard SI unit for force?",
+"a": ["Newton", "Joule", "Pascal", "Watt"],
+"correct": 0
+},
+{
+"q": "Which of the following instruments is used to measure time intervals during athletic races or physical science experiments?",
+"a": ["Wall clock", "Stopwatch", "Calendar", "Metre rule"],
+"correct": 1
+},
+{
+"q": "What is the volume of a rectangular block measuring 5 cm in length, 2 cm in width, and 3 cm in height?",
+"a": ["10 cm³", "20 cm³", "30 cm³", "60 cm³"],
+"correct": 2
+},
+{
+"q": "Which term refers to the closeness of a measurement to its true or accepted value?",
+"a": ["Precision", "Range", "Consistency", "Accuracy"],
+"correct": 3
+},
+{
+"q": "When converting 2 kilograms into grams, what is the correct value?",
+"a": ["2000 grams", "200 grams", "20 grams", "0.2 grams"],
+"correct": 0
+},
+{
+"q": "What is the main purpose of zero error correction in measuring instruments like vernier calipers?",
+"a": ["To increase the weight of the object", "To eliminate systematic error and ensure true readings", "To make the scale look cleaner", "To speed up the measuring process"],
+"correct": 1
+},
+{
+"q": "Which of the following is a correct expression for calculating density?",
+"a": ["Density = Volume x Mass", "Density = Force / Area", "Density = Mass / Volume", "Density = Mass x Acceleration"],
+"correct": 2
+},
+{
+"q": "What is the standard symbol for the SI unit of length (metre)?",
+"a": ["cm", "km", "mm", "m"],
+"correct": 3
+},
+{
+"q": "Which physical quantity is expressed in the unit 'Pascal' (Pa)?",
+"a": ["Pressure", "Power", "Energy", "Frequency"],
+"correct": 0
+},
+{
+"q": "What is the primary instrument used in school laboratories to measure liquid volume directly?",
+"a": ["Beaker", "Measuring cylinder", "Watch glass", "Evaporating dish"],
+"correct": 1
+},
+{
+"q": "If an object has a mass of 50g and a volume of 10cm³, what is its density?",
+"a": ["500 g/cm³", "0.2 g/cm³", "5 g/cm³", "40 g/cm³"],
+"correct": 2
+},
+{
+"q": "Which of the following represents a scalar quantity (having magnitude only)?",
+"a": ["Velocity", "Force", "Displacement", "Mass"],
+"correct": 3
+},
+{
+"q": "How many millimetres are in one metre?",
+"a": ["1,000 mm", "10 mm", "100 mm", "10,000 mm"],
+"correct": 0
+},
+{
+"q": "Which derived unit is equivalent to Newton-metre (N·m)?",
+"a": ["Watt", "Joule", "Pascal", "Volt"],
+"correct": 1
+},
+{
+"q": "Why is it important to repeat measurements multiple times during a scientific experiment?",
+"a": ["To waste time", "To use up chemicals", "To calculate an average and minimize random errors", "To change the physical quantity being measured"],
+"correct": 2
+},
+{
+"q": "What is the SI prefix that represents a factor of one thousand ($10^3$)?",
+"a": ["Milli", "Centi", "Micro", "Kilo"],
+"correct": 3
+}
+]
+}

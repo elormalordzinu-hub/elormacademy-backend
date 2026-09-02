@@ -1,0 +1,186 @@
+{
+  "id": "math-igcse-quizzes-matrices-trans",
+  "name": "Matrices and transformations",
+  "questions": [
+    {
+      "q": "What is the effect of multiplying a 2×2 transformation matrix by a column vector representing a point (x, y)?",
+      "a": ["It transforms the coordinates of the point to a new position (x', y')", "It calculates the determinant of the transformation", "It finds the inverse distance from the origin", "It converts the coordinates into polar form"],
+      "correct": 0
+    },
+    {
+      "q": "Which 2×2 matrix represents a reflection in the x-axis?",
+      "a": ["Matrix [0, 1; 1, 0]", "Matrix [1, 0; 0, -1]", "Matrix [-1, 0; 0, 1]", "Matrix [0, -1; -1, 0]"],
+      "correct": 1
+    },
+    {
+      "q": "Which 2×2 matrix represents a reflection in the y-axis?",
+      "a": ["Matrix [1, 0; 0, 1]", "Matrix [1, 0; 0, -1]", "Matrix [-1, 0; 0, 1]", "Matrix [0, 1; 1, 0]"],
+      "correct": 2
+    },
+    {
+      "q": "Which 2×2 matrix represents a reflection in the line y = x?",
+      "a": ["Matrix [-1, 0; 0, -1]", "Matrix [1, 0; 0, 1]", "Matrix [0, -1; -1, 0]", "Matrix [0, 1; 1, 0]"],
+      "correct": 3
+    },
+    {
+      "q": "What is the 2×2 identity matrix that leaves any point unchanged when multiplied?",
+      "a": ["Matrix [1, 0; 0, 1]", "Matrix [0, 1; 1, 0]", "Matrix [1, 1; 1, 1]", "Matrix [0, 0; 0, 0]"],
+      "correct": 0
+    },
+    {
+      "q": "What transformation is represented by the matrix [k, 0; 0, k] where k is a scalar scale factor?",
+      "a": ["A reflection in the origin", "An enlargement centered at the origin with scale factor k", "A rotation of 90° about the origin", "A shear parallel to the x-axis"],
+      "correct": 1
+    },
+    {
+      "q": "When describing a single transformation from a 2×2 matrix that has a determinant of 1 and leaves the origin fixed, what is it typically?",
+      "a": ["A pure enlargement", "A reflection", "A rotation about the origin", "A translation"],
+      "correct": 2
+    },
+    {
+      "q": "What is the matrix representing a rotation of 180° about the origin?",
+      "a": ["Matrix [0, -1; 1, 0]", "Matrix [1, 0; 0, 1]", "Matrix [0, 1; -1, 0]", "Matrix [-1, 0; 0, -1]"],
+      "correct": 3
+    },
+    {
+      "q": "What is the matrix representing a 90° anticlockwise rotation about the origin?",
+      "a": ["Matrix [0, -1; 1, 0]", "Matrix [1, 0; 0, -1]", "Matrix [0, 1; 1, 0]", "Matrix [-1, 0; 0, -1]"],
+      "correct": 0
+    },
+    {
+      "q": "What is the matrix representing a 90° clockwise rotation about the origin?",
+      "a": ["Matrix [1, 0; 0, 1]", "Matrix [0, 1; -1, 0]", "Matrix [-1, 0; 0, -1]", "Matrix [0, -1; 1, 0]"],
+      "correct": 1
+    },
+    {
+      "q": "Can a standard 2×2 matrix transformation represent a pure translation (shifting an object without rotation or scaling)?",
+      "a": ["Yes, by adding a column vector", "Yes, by using negative numbers on the diagonal", "No, 2×2 matrix transformations always keep the origin (0, 0) fixed", "No, translations require 3×3 matrices only"],
+      "correct": 2
+    },
+    {
+      "q": "If a transformation matrix scales the x-coordinate by 3 and leaves the y-coordinate unchanged, what is the matrix?",
+      "a": ["Matrix [1, 0; 0, 3]", "Matrix [3, 3; 0, 1]", "Matrix [3, 0; 3, 0]", "Matrix [3, 0; 0, 1]"],
+      "correct": 3
+    },
+    {
+      "q": "What does the determinant of a 2×2 transformation matrix represent geometrically?",
+      "a": ["The area scale factor of the transformation", "The linear scale factor of the lengths", "The angle of rotation in degrees", "The distance from the origin"],
+      "correct": 0
+    },
+    {
+      "q": "If the determinant of a transformation matrix is equal to zero, what does this imply about the geometric shape being transformed?",
+      "a": ["The shape is rotated by 360°", "The shape collapses into a straight line or a single point (area becomes zero)", "The shape is enlarged infinitely", "The transformation is an identity transformation"],
+      "correct": 1
+    },
+    {
+      "q": "If matrix A represents a reflection and matrix B represents a rotation, what does the product matrix AB represent?",
+      "a": ["Matrix A followed by matrix B", "Matrix B added to matrix A", "Transformation B followed by transformation A (combined transformation)", "The inverse transformation"],
+      "correct": 2
+    },
+    {
+      "q": "What is the area scale factor if a transformation matrix is [2, 0; 0, 4]?",
+      "a": ["2", "4", "6", "8"],
+      "correct": 3
+    },
+    {
+      "q": "If a transformation has an area scale factor of -5, what does the negative sign indicate?",
+      "a": ["The orientation of the shape has been reversed (such as through a reflection)", "The shape has shrunk to negative size", "An arithmetic error in calculation", "The center of enlargement is negative"],
+      "correct": 0
+    },
+    {
+      "q": "How do you find the image of the point (2, 3) under a 2×2 matrix [1, 2; 3, 4]?",
+      "a": ["Add the matrix elements to the vector elements", "Multiply the 2×2 matrix by the column vector [2; 3]", "Square the matrix and multiply by 5", "Find the inverse matrix first"],
+      "correct": 1
+    },
+    {
+      "q": "If a shape with an original area of 12 square units undergoes a transformation with matrix determinant 3, what is the area of the image?",
+      "a": ["15 square units", "4 square units", "36 square units", "108 square units"],
+      "correct": 2
+    },
+    {
+      "q": "Which transformation matrix represents a reflection in the line y = -x?",
+      "a": ["Matrix [1, 0; 0, -1]", "Matrix [0, 1; 1, 0]", "Matrix [-1, 0; 0, 1]", "Matrix [0, -1; -1, 0]"],
+      "correct": 3
+    },
+    {
+      "q": "If a transformation maps the point (1, 0) to (0, 1) and (0, 1) to (-1, 0), what transformation is it?",
+      "a": ["90° anticlockwise rotation about the origin", "Reflection in the x-axis", "Enlargement by scale factor 2", "Translation by vector [1, 1]"],
+      "correct": 0
+    },
+    {
+      "q": "What is the determinant of the matrix [4, 1; 2, 3]?",
+      "a": ["6", "10", "14", "12"],
+      "correct": 1
+    },
+    {
+      "q": "If matrix M represents a rotation of 90°, what does matrix M² represent?",
+      "a": ["A rotation of 45°", "A rotation of 90°", "A rotation of 180°", "An identity matrix with no rotation"],
+      "correct": 2
+    },
+    {
+      "q": "When combining successive matrix transformations, in which order must multiplication be applied to a coordinate vector v?",
+      "a": ["From left to right (A then B then C)", "It does not matter due to commutative laws", "Alphabetical order of matrix names", "From right to left (working closest to the vector first: C × B × A × v)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for a transformation matrix whose determinant is equal to 1 or -1, meaning areas are preserved?",
+      "a": ["Equiradial matrix", "Singular matrix", "Zero matrix", "Identity matrix"],
+      "correct": 0
+    },
+    {
+      "q": "If a matrix transformation maps every point to the origin (0, 0), what is that matrix called?",
+      "a": ["The identity matrix", "The zero matrix", "An inverse matrix", "A diagonal matrix"],
+      "correct": 1
+    },
+    {
+      "q": "What is the effect of an enlargement matrix with scale factor k equal to 1?",
+      "a": ["It shrinks the shape to a point", "It doubles the area", "It acts as an identity transformation leaving the shape unchanged", "It inverts the shape completely"],
+      "correct": 2
+    },
+    {
+      "q": "If triangle P has an area of 10 and is transformed to triangle Q with an area of 40, what could be the determinant of the transformation matrix?",
+      "a": ["2", "3", "0.25", "4 (or -4)"],
+      "correct": 3
+    },
+    {
+      "q": "Which property is always preserved under any linear 2×2 matrix transformation?",
+      "a": ["Straight lines remain straight lines and the origin remains fixed", "All angles and lengths remain identical", "Area is always preserved", "Orientation is never reversed"],
+      "correct": 0
+    },
+    {
+      "q": "If a transformation matrix is [0, 1; 1, 0], what happens to the point (5, 2)?",
+      "a": ["It remains at (5, 2)", "It moves to (2, 5)", "It moves to (-5, -2)", "It moves to (5, -2)"],
+      "correct": 1
+    },
+    {
+      "q": "What does multiplying a transformation matrix by a scalar factor k do to the resulting transformation?",
+      "a": ["It rotates the shape by k degrees", "It translates the shape by k units", "It multiplies both the x and y coordinates of the image by k (uniform scaling)", "It has no effect on the coordinates"],
+      "correct": 2
+    },
+    {
+      "q": "If matrix T represents a reflection in the x-axis, what is T²?",
+      "a": ["A reflection in the y-axis", "A rotation of 180°", "A zero matrix", "An identity matrix"],
+      "correct": 3
+    },
+    {
+      "q": "What is the determinant of the identity matrix [1, 0; 0, 1]?",
+      "a": ["1", "0", "-1", "2"],
+      "correct": 0
+    },
+    {
+      "q": "If the matrix for a transformation is [k, 0; 0, 1], what kind of transformation is this?",
+      "a": ["A rotation about the origin", "A one-way stretch (or frustum scale) parallel to the x-axis with scale factor k", "A reflection in the line y = x", "A translation"],
+      "correct": 1
+    },
+    {
+      "q": "Why can matrix transformations not perform pure translations from the origin alone?",
+      "a": ["Because matrices cannot contain negative numbers", "Because matrix multiplication always scales or rotates around (0, 0), meaning (0, 0) can never move", "Because translation requires calculus", "Because vectors must always be square"],
+      "correct": 2
+    },
+    {
+      "q": "If a transformation matrix is [2, 0; 0, 2], what is the linear scale factor of length?",
+      "a": ["4", "2√2", "8", "2"],
+      "correct": 3
+    }
+  ]
+}

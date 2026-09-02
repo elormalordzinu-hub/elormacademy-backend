@@ -1,0 +1,206 @@
+{
+  "id": "math-yr9-quizzes-standard-form",
+  "name": "Standard form and scientific notation",
+  "questions": [
+    {
+      "q": "Which of the following numbers is written in correct standard form?",
+      "a": ["4.5 × 10³", "45 × 10²", "0.45 × 10⁴", "4.5³"],
+      "correct": 0
+    },
+    {
+      "q": "Express 450,000 in standard form.",
+      "a": ["4.5 × 10⁴", "4.5 × 10⁵", "45 × 10⁴", "0.45 × 10⁶"],
+      "correct": 1
+    },
+    {
+      "q": "Write 0.00032 in standard form.",
+      "a": ["3.2 × 10⁻³", "32 × 10⁻⁵", "3.2 × 10⁻⁴", "0.32 × 10⁻³"],
+      "correct": 2
+    },
+    {
+      "q": "What is the value of (2.0 × 10³) × (3.0 × 10²) in standard form?",
+      "a": ["6.0 × 10⁵", "5.0 × 10⁵", "6.0 × 10⁶", "5.0 × 10⁶"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate (8.0 × 10⁶) / (2.0 × 10²) in standard form.",
+      "a": ["4.0 × 10⁴", "4.0 × 10³", "6.0 × 10⁴", "4.0 × 10⁸"],
+      "correct": 0
+    },
+    {
+      "q": "Add (3.2 × 10⁴) and (5.1 × 10⁴) giving your answer in standard form.",
+      "a": ["8.3 × 10⁸", "8.3 × 10⁴", "83 × 10³", "8.3 × 10⁵"],
+      "correct": 1
+    },
+    {
+      "q": "Which is the largest number?",
+      "a": ["3.4 × 10⁵", "5.1 × 10⁴", "1.2 × 10⁶", "9.9 × 10⁴"],
+      "correct": 2
+    },
+    {
+      "q": "Which is the smallest number?",
+      "a": ["1.5 × 10⁻²", "2.1 × 10⁻³", "9.0 × 10⁻³", "5.0 × 10⁻⁴"],
+      "correct": 3
+    },
+    {
+      "q": "Write 78.5 × 10³ in proper standard form.",
+      "a": ["7.85 × 10⁴", "7.85 × 10²", "0.785 × 10⁵", "785 × 10²"],
+      "correct": 0
+    },
+    {
+      "q": "Write 0.000072 in standard form.",
+      "a": ["7.2 × 10⁻⁴", "7.2 × 10⁻⁵", "72 × 10⁻⁶", "0.72 × 10⁻⁴"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate (4.0 × 10⁵) × (2.5 × 10³) in standard form.",
+      "a": ["1.0 × 10⁸", "10 × 10⁸", "1.0 × 10⁹", "1.0 × 10⁷"],
+      "correct": 2
+    },
+    {
+      "q": "Calculate (9.6 × 10⁷) / (3.0 × 10³) in standard form.",
+      "a": ["3.2 × 10³", "3.2 × 10⁵", "3.2 × 10⁷", "3.2 × 10⁴"],
+      "correct": 3
+    },
+    {
+      "q": "What is 5.4 × 10⁻³ written as an ordinary number?",
+      "a": ["0.0054", "0.054", "0.00054", "5400"],
+      "correct": 0
+    },
+    {
+      "q": "What is 6.12 × 10⁴ written as an ordinary number?",
+      "a": ["6120", "61200", "612000", "0.000612"],
+      "correct": 1
+    },
+    {
+      "q": "Subtract (4.5 × 10⁵) from (7.0 × 10⁵) in standard form.",
+      "a": ["2.5 × 10¹⁰", "2.5 × 10⁰", "2.5 × 10⁵", "2.5 × 10⁶"],
+      "correct": 2
+    },
+    {
+      "q": "If x = 3.0 × 10⁴, what is x² in standard form?",
+      "a": ["9.0 × 10⁸", "9.0 × 10⁷", "9.0 × 10¹⁶", "9.0 × 10⁹"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate (1.5 × 10²) + (2.5 × 10³) in standard form.",
+      "a": ["2.65 × 10³", "4.0 × 10⁵", "2.65 × 10⁵", "2.65 × 10²"],
+      "correct": 0
+    },
+    {
+      "q": "Find the product of 2.0 × 10⁻⁴ and 4.0 × 10⁻².",
+      "a": ["8.0 × 10⁻⁸", "8.0 × 10⁻⁶", "8.0 × 10⁻⁵", "8.0 × 10⁶"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is equivalent to 500 million in standard form?",
+      "a": ["5.0 × 10⁶", "5.0 × 10⁷", "5.0 × 10⁸", "5.0 × 10⁹"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is equivalent to 45 thousandths in standard form?",
+      "a": ["4.5 × 10⁻³", "4.5 × 10⁻⁴", "4.5 × 10⁻¹", "4.5 × 10⁻²"],
+      "correct": 3
+    },
+    {
+      "q": "Divide (6.4 × 10⁻²) by (2.0 × 10²) in standard form.",
+      "a": ["3.2 × 10⁻⁴", "3.2 × 10⁻²", "3.2 × 10⁰", "3.2 × 10⁻³"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate (3.0 × 10³)³ in standard form.",
+      "a": ["2.7 × 10⁶", "2.7 × 10¹⁰", "2.7 × 10⁹", "9.0 × 10⁹"],
+      "correct": 1
+    },
+    {
+      "q": "Express 0.000000456 in standard form to 2 significant figures.",
+      "a": ["4.5 × 10⁻⁷", "4.6 × 10⁻⁶", "4.6 × 10⁻⁷", "4.56 × 10⁻⁷"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate ((5.0 × 10⁴) × (6.0 × 10⁵)) / (2.0 × 10²).",
+      "a": ["1.5 × 10⁸", "1.5 × 10⁶", "1.5 × 10⁷", "1.5 × 10⁹"],
+      "correct": 3
+    },
+    {
+      "q": "If the mass of an atom is 1.67 × 10⁻²⁴ grams, find the mass of 1,000 such atoms.",
+      "a": ["1.67 × 10⁻²¹ g", "1.67 × 10⁻²⁷ g", "1.67 × 10⁻²⁰ g", "1.67 × 10⁻²⁴ g"],
+      "correct": 0
+    },
+    {
+      "q": "A light year is approximately 9.46 × 10¹² km. Write this distance for 100 light years.",
+      "a": ["9.46 × 10¹³ km", "9.46 × 10¹⁴ km", "9.46 × 10¹² km", "9.46 × 10¹⁵ km"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate (8.4 × 10⁵) - (2.0 × 10⁴) giving your answer in standard form.",
+      "a": ["8.2 × 10¹", "8.2 × 10⁴", "8.2 × 10⁵", "6.4 × 10⁵"],
+      "correct": 2
+    },
+    {
+      "q": "Which expression equals 1?",
+      "a": ["(1.0 × 10³)⁰", "1.0 × 10⁻¹", "0 × 10⁵", "(1.0 × 10⁰)⁵"],
+      "correct": 3
+    },
+    {
+      "q": "What is the square root of 1.6 × 10⁷ in standard form?",
+      "a": ["4.0 × 10³", "4.0 × 10⁷", "1.6 × 10³", "4.0 × 10⁶"],
+      "correct": 0
+    },
+    {
+      "q": "If y = 4.0 × 10⁻³, what is y² in standard form?",
+      "a": ["1.6 × 10⁻⁹", "1.6 × 10⁻⁵", "1.6 × 10⁻⁶", "8.0 × 10⁻⁶"],
+      "correct": 1
+    },
+    {
+      "q": "Estimate (3.9 × 10⁴) × (5.1 × 10²) by rounding to 1 significant figure first.",
+      "a": ["2.0 × 10⁵", "2.0 × 10⁶", "2.0 × 10⁷", "2.0 × 10⁸"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate (7.2 × 10⁸) / (9.0 × 10²) in standard form.",
+      "a": ["8.0 × 10⁴", "8.0 × 10⁷", "8.0 × 10⁵", "8.0 × 10⁶"],
+      "correct": 3
+    },
+    {
+      "q": "Write 0.00506 in standard form.",
+      "a": ["5.06 × 10⁻³", "5.06 × 10⁻²", "5.06 × 10⁻⁴", "50.6 × 10⁻⁴"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate (2.5 × 10⁴) + (7.5 × 10⁴) in standard form.",
+      "a": ["1.0 × 10⁴", "1.0 × 10⁵", "1.0 × 10⁹", "1.0 × 10⁸"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of p if 45,000 = 4.5 × 10ᵖ.",
+      "a": ["p = 3", "p = 5", "p = 4", "p = 6"],
+      "correct": 2
+    },
+    {
+      "q": "Find the value of k if 0.00008 = 8.0 × 10ᵏ.",
+      "a": ["k = -4", "k = -6", "k = 5", "k = -5"],
+      "correct": 3
+    },
+    {
+      "q": "Simplify (1.2 × 10³) × (5.0 × 10⁻¹) in standard form.",
+      "a": ["6.0 × 10²", "6.0 × 10³", "6.0 × 10⁴", "6.0 × 10¹"],
+      "correct": 0
+    },
+    {
+      "q": "If A = 2.0 × 10⁶ and B = 4.0 × 10⁵, what is A + B in standard form?",
+      "a": ["6.0 × 10¹¹", "2.4 × 10⁶", "2.4 × 10⁵", "6.0 × 10⁶"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate (3.6 × 10⁻⁴) / (4.0 × 10⁻²) in standard form.",
+      "a": ["9.0 × 10⁻³", "9.0 × 10⁻¹", "9.0 × 10⁻³", "9.0 × 10⁻²"],
+      "correct": 2
+    },
+    {
+      "q": "Which number is equal to 3.45 × 10⁴?",
+      "a": ["345", "3450", "345000", "34500"],
+      "correct": 3
+    }
+  ]
+}

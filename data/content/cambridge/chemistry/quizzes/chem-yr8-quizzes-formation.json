@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-formation",
+  "name": "Formation of compounds and mixtures",
+  "questions": [
+    {
+      "q": "What term describes a substance made of two or more different elements chemically bonded together in a fixed ratio?",
+      "a": ["Compound", "Mixture", "Element", "Solution"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following characteristics is true for a physical mixture?",
+      "a": ["Its components always react chemically", "Its components can be separated easily by physical methods", "It has a fixed chemical formula", "Its properties are completely different from its ingredients"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the properties of elements when they chemically react to form a compound?",
+      "a": ["They stay exactly the same", "They disappear entirely without trace", "They change completely, forming a substance with new properties", "They become magnetic"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is an example of a chemical compound rather than a mixture?",
+      "a": ["Air", "Granite rock", "Seawater", "Carbon dioxide"],
+      "correct": 3
+    },
+    {
+      "q": "How can the components of an iron and sulfur mixture be easily separated without a chemical reaction?",
+      "a": ["Using a magnet to attract the iron", "Using fractional distillation", "Heating them strongly until they melt together", "Adding hydrochloric acid"],
+      "correct": 0
+    },
+    {
+      "q": "What is formed when iron powder and sulfur powder are heated strongly together until a chemical reaction takes place?",
+      "a": ["A mixture of iron and sulfur", "Iron(II) sulfide compound", "Pure sulfur dioxide gas", "An alloy of steel"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following represents a mixture rather than a pure chemical compound?",
+      "a": ["Water (H2O)", "Sodium chloride (NaCl)", "Saltwater solution", "Carbon monoxide (CO)"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a mixture of hydrogen and oxygen gas behave differently than a molecule of water?",
+      "a": ["Water is a gas at room temperature", "Hydrogen and oxygen are compounds", "Water can be separated by a magnet", "Hydrogen and oxygen in a mixture are not chemically bonded and retain their individual gas properties"],
+      "correct": 3
+    },
+    {
+      "q": "What type of change is involved when a chemical compound is formed from its elements?",
+      "a": ["A chemical change", "A physical change", "A phase change only", "A magnetic change"],
+      "correct": 0
+    },
+    {
+      "q": "Which statement best contrasts compounds and mixtures?",
+      "a": ["Compounds have variable composition while mixtures have fixed composition", "Compounds have fixed chemical formulas and chemical bonding, whereas mixtures have variable composition and physical bonding", "Both compounds and mixtures require chemical reactions to separate", "Neither compounds nor mixtures have properties related to their elements"],
+      "correct": 1
+    },
+    {
+      "q": "When sulfur and iron react to form iron sulfide, what can be said about the mass of the products compared to the reactants?",
+      "a": ["Mass increases significantly", "Mass decreases because gas escapes", "Total mass remains exactly the same (conservation of mass)", "Mass becomes zero"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these everyday materials is classified as a mixture?",
+      "a": ["Pure sugar (sucrose)", "Distilled water", "Pure copper wire", "Brass (an alloy of copper and zinc)"],
+      "correct": 3
+    },
+    {
+      "q": "Can the components of a chemical compound be separated by simple physical methods like filtration or magnetism?",
+      "a": ["No, chemical reactions or electrolysis are required", "Yes, easily with a magnet", "Yes, by filtering through paper", "Yes, by leaving it in the sun"],
+      "correct": 0
+    },
+    {
+      "q": "What is formed when carbon burns completely in a sufficient supply of oxygen gas?",
+      "a": ["Carbon monoxide", "Carbon dioxide compound", "Pure hydrocarbon mixture", "Silicon dioxide"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances cannot be broken down into simpler substances by chemical or physical means?",
+      "a": ["Water", "Salt", "Oxygen element", "Carbon dioxide"],
+      "correct": 2
+    },
+    {
+      "q": "In a mixture of sand and salt dissolved in water, how do the individual substances behave?",
+      "a": ["They combine to form a new chemical compound", "They react to produce heat and gas", "They change their atomic numbers", "They retain their individual chemical properties"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes a mixture where substances are not evenly distributed throughout (like oil and water)?",
+      "a": ["Heterogeneous mixture", "Homogeneous mixture", "Pure compound", "Aqueous solution"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes a uniform mixture where components are completely blended on a microscopic level (like saltwater)?",
+      "a": ["Heterogeneous mixture", "Homogeneous mixture", "Suspension", "Crude emulsion"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following processes is required to separate the elements hydrogen and water from liquid water?",
+      "a": ["Simple filtration", "Magnetic separation", "Electrolysis (passing an electric current through water)", "Evaporation to dryness"],
+      "correct": 2
+    },
+    {
+      "q": "Why is air classified as a mixture rather than a compound?",
+      "a": ["It has a fixed chemical formula like A2", "Its gases are chemically bonded together", "It is always a liquid at room temperature", "Its gases (nitrogen, oxygen, argon, etc.) can vary slightly in proportion and are not chemically bonded"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to energy (heat or light) during the formation of many chemical compounds from elements?",
+      "a": ["Energy is often released or absorbed", "Energy is destroyed completely", "Energy is turned into solid mass", "No energy change ever occurs"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is a key feature of a chemical compound?",
+      "a": ["It can be separated by sorting with tweezers", "The elements combine in fixed, definite proportions by mass", "Its boiling point varies depending on how much you mix", "It looks identical to its starting elements"],
+      "correct": 1
+    },
+    {
+      "q": "If you mix 10 grams of iron filings and 10 grams of sulfur powder in a beaker without heating, what do you have?",
+      "a": ["Iron sulfide compound", "A pure element", "A physical mixture of iron and sulfur", "A liquid solution"],
+      "correct": 2
+    },
+    {
+      "q": "Which separation technique is appropriate for separating a soluble solid compound from its liquid solution?",
+      "a": ["Filtration", "Magnetic attraction", "Decantation", "Crystallization / Evaporation"],
+      "correct": 3
+    },
+    {
+      "q": "What is formed when a metal reacts chemically with oxygen?",
+      "a": ["A metal oxide compound", "A non-metal mixture", "An unreactive gas", "A neutral liquid"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances is a chemical compound containing hydrogen and oxygen?",
+      "a": ["Atmospheric air", "Water", "A mixture of hydrogen and oxygen gases", "A cloud of steam droplets"],
+      "correct": 1
+    },
+    {
+      "q": "How do the melting points of pure compounds compare to mixtures?",
+      "a": ["Compounds melt over a wide range of temperatures", "Compounds have no melting point", "Pure compounds melt at a sharp, specific, fixed temperature", "Mixtures always melt at higher temperatures than compounds"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is true regarding the naming of simple binary compounds made from a metal and a non-metal?",
+      "a": ["The non-metal name comes first", "The metal name is changed to end in -ide", "The names are chosen randomly", "The metal name comes first, and the non-metal name ends in -ide"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical name for the compound formed when magnesium burns brightly in oxygen?",
+      "a": ["Magnesium oxide", "Magnesium sulfide", "Magnesium carbonate", "Magnesium chloride"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following best describes the composition of a chemical compound?",
+      "a": ["Variable proportions depending on the maker", "Constant and fixed proportions of elements", "Random collection of molecules", "Only found in liquid states"],
+      "correct": 1
+    },
+    {
+      "q": "If sulfur burns in air, it forms sulfur dioxide. Is sulfur dioxide an element, a mixture, or a compound?",
+      "a": ["An element", "A physical mixture", "A chemical compound", "A solution"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement is incorrect when comparing mixtures and compounds?",
+      "a": ["Compounds have chemical bonds between atoms", "Mixtures can be separated by physical methods", "Compounds retain the exact physical properties of their constituent elements", "Mixtures do not have fixed chemical formulas"],
+      "correct": 3
+    },
+    {
+      "q": "What is formed when hydrochloric acid reacts with calcium carbonate?",
+      "a": ["A chemical reaction producing a salt, water, and carbon dioxide gas", "A simple physical mixture of rock and acid", "An unreactive mixture with no changes", "Pure hydrogen gas only"],
+      "correct": 0
+    },
+    {
+      "q": "Why is petroleum (crude oil) considered a mixture rather than a compound?",
+      "a": ["It is a black solid", "It is a mixture of different hydrocarbons that can be separated by physical fractional distillation", "It has a single fixed boiling point", "It is made of only one element"],
+      "correct": 1
+    },
+    {
+      "q": "When table salt (sodium chloride) is dissolved in water to form saltwater, what kind of system has been created?",
+      "a": ["A pure chemical compound", "A heterogeneous solid", "A homogeneous mixture (solution)", "A new chemical element"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following methods would successfully separate a mixture of iron filings and sand?",
+      "a": ["Dissolving in water and filtering", "Heating to high temperatures", "Using fractional distillation", "Using a magnet to attract the iron filings"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the individual atoms of elements when they form a compound?",
+      "a": ["They join together through chemical bonding", "They destroy each other", "They turn into subatomic particles", "They separate further apart"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is a compound formed from sodium and chlorine?",
+      "a": ["Sodium gas", "Sodium chloride", "Chlorine bleach", "Sodium carbonate"],
+      "correct": 1
+    },
+    {
+      "q": "In a laboratory experiment, hydrogen and oxygen are mixed in a test tube. No spark is applied. What is inside the test tube?",
+      "a": ["Pure water compound", "A chemical reaction product", "A physical mixture of two gases", "Solid ice"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following describes a key difference in how properties are exhibited?",
+      "a": ["Compounds show the properties of their elements", "Mixtures lose all properties of their ingredients", "Compounds look like physical cocktails", "Mixtures retain the properties of the individual substances that make them up"],
+      "correct": 3
+    }
+  ]
+}

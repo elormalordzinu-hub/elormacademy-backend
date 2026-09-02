@@ -1,0 +1,186 @@
+{
+"id": "phys-yr9-quizzes-energy",
+"name": "Energy stores and transfers",
+"questions": [
+{
+"q": "Which of the following describes the energy stored in a stretched or compressed spring?",
+"a": ["Elastic potential energy", "Chemical potential energy", "Gravitational potential energy", "Thermal energy"],
+"correct": 0
+},
+{
+"q": "What type of energy store is associated with food, fuels, and batteries?",
+"a": ["Kinetic energy store", "Chemical energy store", "Nuclear energy store", "Magnetic energy store"],
+"correct": 1
+},
+{
+"q": "Which pathway describes energy transferred by means of a force acting over a distance?",
+"a": ["Heating pathway", "Radiation pathway", "Mechanical working pathway", "Electrical working pathway"],
+"correct": 2
+},
+{
+"q": "What happens to the gravitational potential energy of an object when it is lifted upwards at a constant speed?",
+"a": ["It decreases", "It remains completely zero", "It transforms entirely into sound", "It increases"],
+"correct": 3
+},
+{
+"q": "Which energy store increases when a car accelerates and moves faster along a road?",
+"a": ["Kinetic energy store", "Thermal energy store", "Elastic energy store", "Chemical energy store"],
+"correct": 0
+},
+{
+"q": "What energy transfer pathway is primarily responsible for warming your hands when you hold a hot mug of tea?",
+"a": ["Electrical working", "Heating by particles (thermal conduction)", "Radiation by light", "Mechanical working"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of an object with stored gravitational potential energy?",
+"a": ["A flat puddle on the ground", "A battery sitting on a desk", "A heavy box resting on a high shelf", "A tightly wound clock spring"],
+"correct": 2
+},
+{
+"q": "When an electric lamp is switched on, electrical energy is transferred into light energy and which unwanted energy store?",
+"a": ["Kinetic energy", "Chemical energy", "Nuclear energy", "Thermal energy (heat released to surroundings)"],
+"correct": 3
+},
+{
+"q": "What law states that energy cannot be created or destroyed, only transferred from one store to another?",
+"a": ["The law of conservation of energy", "Hooke's law", "Newton's first law", "Ohm's law"],
+"correct": 0
+},
+{
+"q": "Which energy store is filled when water is heated behind a boiler element?",
+"a": ["Chemical energy", "Thermal energy", "Elastic energy", "Magnetic energy"],
+"correct": 1
+},
+{
+"q": "As a ball is thrown straight up into the air, what happens to its kinetic energy as it climbs higher?",
+"a": ["It stays constant", "It increases continuously", "It decreases as it slows down", "It turns into sound energy only"],
+"correct": 2
+},
+{
+"q": "Which pathway transfers energy from the Sun to the Earth across the vacuum of space?",
+"a": ["Mechanical working", "Electrical working", "Conduction through air", "Radiation (light and infrared waves)"],
+"correct": 3
+},
+{
+"q": "What energy transfer takes place when a battery-powered torch is turned on?",
+"a": ["Chemical to electrical then light and thermal", "Kinetic to potential", "Thermal to nuclear", "Elastic to magnetic"],
+"correct": 0
+},
+{
+"q": "Which term describes the total amount of energy in a closed system remaining constant over time?",
+"a": ["Energy dissipation", "Energy conservation", "Power degradation", "Work done"],
+"correct": 1
+},
+{
+"q": "If a roller coaster car rolls down from the top of a high track, what energy conversion is primarily taking place?",
+"a": ["Kinetic to chemical", "Thermal to gravitational potential", "Gravitational potential to kinetic energy", "Elastic to nuclear energy"],
+"correct": 2
+},
+{
+"q": "What unit is used to measure energy in scientific calculations?",
+"a": ["Watts (W)", "Newtons (N)", "Kilograms (kg)", "Joules (J)"],
+"correct": 3
+},
+{
+"q": "Which factor affects the amount of kinetic energy an object has?",
+"a": ["Its mass and its speed", "Its color and temperature", "Its height above ground only", "Its volume alone"],
+"correct": 0
+},
+{
+"q": "What kind of energy is stored in the nucleus of an atom?",
+"a": ["Thermal energy", "Nuclear energy", "Elastic energy", "Gravitational energy"],
+"correct": 1
+},
+{
+"q": "When you rub your hands together vigorously, what energy conversion causes them to warm up?",
+"a": ["Chemical energy into sound", "Thermal energy into kinetic energy", "Kinetic energy into thermal energy via friction", "Potential energy into nuclear energy"],
+"correct": 2
+},
+{
+"q": "Which of these devices transfers electrical energy mainly into sound energy?",
+"a": ["A toaster", "An electric heater", "A standard desk lamp", "A loudspeaker"],
+"correct": 3
+},
+{
+"q": "What energy store does a stretched rubber band rely on when released to shoot across a room?",
+"a": ["Elastic potential energy", "Gravitational energy", "Chemical energy", "Magnetic energy"],
+"correct": 0
+},
+{
+"q": "Which energy pathway involves an electric current flowing through a circuit component?",
+"a": ["Radiation pathway", "Electrical working pathway", "Mechanical working pathway", "Heating pathway"],
+"correct": 1
+},
+{
+"q": "Why does a bouncing ball eventually stop bouncing and come to rest on the floor?",
+"a": ["It runs out of mass.", "Gravity stops acting on it.", "Its energy is gradually transferred to the surroundings as thermal energy and sound.", "Energy is destroyed during impact."],
+"correct": 2
+},
+{
+"q": "Which of the following objects has the greatest gravitational potential energy relative to the floor, assuming similar masses?",
+"a": ["An object resting on the floor", "An object on a chair", "An object on a table", "An object on a high rooftop"],
+"correct": 3
+},
+{
+"q": "What happens to the chemical energy store of a person who eats food and then runs a race?",
+"a": ["It decreases as energy is transferred to kinetic and thermal stores.", "It increases rapidly.", "It stays completely unchanged.", "It converts into nuclear energy."],
+"correct": 0
+},
+{
+"q": "Which energy store is associated with magnets attracting or repelling each other?",
+"a": ["Electrostatic store", "Magnetic energy store", "Kinetic store", "Chemical store"],
+"correct": 1
+},
+{
+"q": "What energy transformation occurs when a photovoltaic solar panel generates electricity from sunlight?",
+"a": ["Electrical to light", "Thermal to chemical", "Light (radiation) to electrical energy", "Kinetic to potential"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes 'work done' in physics?",
+"a": ["The time taken to complete a task", "The total mass of an object", "The temperature of a system", "Energy transferred when a force moves an object"],
+"correct": 3
+},
+{
+"q": "If an object is lifted twice as high, what happens to its gravitational potential energy, assuming mass and gravity are constant?",
+"a": ["It doubles", "It halves", "It stays the same", "It quadruples"],
+"correct": 0
+},
+{
+"q": "Which energy store is primarily responsible for keeping a hot cup of coffee warm for a short period?",
+"a": ["Chemical store", "Thermal energy store", "Elastic store", "Magnetic store"],
+"correct": 1
+},
+{
+"q": "What energy change happens when a wind turbine spins in the wind to generate electricity?",
+"a": ["Electrical energy to kinetic energy", "Thermal energy to light", "Kinetic energy of moving air into electrical energy", "Chemical energy to sound"],
+"correct": 2
+},
+{
+"q": "Which of the following is a non-renewable energy resource commonly used to generate electricity?",
+"a": ["Wind power", "Solar power", "Hydroelectric power", "Coal"],
+"correct": 3
+},
+{
+"q": "What energy store increases when a spring is compressed tightly?",
+"a": ["Elastic potential energy store", "Kinetic energy store", "Gravitational store", "Nuclear store"],
+"correct": 0
+},
+{
+"q": "Which term is defined as the rate at which energy is transferred or work is done?",
+"a": ["Energy", "Power", "Density", "Velocity"],
+"correct": 1
+},
+{
+"q": "What energy transformation takes place inside a microphone when someone speaks into it?",
+"a": ["Electrical energy into sound", "Thermal energy into light", "Sound energy into electrical energy", "Kinetic energy into nuclear energy"],
+"correct": 2
+},
+{
+"q": "Which energy store is emptied when a piece of wood burns in a campfire?",
+"a": ["Elastic store", "Magnetic store", "Gravitational store", "Chemical energy store"],
+"correct": 3
+}
+]
+}

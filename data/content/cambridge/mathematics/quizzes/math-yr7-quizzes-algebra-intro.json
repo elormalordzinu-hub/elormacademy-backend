@@ -1,0 +1,206 @@
+{
+  "id": "math-yr7-quizzes-algebra-intro",
+  "name": "Introduction to algebraic expressions and substitution",
+  "questions": [
+    {
+      "q": "Simplify the expression by collecting like terms: 3x + 5y + 2x - y",
+      "a": ["5x + 4y", "5x + 6y", "x + 6y", "6xy"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate the expression 4a - 3 when a = 5",
+      "a": ["8", "17", "20", "23"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following represents 'three times a number x increased by 7'?",
+      "a": ["3(x + 7)", "x + 3 × 7", "3x + 7", "7x + 3"],
+      "correct": 2
+    },
+    {
+      "q": "Simplify: 5p × 3q",
+      "a": ["8pq", "15 + pq", "15p + q", "15pq"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate 2x² + 3 when x = 4",
+      "a": ["35", "19", "67", "11"],
+      "correct": 0
+    },
+    {
+      "q": "Expand the brackets: 3(4x - 5)",
+      "a": ["12x - 5", "12x - 15", "7x - 2", "12x + 15"],
+      "correct": 1
+    },
+    {
+      "q": "Simplify the expression: 7m - 2m + 4m",
+      "a": ["5m", "13m", "9m", "9"],
+      "correct": 2
+    },
+    {
+      "q": "Find the value of 10 - 2k when k = 3",
+      "a": ["24", "16", "8", "4"],
+      "correct": 3
+    },
+    {
+      "q": "Write an algebraic expression for 'five less than double a number y'.",
+      "a": ["2y - 5", "5 - 2y", "2(y - 5)", "5y - 2"],
+      "correct": 0
+    },
+    {
+      "q": "Simplify: 24ab / 6a",
+      "a": ["4ab", "4b", "18b", "4a"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate the expression (b + 3)² when b = 2",
+      "a": ["13", "11", "25", "7"],
+      "correct": 2
+    },
+    {
+      "q": "Expand and simplify: 2(3x + 4) + 3(x - 1)",
+      "a": ["9x + 5", "6x + 8", "9x + 8", "9x + 5"],
+      "correct": 3
+    },
+    {
+      "q": "If p = 3 and q = -2, find the value of 4p + 3q",
+      "a": ["6", "18", "0", "12"],
+      "correct": 0
+    },
+    {
+      "q": "Which expression is equivalent to x + x + x + x?",
+      "a": ["x⁴", "4x", "4 + x", "x/4"],
+      "correct": 1
+    },
+    {
+      "q": "Simplify: 8xy - 3yx + 2xy",
+      "a": ["13xy", "3xy", "7xy", "5xy"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate: 5ab / b when a = 4 and b = -3",
+      "a": ["-15", "60", "20", "20"],
+      "correct": 3
+    },
+    {
+      "q": "Expand: -4(2x - 3)",
+      "a": ["-8x + 12", "-8x - 12", "8x - 12", "-6x + 7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the perimeter of a rectangle with length 2x + 1 and width x + 3 in terms of x.",
+      "a": ["3x + 4", "6x + 8", "3x + 8", "6x + 4"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate x³ - 2x when x = 3",
+      "a": ["15", "27", "21", "25"],
+      "correct": 2
+    },
+    {
+      "q": "Simplify: 12m² / 3m",
+      "a": ["4m²", "9m", "4", "4m"],
+      "correct": 3
+    },
+    {
+      "q": "Write an expression for 'the sum of three consecutive integers where the smallest is n'.",
+      "a": ["3n + 3", "3n + 1", "n + (n+1) + (n+3)", "3n"],
+      "correct": 0
+    },
+    {
+      "q": "Evaluate: 3(x + 4) - 2(x - 1) when x = 5",
+      "a": ["14", "21", "19", "25"],
+      "correct": 1
+    },
+    {
+      "q": "Expand and simplify: 5(2 - x) + 3(x + 4)",
+      "a": ["22 - 2x", "22 + 8x", "22 - 2x", "10 - 2x"],
+      "correct": 2
+    },
+    {
+      "q": "If x = -3, what is the value of -2x² + 5x - 1?",
+      "a": ["-22", "-4", "-34", "-34"],
+      "correct": 3
+    },
+    {
+      "q": "Simplify fully: 6a + 3b - 2a + 4b",
+      "a": ["4a + 7b", "8a + 7b", "4a - b", "11ab"],
+      "correct": 0
+    },
+    {
+      "q": "What is the product of 3x and 4x²?",
+      "a": ["12x²", "12x³", "7x³", "12x"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate: (x + y) / (x - y) when x = 7 and y = 3",
+      "a": ["1", "4", "2.5", "2"],
+      "correct": 2
+    },
+    {
+      "q": "Simplify: 15pqr / 5pr",
+      "a": ["3pqr", "10q", "3p", "3q"],
+      "correct": 3
+    },
+    {
+      "q": "Write an algebraic expression for 'half of a number x increased by 10'.",
+      "a": ["(x / 2) + 10", "x / (2 + 10)", "2x + 10", "10x / 2"],
+      "correct": 0
+    },
+    {
+      "q": "Expand: x(x + 5) - 3(x - 2)",
+      "a": ["x² + 2x - 6", "x² + 2x + 6", "x² + 8x + 6", "x² - 2x + 6"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of 5 + 3(2x - 1) when x = 4",
+      "a": ["20", "25", "26", "29"],
+      "correct": 2
+    },
+    {
+      "q": "Simplify: 7xy + 2yx - 5xy + yx",
+      "a": ["3xy", "4xy", "6yx", "5xy"],
+      "correct": 3
+    },
+    {
+      "q": "If m = -4 and n = 5, what is the value of m² + n²?",
+      "a": ["41", "9", "-9", "-41"],
+      "correct": 0
+    },
+    {
+      "q": "Simplify: (4a³ × 2a²) / a",
+      "a": ["8a⁵", "8a⁴", "6a⁴", "8a³"],
+      "correct": 1
+    },
+    {
+      "q": "What is the perimeter of a regular hexagon with side length 3x - 2?",
+      "a": ["18x - 2", "9x - 12", "18x - 12", "18x + 12"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate: 4 + 2(3ˣ) when x = 2",
+      "a": ["40", "14", "22", "22"],
+      "correct": 3
+    },
+    {
+      "q": "Expand and simplify: 4(x + 3) - 2(2x - 1)",
+      "a": ["14", "8x + 10", "4x + 11", "12"],
+      "correct": 0
+    },
+    {
+      "q": "If a = 2, b = -3, and c = 4, evaluate: 3a² - 2b + c",
+      "a": ["12", "22", "16", "20"],
+      "correct": 1
+    },
+    {
+      "q": "Simplify: (18m⁴n²) / (6m²n)",
+      "a": ["3m²n²", "12m²n", "3m²n", "3mn²"],
+      "correct": 2
+    },
+    {
+      "q": "Write an expression for 'the product of three consecutive integers where the middle number is n'.",
+      "a": ["n(n+1)(n+2)", "n³", "n(n+1)", "n(n - 1)(n + 1)"],
+      "correct": 3
+    }
+  ]
+}

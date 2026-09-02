@@ -1,0 +1,186 @@
+{
+  "id": "phys-yr9-quizzes-speed",
+  "name": "Speed and distance-time graphs",
+  "questions": [
+    {
+      "q": "What is the standard scientific unit for speed in the International System of Units (SI)?",
+      "a": ["Meters per second (m/s)", "Kilometers per hour (km/h)", "Miles per hour (mph)", "Centimeters per minute (cm/min)"],
+      "correct": 0
+    },
+    {
+      "q": "How is average speed calculated mathematically?",
+      "a": ["Distance × Time", "Total distance / Total time", "Time / Distance", "Distance + Time"],
+      "correct": 1
+    },
+    {
+      "q": "On a distance-time graph, what physical quantity does the gradient or slope of the line represent?",
+      "a": ["Acceleration", "Total distance", "Speed", "Force"],
+      "correct": 2
+    },
+    {
+      "q": "What does a completely horizontal flat line on a distance-time graph indicate about the object?",
+      "a": ["It is moving at a constant high speed.", "It is accelerating rapidly.", "It is returning to its starting point at a steady rate.", "It is stationary (stopped)."],
+      "correct": 3
+    },
+    {
+      "q": "If a runner covers a distance of 100 meters in 10 seconds, what is their average speed?",
+      "a": ["10 m/s", "1000 m/s", "1 m/s", "50 m/s"],
+      "correct": 0
+    },
+    {
+      "q": "What does a steeper straight line on a distance-time graph signify compared to a shallower line?",
+      "a": ["A slower speed", "A higher speed", "A shorter distance traveled", "A longer time taken"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes speed that does not change over equal intervals of time?",
+      "a": ["Instantaneous speed", "Decelerating speed", "Constant (uniform) speed", "Average speed"],
+      "correct": 2
+    },
+    {
+      "q": "How would a journey involving steady acceleration be represented on a distance-time graph?",
+      "a": ["A flat horizontal line", "A straight downward sloping line", "A vertical line", "A curve whose gradient increases over time"],
+      "correct": 3
+    },
+    {
+      "q": "A car travels at a constant speed of 20 m/s for 5 seconds. What distance does it cover?",
+      "a": ["100 meters", "4 meters", "25 meters", "10 meters"],
+      "correct": 0
+    },
+    {
+      "q": "What is meant by the term 'instantaneous speed'?",
+      "a": ["The total distance divided by the total time of a trip", "The speed of an object at one specific moment in time", "The maximum possible speed of a vehicle", "The average speed during the final second"],
+      "correct": 1
+    },
+    {
+      "q": "If a distance-time graph curves upwards, what does this curvature tell you about the movement?",
+      "a": ["The object is stationary.", "The object is slowing down.", "The object is speeding up (accelerating).", "The object is moving backward."],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a scalar quantity, meaning it has magnitude only without a specified direction?",
+      "a": ["Velocity", "Displacement", "Acceleration", "Speed"],
+      "correct": 3
+    },
+    {
+      "q": "A train travels 150 kilometers in 2 hours. What is its average speed in kilometers per hour?",
+      "a": ["75 km/h", "300 km/h", "150 km/h", "50 km/h"],
+      "correct": 0
+    },
+    {
+      "q": "On a distance-time graph, what are the standard labels usually placed on the vertical and horizontal axes?",
+      "a": ["Time on vertical, Distance on horizontal", "Distance on vertical, Time on horizontal", "Speed on vertical, Time on horizontal", "Force on vertical, Distance on horizontal"],
+      "correct": 1
+    },
+    {
+      "q": "What does a downward sloping line on a distance-time graph typically represent in standard school contexts?",
+      "a": ["The object accelerating forward", "The object standing still", "The object returning to its starting position", "The object gaining massive weight"],
+      "correct": 2
+    },
+    {
+      "q": "If a cyclist travels at 12 m/s, how long will it take them to travel a distance of 60 meters?",
+      "a": ["12 seconds", "720 seconds", "60 seconds", "5 seconds"],
+      "correct": 3
+    },
+    {
+      "q": "Which formula correctly rearranges the speed equation to calculate distance?",
+      "a": ["Distance = Speed × Time", "Distance = Speed / Time", "Distance = Time / Speed", "Distance = Speed + Time"],
+      "correct": 0
+    },
+    {
+      "q": "What does an upward sloping straight line on a distance-time graph indicate?",
+      "a": ["The object is stopped.", "The object is moving at a constant speed.", "The object is slowing down.", "The object is falling freely."],
+      "correct": 1
+    },
+    {
+      "q": "Why is 'average speed' often used instead of 'constant speed' for real-world car journeys?",
+      "a": ["Cars always maintain exact speeds without stopping.", "Traffic lights and junctions mean cars constantly speed up, slow down, and stop.", "Speedometers are always inaccurate.", "Distance cannot be measured precisely."],
+      "correct": 2
+    },
+    {
+      "q": "If an object travels 40 meters in 8 seconds, what is its average speed?",
+      "a": ["8 m/s", "320 m/s", "48 m/s", "5 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "What does a curved line whose gradient decreases (getting flatter) on a distance-time graph represent?",
+      "a": ["Deceleration (slowing down)", "Constant speed", "Acceleration (speeding up)", "A stationary object"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following units is equivalent to meters per second when describing speed?",
+      "a": ["Kilometers per second", "Kilometers per hour (with conversion)", "Seconds per meter", "Newtons per kilogram"],
+      "correct": 1
+    },
+    {
+      "q": "How can you find the speed of an object at a specific point on a curved distance-time graph?",
+      "a": ["By reading the time value only", "By multiplying distance by time", "By drawing a tangent to the curve at that point and finding its gradient", "By dividing total time by total distance"],
+      "correct": 2
+    },
+    {
+      "q": "A bus travels at 15 m/s. How far does it travel in 1 minute (60 seconds)?",
+      "a": ["15 meters", "75 meters", "60 meters", "900 meters"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for the rate of change of distance with respect to time?",
+      "a": ["Speed", "Power", "Work", "Pressure"],
+      "correct": 0
+    },
+    {
+      "q": "If you look at the speedometer of a car during a journey, what type of speed does it display?",
+      "a": ["Average speed", "Instantaneous speed", "Terminal velocity", "Constant speed"],
+      "correct": 1
+    },
+    {
+      "q": "Which graph feature represents a higher rate of travel on a distance-time graph?",
+      "a": ["A lower total height", "A flatter curve", "A steeper gradient", "A longer horizontal section"],
+      "correct": 2
+    },
+    {
+      "q": "If a sprinter runs at an average speed of 10 m/s, how long does it take to complete a 200-meter race?",
+      "a": ["2 seconds", "2000 seconds", "20 hours", "20 seconds"],
+      "correct": 3
+    },
+    {
+      "q": "Which equation is correct for finding time when distance and speed are known?",
+      "a": ["Time = Distance / Speed", "Time = Speed × Distance", "Time = Distance + Speed", "Time = Speed / Distance"],
+      "correct": 0
+    },
+    {
+      "q": "What does a distance-time graph show us visually?",
+      "a": ["How the temperature of an object changes over time", "How the distance of an object from a starting point changes over time", "How the mass of an object varies with speed", "How forces balance each other out"],
+      "correct": 1
+    },
+    {
+      "q": "If a graph shows distance on the vertical axis and time on the horizontal axis, what does a horizontal line mean?",
+      "a": ["Speed is increasing rapidly.", "The object is moving backwards.", "Distance is not changing, so the object is stationary.", "Time has stopped."],
+      "correct": 2
+    },
+    {
+      "q": "A car covers 300 km in 4 hours. What is its average speed?",
+      "a": ["1200 km/h", "75 km/h", "300 km/h", "50 km/h"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the speed of an object in a particular specified direction?",
+      "a": ["Velocity", "Distance", "Mass", "Scalar speed"],
+      "correct": 0
+    },
+    {
+      "q": "If a student records the time taken for a toy car to roll down a ramp at intervals of 1 meter, what is the dependent variable in this investigation?",
+      "a": ["The ramp angle", "The time taken", "The starting position", "The mass of the car"],
+      "correct": 1
+    },
+    {
+      "q": "Which shape of a distance-time graph indicates that a car is traveling at an increasing speed?",
+      "a": ["A flat horizontal line", "A downward straight line", "An upward curve getting steeper", "A vertical line"],
+      "correct": 2
+    },
+    {
+      "q": "If an object travels at a speed of 8 m/s for 10 seconds, what distance does it travel?",
+      "a": ["1.25 meters", "18 meters", "2 meters", "80 meters"],
+      "correct": 3
+    }
+  ]
+}

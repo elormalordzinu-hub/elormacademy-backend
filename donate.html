@@ -1,0 +1,87 @@
+<!-- File: donate.html | System: Bright & Bold Learning Arena -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate | Bright and Bold</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://js.paystack.co/v1/inline.js"></script>
+</head>
+<body>
+
+    <nav>
+        <div class="logo">Support Us</div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-btn btn-home">Home</a>
+            <a href="about.html" class="nav-btn btn-about">About</a>
+            <a href="support.html" class="nav-btn btn-help">Help</a>
+        </div>
+    </nav>
+
+    <div class="content-container">
+        <h1>Fuel the Arena 🚀</h1>
+        <p class="subtitle">Your support helps us create more Educational content for students.</p>
+
+        <div class="donation-grid">
+            
+            <div class="donate-card">
+                <div class="card-title">Direct Support & Inquiries</div>
+                <p class="paypal-text" style="margin-bottom: 20px; color: #333;">
+                    Prefer chatting directly or requesting support/coupons via WhatsApp? Reach out to us instantly.
+                </p>
+                <div class="btn-stack" style="text-align: center;">
+                    <a href="https://wa.me/233201351763" class="btn-whatsapp" style="display: inline-block; padding: 12px 20px; background: #25d366; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">WhatsApp</a>
+                </div>
+            </div>
+
+            <div class="donate-card">
+                <div class="card-title">Global & Card Support</div>
+                
+                <p class="paypal-text">
+                    Support via international cards, mobile money, or bank transfer securely through Paystack.
+                </p>
+
+                <button class="paypal-btn" onclick="payWithPaystack()" style="border:none; cursor:pointer; width:100%; text-align:center;">
+                    Support via Paystack ➔
+                </button>
+                
+                <div class="momo-box email">
+                    <button class="copy-btn" onclick="copyToClipboard('elormalordzinu@gmail.com')">Copy</button>
+                    <div class="momo-label">Email Inquiries</div>
+                    <div class="momo-number" style="font-size: 0.85rem;">elormalordzinu@gmail.com</div>
+                    <div class="momo-name"> Get in Touch </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 BrightandBold Learning Arena.</p>
+    </footer>
+
+    <script>
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => alert('Copied: ' + text));
+        }
+
+        function payWithPaystack() {
+            let handler = PaystackPop.setup({
+                key: 'pk_test_588528bf96b6d0e1025c96eb994b7666e3043e28',
+                email: 'elormalordzinu@gmail.com',
+                amount: 10000,
+                currency: 'GHS',
+                ref: '' + Math.floor((Math.random() * 1000000000) + 1),
+                callback: function(response) {
+                    alert('Thank you for supporting Bright and Bold! Transaction reference: ' + response.reference);
+                },
+                onClose: function() {
+                    alert('Transaction window closed.');
+                }
+            });
+            handler.openIframe();
+        }
+    </script>
+</body>
+</html>

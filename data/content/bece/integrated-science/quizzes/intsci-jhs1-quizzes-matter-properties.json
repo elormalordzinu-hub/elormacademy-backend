@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-matter-properties",
+"name": "Matter Properties",
+"questions": [
+{
+"q": "Which of the following best defines matter?",
+"a": ["Anything that has mass and occupies space", "Only things that can be seen and touched", "Pure energy traveling through space", "Heat produced by chemical reactions"],
+"correct": 0
+},
+{
+"q": "What state of matter has a fixed volume but no fixed shape?",
+"a": ["Solid", "Liquid", "Gas", "Plasma"],
+"correct": 1
+},
+{
+"q": "Which of the following processes involves a change of state directly from solid to gas?",
+"a": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+"correct": 2
+},
+{
+"q": "What is the term for the tiny particles (atoms or molecules) that make up matter?",
+"a": ["Cells", "Tissues", "Organs", "Building blocks / Particles"],
+"correct": 3
+},
+{
+"q": "Which state of matter is characterized by particles that are closely packed in a fixed, regular pattern?",
+"a": ["Solid", "Liquid", "Gas", "Vapor"],
+"correct": 0
+},
+{
+"q": "What happens to the molecules of a liquid when it is heated to its boiling point?",
+"a": ["They contract and slow down", "They gain kinetic energy and escape into the gas phase", "They turn into hard solids", "They disappear completely"],
+"correct": 1
+},
+{
+"q": "Which of the following substances is classified as a pure chemical element?",
+"a": ["Water", "Air", "Oxygen", "Salt solution"],
+"correct": 2
+},
+{
+"q": "What term describes a mixture in which different components are completely uniform and mixed evenly throughout?",
+"a": ["Heterogeneous mixture", "Suspension", "Mechanical mixture", "Homogeneous mixture (Solution)"],
+"correct": 3
+},
+{
+"q": "Which of the following is a physical property of matter?",
+"a": ["Density", "Flammability", "Rusting tendency", "Chemical reactivity"],
+"correct": 0
+},
+{
+"q": "What is the process called when a gas turns back into a liquid upon cooling?",
+"a": ["Melting", "Condensation", "Freezing", "Sublimation"],
+"correct": 1
+},
+{
+"q": "Which method is best suited for separating an insoluble solid from a liquid?",
+"a": ["Distillation", "Evaporation", "Filtration", "Chromatography"],
+"correct": 2
+},
+{
+"q": "What type of change results in the formation of one or more entirely new chemical substances?",
+"a": ["Physical change", "Phase change", "State change", "Chemical change"],
+"correct": 3
+},
+{
+"q": "Which of the following represents a chemical change?",
+"a": ["Burning a piece of paper", "Melting ice cubes", "Dissolving sugar in water", "Breaking a glass cup"],
+"correct": 0
+},
+{
+"q": "What is the temperature at which a liquid turns into a solid called?",
+"a": ["Boiling point", "Freezing point", "Melting point", "Dew point"],
+"correct": 1
+},
+{
+"q": "Which property of gases allows them to be squeezed into a much smaller volume under pressure?",
+"a": ["Rigidity", "Incompressibility", "Compressibility", "High density"],
+"correct": 2
+},
+{
+"q": "Why do liquids flow and take the shape of their containers?",
+"a": ["Because they have fixed rigid structures", "Because they have no mass", "Because their particles are completely stationary", "Because their particles have weaker attractive forces and can slide past one another"],
+"correct": 3
+},
+{
+"q": "Which of the following is an example of a physical change?",
+"a": ["Boiling water to form steam", "Cooking an egg", "RUSTING of iron nails", "Burning wood"],
+"correct": 0
+},
+{
+"q": "What is the main reason why solids cannot be easily compressed?",
+"a": ["Their particles are far apart", "Their particles are tightly packed with very little empty space", "They have too much thermal energy", "They consist entirely of empty space"],
+"correct": 1
+},
+{
+"q": "Which term describes the uniform spreading out of particles from a region of higher concentration to a region of lower concentration?",
+"a": ["Osmosis", "Filtration", "Diffusion", "Sedimentation"],
+"correct": 2
+},
+{
+"q": "What is a mixture of two or more metals called?",
+"a": ["Compound", "Element", "Molecule", "Alloy"],
+"correct": 3
+},
+{
+"q": "Which method is used to separate components of a liquid mixture based on their different boiling points?",
+"a": ["Distillation", "Filtration", "Handpicking", "Magnetism"],
+"correct": 0
+},
+{
+"q": "What do we call a substance that cannot be broken down into simpler substances by chemical means?",
+"a": ["Compound", "Element", "Mixture", "Solution"],
+"correct": 1
+},
+{
+"q": "Which of the following is a compound rather than an element?",
+"a": ["Iron", "Hydrogen", "Water ($H_2O$)", "Gold"],
+"correct": 2
+},
+{
+"q": "What property measures how much solute can dissolve in a given amount of solvent at a specific temperature?",
+"a": ["Viscosity", "Density", "Melting point", "Solubility"],
+"correct": 3
+},
+{
+"q": "Which process describes solid ice turning directly into water vapor on a dry day?",
+"a": ["Sublimation", "Condensation", "Freezing", "Melting"],
+"correct": 0
+},
+{
+"q": "What is formed when two or more elements are chemically combined in a fixed ratio?",
+"a": ["Mixture", "Compound", "Solution", "Suspension"],
+"correct": 1
+},
+{
+"q": "Which of the following techniques can separate colored inks or plant pigments?",
+"a": ["Filtration", "Decantation", "Chromatography", "Evaporation"],
+"correct": 2
+},
+{
+"q": "What is the term for the liquid that passes through filter paper during filtration?",
+"a": ["Residue", "Solute", "Solvent", "Filtrate"],
+"correct": 3
+},
+{
+"q": "Which of these materials is a good conductor of heat and electricity?",
+"a": ["Copper", "Wood", "Plastic", "Rubber"],
+"correct": 0
+},
+{
+"q": "What is the solid substance left behind on the filter paper after filtration called?",
+"a": ["Filtrate", "Residue", "Distillate", "Solution"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of a heterogeneous mixture?",
+"a": ["Clean air", "Salt dissolved in water", "Sand and water", "Sugar solution"],
+"correct": 2
+},
+{
+"q": "Why is air considered a mixture rather than a compound?",
+"a": ["It has a fixed chemical formula", "It is a solid substance", "Its components are chemically bonded together", "Its components are physically mixed and can vary in proportion"],
+"correct": 3
+},
+{
+"q": "What term describes the continuous random motion of particles in liquids and gases?",
+"a": ["Brownian motion", "Static equilibrium", "Gravitational pull", "Magnetic attraction"],
+"correct": 0
+},
+{
+"q": "Which of the following changes is reversible?",
+"a": ["Frying an egg", "Freezing liquid water into ice", "Burning a candle completely", "Renting iron gates rusting"],
+"correct": 1
+},
+{
+"q": "What is the SI unit for measuring mass when studying matter properties?",
+"a": ["Gram", "Litre", "Kilogram", "Newton"],
+"correct": 2
+},
+{
+"q": "Which property describes a substance's resistance to flow?",
+"a": ["Density", "Solubility", "Elasticity", "Viscosity"],
+"correct": 3
+},
+{
+"q": "What happens to the volume of most substances when they are heated?",
+"a": ["They expand (increase in volume)", "They contract (decrease in volume)", "They stay completely constant", "They turn into pure energy"],
+"correct": 0
+},
+{
+"q": "Which of the following is a property of metals?",
+"a": ["Brittle and dull", "Malleable and ductile", "Poor conductors of electricity", "Low melting points"],
+"correct": 1
+},
+{
+"q": "What is the name of the change of state from liquid to gas at any temperature below the boiling point?",
+"a": ["Boiling", "Freezing", "Evaporation", "Melting"],
+"correct": 2
+},
+{
+"q": "Which scientific law states that matter is neither created nor destroyed during a chemical reaction?",
+"a": ["Law of universal gravitation", "Hooke's law", "Ohm's law", "Law of conservation of mass"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "math-yr8-quizzes-ratio",
+  "name": "Ratio proportion and scale drawings",
+  "questions": [
+    {
+      "q": "Simplify the ratio 45 : 60 to its simplest form.",
+      "a": ["3 : 4", "4 : 3", "5 : 6", "9 : 12"],
+      "correct": 0
+    },
+    {
+      "q": "Share 72 dollars in the ratio 5 : 3. What is the larger share?",
+      "a": ["27 dollars", "45 dollars", "40 dollars", "32 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "A map has a scale of 1 cm : 50 km. What actual distance does 7.5 cm represent?",
+      "a": ["300 km", "350 km", "375 km", "400 km"],
+      "correct": 2
+    },
+    {
+      "q": "If 5 workers can build a wall in 12 days, how many days will it take 3 workers to build the same wall, working at the same rate?",
+      "a": ["7.2 days", "20 days", "15 days", "20 days"],
+      "correct": 3
+    },
+    {
+      "q": "Divide 120 kg in the ratio 2 : 3 : 5. What is the weight of the middle share?",
+      "a": ["36 kg", "24 kg", "60 kg", "48 kg"],
+      "correct": 0
+    },
+    {
+      "q": "A recipe calls for 250 g of flour to make 10 cupcakes. How much flour is needed to make 35 cupcakes?",
+      "a": ["750 g", "875 g", "1000 g", "800 g"],
+      "correct": 1
+    },
+    {
+      "q": "On a scale drawing, a bridge is represented by 14 cm. If the scale is 1 : 250, what is the actual length of the bridge in meters?",
+      "a": ["28 meters", "30 meters", "35 meters", "40 meters"],
+      "correct": 2
+    },
+    {
+      "q": "The ratio of boys to girls in a school club is 4 : 7. If there are 44 girls, how many boys are in the club?",
+      "a": ["28", "16", "24", "20"],
+      "correct": 3
+    },
+    {
+      "q": "Two numbers are in the ratio 3 : 8. If their sum is 110, what is the smaller number?",
+      "a": ["30", "80", "33", "40"],
+      "correct": 0
+    },
+    {
+      "q": "If 8 meters of fabric cost 36 dollars, what is the cost of 14 meters of the same fabric?",
+      "a": ["56 dollars", "63 dollars", "70 dollars", "49 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "The scale of a drawing is 1 cm : 4 m. What is the area represented by a rectangle measuring 5 cm by 3 cm on the drawing?",
+      "a": ["60 m²", "120 m²", "240 m²", "480 m²"],
+      "correct": 2
+    },
+    {
+      "q": "If x is directly proportional to y, and x = 15 when y = 4, find the value of x when y = 12.",
+      "a": ["30", "60", "45", "45"],
+      "correct": 3
+    },
+    {
+      "q": "An alloy is made of copper and zinc in the mass ratio 7 : 3. If a block contains 21 kg of copper, what is the total mass of the block?",
+      "a": ["30 kg", "35 kg", "40 kg", "28 kg"],
+      "correct": 0
+    },
+    {
+      "q": "A car travels 240 km in 3 hours. At the same speed, how long will it take to travel 400 km?",
+      "a": ["4 hours", "5 hours", "6 hours", "4.5 hours"],
+      "correct": 1
+    },
+    {
+      "q": "The angles of a triangle are in the ratio 2 : 3 : 4. What is the size of the largest angle?",
+      "a": ["60°", "70°", "80°", "90°"],
+      "correct": 2
+    },
+    {
+      "q": "If y is inversely proportional to x, and y = 8 when x = 3, what is the value of y when x = 6?",
+      "a": ["16", "6", "12", "4"],
+      "correct": 3
+    },
+    {
+      "q": "Express the ratio 1.5 kg : 750 g in its simplest form.",
+      "a": ["2 : 1", "1 : 2", "3 : 2", "5 : 2"],
+      "correct": 0
+    },
+    {
+      "q": "A sum of money is divided between Anna and Ben in the ratio 3 : 5. Ben receives 40 dollars more than Anna. How much money was shared in total?",
+      "a": ["160 dollars", "200 dollars", "240 dollars", "320 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "On a map with a scale of 1 : 20,000, the distance between two towns is 6.5 cm. What is the actual distance in kilometers?",
+      "a": ["0.65 km", "1.3 km", "13 km", "130 km"],
+      "correct": 2
+    },
+    {
+      "q": "If 12 taps fill a tank in 20 minutes, how long will it take 15 taps to fill the same tank?",
+      "a": ["25 minutes", "18 minutes", "24 minutes", "16 minutes"],
+      "correct": 3
+    },
+    {
+      "q": "The ratio of red counters to blue counters in a bag is 5 : 2. If 14 blue counters are added, the ratio becomes 5 : 4. How many red counters are in the bag?",
+      "a": ["35", "25", "20", "30"],
+      "correct": 0
+    },
+    {
+      "q": "A blueprint uses a scale of 1 : 50. If a room on the blueprint has a length of 8 cm and a width of 6 cm, what is the actual floor area of the room in square meters?",
+      "a": ["12 m²", "24 m²", "48 m²", "96 m²"],
+      "correct": 1
+    },
+    {
+      "q": "Divide 450 into three parts proportional to 2, 3, and 4. What is the difference between the largest part and the smallest part?",
+      "a": ["50", "100", "100", "150"],
+      "correct": 2
+    },
+    {
+      "q": "If p is directly proportional to the square of q, and p = 48 when q = 4, what is p when q = 7?",
+      "a": ["84", "147", "196", "147"],
+      "correct": 3
+    },
+    {
+      "q": "A machine produces 120 items in 15 minutes. How many items does it produce in 2 hours?",
+      "a": ["960", "800", "1000", "720"],
+      "correct": 0
+    },
+    {
+      "q": "The ratio of men to women at a conference is 3 : 5. If there are 160 attendees in total, how many more women are there than men?",
+      "a": ["30", "40", "50", "60"],
+      "correct": 1
+    },
+    {
+      "q": "On a scale drawing of a park, 1 cm represents 25 meters. A lake on the drawing has an area of 4 cm². What is the actual area of the lake in square meters?",
+      "a": ["100 m²", "1000 m²", "2500 m²", "625 m²"],
+      "correct": 2
+    },
+    {
+      "q": "If 4 cats can catch 4 mice in 4 minutes, how many minutes will it take 1 cat to catch 1 mouse?",
+      "a": ["1 minute", "4 minutes", "16 minutes", "4 minutes"],
+      "correct": 3
+    },
+    {
+      "q": "Two gears have teeth in the ratio 3 : 5. If the smaller gear turns 75 times, how many times does the larger gear turn?",
+      "a": ["45", "125", "50", "75"],
+      "correct": 0
+    },
+    {
+      "q": "A sum of money is shared among three siblings in the ratio 2 : 3 : 4. The middle sibling gets 45 dollars. What is the total sum shared?",
+      "a": ["105 dollars", "135 dollars", "150 dollars", "180 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "If y is inversely proportional to the square root of x, and y = 6 when x = 9, what is y when x = 4?",
+      "a": ["4", "8.5", "9", "12"],
+      "correct": 2
+    },
+    {
+      "q": "A model of a skyscraper is built using a scale of 1 : 400. If the actual height of the building is 220 meters, what is the height of the model in centimeters?",
+      "a": ["45 cm", "60 cm", "40 cm", "55 cm"],
+      "correct": 3
+    },
+    {
+      "q": "The ratio of adult tickets to child tickets sold at a cinema is 7 : 4. If 264 tickets were sold in total, how many child tickets were sold?",
+      "a": ["96", "168", "110", "120"],
+      "correct": 0
+    },
+    {
+      "q": "A contractor estimates that 15 men can pave a road in 8 days. After 2 days, 3 men leave. How many extra days will it take for the remaining men to finish the road?",
+      "a": ["1.5 days", "5.5 days", "7.5 days", "6 days"],
+      "correct": 1
+    },
+    {
+      "q": "If a : b = 3 : 4 and b : c = 8 : 9, what is the simplest ratio of a : b : c?",
+      "a": ["3 : 4 : 9", "6 : 8 : 9", "6 : 8 : 12", "3 : 8 : 9"],
+      "correct": 2
+    },
+    {
+      "q": "A photograph measuring 10 cm by 15 cm is enlarged so that the shorter side becomes 25 cm. What is the length of the longer side after enlargement?",
+      "a": ["30 cm", "35 cm", "40 cm", "37.5 cm"],
+      "correct": 3
+    },
+    {
+      "q": "The resistance of a wire is directly proportional to its length and inversely proportional to its cross-sectional area. If a wire of length 2 meters and area 0.5 mm² has a resistance of 8 ohms, what is the resistance of a wire of length 5 meters and area 1 mm²?",
+      "a": ["10 ohms", "20 ohms", "16 ohms", "25 ohms"],
+      "correct": 0
+    },
+    {
+      "q": "Three partners invest money in a business in the ratio 2 : 4 : 5. If the total profit is 3300 dollars, how much does the partner with the largest share receive?",
+      "a": ["1200 dollars", "1500 dollars", "1800 dollars", "900 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "A car's fuel consumption is directly proportional to the distance traveled. If it uses 6.5 liters for 80 km, how many liters will it consume for a journey of 320 km?",
+      "a": ["19.5 liters", "24 liters", "26 liters", "28 liters"],
+      "correct": 2
+    },
+    {
+      "q": "If y varies jointly with x and the square of z, and y = 72 when x = 2 and z = 3, find y when x = 4 and z = 5.",
+      "a": ["180", "240", "300", "400"],
+      "correct": 3
+    }
+  ]
+}

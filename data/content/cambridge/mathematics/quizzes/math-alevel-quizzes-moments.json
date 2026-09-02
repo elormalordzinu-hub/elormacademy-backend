@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-moments",
+  "name": "Moments and static equilibrium",
+  "questions": [
+    {
+      "q": "Define the moment of a force about a pivot point.",
+      "a": ["Force × perpendicular distance from the pivot", "Force × parallel distance", "Force / distance", "Force × angle"],
+      "correct": 0
+    },
+    {
+      "q": "State the two primary conditions for a rigid body to be in static equilibrium.",
+      "a": ["Net force is zero only", "Net force is zero and net torque (moment) about any point is zero", "Net torque is zero only", "Net velocity is zero and acceleration is zero"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform beam of weight 50 N and length 4 m rests horizontally on two supports at its ends A and B. A weight of 100 N is placed 1 m from A. Find the reaction force at support A.",
+      "a": ["50 N", "60 N", "87.5 N", "75 N"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform ladder of weight W and length 2L rests against a smooth vertical wall and a rough horizontal floor at an angle of 60° to the floor. What is the normal reaction from the wall?",
+      "a": ["W / (2√3)", "W / √3", "W / 2", "W / (4√3)"],
+      "correct": 3
+    },
+    {
+      "q": "A light rod of length 3 m has masses of 2 kg and 4 kg placed at its ends. Where is the center of mass located from the 2 kg mass?",
+      "a": ["2 meters", "1.5 meters", "1 meter", "2.5 meters"],
+      "correct": 0
+    },
+    {
+      "q": "What is meant by the center of gravity of a body?",
+      "a": ["The geometric center of the body", "The single point through which the entire gravitational force of the body is considered to act", "The point with maximum mass density", "The pivot point where the object balances perfectly in all orientations"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform plank AB of length 6 m and mass 20 kg rests on supports at C and D, where AC = 1 m and DB = 1 m. A man of mass 80 kg stands at the end B. Find the reaction at support C.",
+      "a": ["400 N", "500 N", "600 N", "300 N"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform trapdoor of weight 150 N and length 2 m is hinged along one edge and held at an angle of 30° to the horizontal by a vertical string attached to the other edge. Find the tension in the string.",
+      "a": ["150 N", "50 N", "100 N", "75 N"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform rod AB of length 2L and weight W is hinged at A and held horizontally by a light string attached to B at an angle of 30° to the rod. Find the tension in the string.",
+      "a": ["W", "2W", "0.5W", "1.5W"],
+      "correct": 0
+    },
+    {
+      "q": "If a system of coplanar forces is in equilibrium, what can be said about the sum of resolved parts of the forces in any two perpendicular directions?",
+      "a": ["Their sum equals the total weight", "Their sum in each direction must be zero", "Their product must be zero", "They must equal the moment"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform sphere of weight W and radius r rests on a rough inclined plane of angle 30° to the horizontal. If it is on the point of slipping, what is the coefficient of friction?",
+      "a": ["1 / √3", "0.5", "1 / √3", "√3 / 2"],
+      "correct": 2
+    },
+    {
+      "q": "A heavy uniform beam of length 8 m and weight 200 N is suspended by two vertical strings at distances 1 m from each end. A load of 300 N is placed 3 m from the left end. Find the tension in the right string.",
+      "a": ["100 N", "150 N", "200 N", "175 N"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform ladder rests on a rough floor (μ = 0.4) and against a smooth vertical wall. What is the minimum angle of inclination θ to the floor so that the ladder does not slip?",
+      "a": ["arctan(1.25)", "arctan(0.4)", "arctan(0.5)", "arctan(0.8)"],
+      "correct": 0
+    },
+    {
+      "q": "A uniform lamina is shaped as a right-angled triangle with base 6 cm and height 8 cm. How far is its center of mass from the vertical side of height 8 cm?",
+      "a": ["3 cm", "2 cm", "4 cm", "1.5 cm"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform rod AB of weight W and length 2a is placed inside a fixed smooth hemispherical bowl of radius r with the upper end A projecting outside the bowl. If the rod makes an angle θ with the horizontal, what condition holds?",
+      "a": ["cos(θ) = r / a", "sin(θ) = a / r", "cos²(θ) = r / (2a)", "tan(θ) = r / a"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform gate of width 2 m and weight 100 N is hung from two hinges situated at the top and bottom corners of the vertical edge. If the top hinge carries all the vertical load, what is the vertical component of the force exerted by the bottom hinge?",
+      "a": ["100 N", "50 N", "200 N", "0 N"],
+      "correct": 3
+    },
+    {
+      "q": "A light horizontal rod of length 4 m has loads of 10 N, 20 N, and 30 N placed at distances 1 m, 2 m, and 3 m from the left end. Where must a single upward balancing force be applied?",
+      "a": ["2.33 m from the left end", "2.0 m from the left end", "2.5 m from the left end", "1.8 m from the left end"],
+      "correct": 0
+    },
+    {
+      "q": "What is the condition for a body resting on a horizontal plane to tip over rather than slide?",
+      "a": ["The coefficient of friction is very high", "The line of action of the weight falls outside the base of support", "The height of the center of mass is less than the base width", "The normal reaction acts through the geometric center"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform heavy disk of radius R has a circular hole of radius R/2 cut out from it, with the center of the hole at distance R/2 from the center of the disk. Find the distance of the center of mass of the remaining lamina from the center of the original disk.",
+      "a": ["R/3", "R/4", "R/6", "R/2"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform rod of length l and weight W is hinged at one end and kept at an angle θ to the vertical by a horizontal force applied at the other end. Find the magnitude of this horizontal force.",
+      "a": ["W tan(θ)", "0.5 W tan(θ)", "W sin(θ)", "0.5 W tan(θ)"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform cylinder of radius r and height h rests upright on a rough inclined plane. What is the condition for the cylinder to topple before it slides if the coefficient of friction is μ?",
+      "a": ["h > 2rμ", "r > hμ", "h > rμ", "h < 2rμ"],
+      "correct": 0
+    },
+    {
+      "q": "A uniform rectangular block of dimensions 4 cm by 10 cm rests on an inclined plane. As the angle of inclination is slowly increased, which failure mode occurs first if μ = 0.6?",
+      "a": ["Toppling", "Sliding", "Both occur simultaneously", "Crushing"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform beam AB of weight 40 N is hinged at A and supported in a horizontal position by a string attached to B at an angle of 45° to the beam. Find the magnitude of the reaction force at the hinge A.",
+      "a": ["20 N", "20√2 N", "20√5 N", "40 N"],
+      "correct": 2
+    },
+    {
+      "q": "Three parallel coplanar forces of magnitudes 5 N, 10 N, and 15 N act at distances 0 m, 2 m, and 4 m along a straight line. Where is their single resultant force located?",
+      "a": ["1.5 m", "2.0 m", "2.5 m", "3.0 m"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform rod AB of length 2 m and weight 50 N is freely hinged at A. A horizontal force F is applied at B to keep the rod inclined at 30° to the vertical. Find F.",
+      "a": ["14.43 N", "25 N", "50 N", "14.43 N"],
+      "correct": 0
+    },
+    {
+      "q": "In a system of coplanar forces in equilibrium, taking moments about any point in the plane yields what result?",
+      "a": ["Sum of moments is equal to the total force", "Sum of moments is identically zero", "Sum of moments equals the reaction force", "Sum of moments equals the weight"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform solid hemisphere of radius R rests with its curved surface on a horizontal plane. How far is its center of mass from its plane face?",
+      "a": ["3R/8", "R/2", "3R/8", "3R/4"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform ladder of weight W rests with its upper end against a smooth vertical wall and its lower end on a rough horizontal floor. If the coefficient of friction between floor and ladder is 0.5, what is the maximum angle of friction λ?",
+      "a": ["arctan(0.4)", "arctan(0.2)", "arctan(0.8)", "arctan(0.5)"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform rod AB of length 4 m and weight 60 N is supported horizontally by two strings attached at points 0.5 m from each end. Find the tension in each string by symmetry.",
+      "a": ["30 N", "60 N", "15 N", "45 N"],
+      "correct": 0
+    },
+    {
+      "q": "A light rigid triangular framework has sides of length 3 m. Equal loads of 10 N are hung from each vertex. Where is the center of mass of the loading system?",
+      "a": ["At one of the vertices", "At the geometric centroid of the triangle", "At the midpoint of the base", "Outside the triangle"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform wooden block of mass m and square base a × a rests on a rough table. A horizontal force is applied at height h above the base. If h = a, what happens first as the force increases?",
+      "a": ["Toppling", "Sliding if μ < 0.5", "Sliding always", "Crushing"],
+      "correct": 2
+    },
+    {
+      "q": "A uniform thin semi-circular wire of radius r has its center of mass located at what distance from its center?",
+      "a": ["r / π", "2r / π", "r / 2", "2r / π"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform beam of weight W and length L is pivoted at its midpoint. A weight 2W is hung at one end. What force must be applied at the other end to maintain equilibrium?",
+      "a": ["2W downwards", "W upwards", "2W upwards", "W downwards"],
+      "correct": 0
+    },
+    {
+      "q": "If a body hangs in stable equilibrium from a point of suspension, where is its center of gravity relative to the point of suspension?",
+      "a": ["Directly above the point of suspension", "Directly below the point of suspension", "To the right of the suspension", "At the same level as the suspension"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform rod of length 2l and weight W is placed with one end on a smooth horizontal floor and the other against a smooth vertical wall, connected by a light string of length l attached to the base of the wall. What is the tension in the string?",
+      "a": ["W / 4", "W / 2", "W / (2√3)", "W / √3"],
+      "correct": 2
+    },
+    {
+      "q": "A system of coplanar forces has a non-zero resultant force but zero resultant moment about every point. What does this indicate about the system?",
+      "a": ["The system is in complete static equilibrium", "The body will rotate infinitely", "The system forms a couple", "This situation is physically impossible"],
+      "correct": 3
+    },
+    {
+      "q": "A uniform ladder of weight 150 N rests on a rough horizontal floor and against a smooth vertical wall at an angle of 45°. Find the frictional force exerted by the floor.",
+      "a": ["75 N", "150 N", "106 N", "50 N"],
+      "correct": 0
+    },
+    {
+      "q": "What characterizes neutral equilibrium when a body is slightly displaced?",
+      "a": ["It returns to its original position", "It remains in its new displaced position without tending to return or move further", "It moves further away from its original position", "It undergoes simple harmonic oscillation indefinitely"],
+      "correct": 1
+    },
+    {
+      "q": "A uniform lamina is formed by removing a square of side r from a uniform square sheet of side 2r. Find the shift in the center of mass from the center of the original square.",
+      "a": ["r / 6", "r / 4", "r / 6", "r / 2"],
+      "correct": 2
+    },
+    {
+      "q": "A heavy uniform drawbridge of weight 2000 N is hinged at one end and held at an angle of 30° to the horizontal by a cable perpendicular to the drawbridge at its midpoint. Find the tension in the cable.",
+      "a": ["500 N", "1000 N", "2000 N", "1000√3 N"],
+      "correct": 3
+    }
+  ]
+}

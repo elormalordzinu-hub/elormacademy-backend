@@ -1,0 +1,186 @@
+{
+"id": "chem-igcse-quizzes-covalent",
+"name": "Covalent bonding and molecular structure",
+"questions": [
+{
+"q": "What type of particle is formed when non-metal atoms share pairs of electrons?",
+"a": ["A molecule", "A positive ion", "A negative ion", "A free electron"],
+"correct": 0
+},
+{
+"q": "How many shared pairs of electrons are present in a single covalent bond?",
+"a": ["Two pairs", "One pair", "Three pairs", "Four pairs"],
+"correct": 1
+},
+{
+"q": "Which molecule contains a double covalent bond?",
+"a": ["Hydrogen, H<sub>2</sub>", "Ammonia, NH<sub>3</sub>", "Oxygen, O<sub>2</sub>", "Nitrogen, N<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "Why do simple molecular covalent substances generally have low melting and boiling points?",
+"a": ["The covalent bonds within the molecules are very weak", "The atoms are held together by strong electrostatic ionic forces", "Energy must be supplied to break giant covalent lattices", "Intermolecular forces between molecules are weak and easily overcome"],
+"correct": 3
+},
+{
+"q": "Which of the following substances is a simple molecular covalent compound?",
+"a": ["Water, H<sub>2</sub>O", "Sodium chloride, NaCl", "Iron, Fe", "Silicon dioxide, SiO<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "How many covalent bonds are present in a molecule of methane, CH<sub>4</sub>?",
+"a": ["Two", "Four", "Three", "Five"],
+"correct": 1
+},
+{
+"q": "Which molecule contains a triple covalent bond between its atoms?",
+"a": ["Water, H<sub>2</sub>O", "Carbon dioxide, CO<sub>2</sub>", "Nitrogen, N<sub>2</sub>", "Chlorine, Cl<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "Why do simple molecular substances fail to conduct electricity in any state?",
+"a": ["They contain no protons or neutrons", "Their electrons are tightly bound in ionic lattices", "They decompose when an electric current is applied", "They have no overall electrical charge and no mobile ions or delocalized electrons"],
+"correct": 3
+},
+{
+"q": "Which electron dot (Lewis) structure correctly represents a molecule of hydrogen chloride, HCl?",
+"a": ["H shares one pair of electrons with Cl, leaving Cl with three non-bonding lone pairs", "H shares two pairs of electrons with Cl", "H transfers an electron completely to Cl to form ions", "Cl shares two electrons with two separate H atoms"],
+"correct": 0
+},
+{
+"q": "Which of the following is a property typical of simple covalent compounds?",
+"a": ["High electrical conductivity when solid", "Low melting and boiling points", "High density crystalline structure", "Insolubility in organic solvents"],
+"correct": 1
+},
+{
+"q": "Which substance has a structure consisting of discrete molecules held together by weak intermolecular forces?",
+"a": ["Diamond", "Sodium chloride", "Carbon dioxide", "Magnesium oxide"],
+"correct": 2
+},
+{
+"q": "What is the total number of valence electrons shown in a dot-and-cross diagram for a water molecule, H<sub>2</sub>O?",
+"a": ["6", "7", "9", "8"],
+"correct": 3
+},
+{
+"q": "Which molecule has a linear shape due to its bond arrangement?",
+"a": ["Carbon dioxide, CO<sub>2</sub>", "Water, H<sub>2</sub>O", "Ammonia, NH<sub>3</sub>", "Methane, CH<sub>4</sub>"],
+"correct": 0
+},
+{
+"q": "What is the shape of an ammonia molecule, NH<sub>3</sub>, according to VSEPR theory?",
+"a": ["Linear", "Pyramidal", "Tetrahedral", "Octahedral"],
+"correct": 1
+},
+{
+"q": "Which of the following compounds is formed by sharing electrons between two non-metal elements?",
+"a": ["Magnesium oxide", "Sodium chloride", "Sulfur dioxide", "Iron(III) oxide"],
+"correct": 2
+},
+{
+"q": "How many non-bonding pairs (lone pairs) of electrons are present on the central oxygen atom in a water molecule?",
+"a": ["Zero", "One", "Three", "Two"],
+"correct": 3
+},
+{
+"q": "Which term describes the attraction between different discrete molecules in a molecular covalent substance?",
+"a": ["Intermolecular forces", "Intramolecular ionic bonds", "Metallic bonding sea", "Electrostatic lattice attraction"],
+"correct": 0
+},
+{
+"q": "Why does the boiling point of noble gases or simple halogens increase down the group?",
+"a": ["Covalent bonds within molecules become stronger", "Intermolecular forces become stronger as molecular size and mass increase", "Ionic character increases down the group", "Molecules dissociate into free radicals"],
+"correct": 1
+},
+{
+"q": "Which molecule features a central atom surrounded by four shared pairs of bonding electrons and no lone pairs?",
+"a": ["Ammonia, NH<sub>3</sub>", "Water, H<sub>2</sub>O", "Methane, CH<sub>4</sub>", "Hydrogen chloride, HCl"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about covalent bonds is correct?",
+"a": ["They are formed by the complete transfer of electrons from metal to non-metal", "They only occur between atoms of identical elements", "They involve electrostatic attraction between free electrons and positive cores", "They are formed by the electrostatic attraction between shared pairs of electrons and the nuclei of the bonded atoms"],
+"correct": 3
+},
+{
+"q": "Which substance is an example of a macromolecule with covalent bonding throughout its structure?",
+"a": ["Silicon dioxide, SiO<sub>2</sub>", "Carbon dioxide, CO<sub>2</sub>", "Hydrogen sulfide, H<sub>2</sub>S", "Ammonia, NH<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "What is the molecular geometry (shape) of a methane molecule, CH<sub>4</sub>?",
+"a": ["Planar triangular", "Tetrahedral", "Linear", "Bent"],
+"correct": 1
+},
+{
+"q": "Which property distinguishes giant covalent structures from simple molecular covalent structures?",
+"a": ["Insolubility in all solvents", "Presence of ionic charges", "Extremely high melting points", "Electrical conductivity in solid state"],
+"correct": 2
+},
+{
+"q": "In a dot-and-cross diagram of ethene, C<sub>2</sub>H<sub>4</sub>, how many bonding pairs are shared between the two carbon atoms?",
+"a": ["One pair", "Three pairs", "Zero pairs", "Two pairs"],
+"correct": 3
+},
+{
+"q": "Which compound contains polar covalent bonds but is an overall non-polar molecule due to its symmetrical shape?",
+"a": ["Carbon dioxide, CO<sub>2</sub>", "Water, H<sub>2</sub>O", "Hydrogen chloride, HCl", "Ammonia, NH<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "Which of the following elements exists as diatomic molecules with a double covalent bond?",
+"a": ["Hydrogen", "Oxygen", "Nitrogen", "Chlorine"],
+"correct": 1
+},
+{
+"q": "Why does carbon form four covalent bonds in organic molecules like methane?",
+"a": ["It has one valence electron", "It readily forms anions with a 4- charge", "It has four electrons in its outer shell and needs four more to achieve a noble gas configuration", "It is a transition metal with variable oxidation states"],
+"correct": 2
+},
+{
+"q": "Which species contains a dative covalent (coordinate) bond?",
+"a": ["Water, H<sub>2</sub>O", "Methane, CH<sub>4</sub>", "Carbon dioxide, CO<sub>2</sub>", "Ammonium ion, NH<sub>4</sub><sup>+</sup>"],
+"correct": 3
+},
+{
+"q": "What type of intermolecular force is primarily responsible for holding iodine molecules together in solid iodine?",
+"a": ["Weak van der Waals forces", "Strong ionic bonds", "Hydrogen bonding", "Permanent dipole-dipole attractions"],
+"correct": 0
+},
+{
+"q": "Which of the following covalent hydrides has a boiling point abnormally high due to hydrogen bonding?",
+"a": ["Methane, CH<sub>4</sub>", "Water, H<sub>2</sub>O", "Hydrogen sulfide, H<sub>2</sub>S", "Hydrogen chloride, HCl"],
+"correct": 1
+},
+{
+"q": "How many electrons are shared in total in a molecule of nitrogen, N<sub>2</sub>?",
+"a": ["Two electrons", "Four electrons", "Six electrons", "Eight electrons"],
+"correct": 2
+},
+{
+"q": "Which of the following properties is shared by both diamond and simple molecular ice?",
+"a": ["Both conduct electricity well when molten", "Both have low melting points", "Both are soluble in water", "Both are poor conductors of electricity in the solid state"],
+"correct": 3
+},
+{
+"q": "Which molecule has a bent (V-shape) molecular geometry?",
+"a": ["Water, H<sub>2</sub>O", "Carbon dioxide, CO<sub>2</sub>", "Beryllium chloride, BeCl<sub>2</sub>", "Methane, CH<sub>4</sub>"],
+"correct": 0
+},
+{
+"q": "What is the main reason why simple molecular substances are gases, liquids, or low-melting solids at room temperature?",
+"a": ["Strong covalent bonds hold molecules tightly together", "Weak intermolecular forces require little thermal energy to overcome", "Repulsive forces between nuclei push molecules apart", "Delocalized electrons create instability in the lattice"],
+"correct": 1
+},
+{
+"q": "Which atom in a water molecule attracts the shared bonding electrons more strongly, creating a polar bond?",
+"a": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+"correct": 2
+},
+{
+"q": "Which of the following molecules has a pyramidal shape?",
+"a": ["Boron trifluoride, BF<sub>3</sub>", "Methane, CH<sub>4</sub>", "Carbon dioxide, CO<sub>2</sub>", "Ammonia, NH<sub>3</sub>"],
+"correct": 3
+}
+]
+}

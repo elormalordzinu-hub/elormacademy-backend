@@ -1,0 +1,406 @@
+{
+  "id": "chem-igcse-quizzes-metallic",
+  "name": "Metallic bonding and properties",
+  "questions": [
+    {
+      "q": "What is the nature of the attraction in metallic bonding?",
+      "a": [
+        "Electrostatic attraction between positive metal ions and a sea of delocalized electrons",
+        "Attraction between positive and negative ions in a crystal lattice",
+        "Sharing of electron pairs between two non-metal atoms",
+        "Attraction between permanent dipoles in polar molecules"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why are metals generally good conductors of electricity in the solid state?",
+      "a": [
+        "They contain fixed ions that carry a high charge",
+        "Delocalized electrons are free to move throughout the structure carrying electrical current",
+        "Their atoms vibrate rapidly to pass electrons along",
+        "They have covalent bonds that easily break down under voltage"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What property of metals allows them to be hammered or rolled into thin sheets without shattering?",
+      "a": [
+        "High density",
+        "Brittleness",
+        "Malleability",
+        "Thermal conductivity"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why do metals typically have high melting and boiling points?",
+      "a": [
+        "They consist of small molecules held by weak intermolecular forces",
+        "They contain covalent networks that require breaking single bonds",
+        "They have low density and soft cores",
+        "Strong electrostatic forces between metal ions and delocalized electrons require large amounts of energy to overcome"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the ability of metals to be drawn out into long wires?",
+      "a": [
+        "Ductility",
+        "Lustre",
+        "Brittleness",
+        "Volatility"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why does copper metal conduct heat very efficiently?",
+      "a": [
+        "Heat is transferred entirely through rigid ionic vibrations",
+        "Free-moving delocalized electrons transfer kinetic energy rapidly through the lattice structure",
+        "Copper atoms dissolve heat into surrounding air spaces",
+        "Covalent bonds store and release thermal energy uniformly"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the layers of positive ions in a metal when a strong mechanical force is applied?",
+      "a": [
+        "They repel each other and shatter the crystal instantly",
+        "They lock permanently into fixed distorted positions",
+        "They slide over one another while the delocalized electrons maintain bonding",
+        "They convert into non-metal covalent networks"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following substances features metallic bonding?",
+      "a": [
+        "Silicon dioxide",
+        "Diamond",
+        "Sodium chloride",
+        "Iron"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What are the electrons that are free to move throughout a metal lattice called?",
+      "a": [
+        "Delocalized electrons",
+        "Valence pairs",
+        "Core electrons",
+        "Localized anions"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why is pure iron softer and more malleable than carbon steel?",
+      "a": [
+        "Pure iron has stronger ionic bonds holding its atoms together",
+        "The identical regular layers of iron ions slide over each other easily without disruption",
+        "Carbon atoms eliminate all electrons from the metal lattice",
+        "Iron atoms are too small to form a stable metallic structure"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What causes the characteristic shiny appearance (lustre) of clean metal surfaces?",
+      "a": [
+        "Presence of trapped air bubbles inside the lattice",
+        "Rapid chemical reactions with atmospheric oxygen",
+        "Reflection of light by the free delocalized electrons on the metal surface",
+        "Absorption of all light frequencies by positive ions"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which factor generally increases the strength and melting point of a metallic structure?",
+      "a": [
+        "Larger atomic radius and fewer valence electrons",
+        "Lower atomic mass and weaker nuclear charge",
+        "Higher temperature during formation",
+        "Higher positive ionic charge and more delocalized electrons per atom"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is an alloy?",
+      "a": [
+        "A mixture of a metal with one or more other elements, usually metals or carbon",
+        "A pure chemical compound formed by ionic bonding between two metals",
+        "A simple covalent molecule containing metal atoms",
+        "An amorphous non-metal solid with high electrical resistance"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why are alloys often harder and less malleable than pure metals?",
+      "a": [
+        "Alloys contain ionic bonds that prevent any movement",
+        "Different sized atoms distort the regular layers, preventing them from sliding over each other easily",
+        "Alloys have fewer delocalized electrons to hold the structure",
+        "Alloys are formed at extremely low temperatures making them brittle"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which alloy is commonly used to make aircraft bodies because of its low density and high strength?",
+      "a": [
+        "Brass",
+        "Bronze",
+        "Duralumin (aluminum alloy)",
+        "Solder"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Brass is an alloy formed by combining which two metals?",
+      "a": [
+        "Iron and carbon",
+        "Lead and tin",
+        "Copper and nickel",
+        "Copper and zinc"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Why does stainless steel resist corrosion better than pure iron?",
+      "a": [
+        "Chromium and nickel added to iron form a protective oxide layer that prevents rusting",
+        "Stainless steel contains covalent bonds that repel water molecules",
+        "Carbon atoms coat the iron completely in grease",
+        "Stainless steel has no electrons available for oxidation"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Which metal is liquid at room temperature and features metallic bonding?",
+      "a": [
+        "Sodium",
+        "Mercury",
+        "Aluminum",
+        "Lead"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What property makes copper ideal for electrical wiring in houses?",
+      "a": [
+        "High density and high melting point",
+        "Magnetic properties and heavy weight",
+        "High electrical conductivity and ductility",
+        "Insolubility in organic solvents"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "How do metal atoms achieve stability when forming a metallic lattice?",
+      "a": [
+        "By gaining electrons from non-metal atoms",
+        "By sharing electron pairs equally in directional bonds",
+        "By transferring protons to neighboring nuclei",
+        "By releasing their valence electrons into a shared pool"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following statements about metallic bonding is correct?",
+      "a": [
+        "It is non-directional, meaning the attraction acts in all directions around the ions",
+        "It only occurs in molten solutions containing dissolved salts",
+        "It involves rigid electron sharing restricted between specific atom pairs",
+        "It creates brittle crystals that fracture easily under stress"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why are metals insoluble in water and common organic solvents?",
+      "a": [
+        "Water molecules react chemically to dissolve the metal nuclei",
+        "The strong metallic bonding forces within the giant lattice cannot be overcome by solvent interactions",
+        "Metals contain covalent bonds that repel polar solvents",
+        "Delocalized electrons evaporate into the solvent"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which alloy is traditionally used for soldering electronic components due to its relatively low melting point?",
+      "a": [
+        "Steel",
+        "Brass",
+        "Solder (lead-tin alloy)",
+        "Bronze"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the electrical conductivity of a metal when its temperature is significantly increased?",
+      "a": [
+        "Conductivity increases because electrons move faster",
+        "Conductivity remains completely unchanged",
+        "Conductivity increases due to increased ion creation",
+        "Conductivity decreases because vibrating metal ions impede the flow of delocalized electrons"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Which metal is commonly used for overhead power cables because of its low density, despite having a lower conductivity than copper?",
+      "a": [
+        "Aluminum",
+        "Iron",
+        "Gold",
+        "Zinc"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What structural feature distinguishes transition metals from Group 1 alkali metals?",
+      "a": [
+        "Transition metals lack delocalized electrons",
+        "Transition metals typically have higher densities, higher melting points, and multiple oxidation states",
+        "Transition metals are soft and react violently with cold water",
+        "Transition metals have lower tensile strength"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Why is gold often alloyed with silver or copper when used in jewelry?",
+      "a": [
+        "Pure gold is too expensive and heavy",
+        "Pure gold dissolves easily in sweat",
+        "Pure gold is too soft and easily scratched or deformed",
+        "Pure gold does not have a metallic lustre"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following best describes the electron cloud in a metal?",
+      "a": [
+        "A static layer of electrons trapped between fixed anions",
+        "A localized pair of electrons shared between two adjacent atoms",
+        "A collection of electrons confined to individual atomic orbitals",
+        "A mobile sea of delocalized valence electrons shared among all positive ions in the lattice"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What type of forces hold the atoms together in a sample of solid sodium?",
+      "a": [
+        "Metallic bonding",
+        "Ionic bonding",
+        "Covalent bonding",
+        "Hydrogen bonding"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why do metals expand when heated?",
+      "a": [
+        "The metal ions melt into a liquid state",
+        "Increased thermal energy causes metal ions to vibrate more vigorously, pushing slightly further apart on average",
+        "Delocalized electrons multiply in number",
+        "Covalent bonds stretch and snap"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which property of metals explains why they sound resonant (ring like a bell) when struck?",
+      "a": [
+        "Low density and soft structure",
+        "High porosity",
+        "Elasticity and uniform transmission of kinetic energy through the rigid lattice",
+        "Chemical reactivity with sound waves"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "In the context of metallic bonding, what represents the 'glue' holding the structure together?",
+      "a": [
+        "A layer of oxide ions",
+        "Neutral atoms sharing lone pairs",
+        "Rigid covalent bonds",
+        "The sea of mobile delocalized electrons shielding the positive ions from mutual repulsion"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "Which metal has the highest melting point of all pure metals, making it useful for incandescent lamp filaments?",
+      "a": [
+        "Tungsten",
+        "Copper",
+        "Iron",
+        "Aluminum"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "How does the number of valence electrons contributed per atom generally affect metallic bond strength?",
+      "a": [
+        "More valence electrons contributed generally result in stronger bonds and higher melting points",
+        "More valence electrons make the metal softer and lower its melting point",
+        "Valence electrons have no effect on metallic bond strength",
+        "Fewer valence electrons create stronger electrostatic attraction"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following describes bronze?",
+      "a": [
+        "An alloy of iron and carbon",
+        "An alloy of lead and tin",
+        "An alloy of copper and tin",
+        "An alloy of aluminum and magnesium"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why do metals typically have a silvery-grey appearance, with exceptions like gold and copper?",
+      "a": [
+        "They absorb all wavelengths of visible light equally",
+        "They emit light through radioactive decay",
+        "They contain colored impurities trapped in their lattices",
+        "Their delocalized electrons reflect and transmit visible light across a wide range of frequencies"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What happens when a metal reacts with oxygen?",
+      "a": [
+        "Metal atoms lose electrons to form positive ions, creating a metal oxide",
+        "Metal atoms gain electrons to form negative ions",
+        "Metal atoms share electrons to form molecular gases",
+        "Metal atoms form covalent networks with oxygen"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following metals is the least reactive and found native in the Earth crust?",
+      "a": [
+        "Potassium",
+        "Gold",
+        "Magnesium",
+        "Zinc"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Why can metals be polished to a high reflective shine?",
+      "a": [
+        "Polishing removes impurities that absorb all light",
+        "Polishing creates a smooth surface layer of non-metal atoms",
+        "Smoothing the surface allows the sea of electrons to reflect incident light uniformly without scattering",
+        "Polishing melts the metal into a glass-like state"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which phenomenon occurs when light shines on a clean metal surface?",
+      "a": [
+        "Light passes straight through without interaction",
+        "Light is converted into electrical voltage",
+        "Light breaks the metallic bonds",
+        "Photons interact with the free electrons and are immediately reflected"
+      ],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "phys-igcse-quizzes-density",
+  "name": "Density and buoyancy",
+  "questions": [
+    {
+      "q": "What is the formula used to calculate the density (ρ) of a substance from its mass (m) and volume (V)?",
+      "a": ["ρ = m / V", "ρ = m × V", "ρ = V / m", "ρ = m × V²"],
+      "correct": 0
+    },
+    {
+      "q": "What are the standard SI units for density commonly used in IGCSE Physics calculations?",
+      "a": ["g/cm³", "kg/m³", "N/kg", "m/s²"],
+      "correct": 1
+    },
+    {
+      "q": "An irregularly shaped solid metal block has a mass of 210 g and displaces 30 cm³ of water in a measuring cylinder. What is its density?",
+      "a": ["70 g/cm³", "0.14 g/cm³", "7.0 g/cm³", "6,300 g/cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a solid block of steel sink in water, whereas a massive steel ship floats?",
+      "a": ["The steel ship is made of lighter atoms than the block", "The ship has no weight when placed in water", "Steel always floats if it is painted", "The overall average density of the ship, including the trapped air inside its hollow hull, is less than the density of water"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the density of a fixed mass of gas if its volume is compressed at a constant temperature?",
+      "a": ["Density increases", "Density decreases", "Density remains completely unchanged", "Density drops instantly to zero"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following describes how to measure the volume of an irregular solid object that sinks in water and does not dissolve?",
+      "a": ["Multiply its length by its width and height", "Lower it into a measuring cylinder partly filled with water and record the increase in water level volume", "Weigh it on a top-pan balance and divide by gravity", "Measure how high it bounces on a hard floor"],
+      "correct": 1
+    },
+    {
+      "q": "What is the mass of a rectangular wooden block measuring 2.0 cm by 5.0 cm by 10.0 cm if the density of the wood is 0.6 g/cm³?",
+      "a": ["6.0 g", "30.0 g", "60.0 g", "600.0 g"],
+      "correct": 2
+    },
+    {
+      "q": "When a liquid is heated, what typically happens to its density, and why?",
+      "a": ["Density increases because molecules stick closer together", "Density remains constant because mass and volume never change", "Density increases because molecules gain weight", "Density decreases because the liquid expands and its volume increases for the same mass"],
+      "correct": 3
+    },
+    {
+      "q": "What is buoyancy (or upthrust)?",
+      "a": ["The upward force exerted by a fluid on an object placed in or on it", "The downward gravitational pull on a submerged object", "The horizontal drag force on a moving ship", "The pressure of air inside a balloon"],
+      "correct": 0
+    },
+    {
+      "q": "Under what condition will a completely submerged object float upward to the surface?",
+      "a": ["If its density is greater than the density of the surrounding fluid", "If the upward buoyant force (upthrust) is greater than the downward weight of the object", "If the object has no mass", "If the fluid has zero pressure"],
+      "correct": 1
+    },
+    {
+      "q": "If a liquid has a density of 800 kg/m³, what is the volume occupied by 4,000 kg of this liquid?",
+      "a": ["0.2 m³", "3,200,000 m³", "5.0 m³", "50.0 m³"],
+      "correct": 2
+    },
+    {
+      "q": "Which state of matter typically possesses the highest density under standard laboratory conditions?",
+      "a": ["Gas", "Plasma", "Liquid", "Solid"],
+      "correct": 3
+    },
+    {
+      "q": "How does the arrangement of particles in a liquid compare to that in a gas?",
+      "a": ["Particles in a liquid are closely packed together with little free space, whereas gas particles are widely spaced with large empty gaps", "Particles in a liquid move at the speed of light", "Liquid particles have no intermolecular forces", "Gas particles are denser than liquid particles"],
+      "correct": 0
+    },
+    {
+      "q": "What is the volume of a 540 g block of aluminum if the density of aluminum is 2.7 g/cm³?",
+      "a": ["1,458 cm³", "200 cm³", "540 cm³", "2.0 cm³"],
+      "correct": 1
+    },
+    {
+      "q": "Why do ice cubes float in a glass of liquid water?",
+      "a": ["Ice is heavier than water", "Ice contains trapped helium gas", "Ice is less dense than liquid water due to its open crystalline structure formed upon freezing", "Water exerts zero gravity on ice"],
+      "correct": 2
+    },
+    {
+      "q": "An object weighs 50 N in air. When completely submerged in water, it experiences an upward buoyant force (upthrust) of 12 N. What is its apparent weight when submerged?",
+      "a": ["62 N", "50 N", "4.17 N", "38 N"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following units is equivalent to 1 g/cm³ when converted to standard SI units?",
+      "a": ["1,000 kg/m³", "1 kg/m³", "0.001 kg/m³", "1,000,000 kg/m³"],
+      "correct": 0
+    },
+    {
+      "q": "If you pour three immiscible liquids with different densities into a tall cylinder (oil, water, and mercury), how will they arrange themselves from top to bottom?",
+      "a": ["Water on top, mercury in middle, oil at bottom", "Oil on top, water in middle, mercury at the bottom", "Mercury on top, water in middle, oil at the bottom", "They will mix together into a uniform solution instantly"],
+      "correct": 1
+    },
+    {
+      "q": "What causes upthrust on an object submerged in a fluid?",
+      "a": ["The magnetic attraction between the object and the container", "The weight of the object pulling it downward", "The difference in fluid pressure between the bottom of the object (higher pressure) and the top of the object (lower pressure)", "Surface tension pulling the object sideways"],
+      "correct": 2
+    },
+    {
+      "q": "What is the mass of air contained in a room of volume 50 m³, given that the density of air is approximately 1.2 kg/m³?",
+      "a": ["41.7 kg", "0.024 kg", "51.2 kg", "60.0 kg"],
+      "correct": 3
+    },
+    {
+      "q": "When measuring the density of a regularly shaped metal cylinder, which instruments are required?",
+      "a": ["An electronic balance to measure mass, and a micrometer or vernier caliper to measure dimensions for volume calculation", "A stopwatch and a thermometer", "A newton meter and a barometer", "A ruler and a voltmeter"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the density of water as it is cooled from room temperature down to 4 degrees Celsius?",
+      "a": ["Density decreases steadily to zero", "Density increases until it reaches 4 degrees Celsius", "Density fluctuates randomly", "Density remains completely constant"],
+      "correct": 1
+    },
+    {
+      "q": "If a solid object floats with exactly half of its volume submerged in water (density 1.0 g/cm³), what is the average density of the object?",
+      "a": ["1.0 g/cm³", "2.0 g/cm³", "0.5 g/cm³", "0.1 g/cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following experimental precautions helps minimize errors when measuring the volume of a small stone using displacement in a measuring cylinder?",
+      "a": ["Stirring the water vigorously with a glass rod", "Heating the water to boiling point", "Adding salt to increase buoyancy", "Ensuring eye level is aligned with the bottom of the meniscus and avoiding splashing when dropping the stone"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary reason why gases are easily compressible compared to liquids and solids?",
+      "a": ["Large distances exist between gas molecules, meaning huge empty spaces can be compressed", "Gas molecules are smaller than liquid molecules", "Gas molecules repel each other magnetically", "Gas molecules have zero mass"],
+      "correct": 0
+    },
+    {
+      "q": "A liquid has a mass of 160 g and fills a measuring container up to the 200 cm³ mark. What is the density of the liquid?",
+      "a": ["1.25 g/cm³", "0.8 g/cm³", "32,000 g/cm³", "1.0 g/cm³"],
+      "correct": 1
+    },
+    {
+      "q": "An object will sink in a specific fluid if:",
+      "a": ["Its density is less than the fluid density", "Its volume is greater than its mass", "Its density is greater than the density of the fluid", "It has a regular geometric shape"],
+      "correct": 2
+    },
+    {
+      "q": "Why do helium-filled weather balloons rise into the upper atmosphere?",
+      "a": ["Helium has negative mass", "The balloon fabric attracts sunlight", "Air pressure pushes sideways instead of upwards", "The overall density of the helium-filled balloon is less than the density of the surrounding air, resulting in a net upward buoyant force"],
+      "correct": 3
+    },
+    {
+      "q": "What is the weight of a solid iron block having a volume of 0.05 m³, given that the density of iron is 7,800 kg/m³ and g = 10 N/kg?",
+      "a": ["3,900 N", "390 N", "156,000 N", "780 N"],
+      "correct": 0
+    },
+    {
+      "q": "How does increasing the temperature of a sealed gas container affect its density, assuming no gas escapes?",
+      "a": ["Density increases because pressure rises", "Density remains unchanged because mass and volume of the container do not change", "Density drops to zero instantly", "Density decreases because molecules escape through the walls"],
+      "correct": 1
+    },
+    {
+      "q": "If an object floats in water, how does the magnitude of the upward upthrust compare to the downward weight of the object?",
+      "a": ["Upthrust is greater than weight", "Upthrust is less than weight", "Upthrust is exactly equal to the weight of the floating object", "Upthrust is zero"],
+      "correct": 2
+    },
+    {
+      "q": "What is the volume of a block of lead with a mass of 2,260 g, given that lead has a density of 11.3 g/cm³?",
+      "a": ["25,538 cm³", "200 cm³", "2.0 cm³", "20 cm³"],
+      "correct": 3
+    },
+    {
+      "q": "Which property of a substance remains constant regardless of the size or shape of the sample piece?",
+      "a": ["Density", "Total mass", "Total volume", "Total weight"],
+      "correct": 0
+    },
+    {
+      "q": "A hollow steel sphere floats in water while a solid steel sphere of the exact same outer dimensions sinks. Why?",
+      "a": ["Solid steel is a different chemical element than hollow steel", "The hollow sphere encloses air, making its average overall density less than water, whereas the solid sphere's density exceeds water", "The solid sphere has no buoyant force acting on it", "The hollow sphere is lighter because it is painted white"],
+      "correct": 1
+    },
+    {
+      "q": "If 50 cm³ of liquid A (density 0.8 g/cm³) is mixed with 50 cm³ of liquid B (density 1.2 g/cm³), assuming volumes are additive, what is the density of the resulting mixture?",
+      "a": ["2.0 g/cm³", "0.9 g/cm³", "1.0 g/cm³", "0.4 g/cm³"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the apparent weight of a heavy stone when it is lowered from air into a deep swimming pool?",
+      "a": ["It increases due to water pressure", "It remains exactly the same as in air", "It fluctuates randomly", "It decreases because the water exerts an upward buoyant force (upthrust) on the stone"],
+      "correct": 3
+    },
+    {
+      "q": "What is the mass of a block of ice with dimensions 10 cm by 10 cm by 10 cm, given that the density of ice is 0.92 g/cm³?",
+      "a": ["920 g", "9.2 g", "0.092 g", "9,200 g"],
+      "correct": 0
+    },
+    {
+      "q": "Why is mercury frequently used in laboratory barometers and manometers instead of water?",
+      "a": ["Mercury is transparent and colorful", "Mercury has an extremely high density, allowing instruments to be compact and measure large pressures without requiring impractically tall glass columns", "Mercury evaporates faster than water", "Mercury has zero surface tension"],
+      "correct": 1
+    },
+    {
+      "q": "An object with a mass of 450 g is placed in a displacement can filled with water. The volume of water overflowed into a measuring cylinder is 150 cm³. What is the density of the object?",
+      "a": ["0.33 g/cm³", "3.0 kg/m³", "3.0 g/cm³", "67,500 g/cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement correctly describes the behavior of a hydrometer (an instrument used to measure liquid density)?",
+      "a": ["It sinks to the bottom in all liquids", "It floats higher in denser liquids and sinks deeper in less dense liquids", "It measures liquid temperature instead of density", "It operates using electric currents"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "math-yr7-quizzes-data",
+  "name": "Handling data collection and averages",
+  "questions": [
+    {
+      "q": "What is the mean of the following set of numbers: 4, 8, 6, 5, 7?",
+      "a": ["6", "7", "5", "8"],
+      "correct": 0
+    },
+    {
+      "q": "Find the median of the data set: 12, 3, 7, 15, 9, 5, 11",
+      "a": ["7", "9", "11", "8"],
+      "correct": 1
+    },
+    {
+      "q": "What is the mode of the following data values: 3, 5, 7, 3, 9, 2, 5, 3, 8?",
+      "a": ["5", "7", "3", "8"],
+      "correct": 2
+    },
+    {
+      "q": "Calculate the range of the following set of scores: 14, 22, 9, 31, 18, 25.",
+      "a": ["17", "21", "25", "22"],
+      "correct": 3
+    },
+    {
+      "q": "The mean of four numbers is 10. Three of the numbers are 7, 12, and 9. What is the fourth number?",
+      "a": ["12", "10", "14", "8"],
+      "correct": 0
+    },
+    {
+      "q": "Find the median of the even data set: 4, 8, 12, 16, 20, 24",
+      "a": ["12", "14", "16", "10"],
+      "correct": 1
+    },
+    {
+      "q": "If the mean of 5 numbers is 14, what is the sum of these 5 numbers?",
+      "a": ["50", "60", "70", "80"],
+      "correct": 2
+    },
+    {
+      "q": "What type of data is represented by shoe sizes such as 4, 5, 6, 7?",
+      "a": ["Continuous data", "Categorical data", "Qualitative data", "Discrete data"],
+      "correct": 3
+    },
+    {
+      "q": "Find the range of the dataset: -3, 5, 12, -7, 4, 8.",
+      "a": ["19", "15", "12", "21"],
+      "correct": 0
+    },
+    {
+      "q": "What is the mode of the dataset: 10, 12, 10, 15, 18, 15, 20?",
+      "a": ["10 and 15", "No mode", "15", "10"],
+      "correct": 1
+    },
+    {
+      "q": "Five students have a mean height of 140 cm. A sixth student joins who is 152 cm tall. What is the new mean height?",
+      "a": ["141 cm", "143 cm", "142 cm", "144 cm"],
+      "correct": 2
+    },
+    {
+      "q": "Which average is most affected by an extreme outlier in a dataset?",
+      "a": ["Median", "Mode", "Range", "Mean"],
+      "correct": 3
+    },
+    {
+      "q": "What is the median of the following dataset: 23, 11, 45, 34, 19?",
+      "a": ["23", "34", "19", "26"],
+      "correct": 0
+    },
+    {
+      "q": "A survey of 20 pupils' favorite subjects shows Mathematics has 8 votes, Science 6, and English 6. What is the angle for Mathematics on a pie chart?",
+      "a": ["108°", "144°", "90°", "120°"],
+      "correct": 1
+    },
+    {
+      "q": "The mean of three numbers is 15. If each number is multiplied by 2, what is the new mean?",
+      "a": ["15", "20", "30", "45"],
+      "correct": 2
+    },
+    {
+      "q": "Which data collection method is best for finding out the favorite sport of all students in a school of 500 pupils?",
+      "a": ["Interviewing 3 teachers", "Asking the school football team", "Measuring the school playground", "Conducting a questionnaire/survey for all 500 students"],
+      "correct": 3
+    },
+    {
+      "q": "Find the mean of the dataset: 12.5, 14.1, 13.8, 15.6.",
+      "a": ["14.0", "14.2", "13.9", "14.5"],
+      "correct": 0
+    },
+    {
+      "q": "What is the modal class in a grouped frequency table if the intervals are 0-10 (freq 3), 10-20 (freq 8), 20-30 (freq 5)?",
+      "a": ["0-10", "10-20", "20-30", "8"],
+      "correct": 1
+    },
+    {
+      "q": "The median of 7 distinct positive integers in order is 10. What is the smallest possible sum of these 7 integers?",
+      "a": ["28", "35", "25", "31"],
+      "correct": 2
+    },
+    {
+      "q": "Which graph is best suited for showing changes in temperature over a 24-hour period?",
+      "a": ["Bar chart", "Pie chart", "Scatter graph", "Line graph"],
+      "correct": 3
+    },
+    {
+      "q": "If the scores on a test are 68, 72, 75, 80, 85, what is the median score?",
+      "a": ["75", "78", "72", "80"],
+      "correct": 0
+    },
+    {
+      "q": "In a set of data, the range is 45 and the smallest value is 12. What is the largest value?",
+      "a": ["33", "57", "45", "67"],
+      "correct": 1
+    },
+    {
+      "q": "Four numbers have a mean of 8 and three numbers have a mean of 6. What is the mean of all 7 numbers combined?",
+      "a": ["7.0", "7.5", "7.14", "6.8"],
+      "correct": 2
+    },
+    {
+      "q": "What does a pie chart primarily display?",
+      "a": ["Continuous changes over time", "Correlations between two variables", "Frequencies of grouped numerical data", "Proportions of a whole"],
+      "correct": 3
+    },
+    {
+      "q": "Find the mean of the following frequency table data: value 2 (freq 3), value 4 (freq 5), value 6 (freq 2).",
+      "a": ["3.9", "4.0", "4.2", "3.5"],
+      "correct": 0
+    },
+    {
+      "q": "The mean of 5 numbers is 20. When one number is removed, the mean of the remaining 4 numbers becomes 18. What was the number removed?",
+      "a": ["26", "28", "24", "22"],
+      "correct": 1
+    },
+    {
+      "q": "What is the range of temperatures recorded as: -4°, 2°, 7°, -1°, 5°?",
+      "a": ["9°", "10°", "11°", "8°"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is an example of continuous data?",
+      "a": ["Number of pets", "Shoe size", "Number of goals scored", "Height of tomato plants"],
+      "correct": 3
+    },
+    {
+      "q": "If a dataset has an even number of values, how is the median calculated?",
+      "a": ["Finding the mean of the two middle values", "Taking the higher middle value", "Taking the lower middle value", "Calculating the range of the middle values"],
+      "correct": 0
+    },
+    {
+      "q": "A tally chart shows 14 tallies for a category. How is this represented?",
+      "a": ["IIII IIII IIII", "IIII IIII IIII II", "IIII IIII IFFI", "IIII IIII IIII IIII"],
+      "correct": 1
+    },
+    {
+      "q": "The total weight of 4 parcels is 18.4 kg. What is the mean weight of the parcels?",
+      "a": ["4.2 kg", "4.8 kg", "4.6 kg", "5.0 kg"],
+      "correct": 2
+    },
+    {
+      "q": "Why might a statistician use the median instead of the mean for house prices in a city?",
+      "a": ["Median is easier to calculate", "Mean requires all house prices to be equal", "Median is always a whole number", "Median is less distorted by extremely expensive houses"],
+      "correct": 3
+    },
+    {
+      "q": "What is the mode of this dataset: Apple, Banana, Apple, Orange, Grape, Banana, Apple?",
+      "a": ["Apple", "Banana", "Orange", "Grape"],
+      "correct": 0
+    },
+    {
+      "q": "If 10 children have a mean mass of 35 kg and 15 adults have a mean mass of 70 kg, what is the mean mass of all 25 people?",
+      "a": ["52.5 kg", "56.0 kg", "57.5 kg", "60.0 kg"],
+      "correct": 1
+    },
+    {
+      "q": "A set of 5 numbers has a median of 10, a mode of 8, and a range of 15. If the smallest number is 4, what is the largest number?",
+      "a": ["15", "18", "19", "22"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary purpose of a stem-and-leaf diagram?",
+      "a": ["To calculate exact probabilities", "To show correlations between variables", "To display proportions of a circle", "To display raw numerical data while retaining individual values"],
+      "correct": 3
+    },
+    {
+      "q": "The mean of 6 numbers is 12. Two new numbers, 8 and 16, are added to the set. What is the new mean?",
+      "a": ["12", "13", "14", "12.5"],
+      "correct": 0
+    },
+    {
+      "q": "In a symmetrical distribution, which two measures of central tendency are typically equal or very close?",
+      "a": ["Mean and range", "Mean and median", "Mode and range", "Median and range"],
+      "correct": 1
+    },
+    {
+      "q": "A bag contains cards with numbers. The mean of 4 cards is 15. When a 5th card is added, the mean becomes 17. What number is on the 5th card?",
+      "a": ["21", "23", "25", "27"],
+      "correct": 2
+    },
+    {
+      "q": "Which data collection tool is most appropriate for investigating whether there is a relationship between a student's height and their test score?",
+      "a": ["Pie chart", "Bar chart", "Frequency table", "Scatter graph"],
+      "correct": 3
+    }
+  ]
+}

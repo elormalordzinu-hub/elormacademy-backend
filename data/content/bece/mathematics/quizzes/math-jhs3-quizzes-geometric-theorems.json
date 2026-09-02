@@ -1,0 +1,206 @@
+{
+"id": "math-jhs3-quizzes-geometric-theorems",
+"name": "Geometric Theorems",
+"questions": [
+{
+"q": "What is the sum of the interior angles of any triangle?",
+"a": ["180°", "360°", "90°", "270°"],
+"correct": 0
+},
+{
+"q": "The angle subtended by an arc at the centre of a circle is...",
+"a": ["equal to the angle subtended at the circumference", "twice the angle subtended at the circumference", "half the angle subtended at the circumference", "supplementary to the angle at the circumference"],
+"correct": 1
+},
+{
+"q": "What is the special name for the angle subtended in a semicircle by a chord passing through the diameter endpoints?",
+"a": ["An acute angle", "An obtuse angle", "A right angle (90°)", "A reflex angle"],
+"correct": 2
+},
+{
+"q": "What geometric term describes opposite angles in any cyclic quadrilateral?",
+"a": ["They are equal", "They are complementary", "They are unequal", "They are supplementary (sum to 180°)"],
+"correct": 3
+},
+{
+"q": "What is the theorem concerning angles in the same segment of a circle?",
+"a": ["Angles in the same segment are equal", "Angles in the same segment sum to 180°", "Angles in the same segment are complementary", "Angles in the same segment are right angles"],
+"correct": 0
+},
+{
+"q": "What is the relationship between the radius of a circle and a tangent drawn to the circle at the point of contact?",
+"a": ["They are parallel", "They are perpendicular (meet at 90°)", "They are equal in length", "They form a 45° angle"],
+"correct": 1
+},
+{
+"q": "If the exterior angle of a triangle is equal to 110°, and one of the opposite interior angles is 40°, what is the other opposite interior angle?",
+"a": ["40°", "110°", "70°", "140°"],
+"correct": 2
+},
+{
+"q": "What term is given to a line that intersects a circle at exactly two distinct points?",
+"a": ["Tangent", "Radius", "Diameter", "Secant (or Chord)"],
+"correct": 3
+},
+{
+"q": "What is the sum of the interior angles of a convex polygon with n sides, given by the formula (n - 2) × 180°?",
+"a": ["360° for a quadrilateral", "540° for a quadrilateral", "180° for a quadrilateral", "720° for a quadrilateral"],
+"correct": 0
+},
+{
+"q": "According to the alternate segment theorem, the angle between a tangent and a chord through the point of contact is equal to...",
+"a": ["the angle subtended by the chord at the centre", "the angle in the alternate segment", "twice the angle at the circumference", "90 degrees"],
+"correct": 1
+},
+{
+"q": "What do you call a quadrilateral whose four vertices all lie on the circumference of a single circle?",
+"a": ["A trapezium", "A rhombus", "A cyclic quadrilateral", "A parallelogram"],
+"correct": 2
+},
+{
+"q": "From an external point, how do the lengths of two tangents drawn to a circle compare?",
+"a": ["They are unequal", "The inner tangent is longer", "They are perpendicular", "They are equal in length"],
+"correct": 3
+},
+{
+"q": "What is the measure of each interior angle of a regular hexagon?",
+"a": ["120°", "108°", "135°", "90°"],
+"correct": 0
+},
+{
+"q": "If two straight lines intersect, vertically opposite angles are...",
+"a": ["supplementary", "equal", "complementary", "unequal"],
+"correct": 1
+},
+{
+"q": "What is the size of each exterior angle of a regular octagon (8 sides)?",
+"a": ["36°", "60°", "45°", "90°"],
+"correct": 2
+},
+{
+"q": "When a transversal line intersects two parallel lines, which of the following angle pairs are equal?",
+"a": ["Co-interior angles", "Supplementary angles", "Angles summing to 360°", "Alternate interior angles"],
+"correct": 3
+},
+{
+"q": "What is the name of the line segment joining any two points on the circumference of a circle?",
+"a": ["Chord", "Tangent", "Secant", "Radius"],
+"correct": 0
+},
+{
+"q": "If a triangle is isosceles, what can be said about the angles opposite the equal sides?",
+"a": ["They are unequal", "They are equal", "They are each 90°", "They sum to 180°"],
+"correct": 1
+},
+{
+"q": "What is the angle sum of all the exterior angles of any convex polygon, regardless of the number of sides?",
+"a": ["180°", "540°", "360°", "720°"],
+"correct": 2
+},
+{
+"q": "Which theorem states that a perpendicular line drawn from the centre of a circle to a chord bisects the chord?",
+"a": ["Tangent-radius theorem", "Alternate segment theorem", "Angle at the centre theorem", "Perpendicular from centre to chord theorem"],
+"correct": 3
+},
+{
+"q": "What is the relationship between co-interior (consecutive interior) angles formed when a transversal intersects two parallel lines?",
+"a": ["They are supplementary (sum to 180°)", "They are equal", "They sum to 90°", "They are vertically opposite"],
+"correct": 0
+},
+{
+"q": "If an exterior angle of a triangle is formed by producing one of its sides, what is its geometric property in relation to the interior angles?",
+"a": ["It equals the adjacent interior angle", "It equals the sum of the two opposite interior angles", "It is half the sum of all interior angles", "It is always an acute angle"],
+"correct": 1
+},
+{
+"q": "What is the geometric term for a polygon in which all interior angles are less than 180° and all vertices point outwards?",
+"a": ["Concave polygon", "Complex polygon", "Convex polygon", "Irregular polygon"],
+"correct": 2
+},
+{
+"q": "What is the measure of the angle subtended at the circumference by a diameter (angle in a semicircle)?",
+"a": ["45°", "180°", "60°", "90°"],
+"correct": 3
+},
+{
+"q": "If angles in the same segment of a circle subtend from an arc, and one inscribed angle is measured at 35°, what is another angle in the same segment subtended by that same arc?",
+"a": ["35°", "70°", "145°", "90°"],
+"correct": 0
+},
+{
+"q": "What is the exterior angle of a regular polygon with 6 sides (hexagon)?",
+"a": ["45°", "60°", "90°", "120°"],
+"correct": 1
+},
+{
+"q": "In circle geometry, tangents drawn from an external point P to a circle with centre O touch at points A and B. What type of quadrilateral is formed by O, A, P, and B?",
+"a": ["A parallelogram", "A rhombus", "A kite", "A trapezium"],
+"correct": 2
+},
+{
+"q": "What do we call two lines in a plane that never meet and are always the same distance apart?",
+"a": ["Perpendicular lines", "Intersecting lines", "Transversal lines", "Parallel lines"],
+"correct": 3
+},
+{
+"q": "What is the sum of the interior angles of a pentagon (5-sided polygon)?",
+"a": ["540°", "360°", "720°", "1080°"],
+"correct": 0
+},
+{
+"q": "If a cyclic quadrilateral has one interior angle measuring 75°, what is the measure of its opposite interior angle?",
+"a": ["75°", "105°", "90°", "180°"],
+"correct": 1
+},
+{
+"q": "Which of the following describes corresponding angles formed by parallel lines and a transversal?",
+"a": ["They are supplementary", "They add up to 90°", "They are equal in magnitude", "They are unequal"],
+"correct": 2
+},
+{
+"q": "If the angle at the centre of a circle is 130°, what is the angle subtended by the same arc at the circumference?",
+"a": ["260°", "130°", "90°", "65°"],
+"correct": 3
+},
+{
+"q": "What is the special name for a triangle with all three sides of equal length and all three interior angles measuring 60°?",
+"a": ["Equilateral triangle", "Isosceles triangle", "Scalene triangle", "Right-angled triangle"],
+"correct": 0
+},
+{
+"q": "What is the term for a line that touches a circle at only one single point without cutting across it?",
+"a": ["Secant", "Tangent", "Chord", "Diameter"],
+"correct": 1
+},
+{
+"q": "If the base angles of an isosceles triangle are each 50°, what is the size of the vertex angle?",
+"a": ["50°", "100°", "80°", "40°"],
+"correct": 2
+},
+{
+"q": "What is the number of sides of a regular polygon whose each exterior angle is 40°?",
+"a": ["6", "8", "12", "9"],
+"correct": 3
+},
+{
+"q": "If two chords of a circle intersect inside the circle, what is true about the products of their segment lengths?",
+"a": ["The products of their segments are equal", "The segments are all equal in length", "Their lengths sum to the diameter", "They bisect each other perpendicularly"],
+"correct": 0
+},
+{
+"q": "What is the measure of each interior angle of a regular decagon (10 sides)?",
+"a": ["120°", "144°", "135°", "150°"],
+"correct": 1
+},
+{
+"q": "In a right-angled triangle, what is the name of the side opposite to the right angle?",
+"a": ["Adjacent", "Base", "Hypotenuse", "Perpendicular"],
+"correct": 2
+},
+{
+"q": "What theorem proves that the angle between a tangent and a chord through the point of contact equals the angle in the alternate segment?",
+"a": ["Pythagoras theorem", "Thales' theorem", "Midpoint theorem", "Alternate segment theorem"],
+"correct": 3
+}
+]
+}

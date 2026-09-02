@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-reproductive",
+"name": "Human reproductive system",
+"questions": [
+{
+"q": "What is the primary function of the human reproductive system?",
+"a": ["To pump blood through body tissues", "To produce offspring and pass on genetic information from parents to children", "To break down complex food polymers into nutrients", "To filter urea and excess water from blood plasma"],
+"correct": 1
+},
+{
+"q": "Which male organ is responsible for producing sperm cells and testosterone?",
+"a": ["The prostate gland", "The urethra", "The testes", "The sperm duct"],
+"correct": 2
+},
+{
+"q": "What is the fluid containing sperm and nutrient secretions from accessory glands called?",
+"a": ["Urine", "Semen", "Synovial fluid", "Lymph"],
+"correct": 1
+},
+{
+"q": "Which tube carries sperm from the testes to the urethra in males?",
+"a": ["The sperm duct (vas deferens)", "The ureter", "The fallopian tube", "The renal vein"],
+"correct": 0
+},
+{
+"q": "Which female organ produces egg cells (ova) and female sex hormones like oestrogen?",
+"a": ["The uterus", "The vagina", "The ovaries", "The cervix"],
+"correct": 2
+},
+{
+"q": "What is the muscular organ where a fertilized egg implants and develops into a fetus during pregnancy?",
+"a": ["The ovary", "The uterus (womb)", "The oviduct", "The vagina"],
+"correct": 1
+},
+{
+"q": "What are the tubes that connect the ovaries to the uterus and are usually the site of fertilization?",
+"a": ["The sperm ducts", "The urethra", "The oviducts (fallopian tubes)", "The ureters"],
+"correct": 2
+},
+{
+"q": "What is the biological term for the release of a mature egg cell from an ovary?",
+"a": ["Fertilization", "Ovulation", "Menstruation", "Implantation"],
+"correct": 1
+},
+{
+"q": "What happens during fertilization?",
+"a": ["An egg cell fuses with a sperm cell's nucleus", "The uterine lining breaks down and exits the body", "An embryo implants into the uterine wall", "Testosterone production stops completely"],
+"correct": 0
+},
+{
+"q": "Where does fertilization typically take place in the human female reproductive system?",
+"a": ["Inside the vagina", "In the upper third of the oviduct (fallopian tube)", "Directly inside the ovary", "Inside the lower cervix"],
+"correct": 1
+},
+{
+"q": "What is the name of the single cell formed immediately when a sperm and egg nucleus fuse?",
+"a": ["A fetus", "An embryo", "A zygote", "A gamete"],
+"correct": 2
+},
+{
+"q": "What is the process called when the fertilized egg sinks into the thick, nutrient-rich lining of the uterus?",
+"a": ["Ovulation", "Implantation", "Pollination", "Menstruation"],
+"correct": 1
+},
+{
+"q": "What structure connects the developing fetus to the mother's placenta, allowing the exchange of nutrients and oxygen?",
+"a": ["The sperm duct", "The umbilical cord", "The fallopian tube", "The urethra"],
+"correct": 1
+},
+{
+"q": "What is the primary function of the placenta during pregnancy?",
+"a": ["To physically pump blood between mother and baby directly", "To allow oxygen, glucose, and nutrients to pass from mother to fetus while removing waste products like carbon dioxide", "To produce digestive enzymes for the baby", "To act as a hard skeletal armor"],
+"correct": 1
+},
+{
+"q": "Why do the mother's blood and the baby's blood not normally mix directly inside the placenta?",
+"a": ["To prevent high blood pressure from damaging the baby's delicate organs", "To stop white blood cells from destroying the baby", "To keep different blood types and pressure safe while allowing diffusion across thin walls", "The baby does not have blood during development"],
+"correct": 2
+},
+{
+"q": "What is the stage of human development from about nine weeks after fertilization until birth called?",
+"a": ["A zygote", "An embryo", "A fetus", "A gamete"],
+"correct": 2
+},
+{
+"q": "What is the biological term for the monthly breakdown and loss of the uterine lining when pregnancy does not occur?",
+"a": ["Menstruation", "Ovulation", "Gestation", "Fertilization"],
+"correct": 0
+},
+{
+"q": "What is puberty?",
+"a": ["The process of physical changes through which a child's body matures into an adult body capable of reproduction", "The permanent cessation of all hormone production", "The formation of the initial zygote", "The final stage of fetal development before birth"],
+"correct": 0
+},
+{
+"q": "Which hormone triggers secondary sexual characteristics in males during puberty, such as deeper voice and facial hair growth?",
+"a": ["Oestrogen", "Testosterone", "Insulin", "Adrenaline"],
+"correct": 1
+},
+{
+"q": "Which hormone is primarily responsible for regulating the menstrual cycle and female secondary sexual characteristics?",
+"a": ["Testosterone", "Oestrogen", "Thyroxine", "Glucagon"],
+"correct": 1
+},
+{
+"q": "Which of the following is a secondary sexual characteristic that occurs in females during puberty?",
+"a": ["Deepening of the voice", "Growth of facial hair", "Widening of the hips and development of breasts", "Broadening of the shoulders"],
+"correct": 2
+},
+{
+"q": "Which of the following is a secondary sexual characteristic common to both males and females during puberty?",
+"a": ["Growth of underarm and pubic hair", "Menstrual bleeding", "Production of large egg cells", "Facial beard growth"],
+"correct": 0
+},
+{
+"q": "What is the ring of muscle at the lower end of the uterus that opens into the vagina called?",
+"a": ["The cervix", "The urethra", "The prostate", "The oviduct"],
+"correct": 0
+},
+{
+"q": "What is the function of the fluid surrounding the fetus inside the amniotic sac?",
+"a": ["To provide high amounts of oxygen directly to lungs", "To cushion and protect the fetus from physical shocks and bumps", "To digest fetal waste materials", "To anchor the baby to the cervix"],
+"correct": 1
+},
+{
+"q": "Approximately how long is the normal human gestation period (pregnancy) from fertilization to birth?",
+"a": ["About 3 weeks", "About 9 months (around 40 weeks)", "About 2 years", "About 6 months"],
+"correct": 1
+},
+{
+"q": "Which of the following substances can cross the placenta from the mother and potentially harm the developing fetus?",
+"a": ["Alcohol, nicotine from tobacco, and certain harmful viruses", "Complex starch molecules and dietary fiber", "Red blood cells of any type", "Solid food proteins"],
+"correct": 0
+},
+{
+"q": "What are male and female sex cells (sperm and egg) collectively called?",
+"a": ["Zygotes", "Gametes", "Embryos", "Chromosomes"],
+"correct": 1
+},
+{
+"q": "How many chromosomes are normally found in a human body cell compared to a human gamete (sperm or egg)?",
+"a": ["Body cells have 46 chromosomes, while gametes have 23", "Body cells have 23 chromosomes, while gametes have 46", "Both body cells and gametes have 46 chromosomes", "Both body cells and gametes have 23 chromosomes"],
+"correct": 0
+},
+{
+"q": "What happens to the uterine lining during the first half of the menstrual cycle before ovulation?",
+"a": ["It breaks down and exits the body as menstrual blood", "It thickens and builds up with a rich network of blood vessels in preparation for a fertilized egg", "It turns into solid bone tissue", "It completely disappears"],
+"correct": 1
+},
+{
+"q": "What is the muscular canal that receives sperm during sexual intercourse and serves as the birth canal?",
+"a": ["The oviduct", "The urethra", "The vagina", "The ureter"],
+"correct": 2
+},
+{
+"q": "Which male gland produces fluid that nourishes and protects sperm cells?",
+"a": ["The prostate gland and seminal vesicles", "The thyroid gland", "The salivary gland", "The adrenal gland"],
+"correct": 0
+},
+{
+"q": "Why do testes in human males hang outside the main body cavity in the scrotum?",
+"a": ["To keep sperm production at a temperature slightly cooler than normal body core temperature", "To absorb sunlight directly for energy", "To make running easier during exercise", "To pump blood faster"],
+"correct": 0
+},
+{
+"q": "What is an embryo?",
+"a": ["An unfertilized egg cell", "The early stage of a developing multicellular organism after zygote division", "A fully formed adult baby", "A mature gamete"],
+"correct": 1
+},
+{
+"q": "Which process describes the fusion of male and female gametes?",
+"a": ["Pollination", "Fertilization", "Germination", "Respiration"],
+"correct": 1
+},
+{
+"q": "What is the role of the amniotic sac?",
+"a": ["To hold the amniotic fluid that encloses and protects the developing fetus", "To connect the baby to the mother's blood supply", "To produce female sex hormones", "To release eggs into the oviduct"],
+"correct": 0
+},
+{
+"q": "During which phase of life do human reproductive organs become fully functional?",
+"a": ["Infancy", "Puberty and adolescence", "Old age", "Birth"],
+"correct": 1
+},
+{
+"q": "What happens immediately after ovulation occurs in the ovary?",
+"a": ["The egg travels down the oviduct toward the uterus", "The egg implants directly into the stomach", "The egg turns into a sperm cell", "The uterus shrinks to zero size"],
+"correct": 0
+},
+{
+"q": "Which factor primarily determines whether a developing embryo develops male or female physical characteristics?",
+"a": ["The mother's diet during pregnancy", "The sex chromosomes carried by the sperm cell that fertilized the egg", "The temperature of the uterus", "The amount of water consumed by parents"],
+"correct": 1
+},
+{
+"q": "What is the medical term for the end of the female reproductive cycle, usually occurring in middle age?",
+"a": ["Menopause", "Menstruation", "Puberty", "Ovulation"],
+"correct": 0
+},
+{
+"q": "Why is sexual reproduction advantageous for a species compared to asexual reproduction?",
+"a": ["It produces genetically identical clones every time", "It introduces genetic variation among offspring, helping populations adapt to changing environments", "It requires only a single parent to reproduce", "It happens much faster than cell division"],
+"correct": 1
+}
+]
+}

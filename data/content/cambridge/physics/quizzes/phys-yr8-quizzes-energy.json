@@ -1,0 +1,186 @@
+{
+"id": "phys-yr8-quizzes-energy",
+"name": "Energy resources and sustainability",
+"questions": [
+{
+"q": "What is the primary difference between renewable and non-renewable energy resources?",
+"a": ["Renewable resources can be replenished naturally in a short time, whereas non-renewable resources are finite and take millions of years to form", "Non-renewable resources produce no carbon dioxide, while renewable resources cause massive pollution", "Renewable resources can only be used at night", "Non-renewable resources are cheaper to produce infinitely"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of a non-renewable fossil fuel?",
+"a": ["Wind power", "Coal", "Solar energy", "Geothermal energy"],
+"correct": 1
+},
+{
+"q": "What is the ultimate original source of energy for almost all energy resources on Earth, including fossil fuels, wind, and solar?",
+"a": ["The Moon's gravitational pull", "Geothermal heat from Earth's core", "The Sun", "Nuclear fusion in Jupiter"],
+"correct": 2
+},
+{
+"q": "Which renewable energy resource uses the kinetic energy of moving air to turn giant blades and generate electricity?",
+"a": ["Hydroelectric power", "Solar photovoltaic cells", "Biomass burning", "Wind turbines"],
+"correct": 3
+},
+{
+"q": "What term describes using energy resources efficiently so that we do not waste them and can preserve supplies for future generations?",
+"a": ["Sustainability", "Combustion", "Dissipation", "Conduction"],
+"correct": 0
+},
+{
+"q": "Which fossil fuel is formed from the remains of ancient microscopic marine organisms buried under sea beds over millions of years?",
+"a": ["Coal", "Crude oil (petroleum)", "Peat", "Wood chips"],
+"correct": 1
+},
+{
+"q": "What is a major environmental disadvantage associated with burning fossil fuels for electricity generation?",
+"a": ["They cause catastrophic volcanic eruptions", "They deplete the ozone layer instantly", "They release carbon dioxide, contributing to global warming and climate change", "They freeze surrounding water bodies"],
+"correct": 2
+},
+{
+"q": "How do hydroelectric power stations generate electricity?",
+"a": ["By burning organic waste materials", "By capturing solar heat in mirrors", "By splitting uranium atoms in nuclear reactors", "By using falling or flowing water from a high reservoir to turn turbines and generators"],
+"correct": 3
+},
+{
+"q": "What type of energy resource harnesses heat trapped deep underground within molten rock or radioactive rocks?",
+"a": ["Geothermal energy", "Wave power", "Tidal energy", "Solar thermal energy"],
+"correct": 0
+},
+{
+"q": "What is biomass energy derived from?",
+"a": ["Pure liquid petroleum", "Plant and animal waste materials (organic matter) that can be burned or converted into biofuel", "Nuclear fission of heavy metals", "Silica sand panels"],
+"correct": 1
+},
+{
+"q": "Which of the following energy sources is classified as non-renewable?",
+"a": ["Hydroelectric power", "Geothermal steam", "Nuclear energy (using uranium)", "Solar radiation"],
+"correct": 2
+},
+{
+"q": "What is the main advantage of using renewable energy resources over fossil fuels?",
+"a": ["They work only when weather is severe", "They produce toxic nuclear waste", "They can be controlled manually at any second without nature", "They do not run out and generally produce fewer greenhouse gas emissions"],
+"correct": 3
+},
+{
+"q": "What energy transformation takes place in a solar photovoltaic cell?",
+"a": ["Light energy from the Sun is converted directly into electrical energy", "Kinetic energy is converted into sound", "Chemical energy is converted into thermal energy", "Gravitational potential energy is converted into kinetic energy"],
+"correct": 0
+},
+{
+"q": "Why is nuclear power considered non-renewable even though it does not release carbon dioxide when generating electricity?",
+"a": ["It relies on sunlight which disappears at night", "It depends on finite reserves of radioactive elements like uranium found in the Earth's crust", "It uses up all the water in oceans", "It creates infinite wind currents"],
+"correct": 1
+},
+{
+"q": "What is a significant limitation or disadvantage of solar and wind energy?",
+"a": ["They emit massive amounts of carbon dioxide", "They cause severe radioactive contamination", "They are unreliable and intermittent because they depend entirely on weather conditions and daylight", "They are completely silent"],
+"correct": 2
+},
+{
+"q": "How does tidal power generate electricity?",
+"a": ["By burning coal during high tide", "By heating water with underground magma", "By capturing the thermal difference in surface water", "By harnessing the massive movement of water caused by gravitational pulls of the Moon and Sun"],
+"correct": 3
+},
+{
+"q": "What term is used to describe energy that is wasted or transferred to the surroundings in a non-useful form, usually as thermal energy?",
+"a": ["Dissipated energy", "Concentrated power", "Stored potential", "Radiant kinetic work"],
+"correct": 0
+},
+{
+"q": "Which of the following practices improves energy efficiency in domestic homes?",
+"a": ["Leaving all lights and televisions turned on 24 hours a day", "Installing loft insulation and double-glazed windows to reduce heat loss", "Using single-pane glass windows in cold climates", "Opening doors while central heating is running"],
+"correct": 1
+},
+{
+"q": "What is a disadvantage of building large hydroelectric dams across rivers?",
+"a": ["They produce no electricity", "They run out of water within a single week", "They flood large areas of land, disrupting local ecosystems and displacing human communities", "They make water completely radioactive"],
+"correct": 2
+},
+{
+"q": "What energy resource utilizes floating generators or shore-based chambers moved up and down by surface swells on the ocean?",
+"a": ["Geothermal plants", "Nuclear fission", "Coal mining", "Wave energy"],
+"correct": 3
+},
+{
+"q": "Which fossil fuel was formed primarily from the remains of ancient swamp forests and vegetation buried millions of years ago?",
+"a": ["Coal", "Natural gas", "Crude petroleum", "Biogas"],
+"correct": 0
+},
+{
+"q": "What is the primary gas trapped in natural gas deposits, used widely for heating and cooking?",
+"a": ["Carbon monoxide", "Methane", "Oxygen", "Nitrogen"],
+"correct": 1
+},
+{
+"q": "Why is energy conservation important for modern global society?",
+"a": ["To increase electricity bills for consumers", "To speed up the depletion of fossil fuels", "To reduce environmental pollution, conserve natural resources, and lower greenhouse gas emissions", "To stop the Sun from shining"],
+"correct": 2
+},
+{
+"q": "What is a major safety and environmental concern associated with nuclear power stations?",
+"a": ["They release thick black smoke into clouds", "They cause regular windstorms", "They require continuous burning of wood", "The production of hazardous radioactive waste that remains dangerous for thousands of years"],
+"correct": 3
+},
+{
+"q": "How do solar thermal towers generate electricity?",
+"a": ["By using thousands of mirrors (heliostats) to focus sunlight onto a central receiver to heat fluid and drive steam turbines", "By cooling water with ice blocks", "By absorbing moonlight at midnight", "By spinning underground water wheels"],
+"correct": 0
+},
+{
+"q": "What does the term 'carbon footprint' mean?",
+"a": ["The physical size of shoe marks left in coal mines", "The total amount of greenhouse gases (especially carbon dioxide) emitted directly or indirectly by human activities", "The amount of carbon stored inside wooden furniture", "The speed at which fossil fuels burn"],
+"correct": 1
+},
+{
+"q": "Which of the following is an effective way for individuals to reduce their daily energy consumption?",
+"a": ["Driving large fuel-powered cars for short walking trips", "Keeping electrical appliances on standby permanently", "Switching to LED light bulbs and turning off lights in empty rooms", "Using electric heaters with windows wide open"],
+"correct": 2
+},
+{
+"q": "What energy transformation occurs in a working coal-fired power station?",
+"a": ["Electrical energy into chemical energy", "Kinetic energy into sound energy", "Nuclear energy into light", "Chemical energy in coal -> Thermal energy (heat) -> Kinetic energy in steam -> Electrical energy"],
+"correct": 3
+},
+{
+"q": "What is a key benefit of biofuels compared to conventional fossil fuels?",
+"a": ["They are considered carbon-neutral because the carbon released during burning was recently absorbed by the plants during their growth", "They never run out and take zero land to produce", "They are 100 percent efficient with no waste heat", "They require no water or sunlight"],
+"correct": 0
+},
+{
+"q": "What is meant by the 'reliability' of an energy resource?",
+"a": ["How cheap the resource is to buy", "Whether the resource can supply energy consistently and predictably whenever needed without depending on external weather", "How heavy the generator is", "Whether the fuel smells pleasant"],
+"correct": 1
+},
+{
+"q": "Why are wind turbines often placed offshore in the sea rather than inland on flat fields?",
+"a": ["To hide them from view", "To avoid bird collisions completely", "Because winds offshore are stronger and much more consistent than on land", "To generate saltwater instead of electricity"],
+"correct": 2
+},
+{
+"q": "What role do national governments play in promoting energy sustainability?",
+"a": ["Banning all forms of electricity", "Forcing citizens to use coal exclusively", "Taxing renewable energy heavily", "Setting targets for carbon reduction, investing in green technology, and subsidizing renewable installations"],
+"correct": 3
+},
+{
+"q": "Which energy resource relies on capturing heat directly from sunlight to warm water in domestic rooftop panels?",
+"a": ["Solar thermal water heating", "Geothermal hot springs", "Nuclear fusion", "Tidal barrage systems"],
+"correct": 0
+},
+{
+"q": "What is the main challenge in storing energy generated from intermittent renewable sources like wind and solar?",
+"a": ["Batteries and storage technologies are expensive and currently limited in capacity for entire national grids", "Stored energy turns into solid rock", "Wind energy cannot be stored in wires", "Solar energy evaporates in storage tanks"],
+"correct": 1
+},
+{
+"q": "What environmental problem is caused by sulfur dioxide and nitrogen oxides released when burning impure fossil fuels?",
+"a": ["Global cooling", "Ozone hole expansion", "Acid rain that damages forests and aquatic life", "Severe tectonic earthquakes"],
+"correct": 2
+},
+{
+"q": "What is the term for a community or building that produces as much renewable energy as it consumes over the course of a year?",
+"a": ["A fossil fuel depot", "A carbon emitter", "A thermal sink", "A zero-energy (or net-zero) building"],
+"correct": 3
+}
+]
+}

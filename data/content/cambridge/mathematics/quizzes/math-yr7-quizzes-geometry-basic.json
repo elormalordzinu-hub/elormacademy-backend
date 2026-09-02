@@ -1,0 +1,206 @@
+{
+  "id": "math-yr7-quizzes-geometry-basic",
+  "name": "Perimeter area and volume of basic shapes",
+  "questions": [
+    {
+      "q": "What is the perimeter of a rectangle with length 12 cm and width 5 cm?",
+      "a": ["34 cm", "60 cm", "17 cm", "24 cm"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the area of a rectangle measuring 8 cm by 7 cm.",
+      "a": ["30 cm²", "56 cm²", "15 cm²", "28 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the area of a triangle with a base of 10 cm and a perpendicular height of 6 cm?",
+      "a": ["60 cm²", "32 cm²", "30 cm²", "16 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "What is the volume of a cuboid with length 5 cm, width 3 cm, and height 4 cm?",
+      "a": ["24 cm³", "47 cm³", "12 cm³", "60 cm³"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the perimeter of a square with a side length of 9 cm.",
+      "a": ["36 cm", "81 cm", "18 cm", "45 cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the area of a parallelogram with a base of 12 cm and a vertical height of 5 cm?",
+      "a": ["34 cm²", "60 cm²", "30 cm²", "24 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "Find the area of a trapezoid (trapezium) with parallel sides of length 6 cm and 10 cm, and a perpendicular height of 4 cm.",
+      "a": ["64 cm²", "48 cm²", "32 cm²", "16 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "What is the volume of a cube with an edge length of 5 cm?",
+      "a": ["25 cm³", "150 cm³", "75 cm³", "125 cm³"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the perimeter of a regular pentagon with a side length of 7 cm.",
+      "a": ["35 cm", "42 cm", "28 cm", "49 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A room is 4 m long and 3 m wide. How many square meters of carpeting are needed to cover the floor?",
+      "a": ["7 m²", "12 m²", "14 m²", "24 m²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the surface area of a cube with a side length of 4 cm?",
+      "a": ["64 cm²", "48 cm²", "96 cm²", "32 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "If the perimeter of a square is 48 cm, what is its area?",
+      "a": ["144 cm²", "192 cm²", "96 cm²", "144 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the area of a triangle with base 14 cm and height 5 cm.",
+      "a": ["35 cm²", "70 cm²", "38 cm²", "40 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the perimeter of a semicircle with a diameter of 10 cm? (Use π = 3.14)",
+      "a": ["31.4 cm", "25.7 cm", "15.7 cm", "20.7 cm"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the volume of a triangular prism where the cross-sectional area is 20 cm² and the length is 9 cm.",
+      "a": ["90 cm³", "140 cm³", "180 cm³", "360 cm³"],
+      "correct": 2
+    },
+    {
+      "q": "A rectangular garden has an area of 54 square meters and a width of 6 meters. What is its length?",
+      "a": ["12 meters", "8 meters", "18 meters", "9 meters"],
+      "correct": 3
+    },
+    {
+      "q": "What is the circumference of a circle with a radius of 7 cm? (Use π = 22/7)",
+      "a": ["44 cm", "154 cm", "88 cm", "22 cm"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the area of a circle with a radius of 10 cm. (Use π = 3.14)",
+      "a": ["62.8 cm²", "314 cm²", "157 cm²", "31.4 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "Find the total surface area of a closed rectangular box measuring 5 cm by 4 cm by 3 cm.",
+      "a": ["47 cm²", "60 cm²", "94 cm²", "120 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "The perimeter of a regular octagon is 72 cm. What is the length of one side?",
+      "a": ["6 cm", "8 cm", "12 cm", "9 cm"],
+      "correct": 3
+    },
+    {
+      "q": "What is the area of a circle with a diameter of 14 cm? (Use π = 22/7)",
+      "a": ["154 cm²", "88 cm²", "308 cm²", "44 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "A container is in the shape of a cube with a volume of 216 cm³. What is the length of one edge?",
+      "a": ["8 cm", "6 cm", "9 cm", "12 cm"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the perimeter of a rectangle whose area is 40 cm² and whose length is 8 cm.",
+      "a": ["13 cm", "20 cm", "26 cm", "48 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the area of a parallelogram with a base of 15 cm and a height of 8 cm?",
+      "a": ["60 cm²", "120 cm²", "90 cm²", "120 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "Find the volume of a cylinder with a radius of 5 cm and a height of 10 cm. (Use π = 3.14)",
+      "a": ["785 cm³", "1570 cm³", "314 cm³", "500 cm³"],
+      "correct": 0
+    },
+    {
+      "q": "A compound shape is made of a square of side 5 cm and a triangle of base 5 cm and height 4 cm sitting on top. What is the total area?",
+      "a": ["25 cm²", "35 cm²", "45 cm²", "30 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the circumference of a circle with a diameter of 20 cm? (Use π = 3.14)",
+      "a": ["31.4 cm", "125.6 cm", "62.8 cm", "100 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If the scale of a map is 1 cm to 5 km, what distance does a length of 7.5 cm represent?",
+      "a": ["30 km", "25 km", "50 km", "37.5 km"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the area of a trapezoid with parallel sides 8 cm and 12 cm, and height 5 cm.",
+      "a": ["50 cm²", "60 cm²", "100 cm²", "40 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the height of a cuboid with a volume of 180 cm³, length 6 cm, and width 5 cm?",
+      "a": ["8 cm", "6 cm", "10 cm", "4 cm"],
+      "correct": 1
+    },
+    {
+      "q": "Find the perimeter of a right-angled triangle with shorter sides measuring 9 cm and 12 cm, and hypotenuse 15 cm.",
+      "a": ["21 cm", "30 cm", "36 cm", "54 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A swimming pool is 25 m long, 10 m wide, and 2 m deep. What is the volume of water it holds when full?",
+      "a": ["250 m³", "37 m³", "100 m³", "500 m³"],
+      "correct": 3
+    },
+    {
+      "q": "What is the surface area of an open-top rectangular box of length 10 cm, width 5 cm, and height 4 cm?",
+      "a": ["160 cm²", "200 cm²", "120 cm²", "140 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the area of a sector of a circle with radius 6 cm and angle 90°. (Use π = 3.14)",
+      "a": ["14.13 cm²", "28.26 cm²", "56.52 cm²", "7.065 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "The area of a triangle is 42 cm². If its height is 7 cm, what is the length of its base?",
+      "a": ["6 cm", "14 cm", "12 cm", "21 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the total length of wire needed to make the frame of a wire-frame cube of edge length 8 cm?",
+      "a": ["64 cm", "96 cm", "72 cm", "128 cm"],
+      "correct": 3
+    },
+    {
+      "q": "A rectangular lawn measures 20 m by 15 m. A path 2 m wide runs all around the outside of it. What is the area of the path alone?",
+      "a": ["156 m²", "300 m²", "456 m²", "120 m²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the radius of a circle whose circumference is 62.8 cm? (Use π = 3.14)",
+      "a": ["5 cm", "10 cm", "20 cm", "15 cm"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the volume of a prism whose cross-section is a right-angled triangle with legs 3 cm and 4 cm, and length 10 cm.",
+      "a": ["120 cm³", "30 cm³", "60 cm³", "120 cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Find the area of a ring (annulus) formed by an outer circle of radius 10 cm and an inner circle of radius 6 cm. (Use π = 3.14)",
+      "a": ["314 cm²", "113.04 cm²", "200.96 cm²", "201.06 cm²"],
+      "correct": 3
+    }
+  ]
+}

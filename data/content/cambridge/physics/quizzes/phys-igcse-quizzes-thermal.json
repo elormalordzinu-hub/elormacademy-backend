@@ -1,0 +1,206 @@
+{
+"id": "phys-igcse-quizzes-thermal",
+"name": "Thermal physics states of matter and expansion",
+"questions": [
+{
+"q": "Which state of matter is characterized by particles that have strong intermolecular forces, vibrate about fixed positions, and maintain a definite shape and volume?",
+"a": ["Solid", "Liquid", "Gas", "Plasma"],
+"correct": 0
+},
+{
+"q": "How are particles arranged and how do they move in a liquid compared to a solid?",
+"a": ["Particles are widely separated and move at high speeds in all directions.", "Particles are closely packed but can slide past one another, having no fixed shape.", "Particles are held in rigid crystal lattices and cannot move.", "Particles possess zero kinetic energy."],
+"correct": 1
+},
+{
+"q": "What term describes the process where a substance changes directly from a solid state to a gas state without passing through the liquid phase?",
+"a": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+"correct": 2
+},
+{
+"q": "Which of the following phenomena provides direct experimental evidence of the continuous random motion of particles in a fluid (Brownian motion)?",
+"a": ["Water boiling in a glass beaker", "Metal expanding when heated over a Bunsen burner", "Ice melting at zero degrees Celsius", "Random jerky motion of smoke particles observed under a microscope when illuminated by light"],
+"correct": 3
+},
+{
+"q": "What happens to the internal energy of a substance during a phase change from solid to liquid at its melting point, while temperature remains constant?",
+"a": ["Internal energy increases as thermal energy is used to break intermolecular bonds.", "Internal energy decreases because heat is released.", "Internal energy drops to zero.", "Internal energy remains completely unchanged."],
+"correct": 0
+},
+{
+"q": "Why does a liquid evaporate even at temperatures well below its boiling point?",
+"a": ["Only molecules at the exact bottom of the container gain enough heat.", "Some faster-moving molecules near the surface possess enough kinetic energy to overcome intermolecular forces and escape into the air.", "Air pressure pushes molecules upward.", "Molecules transform into light waves."],
+"correct": 1
+},
+{
+"q": "Which of the following factors will decrease the rate of evaporation of a liquid from an open dish?",
+"a": ["Increasing the ambient temperature", "Increasing surface area of the liquid", "Decreasing air movement (wind speed) across the surface", "Using a liquid with a lower boiling point"],
+"correct": 2
+},
+{
+"q": "How does boiling differ from evaporation?",
+"a": ["Boiling occurs only at room temperature, whereas evaporation happens at high temperatures.", "Evaporation only occurs inside closed containers.", "Boiling causes the liquid temperature to rise continuously.", "Boiling occurs throughout the entire liquid at a fixed temperature, whereas evaporation happens only at the surface across a range of temperatures."],
+"correct": 3
+},
+{
+"q": "When a metal bridge expands on a hot summer day, what structural modification is typically used to prevent buckling or damage?",
+"a": ["Expansion joints and rollers allowing free movement", "Welding all joints permanently rigid", "Cooling the bridge with refrigerated water pumps", "Covering the bridge in thick rubber mats"],
+"correct": 0
+},
+{
+"q": "Why does solid expansion occur when a substance is heated?",
+"a": ["Individual atoms grow larger in physical size.", "Increased thermal energy causes particles to vibrate with greater amplitude, increasing the average distance between neighboring particles.", "Mass increases as heat is added.", "Gravity pulls particles further apart."],
+"correct": 1
+},
+{
+"q": "Which substance exhibits the highest thermal expansion under normal conditions among common engineering materials?",
+"a": ["Invar steel alloy", "Glass", "Gases", "Diamond"],
+"correct": 2
+},
+{
+"q": "What is the primary reason why water displays anomalous expansion between 0 degrees Celsius and 4 degrees Celsius?",
+"a": ["Water molecules decompose into hydrogen and oxygen gases.", "Water freezes into a gas.", "Water expands continuously as it gets hotter.", "Water has its maximum density at 4 degrees Celsius because ice crystal structures start forming as temperature approaches zero, increasing volume."],
+"correct": 3
+},
+{
+"q": "How does the pressure of a fixed mass of gas in a sealed container change when its temperature is increased at constant volume?",
+"a": ["Pressure increases because gas molecules gain kinetic energy and collide harder and more frequently with container walls.", "Pressure decreases because molecules slow down.", "Pressure drops to zero instantly.", "Pressure remains completely constant."],
+"correct": 0
+},
+{
+"q": "What is the absolute zero temperature corresponding to zero thermal energy on the Kelvin temperature scale?",
+"a": ["-273 degrees Celsius", "-273 Kelvin", "0 degrees Celsius", "100 Kelvin"],
+"correct": 1
+},
+{
+"q": "How do you convert a temperature value from degrees Celsius (Celsius) to Kelvin (K)?",
+"a": ["Multiply Celsius by 1.8 and add 32", "Subtract 273 from Celsius", "Add 273 to the Celsius temperature value", "Divide Celsius by 100"],
+"correct": 2
+},
+{
+"q": "If a gas in a closed cylinder has its absolute temperature doubled at constant volume, what happens to its pressure?",
+"a": ["Pressure is halved.", "Pressure remains unchanged.", "Pressure decreases by a factor of four.", "Pressure is doubled."],
+"correct": 3
+},
+{
+"q": "What property of a liquid makes it suitable for use in liquid-in-glass clinical or laboratory thermometers?",
+"a": ["Uniform thermal expansion over a wide temperature range", "High electrical conductivity", "Magnetic sensitivity", "High volatility"],
+"correct": 0
+},
+{
+"q": "Why is mercury or colored alcohol used in thermometer bulbs instead of water?",
+"a": ["Water expands anomalously below 4 degrees Celsius and wets glass tubing, making accurate readings difficult.", "Water evaporates too slowly.", "Water is a solid at room temperature.", "Water has zero specific heat capacity."],
+"correct": 1
+},
+{
+"q": "What is meant by the specific latent heat of fusion of a substance?",
+"a": ["The thermal energy required to raise the temperature of 1 kg of a substance by 1 degree Celsius", "The energy released when a gas condenses into a liquid", "The thermal energy needed to convert 1 kg of a solid into a liquid at constant temperature", "The total energy stored in a chemical bond"],
+"correct": 2
+},
+{
+"q": "How much thermal energy is required to melt 2 kg of ice at 0 degrees Celsius, given that the specific latent heat of fusion of ice is 330,000 J/kg?",
+"a": ["165,000 J", "330,000 J", "3,300 J", "660,000 J"],
+"correct": 3
+},
+{
+"q": "What term describes the energy required to convert a unit mass of liquid into a gas at its boiling point without any change in temperature?",
+"a": ["Specific latent heat of vaporization", "Specific heat capacity", "Thermal capacity", "Internal energy"],
+"correct": 0
+},
+{
+"q": "Why does sweating cool down the human body on a hot day?",
+"a": ["Sweat adds insulating layers to the skin.", "Water molecules with the highest kinetic energy evaporate from the skin surface, leaving behind lower-energy particles and removing thermal energy.", "Sweat generates an electrical cooling current.", "Sweat increases body mass."],
+"correct": 1
+},
+{
+"q": "What is the definition of specific heat capacity?",
+"a": ["The total heat energy stored in an object", "The heat required to melt a solid", "The energy required to raise the temperature of 1 kg of a substance by 1 degree Celsius", "The rate of heat transfer through a material"],
+"correct": 2
+},
+{
+"q": "Calculate the thermal energy needed to raise the temperature of 3 kg of water from 20 degrees Celsius to 70 degrees Celsius. (Specific heat capacity of water = 4,200 J/(kg degrees Celsius))",
+"a": ["126,000 J", "252,000 J", "504,000 J", "630,000 J"],
+"correct": 3
+},
+{
+"q": "Which of the following states of matter is characterized by ionized atoms and free electrons, existing at extremely high temperatures like in stars?",
+"a": ["Plasma", "Solid", "Liquid", "Gas"],
+"correct": 0
+},
+{
+"q": "In a thermocouple thermometer, what physical phenomenon is used to measure temperature?",
+"a": ["Expansion of mercury in a glass capillary", "A voltage produced at the junction of two dissimilar metals when maintained at different temperatures", "Change in electrical resistance of a copper wire", "Change in gas pressure"],
+"correct": 1
+},
+{
+"q": "What happens to the molecules of a gas when the gas is compressed rapidly in a cylinder?",
+"a": ["Molecules lose all kinetic energy.", "Molecules freeze instantly.", "Work is done on the gas, increasing its internal energy and raising its temperature.", "Molecules expand in size."],
+"correct": 2
+},
+{
+"q": "Why do metal pipes carrying steam often include U-shaped expansion loops or bends?",
+"a": ["To increase water pressure inside", "To slow down steam flow speed", "To trap air bubbles", "To allow the metal pipes to expand and contract safely without cracking joints when hot steam passes through"],
+"correct": 3
+},
+{
+"q": "What is the primary microscopic difference between boiling and evaporation?",
+"a": ["Boiling involves bubble formation throughout the liquid volume due to vapor pressure equaling atmospheric pressure, whereas evaporation involves individual surface molecules escaping.", "Boiling involves chemical reactions.", "Evaporation occurs only in sealed chambers.", "Boiling happens at absolute zero."],
+"correct": 0
+},
+{
+"q": "If an object has a high specific heat capacity, how does it respond to heating compared to a substance with a low specific heat capacity?",
+"a": ["It heats up and cools down much faster.", "It requires more thermal energy to experience the same temperature rise and heats up more slowly.", "It melts instantly.", "It does not expand at all."],
+"correct": 1
+},
+{
+"q": "What is the internal energy of a body defined as?",
+"a": ["The total kinetic energy of its molecules only", "The total potential energy of its molecules only", "The total sum of the kinetic and potential energies of all the molecules making up the body", "The external mechanical work done on the body"],
+"correct": 2
+},
+{
+"q": "Why does a bimetallic strip bend when heated?",
+"a": ["One metal melts while the other stays solid.", "Both metals expand by the exact same amount.", "Air pressure pushes harder on one side.", "Two different metals have different coefficients of thermal expansion, causing one side to expand more than the other."],
+"correct": 3
+},
+{
+"q": "What is the boiling point of pure water on the Kelvin scale at standard atmospheric pressure?",
+"a": ["373.15 K", "273.15 K", "100 K", "0 K"],
+"correct": 0
+},
+{
+"q": "Which of the following experimental procedures is essential when measuring the specific heat capacity of a metal block using an electric immersion heater?",
+"a": ["Insulating the metal block to minimize heat loss to the surrounding environment", "Placing the block in a block of ice", "Boiling the metal block beforehand", "Stirring the metal block with a glass rod"],
+"correct": 1
+},
+{
+"q": "What happens to gas pressure if the volume of a fixed mass of gas is halved at constant temperature (Boyle Law)?",
+"a": ["Pressure is halved.", "Pressure remains unchanged.", "Pressure is doubled.", "Pressure increases by a factor of four."],
+"correct": 2
+},
+{
+"q": "Why do glass tumblers sometimes crack when boiling water is poured into them suddenly?",
+"a": ["Boiling water reacts chemically with glass.", "Glass is a magnetic material.", "Water pressure shatters the bottom.", "Uneven thermal expansion occurs because glass is a poor thermal conductor, causing extreme thermal stress between the inner and outer walls."],
+"correct": 3
+},
+{
+"q": "What is the quantity of heat energy released when 0.5 kg of steam condenses to water at 100 degrees Celsius? (Specific latent heat of vaporization = 2,260,000 J/kg)",
+"a": ["1,130,000 J", "565,000 J", "2,260,000 J", "4,520,000 J"],
+"correct": 0
+},
+{
+"q": "Why is burns from steam at 100 degrees Celsius often much more severe than burns from boiling water at 100 degrees Celsius?",
+"a": ["Steam is chemically acidic.", "Steam releases an enormous amount of latent heat of vaporization when condensing on the skin in addition to cooling to body temperature.", "Steam travels at the speed of sound.", "Steam has a lower specific heat capacity."],
+"correct": 1
+},
+{
+"q": "What temperature corresponds to 50 degrees Celsius on the Kelvin scale?",
+"a": ["-223 K", "50 K", "323 K", "373 K"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes Brownian motion?",
+"a": ["Regular circular orbit of electrons around atomic nuclei", "Ordered flow of water molecules in a pipe", "Steady diffusion of gases across a room", "Random, erratic motion of microscopic dust or pollen suspended in a fluid caused by bombardment from fast-moving invisible fluid molecules"],
+"correct": 3
+}
+]
+}

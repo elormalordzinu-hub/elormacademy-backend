@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr. Elorm's QTD Template</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="qtd-page">
+
+<canvas id="confetti-canvas"></canvas>
+
+<div class="header-controls">
+    <button onclick="history.back()" class="btn-nav">BACK</button>
+    <div class="info-group">
+        <div id="timer">Time: 0:00</div>
+        <div id="score-display">Score: 0/5</div>
+        <div class="audio-controls">
+            <button class="btn-mute" onclick="toggleMute()" id="mute-btn">🔊</button>
+            <input type="range" id="volume-slider" min="0" max="1" step="0.1" value="0.5" oninput="setVolume(this.value)">
+        </div>
+    </div>
+    <button class="btn-nav" onclick="window.location.href='../index.html'">HOME</button>
+</div>
+
+<div id="quiz-title">Cambridge Year 7 Physics Activity</div>
+
+<div class="quiz-container" id="main-ui">
+    <div id="quiz-body">
+        <h2 id="question">Loading...</h2>
+        <div id="options"></div>
+    </div>
+    <div id="q-feedback" class="q-feedback"></div>
+</div>
+
+<div id="final-overlay">
+    <h1 id="final-msg-text" class="final-msg"></h1>
+    <h2 id="final-stats" class="final-stats-style"></h2>
+    <div class="final-btn-group">
+      <a href="javascript:restartWithId()" class="option-btn final-btn-link">Try Again</a>  
+    </div>
+</div>
+<script src="../js/sessionTracker.js"></script>
+<script src="../js/qtd.js"></script>
+</body>
+</html>

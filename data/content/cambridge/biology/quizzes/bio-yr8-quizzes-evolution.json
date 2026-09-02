@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-evolution",
+"name": "Natural selection and evolution",
+"questions": [
+{
+"q": "What is the process by which species change over long periods of time through natural selection?",
+"a": ["Evolution", "Respiration", "Photosynthesis", "Transpiration"],
+"correct": 0
+},
+{
+"q": "Who is the world-famous scientist known for developing the theory of evolution by natural selection?",
+"a": ["Isaac Newton", "Charles Darwin", "Louis Pasteur", "Gregor Mendel"],
+"correct": 1
+},
+{
+"q": "What term describes a characteristic or feature that helps an organism survive and reproduce in its environment?",
+"a": ["A mutation", "A disease", "An adaptation", "An excretion"],
+"correct": 2
+},
+{
+"q": "What is natural selection often described as in terms of survival?",
+"a": ["Survival of the largest", "Survival of the loudest", "Survival of the oldest", "Survival of the fittest"],
+"correct": 3
+},
+{
+"q": "Why is genetic variation within a population essential for natural selection to occur?",
+"a": ["It provides different traits, some of which give individuals an advantage when environmental conditions change", "It ensures all offspring are identical clones", "It stops organisms from needing food or water", "It prevents mutations from happening in DNA"],
+"correct": 0
+},
+{
+"q": "What happens to individuals within a population that possess advantageous adaptations?",
+"a": ["They die before reaching maturity", "They are more likely to survive, reproduce, and pass on their beneficial traits", "They turn into a completely different species overnight", "They stop reproducing completely"],
+"correct": 1
+},
+{
+"q": "What physical evidence do scientists use to study organisms that lived millions of years ago?",
+"a": ["Written historical records", "Direct video recordings", "Fossils preserved in rock layers", "Modern weather maps"],
+"correct": 2
+},
+{
+"q": "What is extinction?",
+"a": ["The movement of a species to a warmer climate", "A temporary sleep state in winter", "The process of a caterpillar turning into a butterfly", "The permanent loss of every single individual of a species"],
+"correct": 3
+},
+{
+"q": "Which of the following is a major cause of modern species extinction?",
+"a": ["Habitat destruction caused by human activities", "Breeding animals in protected nature reserves", "Planting native trees in gardens", "Providing wild animals with extra food"],
+"correct": 0
+},
+{
+"q": "How does peppered moth camouflage illustrate natural selection in polluted industrial areas?",
+"a": ["White moths grew larger wings to fly faster", "Darker moths survived better on soot-darkened trees because predators could not spot them easily", "Light-colored moths turned green by eating leaves", "Moths stopped flying during the daytime"],
+"correct": 1
+},
+{
+"q": "What is the main source of new genetic variation in a population over many generations?",
+"a": ["Regular physical exercise", "Eating a balanced diet", "Random mutations in DNA", "Changes in daily weather"],
+"correct": 2
+},
+{
+"q": "How do selective breeding (artificial selection) and natural selection differ?",
+"a": ["Natural selection involves humans choosing traits, while selective breeding happens in nature", "Selective breeding works only on plants, while natural selection works only on animals", "Natural selection happens in one day, while selective breeding takes millions of years", "Humans choose desirable traits in selective breeding, whereas environmental factors drive natural selection"],
+"correct": 3
+},
+{
+"q": "Why did Darwin's finches on the Galápagos Islands develop different beak shapes?",
+"a": ["Their beak shapes adapted to the different types of food available on each island", "They shaped their beaks manually using rocks", "The weather caused their beaks to melt and reshape", "They inherited their beak shapes from giant marine turtles"],
+"correct": 0
+},
+{
+"q": "What is a major reason why some species cannot adapt fast enough and go extinct when their environment changes?",
+"a": ["They have too much genetic variation", "The rate of environmental change is faster than the rate at which advantageous traits can spread", "They produce too many surviving offspring", "Their DNA changes too quickly"],
+"correct": 1
+},
+{
+"q": "What term describes the structural resemblance of an organism to another object or organism to gain a survival advantage?",
+"a": ["Hibernate", "Transpiration", "Mimicry", "Photosynthesis"],
+"correct": 2
+},
+{
+"q": "Why are webbed feet an advantageous structural adaptation for ducks?",
+"a": ["They help ducks climb tall oak trees", "They allow ducks to fly faster through clouds", "They help ducks catch flying insects in the dark", "They provide a larger surface area to push efficiently against water while swimming"],
+"correct": 3
+},
+{
+"q": "What is the primary factor that creates competition between individuals of the same species in a habitat?",
+"a": ["Limited resources such as food, water, space, and mates", "An overabundance of free food and shelter", "Having identical colors", "Living in total isolation from other animals"],
+"correct": 0
+},
+{
+"q": "How does antibiotic resistance develop in bacteria through natural selection?",
+"a": ["Antibiotics turn non-resistant bacteria into red blood cells", "Mutated bacteria with resistance survive antibiotic treatment, reproduce, and pass on the resistance gene", "Bacteria learn to hide inside plant cells when medicine arrives", "Antibiotics cause bacteria to turn into viruses"],
+"correct": 1
+},
+{
+"q": "Which feature of a polar bear is a clear functional adaptation for surviving in frigid Arctic conditions?",
+"a": ["Thin skin with zero body fat", "Bright yellow fur for hiding in tropical forests", "A thick layer of blubber (fat) beneath the skin for thermal insulation", "Long slender legs for running across hot desert sand"],
+"correct": 2
+},
+{
+"q": "What happens to the proportion of individuals with an advantageous trait in a population over several generations?",
+"a": ["It decreases until the trait disappears completely", "It stays under 1% forever", "It changes randomly every single hour", "It increases as those individuals survive and pass the trait to offspring"],
+"correct": 3
+},
+{
+"q": "What are vestigial structures?",
+"a": ["Remnants of organs or structures that had a function in early ancestors but are no longer useful in modern species", "Newly evolved super-organs that give animals special abilities", "Structures used exclusively for photosynthesis in plant stems", "Artificial limbs built by scientists"],
+"correct": 0
+},
+{
+"q": "How do deep-sea fish adapt to live in total darkness?",
+"a": ["They grow large green leaves on their fins", "They often possess bioluminescence (light-producing organs) or enhanced non-visual senses", "They fly out of the ocean to catch sunlight during the day", "They stop using blood cells completely"],
+"correct": 1
+},
+{
+"q": "Why is biodiversity important for the long-term resilience of ecosystems?",
+"a": ["It ensures that all animals eat the exact same food source", "It prevents any natural weather changes from taking place", "A diverse range of species makes ecosystems more stable and capable of recovering from environmental disruptions", "It guarantees that no species will ever compete for space"],
+"correct": 2
+},
+{
+"q": "Which observation contributed to Charles Darwin formulating his theory of evolution?",
+"a": ["All animals have the exact same physical traits regardless of where they live", "Fossils show no changes in animal structures across geological history", "Bacteria are the only living things on Earth", "Organisms produce more offspring than can survive, leading to a struggle for existence"],
+"correct": 3
+},
+{
+"q": "What adaptation allows desert plants like cacti to store water and survive droughts?",
+"a": ["Swollen, fleshy stems and leaves reduced to sharp spines to minimize transpiration", "Broad, thin leaves with thousands of open stomata on top", "Deep root systems that absorb sunlight underground", "Bright red flowers that absorb liquid nitrogen"],
+"correct": 0
+},
+{
+"q": "What is the primary reason why prey animals like gazelles evolved high running speeds over time?",
+"a": ["To travel to cold countries during winter", "Faster gazelles escaped predators more effectively, survived, and passed on their speed to offspring", "To show off to other herbivore species", "Because eating grass turned their muscles into metal"],
+"correct": 1
+},
+{
+"q": "What type of adaptation is bird migration during cold winter months?",
+"a": ["A structural adaptation", "A chemical adaptation", "A behavioral adaptation", "A genetic defect"],
+"correct": 2
+},
+{
+"q": "Why do some insects look almost identical to tree twigs or green leaves?",
+"a": ["To absorb plant sap through their skin", "Because they turn into wood when they grow old", "To trick plants into feeding them", "To blend in with their surroundings (camouflage) and avoid detection by predators"],
+"correct": 3
+},
+{
+"q": "What term describes a group of similar organisms that can interbreed to produce fertile offspring?",
+"a": ["A species", "A kingdom", "A tissue", "An organelle"],
+"correct": 0
+},
+{
+"q": "How can a sudden major climate change lead to rapid evolutionary changes or extinction?",
+"a": ["It makes all animals immortal instantly", "It changes the environmental pressures, favoring individuals with rare traits suited to the new conditions while others die out", "It stops natural selection from operating in nature", "It converts all carnivores into herbivores"],
+"correct": 1
+},
+{
+"q": "Why do seeds dispersed far from the parent plant have a better chance of surviving and contributing to evolution?",
+"a": ["They get eaten by deep-sea fish", "They grow into animals instead of plants", "They face reduced competition with the parent plant for light, water, and minerals", "They float away into outer space"],
+"correct": 2
+},
+{
+"q": "What role do predator-prey relationships play in natural selection?",
+"a": ["Predators help prey animals build nests", "Prey animals teach predators how to run faster", "Predators eat only the plants near prey animals", "Predators act as a selective force, capturing slower or less camouflaged prey and driving evolution in both species"],
+"correct": 3
+},
+{
+"q": "What is an example of a behavioral adaptation in wolves?",
+"a": ["Hunting in coordinated packs to bring down larger prey", "Having sharp carnivore teeth for tearing meat", "Possessing thick fur to stay warm in winter", "Having strong jaws for crushing bones"],
+"correct": 0
+},
+{
+"q": "Why are male peacocks brightly colored despite the risk of being spotted easily by predators?",
+"a": ["Bright colors absorb extra sunlight for energy", "Bright plumage attracts female peahens, ensuring successful reproduction and passing on of genes", "The colors make peacocks invisible in green bushes", "Peacocks use bright colors to blind predators in the dark"],
+"correct": 1
+},
+{
+"q": "What happens if a population becomes geographically isolated (e.g., separated by a new river or mountain range) for thousands of years?",
+"a": ["Both groups remain completely identical forever", "They stop using DNA", "Different selective pressures may cause the isolated groups to evolve separately into distinct species", "They immediately turn into fossils"],
+"correct": 2
+},
+{
+"q": "Which adaptation helps animals living in cold regions reduce heat loss from their bodies?",
+"a": ["Having thin outer skin with no hair", "Having very large thin ears like elephants", "Living alone on hot sand dunes", "Having small ears and a low surface-area-to-volume ratio"],
+"correct": 3
+},
+{
+"q": "What is the term for the process where two unrelated species evolve similar traits because they adapt to similar environments (e.g., dolphins and sharks)?",
+"a": ["Convergent evolution", "Artificial selection", "Extinction", "Selective breeding"],
+"correct": 0
+},
+{
+"q": "Why did giraffes evolve long necks according to the theory of natural selection?",
+"a": ["Giraffes stretched their necks continuously during their lifetime and passed the stretched neck to calves", "Ancestors with slightly longer necks could reach higher tree leaves, giving them a survival advantage to reproduce", "Godzilla stretched their necks using mechanical ropes", "Short-necked giraffes decided to turn into zebras"],
+"correct": 1
+},
+{
+"q": "What does a fossil record found in sequential rock layers reveal to scientists?",
+"a": ["The exact names of ancient animal owners", "That life on Earth has remained completely unchanged since creation", "How living organisms have gradually changed and increased in complexity over geological time", "The future weather forecasts for the next century"],
+"correct": 2
+},
+{
+"q": "Which trait in crop plants is commonly targeted by farmers using artificial selection rather than natural selection?",
+"a": ["Smallest possible seed size", "Susceptibility to fungal diseases", "Inability to absorb sunlight", "High crop yield and resistance to pests"],
+"correct": 3
+}
+]
+}

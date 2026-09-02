@@ -1,0 +1,246 @@
+{
+"id": "phys-alevel-quizzes-quantum",
+"name": "Quantum physics and the photoelectric effect",
+"questions": [
+{
+"q": "What is a photon defined as in quantum physics?",
+"p": "Context from source 14.",
+"a": ["A discrete packet (quantum) of electromagnetic radiation energy", "A subatomic particle with positive charge and zero rest mass", "An atomic nucleus orbiting electrons", "A continuous wave of sound energy"],
+"correct": 0
+},
+{
+"q": "What equation gives the energy E of a photon in terms of Planck constant h and frequency f?",
+"p": "Context from source 14.",
+"a": ["E = h / f", "E = h f", "E = h c / f²", "E = f / h"],
+"correct": 1
+},
+{
+"q": "What is the threshold frequency f_0 in the photoelectric effect?",
+"p": "Context from source 14.",
+"a": ["The maximum frequency of emitted photoelectrons", "The frequency of incident light required to heat up the metal surface", "The minimum frequency of incident radiation below which no photoelectrons are emitted from the metal surface", "The frequency of the incident photon after collision"],
+"correct": 2
+},
+{
+"q": "What is the work function phi of a metal surface?",
+"p": "Context from source 14.",
+"a": ["The total kinetic energy of emitted photoelectrons", "The energy required to melt the metal", "The maximum energy of a photon in a beam", "The minimum energy required to liberate an electron from the surface of the metal"],
+"correct": 3
+},
+{
+"q": "What is Einstein's photoelectric equation relating maximum kinetic energy KE_max of emitted photoelectrons, photon energy hf, and work function phi?",
+"p": "Context from source 14.",
+"a": ["KE_max = hf - phi", "KE_max = hf + phi", "KE_max = phi - hf", "KE_max = hf / phi"],
+"correct": 0
+},
+{
+"q": "What is stopping potential V_s in a photoelectric experiment defined as?",
+"p": "Context from source 14.",
+"a": ["The voltage required to start photoemission", "The minimum negative potential applied to the anode that stops even the most energetic photoelectrons from reaching it, such that e * V_s = KE_max", "The potential difference across the metal plate", "The ionization potential of gas atoms"],
+"correct": 1
+},
+{
+"q": "What does de Broglie's wavelength hypothesis state for a particle of momentum p (mass m, velocity v)?",
+"p": "Context from source 14.",
+"a": ["lambda = p / h", "lambda = h p", "lambda = h / p = h / (m v)", "lambda = m v / h²"],
+"correct": 2
+},
+{
+"q": "Which phenomenon provides direct experimental evidence for the wave nature of electrons?",
+"p": "Context from source 14.",
+"a": ["Alpha particle scattering", "Photoelectric effect", "Line emission spectra", "Electron diffraction (e.g., passing electrons through a thin graphite crystal)"],
+"correct": 3
+},
+{
+"q": "What happens to the maximum kinetic energy of emitted photoelectrons if the intensity of incident monochromatic light above threshold frequency is doubled?",
+"p": "Context from source 14.",
+"a": ["Maximum kinetic energy remains unchanged (though number of emitted photoelectrons per second doubles)", "Maximum kinetic energy is doubled", "Maximum kinetic energy is quadrupled", "Photoemission stops entirely"],
+"correct": 0
+},
+{
+"q": "Why does wave theory fail to explain the photoelectric effect?",
+"p": "Context from source 14.",
+"a": ["Wave theory predicts that light energy is localized in photons", "Wave theory predicts that any frequency of light should cause emission given enough time for energy accumulation, which contradicts the existence of a threshold frequency", "Wave theory predicts zero energy transfer", "Wave theory accounts only for transverse waves"],
+"correct": 1
+},
+{
+"q": "What is the momentum p of a photon of frequency f and wavelength lambda?",
+"p": "Context from source 14.",
+"a": ["p = h lambda / c", "p = h c / lambda", "p = h / lambda = h f / c", "p = c / (h lambda)"],
+"correct": 2
+},
+{
+"q": "What does a line emission spectrum from a low-pressure atomic gas indicate about electron energy levels in atoms?",
+"p": "Context from source 14.",
+"a": ["Energy levels are continuous and unbounded", "Electrons spiral freely into the nucleus", "Energy levels can take any arbitrary value", "Energy levels in atoms are discrete (quantized), and photons are emitted when electrons transition between higher and lower energy levels"],
+"correct": 3
+},
+{
+"q": "What is the energy of a photon of wavelength 500 nm in joules? (h = 6.63 x 10⁻³⁴ J s, c = 3.00 x 10⁸ m s⁻¹)",
+"p": "Context from source 14.",
+"a": ["3.98 x 10⁻¹⁹ J", "3.32 x 10⁻²⁰ J", "1.33 x 10⁻²⁷ J", "6.63 x 10⁻¹⁹ J"],
+"correct": 0
+},
+{
+"q": "What is the de Broglie wavelength of an electron moving at a speed of 2.0 x 10⁶ m s⁻¹? (m_e = 9.11 x 10⁻³¹ kg, h = 6.63 x 10⁻³⁴ J s)",
+"p": "Context from source 14.",
+"a": ["1.82 x 10⁻¹⁰ m", "3.64 x 10⁻¹⁰ m", "6.63 x 10⁻³⁰ m", "4.50 x 10⁻¹² m"],
+"correct": 1
+},
+{
+"q": "What does the gradient of a graph of maximum kinetic energy of photoelectrons versus frequency of incident light represent?",
+"p": "Context from source 14.",
+"a": ["Work function phi", "Threshold frequency f_0", "Planck constant h", "Speed of light c"],
+"correct": 2
+},
+{
+"q": "Where does the intercept on the frequency axis represent on a graph of maximum kinetic energy versus frequency in the photoelectric effect?",
+"p": "Context from source 14.",
+"a": ["Work function", "Stopping potential", "Maximum wavelength", "Threshold frequency f_0"],
+"correct": 3
+},
+{
+"q": "What is the threshold wavelength lambda_0 for a metal with a work function of 3.30 x 10⁻¹⁹ J? (h = 6.63 x 10⁻³⁴ J s, c = 3.00 x 10⁸ m s⁻¹)",
+"p": "Context from source 14.",
+"a": ["603 nm", "500 nm", "330 nm", "200 nm"],
+"correct": 0
+},
+{
+"q": "What happens to line absorption spectra when white light passes through a cool, low-pressure gas?",
+"p": "Context from source 14.",
+"a": ["All light is completely blocked", "Dark lines appear across the continuous spectrum corresponding exactly to photon frequencies absorbed by electrons jumping to higher energy levels", "Bright colored lines appear on a black background", "The spectrum becomes entirely continuous"],
+"correct": 1
+},
+{
+"q": "What is the maximum kinetic energy of photoelectrons emitted from a metal of work function 2.0 eV when illuminated by ultraviolet light of photon energy 4.5 eV?",
+"p": "Context from source 14.",
+"a": ["2.0 eV", "4.5 eV", "2.5 eV", "6.5 eV"],
+"correct": 2
+},
+{
+"q": "What is the energy change delta E when an electron transitions between two energy levels in an atom emitting a photon of frequency f?",
+"p": "Context from source 14.",
+"a": ["delta E = f / h", "delta E = h / f", "delta E = h + f", "delta E = h f = E_2 - E_1"],
+"correct": 3
+},
+{
+"q": "What is the stopping potential when photoelectrons with a maximum kinetic energy of 1.60 x 10⁻¹⁹ J are stopped by an opposing electric field? (e = 1.60 x 10⁻¹⁹ C)",
+"p": "Context from source 14.",
+"a": ["1.0 V", "2.0 V", "0.5 V", "1.6 V"],
+"correct": 0
+},
+{
+"q": "Why do electrons exhibit diffraction effects similar to X-rays when passed through thin crystalline materials?",
+"p": "Context from source 14.",
+"a": ["Because electrons have mass and charge", "Because the de Broglie wavelength of accelerated electrons is comparable to the atomic spacing in crystals", "Because crystals emit high-energy photons", "Because electrons break down into smaller wave packets"],
+"correct": 1
+},
+{
+"q": "What is the momentum of a photon with a wavelength of 400 nm?",
+"p": "Context from source 14.",
+"a": ["1.66 x 10⁻²⁷ N s", "6.63 x 10⁻²⁷ N s", "1.66 x 10⁻²⁷ kg m s⁻¹", "4.00 x 10⁻²⁰ kg m s⁻¹"],
+"correct": 2
+},
+{
+"q": "Which property of light is best explained by the wave model rather than the photon model?",
+"p": "Context from source 14.",
+"a": ["The photoelectric effect", "Line emission spectra", "Photon momentum", "Interference and diffraction of light waves"],
+"correct": 3
+},
+{
+"q": "What is the frequency of a photon whose energy is equal to 3.30 x 10⁻¹⁹ J? (h = 6.63 x 10⁻³⁴ J s)",
+"p": "Context from source 14.",
+"a": ["4.98 x 10¹⁴ Hz", "2.19 x 10¹⁵ Hz", "6.63 x 10¹⁴ Hz", "1.00 x 10¹⁵ Hz"],
+"correct": 0
+},
+{
+"q": "What energy is required to accelerate an electron from rest through a potential difference of 100 V?",
+"p": "Context from source 14.",
+"a": ["1.00 x 10⁻¹⁶ J", "1.60 x 10⁻¹⁷ J", "1.60 x 10⁻¹⁹ J", "9.11 x 10⁻¹⁶ J"],
+"correct": 1
+},
+{
+"q": "What is the de Broglie wavelength of an electron accelerated from rest through a potential difference of 100 V?",
+"p": "Context from source 14.",
+"a": ["1.23 nm", "0.22 nm", "0.123 nm", "1.23 x 10⁻¹⁰ m (Wait: lambda = h / square root of (2 m e V) = 6.63e-34 / square root of (2 * 9.11e-31 * 1.60e-19 * 100) = 1.23e-10 m)", "0.05 nm"],
+"correct": 2
+},
+{
+"q": "What does wave-particle duality state in modern quantum mechanics?",
+"p": "Context from source 14.",
+"a": ["All particles travel strictly at the speed of light", "Light and matter exhibit both wave-like and particle-like properties depending on the experimental context", "Waves and particles are completely independent physical phenomena", "Mass can be converted into electrical charge"],
+"correct": 3
+},
+{
+"q": "What is the work function of a metal in electron-volts if its threshold frequency is 5.5 x 10¹⁴ Hz? (h = 6.63 x 10⁻³⁴ J s, 1 eV = 1.60 x 10⁻¹⁹ J)",
+"p": "Context from source 14.",
+"a": ["2.28 eV", "3.64 eV", "1.14 eV", "4.50 eV"],
+"correct": 0
+},
+{
+"q": "What happens to the rate of emission of photoelectrons (photocurrent) when the intensity of incident ultraviolet light above threshold frequency is increased?",
+"p": "Context from source 14.",
+"a": ["Current drops to zero", "Current increases because more photons strike the metal surface per unit time, ejecting more photoelectrons", "Current remains constant", "Kinetic energy of photoelectrons increases"],
+"correct": 1
+},
+{
+"q": "What is the maximum speed of photoelectrons emitted when light of frequency 1.0 x 10¹⁵ Hz shines on a metal with a work function of 2.0 eV? (h = 6.63 x 10⁻³⁴ J s, m_e = 9.11 x 10⁻³¹ kg)",
+"p": "Context from source 14.",
+"a": ["4.5 x 10⁵ m s⁻¹", "8.2 x 10⁵ m s⁻¹", "7.5 x 10⁵ m s⁻¹", "1.2 x 10⁶ m s⁻¹"],
+"correct": 2
+},
+{
+"q": "Why can optical microscopes not resolve objects smaller than approximately 200 nm, whereas electron microscopes can achieve atomic resolution?",
+"p": "Context from source 14.",
+"a": ["Because electrons have higher mass", "Because visible light photons carry negative charge", "Because optical lenses absorb ultraviolet rays", "Because the de Broglie wavelength of accelerated electrons is much smaller than the wavelength of visible light, diffraction limits resolution"],
+"correct": 3
+},
+{
+"q": "What is the energy of a red photon with a wavelength of 700 nm?",
+"p": "Context from source 14.",
+"a": ["2.84 x 10⁻¹⁹ J", "4.50 x 10⁻¹⁹ J", "1.99 x 10⁻¹⁹ J", "3.10 x 10⁻¹⁹ J"],
+"correct": 0
+},
+{
+"q": "What is the minimum potential difference V required to stop electrons accelerated through 250 V?",
+"p": "Context from source 14.",
+"a": ["125 V", "250 V", "500 V", "0 V"],
+"correct": 1
+},
+{
+"q": "What is the frequency of a photon emitted when an electron falls between two energy levels separated by 3.2 x 10⁻¹⁹ J?",
+"p": "Context from source 14.",
+"a": ["1.0 x 10¹⁴ Hz", "3.2 x 10¹⁴ Hz", "4.83 x 10¹⁴ Hz", "6.63 x 10¹⁵ Hz"],
+"correct": 2
+},
+{
+"q": "Which experimental observation supports the photon model of light over the classical wave model?",
+"p": "Context from source 14.",
+"a": ["Refraction of light through glass prisms", "Interference fringes in Young's double-slit experiment", "Polarization of transverse light waves", "Instantaneous emission of photoelectrons without a time delay regardless of low light intensity, provided frequency exceeds threshold"],
+"correct": 3
+},
+{
+"q": "What is the momentum of an electron with a de Broglie wavelength of 0.10 nm (1.0 x 10⁻¹⁰ m)? (h = 6.63 x 10⁻³⁴ J s)",
+"p": "Context from source 14.",
+"a": ["6.63 x 10⁻²⁴ N s", "6.63 x 10⁻²² N s", "1.00 x 10⁻²⁵ N s", "9.11 x 10⁻²⁴ N s"],
+"correct": 0
+},
+{
+"q": "What is the work function of sodium metal if its threshold wavelength is 540 nm?",
+"p": "Context from source 14.",
+"a": ["1.20 x 10⁻¹⁹ J", "3.68 x 10⁻¹⁹ J", "5.40 x 10⁻¹⁹ J", "6.63 x 10⁻¹⁹ J"],
+"correct": 1
+},
+{
+"q": "What is the maximum kinetic energy in electron-volts of photoelectrons emitted by a metal with work function 2.2 eV when irradiated with light of wavelength 400 nm?",
+"p": "Context from source 14.",
+"a": ["1.0 eV", "2.2 eV", "0.9 eV", "3.1 eV"],
+"correct": 2
+},
+{
+"q": "What does the existence of sharp spectral lines in absorption and emission spectra prove about atomic structure?",
+"p": "Context from source 14.",
+"a": ["Atoms contain continuous clouds of positive charge", "Electrons orbit the nucleus in random spiral paths", "Atoms have no internal structure", "Electrons exist in discrete, quantized energy states within atoms"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-geometry-constructions",
+"name": "Geometry Constructions",
+"questions": [
+{
+"q": "Which of the following mathematical instruments is primarily used for drawing accurate circles and arcs?",
+"a": ["Compass", "Protractor", "Divider", "Set square"],
+"correct": 0
+},
+{
+"q": "What is the primary function of a pair of dividers in geometrical constructions?",
+"a": ["Drawing straight lines", "Measuring or comparing line segments", "Bisecting angles", "Drawing perpendiculars"],
+"correct": 1
+},
+{
+"q": "When constructing the perpendicular bisector of a given line segment AB, what is the standard procedure regarding the compass radius?",
+"a": ["Set the radius to less than half of AB", "Set the radius to exactly half of AB", "Set the radius to more than half of the length of AB", "Radius size does not matter"],
+"correct": 2
+},
+{
+"q": "What angle is formed when you construct the bisector of a straight angle (180 degrees)?",
+"a": ["45 degrees", "60 degrees", "120 degrees", "90 degrees"],
+"correct": 3
+},
+{
+"q": "Which angle can be constructed easily using a ruler and compasses without using a protractor by bisecting a 60-degree angle?",
+"a": ["30 degrees", "45 degrees", "75 degrees", "135 degrees"],
+"correct": 0
+},
+{
+"q": "To construct an angle of 60 degrees using a ruler and a pair of compasses, what is the first major step after drawing a base line?",
+"a": ["Draw a perpendicular line", "Draw an arc from the vertex that cuts the baseline, then use the same radius to cut that arc", "Bisect the line segment", "Measure 60 degrees with a protractor"],
+"correct": 1
+},
+{
+"q": "When constructing a triangle given all three side lengths (SSS), which instrument is used to measure and transfer the side lengths accurately onto the paper?",
+"a": ["Protractor", "Set square", "Pair of compasses", "Ruler only"],
+"correct": 2
+},
+{
+"q": "What is the term for a line that divides a given angle into two equal halves?",
+"a": ["Perpendicular line", "Tangent", "Chord", "Angle bisector"],
+"correct": 3
+},
+{
+"q": "Which combination of angles can be constructed using only a ruler and compasses?",
+"a": ["15°, 30°, 45°, 60°, 75°, 90°", "only 45° and 90°", "any random angle like 37°", "only 60° and 120°"],
+"correct": 0
+},
+{
+"q": "In geometrical construction, what does the abbreviation 'SSS' stand for when constructing triangles?",
+"a": ["Side-Square-Side", "Side-Side-Side", "Slope-Segment-Side", "Straight-Side-Scale"],
+"correct": 1
+},
+{
+"q": "How do you construct a 90-degree angle at a point on a straight line using a compass?",
+"a": ["By drawing a circle of radius 5 cm", "By measuring with a protractor", "By constructing a perpendicular bisector or perpendicular at a given point", "By drawing two parallel lines"],
+"correct": 2
+},
+{
+"q": "What is the geometric property of every point that lies on the perpendicular bisector of a line segment?",
+"a": ["It is parallel to the endpoints", "It is closer to one endpoint than the other", "It forms a right angle with the midpoint only", "It is equidistant from the two endpoints of the line segment"],
+"correct": 3
+},
+{
+"q": "Which instrument has a 30°-60°-90° and a 45°-45°-90° configuration and is used to draw parallel and perpendicular lines?",
+"a": ["Set squares", "Protractor", "Compass", "Divider"],
+"correct": 0
+},
+{
+"q": "If you are asked to construct an angle of 135 degrees using a ruler and compasses, which two standard angles can you combine or bisect?",
+"a": ["30° and 60°", "90° and 45°", "60° and 30°", "120° and 15°"],
+"correct": 1
+},
+{
+"q": "When constructing a triangle given two sides and the included angle (SAS), what does 'included angle' mean?",
+"a": ["Any angle in the triangle", "The angle opposite the longest side", "The angle formed between the two given sides", "The exterior angle"],
+"correct": 2
+},
+{
+"q": "Why are pencils sharpened to a fine, chisel or conical point during geometrical constructions?",
+"a": ["To make the drawing look dark", "To make it easier to erase", "To use up lead faster", "To ensure high precision and accuracy of intersecting lines and points"],
+"correct": 3
+},
+{
+"q": "What is the first step when constructing a regular hexagon inscribed in a circle?",
+"a": ["Draw a circle and step off the radius along the circumference six times", "Draw a square inside the circle", "Bisect the diameter", "Draw perpendicular tangents"],
+"correct": 0
+},
+{
+"q": "To construct an angle of 75 degrees using a ruler and compasses, which angles do you bisect?",
+"a": ["0° and 90°", "60° and 90°", "45° and 60°", "90° and 120°"],
+"correct": 1
+},
+{
+"q": "What is the term for a line drawn perpendicular to a line segment passing exactly through its middle point?",
+"a": ["Angle bisector", "Altitude", "Perpendicular bisector", "Median"],
+"correct": 2
+},
+{
+"q": "Which of the following geometric constructions represents the locus of points equidistant from two intersecting lines?",
+"a": ["A circle centered at the intersection", "A parallel line", "A perpendicular line", "The angle bisector(s) of the intersecting lines"],
+"correct": 3
+},
+{
+"q": "When constructing a tangent to a circle from a point outside the circle, what key theorem from circle geometry is used?",
+"a": ["The radius drawn to the point of contact is perpendicular to the tangent", "Angles in the same segment are equal", "Opposite angles of a cyclic quadrilateral sum to 180°", "The angle in a semicircle is a right angle"],
+"correct": 0
+},
+{
+"q": "What is the measure of the angle obtained when you bisect a 30-degree angle?",
+"a": ["60 degrees", "15 degrees", "10 degrees", "7.5 degrees"],
+"correct": 1
+},
+{
+"q": "If you are given triangle ABC with angles and side lengths, and you need to construct it given ASA, what does ASA stand for?",
+"a": ["Angle-Side-Area", "Area-Side-Angle", "Angle-Side-Angle", "Axis-Side-Apex"],
+"correct": 2
+},
+{
+"q": "Which construction tool is marked in degrees from 0° to 180° and used for measuring or drawing non-standard angles?",
+"a": ["Ruler", "Compass", "Divider", "Protractor"],
+"correct": 3
+},
+{
+"q": "In constructing a parallel to a given line through a point not on the line, what type of angles are often equalized (such as alternate interior or corresponding angles)?",
+"a": ["Corresponding or alternate angles", "Complementary angles", "Supplementary angles", "Vertical opposite angles"],
+"correct": 0
+},
+{
+"q": "What is the locus of a point that moves so that it is always at a constant distance (radius) from a fixed point (center)?",
+"a": ["A straight line", "A circle", "An ellipse", "A parabola"],
+"correct": 1
+},
+{
+"q": "When constructing a circumcircle about a triangle, what lines must you construct concurrent intersections for?",
+"a": ["Angle bisectors", "Altitudes", "Perpendicular bisectors of the sides", "Medians"],
+"correct": 2
+},
+{
+"q": "What is the primary reason for leaving construction arcs visible on an examination paper?",
+"a": ["To make the paper look messy", "To show that a protractor was used", "To test handwriting", "To prove that the diagram was constructed accurately using geometrical instruments rather than measured or guessed"],
+"correct": 3
+},
+{
+"q": "To construct an angle of 105 degrees using a ruler and compasses, which two standard angles can be added together?",
+"a": ["90° and 15° (or bisecting the region between 90° and 120°)", "60° and 30°", "120° and 15°", "45° and 60°"],
+"correct": 0
+},
+{
+"q": "When constructing an inscribed equilateral triangle inside a given circle, what is the angle subtended at the center by each side chord?",
+"a": ["90 degrees", "120 degrees", "60 degrees", "180 degrees"],
+"correct": 1
+},
+{
+"q": "What term describes lines or circles that meet at one common point during a construction?",
+"a": ["Parallel", "Disjoint", "Concurrent", "Tangent"],
+"correct": 2
+},
+{
+"q": "Which of the following triangles cannot be constructed uniquely if only the three angles (AAA) are given?",
+"a": ["An equilateral triangle", "A right-angled isosceles triangle", "Any specific unique triangle (since infinite similar triangles exist for AAA)", "A 30-60-90 triangle"],
+"correct": 3
+},
+{
+"q": "What is the incircle of a triangle centered at, and how is it constructed?",
+"a": ["At the intersection of the angle bisectors (incenter)", "At the intersection of perpendicular bisectors (circumcenter)", "At the intersection of altitudes (orthocenter)", "At the intersection of medians (centroid)"],
+"correct": 0
+},
+{
+"q": "If you construct a line perpendicular to a line segment from a point that lies directly on that line, what is the critical first step with the compass at the point?",
+"a": ["Draw a random line across", "Draw arcs of equal radius on both sides of the point along the line", "Measure 90 degrees with a protractor", "Open the compass to the full length of the line"],
+"correct": 1
+},
+{
+"q": "When copying a given angle using a ruler and compasses, what does the construction rely on creating?",
+"a": ["Perpendicular lines", "Parallel lines", "Congruent triangles using equal arc radii", "Similar rectangles"],
+"correct": 2
+},
+{
+"q": "What is the minimum number of independent pieces of information (measurements of sides/angles) generally required to construct a unique triangle?",
+"a": ["1", "4", "2", "3"],
+"correct": 3
+},
+{
+"q": "What is the special name given to the point of concurrency of the three medians of a triangle?",
+"a": ["Centroid", "Circumcenter", "Incenter", "Orthocenter"],
+"correct": 0
+},
+{
+"q": "Which construction technique is used to divide a given line segment into a number of equal parts without measuring its exact length with a ruler?",
+"a": ["Using a protractor to measure angles", "Drawing an auxiliary ray at an acute angle and marking equal segments along it", "Using a divider to guess intervals", "Bisecting the line repeatedly"],
+"correct": 1
+},
+{
+"q": "When constructing a square given the length of its diagonal, what geometric relationship between the diagonals of a square is utilized?",
+"a": ["They are unequal and parallel", "They bisect each other at 60 degrees", "They bisect each other at right angles (90 degrees) and are equal in length", "They are perpendicular but unequal"],
+"correct": 2
+},
+{
+"q": "What is the term for a polygon inscribed in a circle such that all its vertices touch the circumference of the circle?",
+"a": ["Tangential polygon", "Concentric polygon", "Regular polygon", "Cyclic polygon"],
+"correct": 3
+}
+]
+}

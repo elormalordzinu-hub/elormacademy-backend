@@ -1,0 +1,206 @@
+{
+  "id": "chem-igcse-quizzes-states",
+  "name": "States of matter and changes of state",
+  "questions": [
+    {
+      "q": "Which of the following describes the particle arrangement and motion in a solid?",
+      "a": ["Regularly arranged, vibrating about fixed positions", "Randomly arranged, moving rapidly in all directions", "Far apart, sliding past each other slowly", "Closely packed, moving freely throughout the container"],
+      "correct": 0
+    },
+    {
+      "q": "What term is used to describe the phase change directly from a solid to a gas?",
+      "a": ["Evaporation", "Sublimation", "Condensation", "Melting"],
+      "correct": 1
+    },
+    {
+      "q": "During the melting of a pure crystalline solid, what happens to its temperature?",
+      "a": ["It increases steadily", "It decreases rapidly", "It remains constant", "It fluctuates randomly"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following physical changes is exothermic?",
+      "a": ["Melting", "Evaporation", "Boiling", "Freezing"],
+      "correct": 3
+    },
+    {
+      "q": "Why are gases easily compressible compared to solids and liquids?",
+      "a": ["Because there are large empty spaces between gas particles", "Because gas particles are soft and squishy", "Because gas particles shrink under external pressure", "Because liquids lack any intermolecular forces"],
+      "correct": 0
+    },
+    {
+      "q": "What name is given to the random motion of microscopic particles suspended in a fluid, caused by collisions with fast-moving molecules?",
+      "a": ["Osmosis", "Brownian motion", "Diffusion", "Convection"],
+      "correct": 1
+    },
+    {
+      "q": "When a bottle of perfume is opened, its scent spreads across the room. What process causes this?",
+      "a": ["Sublimation", "Condensation", "Diffusion", "Distillation"],
+      "correct": 2
+    },
+    {
+      "q": "Which factor increases the rate of diffusion of a gas?",
+      "a": ["Decreasing the ambient temperature", "Increasing the total pressure", "Increasing the molecular mass of the gas particles", "Increasing the temperature"],
+      "correct": 3
+    },
+    {
+      "q": "Gas A has a relative molecular mass Mr of 16, and Gas B has a relative molecular mass Mr of 64. Which gas will diffuse faster at room temperature?",
+      "a": ["Gas A, because it has a lower molecular mass and its particles travel faster", "Gas B, because it is heavier and carries more momentum", "Both will diffuse at exactly the same speed", "Gas B, because heavier particles move quicker"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the average kinetic energy of water molecules when water is heated from 20 °C to 80 °C?",
+      "a": ["It decreases", "It increases", "It remains unchanged", "It drops to zero"],
+      "correct": 1
+    },
+    {
+      "q": "Which state of matter has a fixed volume but no fixed shape?",
+      "a": ["Solid", "Gas", "Liquid", "Plasma"],
+      "correct": 2
+    },
+    {
+      "q": "What is the term for the phase change from a gas to a liquid?",
+      "a": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+      "correct": 3
+    },
+    {
+      "q": "In an experiment where ammonia (NH<sub>3</sub>) and hydrogen chloride (HCl) react to form a white ring of ammonium chloride (NH<sub>4</sub>Cl), where does the ring form?",
+      "a": ["Closer to the hydrogen chloride end, because HCl has a higher relative molecular mass and diffuses slower", "Closer to the ammonia end, because it is heavier", "In the exact middle of the tube", "At both open ends simultaneously"],
+      "correct": 0
+    },
+    {
+      "q": "How does evaporation differ from boiling?",
+      "a": ["Evaporation occurs only at the boiling point throughout the liquid", "Evaporation occurs only at the surface and at any temperature below the boiling point", "Boiling does not require energy input", "Evaporation requires an external flame source"],
+      "correct": 1
+    },
+    {
+      "q": "Which statement best describes the forces of attraction between particles in an ideal gas?",
+      "a": ["Very strong forces holding them in a rigid lattice", "Moderate forces allowing them to slide past each other", "Negligible or zero forces of attraction under normal conditions", "Electrical bonds linking nuclei directly"],
+      "correct": 2
+    },
+    {
+      "q": "What occurs physically at the melting point of a pure substance?",
+      "a": ["Particles stop moving completely", "Gas bubbles form throughout the solid", "The solid turns directly into a vapor", "Particles gain enough energy to break out of their fixed positions in the lattice, forming a liquid"],
+      "correct": 3
+    },
+    {
+      "q": "If solid iodine is heated gently and turns directly into purple vapor without melting, what is this process called?",
+      "a": ["Sublimation", "Condensation", "Evaporation", "Melting"],
+      "correct": 0
+    },
+    {
+      "q": "Why does a puddle of water evaporate faster on a warm, windy day than on a cold, calm day?",
+      "a": ["Wind decreases humidity and warmth slows down particles", "Higher temperature increases particle kinetic energy and wind removes vapor molecules, increasing the rate of evaporation", "The water undergoes chemical reactions with the wind", "Cold air causes the water to sublime"],
+      "correct": 1
+    },
+    {
+      "q": "Which substance sublimes rather than melts under normal atmospheric pressure?",
+      "a": ["Sodium chloride", "Water", "Carbon dioxide (dry ice)", "Copper"],
+      "correct": 2
+    },
+    {
+      "q": "When steam condenses on a cold surface, energy is:",
+      "a": ["Absorbed from the surroundings", "Converted into mass", "Destroyed during the phase change", "Released to the surroundings"],
+      "correct": 3
+    },
+    {
+      "q": "Which graph feature represents a pure substance changing from a liquid to a solid during a cooling curve?",
+      "a": ["A flat horizontal section (plateau) where temperature remains constant while changing state", "A straight vertical line pointing upwards", "A continuous downward slope with no flat sections", "A horizontal line at zero pressure"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the average distance between particles when a substance freezes into a solid?",
+      "a": ["Distance increases significantly", "Distance generally decreases as particles settle into a structured, close-packed lattice", "Distance remains identical to the gas phase", "Distance fluctuates randomly without order"],
+      "correct": 1
+    },
+    {
+      "q": "Which property distinguishes a liquid from a gas?",
+      "a": ["Liquids are easily compressible", "Gases have fixed volumes", "Liquids have particles held close together by attractive forces, limiting volume changes", "Gases have regular particle arrangements"],
+      "correct": 2
+    },
+    {
+      "q": "What causes pressure inside a sealed container filled with gas?",
+      "a": ["Gravitational pull on container walls", "Chemical reactions between molecules", "Attractive forces pulling molecules together", "Collisions of fast-moving gas particles with the interior walls of the container"],
+      "correct": 3
+    },
+    {
+      "q": "Comparing the diffusion of sulfur dioxide (SO<sub>2</sub>, Mr = 64) and methane (CH<sub>4</sub>, Mr = 16), which diffuses faster and by what factor?",
+      "a": ["Methane diffuses twice as fast as sulfur dioxide", "Sulfur dioxide diffuses four times faster than methane", "Both diffuse at equal rates", "Methane diffuses sixteen times faster"],
+      "correct": 0
+    },
+    {
+      "q": "Which phase change involves particles losing thermal energy to the surroundings?",
+      "a": ["Melting", "Condensing", "Subliming", "Boiling"],
+      "correct": 1
+    },
+    {
+      "q": "A student heats a solid crystal until it melts and then boils. Which sequence shows increasing disorder (entropy) of the particles?",
+      "a": ["Gas < Liquid < Solid", "Liquid < Solid < Gas", "Solid < Liquid < Gas", "Gas < Solid < Liquid"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a closed metal container filled with air increase in internal pressure when heated?",
+      "a": ["The number of gas molecules increases", "The volume of individual gas molecules expands", "The container walls shrink", "Particles gain kinetic energy, colliding more frequently and with greater force against the walls"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the conversion of a liquid into a gas at any temperature below its boiling point?",
+      "a": ["Evaporation", "Freezing", "Sublimation", "Condensation"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the temperature of boiling water as it continues to boil vigorously in an open beaker?",
+      "a": ["It continues to rise steadily", "It remains constant at its boiling point", "It drops rapidly", "It fluctuates randomly"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following provides direct evidence for the particulate nature of matter via random particle motion?",
+      "a": ["Electrolysis of molten salts", "Thermal expansion of metal rods", "Brownian motion of smoke particles suspended in air", "Dissolution of ionic crystals"],
+      "correct": 2
+    },
+    {
+      "q": "If the temperature of an ideal gas in a rigid container is doubled on the Kelvin scale, what happens to the average speed of its particles?",
+      "a": ["It decreases by half", "It remains completely unchanged", "It drops to zero", "It increases, as higher temperature corresponds to higher average kinetic energy"],
+      "correct": 3
+    },
+    {
+      "q": "Which statement correctly compares solid and gas states?",
+      "a": ["Solid particles vibrate about fixed positions; gas particles move randomly at high speeds", "Solid particles are far apart; gas particles are tightly bound", "Solids can flow easily; gases maintain rigid shapes", "Both possess high compressibility"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes a substance that has melted into a liquid state?",
+      "a": ["Solute", "Molten", "Solution", "Aqueous"],
+      "correct": 1
+    },
+    {
+      "q": "During a phase change from liquid to gas, thermal energy supplied is used primarily for what purpose?",
+      "a": ["To increase the speed of individual molecules within the gas", "To create new chemical bonds", "To overcome the forces of attraction holding particles together in the liquid state", "To increase the mass of individual molecules"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following gases diffuses the slowest in air at room temperature?",
+      "a": ["Hydrogen (H<sub>2</sub>)", "Helium (He)", "Neon (Ne)", "Carbon dioxide (CO<sub>2</sub>)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the physical state of bromine (Br<sub>2</sub>) at 25 °C, given its melting point is -7 °C and boiling point is 59 °C?",
+      "a": ["Liquid", "Solid", "Gas", "Plasma"],
+      "correct": 0
+    },
+    {
+      "q": "Why does food cook faster in a pressure cooker than in an open saucepan?",
+      "a": ["Food is stirred automatically by steam", "Increased pressure inside the cooker raises the boiling point of water, allowing cooking at higher temperatures", "Pressure lowers the kinetic energy of water molecules", "Cooling occurs faster under high pressure"],
+      "correct": 1
+    },
+    {
+      "q": "Which phenomenon provides visual evidence of random particle motion in liquids?",
+      "a": ["Dissolution of sugar in tea", "Rusting of iron nails", "Pollen grains moving randomly when viewed under a microscope in water", "Electrical conductivity of salt solutions"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the density of most substances when they change from a liquid to a solid?",
+      "a": ["Density decreases drastically", "Density drops to zero", "Density remains unaffected", "Density generally increases because particles pack more closely together"],
+      "correct": 3
+    }
+  ]
+}

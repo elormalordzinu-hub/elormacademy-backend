@@ -1,0 +1,186 @@
+{
+  "id": "chem-igcse-quizzes-separation",
+  "name": "Separation and purification methods",
+  "questions": [
+    {
+      "q": "Which separation method is best suited for separating a mixture of sand and water?",
+      "a": ["Filtration", "Simple distillation", "Fractional distillation", "Chromatography"],
+      "correct": 0
+    },
+    {
+      "q": "What is the purpose of using a fractionating column in fractional distillation?",
+      "a": ["To cool the mixture down to freezing point", "To provide a temperature gradient so liquids with different boiling points can separate effectively", "To filter out solid impurities", "To add water to the mixture"],
+      "correct": 1
+    },
+    {
+      "q": "Which technique is used to obtain pure water from an aqueous solution of copper(II) sulfate (CuSO<sub>4</sub>)?",
+      "a": ["Filtration", "Paper chromatography", "Simple distillation", "Crystallization"],
+      "correct": 2
+    },
+    {
+      "q": "In paper chromatography, what name is given to the stationary phase?",
+      "a": ["The solvent", "The eluent", "The baseline", "The chromatography paper"],
+      "correct": 3
+    },
+    {
+      "q": "How is the R<sub>f</sub> value of a substance calculated in paper chromatography?",
+      "a": ["Distance moved by substance divided by distance moved by solvent front", "Distance moved by solvent front divided by distance moved by substance", "Total length of the paper strip", "Weight of the spot divided by volume of solvent"],
+      "correct": 0
+    },
+    {
+      "q": "Why is the baseline in paper chromatography drawn in pencil rather than ink?",
+      "a": ["Pencil marks look neater", "Ink would dissolve in the solvent and interfere with the chromatogram, whereas pencil graphite is insoluble", "Pencil ink reacts with sample spots", "Ink prevents the solvent from rising"],
+      "correct": 1
+    },
+    {
+      "q": "Which method is used to separate a mixture of two or more miscible liquids with different boiling points, such as ethanol and water?",
+      "a": ["Filtration", "Evaporation to dryness", "Fractional distillation", "Magnetic separation"],
+      "correct": 2
+    },
+    {
+      "q": "When carrying out crystallization to obtain pure dry crystals from a hot solution, what is the first step after heating?",
+      "a": ["Wash with concentrated acid", "Add more solute powder", "Filter the mixture immediately", "Allow the filtered solution to cool slowly to form crystals"],
+      "correct": 3
+    },
+    {
+      "q": "Which piece of equipment is essential for condensing vapors back into liquids during distillation?",
+      "a": ["Liebig condenser", "Bunsen burner", "Dropping funnel", "Desiccator"],
+      "correct": 0
+    },
+    {
+      "q": "How would you separate a solid mixture of iron filings and sulfur powder?",
+      "a": ["Dissolve in water and filter", "Use a magnet to attract the iron filings", "Heat strongly until both evaporate", "Add dilute hydrochloric acid"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes the liquid that passes through the filter paper during filtration?",
+      "a": ["Residue", "Distillate", "Filtrate", "Solute"],
+      "correct": 2
+    },
+    {
+      "q": "Why are locating agents used in chromatography when analyzing colorless substances like amino acids?",
+      "a": ["To make the solvent evaporate faster", "To stop spots from running off the paper", "To dissolve the chromatography paper", "To react with colorless spots and produce visible colored compounds"],
+      "correct": 3
+    },
+    {
+      "q": "Which method can separate rock salt (a mixture of sand and sodium chloride) into pure sand and pure salt crystals?",
+      "a": ["Dissolve in water, filter the sand, then evaporate or crystallize the filtrate to obtain salt", "Heat the rock salt until the sand melts", "Distill the dry rock salt mixture directly", "Use a magnet to separate salt from sand"],
+      "correct": 0
+    },
+    {
+      "q": "What is indicated if a substance produces a single spot on a paper chromatogram?",
+      "a": ["The substance is a complex mixture", "The substance is pure", "The substance is insoluble in water", "The substance has a high melting point"],
+      "correct": 1
+    },
+    {
+      "q": "In fractional distillation of liquid air, which gas boils off first because it has the lowest boiling point (-196 °C)?",
+      "a": ["Oxygen", "Argon", "Nitrogen", "Carbon dioxide"],
+      "correct": 2
+    },
+    {
+      "q": "What criterion determines whether a substance is pure when testing its melting point?",
+      "a": ["It melts over a wide temperature range", "It does not melt at all", "It melts at room temperature", "A pure substance melts at a sharp, exact fixed temperature"],
+      "correct": 3
+    },
+    {
+      "q": "Which separation technique relies on differences in solubility of components in a solvent combined with adsorption onto a solid surface?",
+      "a": ["Paper chromatography", "Simple distillation", "Filtration", "Centrifugation"],
+      "correct": 0
+    },
+    {
+      "q": "What is the solid left behind on filter paper after filtering a mixture?",
+      "a": ["Filtrate", "Residue", "Distillate", "Solution"],
+      "correct": 1
+    },
+    {
+      "q": "How can you separate a mixture of two immiscible liquids, such as oil and water?",
+      "a": ["Fractional distillation", "Evaporation", "Using a separating funnel", "Filtration through filter paper"],
+      "correct": 2
+    },
+    {
+      "q": "What effect does adding an impurity have on the melting and boiling points of a pure substance?",
+      "a": ["It raises melting point and lowers boiling point", "It has no effect whatsoever", "It makes both points sharper and higher", "It lowers the melting point and broadens the boiling point range"],
+      "correct": 3
+    },
+    {
+      "q": "In simple distillation, what is the purified liquid collected in the receiving flask called?",
+      "a": ["Distillate", "Residue", "Solvent", "Filtrate"],
+      "correct": 0
+    },
+    {
+      "q": "Why must water enter at the bottom of the water jacket in a Liebig condenser and leave at the top?",
+      "a": ["To save water usage", "To ensure the condenser jacket stays completely full of cold water for maximum cooling efficiency", "To heat vapor up before exiting", "To prevent water pressure from bursting the glass"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following mixtures is best separated using fractional distillation?",
+      "a": ["Sand and water", "Iron and sulfur", "Ethanol and water", "Oil and water"],
+      "correct": 2
+    },
+    {
+      "q": "A chromatogram shows a dye travels 4.0 cm while the solvent front travels 5.0 cm. What is the R<sub>f</sub> value of the dye?",
+      "a": ["1.25", "0.20", "5.00", "0.80"],
+      "correct": 3
+    },
+    {
+      "q": "Which technique is appropriate for separating soluble colored dyes in food coloring?",
+      "a": ["Paper chromatography", "Filtration", "Magnetic separation", "Simple distillation"],
+      "correct": 0
+    },
+    {
+      "q": "What apparatus measures out precise volumes of liquids during analytical separation procedures?",
+      "a": ["Beaker", "Pipette or burette", "Evaporating dish", "Crucible"],
+      "correct": 1
+    },
+    {
+      "q": "In crystallization, how do you identify when a hot solution is saturated and ready for cooling?",
+      "a": ["When liquid boils away completely", "When crystals form on the sides of a dipped hot glass rod", "When the solution turns bright green", "When bubbling stops entirely"],
+      "correct": 2
+    },
+    {
+      "q": "Why is petroleum separated by fractional distillation rather than simple distillation?",
+      "a": ["Petroleum is a solid", "Petroleum contains only one compound", "Simple distillation requires too much pressure", "Petroleum is a mixture of many hydrocarbons with close boiling points requiring a temperature gradient"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary role of anti-bumping granules added to a distillation flask?",
+      "a": ["To ensure smooth, even boiling and prevent violent bumping", "To filter out impurities", "To catalyze a chemical reaction", "To increase the temperature of the flame"],
+      "correct": 0
+    },
+    {
+      "q": "Which physical property is exploited when separating components using a separating funnel?",
+      "a": ["Magnetic susceptibility", "Differences in density between immiscible liquids", "Boiling point differences", "Solubility in paper"],
+      "correct": 1
+    },
+    {
+      "q": "If a substance has an R<sub>f</sub> value of 0.0, what does this indicate in paper chromatography?",
+      "a": ["The substance is extremely soluble in the solvent", "The substance traveled further than the solvent front", "The substance did not dissolve in the solvent and remained on the baseline", "The substance evaporated into the air"],
+      "correct": 2
+    },
+    {
+      "q": "When purifying impure salt by crystallization, why is the solution filtered while hot before cooling?",
+      "a": ["To remove dissolved salt crystals", "To speed up evaporation", "To evaporate water faster", "To remove insoluble impurities such as sand"],
+      "correct": 3
+    },
+    {
+      "q": "Which method separates a soluble solid from solution by evaporating the solvent completely?",
+      "a": ["Evaporation to dryness", "Fractional distillation", "Filtration", "Chromatography"],
+      "correct": 0
+    },
+    {
+      "q": "What name is given to the liquid moving up the chromatography paper?",
+      "a": ["Residue", "Solvent front or eluent", "Distillate", "Filtrate"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following mixtures cannot be separated by filtration and evaporation alone?",
+      "a": ["Sand and water", "Salt and water", "Ethanol and water", "Copper sulfate crystals and water"],
+      "correct": 2
+    },
+    {
+      "q": "Why must the solvent level in a chromatography tank be below the pencil baseline at the start?",
+      "a": ["To wet the paper faster", "To prevent spots from drying out", "To allow locating agents to work", "To prevent sample spots from dissolving directly into the solvent pool instead of rising up"],
+      "correct": 3
+    }
+  ]
+}

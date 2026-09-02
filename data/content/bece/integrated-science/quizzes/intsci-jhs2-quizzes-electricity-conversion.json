@@ -1,0 +1,206 @@
+{
+  "id": "intsci-jhs2-quizzes-electricity-conversion",
+  "name": "Electricity Conversion",
+  "questions": [
+    {
+      "q": "What term is used to describe the flow of electric charge (electrons) through a conductor?",
+      "a": ["Electric current", "Electric potential", "Electric resistance", "Magnetic flux"],
+      "correct": 0
+    },
+    {
+      "q": "Which instrument is used to measure electric current flowing in a circuit?",
+      "a": ["Voltmeter", "Ammeter", "Rheostat", "Galvanometer"],
+      "correct": 1
+    },
+    {
+      "q": "What is the SI unit of electrical resistance?",
+      "a": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correct": 2
+    },
+    {
+      "q": "Which energy conversion takes place in a working hydroelectric power station?",
+      "a": ["Electrical energy to chemical energy", "Chemical energy to light energy", "Light energy to nuclear energy", "Potential/kinetic energy of water to electrical energy"],
+      "correct": 3
+    },
+    {
+      "q": "What device converts electrical energy into mechanical energy in industrial and domestic appliances?",
+      "a": ["Electric motor", "Electric generator", "Solar cell", "Galvanic cell"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following materials is an excellent electrical conductor?",
+      "a": ["Dry wood", "Copper", "Plastic", "Rubber"],
+      "correct": 1
+    },
+    {
+      "q": "What is the function of a fuse or circuit breaker in an electrical installation?",
+      "a": ["To increase the voltage of appliances", "To store excess electrical charge", "To protect circuits from excessive current by breaking the connection", "To convert alternating current to direct current"],
+      "correct": 2
+    },
+    {
+      "q": "Which energy transformation occurs when an electric lamp (bulb) is switched on?",
+      "a": ["Mechanical energy to heat energy", "Chemical energy to sound energy", "Nuclear energy to magnetic energy", "Electrical energy to light and heat energy"],
+      "correct": 3
+    },
+    {
+      "q": "What name is given to a complete, unbroken path through which electric current can flow?",
+      "a": ["Electric circuit", "Magnetic field", "Insulator grid", "Resistor network"],
+      "correct": 0
+    },
+    {
+      "q": "Which law states that the current flowing through a metallic conductor is directly proportional to the potential difference across its ends, provided temperature remains constant?",
+      "a": ["Faraday's law", "Ohm's law", "Coulomb's law", "Newton's law"],
+      "correct": 1
+    },
+    {
+      "q": "What device is used to convert sunlight directly into electrical energy?",
+      "a": ["Hydroelectric turbine", "Dry cell battery", "Solar (photovoltaic) cell", "Electric dynamo"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a primary safety precaution when handling electrical appliances?",
+      "a": ["Touching switches with wet hands", "Repairing live wires without turning off the mains", "Inserting metal objects into wall sockets", "Ensuring appliances are properly earthed and insulated"],
+      "correct": 3
+    },
+    {
+      "q": "What is the SI unit of electrical potential difference (voltage)?",
+      "a": ["Volt", "Coulomb", "Joule", "Watt"],
+      "correct": 0
+    },
+    {
+      "q": "Which device converts mechanical energy into electrical energy through electromagnetic induction?",
+      "a": ["Electric motor", "Electric generator (dynamo)", "Electric heater", "Battery charger"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes materials that do not allow electric current to flow through them easily?",
+      "a": ["Conductors", "Semiconductors", "Insulators", "Superconductors"],
+      "correct": 2
+    },
+    {
+      "q": "Which energy conversion happens inside a discharging chemical storage battery (accumulator)?",
+      "a": ["Electrical energy to light energy", "Kinetic energy to potential energy", "Solar energy to thermal energy", "Chemical energy to electrical energy"],
+      "correct": 3
+    },
+    {
+      "q": "How are components connected in a domestic electrical wiring system so that each appliance can be operated independently?",
+      "a": ["In parallel connection", "In series connection", "In random loops", "In linear chains"],
+      "correct": 0
+    },
+    {
+      "q": "What is the formula representing Ohm's law relating Voltage (V), Current (I), and Resistance (R)?",
+      "a": ["V = I + R", "V = I × R", "V = R / I", "V = I² × R"],
+      "correct": 1
+    },
+    {
+      "q": "Which renewable energy source harnesses the heat energy from deep within the Earth's crust to generate electricity?",
+      "a": ["Wind energy", "Solar energy", "Geothermal energy", "Biomass energy"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary function of a step-down transformer in a power transmission network?",
+      "a": ["To increase voltage for long-distance transmission", "To convert alternating current to direct current", "To generate electricity from coal", "To decrease high voltage from transmission lines to safer levels for domestic use"],
+      "correct": 3
+    },
+    {
+      "q": "What type of electric current periodically reverses its direction of flow, commonly used in household electricity mains?",
+      "a": ["Alternating Current (AC)", "Direct Current (DC)", "Static electricity", "Induced eddy current"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following household appliances primarily converts electrical energy into thermal (heat) energy?",
+      "a": ["Electric fan", "Electric pressing iron", "Radio receiver", "Television set"],
+      "correct": 1
+    },
+    {
+      "q": "What is the power rating formula used to calculate electrical power (P) from voltage (V) and current (I)?",
+      "a": ["P = V / I", "P = I / V", "P = V × I", "P = V + I"],
+      "correct": 2
+    },
+    {
+      "q": "Which energy transformation takes place when a wind turbine generates electricity?",
+      "a": ["Chemical energy to electrical energy", "Thermal energy to light energy", "Electrical energy to mechanical energy", "Kinetic energy of moving wind to electrical energy"],
+      "correct": 3
+    },
+    {
+      "q": "What is the main purpose of an earth wire in a three-pin electrical plug?",
+      "a": ["To provide a safe low-resistance path for fault current to protect against electric shocks", "To carry the main operating current to the appliance", "To regulate the voltage fluctuations from the power grid", "To increase the aesthetic value of the wiring"],
+      "correct": 0
+    },
+    {
+      "q": "Which instrument is used to measure electrical energy consumption in homes over a billing period?",
+      "a": ["Voltmeter", "Electricity kWh meter", "Galvanometer", "Multimeter"],
+      "correct": 1
+    },
+    {
+      "q": "What name is given to the rate at which electrical energy is transferred or consumed in an electric circuit?",
+      "a": ["Electrical resistance", "Potential difference", "Electric power", "Magnetic flux"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following energy sources is classified as non-renewable?",
+      "a": ["Solar energy", "Wind power", "Hydroelectric power", "Crude oil (Petroleum)"],
+      "correct": 3
+    },
+    {
+      "q": "What color is traditionally used for the live wire in standard modern international electrical flexible cables?",
+      "a": ["Brown", "Blue", "Green and yellow stripes", "Black"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following devices is used to step up or step down alternating voltage in transmission lines?",
+      "a": ["Resistor", "Transformer", "Capacitor", "Diode"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the total resistance when two or more resistors are connected in series in a circuit?",
+      "a": ["Total resistance decreases below the smallest individual resistor", "Total resistance remains unchanged", "Total resistance equals the sum of individual resistances", "Total resistance drops to zero"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following materials is commonly used to make heating elements in electric kettles and irons due to its high resistance?",
+      "a": ["Pure copper", "Pure silver", "Aluminum", "Nichrome alloy"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the potential difference between the terminals of a cell when it is delivering current in a closed circuit?",
+      "a": ["Terminal potential difference", "Electromotive force only", "Open circuit voltage", "Breakdown voltage"],
+      "correct": 0
+    },
+    {
+      "q": "Which device is designed to open an electrical circuit automatically when a dangerous overload or short circuit occurs?",
+      "a": ["Light bulb", "Circuit breaker", "Step-up transformer", "Electric switch"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary function of a commutator in a direct current (DC) electric motor?",
+      "a": ["To increase the voltage supply", "To store electrical charge", "To reverse the direction of current in the armature coil every half-turn to maintain continuous rotation", "To cool down the motor windings"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following actions helps conserve electrical energy in domestic households?",
+      "a": ["Leaving all lights and fans on overnight", "Using incandescent bulbs instead of energy-saving LEDs", "Keeping refrigerators open for long periods", "Switching off lights, fans, and televisions when leaving a room"],
+      "correct": 3
+    },
+    {
+      "q": "What is the color of the neutral wire in a standard three-core electrical cable?",
+      "a": ["Blue", "Brown", "Red", "Yellow"],
+      "correct": 0
+    },
+    {
+      "q": "Which component in a simple electric circuit provides the electrical energy or electromotive force needed to drive current?",
+      "a": ["Switch", "Cell or battery", "Copper connecting wire", "Fixed resistor"],
+      "correct": 1
+    },
+    {
+      "q": "What energy transformation occurs in a solar thermal panel used for heating water?",
+      "a": ["Chemical energy to mechanical energy", "Electrical energy to sound energy", "Solar radiation energy to thermal heat energy", "Nuclear energy to electrical energy"],
+      "correct": 2
+    },
+    {
+      "q": "Which safety device melts and breaks the circuit if the current exceeds a predetermined safe limit?",
+      "a": ["Insulator", "Voltmeter", "Earth wire", "Electric fuse"],
+      "correct": 3
+    }
+  ]
+}

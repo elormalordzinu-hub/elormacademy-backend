@@ -1,0 +1,126 @@
+{
+"id": "chem-alevel-quizzes-nitrogen",
+"name": "Nitrogen compounds amines and amides",
+"questions": [
+{
+"q": "What functional group defines an aliphatic primary amine?",
+"a": ["-NH<sub>2</sub> attached to an alkyl group", "-CONH<sub>2</sub>", "-CN", "-NO<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "How can primary aliphatic amines be prepared from halogenoalkanes in the laboratory?",
+"a": ["Reaction with aqueous sodium hydroxide under reflux", "Heating a halogenoalkane with excess ethanolic ammonia under pressure in a sealed tube", "Reaction with concentrated sulfuric acid", "Reduction with bromine water"],
+"correct": 1
+},
+{
+"q": "Why are aliphatic amines stronger bases than ammonia?",
+"a": ["Aliphatic amines have higher molecular mass", "Aliphatic amines contain more hydrogen atoms", "Alkyl groups are electron-releasing (positive inductive effect), which pushes electron density toward the nitrogen atom and makes its lone pair more available to accept a proton", "Aliphatic amines are ionic salts"],
+"correct": 2
+},
+{
+"q": "What is observed when an aliphatic amine is dissolved in water and tested with universal indicator?",
+"a": ["The solution turns strongly acidic (red)", "The solution remains completely neutral (green)", "The solution turns yellow", "The solution is alkaline (turns blue/purple) because amines act as Bronsted-Lowry bases accepting protons from water"],
+"correct": 3
+},
+{
+"q": "What is the organic product formed when an amine reacts with an acyl chloride?",
+"a": ["An N-substituted amide", "A carboxylic acid", "An ester", "An alkene"],
+"correct": 0
+},
+{
+"q": "What reagents and conditions are required to reduce a nitrile to a primary amine?",
+"a": ["Acidified potassium manganate(VII)", "Lithium aluminium hydride (LiAlH<sub>4</sub>) in dry ether, or catalytic hydrogenation (H<sub>2</sub> with Ni/Pt)", "Sodium chloride and water", "Concentrated hydrochloric acid"],
+"correct": 1
+},
+{
+"q": "What is formed when phenylamine reacts with excess aqueous bromine at room temperature?",
+"a": ["2-bromophenylamine", "4-bromophenylamine", "2,4,6-tribromophenylamine (white precipitate)", "Bromobenzene and ammonia"],
+"correct": 2
+},
+{
+"q": "Which compound is produced when ethylamine reacts with dilute hydrochloric acid?",
+"a": ["Ethyl chloride", "Ethanol", "Ethylamine hydrochloride (ethylammonium chloride salt)", "An amide"],
+"correct": 3
+},
+{
+"q": "What type of chemical reaction occurs when an amide is heated with dilute aqueous acid or alkali?",
+"a": ["Hydrolysis to form a carboxylic acid (or carboxylate salt) and an ammonium salt (or amine)", "Reduction to form an alkane", "Condensation polymerization", "Free radical substitution"],
+"correct": 0
+},
+{
+"q": "What is the structural difference between a primary amine and a tertiary amine?",
+"a": ["Primary amines have three alkyl groups, tertiary have one", "Primary amines have one alkyl group attached to nitrogen (R-NH<sub>2</sub>), whereas tertiary amines have three alkyl groups attached to nitrogen (R<sub>3</sub>N)", "Primary amines are ionic, tertiary are covalent", "Primary amines contain oxygen"],
+"correct": 1
+},
+{
+"q": "Why is phenylamine less basic than ethylamine?",
+"a": ["Phenylamine is a gas", "Phenylamine has a higher boiling point", "The lone pair on the nitrogen atom of phenylamine is delocalized into the aromatic pi-system, reducing its availability to accept protons", "Ethylamine has an ionic charge"],
+"correct": 2
+},
+{
+"q": "What is the functional group characteristic of amides?",
+"a": ["-C(OH)=NH", "-NH-", "-CN", "-CONH<sub>2</sub> (or -CONHR)"],
+"correct": 3
+},
+{
+"q": "What is formed during the coupling reaction of a diazonium salt with phenol in alkaline solution?",
+"a": ["A brightly colored azo dye (e.g., orange-red dye)", "An aliphatic amine", "A colorless gas", "A carboxylic acid"],
+"correct": 0
+},
+{
+"q": "What temperature range must be strictly maintained when preparing a diazonium salt from phenylamine and nitrous acid?",
+"a": ["100 to 120 degrees Celsius", "0 to 5 degrees Celsius to prevent decomposition of the reactive diazonium ion into phenol and nitrogen gas", "Room temperature (25 degrees Celsius)", "Below absolute zero"],
+"correct": 1
+},
+{
+"q": "Which of the following compounds can be classified as a secondary amine?",
+"a": ["Propylamine", "Triethylamine", "N-methylethylamine (diethylamine / secondary)", "Ammonia"],
+"correct": 2
+},
+{
+"q": "How can ethanamide be converted into methylamine?",
+"a": ["By reaction with dilute hydrochloric acid", "By reduction with water", "By heating with sodium hydroxide", "By Hofmann degradation (using bromine and sodium hydroxide)"],
+"correct": 3
+},
+{
+"q": "What is the primary reason why reacting halogenoalkanes with excess ammonia yields a mixture of primary, secondary, and tertiary amines (plus quaternary ammonium salts)?",
+"a": ["Because the initially formed primary amine is also a nucleophile and can react further with remaining halogenoalkane", "Because ammonia is unstable", "Because the reaction is completely reversible", "Because water interferes with the mechanism"],
+"correct": 0
+},
+{
+"q": "What is the IUPAC name of the amide formed from ethanoic acid and ammonia?",
+"a": ["N-methylethanamide", "Ethanamide", "Methanamide", "Propanamide"],
+"correct": 1
+},
+{
+"q": "Which of the following nitrogen-containing compounds is neutral in aqueous solution rather than basic?",
+"a": ["Methylamine", "Ammonia", "Phenylamide (an amide such as ethanamide)", "Phenylamine"],
+"correct": 2
+},
+{
+"q": "What is the role of sodium nitrite and hydrochloric acid when mixed at low temperatures with phenylamine?",
+"a": ["To oxidize the amine into a nitro group", "To hydrolyze the ring", "To form an amide", "To generate nitrous acid in situ for the diazotization reaction"],
+"correct": 3
+},
+{
+"q": "Which nitrogen compound is commonly used in industry as a starting material for the production of nylons and polyamides?",
+"a": ["Diamines (such as 1,6-diaminohexane)", "Ammonia gas", "Methylamine", "Urea"],
+"correct": 0
+},
+{
+"q": "What is the key structural feature of azo dyes formed from diazonium coupling reactions?",
+"a": ["An aliphatic chain", "A bridging azo group (-N=N-) linking two aromatic rings", "A nitro group", "An ionic ammonium center"],
+"correct": 1
+},
+{
+"q": "Why do primary amides have significantly higher melting and boiling points than corresponding primary amines of similar molecular mass?",
+"a": ["Amides have ionic bonds", "Amides are stronger bases", "Amides can form stronger and more extensive intermolecular hydrogen bonding due to both C=O and N-H groups", "Amides contain sulfur"],
+"correct": 2
+},
+{
+"q": "What is observed when an aqueous solution of copper(II) sulfate is added dropwise to an excess of ethylamine solution?",
+"a": ["A permanent green precipitate forms", "A white solid precipitates", "No visible reaction occurs", "A pale blue precipitate forms initially, which dissolves in excess ethylamine to form a deep blue complex solution"],
+"correct": 3
+}
+]
+}

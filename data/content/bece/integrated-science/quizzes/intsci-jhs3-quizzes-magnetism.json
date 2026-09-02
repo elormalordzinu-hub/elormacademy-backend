@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-magnetism",
+"name": "Magnetism",
+"questions": [
+{
+"q": "What term is used to describe the physical phenomenon by which materials exert an attractive or repulsive force on other materials?",
+"a": ["Magnetism", "Electrostatics", "Gravitation", "Friction"],
+"correct": 0
+},
+{
+"q": "Which of the following metals is strongly magnetic (ferromagnetic)?",
+"a": ["Copper", "Iron", "Aluminum", "Gold"],
+"correct": 1
+},
+{
+"q": "What name is given to the two ends of a magnet where the magnetic force is strongest?",
+"a": ["Magnetic centers", "Neutral axes", "Magnetic poles", "Electric terminals"],
+"correct": 2
+},
+{
+"q": "What happens when two like magnetic poles (e.g., North and North) are brought close together?",
+"a": ["They attract each other strongly", "They neutralize each other instantly", "They melt from friction", "They repel each other"],
+"correct": 3
+},
+{
+"q": "What law of magnetism states that like poles repel and opposite poles attract?",
+"a": ["The fundamental law of magnetism", "Ohm's law", "Faraday's law", "Coulomb's law of gravity"],
+"correct": 0
+},
+{
+"q": "Which instrument uses a freely suspended magnetic needle to find directions (such as North and South)?",
+"a": ["Ammeter", "Magnetic compass", "Voltmeter", "Hydrometer"],
+"correct": 1
+},
+{
+"q": "What term describes the region surrounding a magnet where its magnetic force can be detected and experienced?",
+"a": ["Electric field", "Gravitational zone", "Magnetic field", "Thermal radius"],
+"correct": 2
+},
+{
+"q": "Which of the following materials is classified as non-magnetic and cannot be magnetized?",
+"a": ["Steel", "Nickel", "Cobalt", "Wood or plastic"],
+"correct": 3
+},
+{
+"q": "What temporary method of magnetizing a steel bar involves stroking it repeatedly in one direction with one pole of a permanent magnet?",
+"a": ["Stroking method", "Induction method", "Heating method", "Electrical grounding"],
+"correct": 0
+},
+{
+"q": "Which core material is best suited for making strong electromagnets because it magnetizes and demagnetizes easily?",
+"a": ["Hard steel", "Soft iron", "Copper wire", "Brass alloy"],
+"correct": 1
+},
+{
+"q": "What device produces a magnetic field only when an electric current flows through its insulated wire coil?",
+"a": ["Permanent bar magnet", "Natural lodestone", "Electromagnet", "Electrostatic generator"],
+"correct": 2
+},
+{
+"q": "How can the strength of an electromagnet be increased?",
+"a": ["By decreasing the current and removing the iron core", "By unwinding the wire coil completely", "By lowering the voltage supply to zero", "By increasing the electric current and adding more turns to the coil"],
+"correct": 3
+},
+{
+"q": "What happens to a freely suspended bar magnet when it comes to rest in the Earth's magnetic field?",
+"a": ["It aligns itself in an approximately North-South direction", "It points randomly in all directions", "It aligns strictly East-West", "It points straight down into the ground"],
+"correct": 0
+},
+{
+"q": "What term describes magnets that retain their magnetism for a very long time without losing it easily?",
+"a": ["Temporary magnets", "Permanent magnets", "Electromagnets", "Induced magnets"],
+"correct": 1
+},
+{
+"q": "What is magnetic induction?",
+"a": ["The creation of sound waves by a magnet", "The complete destruction of magnetic poles", "The process by which a magnetic material becomes temporarily magnetized when placed near a magnet", "The flow of electric current through water"],
+"correct": 2
+},
+{
+"q": "Which of the following actions can demagnetize a permanent magnet?",
+"a": ["Painting it with oil", "Storing it with keepers across its poles", "Wrapping it in clean cloth", "Dropping it heavily, hammering it, or heating it strongly"],
+"correct": 3
+},
+{
+"q": "What name is given to the imaginary lines used to map out the direction and strength of a magnetic field?",
+"a": ["Magnetic field lines / lines of force", "Electric current paths", "Gravitational vectors", "Equipotential rings"],
+"correct": 0
+},
+{
+"q": "What direction do magnetic field lines conventionally run outside a bar magnet?",
+"a": ["From South pole to North pole", "From North pole to South pole", "In circular loops around the center only", "From the middle outwards to infinity"],
+"correct": 1
+},
+{
+"q": "What happens when a bar magnet is cut into two equal pieces?",
+"a": ["One piece becomes only North and the other becomes only South", "Both pieces lose their magnetism completely", "Each piece becomes a complete magnet with its own North and South poles", "The magnetic strength becomes zero"],
+"correct": 2
+},
+{
+"q": "Which of the following industrial applications relies heavily on powerful electromagnets?",
+"a": ["Insulating copper electrical cables", "Measuring liquid water pressure", "Cutting wooden planks in sawmills", "Lifting heavy scrap iron and steel in junkyards"],
+"correct": 3
+},
+{
+"q": "What natural mineral is a permanent magnet consisting of iron oxide, historically known as lodestone?",
+"a": ["Magnetite", "Bauxite", "Hematite", "Limestone"],
+"correct": 0
+},
+{
+"q": "Which of the following poles will attract a South pole of a magnet?",
+"a": ["Another South pole", "A North pole", "A piece of dry wood", "An unmagnetized plastic rod"],
+"correct": 1
+},
+{
+"q": "What device relies on an electromagnet to make a metallic clapper strike a bell when a button is pressed?",
+"a": ["Electric motor", "Electric generator", "Electric bell", "Transformer"],
+"correct": 2
+},
+{
+"q": "Which of the following factors does NOT affect the strength of an electromagnet?",
+"a": ["The magnitude of the electric current flowing through the coil", "The number of turns of wire in the coil", "The type of core material placed inside the coil", "The color of the insulation coating on the copper wire"],
+"correct": 3
+},
+{
+"q": "What term is used to describe small regions inside a magnetic material where the magnetic moments of atoms are aligned in the same direction?",
+"a": ["Magnetic domains", "Atomic nuclei", "Electron clouds", "Proton clusters"],
+"correct": 0
+},
+{
+"q": "Why do magnetic field lines never intersect or cross one another?",
+"a": ["Because they repel each other like charges", "Because a magnetic field point can only have one resultant direction at any given location", "Because they are physical strings", "Because magnets have zero force at the center"],
+"correct": 1
+},
+{
+"q": "What happens to unaligned magnetic domains in a piece of iron when it is magnetized?",
+"a": ["They scatter randomly in opposite directions", "They dissolve into liquid metal", "They line up in an orderly direction along the magnetic field", "They turn into electric charges"],
+"correct": 2
+},
+{
+"q": "Which of the following household or office items commonly contains a permanent magnet?",
+"a": ["Standard wooden pencil", "Cotton bedsheet", "Glass drinking cup", "Loudspeaker, microphone, and refrigerator door seal"],
+"correct": 3
+},
+{
+"q": "What is the primary difference between a permanent magnet and an electromagnet?",
+"a": ["An electromagnet can be turned on and off by controlling its electric current, whereas a permanent magnet retains its magnetism constantly", "A permanent magnet requires electricity to work", "An electromagnet has only one pole", "A permanent magnet is made of wood"],
+"correct": 0
+},
+{
+"q": "Which method of magnetization uses a direct current (DC) flowing through a solenoid (coil of wire) enclosing the steel specimen?",
+"a": ["Mechanical stroking", "Electrical (solenoid) method", "Thermal heating", "Chemical etching"],
+"correct": 1
+},
+{
+"q": "What name is given to the soft iron bars placed across the poles of horseshoe magnets during storage to prevent loss of magnetism?",
+"a": ["Magnetic shunts", "Insulating buffers", "Magnetic keepers", "Terminal clamps"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about the Earth's magnetism is correct?",
+"a": ["The Earth has no magnetic field", "The geographic North pole of the Earth acts as a magnetic South pole", "The Earth's magnetic field is identical to a bar magnet placed horizontally", "The Earth acts like a giant magnet with its magnetic poles located near its geographic poles"],
+"correct": 3
+},
+{
+"q": "What term describes the angle between true geographic north and magnetic north at any given place on Earth?",
+"a": ["Angle of magnetic declination (variation)", "Angle of dip", "Angle of refraction", "Critical angle"],
+"correct": 0
+},
+{
+"q": "Which of the following devices converts electrical energy into mechanical energy using magnetic forces acting on a current-carrying coil?",
+"a": ["Electric generator", "Electric motor", "Transformer", "Resistor"],
+"correct": 1
+},
+{
+"q": "What observation is made when iron filings are sprinkled around a bar magnet on a piece of paper?",
+"a": ["They form random uniform heaps", "They dissolve into the paper", "They arrange themselves in patterns outlining the magnetic field lines", "They fly away into the air"],
+"correct": 2
+},
+{
+"q": "Which of the following is true regarding magnetic poles?",
+"a": ["Magnetic poles always exist in isolated single north or single south units", "Monopoles can be created easily by cutting a magnet", "North poles can exist independently of south poles", "Magnetic poles always exist in pairs (North and South)"],
+"correct": 3
+},
+{
+"q": "What is the phenomenon where a changing magnetic field induces an electromotive force (voltage) in a conductor called?",
+"a": ["Electromagnetic induction", "Electrostatic discharge", "Magnetic saturation", "Thermal conduction"],
+"correct": 0
+},
+{
+"q": "Which of the following substances is attracted very weakly by a magnet, categorized as paramagnetic?",
+"a": ["Pure copper", "Platinum or aluminum", "Soft iron", "Hard steel"],
+"correct": 1
+},
+{
+"q": "What happens to the magnetic force between two magnets when the distance between them is increased?",
+"a": ["It increases rapidly", "It remains completely constant", "It decreases rapidly", "It turns into gravitational attraction"],
+"correct": 2
+},
+{
+"q": "Which of the following describes how a magnetic compass needle aligns itself when stationary?",
+"a": ["Perpendicular to the Earth's magnetic meridian", "At a 45-degree angle to the equator", "Randomly spinning in circles", "Along the magnetic meridian pointing towards the magnetic poles"],
+"correct": 3
+}
+]
+}

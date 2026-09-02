@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-acids",
+"name": "Acids bases and salts neutralization",
+"questions": [
+{
+"q": "What ion is responsible for the acidic properties of aqueous solutions?",
+"a": ["Hydrogen ion (H<sup>+</sup>)", "Hydroxide ion (OH<sup>-</sup>)", "Chloride ion (Cl<sup>-</sup>)", "Oxide ion (O<sup>2-</sup>)"],
+"correct": 0
+},
+{
+"q": "Which of the following substances acts as a base according to typical IGCSE definitions?",
+"a": ["Sodium chloride", "Copper(II) oxide", "Carbon dioxide", "Dilute hydrochloric acid"],
+"correct": 1
+},
+{
+"q": "What is formed when an acid neutralizes a base?",
+"a": ["Salt and hydrogen gas only", "Salt and water only", "Metal and oxygen", "Acid and water"],
+"correct": 2
+},
+{
+"q": "Which of the following is classified as a strong acid?",
+"a": ["Ethanoic acid", "Carbonic acid", "Citric acid", "Hydrochloric acid"],
+"correct": 3
+},
+{
+"q": "What color does methyl orange indicator turn in a strongly acidic solution?",
+"a": ["Red", "Yellow", "Blue", "Colorless"],
+"correct": 0
+},
+{
+"q": "Which type of oxide is sulfur dioxide (SO<sub>2</sub>)?",
+"a": ["Basic oxide", "Acidic oxide", "Amphoteric oxide", "Neutral oxide"],
+"correct": 1
+},
+{
+"q": "Which of the following oxides is amphoteric and can react with both acids and alkalis?",
+"a": ["Copper(II) oxide", "Carbon monoxide", "Aluminium oxide", "Calcium oxide"],
+"correct": 2
+},
+{
+"q": "What is the general name for a soluble base?",
+"a": ["Acid", "Salt", "Non-metal oxide", "Alkali"],
+"correct": 3
+},
+{
+"q": "What gas is produced when dilute hydrochloric acid reacts with calcium carbonate?",
+"a": ["Carbon dioxide", "Hydrogen", "Oxygen", "Chlorine"],
+"correct": 0
+},
+{
+"q": "Which salt is produced when excess copper(II) oxide is reacted with warm dilute sulfuric acid?",
+"a": ["Copper(II) chloride", "Copper(II) sulfate", "Copper(II) nitrate", "Copper(II) carbonate"],
+"correct": 1
+},
+{
+"q": "What is observed during the titration of sodium hydroxide with dilute hydrochloric acid using phenolphthalein indicator?",
+"a": ["Solution turns from colorless to pink", "Solution turns from blue to green", "Solution turns from pink to colorless", "A white precipitate forms instantly"],
+"correct": 2
+},
+{
+"q": "Which preparation method is best suited for making an insoluble salt like barium sulfate?",
+"a": ["Titration", "Direct combination of elements", "Excess metal added to acid", "Ionic precipitation (mixing two soluble salt solutions)"],
+"correct": 3
+},
+{
+"q": "What is the chemical formula of zinc chloride?",
+"a": ["ZnCl<sub>2</sub>", "ZnCl", "Zn<sub>2</sub>Cl", "ZnCl<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "Which ion is found in all aqueous alkaline solutions?",
+"a": ["Hydrogen ion (H<sup>+</sup>)", "Hydroxide ion (OH<sup>-</sup>)", "Sodium ion (Na<sup>+</sup>)", "Sulfate ion (SO<sub>4</sub><sup>2-</sup>)"],
+"correct": 1
+},
+{
+"q": "Why is excess insoluble reactant (such as copper(II) oxide) added when preparing a pure sample of copper(II) sulfate crystals?",
+"a": ["To speed up the filtration process", "To increase the temperature of the solution", "To ensure all the acid is completely reacted and used up", "To neutralize the water solvent"],
+"correct": 2
+},
+{
+"q": "Which of the following is classified as a neutral oxide?",
+"a": ["Carbon dioxide", "Sulfur dioxide", "Calcium oxide", "Carbon monoxide"],
+"correct": 3
+},
+{
+"q": "What is the pH value of a strong neutral solution at room temperature?",
+"a": ["7", "1", "14", "4"],
+"correct": 0
+},
+{
+"q": "Which substance is commonly used by farmers to neutralize acidic soils?",
+"a": ["Sodium chloride", "Calcium hydroxide (slaked lime)", "Dilute sulfuric acid", "Ammonium sulfate"],
+"correct": 1
+},
+{
+"q": "What happens to the pH of a dilute acid solution as sodium hydroxide solution is gradually added to it?",
+"a": ["pH decreases towards 0", "pH remains constant at 3", "pH increases towards 14", "pH drops to negative values"],
+"correct": 2
+},
+{
+"q": "Which of the following salts is insoluble in water?",
+"a": ["Sodium nitrate", "Potassium chloride", "Magnesium sulfate", "Lead(II) sulfate"],
+"correct": 3
+},
+{
+"q": "What is the formula of sulfuric acid?",
+"a": ["H<sub>2</sub>SO<sub>4</sub>", "HCl", "HNO<sub>3</sub>", "H<sub>3</sub>PO<sub>4</sub>"],
+"correct": 0
+},
+{
+"q": "When a reactive metal like magnesium reacts with dilute hydrochloric acid, what gas is evolved?",
+"a": ["Carbon dioxide", "Hydrogen", "Oxygen", "Sulfur dioxide"],
+"correct": 1
+},
+{
+"q": "Which indicator is yellow in acidic solution and red in alkaline solution?",
+"a": ["Phenolphthalein", "Litmus", "Methyl orange", "Universal indicator"],
+"correct": 2
+},
+{
+"q": "What type of substance is ammonia gas when dissolved in water?",
+"a": ["Strong acid", "Strong oxidizing agent", "Insoluble salt", "Weak alkali"],
+"correct": 3
+},
+{
+"q": "Which of the following bases is soluble in water?",
+"a": ["Potassium hydroxide", "Copper(II) oxide", "Iron(III) hydroxide", "Zinc oxide"],
+"correct": 0
+},
+{
+"q": "What term describes a salt that contains water of crystallization chemically bound in its crystal structure?",
+"a": ["Anhydrous", "Hydrated", "Hydroscopic", "Deliquescent"],
+"correct": 1
+},
+{
+"q": "Which method is used to prepare soluble salts of reactive metals using an acid?",
+"a": ["Precipitation", "Titration", "Adding excess metal to acid until bubbling stops, then filtering", "Direct burning"],
+"correct": 2
+},
+{
+"q": "What color is litmus indicator in a neutral solution?",
+"a": ["Red", "Blue", "Yellow", "Purple"],
+"correct": 3
+},
+{
+"q": "What is the chemical formula of calcium carbonate?",
+"a": ["CaCO<sub>3</sub>", "CaO", "Ca(OH)<sub>2</sub>", "CaCl<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "Which of the following is a characteristic property of acids?",
+"a": ["They turn red litmus blue", "They react with metals to produce hydrogen gas", "They have a pH greater than 7", "They feel soapy to the touch"],
+"correct": 1
+},
+{
+"q": "What is the name of the salt produced when potassium hydroxide reacts with nitric acid?",
+"a": ["Potassium chloride", "Potassium sulfate", "Potassium nitrate", "Potassium carbonate"],
+"correct": 2
+},
+{
+"q": "Why do weak acids have a higher pH than strong acids of the same concentration?",
+"a": ["They contain more hydrogen ions", "They react faster with metals", "They are insoluble in water", "They are only partially dissociated into ions in aqueous solution"],
+"correct": 3
+},
+{
+"q": "What is produced when an acid reacts with a metal carbonate?",
+"a": ["Salt, water, and carbon dioxide", "Salt and hydrogen only", "Salt and oxygen only", "Water and metal only"],
+"correct": 0
+},
+{
+"q": "Which oxide is classified as a basic oxide?",
+"a": ["Carbon dioxide", "Magnesium oxide", "Sulfur dioxide", "Phosphorus pentoxide"],
+"correct": 1
+},
+{
+"q": "What is the primary reason for using titration when preparing sodium chloride from sodium hydroxide and hydrochloric acid?",
+"a": ["Both reactants are insoluble", "Sodium chloride is insoluble", "Both reactants are soluble and neither is a solid excess that can be filtered off", "It produces hydrogen gas safely"],
+"correct": 2
+},
+{
+"q": "What is the chemical formula of nitric acid?",
+"a": ["HCl", "H<sub>2</sub>SO<sub>4</sub>", "CH<sub>3</sub>COOH", "HNO<sub>3</sub>"],
+"correct": 3
+},
+{
+"q": "Which of the following ions is tested for using aqueous sodium hydroxide and aluminium foil, producing ammonia gas upon warming?",
+"a": ["Nitrate ion (NO<sub>3</sub><sup>-</sup>)", "Chloride ion (Cl<sup>-</sup>)", "Sulfate ion (SO<sub>4</sub><sup>2-</sup>)", "Carbonate ion (CO<sub>3</sub><sup>2-</sup>)"],
+"correct": 0
+},
+{
+"q": "What is the color of phenolphthalein indicator in a neutral or acidic solution?",
+"a": ["Pink", "Colorless", "Blue", "Red"],
+"correct": 1
+},
+{
+"q": "Which of the following compounds is an example of an acid salt?",
+"a": ["Sodium chloride", "Calcium sulfate", "Sodium hydrogen sulfate", "Magnesium oxide"],
+"correct": 2
+},
+{
+"q": "What term is used to describe a solid substance that absorbs water vapor from the atmosphere to form a solution?",
+"a": ["Anhydrous", "Insoluble", "Thermal", "Deliquescent"],
+"correct": 3
+}
+]
+}

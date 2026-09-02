@@ -1,0 +1,186 @@
+{
+"id": "phys-yr9-quizzes-sound",
+"name": "Sound waves and hearing",
+"questions": [
+{
+"q": "How are sound waves produced at their source?",
+"a": ["By mechanical vibrations of objects or materials", "By static electric charges", "By chemical reactions in a vacuum", "By magnetic repulsion"],
+"correct": 0
+},
+{
+"q": "Why is it impossible for sound waves to travel through the vacuum of space?",
+"a": ["Space is too cold for sound.", "Sound waves require a material medium (particles) to travel through.", "Gravity pulls sound back to stars.", "Light waves block all sound."],
+"correct": 1
+},
+{
+"q": "What term describes the maximum displacement of a wave from its undisturbed position, which determines the volume or loudness of a sound?",
+"a": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+"correct": 2
+},
+{
+"q": "Which unit is used to measure the frequency of a sound wave (pitch)?",
+"a": ["Decibels (dB)", "Meters (m)", "Seconds (s)", "Hertz (Hz)"],
+"correct": 3
+},
+{
+"q": "Through which medium do sound waves generally travel the fastest?",
+"a": ["Solids (like steel or glass)", "Liquids (like water)", "Gases (like air)", "A complete vacuum"],
+"correct": 0
+},
+{
+"q": "What property of a sound wave determines whether it has a high pitch or a low pitch?",
+"a": ["Amplitude", "Frequency", "Volume", "Energy dissipation"],
+"correct": 1
+},
+{
+"q": "What is the name given to regions in a longitudinal sound wave where particles are pushed closely together?",
+"a": ["Rarefaction", "Wavelength trough", "Compression", "Amplitude peak"],
+"correct": 2
+},
+{
+"q": "Approximately what is the speed of sound in air at room temperature?",
+"a": ["300,000 km/s", "30 m/s", "3,000 m/s", "340 m/s"],
+"correct": 3
+},
+{
+"q": "What type of wave are sound waves classified as in physics?",
+"a": ["Longitudinal waves", "Transverse waves", "Electromagnetic waves", "Stationary light waves"],
+"correct": 0
+},
+{
+"q": "What happens to the perceived loudness of a sound if its wave amplitude increases?",
+"a": ["The pitch becomes higher.", "The sound becomes louder.", "The sound becomes quieter.", "The frequency drops to zero."],
+"correct": 1
+},
+{
+"q": "What is the name given to the spreading out or rarefaction regions in a sound wave where particles are pulled further apart?",
+"a": ["Compression", "Node", "Rarefaction", "Antinode"],
+"correct": 2
+},
+{
+"q": "Which part of the human ear is responsible for converting vibrations into electrical nerve signals sent to the brain?",
+"a": ["The earlobe", "The auditory canal", "The ear drum", "The cochlea"],
+"correct": 3
+},
+{
+"q": "What is the normal audible frequency range of hearing for a healthy human youth?",
+"a": ["20 Hz to 20,000 Hz", "1 Hz to 5 Hz", "50,000 Hz to 100,000 Hz", "10 Hz to 50 Hz"],
+"correct": 0
+},
+{
+"q": "What sound term is given to sounds with frequencies higher than 20,000 Hz, which exceed human hearing limits?",
+"a": ["Infrasound", "Ultrasound", "Megasound", "Supersonic pitch"],
+"correct": 1
+},
+{
+"q": "What phenomenon causes an echo when you shout inside a large empty gymnasium or canyon?",
+"a": ["Sound absorption", "Sound refraction", "Reflection of sound waves off a hard surface", "Sound wave diffraction"],
+"correct": 2
+},
+{
+"q": "Why can you hear someone speaking from around a corner in a hallway even though you cannot see them?",
+"a": ["Sound travels in straight laser beams.", "Sound cannot bend around obstacles.", "Sound waves have high mass.", "Sound waves undergo diffraction, spreading around corners and obstacles."],
+"correct": 3
+},
+{
+"q": "If a drum is struck harder, what changes about the sound wave produced?",
+"a": ["Its amplitude increases, making the sound louder.", "Its frequency changes instantly.", "Its speed through air doubles.", "It turns into light."],
+"correct": 0
+},
+{
+"q": "Which of the following describes sound frequencies below 20 Hz, typically produced by large animals like elephants or seismic events?",
+"a": ["Ultrasound", "Infrasound", "Supersonic noise", "High-pitched whistle"],
+"correct": 1
+},
+{
+"q": "What is the primary reason why sound travels faster in solids than in gases?",
+"a": ["Solids have lower density.", "Solids are colder.", "Particles in solids are tightly bound with strong forces, allowing rapid transmission of vibrational energy.", "Solids contain free electrons that carry sound."],
+"correct": 2
+},
+{
+"q": "Which industrial or medical application relies heavily on the use of ultrasound waves?",
+"a": ["Measuring room temperature", "Checking air pressure", "Burning fossil fuels", "Prenatal scanning of fetuses in hospitals"],
+"correct": 3
+},
+{
+"q": "What happens to the pitch of a musical note if the frequency of the sound wave increases?",
+"a": ["The pitch becomes higher.", "The pitch becomes lower.", "The volume decreases to zero.", "The wave stops traveling."],
+"correct": 0
+},
+{
+"q": "Which of the following units is commonly used to measure the sound level or loudness of noise?",
+"a": ["Kilograms (kg)", "Decibels (dB)", "Volts (V)", "Newtons (N)"],
+"correct": 1
+},
+{
+"q": "How does sonar on a ship calculate the depth of the ocean floor?",
+"a": ["By measuring water temperature", "By weighing the water pressure", "By timing how long an ultrasonic pulse takes to travel to the seabed and echo back", "By capturing fish samples"],
+"correct": 2
+},
+{
+"q": "What term describes oscillations where the particle displacement is parallel to the direction of wave travel?",
+"a": ["Transverse wave", "Electromagnetic wave", "Circular wave", "Longitudinal wave"],
+"correct": 3
+},
+{
+"q": "If a guitar string is shortened or tightened, what happens to the frequency of the sound it emits when plucked?",
+"a": ["Frequency increases, resulting in a higher pitch.", "Frequency decreases, resulting in a lower pitch.", "Frequency stays completely constant.", "The string breaks instantly."],
+"correct": 0
+},
+{
+"q": "Why do sound waves travel slightly faster on a hot summer day compared to a freezing winter day?",
+"a": ["Air molecules are heavier in summer.", "Warm air particles have higher kinetic energy, allowing sound vibrations to pass between them more quickly.", "Air pressure drops to zero.", "Wind blows sound faster."],
+"correct": 1
+},
+{
+"q": "What is the relationship between the wavelength of a sound wave and its frequency, given constant speed?",
+"a": ["They are directly proportional.", "They are unrelated.", "They are inversely proportional (higher frequency means shorter wavelength).", "Both drop to zero."],
+"correct": 2
+},
+{
+"q": "Which material would act as the best acoustic absorber inside a recording studio to prevent echoes?",
+"a": ["Hard polished marble tile", "Sheet steel", "Thick plate glass", "Soft porous foam or heavy fabric curtains"],
+"correct": 3
+},
+{
+"q": "What causes the sound barrier to be broken by a supersonic jet?",
+"a": ["The aircraft travels faster than the speed of sound in air, compressing sound waves into a shock wave.", "The jet turns off its engines.", "The wings change color.", "Gravity pulls the plane downward."],
+"correct": 0
+},
+{
+"q": "Which of the following lists correctly orders states of matter from slowest to fastest sound transmission speed?",
+"a": ["Solid, Liquid, Gas", "Gas, Liquid, Solid", "Liquid, Solid, Gas", "Gas, Solid, Liquid"],
+"correct": 1
+},
+{
+"q": "What is an echo sounding technique used by bats to navigate and locate prey in the dark called?",
+"a": ["Photosynthesis", "Refraction mapping", "Echolocation", "Seismic analysis"],
+"correct": 2
+},
+{
+"q": "Why can lightning be seen long before the thunder clap is heard during a storm?",
+"a": ["Thunder travels slower because it is heavy.", "Lightning makes no sound.", "Air blocks thunder completely.", "Light travels infinitely faster than sound in air."],
+"correct": 3
+},
+{
+"q": "What part of the human ear collects and funnels sound waves inward toward the ear canal?",
+"a": ["The pinna (auricle)", "The cochlea", "The auditory nerve", "The inner ear bones"],
+"correct": 0
+},
+{
+"q": "What happens to sound wave energy as it travels over very long distances through the air?",
+"a": ["It increases continuously.", "It decreases due to spreading and absorption by the air (attenuation).", "It turns into light energy.", "It remains 100 percent constant."],
+"correct": 1
+},
+{
+"q": "Which musical instrument characteristic determines its unique tone quality or timbre when playing the same note?",
+"a": ["Its physical weight", "Its color", "The presence of specific harmonic overtones mixed with the fundamental frequency", "Its temperature"],
+"correct": 2
+},
+{
+"q": "What occurs when two identical sound waves overlap in opposing phase, causing cancellation or reduction of loudness?",
+"a": ["Constructive resonance", "Echo amplification", "Sonic boom", "Destructive interference"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+"id": "chem-igcse-quizzes-polymers",
+"name": "Polymers and plastics",
+"questions": [
+{
+"q": "What is a polymer?",
+"a": ["A large molecule built from many small repeating units called monomers", "A small organic molecule with a double bond", "A type of metallic crystal structure", "An inorganic salt containing water of crystallization"],
+"correct": 0
+},
+{
+"q": "What type of polymerization produces poly(ethene) from ethene monomers?",
+"a": ["Condensation polymerization", "Addition polymerization", "Thermal polymerization", "Neutralization polymerization"],
+"correct": 1
+},
+{
+"q": "Which of the following is a key characteristic of monomers used in addition polymerization?",
+"a": ["They must contain a carboxylic acid group", "They must contain an alcohol group", "They must contain a carbon-carbon double bond (C=C)", "They must be inorganic compounds"],
+"correct": 2
+},
+{
+"q": "What is the main difference between addition polymerization and condensation polymerization?",
+"a": ["Addition uses heat while condensation uses light", "Addition creates cross-links while condensation does not", "Addition polymers melt easily while condensation polymers do not", "Condensation polymerization produces a small molecule like water as a byproduct, whereas addition polymerization does not"],
+"correct": 3
+},
+{
+"q": "Which of the following polymers is an example of an addition polymer?",
+"a": ["Poly(ethene)", "Nylon", "Terylene", "Protein"],
+"correct": 0
+},
+{
+"q": "What is the repeating unit structure of poly(ethene)?",
+"a": ["-[CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>]-", "-[CH<sub>2</sub>-CH<sub>2</sub>]-", "-[CH=CH]-", "-[CH<sub>3</sub>-CH<sub>3</sub>]-"],
+"correct": 1
+},
+{
+"q": "Which natural polymer is made up of amino acid monomers joined together?",
+"a": ["Starch", "Cellulose", "Protein", "Glycogen"],
+"correct": 2
+},
+{
+"q": "Why are synthetic plastics such as poly(ethene) and PVC a major environmental concern regarding waste disposal?",
+"a": ["They dissolve in rain water and pollute rivers with toxic acids", "They react with soil nutrients to create radioactive isotopes", "They catch fire easily in landfills", "They are non-biodegradable and persist in the environment for hundreds of years"],
+"correct": 3
+},
+{
+"q": "What synthetic condensation polymer is formed by reacting a dicarboxylic acid with a diamine?",
+"a": ["Nylon", "Poly(ethene)", "Poly(chloroethene) / PVC", "Polypropene"],
+"correct": 0
+},
+{
+"q": "Which synthetic condensation polymer is formed by reacting a dicarboxylic acid with a diol?",
+"a": ["Nylon", "Terylene", "Protein", "Poly(ethene)"],
+"correct": 1
+},
+{
+"q": "What small molecule is eliminated as a byproduct during the formation of Terylene?",
+"a": ["Carbon dioxide", "Hydrogen chloride", "Water (H<sub>2</sub>O)", "Ammonia"],
+"correct": 2
+},
+{
+"q": "What linkage is found in the polymer Terylene?",
+"a": ["Amide linkage (-CONH-)", "Ester linkage (-COO-)", "Ether linkage (-O-)", "Glycosidic linkage"],
+"correct": 3
+},
+{
+"q": "What linkage is found in nylon and proteins?",
+"a": ["Amide linkage (-CONH-)", "Ester linkage (-COO-)", "Carbon-carbon single bond", "Ionic bond"],
+"correct": 0
+},
+{
+"q": "What is the repeating unit of poly(chloroethene), commonly known as PVC?",
+"a": ["-[CH<sub>2</sub>-CH<sub>2</sub>]-", "-[CH<sub>2</sub>-CHCl]-", "-[CHCl-CHCl]-", "-[CCl<sub>2</sub>-CCl<sub>2</sub>]-"],
+"correct": 1
+},
+{
+"q": "Which natural polymer is a carbohydrate formed from glucose monomers?",
+"a": ["Nylon", "Protein", "Starch", "Terylene"],
+"correct": 2
+},
+{
+"q": "What method can be used to identify the products of protein or starch hydrolysis?",
+"a": ["Titration", "Fractional distillation", "Electrolysis", "Chromatography"],
+"correct": 3
+},
+{
+"q": "What is the monomer used to manufacture poly(ethene)?",
+"a": ["Ethene", "Ethane", "Ethanol", "Ethanoic acid"],
+"correct": 0
+},
+{
+"q": "Which of the following is an advantage of recycling plastics?",
+"a": ["It increases greenhouse gas emissions", "It reduces landfill waste and conserves crude oil resources", "It turns plastics into biodegradable organic fertilizers instantly", "It generates nuclear energy"],
+"correct": 1
+},
+{
+"q": "What happens when complex carbohydrates like starch are hydrolyzed?",
+"a": ["They turn into crude oil", "They release nitrogen gas", "They break down into simpler sugar monomers such as glucose", "They form addition polymers"],
+"correct": 2
+},
+{
+"q": "Which of the following describes thermoplastics?",
+"a": ["They decompose into ash immediately without softening", "They have permanent cross-links that prevent them from melting", "They are electrical conductors in solid state", "They soften when heated and can be reshaped easily because polymer chains are held by weak intermolecular forces"],
+"correct": 3
+},
+{
+"q": "What is the monomer used to make polypropene?",
+"a": ["Propene", "Propane", "Propanol", "Propanoic acid"],
+"correct": 0
+},
+{
+"q": "Which type of plastics have cross-links between their polymer chains, preventing them from melting when heated?",
+"a": ["Thermoplastics", "Thermosetting plastics", "Addition polymers", "Biodegradable polymers"],
+"correct": 1
+},
+{
+"q": "What is a major problem associated with the incineration of plastics containing chlorine (like PVC)?",
+"a": ["It produces pure drinking water", "It freezes the surrounding air", "It releases toxic hydrogen chloride gas", "It generates gold deposits"],
+"correct": 2
+},
+{
+"q": "In a condensation polymer such as nylon, how many functional groups must each monomer molecule possess to allow polymerization to continue?",
+"a": ["Zero", "Exactly one", "At least three", "At least two functional groups (one at each end)"],
+"correct": 3
+},
+{
+"q": "What is the process of breaking down starch into sugars using enzymes or acid called?",
+"a": ["Hydrolysis", "Dehydration", "Cracking", "Neutralization"],
+"correct": 0
+},
+{
+"q": "Which of the following synthetic materials is best described as a polyester?",
+"a": ["Nylon", "Terylene", "Poly(ethene)", "PVC"],
+"correct": 1
+},
+{
+"q": "What structural feature distinguishes condensation polymers from addition polymers?",
+"a": ["Condensation polymers contain double bonds", "Condensation polymers are always gases", "Condensation polymers involve monomers with two functional groups and release small molecules", "Condensation polymers are made from a single monomer without catalysts"],
+"correct": 2
+},
+{
+"q": "Which natural macromolecule has a structure containing amide linkages similar to synthetic nylon?",
+"a": ["Starch", "Cellulose", "Fat", "Protein"],
+"correct": 3
+},
+{
+"q": "What is the general term for substances like starch and proteins that have very high relative molecular masses?",
+"a": ["Macromolecules", "Isotopes", "Allotropes", "Monomers"],
+"correct": 0
+},
+{
+"q": "Which of the following is true regarding addition polymers?",
+"a": ["They release water molecules during formation", "They are chemically inert and difficult to biodegrade", "They are formed from monomers with different functional groups", "They contain ester linkages"],
+"correct": 1
+},
+{
+"q": "What is the term used to describe proteins broken down into their individual constituent monomer units in the laboratory?",
+"a": ["Condensation", "Fermentation", "Hydrolysis", "Polymerization"],
+"correct": 2
+},
+{
+"q": "Which gas is trapped or produced when certain foamed plastics are manufactured using blowing agents?",
+"a": ["Oxygen", "Hydrogen", "Chlorine", "Volatile hydrocarbons or carbon dioxide"],
+"correct": 3
+},
+{
+"q": "What is the primary commercial use of poly(ethene)?",
+"a": ["Plastic bags, bottles, and packaging films", "Making car engine blocks", "Electrical wire insulation only", "Transparent glass windows"],
+"correct": 0
+},
+{
+"q": "Which of the following is a characteristic feature of thermosetting plastics?",
+"a": ["They melt easily when exposed to boiling water", "They do not melt upon heating because strong cross-links hold the polymer chains in place", "They dissolve completely in cold water", "They are elastic like rubber bands"],
+"correct": 1
+},
+{
+"q": "What kind of bond or linkage connects the monomer units in Terylene?",
+"a": ["Amide linkage", "Glycosidic bond", "Ester linkage", "Ionic bond"],
+"correct": 2
+},
+{
+"q": "Which of the following substances is a natural polyamide?",
+"a": ["Starch", "Terylene", "Poly(ethene)", "Wool / Silk (Protein)"],
+"correct": 3
+}
+]
+}

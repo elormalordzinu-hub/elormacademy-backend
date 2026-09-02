@@ -1,0 +1,206 @@
+{
+"id": "phys-yr7-quizzes-quantities",
+"name": "Physical quantities and units of measurement",
+"questions": [
+{
+"q": "What is the standard International System of Units (SI) base unit for measuring mass?",
+"a": ["Kilogram (kg)", "Gram (g)", "Pound (lb)", "Newton (N)"],
+"correct": 0
+},
+{
+"q": "Which of the following instruments is standardly used in a school laboratory to measure time intervals accurately?",
+"a": ["Thermometer", "Stopwatch", "Metre rule", "Ammeter"],
+"correct": 1
+},
+{
+"q": "What is the SI base unit for length?",
+"a": ["Centimetre (cm)", "Kilometre (km)", "Metre (m)", "Millimetre (mm)"],
+"correct": 2
+},
+{
+"q": "Which fundamental physical quantity is measured in seconds (s) in the SI system?",
+"a": ["Temperature", "Mass", "Length", "Time"],
+"correct": 3
+},
+{
+"q": "How many grams are there in one standard kilogram?",
+"a": ["1,000 g", "100 g", "10 g", "10,000 g"],
+"correct": 0
+},
+{
+"q": "What physical quantity does the symbol 'm' represent when used as a dimension in physics equations?",
+"a": ["Millimetre", "Metre", "Mass", "Minute"],
+"correct": 1
+},
+{
+"q": "Which of the following is a derived quantity rather than a base quantity in physics?",
+"a": ["Length", "Time", "Speed", "Mass"],
+"correct": 2
+},
+{
+"q": "What prefix represents one-thousandth (1/1,000) of a unit in the metric system?",
+"a": ["Kilo-", "Mega-", "Centi-", "Milli-"],
+"correct": 3
+},
+{
+"q": "Which unit is most appropriate for measuring the thickness of a single textbook page?",
+"a": ["Millimetre (mm)", "Metre (m)", "Kilometre (km)", "Centimetre (cm)"],
+"correct": 0
+},
+{
+"q": "What is the standard SI unit for temperature used in everyday scientific measurements?",
+"a": ["Fahrenheit (°F)", "Degree Celsius (°C)", "Kelvin (K)", "Calorie"],
+"correct": 1
+},
+{
+"q": "Which instrument is best suited for measuring the internal diameter of a small glass tube or pipe?",
+"a": ["Metre rule", "Measuring tape", "Vernier callipers", "Top-pan balance"],
+"correct": 2
+},
+{
+"q": "What prefix stands for one hundredth (1/100) of a base unit?",
+"a": ["Milli-", "Kilo-", "Deci-", "Centi-"],
+"correct": 3
+},
+{
+"q": "How many centimetres are equivalent to 3.5 metres?",
+"a": ["350 cm", "35 cm", "3,500 cm", "3.5 cm"],
+"correct": 0
+},
+{
+"q": "Which of the following units is used to measure electric current?",
+"a": ["Volt (V)", "Ampere (A)", "Ohm (Ω)", "Watt (W)"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of using standard units like the SI system in scientific experiments worldwide?",
+"a": ["To make calculations harder", "To save paper", "To allow scientists to compare and share results clearly", "To increase manufacturing costs"],
+"correct": 2
+},
+{
+"q": "Which tool should a student use to measure the volume of a regular solid block?",
+"a": ["A spring balance", "A thermometer", "A measuring cylinder", "A ruler combined with a mathematical formula"],
+"correct": 3
+},
+{
+"q": "Convert 4,500 grams into kilograms.",
+"a": ["4.5 kg", "45 kg", "0.45 kg", "450 kg"],
+"correct": 0
+},
+{
+"q": "What physical property describes the amount of matter contained in an object?",
+"a": ["Weight", "Mass", "Volume", "Density"],
+"correct": 1
+},
+{
+"q": "Which of the following pairs correctly matches a physical quantity with its standard SI unit?",
+"a": ["Time and Minute", "Length and Centimetre", "Mass and Kilogram", "Temperature and Fahrenheit"],
+"correct": 2
+},
+{
+"q": "What is the main advantage of using digital measuring instruments over analog ones in school labs?",
+"a": ["They never break", "They do not require batteries", "They work without light", "They reduce human reading errors and provide clear digital displays"],
+"correct": 3
+},
+{
+"q": "If an athletic runner completes a 100-metre sprint in 12.5 seconds, what is the unit of the time interval measured?",
+"a": ["Seconds", "Metres", "Kilograms", "Newtons"],
+"correct": 0
+},
+{
+"q": "Which metric multiplier corresponds to the prefix 'kilo-'?",
+"a": ["100", "1,000", "0.001", "1,000,000"],
+"correct": 1
+},
+{
+"q": "What is the distance of 2,500 metres expressed in kilometres?",
+"a": ["25 km", "0.25 km", "2.5 km", "250 km"],
+"correct": 2
+},
+{
+"q": "Which measuring device would provide the most precise measurement for the outer diameter of a small metal sphere?",
+"a": ["A cloth measuring tape", "A standard wooden metre rule", "A plastic ruler", "A micrometer screw gauge or vernier callipers"],
+"correct": 3
+},
+{
+"q": "What is the correct SI unit symbol for second?",
+"a": ["s", "sec", "S", "min"],
+"correct": 0
+},
+{
+"q": "Which quantity measures the degree of hotness or coldness of a body?",
+"a": ["Heat energy", "Temperature", "Pressure", "Density"],
+"correct": 1
+},
+{
+"q": "How many milligrams are in a single gram?",
+"a": ["10", "100", "1,000", "1,000,000"],
+"correct": 2
+},
+{
+"q": "Which of the following is a fundamental base quantity in the International System of Units?",
+"a": ["Speed", "Area", "Force", "Amount of substance (mole)"],
+"correct": 3
+},
+{
+"q": "What term describes the smallest change in value that a measuring instrument can detect and display?",
+"a": ["Sensitivity or resolution", "Range", "Capacity", "Zero error"],
+"correct": 0
+},
+{
+"q": "If a laboratory scale has a zero error where it reads +2 g before any object is placed on it, what must a student do to obtain an accurate reading?",
+"a": ["Ignore it completely", "Subtract 2 g from the final reading", "Add 2 g to the final reading", "Multiply the reading by 2"],
+"correct": 1
+},
+{
+"q": "Which of these units is used to measure luminous intensity in physics?",
+"a": ["Watt", "Joule", "Candela", "Tesla"],
+"correct": 2
+},
+{
+"q": "When measuring the length of a curved wire, which combination of items is most effective?",
+"a": ["A rigid metal rod only", "A thermometer and stopwatch", "A spring balance and ruler", "A piece of string to trace the curve followed by a straight ruler"],
+"correct": 3
+},
+{
+"q": "What is the SI unit symbol for kilogram?",
+"a": ["kg", "KG", "gm", "k"],
+"correct": 0
+},
+{
+"q": "Which of the following describes a scalar quantity?",
+"a": ["A quantity with magnitude and specific direction", "A quantity that has magnitude (size) only", "A quantity measured only in forces", "A quantity that has direction only"],
+"correct": 1
+},
+{
+"q": "How many seconds are contained in exactly 2 hours?",
+"a": ["3,600 s", "6,000 s", "7,200 s", "12,000 s"],
+"correct": 2
+},
+{
+"q": "Why is parallax error a concern when reading a graduated cylinder or thermometer?",
+"a": ["It causes the liquid to evaporate faster", "It changes the actual temperature of the room", "It drains the electronic battery", "Viewing the scale from an angle leads to incorrect reading values"],
+"correct": 3
+},
+{
+"q": "What is 75 centimetres expressed in metres?",
+"a": ["0.75 m", "7.5 m", "75 m", "0.075 m"],
+"correct": 0
+},
+{
+"q": "Which instrument is used to measure the weight or gravitational force acting on an object?",
+"a": ["Top-pan balance", "Newtons spring balance", "Beam balance", "Metre rule"],
+"correct": 1
+},
+{
+"q": "What does the prefix 'mega-' represent in the metric system?",
+"a": ["One thousandth", "One hundred", "One million", "One thousand"],
+"correct": 2
+},
+{
+"q": "Which of the following sets contains only base units according to the SI system?",
+"a": ["Metre, Second, Newton", "Kilogram, Metre, Joule", "Second, Ampere, Volt", "Metre, Kilogram, Second"],
+"correct": 3
+}
+]
+}

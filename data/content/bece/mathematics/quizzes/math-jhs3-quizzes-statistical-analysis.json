@@ -1,0 +1,186 @@
+{
+"id": "math-jhs3-quizzes-statistical-analysis",
+"name": "Statistical Analysis",
+"questions": [
+{
+"q": "What is the definition of the 'mean' of a set of numerical data?",
+"a": ["The sum of all values divided by the number of values", "The middle value when data is ordered", "The most frequently occurring value", "The difference between the highest and lowest values"],
+"correct": 0
+},
+{
+"q": "Find the median of the following set of numbers: 4, 1, 7, 3, 9.",
+"a": ["3", "4", "5", "7"],
+"correct": 1
+},
+{
+"q": "What is the mode of the following data set: 2, 5, 3, 5, 7, 8, 5, 1?",
+"a": ["3", "4", "5", "8"],
+"correct": 2
+},
+{
+"q": "How do you calculate the range of a set of quantitative data?",
+"a": ["Add the highest and lowest values", "Divide the maximum value by 2", "Find the average of all values", "Subtract the lowest value from the highest value"],
+"correct": 3
+},
+{
+"q": "Calculate the mean of the scores: 10, 15, 20, 25, 30.",
+"a": ["20", "22", "15", "25"],
+"correct": 0
+},
+{
+"q": "What is the median of the even-numbered data set: 2, 4, 6, 8, 10, 12?",
+"a": ["6", "7", "8", "6.5"],
+"correct": 1
+},
+{
+"q": "In a frequency distribution table, what does the term 'frequency' represent?",
+"a": ["The value of the data item", "The total sum of all data items", "The number of times a particular data value occurs", "The range of the data"],
+"correct": 2
+},
+{
+"q": "What is the mode of a data set that has no repeating values?",
+"a": ["The middle number", "The mean of the data", "Zero", "There is no mode"],
+"correct": 3
+},
+{
+"q": "Find the range of the following test scores: 52, 78, 91, 43, 65, 88.",
+"a": ["48", "91", "43", "55"],
+"correct": 0
+},
+{
+"q": "What is the mean of the first five prime numbers (2, 3, 5, 7, 11)?",
+"a": ["5.0", "5.6", "6.0", "4.8"],
+"correct": 1
+},
+{
+"q": "If the mean of 5 numbers is 12, what is the sum of these 5 numbers?",
+"a": ["12", "48", "60", "72"],
+"correct": 2
+},
+{
+"q": "Which statistical measure is most affected by an extreme outlier (an extremely high or low value)?",
+"a": ["Median", "Mode", "Range", "Mean"],
+"correct": 3
+},
+{
+"q": "What is the median of the following ordered data set: 12, 15, 18, 22, 25, 30?",
+"a": ["20", "18", "22", "21"],
+"correct": 0
+},
+{
+"q": "What type of statistical graph uses rectangular bars whose heights represent the frequencies of different categories or class intervals?",
+"a": ["Pie chart", "Histogram (or Bar chart)", "Line graph", "Scatter plot"],
+"correct": 1
+},
+{
+"q": "In a pie chart representing a data set, what is the total angle at the centre of the circle representing 100% of the data?",
+"a": ["180°", "90°", "360°", "270°"],
+"correct": 2
+},
+{
+"q": "If a pie chart sector has an angle of 90° out of a total 360°, what percentage of the total data does this sector represent?",
+"a": ["10%", "50%", "75%", "25%"],
+"correct": 3
+},
+{
+"q": "Calculate the mean of the frequency distribution where x = [2, 4, 6] and f = [3, 1, 2].",
+"a": ["3.67", "4.00", "5.20", "3.00"],
+"correct": 0
+},
+{
+"q": "What is the modal class in a grouped frequency distribution?",
+"a": ["The class interval with the lowest frequency", "The class interval with the highest frequency", "The middle class interval", "The range between the first and last classes"],
+"correct": 1
+},
+{
+"q": "Find the median position index for a data set containing n = 25 observations when ordered from smallest to largest.",
+"a": ["12th", "12.5th", "13th", "14th"],
+"correct": 2
+},
+{
+"q": "Why is the median often preferred over the mean when analyzing household incomes or property prices?",
+"a": ["It is harder to calculate", "It gives a higher total value", "It includes all data values in the calculation", "It is not distorted by extreme outliers (very rich individuals)"],
+"correct": 3
+},
+{
+"q": "If 4 test scores have a mean of 75, and a 5th test score of 90 is added, what is the new mean of the 5 scores?",
+"a": ["78", "80", "82.5", "85"],
+"correct": 0
+},
+{
+"q": "What is the range of the following set of negative and positive temperatures: -5°C, 2°C, 8°C, -1°C, 12°C?",
+"a": ["7°C", "17°C", "12°C", "13°C"],
+"correct": 1
+},
+{
+"q": "Which measure of central tendency divides a ranked data set exactly into two equal halves?",
+"a": ["Mean", "Mode", "Median", "Range"],
+"correct": 2
+},
+{
+"q": "In a class of 40 students, the mean score in a mathematics quiz is 60. What is the total aggregate score of all 40 students combined?",
+"a": ["1,600", "2,000", "2,200", "2,400"],
+"correct": 3
+},
+{
+"q": "Find the mode of the shoe sizes: 38, 40, 42, 38, 39, 40, 40, 41.",
+"a": ["40", "38", "41", "39"],
+"correct": 0
+},
+{
+"q": "What is the sum of frequencies (sum of f) in a frequency table used to find the weighted mean?",
+"a": ["The total number of distinct data values", "The total sample size (n)", "The range of the data", "The maximum frequency"],
+"correct": 1
+},
+{
+"q": "If the range of a data set is 25 and the lowest value is 14, what is the highest value in the data set?",
+"a": ["11", "25", "39", "28"],
+"correct": 2
+},
+{
+"q": "When constructing a bar chart, what is essential regarding the width of all the bars?",
+"a": ["They must vary based on frequency", "They should decrease from left to right", "They should be proportional to the data values", "They must be equal in width"],
+"correct": 3
+},
+{
+"q": "Find the median of the data set: 7, 14, 3, 10, 21, 18, 5.",
+"a": ["10", "11", "7", "14"],
+"correct": 0
+},
+{
+"q": "What term describes data that can be counted or measured numerically, such as height, weight, or age?",
+"a": ["Qualitative data", "Quantitative data", "Categorical data", "Nominal data"],
+"correct": 1
+},
+{
+"q": "If the mean of x, 10, 15, and 20 is 15, what is the value of x?",
+"a": ["10", "12", "15", "18"],
+"correct": 2
+},
+{
+"q": "Which of the following represents a set of data with multimodal distribution?",
+"a": ["A data set with no mode", "A data set with exactly one mode", "A data set with two modes", "A data set with two or more modes"],
+"correct": 3
+},
+{
+"q": "Calculate the mean for the dataset: 0, 5, 10, 15, 20.",
+"a": ["10", "12", "8", "15"],
+"correct": 0
+},
+{
+"q": "In a survey of 120 people regarding their favorite fruit, 30 people chose mangoes. What angle would represent mangoes on a pie chart?",
+"a": ["60°", "90°", "120°", "45°"],
+"correct": 1
+},
+{
+"q": "What is the lower quartile (Q1) or median-related concept when splitting a sorted dataset into quarters?",
+"a": ["The highest value", "The mean of the dataset", "The median of the lower half of the data", "The mode of the dataset"],
+"correct": 2
+},
+{
+"q": "If a data set has values 3, 3, 3, 3, 3, what is its standard deviation?",
+"a": ["3", "1", "0.5", "0"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "chem-yr7-quizzes-states",
+  "name": "States of matter particle model",
+  "questions": [
+    {
+      "q": "Which of the three main states of matter has a fixed shape and a fixed volume?",
+      "a": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct": 0
+    },
+    {
+      "q": "How are particles arranged in a typical solid according to the particle model?",
+      "a": ["Randomly arranged and moving very fast in all directions", "Tightly packed together in a regular, fixed lattice pattern vibrating in place", "Spread far apart with almost no forces between them", "Clustered in small floating groups that slide past each other"],
+      "correct": 1
+    },
+    {
+      "q": "Which state of matter takes the shape of its container, has a fixed volume, and its particles can flow or slide past one another?",
+      "a": ["Solid", "Gas", "Liquid", "Rigid crystal"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the movement and arrangement of particles when a liquid turns into a gas during boiling?",
+      "a": ["Particles become closer together and form a regular crystal lattice", "Particles slow down and stop moving completely", "Particles arrange themselves into rigid rows", "Particles gain enough energy to break free from each other, moving rapidly in all directions"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for the phase change when a substance changes directly from a solid to a gas without becoming a liquid first?",
+      "a": ["Sublimation", "Melting", "Condensation", "Evaporation"],
+      "correct": 0
+    },
+    {
+      "q": "Why can gases be easily compressed (squashed) into a smaller volume?",
+      "a": ["Because gas particles are tightly locked in place", "Because there are large empty spaces between the widely separated gas particles", "Because gas particles shrink in size when pressure is applied", "Because gas particles turn into liquids under pressure"],
+      "correct": 1
+    },
+    {
+      "q": "What is the name of the physical process where a liquid changes into a gas at temperatures below its boiling point?",
+      "a": ["Freezing", "Melting", "Evaporation", "Sublimation"],
+      "correct": 2
+    },
+    {
+      "q": "According to the particle model of matter, what are all substances made of?",
+      "a": ["Continuous, unbroken sheets of jelly", "Invisible magnetic fields", "Fluid energy waves", "Tiny moving particles (atoms, molecules, or ions)"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes the change of state from a gas to a liquid when it cools down?",
+      "a": ["Condensation", "Melting", "Boiling", "Sublimation"],
+      "correct": 0
+    },
+    {
+      "q": "During the melting of pure ice into water, what happens to the temperature of the substance while the change of state is taking place?",
+      "a": ["The temperature increases rapidly", "The temperature stays constant at 0 degrees Celsius until all the ice has melted", "The temperature drops below zero", "The temperature fluctuates up and down"],
+      "correct": 1
+    },
+    {
+      "q": "Which property best explains why a liquid can flow and pour easily?",
+      "a": ["Its particles are bonded in rigid positions", "Its particles have zero kinetic energy", "Its particles are close together but free to slide past one another", "Its particles repel each other into outer space"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the average speed and kinetic energy of particles when a substance is heated?",
+      "a": ["They slow down and pack closer together", "They turn into solid crystals", "They stop moving entirely", "They gain kinetic energy and move faster"],
+      "correct": 3
+    },
+    {
+      "q": "What is diffusion defined as in terms of the particle model?",
+      "a": ["The net random movement of particles from an area of higher concentration to an area of lower concentration", "The forced pumping of liquid through a narrow pipe", "The chemical reaction between a solid and a gas", "The freezing of particles into a solid block"],
+      "correct": 0
+    },
+    {
+      "q": "Why does diffusion happen much faster in gases than in liquids?",
+      "a": ["Gas particles are heavier than liquid particles", "Gas particles move much faster and have greater space between them than liquid particles", "Liquids have stronger forces holding particles together than gases", "Gases are always kept at higher temperatures than liquids"],
+      "correct": 1
+    },
+    {
+      "q": "What change of state occurs when liquid water turns into solid ice in a freezer?",
+      "a": ["Melting", "Evaporation", "Freezing (Solidification)", "Condensation"],
+      "correct": 2
+    },
+    {
+      "q": "When a solid melts into a liquid, what happens to the forces of attraction between the particles?",
+      "a": ["The forces become much stronger, locking particles tighter", "The forces remain completely unchanged", "The forces disappear entirely", "The forces weaken sufficiently to allow particles to move past each other rather than stay in fixed positions"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following substances sublimes at standard atmospheric pressure (turns directly from solid to gas)?",
+      "a": ["Solid carbon dioxide (dry ice) or iodine", "Liquid mercury", "Iron metal", "Pure water ice"],
+      "correct": 0
+    },
+    {
+      "q": "Why do balloon walls stay inflated under gas pressure from the inside?",
+      "a": ["Because the rubber material attracts external air", "Because moving gas particles inside constantly collide with the inner walls of the balloon", "Because the gas particles inside freeze against the rubber", "Because gravity pulls the gas downward"],
+      "correct": 1
+    },
+    {
+      "q": "What physical feature distinguishes boiling from evaporation?",
+      "a": ["Boiling happens only at room temperature", "Evaporation only happens in closed metal containers", "Boiling occurs at a specific fixed temperature throughout the entire liquid, whereas evaporation happens at any temperature only at the liquid surface", "Boiling requires no thermal energy input"],
+      "correct": 2
+    },
+    {
+      "q": "If you open a bottle of perfume in the corner of a classroom, students across the room eventually smell it. Which scientific process explains this?",
+      "a": ["Thermal conduction", "Magnetic attraction", "Gravity filtration", "Diffusion of gas particles"],
+      "correct": 3
+    },
+    {
+      "q": "In which state of matter are the forces of attraction between particles strongest?",
+      "a": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the volume of most substances when they are heated (thermal expansion)?",
+      "a": ["Their volume decreases because particles shrink", "Their volume increases because particles vibrate more vigorously and push slightly further apart", "Their volume stays completely constant", "Their particles turn into gas instantly"],
+      "correct": 1
+    },
+    {
+      "q": "Which statement correctly describes the particles in a gas?",
+      "a": ["They are arranged in neat rows and columns", "They vibrate only about fixed positions", "They are widely spaced, move randomly at high speeds, and fill any available container", "They are tightly packed and cannot move"],
+      "correct": 2
+    },
+    {
+      "q": "When steam condenses on a cold bathroom window, what is happening to the energy of the water particles?",
+      "a": ["They absorb more heat energy from the glass", "They increase their speed and move further apart", "They turn into solid ice crystals instantly", "They lose thermal energy to the surroundings, slow down, and form liquid droplets"],
+      "correct": 3
+    },
+    {
+      "q": "Why are liquids described as being virtually incompressible?",
+      "a": ["Because their particles are already packed closely together with very little empty space between them", "Because liquid particles are made of solid rock", "Because liquid particles repel each other strongly", "Because liquids have no mass"],
+      "correct": 0
+    },
+    {
+      "q": "What causes gas pressure inside a sealed container?",
+      "a": ["Chemical reactions between the container walls and air", "Collisions of fast-moving gas particles with the inner walls of the container", "The weight of the container pressing down", "Magnetic forces pulling the container inward"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following represents a physical change rather than a chemical change?",
+      "a": ["Burning wood in a fireplace", "Cooking an egg", "Ice melting into water", "Iron rusting in damp air"],
+      "correct": 2
+    },
+    {
+      "q": "If you heat a metal rail on a railway track, what happens to the metal particles on a microscopic scale?",
+      "a": ["They melt into a puddle immediately", "They disappear into the air", "They break apart into individual atoms of different elements", "They vibrate faster and take up slightly more average space, causing the rail to expand"],
+      "correct": 3
+    },
+    {
+      "q": "During a change of state from liquid to solid (freezing), what happens to the internal arrangement of particles?",
+      "a": ["Particles transition from a random arrangement to a regular, fixed lattice structure", "Particles spread out to fill maximum space", "Particles begin moving faster than before", "Particles lose all mass"],
+      "correct": 0
+    },
+    {
+      "q": "Why does a puddle of water on a playground pavement dry up faster on a hot, windy day than on a cold, calm day?",
+      "a": ["Wind and heat cause water molecules to freeze", "Higher temperature and air movement give particles more energy to evaporate quickly from the surface", "The pavement absorbs the water molecules completely", "Gravity pulls the water down through the concrete"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following lists the three states of matter in order of *increasing* particle spacing (from closest to furthest apart)?",
+      "a": ["Gas, Liquid, Solid", "Liquid, Gas, Solid", "Solid, Liquid, Gas", "Gas, Solid, Liquid"],
+      "correct": 2
+    },
+    {
+      "q": "How does increasing the temperature of a gas inside a rigid, sealed container affect its pressure?",
+      "a": ["Pressure decreases because particles slow down", "Pressure drops to zero", "Pressure remains completely unaffected", "Pressure increases because particles move faster and hit the container walls harder and more frequently"],
+      "correct": 3
+    }
+  ]
+}

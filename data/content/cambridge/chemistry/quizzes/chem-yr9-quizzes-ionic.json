@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr9-quizzes-ionic",
+  "name": "Properties of ionic compounds",
+  "questions": [
+    {
+      "q": "What is the typical physical state of ionic compounds at room temperature (25°C)?",
+      "a": ["Hard, crystalline solids", "Low-boiling gases", "Volatile liquids", "Soft flexible plastics"],
+      "correct": 0
+    },
+    {
+      "q": "Why do ionic compounds have very high melting and boiling points?",
+      "a": ["They are made of soft molecules", "A vast amount of thermal energy is required to overcome the strong electrostatic forces holding the giant ionic lattice together", "They contain free-flowing electrons", "They evaporate easily at room temperature"],
+      "correct": 1
+    },
+    {
+      "q": "Do solid ionic compounds (like dry sodium chloride crystals) conduct electricity?",
+      "a": ["Yes, extremely well", "Yes, but only in the dark", "No, because the ions are fixed in position within the crystal lattice and cannot move", "No, because they contain no electrical charges"],
+      "correct": 2
+    },
+    {
+      "q": "Under what conditions can ionic compounds conduct electricity?",
+      "a": ["Only when frozen solid", "Only when exposed to strong magnets", "Only when mixed with wood", "When molten (liquid) or dissolved in water, because the ions are free to move"],
+      "correct": 3
+    },
+    {
+      "q": "What happens when an ionic crystal is struck firmly with a hammer?",
+      "a": ["It shatters or cleaves cleanly because like-charged ions are pushed next to each other, causing repulsion", "It bends like rubber", "It stretches into a long wire", "It melts instantly into a gas"],
+      "correct": 0
+    },
+    {
+      "q": "Are ionic compounds generally soluble in water, and why?",
+      "a": ["No, they never dissolve in any solvent", "Yes, because polar water molecules are attracted to and stabilize the charged ions, pulling them away from the lattice", "Yes, because water reacts chemically to destroy them", "No, water is non-polar"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed at the positive electrode (anode) when molten lead(II) bromide is electrolyzed?",
+      "a": ["Silver liquid metal", "White lead powder", "Brown bromine gas", "Hydrogen bubbles"],
+      "correct": 2
+    },
+    {
+      "q": "Which term describes a liquid or solution that conducts electricity through the movement of ions?",
+      "a": ["An insulator", "A non-electrolyte", "A covalent solvent", "An electrolyte"],
+      "correct": 3
+    },
+    {
+      "q": "Why do ionic solutions conduct electricity while pure distilled water does not?",
+      "a": ["Dissolved ions act as mobile charge carriers, whereas pure water has very few free ions", "Ionic solutions have higher temperatures", "Water molecules stop moving in solutions", "Distilled water contains too much oxygen"],
+      "correct": 0
+    },
+    {
+      "q": "What type of crystal lattice structure do ionic compounds form?",
+      "a": ["Simple discrete pairs", "A giant ionic lattice of alternating positive and negative ions", "Random molecular clusters", "Long chain polymers"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances has the highest melting point due to strong ionic bonding?",
+      "a": ["Methane (CH4)", "Water (H2O)", "Magnesium oxide (MgO)", "Carbon dioxide (CO2)"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the electrical conductivity of solid sodium chloride when it is heated until it melts into a liquid?",
+      "a": ["It remains a non-conductor", "It becomes an insulator", "It stops all atomic motion", "It becomes a good electrical conductor because ions are free to move"],
+      "correct": 3
+    },
+    {
+      "q": "Why are ionic compounds generally insoluble in non-polar organic solvents like hexane?",
+      "a": ["Non-polar solvents cannot form attractive interactions with charged ions strong enough to break the ionic lattice", "Hexane reacts to form an acid", "Hexane freezes ionic solids", "Organic solvents dissolve only gases"],
+      "correct": 0
+    },
+    {
+      "q": "During the electrolysis of molten sodium chloride, what product is formed at the negative electrode (cathode)?",
+      "a": ["Chlorine gas", "Silvery molten sodium metal", "Hydrogen gas", "Oxygen gas"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following best describes the appearance of most solid ionic compounds?",
+      "a": ["Dark black liquids", "Flexible rubbery sheets", "White or colorless crystalline solids", "Metallic shiny wires"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes the brittleness of ionic solids when subjected to mechanical stress?",
+      "a": ["Malleability", "Ductility", "Elasticity", "Brittleness"],
+      "correct": 3
+    },
+    {
+      "q": "Why do ionic compounds not conduct electricity in the solid state?",
+      "a": ["The ions are locked tightly into fixed positions in the lattice and cannot move to carry charge", "They have too many electrons", "Solid ionic compounds contain no charges", "The temperature is too high"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following ionic compounds would you expect to have a higher melting point: sodium chloride (NaCl) or magnesium oxide (MgO)?",
+      "a": ["Sodium chloride because it has smaller ions", "Magnesium oxide because Mg^2+ and O^2- ions have higher charges, resulting in much stronger electrostatic attraction", "They have identical melting points", "Magnesium oxide has a lower melting point because it is a gas"],
+      "correct": 1
+    },
+    {
+      "q": "When sodium chloride dissolves in water, what happens to the sodium and chloride ions?",
+      "a": ["They react to form chlorine gas", "They turn into neutral atoms", "They separate from each other and become hydrated by water molecules", "They precipitate out as solid rock"],
+      "correct": 2
+    },
+    {
+      "q": "What is the role of ions in an electrolyte during electrolysis?",
+      "a": ["They act as thermal insulators", "They evaporate into the air", "They stay completely stationary", "They migrate toward the oppositely charged electrodes, carrying electrical current"],
+      "correct": 3
+    },
+    {
+      "q": "Which physical property is *not* characteristic of typical ionic compounds?",
+      "a": ["High volatility (turning to gas easily at room temperature)", "High melting point", "Brittleness", "Electrical conductivity when molten or dissolved"],
+      "correct": 0
+    },
+    {
+      "q": "What causes the high hardness observed in many ionic crystalline solids?",
+      "a": ["Flexible covalent bonds", "Strong electrostatic attractions throughout the giant lattice making planes difficult to shift", "Low density", "Mobile electrons"],
+      "correct": 1
+    },
+    {
+      "q": "How does the strength of ionic bonding affect the enthalpy change of melting for ionic salts?",
+      "a": ["It requires very little energy", "It releases heat", "It requires a high enthalpy of fusion to break the strong ionic bonds", "It has zero enthalpy"],
+      "correct": 2
+    },
+    {
+      "q": "When copper(II) sulfate crystals are dissolved in water, what color is the resulting solution and why?",
+      "a": ["Colorless because ions disappear", "Bright red due to copper atoms", "Green due to sulfate gas", "Blue due to the presence of hydrated copper(II) ions moving freely in solution"],
+      "correct": 3
+    },
+    {
+      "q": "Why do ionic substances tend to be odorless solids at room temperature?",
+      "a": ["They have extremely low vapor pressures because their ions are strongly bound in a giant lattice, preventing them from evaporating into gases", "They are made of heavy metals", "They contain too much water", "They react with room air"],
+      "correct": 0
+    },
+    {
+      "q": "In an experiment testing electrical conductivity, why does solid copper(``II'') chloride fail to light a bulb, while aqueous copper(``II'') chloride lights it brightly?",
+      "a": ["Solid wires are broken", "Ions are fixed in the solid crystal but are mobile and free to carry charge in aqueous solution", "Water adds extra electricity", "Solid salts contain no copper"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to a crystal of sodium chloride when placed in liquid water?",
+      "a": ["It sinks and remains unchanged forever", "It turns into a gas", "It dissolves as water molecules pull the sodium and chloride ions into solution", "It explodes violently"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following factors determines the magnitude of the lattice energy in an ionic compound?",
+      "a": ["The color of the solid", "The atmospheric pressure", "The speed of light", "The charges of the ions and the distance (radius) between them"],
+      "correct": 3
+    },
+    {
+      "q": "Why is it incorrect to speak of a single 'molecule' of sodium chloride (NaCl)?",
+      "a": ["Because NaCl exists as a continuous giant 3D lattice of alternating Na+ and ions rather than distinct, separate molecular units", "Because sodium chloride is a gas", "Because chlorine is a metal", "Because the formula is actually Na10Cl10"],
+      "correct": 0
+    },
+    {
+      "q": "What is the visual evidence that an ionic compound has dissolved in water to form a clear solution?",
+      "a": ["The liquid becomes cloudy with precipitate", "The solid disappears completely and the liquid remains transparent (though possibly colored)", "The volume of water decreases to zero", "Bubbles of steam form rapidly"],
+      "correct": 1
+    },
+    {
+      "q": "How do ionic compounds respond when an electric field is applied across a molten salt?",
+      "a": ["Positive ions stay still", "Negative ions move toward the positive electrode while positive ions move toward the negative electrode", "All ions move in random circles", "Electrons flow through covalent bonds"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following statements explains why ionic compounds are brittle rather than malleable?",
+      "a": ["They are made of soft gases", "They contain free electrons that repel each other", "They can bend easily under pressure", "Displacement of planes brings ions of the same charge next to each other, causing repulsive forces that fracture the crystal"],
+      "correct": 3
+    },
+    {
+      "q": "Why do molten ionic substances conduct electricity while molten covalent substances (like molten sulfur or sugar) generally do not?",
+      "a": ["Ionic substances produce mobile charged ions upon melting, whereas covalent substances consist of neutral molecules without free charges", "Covalent substances are too cold", "Ionic substances contain free electrons like metals", "Covalent substances turn into water"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is a correct safety precaution when handling molten ionic salts in a laboratory setting?",
+      "a": ["Touch them with bare hands to check temperature", "Wear eye protection and safety screens because high-temperature ionic liquids can sputter or spit", "Add cold water to boiling molten salt immediately", "Inhale the vapors directly"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the boiling point of ionic compounds as the electrostatic attraction between their constituent ions increases?",
+      "a": ["Boiling point decreases to room temperature", "Boiling point becomes zero", "Boiling point increases significantly", "Boiling point is unaffected"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following correctly pairs an ionic compound property with its microscopic cause?",
+      "a": ["Low melting point due to weak covalent bonds", "Electrical conductivity in solids due to free electrons", "Solubility in organic solvents due to non-polar charges", "High melting point due to strong electrostatic forces throughout a giant lattice"],
+      "correct": 3
+    }
+  ]
+}

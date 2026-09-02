@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-respiratory",
+"name": "Human respiratory system",
+"questions": [
+{
+"q": "What is the primary function of the human respiratory system?",
+"a": ["To pump blood through the systemic circulation loop", "To supply the body with oxygen and remove carbon dioxide waste", "To mechanically break down complex food polymers", "To filter solid waste material from the large intestine"],
+"correct": 1
+},
+{
+"q": "Which muscular organ separates the chest cavity from the abdomen and plays a major role in breathing?",
+"a": ["The heart", "The diaphragm", "The liver", "The esophagus"],
+"correct": 1
+},
+{
+"q": "What is another name for the windpipe, which carries air down from the throat toward the lungs?",
+"a": ["The trachea", "The larynx", "The bronchus", "The bronchiole"],
+"correct": 0
+},
+{
+"q": "What are the tiny air sacs at the ends of the bronchioles where gas exchange takes place?",
+"a": ["Alveoli", "Capillaries", "Pleura", "Villi"],
+"correct": 0
+},
+{
+"q": "Which of the following structural features makes alveoli highly efficient for gas exchange?",
+"a": ["They have thick, multi-layered muscular walls", "They are coated in a thin layer of moisture and have a large surface area with walls one cell thick", "They actively pump gases using cellular energy", "They contain hemoglobin crystals to store oxygen"],
+"correct": 1
+},
+{
+"q": "What happens to the diaphragm and rib muscles during inhalation (breathing in)?",
+"a": ["The diaphragm relaxes and moves up; ribs move down and in", "The diaphragm contracts and flattens; ribs move up and out", "Both the diaphragm and ribs remain completely still", "The diaphragm turns into bone tissue"],
+"correct": 1
+},
+{
+"q": "What happens to the air pressure inside the chest cavity when the volume of the chest increases during inhalation?",
+"a": ["Pressure increases above atmospheric pressure", "Pressure decreases below atmospheric pressure, causing air to rush in", "Pressure drops to absolute zero", "Pressure remains totally unaffected"],
+"correct": 1
+},
+{
+"q": "What process allows oxygen to move from the alveoli into the surrounding blood capillaries?",
+"a": ["Active transport", "Diffusion down a concentration gradient", "Osmosis of water molecules", "Filtration under high pressure"],
+"correct": 1
+},
+{
+"q": "Which gas diffuses from the blood capillaries into the alveoli to be exhaled?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "What is the function of the rings of cartilage found along the walls of the trachea?",
+"a": ["To contract and pump air into the lungs", "To keep the airway open and prevent it from collapsing", "To filter out bacteria using white blood cells", "To convert oxygen into carbon dioxide"],
+"correct": 1
+},
+{
+"q": "What role do tiny hair-like structures called cilia and mucus play in the respiratory tract?",
+"a": ["They trap dust, dirt, and pathogens and sweep them away from the lungs", "They speed up the absorption of food nutrients", "They generate electrical impulses for heartbeats", "They cool down inhaled air during physical exercise"],
+"correct": 0
+},
+{
+"q": "What happens during exhalation (breathing out)?",
+"a": ["The chest volume increases and air is sucked in", "The diaphragm relaxes and moves up, chest volume decreases, and air is pushed out", "The ribcage expands upward and outward permanently", "The lungs fill with liquid plasma"],
+"correct": 1
+},
+{
+"q": "Which tubes branch directly off the trachea to lead air into the left and right lungs?",
+"a": ["Bronchi", "Bronchioles", "Alveoli", "Capillaries"],
+"correct": 0
+},
+{
+"q": "What are the smaller branches that spread out from the bronchi inside the lungs called?",
+"a": ["Tracheae", "Bronchioles", "Aortas", "Vena cava"],
+"correct": 1
+},
+{
+"q": "Which of these lifestyle choices is a primary cause of lung cancer and chronic bronchitis?",
+"a": ["Regular aerobic exercise", "Smoking tobacco", "Drinking pure water", "Eating fresh vegetables"],
+"correct": 1
+},
+{
+"q": "What substance in cigarette smoke paralyzes the cilia in the airways?",
+"a": ["Vitamin C", "Tar and various toxic chemicals", "Pure oxygen", "Calcium carbonate"],
+"correct": 1
+},
+{
+"q": "What condition is characterized by inflammation of the bronchi and excessive mucus production, often caused by irritants like smoke?",
+"a": ["Asthma", "Chronic bronchitis", "Anemia", "Appendicitis"],
+"correct": 1
+},
+{
+"q": "What happens to the breathing rate during physical exercise compared to resting state?",
+"a": ["It decreases to conserve energy", "It stays completely constant", "It increases to supply more oxygen to muscles and remove extra carbon dioxide", "It stops entirely for short intervals"],
+"correct": 2
+},
+{
+"q": "Why is the surface area of the lungs so large (roughly the size of a tennis court)?",
+"a": ["To store extra body fat", "To allow sufficient rates of gas exchange to meet the body's metabolic demands", "To prevent water loss from the skin", "To help the body float in water"],
+"correct": 1
+},
+{
+"q": "What is the voice box, located at the upper part of the trachea, called?",
+"a": ["The pharynx", "The larynx", "The alveolus", "The pleural cavity"],
+"correct": 1
+},
+{
+"q": "How does the composition of inhaled air compare to exhaled air regarding oxygen content?",
+"a": ["Exhaled air contains a higher percentage of oxygen than inhaled air", "Inhaled air contains a higher percentage of oxygen than exhaled air", "Both contain identical amounts of oxygen", "Exhaled air contains 100% pure oxygen"],
+"correct": 1
+},
+{
+"q": "Approximately what percentage of inhaled air is oxygen?",
+"a": ["1 percent", "21 percent", "78 percent", "99 percent"],
+"correct": 1
+},
+{
+"q": "Approximately what percentage of inhaled air is nitrogen?",
+"a": ["21 percent", "50 percent", "78 percent", "5 percent"],
+"correct": 2
+},
+{
+"q": "Which waste gas is found in significantly higher concentrations in exhaled air compared to inhaled air?",
+"a": ["Carbon dioxide", "Helium", "Hydrogen", "Neon"],
+"correct": 0
+},
+{
+"q": "What is the function of the pleural membranes surrounding the lungs?",
+"a": ["To secrete lubricating fluid that reduces friction between lungs and chest wall during breathing", "To pump blood into pulmonary veins", "To digest food particles entering the throat", "To filter bacteria from the bloodstream"],
+"correct": 0
+},
+{
+"q": "Which respiratory condition involves the airways narrowing and wheezing due to triggers like pollen, dust, or cold air?",
+"a": ["Asthma", "Emphysema", "Pneumonia", "Tuberculosis"],
+"correct": 0
+},
+{
+"q": "What physical change occurs to the ribcage when you breathe in deeply?",
+"a": ["It moves downward and inward", "It moves upward and outward", "It remains completely rigid", "It collapses inward"],
+"correct": 1
+},
+{
+"q": "Why do red blood cells passing through lung capillaries rapidly pick up oxygen?",
+"a": ["Because oxygen concentration is high in the alveoli and low in the blood, driving diffusion", "Because the lungs actively push oxygen into cells using muscles", "Because red blood cells have electric charges", "Because plasma turns solid in the lungs"],
+"correct": 0
+},
+{
+"q": "What is the medical term for the amount of air inspired or expired during normal breathing?",
+"a": ["Cardiac output", "Tidal volume", "Blood pressure", "Diffusion rate"],
+"correct": 1
+},
+{
+"q": "How does the respiratory system work together with the circulatory system?",
+"a": ["The respiratory system brings oxygen into the blood, and the circulatory system transports it to body cells", "The respiratory system pumps blood while the heart handles air", "They operate completely independently without interaction", "The respiratory system destroys blood cells"],
+"correct": 0
+},
+{
+"q": "What effect does carbon monoxide (found in tobacco smoke) have on the blood?",
+"a": ["It increases oxygen transport efficiency", "It binds permanently to hemoglobin instead of oxygen, reducing the blood's oxygen-carrying capacity", "It turns white blood cells into red blood cells", "It dissolves blood clots instantly"],
+"correct": 1
+},
+{
+"q": "What is emphysema?",
+"a": ["A lung disease where alveolar walls are damaged and destroyed, greatly reducing surface area for gas exchange", "An infection of the heart muscle", "A blockage in the coronary arteries", "An overproduction of stomach acid"],
+"correct": 0
+},
+{
+"q": "Why is the nose lined with tiny blood vessels (capillaries)?",
+"a": ["To warm and humidify inhaled air before it reaches the delicate lungs", "To cool down blood before it enters the brain", "To produce sweat inside the nasal cavity", "To absorb food nutrients from the air"],
+"correct": 0
+},
+{
+"q": "What happens when a person hyperventilates (breathes too fast and deep)?",
+"a": ["Carbon dioxide levels in the blood drop too low", "Oxygen levels drop to absolute zero", "The heart stops beating permanently", "The lungs fill with water"],
+"correct": 0
+},
+{
+"q": "Which muscle group is located between the ribs and assists in moving the ribcage during breathing?",
+"a": ["Intercostal muscles", "Cardiac muscles", "Abdominal rectus", "Biceps"],
+"correct": 0
+},
+{
+"q": "What triggers the automatic control of breathing rate in the brain?",
+"a": ["Detected levels of carbon dioxide dissolved in the blood plasma", "Conscious thoughts about running speed", "The temperature of the skin", "The volume of food in the stomach"],
+"correct": 0
+},
+{
+"q": "Why do unicellular organisms not require a complex respiratory system like humans?",
+"a": ["They have a very large surface area-to-volume ratio, allowing gases to diffuse directly across their cell membrane", "They do not need oxygen at all", "They produce their own oxygen through metal synthesis", "They live exclusively in dry environments"],
+"correct": 0
+},
+{
+"q": "What is the primary role of mucus produced in the respiratory passages?",
+"a": ["To trap incoming foreign particles like dust and bacteria", "To digest inhaled pollen grains", "To act as fuel for cellular respiration", "To cool the voice box during speech"],
+"correct": 0
+},
+{
+"q": "What happens to the air passages during an asthma attack?",
+"a": ["The muscles surrounding the bronchioles contract and swell, narrowing the airway", "The alveoli expand to the size of balloons", "The trachea turns into bone", "Capillaries multiply rapidly"],
+"correct": 0
+},
+{
+"q": "Which structure prevents food and liquid from entering the trachea during swallowing?",
+"a": ["The epiglottis", "The diaphragm", "The pleural membrane", "The bronchus"],
+"correct": 0
+}
+]
+}

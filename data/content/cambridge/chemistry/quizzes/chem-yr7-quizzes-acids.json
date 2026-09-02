@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr7-quizzes-acids",
+  "name": "Acids and alkalis indicators and ph scale",
+  "questions": [
+    {
+      "q": "What is the typical taste of a dilute acidic solution such as lemon juice?",
+      "a": ["Sour", "Sweet", "Bitter", "Salty"],
+      "correct": 0
+    },
+    {
+      "q": "How do strong alkalis feel if they accidentally touch your skin?",
+      "a": ["Sticky and sweet", "Soapy and slippery", "Rough and dry", "Cold and powdery"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances is classified as a laboratory alkali?",
+      "a": ["Sodium chloride solution", "Dilute hydrochloric acid", "Sodium hydroxide solution", "Pure distilled water"],
+      "correct": 2
+    },
+    {
+      "q": "What is the pH range of strong acidic solutions on the universal indicator scale?",
+      "a": ["pH 8 to pH 14", "pH 7 exactly", "pH 12 to pH 14", "pH 0 to pH 3"],
+      "correct": 3
+    },
+    {
+      "q": "What color does litmus paper turn when dipped into an acidic solution?",
+      "a": ["Red", "Blue", "Green", "Purple"],
+      "correct": 0
+    },
+    {
+      "q": "What color does red litmus paper turn when placed in a strong alkaline solution?",
+      "a": ["Yellow", "Blue", "Pink", "Colorless"],
+      "correct": 1
+    },
+    {
+      "q": "What pH value represents a completely neutral solution, such as pure water at room temperature?",
+      "a": ["pH 0", "pH 14", "pH 7", "pH 10"],
+      "correct": 2
+    },
+    {
+      "q": "Which indicator turns pink or magenta in alkaline solutions and colorless in acidic solutions?",
+      "a": ["Litmus solution", "Universal indicator", "Methyl orange", "Phenolphthalein"],
+      "correct": 3
+    },
+    {
+      "q": "What type of chemical reaction occurs when an acid is mixed with an alkali to form a neutral solution?",
+      "a": ["Neutralization", "Combustion", "Thermal decomposition", "Displacement"],
+      "correct": 0
+    },
+    {
+      "q": "Which two products are typically formed when a dilute acid reacts with a metal hydroxide alkali?",
+      "a": ["Hydrogen gas and carbon dioxide", "A salt and water", "An oxide and a gas", "Sugar and oxygen"],
+      "correct": 1
+    },
+    {
+      "q": "What color does universal indicator show when a solution is neutral (pH 7)?",
+      "a": ["Dark red", "Deep purple", "Green", "Orange"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these everyday household substances is a strong acid?",
+      "a": ["Baking soda solution", "Soapy water", "Toothpaste", "Battery acid (sulfuric acid)"],
+      "correct": 3
+    },
+    {
+      "q": "Why do gardeners sometimes add lime (calcium hydroxide) to acidic soil?",
+      "a": ["To neutralize the acidity and raise the pH closer to neutral for crops", "To make the soil more acidic", "To kill all earthworms instantly", "To turn the soil blue"],
+      "correct": 0
+    },
+    {
+      "q": "What gas is produced when a reactive metal like magnesium reacts with hydrochloric acid?",
+      "a": ["Oxygen gas", "Hydrogen gas", "Carbon dioxide gas", "Nitrogen gas"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is a natural indicator that can be extracted from red cabbage?",
+      "a": ["Copper sulfate", "Sodium chloride", "Red cabbage juice containing anthocyanin", "Magnesium ribbon"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the pH number of an acidic solution as you dilute it significantly with large amounts of water?",
+      "a": ["It decreases toward 0", "It jumps straight to 14", "It stays completely unchanged", "It increases toward 7"],
+      "correct": 3
+    },
+    {
+      "q": "Which ion is present in all aqueous acidic solutions and is responsible for their acidic properties?",
+      "a": ["Hydrogen ions (H+)", "Hydroxide ions (OH-)", "Sodium ions (Na+)", "Chloride ions (Cl-)"],
+      "correct": 0
+    },
+    {
+      "q": "Which ion is present in all aqueous alkaline solutions and is responsible for their alkaline properties?",
+      "a": ["Hydrogen ions (H+)", "Hydroxide ions (OH-)", "Sulfate ions (SO42-)", "Oxygen ions (O2-)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the color of methyl orange indicator when added to a strongly acidic solution?",
+      "a": ["Yellow", "Blue", "Red", "Green"],
+      "correct": 2
+    },
+    {
+      "q": "If an indigestion tablet (which is alkaline) is swallowed to cure stomach ache, what chemical process takes place?",
+      "a": ["Combustion", "Decomposition", "Evaporation", "Neutralization of excess stomach acid"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following pH values indicates the most alkaline solution?",
+      "a": ["pH 14", "pH 8", "pH 9", "pH 11"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following pH values indicates a weak acid?",
+      "a": ["pH 1", "pH 5", "pH 7", "pH 13"],
+      "correct": 1
+    },
+    {
+      "q": "What apparatus is commonly used in a school laboratory to measure the exact volume of acid added during a titration or neutralization experiment?",
+      "a": ["A test tube", "An evaporating basin", "A burette", "A Bunsen burner"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to blue litmus paper when it is dipped into a neutral solution like pure water?",
+      "a": ["It turns bright red", "It turns deep green", "It dissolves completely", "It remains blue (no color change)"],
+      "correct": 3
+    },
+    {
+      "q": "What type of oxide is formed when non-metals burn in air and dissolve in water to make an acid?",
+      "a": ["Acidic oxide", "Basic oxide", "Neutral oxide", "Metallic salt"],
+      "correct": 0
+    },
+    {
+      "q": "What type of oxide is typically formed when metals react with oxygen?",
+      "a": ["Acidic oxide", "Basic oxide", "Gaseous hydrocarbon", "Inert polymer"],
+      "correct": 1
+    },
+    {
+      "q": "Why are strong concentrated acids handled with extreme care and safety goggles in the laboratory?",
+      "a": ["They are highly magnetic", "They freeze skin instantly", "They are corrosive and can burn skin and damage eyes", "They emit radioactive waves"],
+      "correct": 2
+    },
+    {
+      "q": "Which substance is commonly used by farmers to neutralize alkaline soils?",
+      "a": ["Quicklime (calcium oxide)", "Sodium hydroxide", "Bleaching powder", "Organic compost or sulfur"],
+      "correct": 3
+    },
+    {
+      "q": "When hydrochloric acid reacts with calcium carbonate (marble chips), which gas is given off?",
+      "a": ["Carbon dioxide gas", "Hydrogen gas", "Oxygen gas", "Chlorine gas"],
+      "correct": 0
+    },
+    {
+      "q": "What is the general name of the compound formed when an acid reacts with a base or alkali?",
+      "a": ["An indicator", "A salt", "A hydrocarbon", "An element"],
+      "correct": 1
+    },
+    {
+      "q": "If universal indicator turns purple in a solution, what does this tell you about the solution?",
+      "a": ["It is strongly acidic", "It is neutral", "It is strongly alkaline", "It is pure water"],
+      "correct": 2
+    },
+    {
+      "q": "Which chemical test confirms that a gas is carbon dioxide during an acid-carbonate reaction?",
+      "a": ["Relights a glowing splint", "Produces a squeaky pop", "Turns blue cobalt chloride paper pink", "Turns limewater milky/cloudy"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of the salt produced when hydrochloric acid reacts with sodium hydroxide?",
+      "a": ["Sodium chloride", "Sodium sulfate", "Sodium nitrate", "Sodium carbonate"],
+      "correct": 0
+    },
+    {
+      "q": "What is the name of the salt produced when sulfuric acid reacts with copper oxide?",
+      "a": ["Copper chloride", "Copper sulfate", "Copper nitrate", "Copper carbonate"],
+      "correct": 1
+    },
+    {
+      "q": "Why is universal indicator more useful than litmus paper for testing unknown solutions?",
+      "a": ["It only works in the dark", "It is cheaper to manufacture", "It gives a range of different colors corresponding to specific pH numbers from 1 to 14", "It never changes color"],
+      "correct": 2
+    },
+    {
+      "q": "What color is phenolphthalein indicator in an acidic solution?",
+      "a": ["Pink", "Red", "Blue", "Colorless"],
+      "correct": 3
+    },
+    {
+      "q": "Which of these household items is mildly acidic and often used in cooking?",
+      "a": ["Vinegar (acetic acid)", "Baking soda", "Bleach solution", "Caustic soda"],
+      "correct": 0
+    },
+    {
+      "q": "What is the pH of a neutral solution measured at standard laboratory conditions?",
+      "a": ["pH 0", "pH 7", "pH 14", "pH 4"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following statements about alkalis is correct?",
+      "a": ["All alkalis are insoluble in water", "All alkalis have a pH below 7", "All alkalis are soluble bases that produce hydroxide ions in water", "All alkalis taste sour like lemons"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the temperature of a solution during a neutralization reaction between an acid and an alkali?",
+      "a": ["It drops to freezing point", "It stays completely constant", "It drops below zero", "It increases because neutralization is an exothermic process"],
+      "correct": 3
+    }
+  ]
+}

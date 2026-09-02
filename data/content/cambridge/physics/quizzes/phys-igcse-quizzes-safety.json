@@ -1,0 +1,146 @@
+{
+  "id": "phys-igcse-quizzes-safety",
+  "name": "Electrical safety and power",
+  "questions": [
+    {
+      "q": "What is the primary danger of touching a live electrical wire connected to mains electricity without insulation?",
+      "a": ["Electric shock through the body to the ground, potentially causing cardiac arrest or severe burns", "Instant freezing of body tissue", "Turning skin magnetic", "Temporary loss of memory"],
+      "correct": 0
+    },
+    {
+      "q": "What color is the insulation sheath on the live wire in a standard three-core UK/International mains electricity cable?",
+      "a": ["Blue", "Brown", "Green and yellow stripes", "Black"],
+      "correct": 1
+    },
+    {
+      "q": "What is the color coding and purpose of the earth wire in a three-core mains electrical cable?",
+      "a": ["Blue wire used for neutral return current", "Brown wire carrying live voltage", "Green and yellow striped wire connected to appliance metal casings as a safety feature to prevent shocks", "Black wire used for grounding audio signals"],
+      "correct": 2
+    },
+    {
+      "q": "Why is a fuse wired into the live wire of an appliance rather than the neutral wire?",
+      "a": ["Live wires carry lower voltage than neutral wires", "Neutral wires already contain fuses", "Fuses work faster when placed in plastic casings", "When the fuse blows, it completely disconnects the appliance from the high-voltage live supply, making it safe"],
+      "correct": 3
+    },
+    {
+      "q": "How does a fuse protect an electrical appliance and circuit from overheating and fire hazards?",
+      "a": ["A thin wire inside the fuse melts and breaks the circuit if the current exceeds its rated value due to a fault or short circuit", "It absorbs excess voltage like a sponge", "It cools down the electrical wires using liquid coolant", "It turns excess current into light"],
+      "correct": 0
+    },
+    {
+      "q": "What is the function of the neutral wire in a mains electrical circuit?",
+      "a": ["To supply high voltage to the appliance", "To complete the circuit by returning current from the appliance back to the power station", "To earth metal casings", "To measure electrical energy consumption"],
+      "correct": 1
+    },
+    {
+      "q": "What is a circuit breaker (MCB) and how does it compare to a traditional fuse?",
+      "a": ["A circuit breaker is a permanent switch that cannot be reset once tripped", "A circuit breaker is made of glass and melts permanently", "An electromagnetic or electronic switch that automatically opens and cuts off the circuit during a fault, and can be easily reset without replacement", "A circuit breaker only works with direct current"],
+      "correct": 2
+    },
+    {
+      "q": "Why must appliances with exposed metal bodies (such as electric kettles or toasters) be connected to the earth wire?",
+      "a": ["To make the appliance heavier", "To help the heating element reach higher temperatures", "To improve electrical efficiency", "To provide a low-resistance path for fault current to flow safely to the ground, tripping the fuse and preventing user shock if the live wire touches the metal casing"],
+      "correct": 3
+    },
+    {
+      "q": "What is double insulation, and why is it used in electrical appliances such as hair dryers or electric drills?",
+      "a": ["Appliances have two layers of electrical insulation around all live parts with no exposed metal parts, eliminating the need for an earth wire", "Appliances use two power cords plugged into separate wall sockets", "Appliances are coated in thick lead paint", "Appliances have double fuses for safety"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the current drawn by a 2,300 W electric heater plugged into a 230 V mains electricity supply.",
+      "a": ["0.1 A", "10 A", "100 A", "2,070 A"],
+      "correct": 1
+    },
+    {
+      "q": "Which standard fuse rating should be selected for a 700 W appliance operating on a 230 V mains supply?",
+      "a": ["3 A fuse", "5 A fuse", "13 A fuse", "1 A fuse"],
+      "correct": 2
+    },
+    {
+      "q": "What dangerous situation can occur if an electrical socket or extension lead is overloaded with too many high-power appliances plugged into it?",
+      "a": ["Voltage drops to zero instantly", "Appliances run faster and more efficiently", "The room temperature drops", "Excessive current flows through the wires, causing overheating, insulation melting, and potential electrical fires"],
+      "correct": 3
+    },
+    {
+      "q": "Why is it extremely dangerous to touch electrical switches or appliances with wet hands?",
+      "a": ["Water containing dissolved impurities lowers human skin electrical resistance significantly, allowing a much larger, dangerous current to flow through the body", "Wet hands turn off circuit breakers instantly", "Water generates high-voltage sparks", "Dry skin conducts better than wet skin"],
+      "correct": 0
+    },
+    {
+      "q": "What is the typical voltage and frequency of domestic mains electricity in many regions (such as the UK and Europe)?",
+      "a": ["110 V at 60 Hz", "230 V at 50 Hz", "400 V at 100 Hz", "12 V direct current"],
+      "correct": 1
+    },
+    {
+      "q": "How is electrical energy (E) transferred calculated when power (P) and operating time (t) are known?",
+      "a": ["E = P / t", "E = P × t²", "E = P × t", "E = P + t"],
+      "correct": 2
+    },
+    {
+      "q": "What is a residual current circuit breaker (RCCB or GFCI), and what advantage does it offer over standard fuses?",
+      "a": ["It measures room temperature", "It increases voltage output", "It detects tiny differences between current flowing in the live and neutral wires and cuts power in milliseconds, protecting humans from electric shock", "It prevents light bulbs from burning out"],
+      "correct": 3
+    },
+    {
+      "q": "If an electric iron uses 2,000 joules of electrical energy in 5 seconds, what is its average power output?",
+      "a": ["400 W", "10,000 W", "2,005 W", "0.0025 W"],
+      "correct": 0
+    },
+    {
+      "q": "Why is copper used for the internal conducting wires of electrical cables?",
+      "a": ["Copper is magnetic", "Copper has very low electrical resistance and high ductility, making it an excellent conductor", "Copper is the most expensive metal", "Copper prevents short circuits"],
+      "correct": 1
+    },
+    {
+      "q": "What safety hazard is posed by frayed or damaged insulation on electrical power cords?",
+      "a": ["Increased battery life", "Brighter light emission", "Exposed live wires that can cause severe electric shock or short circuits if touched", "Enhanced audio quality"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is an essential safety rule when replacing a blown fuse in a fused plug?",
+      "a": ["Always plug the appliance in while replacing it", "Use a thick copper wire instead of a certified fuse", "Touch the live pins directly", "Disconnect the appliance from the mains electricity supply before opening the plug"],
+      "correct": 3
+    },
+    {
+      "q": "What is the formula for calculating electrical power (P) using current (I) and resistance (R)?",
+      "a": ["P = I² × R", "P = I × R", "P = R / I²", "P = I / R"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the power dissipated in a 10-ohm resistor when a current of 2 A flows through it.",
+      "a": ["20 W", "40 W", "5 W", "100 W"],
+      "correct": 1
+    },
+    {
+      "q": "Why are overhead power transmission cables left bare without insulating plastic sheaths?",
+      "a": ["Plastic insulation makes cables conduct electricity better", "Insulation melts in the rain", "Air acts as a natural insulator, and bare cables are cooled efficiently by surrounding wind while saving heavy weight and manufacturing costs", "Birds prefer resting on bare wires"],
+      "correct": 2
+    },
+    {
+      "q": "What safety measure should be taken when using electrical equipment outdoors in wet weather?",
+      "a": ["Use standard indoor extension cords", "Wear cotton gloves", "Stand in a puddle for stability", "Use weatherproof, waterproof sockets and RCD protection to prevent grounding shocks"],
+      "correct": 3
+    },
+    {
+      "q": "What is a short circuit in an electrical installation?",
+      "a": ["An accidental low-resistance connection across a circuit component or power source that allows dangerously high currents to flow", "A wire that is cut too short during installation", "A battery running out of charge", "A light bulb filament breaking"],
+      "correct": 0
+    },
+    {
+      "q": "How does a step-down transformer improve safety for domestic consumer electronics such as phone chargers?",
+      "a": ["It increases mains voltage to 1,000 V", "It steps down high mains voltage (e.g., 230 V) to a safe low voltage (e.g., 5 V) suitable for electronic components", "It blocks all electrical currents", "It converts alternating current into explosive gas"],
+      "correct": 1
+    },
+    {
+      "q": "Why must you never insert metal objects like knitting needles or screwdrivers into electrical wall sockets?",
+      "a": ["It scratches the plastic faceplate", "It drains power from the national grid", "It provides a direct low-resistance path from the live terminal through your body to the earth, causing fatal electrocution", "It reverses the polarity of the house"],
+      "correct": 2
+    },
+    {
+      "q": "What is the cost of operating a 3 kW electric oven for 2 hours if electrical energy costs 20 cents per kilowatt-hour?",
+      "a": ["60 cents", "40 cents", "100 cents", "120 cents"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "math-jhs1-quizzes-data-collection-tables",
+"name": "Data Collection & Tables",
+"questions": [
+{
+"q": "What term is used to describe information collected in numbers or descriptions for analysis?",
+"a": ["Data", "Variable", "Frequency", "Sample"],
+"correct": 0
+},
+{
+"q": "In a frequency distribution table, what does tally mark '||||' represent?",
+"a": ["3", "4", "5", "6"],
+"correct": 1
+},
+{
+"q": "What name is given to the number of times a particular data value occurs in a set of data?",
+"a": ["Range", "Average", "Frequency", "Interval"],
+"correct": 2
+},
+{
+"q": "Which of the following methods is most suitable for collecting primary data about the favorite subjects of students in a school?",
+"a": ["Reading old textbooks", "Downloading internet statistics", "Searching through government archives", "Conducting a questionnaire or interview"],
+"correct": 3
+},
+{
+"q": "What is the range of the following set of test scores: 45, 62, 38, 89, 74, 55?",
+"a": ["51", "45", "54", "48"],
+"correct": 0
+},
+{
+"q": "When data is organized into groups or class intervals such as 10-14, 15-19, what is the lower class boundary of the interval 15-19?",
+"a": ["15", "14.5", "19.5", "10"],
+"correct": 1
+},
+{
+"q": "What do we call data that is collected firsthand directly from the source by the investigator?",
+"a": ["Secondary data", "Discrete data", "Primary data", "Continuous data"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of continuous data?",
+"a": ["Number of students in a classroom", "Number of cars passing a toll booth", "Shoe size of children", "Height of maize plants in a farm"],
+"correct": 3
+},
+{
+"q": "Find the mode of the following data set: 4, 7, 5, 4, 9, 2, 4, 8, 5, 4.",
+"a": ["4", "5", "7", "9"],
+"correct": 0
+},
+{
+"q": "Calculate the median of the following set of numbers: 12, 7, 15, 9, 22, 14, 18.",
+"a": ["12", "14", "15", "13"],
+"correct": 1
+},
+{
+"q": "What is the mean of the first five prime numbers?",
+"a": ["5.2", "5.4", "5.6", "5.8"],
+"correct": 2
+},
+{
+"q": "If the sum of 8 numbers is 120, what is their mean?",
+"a": ["12", "16", "20", "15"],
+"correct": 3
+},
+{
+"q": "What type of data consists of distinct, countable values such as whole numbers?",
+"a": ["Discrete data", "Continuous data", "Secondary data", "Categorical data"],
+"correct": 0
+},
+{
+"q": "In a grouped frequency table, what is the class width of the interval 20-29?",
+"a": ["9", "10", "11", "5"],
+"correct": 1
+},
+{
+"q": "What is the middle value of a class interval 10 to 20, also known as the class mark?",
+"a": ["10", "20", "15", "5"],
+"correct": 2
+},
+{
+"q": "Which statistical chart uses proportional sectors of a circle to represent parts of a whole set of data?",
+"a": ["Bar chart", "Line graph", "Histogram", "Pie chart"],
+"correct": 3
+},
+{
+"q": "If a pie chart sector representing football has an angle of 90 degrees out of a total 360 degrees, what fraction of the total people chose football?",
+"a": ["1/4", "1/3", "1/2", "3/4"],
+"correct": 0
+},
+{
+"q": "What is the primary advantage of organizing raw data into a frequency table?",
+"a": ["It changes the values completely", "It makes the data easier to read and analyze", "It increases the number of data points", "It eliminates all errors"],
+"correct": 1
+},
+{
+"q": "If the mean of 5 numbers is 14, and four of the numbers are 10, 12, 15, and 18, find the fifth number.",
+"a": ["12", "13", "15", "16"],
+"correct": 2
+},
+{
+"q": "Which data collection instrument consists of a list of written questions designed to gather information from respondents?",
+"a": ["Thermometer", "Meter rule", "Stopwatch", "Questionnaire"],
+"correct": 3
+},
+{
+"q": "Given the frequency distribution where score 5 has frequency 2, score 6 has frequency 5, and score 7 has frequency 3, what is the total frequency (N)?",
+"a": ["10", "12", "8", "15"],
+"correct": 0
+},
+{
+"q": "What term describes data that can be sorted into categories or qualities rather than numbers, such as eye color or gender?",
+"a": ["Numerical data", "Qualitative (Categorical) data", "Continuous data", "Discrete data"],
+"correct": 1
+},
+{
+"q": "Find the median of the following dataset: 8, 3, 11, 5, 14, 9.",
+"a": ["7", "9", "8.5", "8"],
+"correct": 2
+},
+{
+"q": "What is the tally representation for the number 9?",
+"a": ["|||| |", "| |||", "|||| ||||", "|||| ||||"],
+"correct": 3
+},
+{
+"q": "If the range of a set of scores is 45 and the lowest score is 18, what is the highest score?",
+"a": ["63", "55", "27", "61"],
+"correct": 0
+},
+{
+"q": "Why is data collection important in everyday life and business?",
+"a": ["To make guessing easier", "To make informed decisions and plan effectively", "To increase population size", "To make mathematics harder"],
+"correct": 1
+},
+{
+"q": "In a survey of 120 pupils, 30 preferred science. What percentage of pupils preferred science?",
+"a": ["15%", "20%", "25%", "30%"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of secondary data source?",
+"a": ["Measuring rainfall with a rain gauge", "Interviewing market women directly", "Conducting a school census", "Reading population census figures from a published government report"],
+"correct": 3
+},
+{
+"q": "What is the mode of the following distribution: 2 appears 3 times, 3 appears 7 times, 4 appears 5 times, and 5 appears 2 times?",
+"a": ["3", "7", "4", "5"],
+"correct": 0
+},
+{
+"q": "What type of chart uses rectangular bars of equal width where the height or length represents the frequency?",
+"a": ["Pie chart", "Bar chart", "Line graph", "Pictogram"],
+"correct": 1
+},
+{
+"q": "Calculate the mean of the numbers: 15, 20, 25, 30, 35.",
+"a": ["20", "30", "25", "35"],
+"correct": 2
+},
+{
+"q": "If 60 pupils are represented on a pie chart by a full circle (360 degrees), how many degrees represent 15 pupils?",
+"a": ["45 degrees", "60 degrees", "75 degrees", "90 degrees"],
+"correct": 3
+},
+{
+"q": "What do we call the data value that appears most frequently in a set of observations?",
+"a": ["Mode", "Median", "Mean", "Range"],
+"correct": 0
+},
+{
+"q": "Which of the following is a disadvantage of collecting data through questionnaires?",
+"a": ["It is too fast", "Some respondents may fail to return or complete them", "It provides too much direct interaction", "It cannot be used in schools"],
+"correct": 1
+},
+{
+"q": "Find the range of the test scores: 56, 78, 42, 91, 65, 38, 84.",
+"a": ["43", "56", "53", "60"],
+"correct": 2
+},
+{
+"q": "What is the sum of all frequencies in a frequency table called?",
+"a": ["Total range", "Cumulative score", "Mean frequency", "Total frequency (N or Sigma f)"],
+"correct": 3
+},
+{
+"q": "If the mean of four numbers is 8.5, what is their sum?",
+"a": ["34", "32", "36", "30"],
+"correct": 0
+},
+{
+"q": "Which graph is best suited for showing trends or changes in data over a period of time, such as daily temperatures across a week?",
+"a": ["Pie chart", "Line graph", "Bar chart", "Pictogram"],
+"correct": 1
+},
+{
+"q": "In a frequency table, if the tally for a group is '|||| |||| ||', what is the frequency?",
+"a": ["10", "11", "12", "13"],
+"correct": 2
+},
+{
+"q": "What is the median of the following data set: 14, 22, 17, 9, 31, 25?",
+"a": ["19.5", "20.5", "18.5", "21.0"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,166 @@
+{
+"id": "phys-alevel-quizzes-circular",
+"name": "Motion in a circle",
+"questions": [
+{
+"q": "What is the acceleration of an object moving at a constant speed v in a circle of radius r?",
+"a": ["v² / r directed towards the center", "v² / r directed outwards", "zero", "v / r² directed along the tangent"],
+"correct": 0
+},
+{
+"q": "What is the relationship between angular speed omega and linear speed v for an object moving in a circle of radius r?",
+"a": ["v = omega / r", "v = r omega", "v = omega² r", "v = r / omega"],
+"correct": 1
+},
+{
+"q": "A car of mass 1000 kg negotiates a unbanked circular curve of radius 50 m at a speed of 20 m s⁻¹. What is the minimum coefficient of static friction between the tires and the road required to prevent slipping?",
+"a": ["0.40", "0.60", "0.82", "1.00"],
+"correct": 2
+},
+{
+"q": "What is the physical origin of the centripetal force acting on a satellite orbiting the Earth?",
+"a": ["Air resistance in the upper atmosphere", "Electrostatic repulsion", "Centrifugal force pushing outwards", "Gravitational force exerted by the Earth on the satellite"],
+"correct": 3
+},
+{
+"q": "A small stone of mass 0.50 kg is tied to a string of length 1.5 m and swung in a vertical circle at a constant angular speed of 4.0 rad s⁻¹. What is the tension in the string when the stone is at the lowest point of the circle? (g = 9.81 m s⁻²)",
+"a": ["16.9 N", "12.0 N", "21.8 N", "26.7 N"],
+"correct": 0
+},
+{
+"q": "What is the period T of a circular motion related to angular speed omega?",
+"a": ["T = omega / (2 pi)", "T = (2 pi) / omega", "T = 2 pi omega", "T = omega² / (2 pi)"],
+"correct": 1
+},
+{
+"q": "An aircraft banks at an angle of 30 degrees to the horizontal while executing a horizontal turn at a speed of 100 m s⁻¹. What is the radius of the turn? (g = 9.81 m s⁻²)",
+"a": ["589 m", "1765 m", "3054 m", "5291 m"],
+"correct": 2
+},
+{
+"q": "Why does a bucket of water swung in a vertical circle not spill its water at the highest point, provided a minimum speed is exceeded?",
+"a": ["Because gravity ceases to act at the top", "Because centrifugal force cancels water mass", "Because water is glued by surface tension", "Because the required centripetal force at the top is provided by gravity and normal contact force, ensuring the minimum speed maintains contact"],
+"correct": 3
+},
+{
+"q": "A car travels over the crest of a hill that has a circular cross-section of radius 40 m. What is the maximum speed the car can travel without losing contact with the road surface? (g = 9.81 m s⁻²)",
+"a": ["19.8 m s⁻¹", "14.0 m s⁻¹", "24.5 m s⁻¹", "39.2 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "Which direction does the centripetal acceleration vector point in uniform circular motion?",
+"a": ["Along the tangent in the direction of motion", "Toward the center of the circular path", "Directly away from the center of the circle", "Perpendicular to the plane of motion"],
+"correct": 1
+},
+{
+"q": "A satellite orbits the Earth at a height equal to the Earth's radius R. What is the orbital speed of this satellite? (Radius of Earth R = 6400 km, g = 9.81 m s⁻² at surface)",
+"a": ["7.90 km s⁻¹", "5.60 km s⁻¹", "3.95 km s⁻¹", "2.80 km s⁻¹"],
+"correct": 2
+},
+{
+"q": "What is the apparent weight of a pilot at the bottom of a vertical loop-the-loop maneuver?",
+"a": ["Equal to true weight", "Zero", "Less than true weight", "Greater than true weight due to the sum of gravity and required centripetal acceleration"],
+"correct": 3
+},
+{
+"q": "A particle moves in a circle of radius 2.0 m with a frequency of 5.0 Hz. What is its centripetal acceleration?",
+"a": ["1974 m s⁻²", "628 m s⁻²", "314 m s⁻¹", "98.7 m s⁻²"],
+"correct": 0
+},
+{
+"q": "What happens to the required centripetal force if the speed of an object in circular motion is doubled while keeping the radius constant?",
+"a": ["It is doubled", "It increases by a factor of 4", "It increases by a factor of 2.83", "It remains unchanged"],
+"correct": 1
+},
+{
+"q": "For a vehicle traveling around a banked circular track without relying on friction, what equation correctly relates banking angle theta, radius r, speed v, and acceleration g?",
+"a": ["tan(theta) = g / (v² r)", "tan(theta) = v / (g r)", "tan(theta) = v² / (r g)", "sin(theta) = v² r / g"],
+"correct": 2
+},
+{
+"q": "What is angular displacement measured in?",
+"a": ["Radians per second", "Hertz", "Metres", "Radians"],
+"correct": 3
+},
+{
+"q": "A conical pendulum consists of a bob of mass 0.40 kg suspended from a string of length 1.0 m. The bob moves in a horizontal circle of radius 0.60 m. What is the tension in the string? (g = 9.81 m s⁻²)",
+"a": ["4.90 N", "3.92 N", "5.88 N", "9.81 N"],
+"correct": 0
+},
+{
+"q": "A small object is placed on a horizontal turntable rotating at an angular speed omega. If the maximum frictional force allows a radius r before slipping, what happens if the rotation speed is doubled?",
+"a": ["It can remain at radius r safely", "It will slip because required centripetal force quadruples", "Friction increases proportionally to maintain position", "Radius must be doubled to prevent slipping"],
+"correct": 1
+},
+{
+"q": "What is the minimum speed at which a bucket of water can be swung in a vertical circle of radius 1.2 m at the top without water spilling? (g = 9.81 m s⁻²)",
+"a": ["2.4 m s⁻¹", "3.1 m s⁻¹", "3.44 m s⁻¹", "4.8 m s⁻¹"],
+"correct": 2
+},
+{
+"q": "Why is uniform circular motion considered accelerated motion even though the speed is constant?",
+"a": ["Because mass changes continuously", "Because radius is variable", "Because angular speed fluctuates", "Because the direction of the velocity vector is constantly changing, which constitutes a change in velocity"],
+"correct": 3
+},
+{
+"q": "A satellite is in a geostationary orbit around the Earth. What is its orbital period?",
+"a": ["24 hours", "12 hours", "1 hour", "365 days"],
+"correct": 0
+},
+{
+"q": "A particle moves in a circle with increasing speed. What components of acceleration does it experience?",
+"a": ["Centripetal acceleration only", "Both centripetal (radial) and tangential acceleration", "Tangential acceleration only", "Zero acceleration"],
+"correct": 1
+},
+{
+"q": "A stone of mass 0.20 kg is whirled in a vertical circle of radius 0.80 m. At the highest point, the tension in the string is exactly zero. What is the speed of the stone at this point? (g = 9.81 m s⁻²)",
+"a": ["1.40 m s⁻¹", "2.00 m s⁻¹", "2.80 m s⁻¹", "3.96 m s⁻¹"],
+"correct": 2
+},
+{
+"q": "What is the work done by the centripetal force on an object moving in uniform circular motion over one complete revolution?",
+"a": ["Maximum positive work", "Negative work", "Product of centripetal force and circumference", "Zero, because the force is always perpendicular to the instantaneous displacement vector"],
+"correct": 3
+},
+{
+"q": "A cyclist rounds a flat circular track of radius 25 m at a speed of 10 m s⁻¹ without skidding. What is the minimum angle with the vertical at which the cyclist must lean?",
+"a": ["21.8 degrees", "38.7 degrees", "45.0 degrees", "68.2 degrees"],
+"correct": 0
+},
+{
+"q": "If the radius of a circular path is halved while keeping the centripetal force constant, what happens to the speed of the object?",
+"a": ["It is halved", "It decreases by a factor of 1.41 (divided by root 2)", "It doubles", "It quadruples"],
+"correct": 1
+},
+{
+"q": "A train travels along a curved track of radius 400 m at a constant speed of 72 km/h. What is the lateral (sideways) force experienced by a 60 kg passenger?",
+"a": ["60 N", "120 N", "120 N", "240 N"],
+"correct": 2
+},
+{
+"q": "Which expression gives the angular frequency omega of a satellite of mass m orbiting a central body of mass M at radius r?",
+"a": ["(G M / r)^(1/2)", "G M / r²", "2 pi r / G M", "(G M / r³)^(1/2)"],
+"correct": 3
+},
+{
+"q": "A car goes round a banked curve designed for 60 km/h. If the car travels at 90 km/h on the same icy (frictionless) curve, what must happen?",
+"a": ["It will tend to slide up the bank", "It will slide down towards the inside", "It will maintain path perfectly", "It will stop instantly"],
+"correct": 0
+},
+{
+"q": "What is the frequency of a centrifuge that rotates at 12,000 revolutions per minute (rpm)?",
+"a": ["100 Hz", "200 Hz", "1200 Hz", "720,000 Hz"],
+"correct": 1
+},
+{
+"q": "A small coin rests on a rotating disk at a distance of 15 cm from the center. The maximum angular speed before slipping occurs is 4.0 rad s⁻¹. What is the coefficient of static friction between coin and disk?",
+"a": ["0.16", "0.20", "0.24", "0.40"],
+"correct": 2
+},
+{
+"q": "In Kepler's third law applied to circular orbits, what is the proportional relationship between the cube of the orbital radius (r³) and the square of the orbital period (T²)?",
+"a": ["r³ is inversely proportional to T²", "r³ is independent of T²", "r³ is proportional to T squared", "r³ equals T cubed"],
+"correct": 3
+}
+]
+}

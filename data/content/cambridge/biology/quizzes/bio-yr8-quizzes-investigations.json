@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-investigations",
+"name": "Planning and conducting biological investigations",
+"questions": [
+{
+"q": "What is the first logical step when planning a biological investigation to test a new idea?",
+"a": ["Formulating a clear, testable question or hypothesis", "Packing all equipment into a cardboard box", "Cleaning the laboratory floors", "Writing the final conclusion before starting"],
+"correct": 0
+},
+{
+"q": "Which variable must be carefully measured to record the outcome or effect in an experiment?",
+"a": ["The independent variable", "The dependent variable", "The controlled variable", "The anomalous variable"],
+"correct": 1
+},
+{
+"q": "Why is it important to change only one independent variable at a time while keeping all other conditions constant?",
+"a": ["To make the data table look symmetrical", "To ensure that the experiment takes as much time as possible", "To ensure that any observed change in the dependent variable is caused solely by that specific independent variable", "To prevent any equipment from breaking"],
+"correct": 2
+},
+{
+"q": "What is a preliminary trial or pilot experiment used for when planning a major investigation?",
+"a": ["To finish the entire project in two minutes", "To test if the chosen method works and to find suitable ranges for variables", "To replace the need for real data collection", "To heat liquids without using a Bunsen burner"],
+"correct": 3
+},
+{
+"q": "Which term describes factors that could affect the outcome of an experiment if they are not kept the same?",
+"a": ["Controlled variables (or control variables)", "Dependent variables", "Independent variables", "Primary random factors"],
+"correct": 0
+},
+{
+"q": "When planning an investigation on the effect of temperature on enzyme activity in yeast, what should be the independent variable?",
+"a": ["The volume of yeast used", "The temperature of the water baths", "The time taken for bubbles to form", "The color of the test tubes"],
+"correct": 1
+},
+{
+"q": "What is the main purpose of including a control setup in a biological investigation?",
+"a": ["To use up extra chemical reagents", "To make the equipment list longer", "To provide a baseline showing what happens when the independent variable is absent or kept at a normal baseline level", "To heat solutions to boiling point"],
+"correct": 2
+},
+{
+"q": "How can a scientist reduce the effect of random errors and improve the reliability of quantitative data?",
+"a": ["By guessing the numbers that should have appeared", "By changing the hypothesis halfway through", "By throwing away all data sheets", "By taking multiple repeat readings and calculating a mean (average)"],
+"correct": 3
+},
+{
+"q": "What type of risk assessment should be performed before starting any practical biological investigation?",
+"a": ["Identifying potential hazards (such as hot liquids, sharp tools, or biological cultures) and deciding on safety precautions", "Checking the current weather forecast outside", "Counting the number of chairs in the room", "Measuring the mass of the laboratory desks"],
+"correct": 0
+},
+{
+"q": "What is a quantitative observation in a biological study?",
+"a": ["A description of leaf colors and textures", "A measurable numerical value or quantity, such as 15.5 cm", "An opinion about which plant looks prettiest", "A drawing of a microscope cell"],
+"correct": 1
+},
+{
+"q": "What is a qualitative observation?",
+"a": ["Counting exact numbers of seeds", "Measuring temperature with a thermometer in degrees Celsius", "Descriptive non-numerical information, such as observing a color change from blue to yellow", "Recording exact masses on a digital scale"],
+"correct": 2
+},
+{
+"q": "Why should data tables have clear column headings complete with units of measurement?",
+"a": ["To make the table look artistic", "To confuse anyone reading the lab report", "To increase the temperature of the room", "To ensure that numbers are clearly understood and correctly labeled"],
+"correct": 3
+},
+{
+"q": "Which type of graph is most suitable for displaying continuous data, such as plant growth over time?",
+"a": ["A line graph with a line of best fit", "A pie chart showing percentages", "A word-based text summary", "An unorganized scatter plot without axes"],
+"correct": 0
+},
+{
+"q": "What is an anomalous result in a set of experimental measurements?",
+"a": ["The most accurate value recorded", "A result that does not fit the overall pattern or trend of the rest of the data", "The exact mean of all trials", "The independent variable value"],
+"correct": 1
+},
+{
+"q": "How should an anomalous result be handled when processing experimental data?",
+"a": ["Include it in the final average without checking", "Multiply it by ten to make it larger", "Investigate for potential errors, repeat the measurement if possible, and exclude it from mean calculations", "Change the entire hypothesis to match it"],
+"correct": 2
+},
+{
+"q": "What does evaluating an investigation involve?",
+"a": ["Leaving the laboratory immediately", "Throwing away all glassware", "Buying new equipment for the school", "Assessing the method, identifying sources of error or limitations, and suggesting improvements"],
+"correct": 3
+},
+{
+"q": "Why is it important to use a wide range of values for the independent variable (e.g., testing 5 different temperatures instead of just 2)?",
+"a": ["To reveal any detailed trends or patterns, such as an optimum point, rather than just a simple line", "To waste as many chemicals as possible", "To make the experiment take all day", "To ensure no data is numerical"],
+"correct": 0
+},
+{
+"q": "What is a prediction in the context of scientific planning?",
+"a": ["A magical guess about the future", "A statement about what you expect to happen in the investigation based on scientific reasoning", "A list of equipment needed", "A completed table of raw data"],
+"correct": 1
+},
+{
+"q": "When investigating how light intensity affects photosynthesis in pondweed, what factor must be controlled to ensure temperature does not influence the results?",
+"a": ["The number of leaves on the plant", "The type of glass beaker", "Using a water bath or heat shield lamp barrier to keep the temperature constant", "The name of the student performing the test"],
+"correct": 2
+},
+{
+"q": "What is the primary reason for writing a detailed, step-by-step method before beginning an experiment?",
+"a": ["To practice handwriting skills", "To decorate the lab bench", "To keep students quiet during class", "To ensure the procedure is safe, repeatable, and logically organized"],
+"correct": 3
+},
+{
+"q": "What safety precaution is essential when handling biological specimens like fresh plant tissue or yeast cultures?",
+"a": ["Washing hands thoroughly after the practical work is completed", "Tasting the specimen to check for sugars", "Leaving cultures open on desks overnight", "Throwing specimens into regular classroom bins"],
+"correct": 0
+},
+{
+"q": "What does precision in measurements refer to?",
+"a": ["How close a measurement is to the true value", "How close repeated measurements are to each other", "How expensive the measuring equipment is", "How fast the experiment is completed"],
+"correct": 1
+},
+{
+"q": "What is accuracy in scientific measurements?",
+"a": ["Getting the same wrong number ten times", "Writing numbers in neat handwriting", "How close a measured result is to the true or accepted value", "Using the largest beaker available"],
+"correct": 2
+},
+{
+"q": "Why are digital measuring instruments often preferred over traditional analog scales in biology investigations?",
+"a": ["They require no batteries ever", "They make loud noises", "They are made of wood", "They reduce human reading error and provide higher resolution"],
+"correct": 3
+},
+{
+"q": "What is the purpose of drawing a line of best fit on a scatter graph rather than connecting every point with dot-to-dot jagged lines?",
+"a": ["To show the overall trend or relationship while smoothing out minor random experimental variations", "To hide incorrect data points", "To make the graph colorful", "To change the conclusion of the study"],
+"correct": 0
+},
+{
+"q": "When planning an investigation into seed germination rates at different moisture levels, what is the dependent variable?",
+"a": ["The volume of water added to each dish", "The number of seeds that successfully germinate", "The type of seed used", "The temperature of the room"],
+"correct": 1
+},
+{
+"q": "What is a secondary source of scientific information, and when is it useful during an investigation?",
+"a": ["The data you measure yourself on Monday", "Your lab partner's personal opinion", "Information from scientific books, journals, or verified databases used for background research and comparison", "Random internet rumors"],
+"correct": 2
+},
+{
+"q": "What is a limitation in an experimental method?",
+"a": ["A rule about wearing lab coats", "The time of day the lesson starts", "The cost of a notebook", "A factor or restriction that prevents obtaining even more precise data, such as equipment resolution"],
+"correct": 3
+},
+{
+"q": "Why should glassware such as measuring cylinders be read at eye level from the bottom of the meniscus?",
+"a": ["To avoid parallax errors caused by viewing liquid levels from above or below", "To make the liquid change color", "To test eye muscle strength", "To keep the glass clean"],
+"correct": 0
+},
+{
+"q": "What is the key characteristic of a fair test?",
+"a": ["All variables except the independent variable are strictly controlled", "Only the dependent variable is changed", "No measurements are recorded", "The experiment is never repeated"],
+"correct": 1
+},
+{
+"q": "What should be included in a well-structured conclusion paragraph?",
+"a": ["A list of what went wrong during lunch", "A drawing of a microscope", "A statement answering the original test question, supported directly by processed evidence and scientific reasoning", "A fictional story about science history"],
+"correct": 2
+},
+{
+"q": "Why is preliminary risk assessment mandatory for school science investigations involving heating?",
+"a": ["To make students memorize chemical names", "To increase the electricity bill", "To stop all experiments from happening", "To prevent burns, fires, or injuries by taking proper safety measures like wearing goggles"],
+"correct": 3
+},
+{
+"q": "What does a scatter graph with no correlation between variables indicate?",
+"a": ["There is no apparent relationship between the independent and dependent variables", "The experiment was performed perfectly without errors", "The dependent variable is too large", "The equipment is broken"],
+"correct": 0
+},
+{
+"q": "How can you identify a positive correlation on a graph showing plant growth versus light intensity?",
+"a": ["As light intensity increases, plant growth decreases", "As light intensity increases, plant growth also increases", "The graph line remains completely horizontal", "All points form a vertical line"],
+"correct": 1
+},
+{
+"q": "What does a negative correlation on an experimental graph signify?",
+"a": ["The experiment failed completely", "The data numbers are all negative", "As one variable increases, the other variable decreases", "No measurements were recorded"],
+"correct": 2
+},
+{
+"q": "Why are biological investigations sometimes subject to greater variability than chemistry tests?",
+"a": ["Living organisms (like plants or animals) naturally show individual biological variation", "Living organisms are made of metal", "Biology experiments are never repeated", "Biology uses no equipment"],
+"correct": 3
+},
+{
+"q": "What is the proper way to handle a biological hazard or waste, such as dissected plant parts or microbial agar plates?",
+"a": ["Dispose of them according to teacher instructions in designated biological waste containers", "Throw them out classroom windows", "Take them home in your backpack", "Leave them on desks for the next class"],
+"correct": 0
+},
+{
+"q": "What is the role of a peer review process when scientific investigations are reported?",
+"a": ["To let classmates grade each other's clothing", "To have other scientists check methods, data, and conclusions for validity and errors", "To make students rewrite notes ten times", "To test typing speed"],
+"correct": 1
+},
+{
+"q": "When designing an apparatus setup using a Bunsen burner, tripod, and gauze, what is the primary stability rule?",
+"a": ["Balance heavy beakers on top of plastic rulers", "Hold everything in your hands", "Ensure the tripod stands firmly on the heat-resistant mat with the burner placed safely beneath", "Tilt the tripod at a 45-degree angle"],
+"correct": 2
+},
+{
+"q": "Why do scientists share their detailed methods and raw data alongside their final conclusions?",
+"a": ["To fill up textbook pages", "To make reports look heavy", "To brag about their grades", "To allow other researchers to replicate the experiment and verify results"],
+"correct": 3
+}
+]
+}

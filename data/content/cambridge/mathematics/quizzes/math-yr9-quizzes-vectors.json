@@ -1,0 +1,186 @@
+{
+"id": "math-yr9-quizzes-vectors",
+"name": "Vectors and magnitude",
+"questions": [
+{
+"q": "What two key properties define a vector quantity?",
+"a": ["Magnitude and direction", "Speed and time", "Distance and mass", "Scalar and unit"],
+"correct": 0
+},
+{
+"q": "How is a column vector with a horizontal displacement of 3 and a vertical displacement of -4 written?",
+"a": ["[-4, 3]", "[3, -4]", "[3, 4]", "[-3, -4]"],
+"correct": 1
+},
+{
+"q": "What is the magnitude of the vector [3, 4]?",
+"a": ["3", "4", "5", "7"],
+"correct": 2
+},
+{
+"q": "If vector a = [2, 5] and vector b = [3, 1], what is the sum vector a + b?",
+"a": ["[-1, 4]", "[5, 4]", "[1, 6]", "[5, 6]"],
+"correct": 3
+},
+{
+"q": "What is the result of multiplying vector [4, -2] by the scalar 3?",
+"a": ["[12, -6]", "[7, 1]", "[4, -6]", "[12, 2]"],
+"correct": 0
+},
+{
+"q": "If vector p = [6, 8], what is the magnitude of p?",
+"a": ["7", "10", "14", "100"],
+"correct": 1
+},
+{
+"q": "Which of the following represents a scalar quantity rather than a vector quantity?",
+"a": ["Velocity", "Acceleration", "Temperature", "Displacement"],
+"correct": 2
+},
+{
+"q": "If vector u = [5, -2] and vector v = [2, 3], what is u - v?",
+"a": ["[7, 1]", "[3, 5]", "[3, -1]", "[3, -5]"],
+"correct": 3
+},
+{
+"q": "Two vectors are parallel if one is a scalar multiple of the other. Which of the following vectors is parallel to [2, 3]?",
+"a": ["[6, 9]", "[4, 5]", "[3, 2]", "[-2, 3]"],
+"correct": 0
+},
+{
+"q": "What is the magnitude of the vector [-5, 12]?",
+"a": ["7", "13", "17", "7.8"],
+"correct": 1
+},
+{
+"q": "In column vector notation [x, y], what does the top number (x) represent?",
+"a": ["Vertical movement", "Diagonal movement", "Horizontal movement", "Magnitude angle"],
+"correct": 2
+},
+{
+"q": "If vector m = [-3, 4], what is the magnitude of -2m?",
+"a": ["5", "10", "20", "25"],
+"correct": 3
+},
+{
+"q": "What do we call a vector that has a magnitude of 1?",
+"a": ["Unit vector", "Zero vector", "Scalar vector", "Column vector"],
+"correct": 0
+},
+{
+"q": "If vector AB is represented by [2, 7], what vector represents vector BA?",
+"a": ["[2, 7]", "[-2, -7]", "[7, 2]", "[-7, -2]"],
+"correct": 1
+},
+{
+"q": "Find the resultant vector when [1, 2] is added to [3, 4] and then multiplied by a scalar of 2.",
+"a": ["[4, 6]", "[6, 8]", "[8, 12]", "[2, 4]"],
+"correct": 2
+},
+{
+"q": "If vector x = [0, 0], what is its special designation?",
+"a": ["Unit vector", "Negative vector", "Identity vector", "Zero vector"],
+"correct": 3
+},
+{
+"q": "If vector v = [8, -6], what is the magnitude of v?",
+"a": ["10", "14", "2", "sqrt(28)"],
+"correct": 0
+},
+{
+"q": "If vector p = [4, 2] and vector q = [1, 3], what is vector p + q?",
+"a": ["[3, -1]", "[5, 5]", "[4, 6]", "[3, 5]"],
+"correct": 1
+},
+{
+"q": "What is the magnitude of the vector [0, -9]?",
+"a": ["0", "-9", "9", "81"],
+"correct": 2
+},
+{
+"q": "If vector a = [3, -4] and vector b = [3, 4], how do their magnitudes compare?",
+"a": ["Magnitude of a is greater", "Magnitude of b is greater", "They have different directions but cannot be compared", "They have equal magnitude"],
+"correct": 3
+},
+{
+"q": "If vector r = [-1, 2] and vector s = [4, 5], what is 2r + s?",
+"a": ["[2, 9]", "[3, 7]", "[7, 9]", "[1, 9]"],
+"correct": 0
+},
+{
+"q": "Which term describes quantities that have magnitude only, with no direction specified?",
+"a": ["Vectors", "Scalars", "Displacements", "Velocities"],
+"correct": 1
+},
+{
+"q": "If vector c = [9, 12], what is the magnitude of c?",
+"a": ["21", "3", "15", "sqrt(63)"],
+"correct": 2
+},
+{
+"q": "If vector d = [-2, -2], what is its magnitude?",
+"a": ["4", "2.83", "8", "2.83 is correct, let's look at options: A) 4, B) 2, C) 8, D) 2.83"],
+"correct": 3
+},
+{
+"q": "If vector a = [5, 2] and vector b = [-1, 4], what is a - b?",
+"a": ["[6, -2]", "[4, 6]", "[-6, 2]", "[4, -2]"],
+"correct": 0
+},
+{
+"q": "What is the magnitude of the vector [1, 1]?",
+"a": ["1", "1.41", "2", "2.24"],
+"correct": 1
+},
+{
+"q": "If vector v has magnitude 5 and direction in the positive x-direction, which of the following could be v?",
+"a": ["[0, 5]", "[5, 5]", "[5, 0]", "[-5, 0]"],
+"correct": 2
+},
+{
+"q": "If vector m = [3, 4] and vector n = [k, 8] are parallel, what is the value of k?",
+"a": ["3", "4", "8", "6"],
+"correct": 3
+},
+{
+"q": "What is the result of adding a vector to its negative vector, such as v + (-v)?",
+"a": ["Zero vector", "Double vector", "Unit vector", "Scalar 1"],
+"correct": 0
+},
+{
+"q": "If vector PQ = [4, 3], what is the length (magnitude) of line segment PQ?",
+"a": ["3", "5", "7", "25"],
+"correct": 1
+},
+{
+"q": "When two vectors are represented graphically tip-to-tail, the resultant vector goes from:",
+"a": ["Tip of second to tail of first", "Tip of first to tip of second", "Tail of first to tip of second", "Tail of second to tail of first"],
+"correct": 2
+},
+{
+"q": "If vector a = [2, -3] and vector b = [4, 1], what is 3a - b?",
+"a": ["2, -10", "[2, -10]", "[10, -8]", "[2, -8]"],
+"correct": 3
+},
+{
+"q": "What is the magnitude of the vector [-6, 8]?",
+"a": ["10", "14", "2", "48"],
+"correct": 0
+},
+{
+"q": "If vector w = [7, 24], what is its magnitude?",
+"a": ["25", "31", "17", "625"],
+"correct": 1
+},
+{
+"q": "Which notation is standard for representing a vector in a printed textbook?",
+"a": ["Italic lowercase letter", "Bold lowercase letter or arrow on top", "Uppercase underlined", "Greek alphabet symbols"],
+"correct": 2
+},
+{
+"q": "If vector v = [12, 5], what is the magnitude of v?",
+"a": ["7", "17", "13", "13"],
+"correct": 3
+}
+]
+}

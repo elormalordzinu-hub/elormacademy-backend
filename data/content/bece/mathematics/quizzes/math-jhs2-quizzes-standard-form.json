@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-standard-form",
+"name": "Standard Form",
+"questions": [
+{
+"q": "What is the general mathematical format for writing a number in standard form (scientific notation)?",
+"a": ["A × 10ⁿ, where 1 ≤ A < 10 and n is an integer", "A × 10ⁿ, where 0 ≤ A < 1", "A + 10ⁿ, where A is any real number", "10 × Aⁿ"],
+"correct": 0
+},
+{
+"q": "Express the number 4,500 in standard form.",
+"a": ["45 × 10²", "4.5 × 10³", "0.45 × 10⁴", "4.5 × 10⁻³"],
+"correct": 1
+},
+{
+"q": "Write 0.00037 in standard form.",
+"a": ["3.7 × 10⁻³", "37 × 10⁻⁵", "3.7 × 10⁻⁴", "3.7 × 10⁴"],
+"correct": 2
+},
+{
+"q": "Convert 6.2 × 10⁴ to ordinary (decimal) notation.",
+"a": ["620", "6,200", "620,000", "62,000"],
+"correct": 3
+},
+{
+"q": "Convert 8.4 × 10⁻³ to an ordinary decimal number.",
+"a": ["0.0084", "0.084", "0.00084", "8,400"],
+"correct": 0
+},
+{
+"q": "Evaluate and express your answer in standard form: (3 × 10³) × (2 × 10²).",
+"a": ["6 × 10⁵", "6 × 10⁶", "5 × 10⁵", "6 × 10¹"],
+"correct": 1
+},
+{
+"q": "Calculate the following and write in standard form: (8 × 10⁶) ÷ (2 × 10²).",
+"a": ["4 × 10³", "4 × 10⁴", "4 × 10⁴", "4 × 10⁸"],
+"correct": 2
+},
+{
+"q": "Which of the following numbers is NOT written in proper standard form?",
+"a": ["3.14 × 10⁰", "1.0 × 10⁻⁵", "9.9 × 10⁷", "12.5 × 10²"],
+"correct": 3
+},
+{
+"q": "Add the following numbers given in standard form: (2.3 × 10⁴) + (5.1 × 10⁴).",
+"a": ["7.4 × 10⁴", "7.4 × 10⁸", "2.8 × 10⁴", "7.4 × 10⁸"],
+"correct": 0
+},
+{
+"q": "Evaluate: (4.5 × 10⁵) + (3.2 × 10⁴) by converting to the same power of 10.",
+"a": ["7.7 × 10⁴", "4.82 × 10⁵", "7.7 × 10⁹", "4.82 × 10⁴"],
+"correct": 1
+},
+{
+"q": "Subtract: (8.6 × 10⁶) - (3.2 × 10⁶).",
+"a": ["5.4 × 10¹²", "5.4 × 10⁶", "5.4 × 10⁶", "1.18 × 10⁷"],
+"correct": 2
+},
+{
+"q": "What is the result of multiplying (5 × 10⁴) by (4 × 10³) in standard form?",
+"a": ["20 × 10⁷", "2 × 10¹²", "2 × 10⁸", "2.0 × 10⁸"],
+"correct": 3
+},
+{
+"q": "Express 75,000,000 in standard form.",
+"a": ["7.5 × 10⁷", "75 × 10⁶", "7.5 × 10⁻⁷", "0.75 × 10⁸"],
+"correct": 0
+},
+{
+"q": "Write 0.00000529 in standard form.",
+"a": ["5.29 × 10⁻⁵", "5.29 × 10⁻⁶", "52.9 × 10⁻⁷", "0.529 × 10⁻⁵"],
+"correct": 1
+},
+{
+"q": "Evaluate: (1.5 × 10³)². Write your answer in standard form.",
+"a": ["3.0 × 10⁶", "2.25 × 10⁹", "2.25 × 10⁶", "1.5 × 10⁹"],
+"correct": 2
+},
+{
+"q": "The distance from the Earth to the Sun is approximately 150,000,000 km. How is this written in standard form?",
+"a": ["1.5 × 10⁷ km", "15 × 10⁷ km", "1.5 × 10⁹ km", "1.5 × 10⁸ km"],
+"correct": 3
+},
+{
+"q": "The mass of a dust particle is approximately 0.00000075 kg. Express this mass in standard form.",
+"a": ["7.5 × 10⁻⁷ kg", "7.5 × 10⁻⁸ kg", "75 × 10⁻⁸ kg", "0.75 × 10⁻⁶ kg"],
+"correct": 0
+},
+{
+"q": "Divide: (9.6 × 10⁸) ÷ (3 × 10³).",
+"a": ["3.2 × 10³", "3.2 × 10⁵", "3.2 × 10¹¹", "3.2 × 10²"],
+"correct": 1
+},
+{
+"q": "Evaluate: (7.2 × 10⁻⁴) × (2 × 10⁻²).",
+"a": ["1.44 × 10⁻⁵", "1.44 × 10⁻⁸", "1.44 × 10⁻⁶", "1.44 × 10⁻²"],
+"correct": 2
+},
+{
+"q": "Which of the following represents the largest number?",
+"a": ["4.5 × 10³", "8.2 × 10²", "1.1 × 10⁴", "9.9 × 10³"],
+"correct": 3
+},
+{
+"q": "Which of the following represents the smallest number?",
+"a": ["3.2 × 10⁻⁵", "1.5 × 10⁻⁴", "9.8 × 10⁻⁵", "5.0 × 10⁻³"],
+"correct": 0
+},
+{
+"q": "Evaluate: (6.4 × 10⁵) ÷ (8 × 10²).",
+"a": ["8 × 10²", "8 × 10²", "8 × 10³", "8 × 10⁴"],
+"correct": 1
+},
+{
+"q": "If A = 3 × 10⁴ and B = 2 × 10³, what is the value of A + B in standard form?",
+"a": ["5 × 10⁷", "3.2 × 10⁷", "3.2 × 10⁴", "5 × 10⁴"],
+"correct": 2
+},
+{
+"q": "Express 0.000405 in standard form.",
+"a": ["4.05 × 10⁻³", "40.5 × 10⁻⁵", "4.05 × 10⁻⁵", "4.05 × 10⁻⁴"],
+"correct": 3
+},
+{
+"q": "Calculate: (2.5 × 10³) × (4 × 10⁴). Express the answer in standard form.",
+"a": ["1.0 × 10⁸", "10 × 10⁷", "1.0 × 10⁷", "1.0 × 10¹²"],
+"correct": 0
+},
+{
+"q": "If the speed of light is approximately 3 × 10⁸ metres per second, how far does light travel in 10 seconds? Give your answer in standard form.",
+"a": ["3 × 10⁷ m", "3 × 10⁹ m", "3 × 10⁸ m", "30 × 10⁸ m"],
+"correct": 1
+},
+{
+"q": "Evaluate: (9.0 × 10⁵) - (4.5 × 10⁴) in standard form.",
+"a": ["4.5 × 10⁵", "8.55 × 10⁴", "8.55 × 10⁵", "4.5 × 10⁴"],
+"correct": 2
+},
+{
+"q": "Why do scientists and mathematicians use standard form?",
+"a": ["To make simple numbers look complicated", "To ensure calculations are always incorrect", "To replace fractions permanently", "To conveniently write, read, and calculate extremely large or extremely small numbers"],
+"correct": 3
+},
+{
+"q": "Write 480.5 in standard form.",
+"a": ["4.805 × 10²", "4.805 × 10⁻²", "48.05 × 10¹", "0.4805 × 10³"],
+"correct": 0
+},
+{
+"q": "Evaluate the cube of 2 × 10³, writing your answer in standard form: (2 × 10³)³.",
+"a": ["8 × 10⁹", "8 × 10⁹", "6 × 10⁹", "8 × 10²⁷"],
+"correct": 1
+},
+{
+"q": "Divide: (3.6 × 10⁻²) ÷ (4 × 10⁻⁵).",
+"a": ["9 × 10²", "9 × 10⁻³", "9 × 10²", "9 × 10³"],
+"correct": 2
+},
+{
+"q": "If a country's population is 32,000,000 and it is written as p × 10ⁿ, what is the value of n?",
+"a": ["6", "8", "5", "7"],
+"correct": 3
+},
+{
+"q": "Evaluate: (1.2 × 10⁴) + (8.8 × 10³).",
+"a": ["2.08 × 10⁴", "1.0 × 10⁷", "1.0 × 10⁴", "2.08 × 10⁷"],
+"correct": 0
+},
+{
+"q": "Which of the following numbers is equal to 5.6 × 10⁻³?",
+"a": ["0.00056", "0.0056", "0.056", "5600"],
+"correct": 1
+},
+{
+"q": "Calculate: (4.2 × 10³) × (3.0 × 10⁻¹).",
+"a": ["1.26 × 10³", "1.26 × 10⁴", "1.26 × 10³", "1.26 × 10²"],
+"correct": 2
+},
+{
+"q": "If x = 4 × 10⁵ and y = 8 × 10⁴, what is x - y expressed in standard form?",
+"a": ["3.2 × 10⁵", "3.2 × 10⁴", "3.2 × 10⁶", "3.2 × 10⁵"],
+"correct": 3
+},
+{
+"q": "What is the square root of 4 × 10¹⁰ expressed in standard form?",
+"a": ["2 × 10⁵", "2 × 10²⁰", "2 × 10¹⁰", "4 × 10⁵"],
+"correct": 0
+},
+{
+"q": "Evaluate: (5.4 × 10⁷) ÷ (9 × 10²).",
+"a": ["6 × 10⁴", "6 × 10⁴", "6 × 10⁵", "0.6 × 10⁵"],
+"correct": 1
+},
+{
+"q": "Write 0.0000000345 in standard form.",
+"a": ["3.45 × 10⁻⁷", "3.45 × 10⁻⁹", "3.45 × 10⁻⁸", "34.5 × 10⁻⁹"],
+"correct": 2
+},
+{
+"q": "If the thickness of a single sheet of paper is 0.00012 m, what is the thickness of 1,000 such sheets expressed in standard form?",
+"a": ["1.2 × 10⁻¹ m", "1.2 × 10⁻² m", "1.2 × 10⁻⁴ m", "1.2 × 10⁻¹ m"],
+"correct": 3
+}
+]
+}

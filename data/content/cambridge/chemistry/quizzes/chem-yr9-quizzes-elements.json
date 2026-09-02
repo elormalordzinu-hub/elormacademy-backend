@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr9-quizzes-elements",
+  "name": "Elements and the periodic table trends",
+  "questions": [
+    {
+      "q": "How are elements arranged in the modern periodic table?",
+      "a": ["In order of increasing atomic number", "In alphabetical order of their symbols", "In order of decreasing atomic mass", "By their discovery date"],
+      "correct": 0
+    },
+    {
+      "q": "What name is given to the vertical columns in the periodic table?",
+      "a": ["Periods", "Groups", "Shells", "Blocks"],
+      "correct": 1
+    },
+    {
+      "q": "What do elements in the same group of the periodic table share in common?",
+      "a": ["They have the same number of total electron shells", "They have identical atomic masses", "They have the same number of valence electrons, resulting in similar chemical properties", "They are all gases at room temperature"],
+      "correct": 2
+    },
+    {
+      "q": "What do horizontal rows in the periodic table represent?",
+      "a": ["Groups with matching reactivity", "Isotopes of the same element", "Transition metals", "Periods, indicating the number of electron shells"],
+      "correct": 3
+    },
+    {
+      "q": "Which group of elements in the periodic table is known as the alkali metals?",
+      "a": ["Group 1", "Group 2", "Group 7", "Group 0 / 8"],
+      "correct": 0
+    },
+    {
+      "q": "Which group contains the halogens, which are reactive non-metals?",
+      "a": ["Group 1", "Group 7", "Group 2", "Transition elements"],
+      "correct": 1
+    },
+    {
+      "q": "Why are the noble gases (Group 0) notoriously unreactive?",
+      "a": ["They are solids at room temperature", "They have incomplete electron shells", "They possess a full outer shell of electrons, making them stable", "They consist entirely of radioactive isotopes"],
+      "correct": 2
+    },
+    {
+      "q": "How does reactivity change as you go down Group 1 (alkali metals)?",
+      "a": ["It decreases steadily", "It stays completely constant", "It disappears entirely", "It increases down the group"],
+      "correct": 3
+    },
+    {
+      "q": "How does reactivity change as you go down Group 7 (halogens)?",
+      "a": ["It decreases down the group", "It increases rapidly", "It fluctuates without pattern", "It becomes identical to noble gases"],
+      "correct": 0
+    },
+    {
+      "q": "What physical trend in melting points is observed as you descend Group 7 (from fluorine to iodine)?",
+      "a": ["Melting points decrease continuously", "Melting points and boiling points increase as you go down", "Melting points drop to absolute zero", "Melting points remain completely unchanged"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following elements is a transition metal found in the central block of the periodic table?",
+      "a": ["Sodium", "Chlorine", "Iron", "Calcium"],
+      "correct": 2
+    },
+    {
+      "q": "What trend in metallic character is observed across a period from left to right in the periodic table?",
+      "a": ["Metallic character increases", "Elements become more radioactive", "Elements become strongly magnetic", "Metallic character decreases as elements transition from metals to non-metals"],
+      "correct": 3
+    },
+    {
+      "q": "Which alkali metal reacts most vigorously with water among lithium, sodium, and potassium?",
+      "a": ["Potassium", "Sodium", "Lithium", "They all react at the exact same speed"],
+      "correct": 0
+    },
+    {
+      "q": "What is formed when a halogen reacts with a metal, such as chlorine reacting with sodium?",
+      "a": ["A metal hydroxide", "A metal halide salt", "An organic polymer", "An acid solution"],
+      "correct": 1
+    },
+    {
+      "q": "Which halogen is a dark grey-black solid at room temperature that sublimes into a purple vapor when heated?",
+      "a": ["Fluorine", "Chlorine", "Iodine", "Bromine"],
+      "correct": 2
+    },
+    {
+      "q": "Why do atoms of elements in the same group have similar chemical properties?",
+      "a": ["They have the same atomic mass", "They have the same number of neutrons", "They have the same physical color", "They have the same number of electrons in their outermost shell"],
+      "correct": 3
+    },
+    {
+      "q": "Which scientist is credited with developing the early periodic table by arranging elements by atomic mass and leaving gaps for undiscovered elements?",
+      "a": ["Dmitri Mendeleev", "John Dalton", "J.J. Thomson", "Ernest Rutherford"],
+      "correct": 0
+    },
+    {
+      "q": "What is the physical state of bromine at room temperature?",
+      "a": ["A colorless gas", "A red-brown volatile liquid", "A shiny solid metal", "A radioactive plasma"],
+      "correct": 1
+    },
+    {
+      "q": "As you move down Group 1, what happens to the density and melting points of the metals?",
+      "a": ["Melting points increase sharply", "Density becomes zero", "Melting points and softness generally decrease/increase respectively (melting points decrease down the group)", "They turn into gases"],
+      "correct": 2
+    },
+    {
+      "q": "Which group 2 element is commonly known as an alkaline earth metal?",
+      "a": ["Potassium", "Fluorine", "Helium", "Magnesium"],
+      "correct": 3
+    },
+    {
+      "q": "What property distinguishes transition metals from Group 1 alkali metals?",
+      "a": ["Transition metals are typically harder, stronger, have higher melting points, and form colored compounds", "Transition metals react instantly with cold water", "Transition metals are low-density liquids", "Transition metals have only one electron in their outer shell"],
+      "correct": 0
+    },
+    {
+      "q": "What happens when chlorine water is added to a solution of potassium bromide?",
+      "a": ["No change occurs", "Bromine is displaced, turning the solution orange-brown", "An explosion shatters the test tube", "Pure potassium metal precipitates"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes elements that lie along the zig-zag line between metals and non-metals, possessing properties of both?",
+      "a": ["Halogens", "Noble gases", "Metalloids (semi-metals)", "Alkali metals"],
+      "correct": 2
+    },
+    {
+      "q": "Why does atomic radius generally decrease as you move across a period from left to right?",
+      "a": ["Electron shells are removed", "Neutrons leave the nucleus", "The outermost electrons are repelled away", "The nuclear charge (number of protons) increases, pulling the electron shells closer"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following gases glows with a characteristic color when high voltage is applied, typical of noble gases?",
+      "a": ["Neon", "Oxygen", "Nitrogen", "Hydrogen"],
+      "correct": 0
+    },
+    {
+      "q": "What type of oxides are formed when period 3 non-metals (like sulfur or phosphorus) react with oxygen?",
+      "a": ["Basic oxides", "Acidic oxides", "Metallic alloys", "Neutral salts"],
+      "correct": 1
+    },
+    {
+      "q": "What type of oxides are formed when period 3 metals (like sodium or magnesium) react with oxygen?",
+      "a": ["Acidic oxides", "Covalent gases", "Basic oxides", "Inert complexes"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following halogens is a pale yellow gas at room temperature?",
+      "a": ["Chlorine", "Bromine", "Iodine", "Fluorine"],
+      "correct": 3
+    },
+    {
+      "q": "In terms of electron configuration, what do all elements in Period 3 have in common?",
+      "a": ["They all have three occupied electron shells", "They all have three valence electrons", "They all have completely full outer shells", "They all have identical chemical reactivity"],
+      "correct": 0
+    },
+    {
+      "q": "Why can a more reactive halogen displace a less reactive halogen from an aqueous solution of its salt?",
+      "a": ["It has more neutrons", "It has a greater attraction for electrons/higher oxidizing strength than the lower halogen", "It is physically larger in size", "It is a solid metal"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary reason why alkali metals must be stored under oil?",
+      "a": ["To keep them warm", "To make them shiny", "To prevent them from reacting rapidly with moisture and oxygen in the air", "To increase their electrical conductivity"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following elements has the lowest electronegativity and highest reactivity within Group 1?",
+      "a": ["Lithium", "Sodium", "Potassium", "Francium / Caesium"],
+      "correct": 3
+    },
+    {
+      "q": "How many electrons are found in the outer shell of a neutral atom of a Group 2 element?",
+      "a": ["2", "1", "7", "8"],
+      "correct": 0
+    },
+    {
+      "q": "Which property correctly describes transition metal catalysts?",
+      "a": ["They are destroyed during reactions", "They speed up chemical reactions without being permanently consumed", "They make reactions take longer", "They cool down the reaction mixture"],
+      "correct": 1
+    },
+    {
+      "q": "What trend is observed in the boiling points of the noble gases (Group 0) as you go down the group?",
+      "a": ["Boiling points decrease to absolute zero", "Boiling points remain constant", "Boiling points increase as atomic size and intermolecular forces increase", "Boiling points fluctuate randomly"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is an accurate description of silicon, a metalloid in Period 3?",
+      "a": ["It is a liquid metal at room temperature", "It is a highly reactive Group 1 alkali metal", "It is a colored halogen gas", "It is a semiconductor with properties intermediate between metals and non-metals"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the pH of the resulting solution when sodium oxide is dissolved in water?",
+      "a": ["It becomes strongly alkaline (high pH)", "It becomes strongly acidic (low pH)", "It remains neutral at pH 7", "It turns completely solid"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the pH of the resulting solution when sulfur dioxide gas is dissolved in water?",
+      "a": ["It turns alkaline", "It becomes acidic due to the formation of sulfurous acid", "It becomes pure alcohol", "No change occurs"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following elements is classified as a non-metal liquid at room temperature?",
+      "a": ["Mercury", "Sodium", "Bromine", "Helium"],
+      "correct": 2
+    },
+    {
+      "q": "Why does fluorine have a higher reactivity than iodine within Group 7?",
+      "a": ["Fluorine has more electron shells", "Fluorine is a solid metal", "Fluorine has fewer protons", "Fluorine's outer shell is closer to the nucleus, allowing it to gain an electron more easily"],
+      "correct": 3
+    }
+  ]
+}

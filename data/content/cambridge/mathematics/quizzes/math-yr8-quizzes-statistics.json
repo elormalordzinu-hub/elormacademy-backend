@@ -1,0 +1,206 @@
+{
+"id": "math-yr8-quizzes-statistics",
+"name": "Statistical surveys and sampling methods",
+"questions": [
+{
+"q": "Which of the following describes a census?",
+"a": ["Collecting data from every member of a population", "Collecting data from a small representative subgroup", "Collecting data only from volunteers", "Collecting data from a random sample"],
+"correct": 0
+},
+{
+"q": "What is a major advantage of taking a sample instead of conducting a census?",
+"a": ["It is always 100 percent accurate", "It is quicker, cheaper, and less disruptive", "It avoids all forms of bias", "It includes every single individual"],
+"correct": 1
+},
+{
+"q": "What type of data is collected when people are asked to name their favorite color?",
+"a": ["Continuous numerical data", "Discrete numerical data", "Categorical (qualitative) data", "Ordinal data"],
+"correct": 2
+},
+{
+"q": "Which of the following represents discrete numerical data?",
+"a": ["Height of students in meters", "Time taken to run a race", "Temperature throughout the day", "Number of pets in a household"],
+"correct": 3
+},
+{
+"q": "A researcher stands outside a specific supermarket and asks every tenth customer leaving about their shopping habits. What sampling method is this?",
+"a": ["Systematic sampling", "Random sampling", "Quota sampling", "Stratified sampling"],
+"correct": 0
+},
+{
+"q": "Why might a survey conducted by a fast-food company claiming '90 percent of people love our burgers' be biased?",
+"a": ["The sample size was too large", "The funding source may influence the wording or audience of the survey", "It was a complete census", "It used random numbers"],
+"correct": 1
+},
+{
+"q": "Which of the following questions is considered leading and therefore poorly worded?",
+"a": ["How many times do you eat fruit each week?", "What is your opinion on school lunches?", "Don't you agree that mathematics is the most important subject?", "How long is your journey to school?"],
+"correct": 2
+},
+{
+"q": "What is a pilot survey used for?",
+"a": ["To collect the final published data", "To train airplane pilots in statistics", "To replace a full census entirely", "To test the questionnaire design and identify any problems before the main survey"],
+"correct": 3
+},
+{
+"q": "In a school of 800 pupils, a researcher wants a stratified sample of 80 pupils. If Year 8 has 200 pupils, how many students from Year 8 should be in the sample?",
+"a": ["20", "40", "25", "10"],
+"correct": 0
+},
+{
+"q": "Which of the following data types is continuous?",
+"a": ["Number of cars in a parking lot", "Mass of parcels in kilograms", "Shoe size in UK numbers", "Number of goals scored in a match"],
+"correct": 1
+},
+{
+"q": "What is random sampling designed to ensure?",
+"a": ["That the survey takes as little time as possible", "That only people with strong opinions are heard", "Every member of the population has an equal chance of being selected", "That every subgroup is represented proportionally"],
+"correct": 2
+},
+{
+"q": "Which of the following is a disadvantage of postal questionnaires?",
+"a": ["They are too expensive to print", "The interviewer influences the answers directly", "They take place only in laboratories", "They typically suffer from a very low response rate"],
+"correct": 3
+},
+{
+"q": "A questionnaire asks: 'How many hours of television do you watch? A) 0-2 hours B) 2-4 hours C) 4-6 hours'. What is the main flaw with these response options?",
+"a": ["The categories overlap for someone who watches exactly 2 or 4 hours", "There are too many options", "The options are not numerical", "The question is leading"],
+"correct": 0
+},
+{
+"q": "What does 'population' mean in statistics?",
+"a": ["The total number of people living in a country", "The entire group of individuals or items that you want to study", "The sample group chosen for an interview", "The group of people who refuse to answer"],
+"correct": 1
+},
+{
+"q": "When is a census preferred over a sample?",
+"a": ["When testing the lifespan of lightbulbs (destructive testing)", "When the population is extremely large and infinite", "When 100 percent accuracy and complete data are required for a small population", "When there is very little time and budget"],
+"correct": 2
+},
+{
+"q": "Which sampling method involves dividing the population into subgroups and taking random samples from each proportional to their size?",
+"a": ["Random sampling", "Opportunity sampling", "Cluster sampling", "Stratified sampling"],
+"correct": 3
+},
+{
+"q": "What is opportunity (convenience) sampling?",
+"a": ["Choosing members of the population who are easiest and most readily available to access", "Selecting every fifth person from a complete register", "Using a computer random number generator", "Interviewing people chosen by a government official"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of primary data?",
+"a": ["Data downloaded from a government census website", "Data collected by yourself through a direct survey or experiment", "Data read from a textbook table", "Data found in a historical archive"],
+"correct": 1
+},
+{
+"q": "What is secondary data?",
+"a": ["Data collected by an assistant rather than the main researcher", "Data that has been proven false", "Data collected by someone else that you use for your own research", "Data that is numerical rather than categorical"],
+"correct": 2
+},
+{
+"q": "Which question is clear, neutral, and well-designed for a survey about exercise?",
+"a": ["Why do you hate exercising?", "How can you be so lazy as to not exercise?", "Don't you agree that everyone should run daily?", "How many days a week do you engage in physical activity?"],
+"correct": 3
+},
+{
+"q": "What is non-response bias?",
+"a": ["Bias that occurs when people who do not respond to a survey have different views from those who do", "Bias caused by asking leading questions", "Bias caused by broken measuring equipment", "Bias resulting from a sample size that is too large"],
+"correct": 0
+},
+{
+"q": "If a researcher interviews only their friends to find out the most popular hobby in the whole city, what kind of sampling bias is present?",
+"a": ["Stratified bias", "Sampling bias / Opportunity bias", "Random error", "Census error"],
+"correct": 1
+},
+{
+"q": "Which of the following represents ordinal categorical data?",
+"a": ["Eye color (Blue, Brown, Green)", "Types of pets (Cat, Dog, Fish)", "Customer satisfaction rating (Poor, Satisfactory, Excellent)", "Shoe brand (Nike, Adidas, Puma)"],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of data cleaning before analysis?",
+"a": ["To change the results to match what you want", "To make the data file smaller in size", "To remove all numerical values", "To identify and correct errors, anomalies, or missing values"],
+"correct": 3
+},
+{
+"q": "When designing a tally chart for grouped continuous data (e.g., heights), how should the classes be structured?",
+"a": ["Non-overlapping and continuous (e.g., 10 to less than 20, 20 to less than 30)", "Overlapping (e.g., 10-20, 20-30, 30-40)", "Randomly assigned ranges", "Single exact integer values only"],
+"correct": 0
+},
+{
+"q": "Which of the following is a key feature of a good statistical hypothesis?",
+"a": ["It is always proven true", "It is testable based on collected data", "It contains no numbers", "It is based entirely on personal opinion"],
+"correct": 1
+},
+{
+"q": "What does a high response rate in a survey indicate?",
+"a": ["The survey questions were too difficult", "The sample size was too small", "The findings are likely to be more reliable and representative of the population", "The survey was conducted online"],
+"correct": 2
+},
+{
+"q": "Which data collection tool is best suited for recording the frequency of different types of cars passing a school gate?",
+"a": ["A formal interview", "An online questionnaire", "A postal survey", "A tally chart / observation sheet"],
+"correct": 3
+},
+{
+"q": "What is an outlier in a dataset?",
+"a": ["A data value that is significantly higher or lower than most other values", "The exact middle value of a dataset", "The most frequently occurring value", "The average value of the dataset"],
+"correct": 0
+},
+{
+"q": "Why is random number generation often used in selecting a sample?",
+"a": ["To ensure the researcher knows every participant personally", "To eliminate human selection bias", "To guarantee that all respondents give the same answer", "To reduce the cost of printing questionnaires"],
+"correct": 1
+},
+{
+"q": "Which of the following best describes qualitative data?",
+"a": ["Data that can be measured with numbers and decimals", "Data representing counts or quantities", "Data describing qualities, characteristics, or categories", "Data collected exclusively from thermometers"],
+"correct": 2
+},
+{
+"q": "What is a structured interview?",
+"a": ["An informal chat with no fixed questions", "An interview where the questions change completely for every person", "An interview conducted via email", "An interview where the researcher asks a standard set of predetermined questions in the same order"],
+"correct": 3
+},
+{
+"q": "What is the term for a small-scale trial of a survey used to check for ambiguities in questions?",
+"a": ["Pilot study", "Control group trial", "Census test", "Stratified audit"],
+"correct": 0
+},
+{
+"q": "Which factor is most critical when determining the required sample size for a large population?",
+"a": ["The budget and desired level of precision / confidence", "The favorite color of the researcher", "The time of day the survey is printed", "The number of pages in the questionnaire"],
+"correct": 1
+},
+{
+"q": "What is a closed question in a questionnaire?",
+"a": ["A question that allows respondents to write any paragraph answer they want", "A question that is too difficult to understand", "A question that provides a limited set of fixed response options", "A question at the very end of a survey"],
+"correct": 2
+},
+{
+"q": "Which of the following is a disadvantage of online surveys?",
+"a": ["They are too expensive to distribute", "They take weeks to reach respondents", "They cannot include multiple-choice questions", "They may exclude people without internet access or digital literacy"],
+"correct": 3
+},
+{
+"q": "What is an open question?",
+"a": ["A question where respondents can write their own answers in their own words without pre-set options", "A question with 'Yes' or 'No' only", "A multiple-choice question", "A question about outdoor activities"],
+"correct": 0
+},
+{
+"q": "What is the main purpose of grouping raw numerical data into class intervals?",
+"a": ["To make the data completely inaccurate", "To simplify and summarize large amounts of data to make patterns clearer", "To increase the number of outliers", "To hide missing values"],
+"correct": 1
+},
+{
+"q": "Which term describes a sample that does not accurately reflect the wider population?",
+"a": ["A census sample", "A random sample", "A biased sample", "A stratified sample"],
+"correct": 2
+},
+{
+"q": "What is the primary ethical consideration when conducting a survey involving human participants?",
+"a": ["Ensuring all participants are paid money", "Making sure the survey takes less than one minute", "Guaranteeing that questions are multiple-choice", "Obtaining informed consent and maintaining participant confidentiality"],
+"correct": 3
+}
+]
+}

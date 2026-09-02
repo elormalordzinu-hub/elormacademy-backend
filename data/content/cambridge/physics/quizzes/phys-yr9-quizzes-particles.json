@@ -1,0 +1,146 @@
+{
+"id": "phys-yr9-quizzes-particles",
+"name": "Particle theory and states of matter",
+"questions": [
+{
+"q": "How are particles arranged in a solid substance under normal conditions?",
+"a": ["Tightly packed in a regular, fixed pattern with strong forces between them", "Far apart and moving randomly at high speeds", "Close together but free to slide past one another in a random arrangement", "Completely stationary with zero forces"],
+"correct": 0
+},
+{
+"q": "Which state of matter has no fixed shape and no fixed volume, expanding to fill its container completely?",
+"a": ["Solid", "Gas", "Liquid", "Crystal"],
+"correct": 1
+},
+{
+"q": "What term describes the change of state from a liquid to a gas at the boiling point?",
+"a": ["Condensation", "Freezing", "Boiling (or vaporization)", "Melting"],
+"correct": 2
+},
+{
+"q": "Which physical property best explains why liquids and gases can flow, whereas solids cannot?",
+"a": ["Solids have more mass than liquids.", "Particles in solids are much heavier.", "Gases have no color.", "Particles in fluids (liquids and gases) are able to move and flow past each other."],
+"correct": 3
+},
+{
+"q": "What happens to the movement of particles in a substance when it is heated?",
+"a": ["They gain kinetic energy and move faster.", "They stop moving entirely.", "They shrink in physical size.", "They lose all thermal energy."],
+"correct": 0
+},
+{
+"q": "What is the term for the phase change when a gas turns directly into a liquid?",
+"a": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+"correct": 1
+},
+{
+"q": "Which state of matter is generally considered incompressible because its particles are already packed very closely together?",
+"a": ["Gas", "Plasma", "Solid (and liquid to a large extent)", "Vapor"],
+"correct": 2
+},
+{
+"q": "What name is given to the random, erratic movement of tiny particles suspended in a fluid, caused by collisions with fast-moving molecules?",
+"a": ["Magnetic induction", "Terminal velocity", "Gravitational pull", "Brownian motion"],
+"correct": 3
+},
+{
+"q": "How do particles behave in a liquid state?",
+"a": ["They are close together but randomly arranged and can slide past each other.", "They are locked rigidly in place.", "They move at the speed of light.", "They are separated by huge empty spaces."],
+"correct": 0
+},
+{
+"q": "What is the scientific term for the spreading out of particles from a region of higher concentration to a region of lower concentration?",
+"a": ["Condensation", "Diffusion", "Sublimation", "Contraction"],
+"correct": 1
+},
+{
+"q": "What phase change occurs when a solid turns directly into a gas without passing through the liquid state (such as dry ice)?",
+"a": ["Melting", "Freezing", "Sublimation", "Evaporation"],
+"correct": 2
+},
+{
+"q": "Why do gases exert pressure on the inner walls of their container?",
+"a": ["Because gas particles repel each other magnetically", "Because gravity pulls gas downward", "Because gases have heavy mass", "Because gas particles collide constantly with the container walls"],
+"correct": 3
+},
+{
+"q": "What happens to the density of most substances when they change state from a liquid to a gas?",
+"a": ["Density decreases significantly because particles spread far apart.", "Density increases dramatically.", "Density remains exactly the same.", "Density drops to zero instantly."],
+"correct": 0
+},
+{
+"q": "Which factor directly affects the rate of diffusion of gases in a room?",
+"a": ["The color of the gas", "The temperature and particle mass", "The magnetic field strength", "The altitude of the sun"],
+"correct": 1
+},
+{
+"q": "What is meant by the term 'melting point'?",
+"a": ["The temperature at which a liquid turns into a gas", "The temperature at which a gas turns into a solid", "The specific temperature at which a solid turns into a liquid", "The temperature at which a substance shatters"],
+"correct": 2
+},
+{
+"q": "Which of the following statements correctly describes particle arrangement in gases?",
+"a": ["Particles are arranged in neat rows.", "Particles are tightly bound by strong forces.", "Particles touch each other continuously.", "Particles are far apart with weak forces between them, moving rapidly in all directions."],
+"correct": 3
+},
+{
+"q": "What happens to the temperature of a substance while it is melting or boiling?",
+"a": ["It stays constant as thermal energy is used to break intermolecular bonds.", "It increases rapidly.", "It drops to absolute zero.", "It fluctuates up and down."],
+"correct": 0
+},
+{
+"q": "Why does a bicycle pump feel warm when you pump air into a tire rapidly?",
+"a": ["Friction inside the pump creates chemical energy.", "Work is done on the gas, compressing it and increasing the kinetic energy and temperature of the particles.", "Electricity is generated.", "The metal absorbs sunlight."],
+"correct": 1
+},
+{
+"q": "Which of the following phenomena provides strong evidence for particle theory and the constant motion of matter?",
+"a": ["Freezing water in a freezer", "Rolling a ball down a hill", "Diffusion of perfume scent across a room", "Stretching a rubber band"],
+"correct": 2
+},
+{
+"q": "What term describes the continuous random motion of particles in liquids and gases?",
+"a": ["Static equilibrium", "Uniform acceleration", "Universal gravitation", "Thermal motion"],
+"correct": 3
+},
+{
+"q": "How does increasing the temperature of a gas inside a fixed rigid container affect its pressure?",
+"a": ["Pressure increases because particles move faster and collide harder and more frequently with the walls.", "Pressure decreases to zero.", "Pressure stays completely constant.", "Pressure fluctuates randomly."],
+"correct": 0
+},
+{
+"q": "Which state of matter possesses a definite volume but no fixed shape, taking the shape of the bottom of its container?",
+"a": ["Gas", "Liquid", "Solid", "Plasma"],
+"correct": 1
+},
+{
+"q": "What causes evaporation to happen at temperatures below the boiling point of a liquid?",
+"a": ["Only the heaviest particles escape from the bottom.", "Pressure forces bubbles to form.", "Some faster-moving particles near the surface have enough energy to break free into the air.", "Chemical reactions break down the liquid."],
+"correct": 2
+},
+{
+"q": "If you heat a metal rod, it expands slightly. How does particle theory explain this thermal expansion?",
+"a": ["The individual particles grow larger in size.", "The number of particles in the rod increases.", "New atoms are created by heat.", "Particles vibrate more vigorously and push slightly further apart on average."],
+"correct": 3
+},
+{
+"q": "Which of the following describes the forces between particles in a solid?",
+"a": ["Very strong forces holding particles in fixed positions", "Very weak forces allowing complete freedom", "Zero forces", "Repulsive magnetic forces only"],
+"correct": 0
+},
+{
+"q": "Why do heavier gas molecules diffuse more slowly than lighter gas molecules at the same temperature?",
+"a": ["Because heavier molecules travel upward against gravity.", "Because molecules with larger mass have lower average speeds at a given temperature.", "Because heavy molecules lack thermal energy.", "Because they stick to room walls permanently."],
+"correct": 1
+},
+{
+"q": "What happens when water freezes into ice?",
+"a": ["Particles stop moving completely.", "Particles lose all mass.", "Liquid water turns into a solid as particles form a regular open crystal lattice structure.", "Gas bubbles are released."],
+"correct": 2
+},
+{
+"q": "Which of the following best defines internal energy of a substance according to particle theory?",
+"a": ["The total kinetic energy of its particles only", "The total potential energy of its particles only", "The total mass of the object", "The total kinetic and potential energy stored by the particles making up the system"],
+"correct": 3
+}
+]
+}

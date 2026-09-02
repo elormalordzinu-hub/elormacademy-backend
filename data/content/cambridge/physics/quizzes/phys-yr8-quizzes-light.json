@@ -1,0 +1,206 @@
+{
+"id": "phys-yr8-quizzes-light",
+"name": "Reflection and refraction of light",
+"questions": [
+{
+"q": "What is the law of reflection regarding angles?",
+"a": ["The angle of incidence is equal to the angle of reflection", "The angle of incidence is greater than the angle of reflection", "The angle of reflection is always zero degrees", "The angle of incidence equals the angle of refraction"],
+"correct": 0
+},
+{
+"q": "Which of the following describes a regular (specular) reflection?",
+"a": ["Light rays are scattered in random directions off a rough surface", "Parallel light rays strike a smooth, polished surface and reflect in a single clear direction", "Light rays are completely absorbed by a black object", "Light bends as it passes from air into water"],
+"correct": 1
+},
+{
+"q": "What term describes the bending of light as it passes from one transparent medium into another with a different optical density?",
+"a": ["Reflection", "Absorption", "Refraction", "Dispersion"],
+"correct": 2
+},
+{
+"q": "When a ray of light passes from air into a denser medium like glass at an angle, how does it bend relative to the normal line?",
+"a": ["It bends directly backward along the surface", "It does not bend at all", "It bends away from the normal", "It bends towards the normal"],
+"correct": 3
+},
+{
+"q": "What type of image is formed by a plane mirror?",
+"a": ["Virtual, upright, and the same size as the object", "Real and inverted", "Real and magnified", "Virtual and upside down"],
+"correct": 0
+},
+{
+"q": "What is an imaginary line drawn perpendicular (at 90 degrees) to the surface at the point where a light ray strikes called?",
+"a": ["The refracted ray", "The normal", "The focal axis", "The wavefront"],
+"correct": 1
+},
+{
+"q": "Why does a swimming pool look shallower than it actually is when viewed from above?",
+"a": ["Water absorbs all red light", "Light rays are reflected completely backward", "Light rays refract (bend away from the normal) as they exit the water into the air, making the bottom appear closer", "Water creates a physical illusion with mirrors"],
+"correct": 2
+},
+{
+"q": "Which of the following surfaces produces diffuse (scattered) reflection rather than a clear image?",
+"a": ["A flat plane mirror", "A calm pool of water", "A polished silver spoon", "A piece of white paper or rough wood"],
+"correct": 3
+},
+{
+"q": "What happens to white light when it passes through a triangular glass prism?",
+"a": ["It splits into a spectrum of seven colors due to different amounts of refraction for each wavelength", "It turns completely black", "It reflects back as a single laser beam", "It speeds up infinitely"],
+"correct": 0
+},
+{
+"q": "What is the angle of incidence defined as?",
+"a": ["The angle between the reflected ray and the mirror surface", "The angle between the incoming (incident) ray and the normal line", "The angle between the refracted ray and the boundary", "The angle between two mirror surfaces"],
+"correct": 1
+},
+{
+"q": "When light travels from water into air, how does its speed change?",
+"a": ["Its speed decreases to zero", "Its speed remains constant", "Its speed increases as it enters the less dense medium", "Its speed fluctuates randomly"],
+"correct": 2
+},
+{
+"q": "Which color of the visible light spectrum undergoes the greatest amount of refraction (bending) when passing through a prism?",
+"a": ["Red light", "Yellow light", "Orange light", "Violet light"],
+"correct": 3
+},
+{
+"q": "What term is used to describe the bouncing of light off a surface?",
+"a": ["Reflection", "Refraction", "Diffraction", "Transmission"],
+"correct": 0
+},
+{
+"q": "What causes a straw placed in a glass of water to appear bent or broken at the water's surface?",
+"a": ["Chemical reactions in the water", "Refraction of light rays as they pass from water into air", "Total absorption of light by the glass", "Reflection from the bottom of the glass"],
+"correct": 1
+},
+{
+"q": "If the angle of incidence of a light ray on a plane mirror is 35 degrees, what is the angle of reflection?",
+"a": ["70 degrees", "0 degrees", "35 degrees", "55 degrees"],
+"correct": 2
+},
+{
+"q": "Why can you see your reflection clearly in a calm mirror, but not on a rough brick wall?",
+"a": ["Bricks absorb all light particles", "Mirrors generate their own light", "Brick surfaces are too cold", "Brick surfaces cause diffuse reflection, scattering light rays in all directions so no clear image forms"],
+"correct": 3
+},
+{
+"q": "What is lateral inversion in a plane mirror?",
+"a": ["The apparent left-right reversal of an image in a mirror", "The flipping of an image upside down", "The shrinking of objects with distance", "The coloring of white light into rainbows"],
+"correct": 0
+},
+{
+"q": "Which optical device uses total internal reflection or multiple reflections in prisms to allow someone to see over obstacles?",
+"a": ["A microscope", "A periscope", "A simple magnifying glass", "A concave lens"],
+"correct": 1
+},
+{
+"q": "What happens to a ray of light that strikes a transparent glass block perpendicularly (at 90 degrees to the surface, along the normal)?",
+"a": ["It reflects backward at 180 degrees", "It bends sideways at a 45-degree angle", "It passes straight through without changing direction (no refraction)", "It stops completely inside the glass"],
+"correct": 2
+},
+{
+"q": "What is the main reason why we can see objects that do not produce their own light (non-luminous objects)?",
+"a": ["They emit infrared radiation", "They create internal electricity", "They absorb all light permanently", "Light reflects off their surfaces and enters our eyes"],
+"correct": 3
+},
+{
+"q": "If a light ray strikes a plane mirror at an angle of 50 degrees to the mirror surface, what is the angle of incidence?",
+"a": ["40 degrees", "50 degrees", "100 degrees", "90 degrees"],
+"correct": 0
+},
+{
+"q": "What term describes a medium that allows light to pass through it clearly so that objects behind it can be seen distinctly?",
+"a": ["Opaque", "Transparent", "Translucent", "Reflective"],
+"correct": 1
+},
+{
+"q": "Which of the following best describes a translucent material?",
+"a": ["A material that blocks all light completely", "A material that reflects all light like a mirror", "A material that scatters light as it passes through, so images behind it are blurred", "A material that speeds up light rays"],
+"correct": 2
+},
+{
+"q": "What name is given to the band of seven colors (Red, Orange, Yellow, Green, Blue, Indigo, Violet) produced when white light is dispersed?",
+"a": ["The magnetic spectrum", "The electromagnetic wave band", "The thermal spectrum", "The visible spectrum"],
+"correct": 3
+},
+{
+"q": "When a light ray passes from air into water, what happens to its frequency and wavelength?",
+"a": ["Frequency stays the same, but wavelength decreases as speed decreases", "Frequency increases and wavelength doubles", "Both frequency and wavelength drop to zero", "Wavelength stays constant while frequency changes"],
+"correct": 0
+},
+{
+"q": "What type of lens converges parallel light rays to a focal point?",
+"a": ["Concave (diverging) lens", "Convex (converging) lens", "Flat plane glass", "Cylindrical hollow tube"],
+"correct": 1
+},
+{
+"q": "What type of lens diverges parallel light rays so they appear to come from a single virtual focus?",
+"a": ["A convex magnifying lens", "A spherical glass sphere", "A concave (diverging) lens", "A prism"],
+"correct": 2
+},
+{
+"q": "What is dispersion of light?",
+"a": ["The bouncing of light off a rough surface", "The absorption of light by dark fabrics", "The bending of light around sharp corners", "The splitting of white light into its component colors"],
+"correct": 3
+},
+{
+"q": "If you stand 2 meters in front of a flat plane mirror, how far behind the mirror does your image appear to be?",
+"a": ["2 meters", "1 meter", "4 meters", "0 meters"],
+"correct": 0
+},
+{
+"q": "Which optical instrument uses lenses to form magnified images of extremely distant objects like stars and planets?",
+"a": ["A periscope", "An astronomical telescope", "A kaleidoscope", "A plane mirror"],
+"correct": 1
+},
+{
+"q": "What happens when light hits an opaque object?",
+"a": ["All light passes straight through", "Light speeds up and bends", "Light is either reflected or absorbed, forming a shadow behind the object", "Light turns into sound waves"],
+"correct": 2
+},
+{
+"q": "Why do fish appear to be at a different depth underwater than they actually are?",
+"a": ["Fish emit glowing camouflage light", "Water magnifies fish size", "Refraction bends light rays away from the normal as they leave water, altering our perception of position", "Light travels faster in water than in air"],
+"correct": 3
+},
+{
+"q": "What is the primary function of a convex lens in devices like cameras or human eyes?",
+"a": ["To focus incoming light rays onto a surface (like film or the retina) to form a clear image", "To scatter light in all directions", "To block ultraviolet rays completely", "To turn images upside down permanently"],
+"correct": 0
+},
+{
+"q": "What is the term for materials that do not allow any light to pass through them at all?",
+"a": ["Transparent", "Opaque", "Translucent", "Prismatic"],
+"correct": 1
+},
+{
+"q": "What happens to the direction of a light ray when it travels obliquely from air into glass?",
+"a": ["It continues in a straight line without bending", "It reverses direction completely", "It bends towards the normal", "It bends away from the normal"],
+"correct": 2
+},
+{
+"q": "Which of the following phenomena is responsible for the formation of a rainbow in the sky after rain?",
+"a": ["Reflection only from clouds", "Diffraction of sound waves", "Direct absorption of sunlight by raindrops", "Refraction, internal reflection, and dispersion of sunlight by water droplets"],
+"correct": 3
+},
+{
+"q": "If an object is placed between a plane mirror and your eyes, and you see its reflection, what angle does the reflected ray make if the incident ray hits at 40 degrees?",
+"a": ["40 degrees", "80 degrees", "20 degrees", "90 degrees"],
+"correct": 0
+},
+{
+"q": "What property of light allows us to see shadows behind opaque objects?",
+"a": ["Light travels in curved loops", "Light travels in straight lines (rectilinear propagation) and cannot bend around large obstacles easily", "Light reflects off air particles", "Light slows down in shadows"],
+"correct": 1
+},
+{
+"q": "What is the normal line used for in ray diagrams of reflection and refraction?",
+"a": ["To measure the weight of light", "To show the direction of wind", "As a reference line drawn at 90 degrees to the surface to measure angles of incidence, reflection, and refraction", "To calculate the color of light"],
+"correct": 2
+},
+{
+"q": "What happens when parallel light rays strike a concave mirror?",
+"a": ["They scatter randomly", "They pass straight through without stopping", "They diverge outward in all directions", "They converge (meet) at a focal point in front of the mirror"],
+"correct": 3
+}
+]
+}

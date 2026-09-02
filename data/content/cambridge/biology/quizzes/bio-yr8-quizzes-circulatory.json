@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-circulatory",
+"name": "Human circulatory system",
+"questions": [
+{
+"q": "What is the primary function of the human circulatory system?",
+"a": ["To transport substances such as oxygen, nutrients, and waste products around the body", "To mechanically digest food particles into smaller molecules", "To provide a rigid structural framework for body posture", "To filter solid waste directly from the large intestine"],
+"correct": 0
+},
+{
+"q": "Which organ acts as the central pump in the human circulatory system?",
+"a": ["The lungs", "The liver", "The heart", "The kidneys"],
+"correct": 2
+},
+{
+"q": "Which blood vessels carry oxygenated blood away from the heart to the rest of the body?",
+"a": ["Capillaries", "Vena cava", "Veins", "Arteries"],
+"correct": 3
+},
+{
+"q": "Which blood vessels return deoxygenated blood from the body tissues back to the heart?",
+"a": ["Veins", "Arteries", "Arterioles", "Aorta"],
+"correct": 0
+},
+{
+"q": "What are the microscopic, thin-walled blood vessels where substance exchange occurs with body cells?",
+"a": ["Capillaries", "Ventricles", "Atria", "Aortas"],
+"correct": 0
+},
+{
+"q": "Which component of blood is primarily responsible for transporting oxygen?",
+"a": ["White blood cells", "Platelets", "Red blood cells", "Plasma"],
+"correct": 2
+},
+{
+"q": "What is the liquid, pale-yellow part of blood that carries dissolved nutrients, hormones, and waste products?",
+"a": ["Plasma", "Cytoplasm", "Serum", "Lymph"],
+"correct": 0
+},
+{
+"q": "Which blood cells form part of the immune system and help destroy harmful pathogens and bacteria?",
+"a": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"],
+"correct": 1
+},
+{
+"q": "What is the primary role of platelets in the blood?",
+"a": ["To carry oxygen to respiring tissues", "To fight off viral infections", "To help blood clot at the site of a wound", "To digest excess fats in plasma"],
+"correct": 2
+},
+{
+"q": "What is the name of the iron-containing protein found in red blood cells that binds to oxygen?",
+"a": ["Chlorophyll", "Hemoglobin", "Keratin", "Insulin"],
+"correct": 1
+},
+{
+"q": "Which upper chambers of the heart receive blood returning from the body and lungs?",
+"a": ["Ventricles", "Atria (singular: atrium)", "Aortas", "Valves"],
+"correct": 1
+},
+{
+"q": "Which lower chambers of the heart pump blood out of the heart into the arteries?",
+"a": ["Atria", "Ventricles", "Capillaries", "Vena cava"],
+"correct": 1
+},
+{
+"q": "What is the purpose of the valves located inside the heart and veins?",
+"a": ["To prevent the backflow of blood and ensure it flows in one direction", "To speed up the flow of blood through narrow vessels", "To generate electrical signals that make the heart beat", "To filter out bacteria from the bloodstream"],
+"correct": 0
+},
+{
+"q": "Which main artery carries oxygenated blood from the left ventricle to the rest of the body?",
+"a": ["Pulmonary artery", "Aorta", "Vena cava", "Coronary artery"],
+"correct": 1
+},
+{
+"q": "Which large vein brings deoxygenated blood from the body back to the right atrium of the heart?",
+"a": ["Pulmonary vein", "Aorta", "Vena cava", "Jugular vein"],
+"correct": 2
+},
+{
+"q": "Why does the left ventricle have a much thicker muscular wall than the right ventricle?",
+"a": ["It has to pump blood all the way around the entire body, whereas the right ventricle only pumps to the lungs", "It receives blood directly from the lungs under high pressure", "It has to store extra red blood cells during exercise", "It prevents blood from mixing with digestive juices"],
+"correct": 0
+},
+{
+"q": "Which blood vessel carries deoxygenated blood away from the heart toward the lungs?",
+"a": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Coronary artery"],
+"correct": 0
+},
+{
+"q": "Which blood vessel returns oxygenated blood from the lungs back to the left atrium of the heart?",
+"a": ["Pulmonary artery", "Pulmonary vein", "Superior vena cava", "Aorta"],
+"correct": 1
+},
+{
+"q": "What structural feature of capillaries makes them highly efficient for exchanging materials with tissues?",
+"a": ["They have thick, muscular walls with valves", "Their walls are only one cell thick, allowing rapid diffusion", "They contain hemoglobin to trap waste gases", "They actively pump nutrients using cellular energy"],
+"correct": 1
+},
+{
+"q": "What is double circulation in humans?",
+"a": ["Blood passes through the heart twice on every complete circuit of the body (lung circuit and body circuit)", "Blood flows in two opposite directions simultaneously inside arteries", "The heart beats twice for every single breath taken", "Blood is filtered twice by the kidneys before returning to the heart"],
+"correct": 0
+},
+{
+"q": "What lifestyle factor can lead to the buildup of fatty plaques inside coronary arteries, increasing heart attack risk?",
+"a": ["Eating a balanced diet rich in fresh vegetables and fiber", "Regular aerobic exercise and physical activity", "A diet high in saturated fats and lack of exercise", "Drinking plenty of clean water daily"],
+"correct": 2
+},
+{
+"q": "What term describes the regular expansion and relaxation of artery walls felt as blood is pumped through them?",
+"a": ["Blood pressure", "Pulse", "Respiration", "Diffusion"],
+"correct": 1
+},
+{
+"q": "Which instrument or method is commonly used to measure a person's blood pressure?",
+"a": ["A thermometer", "A microscope", "A sphygmomanometer", "A stroboscope"],
+"correct": 2
+},
+{
+"q": "What effect does regular cardiovascular (aerobic) exercise have on the heart over time?",
+"a": ["It weakens the heart muscle and decreases efficiency", "It strengthens the heart muscle, making it larger and more efficient", "It stops the heart from beating during periods of rest", "It turns heart tissue into rigid bone"],
+"correct": 1
+},
+{
+"q": "Which gas is carried away from body tissues by the blood to be exhaled through the lungs?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "What are the tiny extensions or shapes of red blood cells that help maximize their surface area for oxygen absorption?",
+"a": ["Biconcave disc shape", "Long branching fibers", "Spherical fluid droplets", "Rigid rectangular blocks"],
+"correct": 0
+},
+{
+"q": "What happens to the heart rate during physical exercise compared to when resting?",
+"a": ["It decreases significantly to conserve energy", "It stays completely constant regardless of activity", "It increases to deliver more oxygen and glucose to working muscles", "It stops temporarily between steps"],
+"correct": 2
+},
+{
+"q": "Which condition occurs when the supply of blood to a part of the heart muscle is blocked, damaging the tissue?",
+"a": ["A heart attack (myocardial infarction)", "Asthma attack", "Anemia", "Appendicitis"],
+"correct": 0
+},
+{
+"q": "What is the function of coronary arteries?",
+"a": ["To supply oxygenated blood directly to the heart muscle tissue itself", "To carry blood from the heart to the lungs", "To drain deoxygenated blood from the brain", "To pump blood into the aorta"],
+"correct": 0
+},
+{
+"q": "Why do veins possess internal valves while most arteries do not?",
+"a": ["Blood pressure in veins is low and gravity can pull blood backward, so valves prevent reverse flow", "Arteries need valves to speed up blood flow under high pressure", "Veins carry blood faster than arteries", "Valves are used to filter pathogens in veins"],
+"correct": 0
+},
+{
+"q": "Which of the following describes the appearance of white blood cells compared to red blood cells?",
+"a": ["White blood cells are smaller and contain red pigment", "White blood cells are larger, contain a nucleus, and lack hemoglobin", "White blood cells are disk-shaped with no internal nucleus", "White blood cells are solid crystals"],
+"correct": 1
+},
+{
+"q": "What role does the circulatory system play in maintaining body temperature?",
+"a": ["It redistributes heat around the body by adjusting blood flow near the skin surface", "It generates all body heat through friction in the veins", "It cools the body by freezing blood plasma", "It acts as an insulator like animal fat"],
+"correct": 0
+},
+{
+"q": "Which blood component makes up the largest percentage of total blood volume in humans?",
+"a": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+"correct": 3
+},
+{
+"q": "What is anemia?",
+"a": ["A condition where the blood has a lower-than-normal number of red blood cells or hemoglobin, reducing oxygen transport", "An infection caused by white blood cells attacking healthy tissue", "A blockage in the coronary arteries caused by calcium", "A genetic disorder where blood cannot clot at all"],
+"correct": 0
+},
+{
+"q": "How does digested food from the small intestine enter the circulatory system?",
+"a": ["It is absorbed directly into the blood capillaries within the intestinal villi", "It travels through hollow nerve fibers", "It is pumped directly into the lungs first", "It diffuses through the outer layer of skin"],
+"correct": 0
+},
+{
+"q": "Which of these blood vessels has the thickest, most elastic walls to withstand high pressure surges from the heart?",
+"a": ["Capillaries", "Vena cava", "Arteries", "Venules"],
+"correct": 2
+},
+{
+"q": "What is the main role of the septum inside the human heart?",
+"a": ["To separate the left and right sides of the heart, preventing oxygenated and deoxygenated blood from mixing", "To act as a valve between the atrium and ventricle", "To pump blood directly into the pulmonary artery", "To anchor the heart securely inside the ribcage"],
+"correct": 0
+},
+{
+"q": "Which waste product of protein breakdown is filtered out of the blood by the kidneys?",
+"a": ["Urea", "Glucose", "Starch", "Oxygen"],
+"correct": 0
+},
+{
+"q": "What process allows oxygen to move from the alveoli in the lungs into the blood capillaries?",
+"a": ["Active transport", "Diffusion down a concentration gradient", "Osmosis of water molecules", "Filtration under high pressure"],
+"correct": 1
+},
+{
+"q": "If a person has a resting heart rate of 70 beats per minute, what does that number represent?",
+"a": ["The number of times the heart chambers contract and pump blood in one minute", "The number of breaths taken in one minute", "The speed of blood flowing through capillaries in meters per second", "The total volume of blood pumped in liters per minute"],
+"correct": 0
+}
+]
+}

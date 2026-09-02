@@ -1,0 +1,106 @@
+{
+"id": "chem-alevel-quizzes-synthesis",
+"name": "Organic synthesis and reaction design",
+"questions": [
+{
+"q": "What two-step synthetic route can convert 1-bromopropane into butanenitrile?",
+"a": ["Reaction with ethanolic potassium cyanide under reflux", "Reduction with lithium aluminium hydride", "Reaction with ammonia gas", "Hydrolysis with aqueous sodium hydroxide"],
+"correct": 0
+},
+{
+"q": "What reagents and conditions are required to convert an alkene into a primary alcohol via hydration?",
+"a": ["Aqueous sodium hydroxide", "Steam in the presence of a concentrated phosphoric(V) acid catalyst (H<sub>3</sub>PO<sub>4</sub>) at high temperature and pressure", "Acidified potassium dichromate(VI) under reflux", "Ethanolic potassium hydroxide"],
+"correct": 1
+},
+{
+"q": "When planning a multi-step organic synthesis, what is the primary purpose of retrosynthetic analysis?",
+"a": ["To increase the temperature of the reaction vessel", "To measure the boiling point of the final product", "To work backwards from a target molecule to simpler, readily available starting materials by breaking down bonds strategically", "To purify the catalyst"],
+"correct": 2
+},
+{
+"q": "Which sequence of reactions successfully converts nitrobenzene into phenylamine?",
+"a": ["Heating with aqueous sodium hydroxide", "Oxidation with acidified potassium manganate(VII)", "Reaction with cold bromine water", "Reduction using tin (Sn) and concentrated hydrochloric acid, followed by addition of sodium hydroxide"],
+"correct": 3
+},
+{
+"q": "What is the organic product formed when a primary alcohol is oxidized using excess acidified potassium dichromate(VI) under reflux conditions?",
+"a": ["A carboxylic acid", "An aldehyde", "A ketone", "An alkene"],
+"correct": 0
+},
+{
+"q": "How can a secondary alcohol be converted into a ketone in the laboratory?",
+"a": ["Reaction with concentrated hydrochloric acid", "Oxidation with acidified potassium dichromate(VI) and warming", "Reduction with hydrogen gas over a nickel catalyst", "Reaction with aqueous sodium carbonate"],
+"correct": 1
+},
+{
+"q": "What is the initial organic intermediate formed when a halogenoalkane undergoes nucleophilic substitution with aqueous sodium hydroxide?",
+"a": ["An alkene", "An aldehyde", "An alcohol", "A carboxylic acid"],
+"correct": 2
+},
+{
+"q": "Which of the following reagents can be used to convert a carboxylic acid directly into an acyl chloride?",
+"a": ["Thionyl chloride (SOCl<sub>2</sub>) or phosphorus(V) chloride (PCl<sub>5</sub>)", "Dilute hydrochloric acid", "Sodium chloride solution", "Ethanol and concentrated sulfuric acid"],
+"correct": 3
+},
+{
+"q": "What type of reaction is used to convert an ester back into a carboxylic acid and an alcohol?",
+"a": ["Hydrolysis (using dilute acid or alkali under reflux)", "Addition polymerization", "Electrophilic substitution", "Free radical halogenation"],
+"correct": 0
+},
+{
+"q": "What reagent is used to convert a carbonyl compound (aldehyde or ketone) into a hydroxynitrile (cyanohydrin)?",
+"a": ["Aqueous bromine", "Hydrogen cyanide generated in situ using potassium cyanide and dilute sulfuric acid", "Lithium aluminium hydride in dry ether", "Acidified potassium manganate(VII)"],
+"correct": 1
+},
+{
+"q": "Why is the yield of a multi-step organic synthesis often significantly lower than 100 percent?",
+"a": ["Because mass is created during the reaction", "Because chemical reactions always defy the conservation of mass", "Due to incomplete reactions, side reactions, loss of product during separation and purification steps, and difficult extraction", "Because catalysts absorb all the product"],
+"correct": 2
+},
+{
+"q": "What is formed when an acyl chloride reacts with a primary amine?",
+"a": ["An ester", "A carboxylic acid", "A secondary alcohol", "An N-substituted amide"],
+"correct": 3
+},
+{
+"q": "What reagent can selectively reduce an aldehyde or ketone back into a primary or secondary alcohol without reducing other groups like esters?",
+"a": ["Sodium tetrahydridoborate (NaBH<sub>4</sub>) in aqueous or alcoholic solution", "Concentrated sulfuric acid", "Hot acidified potassium dichromate(VI)", "Aqueous sodium hydroxide"],
+"correct": 0
+},
+{
+"q": "What is the synthetic pathway to prepare a primary amine from a halogenoalkane?",
+"a": ["Reaction with cold water", "Heating with excess ethanolic ammonia under pressure in a sealed container", "Reaction with acidified potassium iodide", "Oxidation with hydrogen peroxide"],
+"correct": 1
+},
+{
+"q": "Which of the following describes the conversion of propene into 2-bromopropane?",
+"a": ["Electrophilic substitution with bromine water", "Free radical substitution with bromine gas in sunlight", "Electrophilic addition of hydrogen bromide (HBr)", "Nucleophilic substitution with sodium bromide"],
+"correct": 2
+},
+{
+"q": "In designing a synthesis route, how can an alkane be converted into a halogenoalkane?",
+"a": ["Reaction with aqueous halogen under reflux", "Reaction with sodium hydroxide solution", "Catalytic hydrogenation", "Free radical substitution with halogen gas in the presence of ultraviolet light"],
+"correct": 3
+},
+{
+"q": "What reagents and conditions are required to dehydrate an alcohol into an alkene?",
+"a": ["Concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) or concentrated phosphoric acid as a catalyst, heated under reflux", "Dilute sodium hydroxide solution at room temperature", "Aqueous potassium manganate(VII)", "Ethanolic ammonia under pressure"],
+"correct": 0
+},
+{
+"q": "How can an ester be synthesized from a carboxylic acid?",
+"a": ["Heating with an amine", "Heating a carboxylic acid with an alcohol in the presence of a strong acid catalyst (like concentrated sulfuric acid)", "Reaction with cold sodium chloride", "Reduction with lithium aluminium hydride"],
+"correct": 1
+},
+{
+"q": "What functional group is produced when a nitrile is subjected to complete acid hydrolysis?",
+"a": ["An amine", "An alcohol", "A carboxylic acid", "An aldehyde"],
+"correct": 2
+},
+{
+"q": "Which reagent is used to test for the presence of a carbonyl group by forming a brightly colored (orange/yellow) crystalline precipitate?",
+"a": ["Tollens' reagent", "Fehling's solution", "Acidified potassium dichromate(VI)", "2,4-dinitrophenylhydrazine (2,4-DNPH) reagent"],
+"correct": 3
+}
+]
+}

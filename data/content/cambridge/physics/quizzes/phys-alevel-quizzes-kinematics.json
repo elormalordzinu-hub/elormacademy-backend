@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-kinematics",
+"name": "Kinematics and projectiles",
+"questions": [
+{
+"q": "A particle moves along a straight line such that its displacement x at time t is given by x = 4t³ - 12t. What is the acceleration of the particle when t = 2 s?",
+"a": ["48 m s⁻²", "24 m s⁻²", "12 m s⁻²", "0 m s⁻²"],
+"correct": 0
+},
+{
+"q": "An object is thrown vertically upwards with an initial velocity of 20 m s⁻¹ from the top of a cliff. Taking g = 9.81 m s⁻², what is its displacement from the launch point after 4.0 s?",
+"a": ["+2.2 m", "-1.8 m", "+4.2 m", "-5.4 m"],
+"correct": 1
+},
+{
+"q": "A projectile is launched from ground level with a speed of 30 m s⁻¹ at an angle of 40 degrees above the horizontal. Neglecting air resistance, what is the total time of flight?",
+"a": ["1.97 s", "3.15 s", "3.93 s", "6.30 s"],
+"correct": 2
+},
+{
+"q": "What does the area under a velocity-time graph represent?",
+"a": ["Average acceleration", "Instantaneous speed", "Rate of change of acceleration", "Displacement"],
+"correct": 3
+},
+{
+"q": "A car accelerates uniformly from rest at 2.5 m s⁻² for 6.0 s, then travels at constant speed for 10 s, and finally decelerates at 1.5 m s⁻² to rest. What is the total distance traveled?",
+"a": ["220 m", "190 m", "250 m", "150 m"],
+"correct": 0
+},
+{
+"q": "A ball is dropped from a height of 45 m above the ground. Ignoring air resistance, how long does it take to reach the ground? (g = 9.81 m s⁻²)",
+"a": ["2.14 s", "3.03 s", "4.59 s", "9.18 s"],
+"correct": 1
+},
+{
+"q": "The displacement x of an object moving in one dimension is given by x = 3t² - t³. At what time t does the object momentarily come to rest after t = 0?",
+"a": ["1.0 s", "1.5 s", "2.0 s", "3.0 s"],
+"correct": 2
+},
+{
+"q": "A projectile is fired horizontally with a speed of 15 m s⁻¹ from the top of a 20 m high tower. What is the magnitude of its velocity upon striking the ground? (g = 9.81 m s⁻²)",
+"a": ["15.0 m s⁻¹", "19.8 m s⁻¹", "22.5 m s⁻¹", "24.8 m s⁻¹"],
+"correct": 3
+},
+{
+"q": "Which of the following graphs for a falling object with air resistance correctly shows acceleration against time?",
+"a": ["A curve starting at g and decreasing exponentially towards zero", "A straight horizontal line at g", "A line increasing linearly with time", "A curve starting at zero and increasing to g"],
+"correct": 0
+},
+{
+"q": "Two cars A and B are traveling in the same direction on a straight road with constant speeds of 20 m s⁻¹ and 30 m s⁻¹ respectively. Car A is 100 m ahead of car B. How long does it take for car B to catch up with car A?",
+"a": ["5.0 s", "10.0 s", "20.0 s", "100.0 s"],
+"correct": 1
+},
+{
+"q": "A stone is thrown vertically downwards from a bridge with a speed of 5.0 m s⁻¹ and hits the water below 1.5 s later. What is the height of the bridge above the water? (g = 9.81 m s⁻²)",
+"a": ["7.5 m", "18.5 m", "18.6 m", "26.1 m"],
+"correct": 2
+},
+{
+"q": "An object moves along a curved path. Which statement is necessarily true regarding its velocity and acceleration vectors?",
+"a": ["Acceleration must be zero if speed is constant.", "Velocity and acceleration must be parallel.", "Acceleration must be perpendicular to the tangent of the path at all points.", "Acceleration has a component directed towards the instantaneous center of curvature if the path curves."],
+"correct": 3
+},
+{
+"q": "A ball is projected upwards at an angle. At its maximum height, which of the following quantities is zero?",
+"a": ["Vertical component of velocity", "Horizontal component of velocity", "Total acceleration", "Vertical component of acceleration"],
+"correct": 0
+},
+{
+"q": "A particle starts from rest and moves with a constant acceleration. The ratio of the distance traveled in the third second to the distance traveled in the second second is:",
+"a": ["3:2", "5:3", "7:5", "9:4"],
+"correct": 1
+},
+{
+"q": "What is the gradient of a tangent drawn to a curve on an acceleration-time graph at a specific point in time?",
+"a": ["Velocity", "Displacement", "Rate of change of acceleration (jerk)", "Change in speed"],
+"correct": 2
+},
+{
+"q": "A bullet is fired horizontally from a rifle. At the exact same instant, an identical bullet is dropped from the same height. Assuming flat ground and no air resistance, which bullet hits the ground first?",
+"a": ["The fired bullet", "The dropped bullet", "It depends on the initial horizontal speed", "They hit the ground at the same time"],
+"correct": 3
+},
+{
+"q": "The motion of a body is given by v = 3t² + 2t. What is the change in displacement of the body between t = 1 s and t = 3 s?",
+"a": ["32 m", "26 m", "18 m", "40 m"],
+"correct": 0
+},
+{
+"q": "A ball is thrown upwards and catches it upon return. Assuming air resistance is negligible, which velocity-time graph correctly represents this vertical motion taking upwards as positive?",
+"a": ["A parabola opening upwards", "A straight line with a negative gradient crossing the time axis", "A horizontal line at constant velocity", "A V-shaped graph"],
+"correct": 1
+},
+{
+"q": "An object is projected at an angle of 45 degrees to the horizontal. If its initial velocity is doubled while keeping the launch angle the same, what happens to its maximum horizontal range?",
+"a": ["It increases by a factor of 2", "It increases by a factor of 2.83", "It increases by a factor of 4", "It remains unchanged"],
+"correct": 2
+},
+{
+"q": "A parachutist falls freely from rest for 5.0 s before opening her parachute, after which she decelerates uniformly at 2.0 m s⁻² until her speed drops to 4.0 m s⁻¹. What is her speed just before opening the parachute? (g = 9.81 m s⁻²)",
+"a": ["25 m s⁻¹", "49 m s⁻¹", "9.8 m s⁻¹", "49.1 m s⁻¹"],
+"correct": 3
+},
+{
+"q": "What does the slope of a displacement-time graph at any given point represent?",
+"a": ["Instantaneous velocity", "Average acceleration", "Instantaneous acceleration", "Total distance traveled"],
+"correct": 0
+},
+{
+"q": "A ball is thrown horizontally off a cliff with a speed of 12 m s⁻¹. After 2.0 s, what is the magnitude of its displacement from the point of release? (g = 9.81 m s⁻²)",
+"a": ["19.6 m", "27.5 m", "31.2 m", "43.1 m"],
+"correct": 1
+},
+{
+"q": "A train slows down uniformly from 30 m s⁻¹ to 10 m s⁻¹ while covering a distance of 200 m. What is the magnitude of its deceleration?",
+"a": ["1.0 m s⁻²", "1.5 m s⁻²", "2.0 m s⁻²", "2.5 m s⁻²"],
+"correct": 2
+},
+{
+"q": "A projectile is launched with velocity v at angle theta to the horizontal. What is its speed at the highest point of its trajectory?",
+"a": ["v", "v sin(theta)", "zero", "v cos(theta)"],
+"correct": 3
+},
+{
+"q": "An object moves in a straight line with constant acceleration. In 4.0 s, it travels 48 m, covering half this distance in the last 2.0 s. What is its initial velocity?",
+"a": ["8.0 m s⁻¹", "4.0 m s⁻¹", "12.0 m s⁻¹", "6.0 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "A ball is dropped from a tall building. As it falls through the air, terminal velocity is eventually reached. Which statement describes the forces and motion at terminal velocity?",
+"a": ["Acceleration is g and air resistance equals weight.", "Air resistance equals weight and acceleration is zero.", "Velocity is zero and net force is downwards.", "Air resistance is zero and velocity is maximum."],
+"correct": 1
+},
+{
+"q": "A stone is thrown upwards and reaches a maximum height of 15 m. What was its initial velocity of projection? (g = 9.81 m s⁻²)",
+"a": ["9.9 m s⁻¹", "14.0 m s⁻¹", "17.2 m s⁻¹", "24.3 m s⁻¹"],
+"correct": 2
+},
+{
+"q": "Which of the following kinematic equations is derived directly from the definition of acceleration and the area under a constant-acceleration velocity-time graph?",
+"a": ["v = u + at", "s = ut + 0.5 at²", "v² = u² + 2as", "All of the above"],
+"correct": 3
+},
+{
+"q": "A particle moves with position vector r = (3t² i + 4t j) m. What is the magnitude of its velocity at t = 1.0 s?",
+"a": ["7.21 m s⁻¹", "5.00 m s⁻¹", "10.0 m s⁻¹", "3.00 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "A ball is projected at an angle of 60 degrees to the horizontal with an initial speed of 20 m s⁻¹. What is the maximum height reached? (g = 9.81 m s⁻²)",
+"a": ["10.2 m", "15.3 m", "20.4 m", "30.6 m"],
+"correct": 1
+},
+{
+"q": "If the velocity-time graph of an object is a straight line with a negative slope not passing through the origin, the motion is characterized by:",
+"a": ["Increasing speed in the positive direction", "Constant positive acceleration", "Uniform negative acceleration (constant deceleration)", "Zero displacement"],
+"correct": 2
+},
+{
+"q": "A body falls from rest under gravity. Neglecting air resistance, what fraction of its total height of fall is traversed during the final second of its fall, given it takes 4.0 s to hit the ground?",
+"a": ["1/16", "3/16", "7/16", "15/16"],
+"correct": 3
+},
+{
+"q": "A driver traveling at 25 m s⁻¹ applies the brakes, producing a constant deceleration of 5.0 m s⁻². What is the total stopping distance?",
+"a": ["62.5 m", "125.0 m", "31.3 m", "25.0 m"],
+"correct": 0
+},
+{
+"q": "A rocket accelerates vertically upwards from rest with a constant acceleration of 4.0 m s⁻² for 10 s. It then runs out of fuel. What maximum height above the launch pad does it reach? (g = 9.81 m s⁻²)",
+"a": ["100 m", "282 m", "400 m", "582 m"],
+"correct": 1
+},
+{
+"q": "A particle moves along a straight line with acceleration a = 6t. If its initial velocity at t = 0 is 2 m s⁻¹ and initial displacement is zero, what is its displacement at t = 2 s?",
+"a": ["8 m", "12 m", "16 m", "20 m"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about projectiles in a vacuum is correct?",
+"a": ["The horizontal component of acceleration is equal to g.", "The path is an ellipse.", "The time of flight depends only on the horizontal component of initial velocity.", "The horizontal velocity remains constant throughout the motion."],
+"correct": 3
+},
+{
+"q": "A ball is thrown vertically down with an initial speed of 2 m s⁻¹. What distance does it cover in 3 seconds? (g = 9.81 m s⁻²)",
+"a": ["50.2 m", "31.4 m", "44.1 m", "60.0 m"],
+"correct": 0
+},
+{
+"q": "An object slides down a frictionless inclined plane of angle 30 degrees to the horizontal. What is its acceleration down the plane? (g = 9.81 m s⁻²)",
+"a": ["9.81 m s⁻²", "4.91 m s⁻²", "8.50 m s⁻²", "2.45 m s⁻²"],
+"correct": 1
+},
+{
+"q": "A car moving at 20 m s⁻¹ applies brakes and stops in 5 seconds. Assuming uniform deceleration, what is the distance it travels while braking?",
+"a": ["100 m", "25 m", "50 m", "10 m"],
+"correct": 2
+},
+{
+"q": "A stone is projected horizontally from the edge of a cliff. Which of the following graphs best represents the variation of its horizontal speed with time, assuming negligible air resistance?",
+"a": ["A straight line with a positive gradient", "A curve decreasing to zero", "A parabola", "A horizontal straight line"],
+"correct": 3
+}
+]
+}

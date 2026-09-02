@@ -1,0 +1,206 @@
+{
+  "id": "math-yr9-quizzes-quadratics",
+  "name": "Factorizing quadratic expressions",
+  "questions": [
+    {
+      "q": "Factorize completely: x² + 7x + 10",
+      "a": ["(x + 5)(x + 2)", "(x + 10)(x + 1)", "(x - 5)(x - 2)", "(x + 7)(x + 3)"],
+      "correct": 0
+    },
+    {
+      "q": "Factorize the expression: x² - 9",
+      "a": ["(x - 3)(x - 3)", "(x + 3)(x - 3)", "(x + 9)(x - 1)", "(x + 3)(x + 3)"],
+      "correct": 1
+    },
+    {
+      "q": "What are the factors of x² - 5x + 6?",
+      "a": ["(x + 6)(x - 1)", "(x + 3)(x + 2)", "(x - 3)(x - 2)", "(x - 6)(x + 1)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize: x² + 4x - 12",
+      "a": ["(x - 6)(x + 2)", "(x + 12)(x - 1)", "(x - 4)(x + 3)", "(x + 6)(x - 2)"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize completely: 2x² + 6x",
+      "a": ["2x(x + 3)", "x(2x + 6)", "2(x² + 3x)", "2x(x - 3)"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is the correct factorization of x² - 8x + 15?",
+      "a": ["(x - 5)(x - 3)", "(x - 5)(x - 3)", "(x + 5)(x + 3)", "(x - 8)(x + 1)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize: x² - 16",
+      "a": ["(x - 4)(x - 4)", "(x + 8)(x - 2)", "(x + 4)(x - 4)", "(x + 16)(x - 1)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize completely: x² + 11x + 24",
+      "a": ["(x + 12)(x + 2)", "(x + 24)(x + 1)", "(x + 6)(x + 4)", "(x + 8)(x + 3)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the fully factorized form of x² - 2x - 15?",
+      "a": ["(x - 5)(x + 3)", "(x - 5)(x - 3)", "(x + 5)(x - 3)", "(x - 15)(x + 1)"],
+      "correct": 0
+    },
+    {
+      "q": "Factorize: 3x² - 12x",
+      "a": ["3(x² - 4x)", "3x(x - 4)", "x(3x - 12)", "3x(x + 4)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize completely: x² + 9x + 20",
+      "a": ["(x + 10)(x + 2)", "(x + 20)(x + 1)", "(x + 5)(x + 4)", "(x - 5)(x - 4)"],
+      "correct": 2
+    },
+    {
+      "q": "Which expression is equivalent to (x + 7)(x - 7) when expanded?",
+      "a": ["x² + 14x - 49", "x² - 14x + 49", "x² + 49", "x² - 49"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize: x² - 7x - 18",
+      "a": ["(x - 9)(x + 2)", "(x - 6)(x + 3)", "(x + 9)(x - 2)", "(x - 9)(x - 2)"],
+      "correct": 0
+    },
+    {
+      "q": "Factorize completely: x² + 6x + 9",
+      "a": ["(x + 9)(x + 1)", "(x + 3)(x + 3)", "(x + 6)(x + 3)", "(x - 3)(x - 3)"],
+      "correct": 1
+    },
+    {
+      "q": "What are the factors of x² - 10x + 21?",
+      "a": ["(x - 21)(x - 1)", "(x - 7)(x + 3)", "(x - 7)(x - 3)", "(x + 7)(x + 3)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize: 5x² + 15x",
+      "a": ["5(x² + 3x)", "x(5x + 15)", "5x(x - 3)", "5x(x + 3)"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize completely: x² - 4x - 21",
+      "a": ["(x - 7)(x + 3)", "(x - 7)(x - 3)", "(x + 7)(x - 3)", "(x + 21)(x - 1)"],
+      "correct": 0
+    },
+    {
+      "q": "Which of these is a factor of x² + 5x - 14?",
+      "a": ["(x + 7)", "(x - 2)", "(x - 7)", "(x + 2)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize: x² - 25",
+      "a": ["(x - 5)(x - 5)", "(x + 25)(x - 1)", "(x + 5)(x - 5)", "(x + 5)(x + 5)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize completely: x² + 12x + 35",
+      "a": ["(x + 35)(x + 1)", "(x + 12)(x + 1)", "(x + 7)(x - 5)", "(x + 7)(x + 5)"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize: x² - x - 20",
+      "a": ["(x - 5)(x + 4)", "(x - 4)(x + 5)", "(x - 10)(x + 2)", "(x - 20)(x + 1)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the fully factorized form of x² + 14x + 49?",
+      "a": ["(x + 49)(x + 1)", "(x + 7)(x + 7)", "(x + 14)(x + 1)", "(x - 7)(x - 7)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize completely: x² - 13x + 36",
+      "a": ["(x - 36)(x - 1)", "(x - 13)(x - 1)", "(x - 9)(x - 4)", "(x + 9)(x + 4)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize: 4x² - 16x",
+      "a": ["4(x² - 4x)", "x(4x - 16)", "4x(x + 4)", "4x(x - 4)"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize completely: x² + 2x - 35",
+      "a": ["(x + 7)(x - 5)", "(x - 7)(x + 5)", "(x + 35)(x - 1)", "(x + 5)(x - 7)"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is a factor of x² - 11x + 24?",
+      "a": ["(x + 8)", "(x - 8)", "(x - 24)", "(x + 3)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize: x² - 81",
+      "a": ["(x - 9)(x - 9)", "(x + 81)(x - 1)", "(x + 9)(x - 9)", "(x + 9)(x + 9)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize completely: x² + 15x + 56",
+      "a": ["(x + 56)(x + 1)", "(x + 28)(x + 2)", "(x + 14)(x + 4)", "(x + 8)(x + 7)"],
+      "correct": 3
+    },
+    {
+      "q": "What are the factors of x² - 6x - 16?",
+      "a": ["(x - 8)(x + 2)", "(x - 8)(x - 2)", "(x + 8)(x - 2)", "(x - 16)(x + 1)"],
+      "correct": 0
+    },
+    {
+      "q": "Factorize completely: x² - 10x + 25",
+      "a": ["(x + 5)(x + 5)", "(x - 5)(x - 5)", "(x - 25)(x - 1)", "(x - 10)(x + 25)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize: 6x² + 18x",
+      "a": ["6(x² + 3x)", "x(6x + 18)", "6x(x + 3)", "6x(x - 3)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize completely: x² + 3x - 18",
+      "a": ["(x - 6)(x + 3)", "(x + 9)(x - 2)", "(x + 18)(x - 1)", "(x + 6)(x - 3)"],
+      "correct": 3
+    },
+    {
+      "q": "Factorize: x² - 12x + 35",
+      "a": ["(x - 7)(x - 5)", "(x - 7)(x + 5)", "(x + 7)(x + 5)", "(x - 35)(x - 1)"],
+      "correct": 0
+    },
+    {
+      "q": "Which expression represents the expanded form of (x - 6)(x + 6)?",
+      "a": ["x² - 12x + 36", "x² - 36", "x² + 36", "x² + 12x - 36"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize completely: x² + 8x + 15",
+      "a": ["(x + 15)(x + 1)", "(x + 8)(x + 1)", "(x + 5)(x + 3)", "(x - 5)(x - 3)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize: x² - 4x - 12",
+      "a": ["(x + 6)(x - 2)", "(x - 6)(x + 2)", "(x - 4)(x + 3)", "(x - 6)(x - 2)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the fully factorized form of x² - 14x + 48?",
+      "a": ["(x - 8)(x - 6)", "(x - 48)(x - 1)", "(x + 8)(x + 6)", "(x - 14)(x - 1)"],
+      "correct": 0
+    },
+    {
+      "q": "Factorize completely: x² + 7x - 18",
+      "a": ["(x - 9)(x + 2)", "(x + 9)(x - 2)", "(x + 6)(x - 3)", "(x - 6)(x + 3)"],
+      "correct": 1
+    },
+    {
+      "q": "Factorize: 7x² - 21x",
+      "a": ["7(x² - 3x)", "x(7x - 21)", "7x(x - 3)", "7x(x + 3)"],
+      "correct": 2
+    },
+    {
+      "q": "Factorize completely: x² + 10x + 21",
+      "a": ["(x + 21)(x + 1)", "(x + 10)(x + 1)", "(x + 7)(x - 3)", "(x + 7)(x + 3)"],
+      "correct": 3
+    }
+  ]
+}

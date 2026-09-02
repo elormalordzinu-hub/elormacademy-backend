@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-joints",
+"name": "Joints and skeletal health",
+"questions": [
+{
+"q": "What is the primary definition of a joint in the human skeletal system?",
+"a": ["A place where two or more bones meet", "A band of tissue that connects muscles to bones", "The hard outer mineralized layer of a bone", "A chamber inside bones that produces red blood cells"],
+"correct": 0
+},
+{
+"q": "Which type of joint allows movement in almost all directions, such as the hip and shoulder?",
+"a": ["Hinge joint", "Fixed joint", "Ball-and-socket joint", "Pivot joint"],
+"correct": 2
+},
+{
+"q": "Which type of joint allows back-and-forth movement in one plane, similar to a door?",
+"a": ["Ball-and-socket joint", "Hinge joint", "Suture joint", "Gliding joint"],
+"correct": 1
+},
+{
+"q": "What is the function of cartilage found at the ends of bones within a movable joint?",
+"a": ["To supply oxygen directly to bone cells", "To anchor tendons securely to the skeleton", "To absorb shock and reduce friction between bones", "To secrete liquid hormones for growth"],
+"correct": 2
+},
+{
+"q": "What fluid fills the space inside a movable joint capsule to lubricate and reduce friction?",
+"a": ["Synovial fluid", "Blood plasma", "Gastric juice", "Cerebrospinal fluid"],
+"correct": 0
+},
+{
+"q": "Which connective tissue holds bones together at a joint?",
+"a": ["Tendon", "Ligament", "Cartilage", "Muscle fiber"],
+"correct": 1
+},
+{
+"q": "Which of the following joints is classified as a fixed (immovable) joint?",
+"a": ["The knee joint", "The elbow joint", "The joints between plates of the skull", "The hip joint"],
+"correct": 2
+},
+{
+"q": "What is a common health condition characterized by inflammation, pain, and stiffness in the joints?",
+"a": ["Osteoporosis", "Arthritis", "Rickets", "Anemia"],
+"correct": 1
+},
+{
+"q": "Which nutritional deficiency causes bones to become soft and weak in children, often leading to skeletal deformities?",
+"a": ["Excess protein consumption", "Iron deficiency anemia", "Vitamin D or calcium deficiency", "Sodium deficiency"],
+"correct": 2
+},
+{
+"q": "What is osteoporosis?",
+"a": ["A condition where joints fill with excess synovial fluid", "The complete tearing of ligaments during sports", "The hardening of tendons into bone tissue", "A disease where bones lose mass and density, making them fragile and prone to breaking"],
+"correct": 3
+},
+{
+"q": "Which lifestyle habit promotes strong and healthy bones throughout life?",
+"a": ["Regular weight-bearing exercise and a balanced diet rich in calcium", "Complete physical rest and avoidance of all exercise", "A diet consisting entirely of refined sugars", "Smoking and heavy consumption of carbonated soft drinks"],
+"correct": 0
+},
+{
+"q": "What type of joint allows rotation, such as the joint allowing the head to turn from side to side?",
+"a": ["Hinge joint", "Pivot joint", "Ball-and-socket joint", "Fixed joint"],
+"correct": 1
+},
+{
+"q": "Which injury involves the stretching or tearing of a ligament supporting a joint?",
+"a": ["A fracture", "A sprain", "A strain", "A dislocation"],
+"correct": 1
+},
+{
+"q": "What occurs during a joint dislocation?",
+"a": ["The cartilage completely dissolves into liquid", "The tendon snaps in half due to lack of water", "The bones forming the joint are forced out of their normal alignment", "The bone marrow stops producing blood cells"],
+"correct": 2
+},
+{
+"q": "Why is regular physical activity beneficial for joint health?",
+"a": ["It wears away the bone ends completely", "It strengthens the surrounding muscles and helps circulate synovial fluid", "It hardens all movable joints into fixed joints", "It removes all cartilage from the body"],
+"correct": 1
+},
+{
+"q": "Which mineral is most abundant in healthy human bone tissue?",
+"a": ["Iron", "Magnesium", "Zinc", "Calcium"],
+"correct": 3
+},
+{
+"q": "Which vitamin helps the human body absorb calcium effectively from digested food?",
+"a": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of the joint capsule?",
+"a": ["To connect skeletal muscle directly to bone", "To transmit nerve impulses across the joint gap", "To enclose the joint and retain synovial fluid", "To pump blood through the joint tissues"],
+"correct": 2
+},
+{
+"q": "Which of these activities is considered a weight-bearing exercise that strengthens bones?",
+"a": ["Swimming in deep water", "Running or skipping rope", "Sitting completely still", "Lying down watching television"],
+"correct": 1
+},
+{
+"q": "What is the medical term for a broken or cracked bone?",
+"a": ["Sprain", "Dislocation", "Strain", "Fracture"],
+"correct": 3
+},
+{
+"q": "Which joint in the human body is an example of a hinge joint?",
+"a": ["The shoulder", "The hip", "The knee", "The wrist base"],
+"correct": 2
+},
+{
+"q": "Which joint in the human body is an example of a ball-and-socket joint?",
+"a": ["The elbow", "The knee", "The shoulder", "The finger knuckles"],
+"correct": 2
+},
+{
+"q": "What happens to joint cartilage as a person ages or experiences excessive wear and tear?",
+"a": ["It thickens into solid steel", "It turns into muscle tissue", "It can wear down, leading to pain and bone rubbing against bone", "It multiplies rapidly to double the size of the joint"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of a pivot joint?",
+"a": ["The knee joint", "The fixed skull sutures", "The joint between the atlas and axis vertebrae in the neck", "The connection between the ribs and sternum"],
+"correct": 2
+},
+{
+"q": "How does smoking negatively impact skeletal health?",
+"a": ["It increases bone density drastically", "It lubricates joints too much", "It strengthens cartilage production", "It can reduce bone mass and increase the risk of fractures"],
+"correct": 3
+},
+{
+"q": "What is the difference between a sprain and a strain?",
+"a": ["A sprain affects bones, whereas a strain affects skin", "A sprain affects ligaments, whereas a strain affects muscles or tendons", "A sprain is a broken bone, a strain is a fixed joint", "There is no difference; they mean the exact same thing"],
+"correct": 1
+},
+{
+"q": "Why do older adults have a higher risk of bone fractures from minor falls?",
+"a": ["Their joints accumulate too much synovial fluid", "Their muscles become permanently locked", "Their cartilage turns into bone", "Their bones naturally lose density and become more porous over time"],
+"correct": 3
+},
+{
+"q": "Which food group is especially important to include in a diet for maintaining strong bones and teeth?",
+"a": ["Processed sweets and sugary sodas", "Dairy products and leafy green vegetables rich in calcium", "Highly refined white bread with no fiber", "Pure vegetable oils"],
+"correct": 1
+},
+{
+"q": "What role do ligaments play in maintaining joint stability?",
+"a": ["They actively contract to bend the limb", "They dissolve bone tissue to release minerals", "They act as strong, slightly elastic cords that prevent excessive or unwanted movement", "They pump blood away from the joint"],
+"correct": 2
+},
+{
+"q": "What is rickets?",
+"a": ["An infection of the synovial fluid inside the knee", "A genetic disorder causing extra joints to form", "The swelling of tendons in the wrist", "A childhood bone disease caused by a lack of vitamin D or calcium, resulting in soft, weak bones"],
+"correct": 3
+},
+{
+"q": "Which of the following describes a gliding (plane) joint?",
+"a": ["A joint that rotates completely 360 degrees like a wheel", "A joint that cannot move under any circumstances", "A joint where flat bone surfaces slide past one another, such as in the wrist or ankle", "A joint powered entirely by smooth muscle"],
+"correct": 2
+},
+{
+"q": "How can excessive body weight impact skeletal joints, particularly the knees and hips?",
+"a": ["It protects the cartilage from ever wearing down", "It turns the joint capsule into bone", "It puts extra mechanical stress and load on the joint cartilage, increasing wear and tear", "It increases synovial fluid production infinitely"],
+"correct": 2
+},
+{
+"q": "What is the function of the membrane that lines the inside of a movable joint capsule?",
+"a": ["It produces red blood cells for the skeleton", "It connects muscle directly to bone", "It secretes synovial fluid into the joint cavity", "It transmits nerve pain signals to the brain"],
+"correct": 2
+},
+{
+"q": "If someone suffers from severe cartilage damage in their knee joint, what symptom are they most likely to report?",
+"a": ["Complete loss of skin sensation on the foot", "Uncontrolled muscle twitching in the calf", "Grating pain, stiffness, and difficulty bending the knee smoothly", "Inability to produce red blood cells"],
+"correct": 2
+},
+{
+"q": "Which of the following factors contributes most to peak bone mass during youth?",
+"a": ["Staying indoors and avoiding physical exertion", "Eating a low-protein, zero-mineral diet", "Adequate dietary calcium, vitamin D, and regular weight-bearing exercise", "Consuming high amounts of sugary energy drinks"],
+"correct": 2
+},
+{
+"q": "Why are ball-and-socket joints capable of a greater range of motion than hinge joints?",
+"a": ["They contain no cartilage or fluid", "They are locked in place by immovable sutures", "A spherical bone head fits into a cup-like socket, allowing rotation and movement in multiple planes", "They are connected directly to the nervous system"],
+"correct": 2
+},
+{
+"q": "What is a key sign that a joint injury might be a fracture rather than a simple sprain?",
+"a": ["Mild swelling that disappears in five minutes", "Flexibility remaining completely normal", "Deformity of the limb, inability to bear weight, and intense localized bone pain", "A total absence of pain"],
+"correct": 2
+},
+{
+"q": "What preventive measure is most effective against developing osteoporosis later in life?",
+"a": ["Waiting until old age to start drinking milk", "Avoiding all forms of exercise to save bone energy", "Building high bone density during childhood and adolescence through good nutrition and exercise", "Taking pain relievers daily from an early age"],
+"correct": 2
+},
+{
+"q": "How does sunlight exposure help maintain healthy bones?",
+"a": ["Sunlight directly hardens the outer layer of bone tissue", "Sunlight cools down the synovial fluid in joints", "Ultraviolet rays help the skin synthesize vitamin D, which is essential for calcium absorption", "Sunlight prevents muscles from cramping"],
+"correct": 2
+},
+{
+"q": "Which medical professional specializes in diagnosing and treating disorders and injuries of the skeletal system and joints?",
+"a": ["A dermatologist", "A cardiologist", "An orthopedic specialist or surgeon", "An ophthalmologist"],
+"correct": 2
+}
+]
+}

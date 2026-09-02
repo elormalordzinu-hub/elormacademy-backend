@@ -1,0 +1,206 @@
+{
+"id": "math-jhs1-quizzes-ratios-proportions",
+"name": "Ratios & Proportions",
+"questions": [
+{
+"q": "What term describes a comparison of two quantities of the same kind using division?",
+"a": ["Ratio", "Percentage", "Fraction", "Proportion"],
+"correct": 0
+},
+{
+"q": "Simplify the ratio 24:36 to its lowest terms.",
+"a": ["3:4", "2:3", "4:5", "3:5"],
+"correct": 1
+},
+{
+"q": "Divide GH₵ 720 between two brothers, Kofi and Kwaku, in the ratio 5:4. How much does Kwaku receive?",
+"a": ["GH₵ 400", "GH₵ 360", "GH₵ 320", "GH₵ 450"],
+"correct": 2
+},
+{
+"q": "If 5 mangoes cost GH₵ 15.00, how much will 12 mangoes cost at the same rate?",
+"a": ["GH₵ 30.00", "GH₵ 40.00", "GH₵ 45.00", "GH₵ 36.00"],
+"correct": 3
+},
+{
+"q": "Express the ratio 45 minutes to 2 hours in its simplest form.",
+"a": ["3:8", "1:3", "3:5", "2:5"],
+"correct": 0
+},
+{
+"q": "If a map uses a scale of 1 cm to represent 50 km, what actual distance does 7 cm represent?",
+"a": ["250 km", "350 km", "300 km", "400 km"],
+"correct": 1
+},
+{
+"q": "Find the missing term in the equivalent ratio: 7:9 = x:45.",
+"a": ["28", "30", "35", "40"],
+"correct": 2
+},
+{
+"q": "A school has 450 pupils, and the ratio of boys to girls is 4:5. How many girls are in the school?",
+"a": ["200", "220", "270", "250"],
+"correct": 3
+},
+{
+"q": "If 6 men can clear a piece of land in 4 days, how many days will 8 men take, working at the same rate?",
+"a": ["3 days", "6 days", "5 days", "4 days"],
+"correct": 0
+},
+{
+"q": "What is the ratio of 1.5 kg to 750 grams in its simplest form?",
+"a": ["1:2", "2:1", "3:2", "5:2"],
+"correct": 1
+},
+{
+"q": "Two numbers are in the ratio 3:7. If their sum is 120, what is the smaller number?",
+"a": ["42", "70", "36", "48"],
+"correct": 2
+},
+{
+"q": "If 12 liters of fuel cost GH₵ 180.00, how many liters can be bought with GH₵ 300.00?",
+"a": ["15 liters", "18 liters", "24 liters", "20 liters"],
+"correct": 3
+},
+{
+"q": "In a poultry farm, the ratio of layers to broilers is 7:3. If there are 210 layers, how many broilers are there?",
+"a": ["90", "70", "100", "60"],
+"correct": 0
+},
+{
+"q": "A recipe requires flour and sugar in the ratio 5:2. If 350 grams of flour is used, how much sugar is needed?",
+"a": ["100 grams", "140 grams", "120 grams", "160 grams"],
+"correct": 1
+},
+{
+"q": "Divide GH₵ 1,200 among three partners A, B, and C in the ratio 2:3:5. How much does the highest earner get?",
+"a": ["GH₵ 360", "GH₵ 480", "GH₵ 600", "GH₵ 720"],
+"correct": 2
+},
+{
+"q": "If 4 artisans complete a project in 15 days, how many artisans are needed to complete the same project in 6 days?",
+"a": ["8", "6", "12", "10"],
+"correct": 3
+},
+{
+"q": "The ages of Ama and Kofi are in the ratio 4:7. If Ama is 16 years old, how old is Kofi?",
+"a": ["28 years", "24 years", "32 years", "21 years"],
+"correct": 0
+},
+{
+"q": "Express the ratio 750 ml to 3 liters in its simplest form.",
+"a": ["1:3", "1:4", "2:5", "3:10"],
+"correct": 1
+},
+{
+"q": "If 8 bags of cement weigh 400 kg, what is the weight of 15 bags of cement?",
+"a": ["650 kg", "700 kg", "750 kg", "800 kg"],
+"correct": 2
+},
+{
+"q": "What is the scale factor of an enlargement if a line segment of length 4 cm is increased to 12 cm?",
+"a": ["2", "4", "5", "3"],
+"correct": 3
+},
+{
+"q": "The ratio of red beads to blue beads in a bag is 5:3. If there are 64 beads in total, how many are red?",
+"a": ["40", "36", "24", "45"],
+"correct": 0
+},
+{
+"q": "If 3 pipes fill a tank in 20 minutes, how long will it take 5 pipes of the same size to fill the same tank?",
+"a": ["10 minutes", "12 minutes", "15 minutes", "18 minutes"],
+"correct": 1
+},
+{
+"q": "A car uses 8 liters of petrol to travel 96 km. How far can it travel on 14 liters of petrol?",
+"a": ["150 km", "160 km", "168 km", "175 km"],
+"correct": 2
+},
+{
+"q": "If x:8 = 15:24, what is the value of x?",
+"a": ["3", "6", "4", "5"],
+"correct": 3
+},
+{
+"q": "The angles of a triangle are in the ratio 2:3:4. What is the size of the largest angle?",
+"a": ["80 degrees", "60 degrees", "40 degrees", "100 degrees"],
+"correct": 0
+},
+{
+"q": "If 10 workers take 12 days to build a wall, how many days will 15 workers take?",
+"a": ["10 days", "8 days", "9 days", "6 days"],
+"correct": 1
+},
+{
+"q": "Find the ratio of 1 hour 15 minutes to 45 minutes in its simplest form.",
+"a": ["3:2", "4:3", "5:3", "5:4"],
+"correct": 2
+},
+{
+"q": "A sum of money is shared between Yaw and Akosua in the ratio 3:5. If Akosua receives GH₵ 75.00 more than Yaw, what is the total sum shared?",
+"a": ["GH₵ 250.00", "GH₵ 200.00", "GH₵ 350.00", "GH₵ 300.00"],
+"correct": 3
+},
+{
+"q": "If 7 meters of fabric cost GH₵ 105.00, find the cost of 12 meters of the same fabric.",
+"a": ["GH₵ 180.00", "GH₵ 160.00", "GH₵ 150.00", "GH₵ 190.00"],
+"correct": 0
+},
+{
+"q": "The ratio of water to juice in a mixture is 4:1. If the total mixture is 50 liters, how much water is in the mixture?",
+"a": ["30 liters", "40 liters", "25 liters", "35 liters"],
+"correct": 1
+},
+{
+"q": "If 5 books weigh 1.2 kg, what is the weight of 15 books?",
+"a": ["3.0 kg", "4.0 kg", "3.6 kg", "4.5 kg"],
+"correct": 2
+},
+{
+"q": "Two quantities are in direct proportion. When x = 4, y = 28. What is the value of y when x = 9?",
+"a": ["56", "72", "60", "63"],
+"correct": 3
+},
+{
+"q": "If the scale on a drawing is 1:200, what is the actual length represented by a line of 6 cm on the drawing?",
+"a": ["12 meters", "15 meters", "10 meters", "8 meters"],
+"correct": 0
+},
+{
+"q": "A contractor increases his workforce from 12 to 18 workers. If a job originally scheduled took 9 days, how many days will the new workforce take?",
+"a": ["5 days", "6 days", "7 days", "8 days"],
+"correct": 1
+},
+{
+"q": "The ratio of boys to girls in a club is 5:4. If there are 45 boys, what is the total membership of the club?",
+"a": ["72", "76", "81", "90"],
+"correct": 2
+},
+{
+"q": "If 2.5 kg of meat costs GH₵ 75.00, how many kilograms can be bought with GH₵ 135.00?",
+"a": ["4.0 kg", "3.5 kg", "5.0 kg", "4.5 kg"],
+"correct": 3
+},
+{
+"q": "Divide 560 into three parts in the ratio 1:2:5. What is the value of the middle part?",
+"a": ["140", "70", "280", "210"],
+"correct": 0
+},
+{
+"q": "If a machine prints 250 pages in 5 minutes, how many pages can it print in 12 minutes?",
+"a": ["500 pages", "600 pages", "550 pages", "650 pages"],
+"correct": 1
+},
+{
+"q": "The ratio of the length of a rectangle to its width is 7:4. If the perimeter is 66 cm, find the length.",
+"a": ["18 cm", "24 cm", "21 cm", "28 cm"],
+"correct": 2
+},
+{
+"q": "If inverse proportionality applies, and 4 pumps empty a reservoir in 9 hours, how many hours will 6 pumps take?",
+"a": ["8 hours", "5 hours", "7 hours", "6 hours"],
+"correct": 3
+}
+]
+}

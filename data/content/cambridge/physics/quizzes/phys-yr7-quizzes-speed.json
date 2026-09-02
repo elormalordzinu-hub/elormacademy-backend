@@ -1,0 +1,206 @@
+{
+"id": "phys-yr7-quizzes-speed",
+"name": "Speed distance and time relationships",
+"questions": [
+{
+"q": "What is the standard scientific definition of speed?",
+"a": ["Distance travelled per unit time", "Time taken per unit mass", "Force applied per unit distance", "Weight multiplied by acceleration"],
+"correct": 0
+},
+{
+"q": "Which of the following is an SI derived unit for speed?",
+"a": ["kilometres per hour (km/h)", "metres per second (m/s)", "miles per hour (mph)", "centimetres per minute (cm/min)"],
+"correct": 1
+},
+{
+"q": "Which formula is used to calculate the speed of an object moving at a constant rate?",
+"a": ["Speed = Distance × Time", "Speed = Time / Distance", "Speed = Distance / Time", "Speed = Mass / Volume"],
+"correct": 2
+},
+{
+"q": "If a car travels a distance of 150 metres in 10 seconds, what is its average speed?",
+"a": ["1500 m/s", "1.5 m/s", "15 m/s", "60 m/s"],
+"correct": 3
+},
+{
+"q": "How can you calculate the total distance travelled if you know the constant speed and the time taken?",
+"a": ["Distance = Speed × Time", "Distance = Speed / Time", "Distance = Time / Speed", "Distance = Speed + Time"],
+"correct": 0
+},
+{
+"q": "A runner maintains a constant speed of 4 m/s for 12 seconds. What distance does the runner cover?",
+"a": ["3 metres", "48 metres", "16 metres", "0.33 metres"],
+"correct": 1
+},
+{
+"q": "If a train travels 240 kilometres in 3 hours, what is its average speed in km/h?",
+"a": ["720 km/h", "60 km/h", "80 km/h", "90 km/h"],
+"correct": 2
+},
+{
+"q": "How long will it take a cyclist traveling at a steady speed of 5 m/s to cover a distance of 100 metres?",
+"a": ["500 seconds", "20 minutes", "5 seconds", "20 seconds"],
+"correct": 3
+},
+{
+"q": "What does a horizontal (flat) straight line on a distance-time graph indicate about an object's motion?",
+"a": ["The object is stationary (stopped)", "The object is moving at high speed", "The object is accelerating rapidly", "The object is moving backward"],
+"correct": 0
+},
+{
+"q": "What does a steeper slope (gradient) on a distance-time graph represent?",
+"a": ["A slower speed", "A higher speed", "A shorter time", "A heavier mass"],
+"correct": 1
+},
+{
+"q": "Which of the following describes a scalar quantity?",
+"a": ["A quantity that has both magnitude and a specific direction", "A quantity measured only in newtons", "A quantity that has magnitude (size) only, such as speed", "A quantity that changes with temperature"],
+"correct": 2
+},
+{
+"q": "On a distance-time graph, what physical quantity does the gradient (slope) of the line represent?",
+"a": ["Acceleration", "Distance", "Time", "Speed"],
+"correct": 3
+},
+{
+"q": "If a runner completes a 400-metre lap in 50 seconds, what is their average speed?",
+"a": ["8 m/s", "50 m/s", "450 m/s", "0.125 m/s"],
+"correct": 0
+},
+{
+"q": "A spacecraft travels at 10,000 m/s. How far does it travel in 5 seconds?",
+"a": ["50,000 metres", "2,000 metres", "500,000 metres", "10,005 metres"],
+"correct": 1
+},
+{
+"q": "If an object covers equal distances in equal intervals of time, what type of motion is it exhibiting?",
+"a": ["Decelerating motion", "Random motion", "Constant (uniform) speed", "Accelerating motion"],
+"correct": 2
+},
+{
+"q": "Which instrument or setup is commonly used in school laboratories to measure the short time taken for a trolley to pass through light gates?",
+"a": ["A standard hourglass", "A wall clock", "A calendar", "An electronic timer or data logger connected to light gates"],
+"correct": 3
+},
+{
+"q": "Convert a speed of 20 metres per second into distance covered in 1 minute (60 seconds).",
+"a": ["1,200 metres", "80 metres", "3 metres", "600 metres"],
+"correct": 0
+},
+{
+"q": "What is the primary difference between speed and velocity in physics?",
+"a": ["Velocity has magnitude only, while speed has direction", "Velocity includes direction of motion, while speed is magnitude only", "Speed is measured in kg and velocity in metres", "There is no difference between them"],
+"correct": 1
+},
+{
+"q": "A bird flies 30 kilometres in 2 hours. What is its average speed?",
+"a": ["60 km/h", "30 km/h", "15 km/h", "45 km/h"],
+"correct": 2
+},
+{
+"q": "If you drive a car for 4 hours at an average speed of 60 km/h, what total distance do you cover?",
+"a": ["15 km", "240 m", "120 km", "240 km"],
+"correct": 3
+},
+{
+"q": "What formula can be used to calculate the time taken if you know the distance and the constant speed?",
+"a": ["Time = Distance / Speed", "Time = Speed × Distance", "Time = Distance + Speed", "Time = Speed / Distance"],
+"correct": 0
+},
+{
+"q": "A runner accelerates from the starting block. What does an upward curving line on a distance-time graph indicate?",
+"a": ["Constant speed", "Increasing speed (acceleration)", "Decreasing speed", "The object has stopped"],
+"correct": 1
+},
+{
+"q": "If a sprinter runs 100 metres in 10 seconds, what is their speed?",
+"a": ["1 m/s", "5 m/s", "10 m/s", "1000 m/s"],
+"correct": 2
+},
+{
+"q": "Which of the following best represents instantaneous speed?",
+"a": ["The total distance divided by the total time of a long journey", "The speed calculated over an entire day", "The average speed during a school term", "The speed of a vehicle at one specific exact moment in time"],
+"correct": 3
+},
+{
+"q": "If a toy car travels 50 cm in 5 seconds, what is its speed?",
+"a": ["10 cm/s", "25 cm/s", "55 cm/s", "0.1 cm/s"],
+"correct": 0
+},
+{
+"q": "Why is it more accurate to calculate 'average speed' rather than 'instantaneous speed' for a long bus journey through traffic?",
+"a": ["Traffic lights and stops cause the actual speed to constantly change throughout the trip", "Buses cannot move at constant speeds", "Average speed is always zero", "Instantaneous speed cannot be measured"],
+"correct": 1
+},
+{
+"q": "A wave travels across a pond, covering 12 metres in 4 seconds. What is the speed of the wave?",
+"a": ["48 m/s", "36 m/s", "3 m/s", "8 m/s"],
+"correct": 2
+},
+{
+"q": "If an object's distance-time graph shows a straight diagonal line sloping upwards from left to right, what does it mean?",
+"a": ["The object is standing still", "The object is moving backwards", "The object is slowing down to a stop", "The object is moving at a steady, constant speed"],
+"correct": 3
+},
+{
+"q": "An athlete runs around a 400-metre running track at a constant speed, returning to the exact starting point in 80 seconds. What is their average speed?",
+"a": ["5 m/s", "320 m/s", "400 m/s", "0.2 m/s"],
+"correct": 0
+},
+{
+"q": "How far will a boat travel in 3 hours if it moves at a steady speed of 25 km/h?",
+"a": ["8.33 km", "75 km", "50 km", "100 km"],
+"correct": 1
+},
+{
+"q": "If a pedestrian walks at an average speed of 1.5 m/s, how long will it take them to walk 300 metres?",
+"a": ["450 seconds", "150 seconds", "200 seconds", "300 seconds"],
+"correct": 2
+},
+{
+"q": "What units are typically used to measure the speed of a commercial passenger airplane on a long-haul flight?",
+"a": ["metres per millisecond", "centimetres per hour", "millimetres per second", "kilometres per hour (km/h)"],
+"correct": 3
+},
+{
+"q": "A bicycle travels 15 kilometres in 45 minutes (0.75 hours). What is its average speed?",
+"a": ["20 km/h", "11.25 km/h", "60 km/h", "15 km/h"],
+"correct": 0
+},
+{
+"q": "Which of the following physical scenarios describes deceleration (slowing down)?",
+"a": ["A ball rolling down a steep hill getting faster", "A car applying its brakes as it approaches a red traffic light", "A runner maintaining a steady pace", "A stationary book resting on a desk"],
+"correct": 1
+},
+{
+"q": "If light travels at an enormous speed of approximately 300,000 km/s, how far does it travel in 1 second?",
+"a": ["3,000 kilometres", "30,000 kilometres", "300,000 kilometres", "3,000,000 kilometres"],
+"correct": 2
+},
+{
+"q": "What does a downward curving line on a distance-time graph typically indicate?",
+"a": ["An increase in speed", "Constant high speed", "Negative distance", "Deceleration (the object is slowing down as time progresses)"],
+"correct": 3
+},
+{
+"q": "A snail crawls 12 centimetres in 1 minute (60 seconds). What is its average speed?",
+"a": ["0.2 cm/s", "720 cm/s", "12 cm/s", "60 cm/s"],
+"correct": 0
+},
+{
+"q": "If a runner's speed-time graph shows a horizontal line above zero, what does this tell us about their speed?",
+"a": ["Their speed is zero", "Their speed is constant and unchanging", "They are speeding up rapidly", "They are running backwards"],
+"correct": 1
+},
+{
+"q": "Which of these everyday objects moves at the lowest typical speed?",
+"a": ["A commercial jet", "A cheetah", "A garden slug", "A racing car"],
+"correct": 2
+},
+{
+"q": "Why are speed limit signs important on public roads?",
+"a": ["To make journeys take longer", "To increase fuel consumption", "To decorate the roadside", "To ensure road safety and reduce the risk of severe traffic accidents"],
+"correct": 3
+}
+]
+}

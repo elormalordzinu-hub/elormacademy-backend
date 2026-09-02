@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-trig",
+  "name": "Trigonometric identities and equations",
+  "questions": [
+    {
+      "q": "Which of the following is identically equal to sin(x) / cos(x) for all valid angles x?",
+      "a": ["tan(x)", "cot(x)", "sec(x)", "cosec(x)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the exact value of sin(30°)cos(60°) + cos(30°)sin(60°)?",
+      "a": ["0", "1", "1 / 2", "√3 / 2"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following represents the fundamental Pythagorean trigonometric identity?",
+      "a": ["1 + cot²(x) = cosec²(x)", "tan²(x) + 1 = sin²(x)", "sin²(x) + cos²(x) = 1", "sec²(x) - 1 = cot²(x)"],
+      "correct": 2
+    },
+    {
+      "q": "Solve the equation 2 sin(x) = 1 for the principal interval from 0° to 360°.",
+      "a": ["30° and 150°", "60° and 120°", "45° and 135°", "30° and 150°"],
+      "correct": 3
+    },
+    {
+      "q": "Which expression is identically equal to sec²(x) in terms of standard trigonometric ratios?",
+      "a": ["1 / cos²(x)", "1 / sin²(x)", "cos²(x) / sin²(x)", "1 / tan²(x)"],
+      "correct": 0
+    },
+    {
+      "q": "Find all solutions to tan(x) = 1 in the interval from 0° to 360°.",
+      "a": ["45° and 225°", "30° and 210°", "60° and 240°", "135° and 315°"],
+      "correct": 1
+    },
+    {
+      "q": "Using the double-angle formula for cosine, which of the following is an alternative expression for cos(2x)?",
+      "a": ["2 cos²(x) - 1", "1 - 2 sin²(x)", "Both 2 cos²(x) - 1 and 1 - 2 sin²(x)", "2 sin(x) cos(x)"],
+      "correct": 2
+    },
+    {
+      "q": "What is the exact value of cos(75°) derived via compound angle expansions?",
+      "a": ["(√6 + √2) / 4", "(√6 - √2) / 2", "(√3 - 1) / 4", "(√6 - √2) / 4"],
+      "correct": 3
+    },
+    {
+      "q": "Simplify the expression (1 - sin²(x)) sec²(x).",
+      "a": ["1", "0", "tan²(x)", "cot²(x)"],
+      "correct": 0
+    },
+    {
+      "q": "Solve the quadratic trigonometric equation 2 cos²(x) - cos(x) - 1 = 0 for 0° ≤ x < 360°.",
+      "a": ["60°, 180°, 300°", "60°, 300°", "0°, 120°, 240°", "30°, 150°, 270°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the exact value of sin(15°)?",
+      "a": ["(√6 + √2) / 4", "(√3 - 1) / 2", "(√6 - √2) / 4", "(√2 - √6) / 4"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following expressions evaluates to 1 for all valid angles x?",
+      "a": ["sin²(x) - cos²(x)", "sec²(x) + tan²(x)", "cosec²(x) + cot²(x)", "cosec²(x) - cot²(x)"],
+      "correct": 3
+    },
+    {
+      "q": "Express 3 sin(x) + 4 cos(x) in the form R sin(x + α), where α is acute.",
+      "a": ["5 sin(x + 53.1°)", "5 sin(x + 36.9°)", "7 sin(x + 45°)", "5 cos(x - 53.1°)"],
+      "correct": 0
+    },
+    {
+      "q": "Solve the equation sin(2x) = 0.5 for the domain 0° ≤ x ≤ 180°.",
+      "a": ["15° and 75°", "15°, 75°", "30° and 150°", "30°, 150°, 210°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the maximum value of the function f(x) = 5 - 3 cos(x)?",
+      "a": ["2", "3", "8", "5"],
+      "correct": 2
+    },
+    {
+      "q": "Which identity correctly defines the double-angle expression for tan(2x)?",
+      "a": ["2 tan(x) / (1 + tan²(x))", "sin(x) / cos(x)", "1 - tan²(x) / (2 tan(x))", "2 tan(x) / (1 - tan²(x))"],
+      "correct": 3
+    },
+    {
+      "q": "Solve 3 tan²(x) - 1 = 0 for the interval 0° ≤ x ≤ 360°.",
+      "a": ["30°, 150°, 210°, 330°", "60°, 120°, 240°, 300°", "45°, 135°, 225°, 315°", "30° and 210° only"],
+      "correct": 0
+    },
+    {
+      "q": "What is the general solution for cos(x) = 0 in radians?",
+      "a": ["x = nπ", "x = π / 2 + nπ", "x = 2nπ", "x = π / 4 + nπ"],
+      "correct": 1
+    },
+    {
+      "q": "Simplify the fraction sin(2x) / (1 + cos(2x)).",
+      "a": ["cot(x)", "cos(x)", "tan(x)", "sin(x)"],
+      "correct": 2
+    },
+    {
+      "q": "Find the range of values for k for which the equation cos(x) = k - 2 has real solutions.",
+      "a": ["-1 ≤ k ≤ 1", "0 ≤ k ≤ 2", "1 ≤ k ≤ 3", "1 ≤ k ≤ 3"],
+      "correct": 3
+    },
+    {
+      "q": "Solve sin(x) = -0.5 for the interval 0° ≤ x ≤ 360°.",
+      "a": ["210° and 330°", "150° and 330°", "30° and 210°", "120° and 300°"],
+      "correct": 0
+    },
+    {
+      "q": "What is the exact value of tan(75°)?",
+      "a": ["1 + √3", "2 + √3", "√3 - 1", "√6 + √2"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following correctly expands sin(A + B)?",
+      "a": ["cos(A) cos(B) - sin(A) sin(B)", "cos(A) sin(B) + sin(A) cos(B)", "sin(A) cos(B) + cos(A) sin(B)", "sin(A) sin(B) - cos(A) cos(B)"],
+      "correct": 2
+    },
+    {
+      "q": "If sin(x) = 3 / 5 and x is an obtuse angle, what is the exact value of cos(x)?",
+      "a": ["4 / 5", "-3 / 5", "3 / 5", "-4 / 5"],
+      "correct": 3
+    },
+    {
+      "q": "Solve the shifted trigonometric equation cos(x + 30°) = 0.5 for 0° ≤ x ≤ 360°.",
+      "a": ["0° and 300°", "30° and 270°", "60° and 300°", "90° and 210°"],
+      "correct": 0
+    },
+    {
+      "q": "What is the fundamental period of the function f(x) = 3 tan(2x)?",
+      "a": ["π", "π / 2", "2π", "π / 4"],
+      "correct": 1
+    },
+    {
+      "q": "Express 5 cos(x) - 12 sin(x) in the form R cos(x + α) with α acute.",
+      "a": ["13 cos(x - 67.4°)", "13 cos(x + 22.6°)", "13 cos(x + 67.4°)", "13 cos(x - 22.6°)"],
+      "correct": 2
+    },
+    {
+      "q": "Find the exact value of sin(105°).",
+      "a": ["(√6 - √2) / 4", "(√3 + 1) / 4", "(√2 + √3) / 2", "(√6 + √2) / 4"],
+      "correct": 3
+    },
+    {
+      "q": "Simplify the product (sec(x) - tan(x))(sec(x) + tan(x)).",
+      "a": ["1", "0", "2 tan²(x)", "sec²(x)"],
+      "correct": 0
+    },
+    {
+      "q": "What are the solutions to sin²(x) = 3 cos²(x) in the interval 0° ≤ x ≤ 180°?",
+      "a": ["30°", "60°", "45°", "120°"],
+      "correct": 1
+    },
+    {
+      "q": "Find the minimum value of the function f(x) = 4 + 5 sin(3x - 10°).",
+      "a": ["-1", "0", "-1", "9"],
+      "correct": 2
+    },
+    {
+      "q": "Solve the trigonometric equation 2 sin²(x) + sin(x) - 1 = 0 for 0° ≤ x < 360°.",
+      "a": ["30°, 150°, 270°", "30°, 210°, 330°", "90°, 210°, 330°", "30°, 150°, 330°"],
+      "correct": 3
+    },
+    {
+      "q": "Which expression is identically equal to cos(A - B)?",
+      "a": ["cos(A) cos(B) + sin(A) sin(B)", "sin(A) cos(B) - cos(A) sin(B)", "cos(A) cos(B) - sin(A) sin(B)", "sin(A) sin(B) + cos(A) cos(B)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the derivative of sin(kx) with respect to x?",
+      "a": ["-k cos(kx)", "k cos(kx)", "-sin(kx)", "k sin(kx)"],
+      "correct": 1
+    },
+    {
+      "q": "Solve the equation cot(x) = √3 for 0° < x < 360°.",
+      "a": ["30° and 210°", "60° and 240°", "30° and 210°", "45° and 225°"],
+      "correct": 2
+    },
+    {
+      "q": "What is the exact value of cos(22.5°)?",
+      "a": ["√(2 - √2) / 2", "√(1 + √2) / 2", "√(2 + √2) / 2", "√(2 + √2) / 2"],
+      "correct": 3
+    },
+    {
+      "q": "Find the number of real intersection solutions to the graphical equation sin(x) = x / 10.",
+      "a": ["7", "5", "3", "1"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following trigonometric functions features an amplitude of 4 and a period of π?",
+      "a": ["y = 4 sin(4x)", "y = 4 sin(2x)", "y = 2 sin(4x)", "y = sin(4x)"],
+      "correct": 1
+    },
+    {
+      "q": "Simplify the co-function expression sin(90° - θ).",
+      "a": ["-sin(θ)", "-cos(θ)", "cos(θ)", "tan(θ)"],
+      "correct": 2
+    },
+    {
+      "q": "For what values of x is the secant function f(x) = sec(x) undefined?",
+      "a": ["x = nπ", "x = 2nπ", "x = π + 2nπ", "x = π / 2 + nπ"],
+      "correct": 3
+    }
+  ]
+}

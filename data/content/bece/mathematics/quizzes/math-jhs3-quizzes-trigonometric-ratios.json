@@ -1,0 +1,206 @@
+{
+"id": "math-jhs3-quizzes-trigonometric-ratios",
+"name": "Trigonometric Ratios",
+"questions": [
+{
+"q": "In a right-angled triangle, which trigonometric ratio is defined as the ratio of the length of the opposite side to the length of the hypotenuse?",
+"a": ["Sine", "Cosine", "Tangent", "Secant"],
+"correct": 0
+},
+{
+"q": "What is the mnemonic commonly used to remember the three main trigonometric ratios (Sine, Cosine, and Tangent)?",
+"a": ["ABC", "SOHCAHTOA", "PEMDAS", "BODMAS"],
+"correct": 1
+},
+{
+"q": "Which trigonometric ratio represents the adjacent side divided by the hypotenuse in a right-angled triangle?",
+"a": ["Sine", "Tangent", "Cosine", "Cotangent"],
+"correct": 2
+},
+{
+"q": "What is the ratio of the opposite side to the adjacent side in a right-angled triangle?",
+"a": ["Sine", "Cosine", "Hypotenuse", "Tangent"],
+"correct": 3
+},
+{
+"q": "If in a right-angled triangle the opposite side is 3 cm and the hypotenuse is 5 cm, what is the sine of the angle?",
+"a": ["3/5", "4/5", "3/4", "5/3"],
+"correct": 0
+},
+{
+"q": "What is the value of the cosine of 0 degrees?",
+"a": ["0", "1", "0.5", "Undefined"],
+"correct": 1
+},
+{
+"q": "In a right-angled triangle, if the adjacent side is 4 cm and the hypotenuse is 5 cm, what is the cosine of the angle?",
+"a": ["3/5", "4/3", "4/5", "5/4"],
+"correct": 2
+},
+{
+"q": "What is the tangent of 45 degrees in a right-angled isosceles triangle?",
+"a": ["0", "0.5", "√3", "1"],
+"correct": 3
+},
+{
+"q": "What is the sine of 30 degrees?",
+"a": ["0.5", "0.866", "1", "0"],
+"correct": 0
+},
+{
+"q": "What is the cosine of 60 degrees?",
+"a": ["0", "0.5", "0.866", "1"],
+"correct": 1
+},
+{
+"q": "If the angle of elevation of the top of a tree from a point on the ground 10 metres away is 45 degrees, what is the height of the tree?",
+"a": ["5 metres", "10√3 metres", "10 metres", "20 metres"],
+"correct": 2
+},
+{
+"q": "What is the angle of depression compared to the angle of elevation when viewed between two horizontal parallel lines of sight?",
+"a": ["They are supplementary", "They are unequal", "The angle of depression is greater", "They are equal (alternate interior angles)"],
+"correct": 3
+},
+{
+"q": "In a right-angled triangle ABC with angle B = 90°, if AB = 3 cm and BC = 4 cm, what is the length of the hypotenuse AC?",
+"a": ["5 cm", "7 cm", "25 cm", "1 cm"],
+"correct": 0
+},
+{
+"q": "What is the value of the sine of 90 degrees?",
+"a": ["0", "1", "0.5", "Undefined"],
+"correct": 1
+},
+{
+"q": "If the tangent of an angle is equal to 1, what is the measure of the angle in degrees?",
+"a": ["30°", "60°", "45°", "90°"],
+"correct": 2
+},
+{
+"q": "Which trigonometric ratio would you use to find an unknown adjacent side if you know the opposite side and the angle?",
+"a": ["Sine", "Cosine", "Hypotenuse formula", "Tangent"],
+"correct": 3
+},
+{
+"q": "What is the cosine of 0 degrees?",
+"a": ["1", "0", "0.5", "√3/2"],
+"correct": 0
+},
+{
+"q": "If a ladder 10 metres long leans against a vertical wall and makes an angle of 30 degrees with the ground, how high up the wall does the ladder reach?",
+"a": ["10 metres", "5 metres", "8.66 metres", "5√3 metres"],
+"correct": 1
+},
+{
+"q": "What is the value of the sine of 60 degrees?",
+"a": ["0.5", "1", "√3/2", "0"],
+"correct": 2
+},
+{
+"q": "What is the term for the angle measured upwards from the horizontal line of sight to an object above?",
+"a": ["Angle of depression", "Interior angle", "Acute angle", "Angle of elevation"],
+"correct": 3
+},
+{
+"q": "If the cosine of an acute angle is 0.5, what is the measure of the angle?",
+"a": ["60°", "30°", "45°", "90°"],
+"correct": 0
+},
+{
+"q": "What is the value of the tangent of 0 degrees?",
+"a": ["1", "0", "Undefined", "0.5"],
+"correct": 1
+},
+{
+"q": "In a right-angled triangle, if both legs (opposite and adjacent) are equal in length, what is the value of the tangent of the acute angle between the hypotenuse and the adjacent side?",
+"a": ["0", "0.5", "1", "2"],
+"correct": 2
+},
+{
+"q": "An observer on a cliff 20 metres high looks down at a boat on the sea. What term describes the angle between the horizontal line of sight and the line of sight to the boat?",
+"a": ["Angle of elevation", "Right angle", "Reflex angle", "Angle of depression"],
+"correct": 3
+},
+{
+"q": "Which side of a right-angled triangle is always the longest side?",
+"a": ["Hypotenuse", "Opposite side", "Adjacent side", "Base"],
+"correct": 0
+},
+{
+"q": "If sin(x) = cos(x) for an acute angle x, what is the value of x?",
+"a": ["30°", "45°", "60°", "90°"],
+"correct": 1
+},
+{
+"q": "What is the value of the cosine of 90 degrees?",
+"a": ["1", "0.5", "0", "Undefined"],
+"correct": 2
+},
+{
+"q": "If the opposite side of a right-angled triangle is 8 cm and the adjacent side is 6 cm, what is the tangent of the angle?",
+"a": ["3/4", "4/5", "5/4", "4/3"],
+"correct": 3
+},
+{
+"q": "What is the value of the sine of 0 degrees?",
+"a": ["0", "1", "0.5", "√3/2"],
+"correct": 0
+},
+{
+"q": "If the angle of elevation of the sun is 60° and a flagpole casts a shadow of length 5 metres, which ratio helps find the height h of the flagpole?",
+"a": ["h / 5 = cos(60°)", "h / 5 = tan(60°)", "5 / h = sin(60°)", "h / 5 = sin(60°)"],
+"correct": 1
+},
+{
+"q": "What is the reciprocal relationship or value associated with the sine of 30 degrees?",
+"a": ["0.866", "1", "0.5 (meaning its inverse/double gives 1)", "0"],
+"correct": 2
+},
+{
+"q": "Which trigonometric ratio uses the adjacent side and the hypotenuse?",
+"a": ["Sine", "Tangent", "Cosecant", "Cosine"],
+"correct": 3
+},
+{
+"q": "If a right-angled triangle has an angle of 30° and the hypotenuse is 12 cm, what is the length of the side opposite to the 30° angle?",
+"a": ["6 cm", "12 cm", "6√3 cm", "4 cm"],
+"correct": 0
+},
+{
+"q": "What is the value of the cosine of 30 degrees?",
+"a": ["0.5", "√3/2", "1", "0"],
+"correct": 1
+},
+{
+"q": "In a right-angled triangle, if the opposite side is 12 cm and the adjacent side is 5 cm, what is the length of the hypotenuse?",
+"a": ["7 cm", "17 cm", "13 cm", "119 cm"],
+"correct": 2
+},
+{
+"q": "What is the term for the side that is next to the reference angle in a right-angled triangle (other than the hypotenuse)?",
+"a": ["Opposite side", "Diagonal", "Perpendicular", "Adjacent side"],
+"correct": 3
+},
+{
+"q": "If an airplane takes off and climbs at an angle of elevation of 30° for a distance of 200 metres along its flight path, what is its vertical height above the ground?",
+"a": ["100 metres", "200 metres", "100√3 metres", "50 metres"],
+"correct": 0
+},
+{
+"q": "What is the sine of 45 degrees?",
+"a": ["0.5", "1 / √2 (or √2 / 2)", "1", "0"],
+"correct": 1
+},
+{
+"q": "Which trigonometric function is defined as opposite / adjacent?",
+"a": ["Sine", "Cosine", "Tangent", "Cotangent"],
+"correct": 2
+},
+{
+"q": "If the angle of depression from a lighthouse to a ship is 40°, what is the angle of elevation from the ship to the lighthouse top?",
+"a": ["50°", "90°", "20°", "40°"],
+"correct": 3
+}
+]
+}

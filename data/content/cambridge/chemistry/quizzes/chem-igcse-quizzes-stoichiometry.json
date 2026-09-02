@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-stoichiometry",
+"name": "Formulae and stoichiometry calculations",
+"questions": [
+{
+"q": "What is the relative atomic mass (A<sub>r</sub>) of an element defined as?",
+"a": ["The average mass of one atom of the element compared to 1/12th the mass of a carbon-12 atom", "The total number of protons and electrons in an atom", "The mass of one mole of atoms in grams", "The speed at which atoms vibrate in a solid lattice"],
+"correct": 0
+},
+{
+"q": "What is the relative molecular mass (M<sub>r</sub>) of carbon dioxide, CO<sub>2</sub>? (A<sub>r</sub>: C = 12, O = 16)",
+"a": ["28", "44", "32", "56"],
+"correct": 1
+},
+{
+"q": "How many moles are present in 22 g of carbon dioxide, CO<sub>2</sub>? (M<sub>r</sub> = 44)",
+"a": ["0.25 mol", "1.0 mol", "0.5 mol", "2.0 mol"],
+"correct": 2
+},
+{
+"q": "What is the mass of 2 moles of water, H<sub>2</sub>O? (A<sub>r</sub>: H = 1, O = 16)",
+"a": ["18 g", "20 g", "34 g", "36 g"],
+"correct": 3
+},
+{
+"q": "What is the percentage by mass of oxygen in water, H<sub>2</sub>O? (A<sub>r</sub>: H = 1, O = 16)",
+"a": ["88.9%", "11.1%", "50.0%", "33.3%"],
+"correct": 0
+},
+{
+"q": "What is the empirical formula of a compound containing 80% carbon and 20% hydrogen by mass? (A<sub>r</sub>: C = 12, H = 1)",
+"a": ["CH", "CH<sub>3</sub>", "CH<sub>4</sub>", "C<sub>2</sub>H<sub>6</sub>"],
+"correct": 1
+},
+{
+"q": "A compound has an empirical formula of CH<sub>2</sub>O and a relative molecular mass of 60. What is its molecular formula? (A<sub>r</sub>: C = 12, H = 1, O = 16)",
+"a": ["CH<sub>2</sub>O", "C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>", "C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>", "C<sub>4</sub>H<sub>8</sub>O<sub>4</sub>"],
+"correct": 2
+},
+{
+"q": "What volume does 1 mole of any gas occupy at room temperature and pressure (r.t.p.)?",
+"a": ["10.0 dm<sup>3</sup>", "11.2 dm<sup>3</sup>", "28.4 dm<sup>3</sup>", "24.0 dm<sup>3</sup>"],
+"correct": 3
+},
+{
+"q": "How many moles of gas molecules are contained in 48 dm<sup>3</sup> of hydrogen gas, H<sub>2</sub>, at r.t.p.?",
+"a": ["2.0 mol", "1.0 mol", "0.5 mol", "4.0 mol"],
+"correct": 0
+},
+{
+"q": "What is the concentration of a solution if 0.5 moles of sodium chloride are dissolved in water to make 250 cm<sup>3</sup> of solution?",
+"a": ["0.5 mol/dm<sup>3</sup>", "2.0 mol/dm<sup>3</sup>", "1.0 mol/dm<sup>3</sup>", "4.0 mol/dm<sup>3</sup>"],
+"correct": 1
+},
+{
+"q": "How many moles of sodium hydroxide are present in 50 cm<sup>3</sup> of a 2.0 mol/dm<sup>3</sup> solution?",
+"a": ["0.05 mol", "0.2 mol", "0.1 mol", "1.0 mol"],
+"correct": 2
+},
+{
+"q": "What is Avogadro constant representing the number of particles in one mole of a substance?",
+"a": ["3.14 x 10<sup>23</sup>", "6.02 x 10<sup>20</sup>", "9.81 x 10<sup>22</sup>", "6.02 x 10<sup>23</sup>"],
+"correct": 3
+},
+{
+"q": "In the balanced equation: N<sub>2</sub> + 3H<sub>2</sub> -> 2NH<sub>3</sub>, how many moles of ammonia are produced from 3 moles of hydrogen gas reacting completely?",
+"a": ["2.0 mol", "3.0 mol", "1.0 mol", "4.0 mol"],
+"correct": 0
+},
+{
+"q": "What mass of magnesium oxide is produced when 24 g of magnesium reacts completely with excess oxygen? 2Mg + O<sub>2</sub> -> 2MgO (A<sub>r</sub>: Mg = 24, O = 16)",
+"a": ["20 g", "40 g", "60 g", "80 g"],
+"correct": 1
+},
+{
+"q": "What is the percentage yield of a reaction if the actual yield is 25 g and the theoretical maximum yield is 50 g?",
+"a": ["25%", "75%", "50%", "100%"],
+"correct": 2
+},
+{
+"q": "What is the formula of magnesium nitrate?",
+"a": ["MgNO<sub>3</sub>", "Mg<sub>2</sub>NO<sub>3</sub>", "Mg(NO<sub>3</sub>)<sub>3</sub>", "Mg(NO<sub>3</sub>)<sub>2</sub>"],
+"correct": 3
+},
+{
+"q": "What is the correct chemical formula for aluminum sulfate?",
+"a": ["Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>", "AlSO<sub>4</sub>", "Al<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>", "Al<sub>2</sub>SO<sub>4</sub>"],
+"correct": 0
+},
+{
+"q": "What is the percentage by mass of iron in iron(III) oxide, Fe<sub>2</sub>O<sub>3</sub>? (A<sub>r</sub>: Fe = 56, O = 16)",
+"a": ["30.0%", "70.0%", "50.0%", "85.2%"],
+"correct": 1
+},
+{
+"q": "If 10.0 g of calcium carbonate is thermally decomposed, what mass of calcium oxide is formed? CaCO<sub>3</sub> -> CaO + CO<sub>2</sub> (A<sub>r</sub>: Ca = 40, C = 12, O = 16)",
+"a": ["11.2 g", "10.0 g", "5.6 g", "4.4 g"],
+"correct": 2
+},
+{
+"q": "What is the term for the reactant that is completely used up in a chemical reaction, limiting the amount of product formed?",
+"a": ["Excess reactant", "Catalyst", "Spectator ion", "Limiting reactant"],
+"correct": 3
+},
+{
+"q": "How many water molecules are present in one formula unit of copper(II) sulfate pentahydrate, CuSO<sub>4</sub> . 5H<sub>2</sub>O?",
+"a": ["5", "1", "4", "10"],
+"correct": 0
+},
+{
+"q": "What is the chemical formula of ammonium sulfate?",
+"a": ["AmSO<sub>4</sub>", "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>", "NH<sub>4</sub>(SO<sub>4</sub>)<sub>2</sub>", "NH<sub>4</sub>SO<sub>4</sub>"],
+"correct": 1
+},
+{
+"q": "Calculate the mass of 0.5 moles of calcium carbonate, CaCO<sub>3</sub>. (A<sub>r</sub>: Ca = 40, C = 12, O = 16)",
+"a": ["25 g", "100 g", "50 g", "200 g"],
+"correct": 2
+},
+{
+"q": "What is the stoichiometric coefficient for oxygen when the equation for the combustion of methane is fully balanced? CH<sub>4</sub> + O<sub>2</sub> -> CO<sub>2</sub> + H<sub>2</sub>O",
+"a": ["1", "3", "4", "2"],
+"correct": 3
+},
+{
+"q": "What is the molar gas volume at r.t.p. used in standard IGCSE calculations?",
+"a": ["24 dm<sup>3</sup>", "22.4 dm<sup>3</sup>", "100 cm<sup>3</sup>", "1 dm<sup>3</sup>"],
+"correct": 0
+},
+{
+"q": "How many chloride ions are present in one mole of magnesium chloride, MgCl<sub>2</sub>?",
+"a": ["6.02 x 10<sup>23</sup>", "1.204 x 10<sup>24</sup>", "3.01 x 10<sup>23</sup>", "2.408 x 10<sup>24</sup>"],
+"correct": 1
+},
+{
+"q": "A hydrocarbon contains 85.7% carbon and 14.3% hydrogen by mass. What is its empirical formula?",
+"a": ["CH", "C<sub>2</sub>H<sub>4</sub>", "CH<sub>2</sub>", "CH<sub>3</sub>"],
+"correct": 2
+},
+{
+"q": "What is the concentration in g/dm<sup>3</sup> of a 2.0 mol/dm<sup>3</sup> solution of sodium hydroxide, NaOH? (A<sub>r</sub>: Na = 23, O = 16, H = 1)",
+"a": ["20 g/dm<sup>3</sup>", "40 g/dm<sup>3</sup>", "60 g/dm<sup>3</sup>", "80 g/dm<sup>3</sup>"],
+"correct": 3
+},
+{
+"q": "In a titration, 25.0 cm<sup>3</sup> of sodium hydroxide required 20.0 cm<sup>3</sup> of 0.1 mol/dm<sup>3</sup> hydrochloric acid for complete neutralization. What is the concentration of the sodium hydroxide solution?",
+"a": ["0.08 mol/dm<sup>3</sup>", "0.125 mol/dm<sup>3</sup>", "0.5 mol/dm<sup>3</sup>", "0.02 mol/dm<sup>3</sup>"],
+"correct": 0
+},
+{
+"q": "What is the molecular formula of a compound with empirical formula NO<sub>2</sub> and relative molecular mass of 92? (A<sub>r</sub>: N = 14, O = 16)",
+"a": ["NO<sub>2</sub>", "N<sub>2</sub>O<sub>4</sub>", "N<sub>3</sub>O<sub>6</sub>", "N<sub>2</sub>O<sub>2</sub>"],
+"correct": 1
+},
+{
+"q": "What is the number of moles of atoms in 9 g of water, H<sub>2</sub>O? (M<sub>r</sub> = 18)",
+"a": ["0.25 mol", "1.5 mol", "0.75 mol", "0.5 mol"],
+"correct": 2
+},
+{
+"q": "What is the percentage purity of a sample of limestone if a 50 g sample contains 40 g of calcium carbonate?",
+"a": ["50%", "75%", "90%", "80%"],
+"correct": 3
+},
+{
+"q": "What mass of carbon dioxide is produced when 12 g of carbon burns completely in excess oxygen? C + O<sub>2</sub> -> CO<sub>2</sub> (A<sub>r</sub>: C = 12, O = 16)",
+"a": ["44 g", "22 g", "16 g", "28 g"],
+"correct": 0
+},
+{
+"q": "How many hydrogen atoms are present in 2 moles of ammonia, NH<sub>3</sub>?",
+"a": ["6.02 x 10<sup>23</sup>", "3.61 x 10<sup>24</sup>", "1.204 x 10<sup>24</sup>", "2.408 x 10<sup>24</sup>"],
+"correct": 1
+},
+{
+"q": "What is the empirical formula of an oxide of iron containing 70% iron and 30% oxygen by mass? (A<sub>r</sub>: Fe = 56, O = 16)",
+"a": ["FeO", "FeO<sub>2</sub>", "Fe<sub>2</sub>O<sub>3</sub>", "Fe<sub>3</sub>O<sub>4</sub>"],
+"correct": 2
+},
+{
+"q": "What volume of carbon dioxide is produced at r.t.p. when 10 g of calcium carbonate reacts completely with excess hydrochloric acid? CaCO<sub>3</sub> + 2HCl -> CaCl<sub>2</sub> + H<sub>2</sub>O + CO<sub>2</sub> (M<sub>r</sub> of CaCO<sub>3</sub> = 100)",
+"a": ["1.2 dm<sup>3</sup>", "120 dm<sup>3</sup>", "4.8 dm<sup>3</sup>", "2.4 dm<sup>3</sup>"],
+"correct": 3
+},
+{
+"q": "What is the limiting reactant when 3 moles of zinc react with 2 moles of hydrochloric acid? Zn + 2HCl -> ZnCl<sub>2</sub> + H<sub>2</sub>",
+"a": ["Hydrochloric acid, HCl", "Zinc, Zn", "Zinc chloride, ZnCl<sub>2</sub>", "Hydrogen, H<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "What is the relative formula mass of copper(II) sulfate, CuSO<sub>4</sub>? (A<sub>r</sub>: Cu = 64, S = 32, O = 16)",
+"a": ["144", "160", "184", "208"],
+"correct": 1
+},
+{
+"q": "What mass of sulfur dioxide is produced when 32 g of sulfur burns completely in air? S + O<sub>2</sub> -> SO<sub>2</sub> (A<sub>r</sub>: S = 32, O = 16)",
+"a": ["32 g", "48 g", "64 g", "80 g"],
+"correct": 2
+},
+{
+"q": "If 0.2 moles of a gas occupy 4.8 dm<sup>3</sup> at r.t.p., what is the molar volume of this gas under these conditions?",
+"a": ["22.4 dm<sup>3</sup>", "28.0 dm<sup>3</sup>", "26.5 dm<sup>3</sup>", "24.0 dm<sup>3</sup>"],
+"correct": 3
+}
+]
+}

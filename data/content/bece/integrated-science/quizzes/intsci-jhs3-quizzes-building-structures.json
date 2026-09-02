@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-building-structures",
+"name": "Building Structures",
+"questions": [
+{
+"q": "What term is used in construction to describe the structural framework that supports a building and transfers its load safely to the ground?",
+"a": ["Foundation", "Roof truss", "Wall cladding", "Window lintel"],
+"correct": 0
+},
+{
+"q": "Which of the following materials is commonly combined with steel reinforcement to form strong, load-bearing structural members in modern buildings?",
+"a": ["Pure glass", "Reinforced concrete", "Soft plastic", "Dry cardboard"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of a foundation in building construction?",
+"a": ["To decorate the exterior walls", "To provide ventilation for underground pipes", "To distribute the weight of the entire building safely onto the soil", "To support electrical wiring conduits"],
+"correct": 2
+},
+{
+"q": "Which structural shape is widely used in roofs and bridges because of its exceptional rigidity and ability to distribute loads without deforming?",
+"a": ["A flexible rubber loop", "A flat horizontal sheet", "An open plastic bag", "A triangular truss"],
+"correct": 3
+},
+{
+"q": "What name is given to the vertical structural members that carry loads from floors and roofs down to the foundation?",
+"a": ["Columns / Pillars", "Horizontal beams", "Roof tiles", "Floor carpets"],
+"correct": 0
+},
+{
+"q": "Which of the following building components is a horizontal structural member designed to span open spaces and support loads above doors and windows?",
+"a": ["Foundation footing", "Lintel", "Floor slab", "Basement wall"],
+"correct": 1
+},
+{
+"q": "What term describes forces that push inward on a structural member, tending to compress or shorten it?",
+"a": ["Tensile force", "Shear force", "Compressive force", "Torsional twisting"],
+"correct": 2
+},
+{
+"q": "Which of the following materials is traditionally used as a primary structural framework for roofing in many domestic buildings?",
+"a": ["Melted plastic strips", "Thin aluminum foil", "Flexible rubber hoses", "Timber (wooden) trusses"],
+"correct": 3
+},
+{
+"q": "What structural element is laid at the base of a foundation trench to provide a level, solid base before blockwork begins?",
+"a": ["Concrete blinding / Foundation footing", "Roof ridge cap", "Ceiling plywood", "Wall plaster"],
+"correct": 0
+},
+{
+"q": "Which type of stress is experienced by a rope or cable when it is being pulled tight under a hanging load?",
+"a": ["Compressive stress", "Tensile stress", "Shearing stress", "Thermal stress"],
+"correct": 1
+},
+{
+"q": "What is the main reason for reinforcing concrete with steel bars (rebar)?",
+"a": ["To make the concrete lighter in weight", "To add bright colors to the walls", "To provide high tensile strength, since concrete is strong in compression but weak in tension", "To prevent water from evaporating during mixing"],
+"correct": 2
+},
+{
+"q": "Which of the following is a critical safety consideration when selecting a site for building construction?",
+"a": ["Proximity to loud music venues", "Availability of decorative flowers", "Color of the surrounding landscape", "Soil stability, drainage, and load-bearing capacity"],
+"correct": 3
+},
+{
+"q": "What name is given to the upper covering of a building designed to protect the interior from weather elements like rain and sun?",
+"a": ["Roof", "Foundation", "Sub-base", "Damp-proof course"],
+"correct": 0
+},
+{
+"q": "Which building material is made from fired clay and is widely used for constructing durable walls?",
+"a": ["Plastic foam", "Clay brick / Sandcrete block", "Compressed paper", "Woven cloth"],
+"correct": 1
+},
+{
+"q": "What is the function of a damp-proof course (DPC) in building walls?",
+"a": ["To increase the height of the building", "To anchor roof trusses securely", "To prevent moisture from rising up through the walls from the ground by capillary action", "To provide electrical insulation"],
+"correct": 2
+},
+{
+"q": "Which of the following forces tends to slide one part of a structure over another parallel part?",
+"a": ["Compressive force", "Tensile force", "Centripetal force", "Shear force"],
+"correct": 3
+},
+{
+"q": "What structural design feature is used in long bridges and concrete structures to allow for expansion and contraction caused by temperature changes?",
+"a": ["Expansion joints", "Rigid locking pins", "Solid welding points", "Water drainage pipes"],
+"correct": 0
+},
+{
+"q": "Which of the following terms describes the ability of a structure to support loads without collapsing or undergoing excessive deformation?",
+"a": ["Chemical reactivity", "Structural stability and strength", "Electrical conductivity", "Thermal expansion"],
+"correct": 1
+},
+{
+"q": "What is the primary role of beams in a framed building structure?",
+"a": ["To anchor underground sewage pipes", "To serve as exterior wall paint", "To transfer loads horizontally from floors and roofs to supporting columns", "To provide decorative window frames"],
+"correct": 2
+},
+{
+"q": "Which of the following factors can cause structural failure or collapse in buildings if not properly engineered?",
+"a": ["Using energy-efficient LED bulbs", "Installing standard wooden doors", "Painting walls with bright colors", "Poor soil settlement, overloading, substandard materials, and seismic activity"],
+"correct": 3
+},
+{
+"q": "What name is given to the preliminary drawing or architectural plan used by builders to layout a structure accurately?",
+"a": ["Blueprint / Floor plan", "Electrical circuit schematic", "Periodic table chart", "Chemical equation"],
+"correct": 0
+},
+{
+"q": "Which of the following materials is known for its high compressive strength and is commonly used to build heavy foundation walls?",
+"a": ["Cloth fabric", "Stone / Concrete", "Rubber sheeting", "Cardboard boxes"],
+"correct": 1
+},
+{
+"q": "What safety equipment must construction workers wear on site to protect against head injuries from falling objects?",
+"a": ["Cotton gloves", "Rubber boots", "Safety helmet / Hard hat", "Reflective sunglasses"],
+"correct": 2
+},
+{
+"q": "Which of the following is a sustainable building practice aimed at reducing environmental impact?",
+"a": ["Using single-use plastic panels exclusively", "Clearing all surrounding vegetation permanently", "Dumping chemical waste in foundation trenches", "Using locally sourced eco-friendly materials, natural ventilation, and energy-efficient designs"],
+"correct": 3
+},
+{
+"q": "What structural shape is inherently strong and used in arches and domes to distribute weight efficiently?",
+"a": ["Arch / Dome curve", "Sharp rectangular corner", "Flat unsupported sheet", "Open V-notch"],
+"correct": 0
+},
+{
+"q": "Which of the following professionals is primarily responsible for designing building structures and ensuring they meet safety and structural standards?",
+"a": ["Electrical technician", "Civil engineer / Architect", "Agricultural extension officer", "Computer programmer"],
+"correct": 1
+},
+{
+"q": "What is the purpose of formwork (shuttering) during concrete construction?",
+"a": ["To paint the finished wall surface", "To provide electrical insulation", "To hold wet concrete in place until it sets and hardens into the desired shape", "To test the electrical wiring"],
+"correct": 2
+},
+{
+"q": "Which of the following tests is commonly performed on soil at a construction site before designing the foundation?",
+"a": ["Soil pH and chemical fertilizer test", "Soil electrical conductivity test", "Soil temperature measurement", "Soil bearing capacity / geotechnical test"],
+"correct": 3
+},
+{
+"q": "What term is used to describe the total weight of the building itself, including walls, floors, and roof?",
+"a": ["Dead load", "Live load", "Wind load", "Seismic load"],
+"correct": 0
+},
+{
+"q": "Which type of load refers to temporary, moving forces acting on a structure, such as people, furniture, and stored goods?",
+"a": ["Dead load", "Live load", "Static weight", "Structural dead weight"],
+"correct": 1
+},
+{
+"q": "What is the primary function of scaffolding on a construction site?",
+"a": ["To supply drinking water to workers", "To test electrical circuits", "To provide a safe temporary platform for workers and materials at elevated heights", "To decorate the building facade"],
+"correct": 2
+},
+{
+"q": "Which of the following is an environmental force that engineers must account for when designing tall buildings and long-span roofs?",
+"a": ["Underground river whispers", "Starlight radiation", "Magnetic declination", "Wind load and seismic (earthquake) forces"],
+"correct": 3
+},
+{
+"q": "What name is given to the mixture of cement, sand, and water used to bond blocks or bricks together in masonry work?",
+"a": ["Mortar", "Asphalt bitumen", "Pure resin", "Lubricating grease"],
+"correct": 0
+},
+{
+"q": "Which of the following blocks is commonly used for partition walls and external load-bearing walls in Ghanaian building construction?",
+"a": ["Styrofoam block", "Sandcrete block", "Sugar cube", "Wax block"],
+"correct": 1
+},
+{
+"q": "What is the purpose of curing concrete by keeping it wet for several days after pouring?",
+"a": ["To wash away cement dust", "To dissolve the concrete", "To ensure proper hydration and maximum strength development", "To cool down the weather"],
+"correct": 2
+},
+{
+"q": "Which of the following properties is essential for steel reinforcement bars used in reinforced concrete structures?",
+"a": ["High brittleness and low melting point", "High solubility in water", "Extreme softness and flexibility", "High tensile strength and good bonding with concrete"],
+"correct": 3
+},
+{
+"q": "What term describes the downward sinking of a building structure due to weak or shifting underlying soil?",
+"a": ["Subsidence / Settlement", "Thermal expansion", "Structural uplift", "Seismic resonance"],
+"correct": 0
+},
+{
+"q": "Which structural member connects opposite sides of a roof structure to provide stability against outward spreading forces?",
+"a": ["Vertical pillar", "Tie beam / Collar tie", "Foundation footing", "Window sill"],
+"correct": 1
+},
+{
+"q": "What is the function of ventilation openings and windows in building design?",
+"a": ["To weaken structural walls", "To let in rainwater freely", "To allow adequate airflow and natural lighting for indoor comfort and health", "To increase indoor room temperatures"],
+"correct": 2
+},
+{
+"q": "Which of the following is a primary safety protocol during excavation work for building foundations?",
+"a": ["Working inside deep trenches without any support props", "Ignoring weather forecasts during rainy seasons", "Excavating right next to existing buildings without underpinning", "Shoring trench walls to prevent dangerous cave-ins and collapses"],
+"correct": 3
+}
+]
+}

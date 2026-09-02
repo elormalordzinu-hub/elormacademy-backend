@@ -1,0 +1,146 @@
+{
+"id": "phys-yr9-quizzes-voltage",
+"name": "Voltage and resistance",
+"questions": [
+{
+"q": "What does voltage (potential difference) measure across a component in an electric circuit?",
+"a": ["The energy transferred per unit charge flowing between two points", "The physical speed of electrons", "The total mass of the battery", "The amount of light emitted"],
+"correct": 0
+},
+{
+"q": "What instrument is used to measure voltage in a circuit, and how must it be connected?",
+"a": ["An ammeter connected in series", "A voltmeter connected in parallel across the component", "A newton meter connected in line", "A thermometer connected to terminals"],
+"correct": 1
+},
+{
+"q": "What is the standard unit of measurement for electrical resistance?",
+"a": ["Amperes (A)", "Volts (V)", "Ohms (omega)", "Watts (W)"],
+"correct": 2
+},
+{
+"q": "What does Ohm's law state about the relationship between potential difference (V), current (I), and resistance (R) at constant temperature?",
+"a": ["V equals R divided by I", "V equals I plus R", "V equals R multiplied by t", "V equals I multiplied by R (V = IR)"],
+"correct": 3
+},
+{
+"q": "What is the standard SI unit for potential difference (voltage)?",
+"a": ["Volts (V)", "Coulombs (C)", "Ohms", "Seconds (s)"],
+"correct": 0
+},
+{
+"q": "How does electrical resistance affect the flow of electric current in a circuit?",
+"a": ["Resistance speeds up electron flow.", "Resistance opposes the flow of electric current, reducing current for a given voltage.", "Resistance turns current into gravity.", "Resistance has no effect on current."],
+"correct": 1
+},
+{
+"q": "If a resistor has a resistance of 10 ohms and a current of 2 A flows through it, what is the potential difference across it?",
+"a": ["5 V", "12 V", "20 V", "0.2 V"],
+"correct": 2
+},
+{
+"q": "Which of the following factors increases the electrical resistance of a metal wire?",
+"a": ["Making the wire shorter", "Using a thicker wire", "Lowering its temperature", "Making the wire longer and thinner"],
+"correct": 3
+},
+{
+"q": "What happens to the current in a circuit if you increase the voltage of the battery while keeping resistance constant?",
+"a": ["The current increases.", "The current decreases to zero.", "The current stays completely constant.", "The battery explodes."],
+"correct": 0
+},
+{
+"q": "If the voltage across a fixed resistor is 12 V and the current flowing through it is 3 A, what is its resistance?",
+"a": ["36 ohms", "4 ohms", "9 ohms", "0.25 ohms"],
+"correct": 1
+},
+{
+"q": "What is an ohmic resistor characterized by on a current-voltage (I-V) graph?",
+"a": ["A curved non-linear line", "A horizontal flat line", "A straight line passing through the origin, showing constant resistance", "A vertical line"],
+"correct": 2
+},
+{
+"q": "Which component has electrical resistance that changes depending on external light levels, having high resistance in the dark and low resistance in bright light?",
+"a": ["A standard fixed carbon resistor", "A thermistor", "A simple copper wire", "A Light Dependent Resistor (LDR)"],
+"correct": 3
+},
+{
+"q": "What happens to the resistance of a negative temperature coefficient (NTC) thermistor when its temperature increases?",
+"a": ["Its resistance decreases significantly.", "Its resistance increases infinitely.", "Its resistance stays constant.", "Its resistance drops to absolute zero."],
+"correct": 0
+},
+{
+"q": "In a series circuit containing two different resistors, how does the total voltage of the battery distribute across them?",
+"a": ["Each resistor gets the full battery voltage.", "The total voltage is shared between the resistors proportional to their resistances.", "All voltage drops across the wire.", "Voltage becomes zero at the second resistor."],
+"correct": 1
+},
+{
+"q": "Which formula correctly calculates electrical power (P) from voltage (V) and current (I)?",
+"a": ["P = V divided by I", "P = I divided by V", "P = V multiplied by I", "P = V plus I"],
+"correct": 2
+},
+{
+"q": "How should a voltmeter be connected in a circuit when measuring the potential difference across a lamp?",
+"a": ["In series directly inside the wire break", "In a separate loop unconnected to the lamp", "Wrapped around the battery only", "In parallel across the two terminals of the lamp"],
+"correct": 3
+},
+{
+"q": "If a lamp has a resistance of 20 ohms and is connected across a 10 V supply, what current flows through it?",
+"a": ["0.5 A", "2.0 A", "30 A", "200 A"],
+"correct": 0
+},
+{
+"q": "What is the primary reason why long transmission power lines use very high voltages?",
+"a": ["To make the cables heavier", "To reduce energy losses due to heating in the resistance of the wires", "To increase electrical resistance", "To stop birds from landing on wires"],
+"correct": 1
+},
+{
+"q": "Which of the following describes a component that does not obey Ohm's law, such as a filament lamp where resistance increases as it gets hotter?",
+"a": ["A linear resistor", "An ideal conductor", "A non-ohmic component", "A short circuit"],
+"correct": 2
+},
+{
+"q": "What unit is used to measure electrical power (the rate of energy transfer)?",
+"a": ["Volts", "Amperes", "Ohms", "Watts (W)"],
+"correct": 3
+},
+{
+"q": "If a 12 V battery transfers 24 Joules of energy to a circuit, what total electrical charge has flowed?",
+"a": ["2 Coulombs (C)", "288 Coulombs", "0.5 Coulombs", "12 Coulombs"],
+"correct": 0
+},
+{
+"q": "What happens to the total resistance of a circuit when two resistors are connected in parallel compared to using just one of them?",
+"a": ["Total resistance increases above both values.", "Total resistance decreases because an extra pathway is provided.", "Total resistance becomes zero.", "Total resistance equals their sum."],
+"correct": 1
+},
+{
+"q": "Which circuit component is specifically designed to have a fixed, known resistance value to control current levels?",
+"a": ["A voltmeter", "An ammeter", "A resistor", "A battery cell"],
+"correct": 2
+},
+{
+"q": "How can you experimentally verify Ohm's law for a metal wire in the laboratory?",
+"a": ["Measure wire weight at different room temperatures", "Measure light intensity using solar cells", "Count the number of copper atoms in the wire", "Measure current for various applied voltages using an ammeter and voltmeter, then plot a graph"],
+"correct": 3
+},
+{
+"q": "What is the potential difference across a 15 ohm resistor when a current of 0.4 A flows through it?",
+"a": ["6 V", "37.5 V", "15.4 V", "5.6 V"],
+"correct": 0
+},
+{
+"q": "Why does a metal conductor's resistance increase when its temperature rises?",
+"a": ["Electrons stop moving.", "Metal ions vibrate more vigorously, causing more frequent collisions with moving free electrons.", "The wire gets shorter.", "Voltage drops to zero."],
+"correct": 1
+},
+{
+"q": "If you connect three identical 4 ohm resistors in series, what is their combined total resistance?",
+"a": ["1.33 ohms", "4 ohms", "12 ohms", "64 ohms"],
+"correct": 2
+},
+{
+"q": "Which of the following devices would use a thermistor as part of an automated temperature-control circuit?",
+"a": ["A digital camera flash", "An electric guitar amplifier", "A pocket calculator", "An automatic fire alarm or digital incubator"],
+"correct": 3
+}
+]
+}

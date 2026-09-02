@@ -1,0 +1,166 @@
+{
+"id": "intsci-jhs2-quizzes-pollution-prevention",
+"name": "Pollution Prevention",
+"questions": [
+{
+"q": "What is defined as the introduction of harmful substances or contaminants into the environment that cause adverse changes?",
+"a": ["Pollution", "Conservation", "Afforestation", "Recycling"],
+"correct": 0
+},
+{
+"q": "Which of the following is a major source of air pollution in urban centers?",
+"a": ["Plant photosynthesis", "Exhaust fumes from vehicles and industrial smoke", "Organic compost decomposition", "Natural rainfall"],
+"correct": 1
+},
+{
+"q": "What term is used for waste materials such as plastic bags, bottles, and electronic gadgets that do not decay easily in the environment?",
+"a": ["Biodegradable waste", "Organic waste", "Non-biodegradable waste", "Nutrient waste"],
+"correct": 2
+},
+{
+"q": "Which of the following practices is an effective way to manage solid waste and reduce environmental pollution?",
+"a": ["Burning all plastic waste in open fields", "Dumping refuse into nearby streams", "Leaving garbage uncollected in public areas", "The 3 Rs: Reduce, Reuse, and Recycle"],
+"correct": 3
+},
+{
+"q": "What is water pollution?",
+"a": ["Contamination of water bodies such as rivers, lakes, and oceans with harmful chemicals, sewage, or plastics", "The natural evaporation of water into the atmosphere", "The boiling of water to kill germs", "The filtration of drinking water through sand"],
+"correct": 0
+},
+{
+"q": "Which of the following agricultural practices contributes significantly to water pollution when washed into rivers?",
+"a": ["Using organic mulch", "Excessive use of chemical fertilizers and pesticides", "Pruning crop branches", "Manual weeding"],
+"correct": 1
+},
+{
+"q": "What environmental problem is caused by the excessive release of greenhouse gases like carbon dioxide into the atmosphere?",
+"a": ["Ozone layer expansion", "Global warming and climate change", "Increased soil fertility", "Ocean cooling"],
+"correct": 2
+},
+{
+"q": "Which type of pollution is caused by excessive, unwanted, or disturbing sounds from heavy machinery, traffic, and loud music?",
+"a": ["Thermal pollution", "Water pollution", "Land pollution", "Noise pollution"],
+"correct": 3
+},
+{
+"q": "What is the primary danger of improper disposal of electronic waste (e-waste) containing heavy metals like lead and mercury?",
+"a": ["Contamination of soil and underground water sources", "Immediate cooling of the local climate", "Enhanced plant growth", "Purification of air"],
+"correct": 0
+},
+{
+"q": "Which of the following is a direct consequence of land pollution caused by indiscriminate dumping of refuse?",
+"a": ["Creation of fertile farming soils", "Breeding ground for disease vectors like mosquitoes, rats, and flies", "Increase in clean drinking water", "Reduction of atmospheric temperatures"],
+"correct": 1
+},
+{
+"q": "What term describes organic waste materials that can be easily broken down by microorganisms into harmless substances?",
+"a": ["Synthetic waste", "Non-biodegradable waste", "Biodegradable waste", "Inorganic waste"],
+"correct": 2
+},
+{
+"q": "Which method involves converting used waste materials like glass, paper, and metal into new useful products?",
+"a": ["Incineration", "Landfilling", "Open dumping", "Recycling"],
+"correct": 3
+},
+{
+"q": "What is the main environmental impact of acid rain resulting from sulfur dioxide and nitrogen oxide emissions?",
+"a": ["Damage to aquatic life in lakes, corrosion of buildings, and destruction of forests", "Purification of drinking water reserves", "Enhanced crop yields on farms", "Cooling of industrial machinery"],
+"correct": 0
+},
+{
+"q": "Which of the following actions best demonstrates the principle of 'Reduce' in waste management?",
+"a": ["Throwing away plastic bags after single use", "Buying goods with minimal packaging and avoiding single-use plastics", "Burning old clothes", "Storing garbage in open pits"],
+"correct": 1
+},
+{
+"q": "What health problem is most commonly associated with chronic exposure to high levels of air pollution and smoke?",
+"a": ["Skin rashes", "Malaria", "Respiratory diseases such as asthma and bronchitis", "Water-borne infections like cholera"],
+"correct": 2
+},
+{
+"q": "Which of the following practices helps prevent soil erosion and land degradation?",
+"a": ["Indiscriminate felling of trees (deforestation)", "Overgrazing by livestock on steep slopes", "Trench mining without restoration", "Planting trees (afforestation and re-afforestation) and contour farming"],
+"correct": 3
+},
+{
+"q": "What is sewage pollution in aquatic ecosystems?",
+"a": ["Discharge of untreated human and household waste water into rivers and seas", "Natural rainwater runoff from forests", "Purification of borehole water", "Irrigation of vegetable gardens"],
+"correct": 0
+},
+{
+"q": "Which of the following is a renewable energy source that helps reduce air pollution caused by burning fossil fuels?",
+"a": ["Coal power", "Solar and wind energy", "Diesel generators", "Gasoline engines"],
+"correct": 1
+},
+{
+"q": "What term refers to a substance that contaminates the environment, making it unclean or unsafe?",
+"a": ["Nutrient", "Catalyst", "Pollutant", "Solvent"],
+"correct": 2
+},
+{
+"q": "Why is the use of non-biodegradable polythene bags a major environmental concern in many communities?",
+"a": ["They dissolve instantly in rain water", "They provide valuable nutrients to soil bacteria", "They burn without any smoke", "They persist in the environment for hundreds of years, clogging drains and littering land"],
+"correct": 3
+},
+{
+"q": "What preventive measure can industries adopt to minimize toxic liquid waste pollution?",
+"a": ["Treating effluent wastewater in treatment plants before discharging it", "Pumping untreated chemicals directly into open gutters", "Diluting waste with drinking water supplies", "Burying liquid waste in shallow pits near homes"],
+"correct": 0
+},
+{
+"q": "Which of the following is an effect of noise pollution on human health?",
+"a": ["Improved hearing clarity", "Stress, sleep disturbance, and hearing impairment", "Enhanced concentration", "Lower blood pressure"],
+"correct": 1
+},
+{
+"q": "What is composting used for in organic waste management?",
+"a": ["Producing toxic gases for fuel", "Creating synthetic plastics", "Converting organic kitchen and garden waste into nutrient-rich manure for soil", "Purifying industrial sewage"],
+"correct": 2
+},
+{
+"q": "Which government or community action helps reduce vehicular air pollution in cities?",
+"a": ["Encouraging more private diesel cars", "Removing all public transport networks", "Banning the use of bicycles", "Promoting public transport, vehicle emission testing, and fuel efficiency standards"],
+"correct": 3
+},
+{
+"q": "What is the environmental danger of oil spills in oceans and coastal waters?",
+"a": ["Suffocation and poisoning of marine life, birds, and destruction of coastal ecosystems", "Purification of seawater", "Increase in fish populations", "Cooling of ocean water temperatures"],
+"correct": 0
+},
+{
+"q": "Which of the following activities promotes pollution prevention at home?",
+"a": ["Pouring used engine oil down the kitchen drain", "Segregating household waste into organic and plastic bins for recycling", "Burning plastic containers in the backyard", "Leaving electrical appliances on standby continuously"],
+"correct": 1
+},
+{
+"q": "What is the term for the depletion of the protective ozone layer in the stratosphere, which shields Earth from harmful ultraviolet radiation?",
+"a": ["Global cooling", "Greenhouse effect", "Ozone depletion", "Thermal inversion"],
+"correct": 2
+},
+{
+"q": "Which of the following describes the 'Reuse' practice in environmental management?",
+"a": ["Throwing away broken items immediately", "Melting down metal cans into raw blocks", "Buying brand-new items every week", "Using glass jars or durable shopping bags multiple times instead of throwing them away"],
+"correct": 3
+},
+{
+"q": "What negative effect does littering plastic waste in gutters have during rainy seasons?",
+"a": ["Blocking drainage systems and causing severe localized floods", "Improving water flow speed", "Cleaning the gutters naturally", "Creating underground water reserves"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of biological pollution or biological contamination in water?",
+"a": ["Dissolved table salt", "Pathogenic bacteria, viruses, and parasites from untreated sewage", "Clean river sand", "Oxygen gas bubbles"],
+"correct": 1
+},
+{
+"q": "What environmental management strategy involves planting trees on land where forests have been depleted?",
+"a": ["Deforestation", "Urbanization", "Reforestation", "Desertification"],
+"correct": 2
+},
+{
+"q": "Why should burning of agricultural crop residues (like straw and husks) in open fields be minimized?",
+"a": ["It increases soil moisture too much", "It freezes the surrounding farmland", "It attracts harmful pests", "It produces heavy smoke and air pollution that affects visibility and health"],
+"correct": 3
+}
+]
+}

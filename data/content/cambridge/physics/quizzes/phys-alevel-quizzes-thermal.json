@@ -1,0 +1,186 @@
+{
+"id": "phys-alevel-quizzes-thermal",
+"name": "Thermal properties and thermodynamics",
+"questions": [
+{
+"q": "What is specific heat capacity defined as?",
+"a": ["The thermal energy required to raise the temperature of unit mass of a substance by one degree Celsius (or one kelvin)", "The total internal energy of an object", "The energy required to melt a solid completely", "The heat capacity of an entire body"],
+"correct": 0
+},
+{
+"q": "What is the first law of thermodynamics expressed as an equation for internal energy change (delta U), heat added (Q), and work done by the system (W)?",
+"a": ["delta U = Q + W", "delta U = Q - W", "delta U = W - Q", "delta U = Q * W"],
+"correct": 1
+},
+{
+"q": "What is specific latent heat of fusion defined as?",
+"a": ["The heat required to boil a liquid at constant temperature", "The thermal energy released when a gas condenses", "The thermal energy required to convert unit mass of a solid into liquid at its melting point without change in temperature", "The internal energy of fusion"],
+"correct": 2
+},
+{
+"q": "What does the second law of thermodynamics state regarding thermal energy transfer and entropy?",
+"a": ["Thermal energy can spontaneously flow from a colder body to a hotter body without external work.", "Total energy in any closed system is destroyed over time.", "Heat can be converted 100 percent into work in a cyclic engine.", "Thermal energy cannot spontaneously flow from a cooler body to a warmer body, and the total entropy of an isolated system always increases or remains constant in any spontaneous process."],
+"correct": 3
+},
+{
+"q": "How much thermal energy is required to raise the temperature of 2.0 kg of water from 20 degrees Celsius to 80 degrees Celsius? (Specific heat capacity of water = 4184 J kg⁻¹ K⁻¹)",
+"a": ["502,080 J", "251,040 J", "1,004,160 J", "167,360 J"],
+"correct": 0
+},
+{
+"q": "What is the internal energy of a system defined as?",
+"a": ["The total kinetic energy of the container holding the system", "The sum of the random distribution of kinetic and potential energies of all the molecules in the system", "The external mechanical energy applied to the system", "The total heat supplied to the system from outside"],
+"correct": 1
+},
+{
+"q": "What is the specific latent heat of vaporization of water if 2.26 x 10⁶ J of thermal energy is required to vaporize 1.0 kg of boiling water at 100 degrees Celsius?",
+"a": ["2.26 x 10³ J kg⁻¹", "2.26 x 10⁵ J kg⁻¹", "2.26 x 10⁶ J kg⁻¹", "4.18 x 10³ J kg⁻¹"],
+"correct": 2
+},
+{
+"q": "What characterizes an isothermal process for an ideal gas?",
+"a": ["No heat enters or leaves the system (Q = 0)", "Pressure remains constant while volume changes", "Volume remains constant while pressure changes", "Temperature remains constant, so change in internal energy (delta U) is zero"],
+"correct": 3
+},
+{
+"q": "What is an adiabatic process defined as in thermodynamics?",
+"a": ["A process in which no thermal energy is transferred into or out of the system (Q = 0)", "A process that occurs at constant atmospheric pressure", "A process where temperature increases linearly", "A process where work done is always zero"],
+"correct": 0
+},
+{
+"q": "What does a negative sign for work done (W) by a system in the first law of thermodynamics indicate?",
+"a": ["Work is done by the system on its surroundings.", "Work is done on the system by its surroundings.", "Internal energy decreases.", "Heat is added to the system."],
+"correct": 1
+},
+{
+"q": "What is the thermal capacity (heat capacity) of an object?",
+"a": ["The energy required to melt the object completely", "The specific heat capacity multiplied by volume", "The thermal energy required to raise the temperature of the entire object by one kelvin (C = m c)", "The power rating of the heater"],
+"correct": 2
+},
+{
+"q": "Which thermodynamic process is represented by a vertical line on a pressure-volume (p-V) diagram?",
+"a": ["Isothermal expansion", "Adiabatic compression", "Isobaric heating", "Isochoric (isometric) process at constant volume"],
+"correct": 3
+},
+{
+"q": "How is work done W related to pressure p and volume change delta V in an isobaric process?",
+"a": ["W = p delta V", "W = delta V / p", "W = p / delta V", "W = 0.5 p delta V²"],
+"correct": 0
+},
+{
+"q": "What happens to the internal energy of an ideal gas during an isothermal expansion?",
+"a": ["It increases because volume increases.", "It remains constant because temperature does not change.", "It decreases because work is done by the gas.", "It drops to zero."],
+"correct": 1
+},
+{
+"q": "A block of ice of mass 0.50 kg at 0 degrees Celsius is melted completely. How much thermal energy is absorbed? (Specific latent heat of fusion of ice = 3.34 x 10⁵ J kg⁻¹)",
+"a": ["8.35 x 10⁴ J", "1.67 x 10⁵ J", "1.67 x 10⁵ J", "6.68 x 10⁵ J"],
+"correct": 2
+},
+{
+"q": "What does a Carnot cycle represent in thermodynamics?",
+"a": ["A real irreversible engine used in cars", "A cycle with 100 percent efficiency operating between any two temperatures", "An isothermal process followed by a constant volume process", "An idealized reversible thermodynamic cycle consisting of two isothermal and two adiabatic processes, setting the maximum theoretical efficiency between two temperatures."],
+"correct": 3
+},
+{
+"q": "What is the efficiency of a heat engine that absorbs 1000 J of thermal energy from a hot reservoir and exhausts 600 J of thermal energy to a cold reservoir?",
+"a": ["40 percent", "60 percent", "100 percent", "25 percent"],
+"correct": 0
+},
+{
+"q": "What is the maximum theoretical efficiency of a heat engine operating between absolute temperatures T_hot and T_cold?",
+"a": ["Efficiency = 1 - (T_hot / T_cold)", "Efficiency = 1 - (T_cold / T_hot)", "Efficiency = T_cold / T_hot", "Efficiency = (T_hot - T_cold) / T_hot * 100"],
+"correct": 1
+},
+{
+"q": "During an adiabatic compression of an ideal gas, what happens to the temperature of the gas?",
+"a": ["It decreases because work is done.", "It remains constant.", "It increases because work is done on the gas with no heat lost (Q = 0, so delta U = +W)", "It drops to absolute zero."],
+"correct": 2
+},
+{
+"q": "What is the SI unit of specific heat capacity?",
+"a": ["J K⁻¹", "J kg⁻¹", "J kg⁻¹ K⁻¹", "W m⁻¹ K⁻¹"],
+"correct": 3
+},
+{
+"q": "A metal rod of thermal capacity 150 J K⁻¹ is heated, supplying 3000 J of thermal energy. What is the temperature rise of the rod?",
+"a": ["20 K", "45 K", "15 K", "30 K"],
+"correct": 0
+},
+{
+"q": "What does the area enclosed by a closed cycle on a pressure-volume (p-V) diagram represent?",
+"a": ["The total heat supplied to the system", "The net work done by the system over one complete cycle", "The total internal energy change", "The maximum temperature reached"],
+"correct": 1
+},
+{
+"q": "Why does the temperature of boiling water remain constant at 100 degrees Celsius even though thermal energy continues to be supplied?",
+"a": ["Because heat transfer stops at boiling point", "Because thermal energy is converted into kinetic energy of liquid molecules", "Because the supplied thermal energy is entirely used to break intermolecular bonds and separate molecules during vaporization without increasing kinetic energy", "Because the specific heat capacity becomes infinite"],
+"correct": 2
+},
+{
+"q": "What is entropy a measure of in thermodynamics?",
+"a": ["The total energy of a system", "The rate of heat conduction", "The total mass of gas", "The degree of disorder or dispersal of energy in a system"],
+"correct": 3
+},
+{
+"q": "An ideal gas expands isothermally, absorbing 500 J of heat from its surroundings. How much work is done by the gas?",
+"a": ["500 J", "0 J", "-500 J", "250 J"],
+"correct": 0
+},
+{
+"q": "What is the specific latent heat of fusion defined as in relation to phase change?",
+"a": ["Energy to boil liquid", "Energy per unit mass required to change a solid into a liquid at constant temperature", "Energy released during freezing", "Energy required to raise solid temperature"],
+"correct": 1
+},
+{
+"q": "A system receives 200 J of thermal energy from its surroundings and does 50 J of work on its surroundings. What is the net change in internal energy of the system?",
+"a": ["50 J", "100 J", "150 J", "250 J"],
+"correct": 2
+},
+{
+"q": "Which of the following statements correctly describes heat transfer by conduction in metals?",
+"a": ["Heat is transferred exclusively by bulk movement of fluid layers.", "Heat is transferred entirely through electromagnetic infrared radiation without a medium.", "Heat is transferred only by lattice vibrations of ions.", "Heat is transferred through the vibration of adjacent atoms and the diffusion of free electrons carrying kinetic energy rapidly through the lattice."],
+"correct": 3
+},
+{
+"q": "What is the thermal energy required to vaporize 0.20 kg of water at 100 degrees Celsius? (Specific latent heat of vaporization = 2.26 x 10⁶ J kg⁻¹)",
+"a": ["4.52 x 10⁵ J", "1.13 x 10⁶ J", "2.26 x 10⁵ J", "4.52 x 10⁶ J"],
+"correct": 0
+},
+{
+"q": "What is an isobaric process?",
+"a": ["A process at constant temperature", "A process at constant pressure", "A process at constant volume", "A process with zero heat exchange"],
+"correct": 1
+},
+{
+"q": "In a cyclic thermodynamic process, what is the net change in internal energy over one complete cycle?",
+"a": ["Maximum positive value", "Equal to the heat added", "Zero, because internal energy is a state function and the system returns to its initial state", "Equal to the work done"],
+"correct": 2
+},
+{
+"q": "What is the primary mechanism of heat transfer in liquids and gases under gravity?",
+"a": ["Conduction through free electrons", "Radiation", "Pure mechanical work", "Convection, where warmer, less dense fluid rises and cooler, denser fluid sinks, setting up convection currents"],
+"correct": 3
+},
+{
+"q": "What is the heat capacity of an object made of 0.50 kg of copper? (Specific heat capacity of copper = 385 J kg⁻¹ K⁻¹)",
+"a": ["192.5 J K⁻¹", "770 J K⁻¹", "385 J K⁻¹", "96.25 J K⁻¹"],
+"correct": 0
+},
+{
+"q": "What does a horizontal line on a temperature-time graph during heating of a solid indicate?",
+"a": ["Temperature is rising rapidly", "Phase change (melting or boiling) is occurring at constant temperature where thermal energy goes into potential energy rather than kinetic energy", "The heater has failed", "Heat is being lost to surroundings"],
+"correct": 1
+},
+{
+"q": "If 500 J of work is done on a gas and 200 J of heat is released to the surroundings during compression, what is the change in internal energy of the gas?",
+"a": ["-300 J", "+200 J", "+300 J", "-700 J"],
+"correct": 2
+},
+{
+"q": "Which of the following laws of thermodynamics establishes the concept of absolute zero temperature?",
+"a": ["First law of thermodynamics", "Zeroth law of thermodynamics", "Second law of thermodynamics", "Third law of thermodynamics (stating that the entropy of a pure crystalline substance approaches zero as temperature approaches absolute zero)"],
+"correct": 3
+}
+]
+}

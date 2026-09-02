@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-blood",
+"name": "Blood vessels and blood components",
+"questions": [
+{
+"q": "What is the primary function of arteries in the human circulatory system?",
+"a": ["To return deoxygenated blood slowly back to the heart chambers", "To carry blood under high pressure away from the heart to body tissues", "To allow rapid exchange of oxygen and nutrients with cells", "To filter solid waste products out of the plasma"],
+"correct": 1
+},
+{
+"q": "Which blood vessels possess thin walls that are only one cell thick to facilitate diffusion?",
+"a": ["Arteries", "Veins", "Capillaries", "Aorta"],
+"correct": 2
+},
+{
+"q": "Why do veins contain internal pocket valves?",
+"a": ["To speed up blood flow under high pressure", "To prevent backflow of blood since pressure in veins is low", "To mix oxygenated and deoxygenated blood together", "To filter out harmful bacteria from plasma"],
+"correct": 1
+},
+{
+"q": "Which component makes up the liquid portion of human blood?",
+"a": ["Red blood cells", "Plasma", "Platelets", "Hemoglobin"],
+"correct": 1
+},
+{
+"q": "What is the main role of red blood cells in the human body?",
+"a": ["To fight off viral and bacterial infections", "To clot blood at the site of a cut or wound", "To transport oxygen from the lungs to respiring tissues", "To produce antibodies against pathogens"],
+"correct": 2
+},
+{
+"q": "Which specialized protein inside red blood cells binds reversibly to oxygen?",
+"a": ["Chlorophyll", "Hemoglobin", "Keratin", "Insulin"],
+"correct": 1
+},
+{
+"q": "What is the primary function of white blood cells?",
+"a": ["To defend the body against pathogens and infectious diseases", "To carry dissolved carbon dioxide to the lungs", "To provide structural rigidity to blood vessels", "To speed up the heart rate during exercise"],
+"correct": 0
+},
+{
+"q": "What role do platelets play in the circulatory system?",
+"a": ["They dissolve blood clots in the brain", "They fragment from larger cells to help blood clot at wound sites", "They carry nutrients from the gut to muscles", "They regulate body temperature near the skin"],
+"correct": 1
+},
+{
+"q": "Which blood vessel type connects arteries to veins and penetrates deep into tissues?",
+"a": ["Capillaries", "Vena cava", "Pulmonary trunk", "Coronary arteries"],
+"correct": 0
+},
+{
+"q": "What physical shape helps red blood cells maximize their surface area for gas exchange and allows them to squeeze through narrow capillaries?",
+"a": ["Rigid rectangular block", "Biconcave disc", "Long branching fiber", "Spherical fluid droplet"],
+"correct": 1
+},
+{
+"q": "Which of the following substances is transported dissolved in blood plasma?",
+"a": ["Only solid oxygen crystals", "Pure atmospheric nitrogen", "Urea, carbon dioxide, and glucose", "Undigested food fibers"],
+"correct": 2
+},
+{
+"q": "Why do arteries have thick, muscular, and elastic walls?",
+"a": ["To allow materials to diffuse quickly into surrounding tissues", "To store extra red blood cells during sleep", "To absorb the high-pressure surges of blood pumped directly from the heart", "To act as one-way valves preventing backward flow"],
+"correct": 2
+},
+{
+"q": "Which cells in the blood contain a nucleus, unlike mature human red blood cells?",
+"a": ["White blood cells", "Platelets", "Red blood cells", "None of the blood cells have a nucleus"],
+"correct": 0
+},
+{
+"q": "What happens to the rate of blood flow when blood vessels move from large arteries into millions of narrow capillaries?",
+"a": ["The flow speeds up massively like a rushing river", "The flow slows down, giving more time for substance exchange", "The flow stops completely until the heart beats twice", "The blood turns solid"],
+"correct": 1
+},
+{
+"q": "Which of the following describes a key difference between veins and arteries?",
+"a": ["Arteries always carry blood toward the heart, while veins carry it away", "Veins generally carry blood under lower pressure and have thinner walls than arteries", "Arteries contain valves, while veins do not", "Veins carry only oxygenated blood"],
+"correct": 1
+},
+{
+"q": "What is the liquid plasma mostly composed of?",
+"a": ["Pure iron", "Dissolved plastic", "Water", "Cellulose"],
+"correct": 2
+},
+{
+"q": "How do white blood cells deal with invading microorganisms like bacteria?",
+"a": ["They push them out through the skin pores", "They convert them into red blood cells", "They engulf and digest them, or produce specific antibodies", "They freeze them using cold plasma"],
+"correct": 2
+},
+{
+"q": "What condition arises when a person's blood lacks sufficient healthy red blood cells or hemoglobin?",
+"a": ["Arthritis", "Anemia", "Tachycardia", "Asthma"],
+"correct": 1
+},
+{
+"q": "Which blood vessels transport deoxygenated blood from the body tissues back toward the heart?",
+"a": ["Arteries", "Veins", "Capillaries", "Aorta"],
+"correct": 1
+},
+{
+"q": "What is the function of the pulmonary artery?",
+"a": ["To carry deoxygenated blood from the right ventricle to the lungs", "To carry oxygenated blood from the lungs to the left atrium", "To supply blood directly to the heart muscle", "To drain blood from the brain"],
+"correct": 0
+},
+{
+"q": "What is the function of the pulmonary veins?",
+"a": ["To carry deoxygenated blood away from the heart", "To carry oxygenated blood from the lungs back to the left atrium of the heart", "To pump blood into the aorta", "To collect waste gases from the stomach"],
+"correct": 1
+},
+{
+"q": "Why do mature human red blood cells lack a nucleus?",
+"a": ["Because they are dead cells", "To make extra room inside the cell to carry more hemoglobin and oxygen", "To allow them to divide rapidly inside blood vessels", "To prevent them from fighting infections"],
+"correct": 1
+},
+{
+"q": "Which blood component is responsible for triggering chemical reactions that form a fibrin mesh network during clotting?",
+"a": ["Red blood cells", "Platelets", "Plasma proteins", "White blood cells"],
+"correct": 1
+},
+{
+"q": "What gas is transported in high amounts by veins returning from active body tissues?",
+"a": ["Oxygen", "Carbon dioxide", "Helium", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "How does tissue fluid form from capillaries?",
+"a": ["Red blood cells burst open to release water", "Plasma leaks out through the tiny gaps in capillary walls to bathe surrounding cells", "Sweat travels backward through pores", "Lungs pump moisture directly into muscles"],
+"correct": 1
+},
+{
+"q": "Which blood vessel has the narrowest lumen (internal channel)?",
+"a": ["Aorta", "Vena cava", "Capillary", "Pulmonary artery"],
+"correct": 2
+},
+{
+"q": "What role does hemoglobin play when blood passes through oxygen-rich lungs?",
+"a": ["It releases all its oxygen", "It chemically combines with oxygen to form oxyhemoglobin", "It turns into white blood cells", "It dissolves into plasma"],
+"correct": 1
+},
+{
+"q": "What happens to oxyhemoglobin when red blood cells reach actively respiring tissues low in oxygen?",
+"a": ["It absorbs extra carbon dioxide to become solid", "It releases oxygen to the cells that need it for respiration", "It destroys the surrounding tissue", "It changes into a platelet"],
+"correct": 1
+},
+{
+"q": "Which of these blood components helps regulate body pH and maintains osmotic balance?",
+"a": ["Platelets", "Hemoglobin crystals", "Cellulose fibers", "Plasma proteins dissolved in liquid plasma"],
+"correct": 3
+},
+{
+"q": "Why is it dangerous if blood vessels lose their elasticity (such as in arteriosclerosis)?",
+"a": ["Blood will flow instantly at the speed of light", "Veins will turn into arteries", "They cannot handle pressure surges properly, increasing the risk of bursting or blockages", "Red blood cells will double in size"],
+"correct": 2
+},
+{
+"q": "What is the main difference in appearance between red blood cells and white blood cells under a microscope?",
+"a": ["White cells are bright red and shaped like donuts", "Red cells are smaller, numerous, and lack a nucleus; white cells are larger, less numerous, and have a clear nucleus", "Red cells are giant square blocks", "There is no visible difference"],
+"correct": 1
+},
+{
+"q": "Which vessel carries blood under the lowest overall pressure?",
+"a": ["Aorta", "Vena cava", "Capillary", "Renal artery"],
+"correct": 1
+},
+{
+"q": "How are digested nutrients like glucose and amino acids transported from the small intestine to other organs?",
+"a": ["Carried strictly inside white blood cells", "Dissolved in the blood plasma", "Pushed through hollow nerve cords", "Absorbed directly by air"],
+"correct": 1
+},
+{
+"q": "What substance is carried from liver and muscle tissue to the kidneys for excretion?",
+"a": ["Oxygen", "Starch", "Urea", "Living bacteria"],
+"correct": 2
+},
+{
+"q": "Which type of blood cell increases significantly in number when a person has a bacterial infection?",
+"a": ["Red blood cells", "White blood cells", "Platelets", "Plasma cells"],
+"correct": 1
+},
+{
+"q": "What is the primary reason capillary walls are permeable to small molecules like water, glucose, and oxygen?",
+"a": ["They are made of open metal tubes", "They dissolve completely during digestion", "They are made of a single layer of flat endothelial cells with tiny gaps between them", "They pump water using muscular contraction"],
+"correct": 2
+},
+{
+"q": "What happens when a blood vessel is cut and platelets are exposed to damaged tissue?",
+"a": ["The entire circulatory system stops pumping immediately", "Platelets clump together and release chemical factors to start the clotting process", "Red blood cells turn into white blood cells", "All veins turn into arteries"],
+"correct": 1
+},
+{
+"q": "Which gas produced by cellular respiration diffuses from body cells into the blood capillaries?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "Why do systemic arteries branch into smaller arterioles before becoming capillaries?",
+"a": ["To increase blood pressure to maximum levels", "To gradually reduce blood pressure and regulate flow into delicate capillary beds", "To filter out solid waste", "To convert oxygen into nitrogen"],
+"correct": 1
+},
+{
+"q": "What is the overall role of the systemic circulation loop involving blood vessels?",
+"a": ["To pump blood exclusively between the heart and the lungs", "To transport oxygenated blood from the heart to the body tissues and return deoxygenated blood back to the heart", "To filter food particles in the stomach", "To generate electrical impulses for breathing"],
+"correct": 1
+}
+]
+}

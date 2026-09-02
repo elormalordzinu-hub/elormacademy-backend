@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-diff-app",
+  "name": "Applications of differentiation tangents and optimization",
+  "questions": [
+    {
+      "q": "What is the equation of the tangent to the curve y = 3x² - 4x + 1 at the point where x = 2?",
+      "a": ["y = 8x - 11", "y = 8x + 3", "y = 4x - 1", "y = 8x - 7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the x-coordinate of the stationary point for the curve y = x³ - 3x² - 9x + 5.",
+      "a": ["x = -1 and x = 3", "x = 3 and x = -1", "x = 1 and x = -3", "x = -3 and x = 1"],
+      "correct": 1
+    },
+    {
+      "q": "Determine the nature of the stationary point at x = 3 for the curve y = x³ - 3x² - 9x + 5 using the second derivative test.",
+      "a": ["Local maximum", "Point of inflection", "Local minimum", "Undefined"],
+      "correct": 2
+    },
+    {
+      "q": "A particle moves in a straight line such that its displacement s meters from a fixed point at time t seconds is given by s = t³ - 6t² + 9t. Find the acceleration when t = 4 seconds.",
+      "a": ["6 m/s²", "12 m/s²", "18 m/s²", "24 m/s²"],
+      "correct": 3
+    },
+    {
+      "q": "Find the rate of change of the area of a circle with respect to its radius r when r = 5 cm.",
+      "a": ["10π cm²/cm", "5π cm²/cm", "25π cm²/cm", "20π cm²/cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the gradient of the normal to the curve y = 4x³ - 2x at the point where x = 1?",
+      "a": ["10", "-1/10", "1/10", "-10"],
+      "correct": 1
+    },
+    {
+      "q": "Find the values of x for which the curve y = 2x³ - 9x² + 12x is increasing.",
+      "a": ["x < 1 or x > 2", "1 < x < 2", "x < 1 or x > 2", "No such values"],
+      "correct": 2
+    },
+    {
+      "q": "A rectangular garden is to be fenced using 40 meters of fencing against a long straight wall. What is the maximum possible area of the garden?",
+      "a": ["100 m²", "150 m²", "300 m²", "200 m²"],
+      "correct": 3
+    },
+    {
+      "q": "Find the equation of the normal to the curve y = x² - 5x + 6 at the point where x = 2.",
+      "a": ["x + y - 2 = 0", "x - y + 2 = 0", "x + y + 2 = 0", "2x + y - 1 = 0"],
+      "correct": 0
+    },
+    {
+      "q": "At what point on the curve y = x³ is the gradient equal to 27?",
+      "a": ["(1, 1)", "(3, 27) and (-3, -27)", "(9, 729)", "(3, 9)"],
+      "correct": 1
+    },
+    {
+      "q": "The displacement of a particle is given by s = 4 sin(2t). Find its maximum velocity.",
+      "a": ["2 m/s", "4 m/s", "8 m/s", "16 m/s"],
+      "correct": 2
+    },
+    {
+      "q": "Find the second derivative of f(x) = x⁴ × eˣ.",
+      "a": ["(x⁴ + 8x³ + 12x²) × eˣ", "(4x³ + 12x² + 12x) × eˣ", "(x⁴ + 4x³ + 12x²) × eˣ", "(x⁴ + 8x³ + 12x²) × eˣ"],
+      "correct": 3
+    },
+    {
+      "q": "Find the x-coordinate of the point of inflection on the curve y = x³ - 6x² + 11x - 6.",
+      "a": ["x = 2", "x = 1", "x = 3", "x = 0"],
+      "correct": 0
+    },
+    {
+      "q": "An open box with a square base is to be made from 108 cm² of sheet metal. What base dimension maximizes the volume?",
+      "a": ["3 cm", "6 cm", "4 cm", "9 cm"],
+      "correct": 1
+    },
+    {
+      "q": "If y = ln(3x² + 1), find dy/dx.",
+      "a": ["6x / (3x² + 1)", "3x / (3x² + 1)", "6x / (3x² + 1)", "1 / (3x² + 1)"],
+      "correct": 2
+    },
+    {
+      "q": "Find the smallest value of the function f(x) = 2x³ - 15x² + 36x for x in the interval [1, 5].",
+      "a": ["28", "35", "40", "32"],
+      "correct": 3
+    },
+    {
+      "q": "A ladder 10 meters long rests against a vertical wall. If the bottom of the ladder slides away from the wall at a rate of 0.5 m/s, how fast is the top sliding down when the bottom is 6 meters from the wall?",
+      "a": ["0.375 m/s", "0.5 m/s", "0.25 m/s", "0.75 m/s"],
+      "correct": 0
+    },
+    {
+      "q": "Find the gradient of the curve y = e²ˣ × cos(x) at x = 0.",
+      "a": ["1", "2", "0", "-1"],
+      "correct": 1
+    },
+    {
+      "q": "For what range of values of x is the curve y = 2x³ - 9x² + 12x - 3 concave downwards?",
+      "a": ["x > 1.5", "x < 3", "x < 1.5", "x > 3"],
+      "correct": 2
+    },
+    {
+      "q": "Water is poured into a conical tank at a rate of 8 cm³/s. The height of the tank is 12 cm and the radius of the top is 6 cm. How fast is the water level rising when the water is 4 cm deep?",
+      "a": ["2/π cm/s", "1/(2π) cm/s", "4/π cm/s", "2/π cm/s"],
+      "correct": 3
+    },
+    {
+      "q": "Find the absolute maximum value of f(x) = x³ - 3x + 2 on the interval [0, 2].",
+      "a": ["4", "2", "0", "-2"],
+      "correct": 0
+    },
+    {
+      "q": "If x² + y² = 25, find dy/dx at the point (3, -4).",
+      "a": ["-4/3", "3/4", "-3/4", "4/3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the critical numbers of the function f(x) = x²/³ × (x - 4).",
+      "a": ["x = 0 only", "x = 4 only", "x = 0, x = 1.6", "x = 0, x = 4"],
+      "correct": 2
+    },
+    {
+      "q": "The cost function for producing x units of an item is C(x) = 0.01x³ - 0.6x² + 150x + 1000. Find the marginal cost when x = 20.",
+      "a": ["100", "120", "110", "134"],
+      "correct": 3
+    },
+    {
+      "q": "Find the angle that the tangent to the curve y = x² at the point (2, 4) makes with the positive x-axis.",
+      "a": ["arctan(4)", "π/3", "arctan(2)", "π/4"],
+      "correct": 0
+    },
+    {
+      "q": "Find the linear approximation of f(x) = √x at x = 100, and use it to estimate √102.",
+      "a": ["10.05", "10.1", "10.2", "10.01"],
+      "correct": 1
+    },
+    {
+      "q": "Find the value of k for which the curve y = x³ + kx² + 3x + 1 has a stationary point at x = 1.",
+      "a": ["k = 1", "k = -1", "k = -3", "k = 3"],
+      "correct": 2
+    },
+    {
+      "q": "A cylindrical can is to hold 1000 cm³ of liquid. What radius minimizes the total surface area?",
+      "a": ["(1000/π)^(1/3)", "(500/π)^(1/2)", "10/π", "(500/π)^(1/3)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the maximum vertical distance between the line y = x and the parabola y = x² - x for 0 < x < 1.",
+      "a": ["0.25", "0.5", "1.0", "0.75"],
+      "correct": 0
+    },
+    {
+      "q": "Given y = tan(3x), find the value of the second derivative at x = 0.",
+      "a": ["3", "0", "9", "6"],
+      "correct": 1
+    },
+    {
+      "q": "Find the coordinates of the stationary points of y = x × e⁻ˣ.",
+      "a": ["(0, 0)", "(e, 1)", "(1, 1/e)", "(-1, -e)"],
+      "correct": 2
+    },
+    {
+      "q": "If the displacement of an object is s(t) = t⁴ - 4t³, determine the total distance traveled from t = 0 to t = 5.",
+      "a": ["45 m", "54 m", "27 m", "68 m"],
+      "correct": 3
+    },
+    {
+      "q": "Determine the interval on which the function f(x) = x / (x² + 1) is decreasing.",
+      "a": ["x < -1 or x > 1", "-1 < x < 1", "x > 0", "All real numbers"],
+      "correct": 0
+    },
+    {
+      "q": "Find the slope of the tangent line to the curve x³ + y³ = 6xy at the point (3, 3).",
+      "a": ["0", "-1", "1", "Undefined"],
+      "correct": 1
+    },
+    {
+      "q": "Find the maximum area of a rectangle inscribed in a semicircle of radius R.",
+      "a": ["R²/2", "R²√2", "R²", "2R²"],
+      "correct": 2
+    },
+    {
+      "q": "If f(x) = arctan(2x), find f'(0.5).",
+      "a": ["0.5", "2", "0.25", "1"],
+      "correct": 3
+    },
+    {
+      "q": "Find the value of c that satisfies the Mean Value Theorem for f(x) = x³ - x on the interval [0, 2].",
+      "a": ["2/√3", "1", "√3/3", "√5/3"],
+      "correct": 0
+    },
+    {
+      "q": "Find the limits of the rate of change of y = 3 cos(x) - 4 sin(x).",
+      "a": ["[-3, 3]", "[-5, 5]", "[-4, 4]", "[-1, 1]"],
+      "correct": 1
+    },
+    {
+      "q": "A Norman window consists of a rectangle surmounted by a semicircle. If the perimeter is 12 meters, find the radius of the semicircle that maximizes the area of the window.",
+      "a": ["12 / (4 + π)", "6 / (2 + π)", "6 / (4 + π)", "12 / (2 + π)"],
+      "correct": 2
+    },
+    {
+      "q": "Determine the value of a such that the function f(x) = x³ + ax² + 9x has no stationary points.",
+      "a": ["-3 < a < 3", "a > 3", "a < -3", "-3 < a < 3"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-transport",
+"name": "Plant transport systems",
+"questions": [
+{
+"q": "What is the primary function of plant transport systems?",
+"a": ["To perform rapid locomotion across soil", "To move water, mineral ions, and manufactured sugars to all parts of the plant", "To digest organic food insects", "To generate mechanical wind energy"],
+"correct": 1
+},
+{
+"q": "Which tissue in flowering plants transports water and dissolved mineral ions?",
+"a": ["Phloem", "Cortex", "Xylem", "Pith"],
+"correct": 2
+},
+{
+"q": "Which tissue in flowering plants transports dissolved sugars and amino acids?",
+"a": ["Cambium", "Xylem", "Phloem", "Epidermis"],
+"correct": 2
+},
+{
+"q": "In which direction does water and mineral transport mainly occur within xylem vessels?",
+"a": ["Downward from leaves to roots only", "Upward from roots to stems and leaves", "Sideways from bark to air", "In random circular loops"],
+"correct": 1
+},
+{
+"q": "What substance impregnates the walls of xylem vessels, providing structural strength and waterproofing?",
+"a": ["Lignin", "Cellulose only", "Starch", "Glycogen"],
+"correct": 0
+},
+{
+"q": "Why are mature xylem vessels hollow and dead cells with no end walls?",
+"a": ["To store high amounts of active sugar for night growth", "To perform rapid cellular respiration", "To form continuous microscopic pipes that allow water to flow freely with minimal resistance", "To trap air bubbles inside roots"],
+"correct": 2
+},
+{
+"q": "How are root hair cells specially adapted to maximize the uptake of water and mineral ions?",
+"a": ["They possess a large surface area provided by their long, hair-like projections", "They have thick waterproof layers", "They contain green chloroplasts for light absorption", "They are made of solid bone tissue"],
+"correct": 0
+},
+{
+"q": "Through which process do water molecules enter root hair cells from the soil?",
+"a": ["Active transport", "Translocation", "Diffusion of heavy gases", "Osmosis"],
+"correct": 3
+},
+{
+"q": "What drives the transpiration stream, pulling water up from the roots through the stem to the leaves?",
+"a": ["Active muscle pumping by stem cells", "Root pressure and the evaporation of water vapor from leaf stomata", "Gravity pulling water upward", "Heat from underground magma"],
+"correct": 1
+},
+{
+"q": "What is the continuous flow of water through a plant called?",
+"a": ["The translocation current", "The respiratory cycle", "The transpiration stream", "The circulatory flood"],
+"correct": 2
+},
+{
+"q": "Which environmental condition increases the rate of transpiration in plants?",
+"a": ["High humidity and darkness", "Freezing and still air", "Constant heavy rainfall", "Warm temperatures, wind, and low humidity"],
+"correct": 3
+},
+{
+"q": "What role do stomata play in the transport system of a plant?",
+"a": ["They pump mineral ions deep into roots", "They act as valves controlling water vapor loss and carbon dioxide entry, sustaining the transpiration pull", "They seal the plant against all fluid movement", "They produce sugary sap"],
+"correct": 1
+},
+{
+"q": "How does translocation in phloem differ from water transport in xylem?",
+"a": ["Translocation moves water downward only using dead cells", "Translocation moves sugars in living sieve tubes in both upward and downward directions", "Translocation requires no energy from the plant", "Translocation occurs exclusively in plant roots"],
+"correct": 1
+},
+{
+"q": "What are the specialized living cells that make up phloem tissue called?",
+"a": ["Palisade and spongy cells", "Guard cells and root hairs", "Sieve tube elements and companion cells", "Lignified xylem rings"],
+"correct": 2
+},
+{
+"q": "Which mineral ion do plants require combined with glucose to manufacture amino acids and proteins?",
+"a": ["Sodium chloride", "Calcium carbonate", "Magnesium sulfate", "Nitrate ions"],
+"correct": 3
+},
+{
+"q": "What is the consequence for a plant if its xylem vessels are completely blocked or severed?",
+"a": ["The plant grows twice as fast", "Leaves wilt rapidly due to a lack of water supply", "Phloem transport speeds up to compensate", "Roots start producing green leaves"],
+"correct": 1
+},
+{
+"q": "Why do plants transpire, losing large amounts of water vapor?",
+"a": ["To flood the soil with excess water", "It is an accidental side effect of opening stomata for gas exchange, which also cools the plant and pulls minerals", "To make their leaves heavy", "To dissolve insects on the surface"],
+"correct": 1
+},
+{
+"q": "How do mineral ions move from the soil into root hair cells when their concentration is higher inside the root than in the soil?",
+"a": ["By simple passive diffusion", "By active transport using energy", "By osmosis down a gradient", "By evaporation into gas"],
+"correct": 1
+},
+{
+"q": "What happens to the rate of transpiration when the humidity of the surrounding air increases?",
+"a": ["Transpiration rate decreases because the concentration gradient between leaf air spaces and outside air is reduced", "Transpiration rate increases rapidly", "Transpiration stops completely for one year", "Transpiration rate remains completely unaffected"],
+"correct": 0
+},
+{
+"q": "Which scientific tool or laboratory apparatus is commonly used to measure the rate of water uptake by a leafy shoot?",
+"a": ["A potometer", "A thermometer", "A barometer", "A centrifuge"],
+"correct": 0
+},
+{
+"q": "What is the primary storage form of manufactured sugars when they reach plant storage organs like roots or tubers?",
+"a": ["Cellulose", "Starch", "Protein fibers", "Free glucose solution"],
+"correct": 1
+},
+{
+"q": "Where are vascular bundles (containing both xylem and phloem) typically located in a dicotyledonous plant stem?",
+"a": ["Scattered randomly through the center", "On the outer waxy cuticle surface", "Arranged in a ring near the outer edge of the stem", "Inside root cap hairs"],
+"correct": 2
+},
+{
+"q": "Why do plant roots need a constant supply of oxygen from air spaces in the soil?",
+"a": ["To perform photosynthesis underground", "To power active transport of mineral ions into root cells via respiration", "To burn xylem vessels into wood", "To keep roots cool"],
+"correct": 1
+},
+{
+"q": "What happens to a plant if the soil becomes completely waterlogged and lacks oxygen?",
+"a": ["The plant absorbs water much faster", "Leaves turn bright blue", "Roots cannot respire aerobically, active transport stops, and the plant may die", "Xylem tubes multiply by ten"],
+"correct": 2
+},
+{
+"q": "Which factor causes guard cells to change shape and open stomata during daylight hours?",
+"a": ["Drying out completely until they shrink", "Accumulation of water inside guard cells making them turgid", "Freezing temperatures at night", "High wind speeds closing pores"],
+"correct": 1
+},
+{
+"q": "What is the structural arrangement of xylem and phloem inside a plant leaf called?",
+"a": ["Root hair networks", "Stomatal chambers", "Leaf veins or vascular bundles", "Cuticle layers"],
+"correct": 2
+},
+{
+"q": "Which direction does sap flow within phloem vessels during the spring when sugars are mobilized from storage roots to growing buds?",
+"a": ["Downward from leaves only", "Sideways into soil", "Upward from roots to growing shoots", "It does not move at all"],
+"correct": 2
+},
+{
+"q": "What physical property of water molecules allows them to stick together (cohesion), helping pull the water column up xylem tubes?",
+"a": ["Magnetic attraction to iron pipes", "Hydrogen bonding between water molecules", "Solid freezing properties", "High oily density"],
+"correct": 1
+},
+{
+"q": "How does an increase in wind speed affect the transpiration rate of a plant?",
+"a": ["It decreases transpiration by cooling leaves", "It stops water movement entirely", "It turns water into vapor inside roots", "It increases transpiration by blowing away humid air from around stomata, maintaining a steep concentration gradient"],
+"correct": 3
+},
+{
+"q": "What is the main function of companion cells associated with phloem sieve tubes?",
+"a": ["To transport water upward like xylem", "To provide metabolic energy and control the loading and unloading of sugars in the phloem", "To form hard lignin rings", "To capture sunlight for photosynthesis"],
+"correct": 1
+},
+{
+"q": "Why do plants living in hot desert environments often have reduced, needle-like leaves or spines?",
+"a": ["To maximize water loss", "To catch extra rainfall", "To perform photosynthesis without sunlight", "To minimize surface area and reduce water loss through transpiration"],
+"correct": 3
+},
+{
+"q": "What term describes water loss from a plant that occurs in liquid droplet form at the edges of leaves through special pores (hydathodes)?",
+"a": ["Transpiration", "Guttation", "Condensation", "Precipitation"],
+"correct": 1
+},
+{
+"q": "Which experiment demonstrates that phloem is the tissue responsible for transporting sugars?",
+"a": ["Boiling leaves in ethanol", "Ringing (bark stripping) experiments where sugar accumulates above the cut", "Testing soil with iodine", "Weighing dry roots"],
+"correct": 1
+},
+{
+"q": "What happens to the water potential inside a root hair cell when it actively absorbs mineral ions from the soil?",
+"a": ["Water potential becomes more negative (lower), causing water to flow inward by osmosis", "Water potential rises to zero, pushing water out", "Water turns into solid crystals", "Water transport stops"],
+"correct": 0
+},
+{
+"q": "Which feature of xylem vessel walls prevents them from bursting under high root pressure or collapsing under tension?",
+"a": ["A soft rubbery coating", "Thick rings or spirals of lignin", "Active muscle contractions", "Open pores"],
+"correct": 1
+},
+{
+"q": "Why do deciduous trees shed their leaves before winter in cold climates?",
+"a": ["To make room for new flowers", "To prevent freezing water loss when liquid water is unavailable in frozen soil", "To feed soil bacteria", "To stop photosynthesis permanently forever"],
+"correct": 1
+},
+{
+"q": "What is the primary source of the water that moves up through the xylem of a tall tree?",
+"a": ["Dew collected on upper branches", "Rainwater absorbed from the soil by root hair cells", "Moisture absorbed directly from air by leaves", "Water stored inside flower petals"],
+"correct": 1
+},
+{
+"q": "How does light intensity influence transpiration rate during the day?",
+"a": ["Higher light intensity closes all stomata instantly", "Light has zero effect on water transport", "Higher light intensity causes stomata to open for photosynthesis, increasing transpiration", "Darkness increases water uptake"],
+"correct": 2
+},
+{
+"q": "What is the main substance transported in solution through the phloem sieve tubes?",
+"a": ["Pure oxygen gas", "Insoluble starch polymers", "Sucrose and amino acids", "Mineral salts and sand"],
+"correct": 2
+},
+{
+"q": "Which plant organ is primarily responsible for generating the pull that draws water up the stem from roots?",
+"a": ["The stem bark", "The leaf (via evaporation and transpiration)", "The root cap", "The seed coat"],
+"correct": 1
+}
+]
+}

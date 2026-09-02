@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-gases",
+"name": "Ideal gases and kinetic theory",
+"questions": [
+{
+"q": "What does the equation of state for an ideal gas relate?",
+"a": ["p V = n R T", "p = n R V T", "V = p R T", "T = p V / R²"],
+"correct": 0
+},
+{
+"q": "What is Avogadro's constant N_A defined as?",
+"a": ["The number of moles in 1 kg of a substance", "The number of atoms or molecules in one mole of a substance (approx 6.02 x 10²³ mol⁻¹)", "The number of gas molecules in 1 m³ at standard temperature and pressure", "The mass of one molecule in atomic mass units"],
+"correct": 1
+},
+{
+"q": "What is the root-mean-square (rms) speed v_rms of gas molecules of mass m at absolute temperature T?",
+"a": ["v_rms = square root of (k T / m)", "v_rms = square root of (2 k T / m)", "v_rms = square root of (3 k T / m)", "v_rms = 3 k T / m"],
+"correct": 2
+},
+{
+"q": "Which of the following assumptions is NOT a core postulate of the kinetic theory of an ideal gas?",
+"a": ["Gas molecules are in continuous random motion.", "Collisions between molecules and container walls are perfectly elastic.", "The volume of the molecules themselves is negligible compared to the total volume of the container.", "Intermolecular forces between molecules are strong and attractive at all distances."],
+"correct": 3
+},
+{
+"q": "What is the average translational kinetic energy of a single ideal gas molecule at absolute temperature T?",
+"a": ["1.5 k T", "0.5 k T", "3 k T", "k T"],
+"correct": 0
+},
+{
+"q": "What does Boyle's law state for a fixed mass of gas at constant temperature?",
+"a": ["Pressure is directly proportional to temperature", "Pressure is inversely proportional to volume (p V = constant)", "Volume is directly proportional to temperature", "Pressure is directly proportional to volume"],
+"correct": 1
+},
+{
+"q": "What is the Boltzmann constant k related to the universal gas constant R and Avogadro's constant N_A?",
+"a": ["k = R N_A", "k = N_A / R", "k = R / N_A", "k = R² / N_A"],
+"correct": 2
+},
+{
+"q": "What does Charles's law state for a fixed mass of gas at constant pressure?",
+"a": ["Volume is inversely proportional to temperature", "Pressure is proportional to volume", "Temperature is independent of volume", "Volume is directly proportional to thermodynamic temperature (V / T = constant)"],
+"correct": 3
+},
+{
+"q": "What is the total internal energy U of an ideal monatomic gas consisting of n moles at temperature T?",
+"a": ["U = 1.5 n R T", "U = 0.5 n R T", "U = 3 n R T", "U = n R T"],
+"correct": 0
+},
+{
+"q": "What does the Kelvin thermodynamic temperature scale have its zero point defined as?",
+"a": ["The freezing point of brine", "Absolute zero, the temperature at which all substances have minimum internal energy and molecular motion ceases", "The triple point of water exactly", "The boiling point of liquid nitrogen"],
+"correct": 1
+},
+{
+"q": "A fixed mass of an ideal gas is heated at constant volume. What happens to the root-mean-square speed of its molecules if the absolute temperature is quadrupled?",
+"a": ["It is halved", "It remains unchanged", "It is doubled", "It increases by a factor of 4"],
+"correct": 2
+},
+{
+"q": "How is pressure exerted by an ideal gas on the walls of its container explained by kinetic theory?",
+"a": ["By the static repulsion between gas molecules", "By gravitational attraction between molecules and container", "By the continuous creation of momentum at the walls", "By the rate of change of momentum when molecules undergo elastic collisions with the container walls"],
+"correct": 3
+},
+{
+"q": "What is the pressure p of an ideal gas given by the kinetic theory equation involving density rho and mean square speed <c²>?",
+"a": ["p = (1/3) rho <c²>", "p = rho <c²>", "p = (1/2) rho <c²>", "p = (2/3) rho <c²>"],
+"correct": 0
+},
+{
+"q": "What is the amount of substance measured in moles defined as?",
+"a": ["The mass of a substance in grams", "The amount of substance containing as many elementary entities as there are atoms in 0.012 kg of carbon-12", "The volume occupied by 1 kg of gas", "The number of molecules divided by Boltzmann's constant"],
+"correct": 1
+},
+{
+"q": "What is the molar gas constant R approximately equal to?",
+"a": ["1.38 x 10⁻²³ J K⁻¹", "6.02 x 10²³ mol⁻¹", "8.31 J mol⁻¹ K⁻¹", "9.81 N kg⁻¹"],
+"correct": 2
+},
+{
+"q": "Which equation correctly expresses the ideal gas law in terms of the number of molecules N and the Boltzmann constant k?",
+"a": ["p V = n k T", "p V = N R T", "p V = n R T / k", "p V = N k T"],
+"correct": 3
+},
+{
+"q": "What is the root-mean-square speed of oxygen molecules (M = 0.032 kg mol⁻¹) at a temperature of 300 K? (R = 8.31 J mol⁻¹ K⁻¹)",
+"a": ["483 m s⁻¹", "300 m s⁻¹", "831 m s⁻¹", "1040 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "What does the term 'ideal gas' imply in thermodynamic models?",
+"a": ["A gas that liquefies at high pressure and low temperature", "A gas that strictly obeys the equation p V = n R T under all conditions, with negligible molecular volume and no intermolecular forces except during collisions", "A gas whose molecules possess mass but travel at the speed of light", "A gas that never exchanges heat with its surroundings"],
+"correct": 1
+},
+{
+"q": "What is the kinetic energy of one mole of a monatomic ideal gas at temperature T?",
+"a": ["1.5 k T", "0.5 R T", "1.5 R T", "3 R T"],
+"correct": 2
+},
+{
+"q": "What is the temperature in Kelvin corresponding to 27 degrees Celsius?",
+"a": ["246 K", "273 K", "300.15 K", "300 K"],
+"correct": 3
+},
+{
+"q": "If the volume of a fixed mass of ideal gas is halved while its absolute temperature is doubled, what happens to the pressure of the gas?",
+"a": ["It increases by a factor of 4", "It remains unchanged", "It is halved", "It doubles"],
+"correct": 0
+},
+{
+"q": "What is the molar mass of a gas defined as?",
+"a": ["The mass of a single molecule", "The mass of one mole of that substance", "The density of the gas at standard temperature and pressure", "The total mass of the container"],
+"correct": 1
+},
+{
+"q": "What happens to the pressure of an ideal gas kept at constant volume when its temperature is decreased from 600 K to 300 K?",
+"a": ["It quadruples", "It doubles", "It is halved", "It drops to zero"],
+"correct": 2
+},
+{
+"q": "What is the primary reason why real gases deviate from ideal gas behavior at very high pressures and very low temperatures?",
+"a": ["Molecules travel faster at high pressures.", "Molecular collisions become completely inelastic.", "Gravity affects gas molecules significantly.", "Intermolecular forces and the finite volume of the molecules themselves become non-negligible."],
+"correct": 3
+},
+{
+"q": "What is the work done by a gas when it expands at constant pressure p from volume V1 to V2?",
+"a": ["W = p (V2 - V1)", "W = p V1 ln(V2 / V1)", "W = 0.5 p (V2 - V1)²", "W = zero"],
+"correct": 0
+},
+{
+"q": "Which of the following parameters is a direct measure of the average translational kinetic energy of gas molecules?",
+"a": ["Pressure", "Thermodynamic temperature (T)", "Volume", "Density"],
+"correct": 1
+},
+{
+"q": "A cylinder contains 2 moles of an ideal gas at 300 K. What is the total translational kinetic energy of the gas? (R = 8.31 J mol⁻¹ K⁻¹)",
+"a": ["3739 J", "2493 J", "7479 J", "14958 J"],
+"correct": 2
+},
+{
+"q": "What is the relationship between Celsius temperature theta and Kelvin temperature T?",
+"a": ["T = theta - 273.15", "T = theta * 273.15", "T = theta / 273.15", "T = theta + 273.15"],
+"correct": 3
+},
+{
+"q": "What is the root-mean-square speed of hydrogen molecules (molar mass 2.0 g mol⁻¹) at 27 degrees Celsius?",
+"a": ["1930 m s⁻¹", "500 m s⁻¹", "1120 m s⁻¹", "340 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "What does Gay-Lussac's law state for a fixed mass of gas at constant volume?",
+"a": ["Volume is proportional to temperature", "Pressure is directly proportional to absolute temperature (p / T = constant)", "Pressure is inversely proportional to volume", "Temperature is constant"],
+"correct": 1
+},
+{
+"q": "If 1 mole of an ideal gas is at standard temperature (273 K) and standard pressure (1.01 x 10⁵ Pa), what is its approximate volume?",
+"a": ["11.2 litres", "1.00 litre", "22.4 litres", "44.8 litres"],
+"correct": 2
+},
+{
+"q": "Which of the following molecular properties determines the speed of sound in an ideal gas?",
+"a": ["Container volume only", "Total mass of the gas container", "Shape of the gas molecules", "Root-mean-square speed of the molecules and the adiabatic index (gamma)"],
+"correct": 3
+},
+{
+"q": "What is the number of molecules in 0.5 moles of oxygen gas?",
+"a": ["3.01 x 10²³", "6.02 x 10²³", "1.20 x 10²⁴", "1.50 x 10²³"],
+"correct": 0
+},
+{
+"q": "What is the internal energy of an ideal gas solely dependent upon?",
+"a": ["Its pressure", "Its absolute temperature", "Its volume", "Its container shape"],
+"correct": 1
+},
+{
+"q": "What is the density of an ideal gas of molar mass M at pressure p and temperature T?",
+"a": ["rho = p T / (M R)", "rho = M R / (p T)", "rho = p M / (R T)", "rho = R T / (p M)"],
+"correct": 2
+},
+{
+"q": "Why can root-mean-square speed be used instead of average speed in kinetic theory calculations?",
+"a": ["Because all molecules travel at exactly the same speed", "Because average velocity is always non-zero", "Because rms speed is mathematically simpler", "Because pressure depends on the average of the squared velocities (<c²>) of the molecules"],
+"correct": 3
+},
+{
+"q": "What is the mass of a single water molecule (H₂O, molar mass 18 g mol⁻¹)?",
+"a": ["2.99 x 10⁻²⁶ kg", "1.66 x 10⁻²⁷ kg", "3.00 x 10⁻²³ kg", "1.80 x 10⁻²⁵ kg"],
+"correct": 0
+},
+{
+"q": "What happens when a high-pressure gas is allowed to expand rapidly into a vacuum (free expansion)?",
+"a": ["Temperature increases significantly", "Internal energy remains approximately constant for an ideal gas with zero work done and no heat transferred", "Pressure increases", "Gas condenses instantly"],
+"correct": 1
+},
+{
+"q": "What is the pressure exerted by 1 mole of an ideal gas occupying 0.0224 m³ at 273 K?",
+"a": ["0.50 x 10⁵ Pa", "2.02 x 10⁵ Pa", "1.01 x 10⁵ Pa", "5.05 x 10⁴ Pa"],
+"correct": 2
+},
+{
+"q": "What is the physical significance of the Boltzmann constant k?",
+"a": ["It relates macroscopic pressure to microscopic volume.", "It measures the viscosity of gases.", "It converts moles to grams.", "It relates the average kinetic energy of gas particles to the thermodynamic temperature on a molecular scale."],
+"correct": 3
+}
+]
+}

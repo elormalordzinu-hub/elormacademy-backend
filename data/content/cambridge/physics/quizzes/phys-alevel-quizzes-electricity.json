@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-electricity",
+"name": "Current electricity and network analysis",
+"questions": [
+{
+"q": "How is electric current I defined in terms of charge Q and time t?",
+"a": ["I = dQ / dt", "I = Q * t", "I = Q / t²", "I = t / Q"],
+"correct": 0
+},
+{
+"q": "What does Ohm's law state for a metallic conductor at constant temperature?",
+"a": ["Current is inversely proportional to potential difference", "Potential difference across the conductor is directly proportional to the current flowing through it (V proportional to I)", "Resistance is independent of material", "Power dissipated is zero"],
+"correct": 1
+},
+{
+"q": "What is electrical resistivity rho defined as in terms of resistance R, cross-sectional area A, and length L of a wire?",
+"a": ["rho = R A / L²", "rho = L / (R A)", "rho = R A / L", "rho = R L / A"],
+"correct": 2
+},
+{
+"q": "What does Kirchhoff's first law (current law / junction rule) state, which is based on the conservation of which quantity?",
+"a": ["Conservation of energy", "Conservation of momentum", "Conservation of magnetic flux", "Conservation of charge (sum of currents entering a junction equals sum of currents leaving)"],
+"correct": 3
+},
+{
+"q": "What is the terminal potential difference V of a power source with electromotive force (emf) E and internal resistance r when delivering a current I?",
+"a": ["V = E - I r", "V = E + I r", "V = I r - E", "V = E / (I r)"],
+"correct": 0
+},
+{
+"q": "What does Kirchhoff's second law (voltage law / loop rule) state, which is based on the conservation of which quantity?",
+"a": ["Conservation of charge", "Conservation of energy (the sum of emfs around any closed loop equals the sum of potential drops)", "Conservation of mass", "Conservation of momentum"],
+"correct": 1
+},
+{
+"q": "What is electrical power P dissipated in a resistor of resistance R carrying current I expressed as?",
+"a": ["P = I² / R", "P = V² / R²", "P = I² R", "P = R / I²"],
+"correct": 2
+},
+{
+"q": "How do resistors combine when connected in parallel with total resistance R_total?",
+"a": ["R_total = R1 + R2 + R3", "R_total = R1 * R2 / (R1 - R2)", "R_total = R1 * R2 * R3", "1 / R_total = 1 / R1 + 1 / R2 + 1 / R3"],
+"correct": 3
+},
+{
+"q": "What is drift velocity v of charge carriers in a metal wire carrying current I given cross-sectional area A, number density n, and elementary charge e?",
+"a": ["v = I / (n A e)", "v = n A e / I", "v = I n A / e", "v = e / (n A I)"],
+"correct": 0
+},
+{
+"q": "What happens to the resistance of a pure metal wire as its temperature increases?",
+"a": ["Resistance decreases to zero", "Resistance increases because lattice ions vibrate with greater amplitude, increasing collisions with free electrons", "Resistance remains strictly constant", "Resistance drops suddenly and becomes negative"],
+"correct": 1
+},
+{
+"q": "What is the total resistance of three resistors of 2 ohms, 3 ohms, and 5 ohms connected in series?",
+"a": ["0.97 ohms", "30 ohms", "10 ohms", "5 ohms"],
+"correct": 2
+},
+{
+"q": "What is a potential divider circuit primarily used for?",
+"a": ["To permanently destroy excess current", "To convert alternating current into direct current", "To store electrical energy in a magnetic field", "To supply a fraction or variable fraction of an input voltage to a component"],
+"correct": 3
+},
+{
+"q": "What are the SI base units of electrical resistivity rho?",
+"a": ["ohm meter (ohm m, or kg m³ s⁻³ A⁻²)", "ohm per meter (ohm m⁻¹)", "volt ampere (V A)", "siemens per meter (S m⁻¹)"],
+"correct": 0
+},
+{
+"q": "What is the internal resistance of an ideal voltage source (emf)?",
+"a": ["Infinite", "Zero", "Equal to load resistance", "Undefined"],
+"correct": 1
+},
+{
+"q": "What is the behavior of an NTC (negative temperature coefficient) thermistor?",
+"a": ["Its resistance increases linearly with temperature", "Its resistance remains constant across all temperatures", "Its resistance decreases as its temperature increases", "Its resistance drops to absolute zero at room temperature"],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of a potentiometer circuit compared to a standard voltmeter?",
+"a": ["To measure high-frequency AC signals", "To consume maximum power from the test circuit", "To amplify weak electrical signals", "To measure potential differences accurately with zero current drawn from the source at balance point"],
+"correct": 3
+},
+{
+"q": "What is the current flowing through a 100-ohm resistor connected across a 12 V battery with negligible internal resistance?",
+"a": ["0.12 A", "1200 A", "8.33 A", "1.20 A"],
+"correct": 0
+},
+{
+"q": "What does a light-dependent resistor (LDR) exhibit when light intensity falling on it increases?",
+"a": ["An increase in resistance", "A decrease in resistance", "No change in electrical properties", "Generation of a massive emf"],
+"correct": 1
+},
+{
+"q": "A cell of emf 1.5 V and internal resistance 0.5 ohms is connected across an external load resistor of 2.5 ohms. What is the current in the circuit?",
+"a": ["0.30 A", "0.60 A", "0.50 A", "3.00 A"],
+"correct": 2
+},
+{
+"q": "What is the electrical energy transferred when a current of 2.0 A flows through a potential difference of 12 V for 5 minutes (300 seconds)?",
+"a": ["120 J", "30 J", "3600 J", "7200 J"],
+"correct": 3
+},
+{
+"q": "What is the equivalent resistance of two 6-ohm resistors connected in parallel?",
+"a": ["3 ohms", "12 ohms", "6 ohms", "1.5 ohms"],
+"correct": 0
+},
+{
+"q": "Why is high voltage used for the transmission of electrical power over long distances across national grids?",
+"a": ["To increase line resistance and heat generation", "To reduce transmission current, thereby minimizing thermal power losses (I² R) in the cables", "To make electricity travel faster than light", "To eliminate magnetic fields around towers"],
+"correct": 1
+},
+{
+"q": "What is the resistance of a copper wire of length 50 m and cross-sectional area 1.0 x 10⁻⁶ m²? (Resistivity of copper = 1.7 x 10⁻⁸ ohm m)",
+"a": ["0.085 ohms", "8.50 ohms", "0.85 ohms", "1.70 ohms"],
+"correct": 2
+},
+{
+"q": "What is the main characteristic of a superconductor below its critical temperature T_c?",
+"a": ["It has infinite electrical resistance", "It blocks all magnetic fields completely without exception", "It melts instantly", "Its electrical resistivity drops to zero, allowing currents to flow without any energy dissipation"],
+"correct": 3
+},
+{
+"q": "What is the terminal potential difference of a cell with emf 2.0 V and internal resistance 0.2 ohms when a current of 2.5 A is drawn from it?",
+"a": ["1.5 V", "2.5 V", "2.0 V", "1.0 V"],
+"correct": 0
+},
+{
+"q": "Which equation relates electrical power P, current I, and resistance R?",
+"a": ["P = I / R", "P = I² R", "P = R / I", "P = I R²"],
+"correct": 1
+},
+{
+"q": "What is the drift velocity of electrons in a copper wire of cross-sectional area 2.0 x 10⁻⁶ m² carrying a current of 5.0 A? (Assume number density n = 8.5 x 10²⁸ m⁻³, e = 1.60 x 10⁻¹⁹ C)",
+"a": ["1.8 x 10⁻⁴ m s⁻¹", "3.7 x 10⁻³ m s⁻¹", "1.8 x 10⁻⁵ m s⁻¹", "9.2 x 10⁻⁶ m s⁻¹"],
+"correct": 2
+},
+{
+"q": "What is the potential at the junction of two resistors R1 and R2 connected in series across a supply voltage V_in in a potential divider circuit?",
+"a": ["V_out = V_in * (R1 / R2)", "V_out = V_in * (R2 / R1)", "V_out = V_in * (R1 + R2) / R1", "V_out = V_in * (R2 / (R1 + R2))"],
+"correct": 3
+},
+{
+"q": "What is the resistance of a 60 W incandescent light bulb designed to operate at a mains voltage of 240 V?",
+"a": ["960 ohms", "4 ohms", "14,400 ohms", "240 ohms"],
+"correct": 0
+},
+{
+"q": "What does a Wheatstone bridge circuit balanced condition imply regarding galvanometer current?",
+"a": ["Galvanometer current is maximum", "Galvanometer current is zero, indicating that the ratio of adjacent resistances is equal (R1/R2 = R3/R4)", "Power supply voltage drops to zero", "All resistors become superconductors"],
+"correct": 1
+},
+{
+"q": "If the length of a uniform wire is doubled and its cross-sectional area is halved, what happens to its total electrical resistance?",
+"a": ["It remains unchanged", "It is halved", "It increases by a factor of 4", "It is quadrupled (Wait: R = rho L / A. If L' = 2L and A' = A/2, then R' = rho (2L) / (A/2) = 4 rho L / A = 4R)", "It doubles"],
+"correct": 2
+},
+{
+"q": "Which of the following describes ohmic conductors?",
+"a": ["Conductors whose resistance varies with current", "Conductors that do not obey Ohm's law under any conditions", "Conductors that exhibit semiconductor properties", "Conductors that obey Ohm's law, maintaining a constant resistance over a wide range of operating temperatures and voltages"],
+"correct": 3
+},
+{
+"q": "What is the total charge passing through a cross-section of a wire in 2 minutes when a steady current of 0.5 A flows?",
+"a": ["60 C", "1 C", "30 C", "120 C"],
+"correct": 0
+},
+{
+"q": "What is internal resistance in a chemical power source (battery) caused by?",
+"a": ["External circuit wiring length", "Resistance of the internal electrolyte and electrodes opposing the flow of ions and electrons", "Magnetic flux leakage", "Radiation losses"],
+"correct": 1
+},
+{
+"q": "What is the power dissipated in a 50-ohm resistor carrying a current of 0.4 A?",
+"a": ["20 W", "4 W", "8 W", "100 W"],
+"correct": 2
+},
+{
+"q": "How does the total resistance of a combination of resistors in parallel compare to the smallest individual resistor in that combination?",
+"a": ["It is equal to the sum of all resistors", "It is greater than the largest resistor", "It is equal to the average of the resistors", "It is always smaller than the smallest individual resistor in the combination"],
+"correct": 3
+},
+{
+"q": "What is the potential difference across a 10-ohm resistor when 200 mA of current flows through it?",
+"a": ["2.0 V", "20 V", "0.02 V", "50 V"],
+"correct": 0
+},
+{
+"q": "Which component exhibits non-ohmic behavior with a characteristic 'S-shaped' or forward-biased exponential current-voltage curve?",
+"a": ["A metallic heating element", "A semiconductor diode", "A carbon film resistor", "A standard laboratory rheostat"],
+"correct": 1
+},
+{
+"q": "What is the cost of operating a 2 kW electric heater for 5 hours if electricity costs $0.15 per kilowatt-hour (kWh)?",
+"a": ["$0.75", "$0.30", "$1.50", "$3.00"],
+"correct": 2
+},
+{
+"q": "What is the role of a standard cell in a potentiometer calibration circuit?",
+"a": ["To act as the load resistor", "To measure high alternating currents", "To provide variable resistance", "To provide a known, stable reference emf against which other voltages can be compared"],
+"correct": 3
+}
+]
+}

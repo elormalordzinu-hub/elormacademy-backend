@@ -1,0 +1,206 @@
+{
+  "id": "math-yr8-quizzes-pythagoras",
+  "name": "Pythagoras theorem basics",
+  "questions": [
+    {
+      "q": "In a right-angled triangle, what is the name of the longest side which is opposite the right angle?",
+      "a": ["Hypotenuse", "Adjacent", "Opposite", "Base"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is Pythagoras theorem formula for a right-angled triangle with legs a and b and hypotenuse c?",
+      "a": ["a + b = c", "a² + b² = c²", "a² - b² = c²", "a + b² = c²"],
+      "correct": 1
+    },
+    {
+      "q": "A right-angled triangle has shorter sides of length 6 cm and 8 cm. What is the length of the hypotenuse?",
+      "a": ["14 cm", "10 cm", "12 cm", "7 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If the hypotenuse of a right-angled triangle is 13 cm and one of the shorter sides is 5 cm, what is the length of the other short side?",
+      "a": ["8 cm", "18 cm", "14 cm", "12 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following sets of side lengths forms a right-angled triangle?",
+      "a": ["3 cm, 4 cm, 5 cm", "2 cm, 3 cm, 4 cm", "5 cm, 6 cm, 7 cm", "6 cm, 8 cm, 12 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A ladder 10 meters long rests against a vertical wall. The base of the ladder is 6 meters away from the wall. How high up the wall does the ladder reach?",
+      "a": ["4 meters", "8 meters", "7 meters", "√136 meters"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the length of the hypotenuse of a right-angled triangle with legs measuring 9 cm and 12 cm.",
+      "a": ["21 cm", "13 cm", "15 cm", "√63 cm"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is NOT a Pythagorean triple?",
+      "a": ["5, 12, 13", "8, 15, 17", "7, 24, 25", "6, 8, 11"],
+      "correct": 3
+    },
+    {
+      "q": "A rectangle has a length of 24 cm and a width of 7 cm. What is the length of its diagonal?",
+      "a": ["25 cm", "31 cm", "17 cm", "√527 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If a right-angled isosceles triangle has equal shorter sides of length 5 cm each, what is the exact length of the hypotenuse?",
+      "a": ["√25 cm", "√50 cm", "10 cm", "√10 cm"],
+      "correct": 1
+    },
+    {
+      "q": "An equilateral triangle has a side length of 10 cm. What is the exact perpendicular height of the triangle?",
+      "a": ["5 cm", "10 cm", "5√3 cm", "10√3 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A ship sails 9 km due East and then 12 km due North. How far is the ship from its starting point in a straight line?",
+      "a": ["21 km", "10.5 km", "18 km", "15 km"],
+      "correct": 3
+    },
+    {
+      "q": "What is the missing side length in a right triangle where hypotenuse is 20 cm and one leg is 16 cm?",
+      "a": ["12 cm", "4 cm", "√656 cm", "25 cm"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following triangles with given side lengths is NOT a right-angled triangle?",
+      "a": ["9, 40, 41", "10, 24, 27", "9, 12, 15", "12, 35, 37"],
+      "correct": 1
+    },
+    {
+      "q": "A square has a diagonal of length 10 cm. What is the side length of the square to 1 decimal place?",
+      "a": ["5.0 cm", "14.1 cm", "7.1 cm", "8.7 cm"],
+      "correct": 2
+    },
+    {
+      "q": "Two hikers start from the same camp. Hiker A walks 5 km East, and Hiker B walks 12 km North. What is the straight-line distance between them?",
+      "a": ["17 km", "7 km", "14 km", "13 km"],
+      "correct": 3
+    },
+    {
+      "q": "The sides of a triangle are 15 cm, 36 cm, and 39 cm. Is this a right-angled triangle, and why?",
+      "a": ["Yes, because 15² + 36² = 39²", "No, because 15 + 36 does not equal 39", "Yes, because 36² + 39² = 15²", "No, because it is an obtuse triangle"],
+      "correct": 0
+    },
+    {
+      "q": "What is the length of the longest rod that can fit flat inside a rectangular box of dimensions 3 cm by 4 cm by 12 cm (space diagonal)?",
+      "a": ["15 cm", "13 cm", "19 cm", "17 cm"],
+      "correct": 1
+    },
+    {
+      "q": "A rhombus has diagonals of lengths 10 cm and 24 cm. What is the length of one side of the rhombus?",
+      "a": ["26 cm", "17 cm", "13 cm", "15 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If the hypotenuse of a right-angled triangle is 10 cm and the triangle is isosceles, what is the length of each leg?",
+      "a": ["5 cm", "7.1 cm", "5√2 cm", "5√2 cm (approx 7.07 cm)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the perimeter of a right-angled triangle whose legs measure 10 cm and 24 cm.",
+      "a": ["60 cm", "34 cm", "58 cm", "26 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A wire is attached from the top of a 15-meter vertical flagpole to a point on the ground 8 meters away from the base. What is the length of the wire?",
+      "a": ["23 meters", "17 meters", "√161 meters", "20 meters"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, angle B = 90°, AB = 8 cm, and BC = 15 cm. What is the length of AC?",
+      "a": ["23 cm", "16 cm", "17 cm", "19 cm"],
+      "correct": 2
+    },
+    {
+      "q": "Which calculation correctly finds the unknown shorter side x when the hypotenuse is 25 and the other leg is 7?",
+      "a": ["x = √(25 + 7)", "x = 25 - 7", "x = √(25 + 7)", "x = √(25² - 7²)"],
+      "correct": 3
+    },
+    {
+      "q": "A cyclist rides 15 km North, then turns and rides 8 km East. How far is the cyclist from the starting point?",
+      "a": ["17 km", "23 km", "16.1 km", "7 km"],
+      "correct": 0
+    },
+    {
+      "q": "What is the height of an isosceles triangle whose base is 12 cm and whose two equal sides are each 10 cm long?",
+      "a": ["6 cm", "8 cm", "√136 cm", "√19 cm"],
+      "correct": 1
+    },
+    {
+      "q": "If a triangle has sides 9, 12, and 16, what type of triangle is it based on Pythagoras theorem?",
+      "a": ["Right-angled", "Acute-angled", "Obtuse-angled", "Equilateral"],
+      "correct": 2
+    },
+    {
+      "q": "What is the length of the diagonal of a cube with an edge length of 6 cm?",
+      "a": ["6√2 cm", "18 cm", "12 cm", "6√3 cm"],
+      "correct": 3
+    },
+    {
+      "q": "A park is in the shape of a right-angled triangle. The two shorter paths are 300 meters and 400 meters. What is the length of the hypotenuse path?",
+      "a": ["500 meters", "700 meters", "50 meters", "350 meters"],
+      "correct": 0
+    },
+    {
+      "q": "If the lengths of the sides of a right-angled triangle are x, x + 1, and x + 2, what is the value of x?",
+      "a": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "q": "A television screen has a width of 16 inches and a height of 12 inches. What is the length of its diagonal?",
+      "a": ["28 inches", "14 inches", "20 inches", "24 inches"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following statements is true regarding Pythagoras theorem?",
+      "a": ["It applies to all triangles", "It can be used to find angles directly", "It only applies to obtuse triangles", "It applies only to right-angled triangles"],
+      "correct": 3
+    },
+    {
+      "q": "Find the distance between the two points on a Cartesian plane: (1, 2) and (4, 6).",
+      "a": ["5 units", "7 units", "√7 units", "25 units"],
+      "correct": 0
+    },
+    {
+      "q": "A 13-meter long rope is stretched from the top of a tower to a point on the ground. If the tower is 5 meters tall, how far from the base of the tower is the rope anchored?",
+      "a": ["18 meters", "12 meters", "8 meters", "14 meters"],
+      "correct": 1
+    },
+    {
+      "q": "What is the exact length of the hypotenuse of a right-angled triangle with legs of 2 cm and 3 cm?",
+      "a": ["5 cm", "√10 cm", "√13 cm", "6 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A standard door is 2 meters high and 0.75 meters wide. What is the maximum length of a rigid rod that can pass through the door frame diagonally?",
+      "a": ["2.75 meters", "2.25 meters", "2.5 meters", "approx 2.14 meters"],
+      "correct": 3
+    },
+    {
+      "q": "If the legs of a right-angled triangle are 2.5 cm and 6 cm, what is the length of the hypotenuse?",
+      "a": ["6.5 cm", "8.5 cm", "7.0 cm", "√42.25 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A coordinate grid shows point A at (-3, 1) and point B at (3, 9). What is the distance between A and B?",
+      "a": ["8 units", "10 units", "14 units", "√48 units"],
+      "correct": 1
+    },
+    {
+      "q": "What is the area of a right-angled triangle whose hypotenuse is 10 cm and one leg is 6 cm?",
+      "a": ["30 cm²", "48 cm²", "24 cm²", "40 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "If the hypotenuse of a right-angled triangle is c and the legs are a and b, which rearrangement correctly solves for a?",
+      "a": ["a = c² - b²", "a = √(c + b)", "a = c - b", "a = √(c² - b²)"],
+      "correct": 3
+    }
+  ]
+}

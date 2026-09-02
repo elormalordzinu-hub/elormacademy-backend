@@ -1,0 +1,206 @@
+{
+  "id": "intsci-jhs2-quizzes-acids-bases-salts",
+  "name": "Acids Bases Salts",
+  "questions": [
+    {
+      "q": "What general taste characteristic is typically associated with dilute aqueous solutions of acids?",
+      "a": ["Sour taste", "Sweet taste", "Bitter taste", "Salty taste"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances is classified as a strong laboratory acid?",
+      "a": ["Sodium hydroxide solution", "Hydrochloric acid", "Ethanol", "Pure water"],
+      "correct": 1
+    },
+    {
+      "q": "What color change does a neutral litmus solution undergo when added to an acidic solution?",
+      "a": ["Turns blue", "Turns green", "Turns red", "Remains colorless"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following describes the taste and feel of basic (alkaline) solutions?",
+      "a": ["Sour and rough", "Sweet and sticky", "Salty and hard", "Bitter and soapy to touch"],
+      "correct": 3
+    },
+    {
+      "q": "What is formed when an acid reacts completely with a base (or alkali) in a neutralization reaction?",
+      "a": ["Salt and water only", "Metal and hydrogen gas", "Carbon dioxide and oxygen gas", "Sugar and alcohol"],
+      "correct": 0
+    },
+    {
+      "q": "Which indicator turns pink or magenta in basic solutions and remains colorless in acidic solutions?",
+      "a": ["Litmus paper", "Phenolphthalein", "Methyl orange", "Universal indicator"],
+      "correct": 1
+    },
+    {
+      "q": "What type of oxide is sulfur dioxide when dissolved in water to form an acidic solution?",
+      "a": ["Basic oxide", "Amphoteric oxide", "Acidic oxide", "Neutral oxide"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following common household items contains a weak organic acid?",
+      "a": ["Baking soda", "Bleach", "Caustic soda", "Lemon juice"],
+      "correct": 3
+    },
+    {
+      "q": "What gas is typically liberated when a reactive metal like zinc reacts with dilute hydrochloric acid?",
+      "a": ["Hydrogen gas", "Oxygen gas", "Carbon dioxide gas", "Nitrogen gas"],
+      "correct": 0
+    },
+    {
+      "q": "Which pH value indicates a strongly alkaline substance?",
+      "a": ["pH 2", "pH 13", "pH 7", "pH 5"],
+      "correct": 1
+    },
+    {
+      "q": "What is the pH value of a completely neutral solution at standard temperature?",
+      "a": ["pH 0", "pH 4", "pH 7", "pH 10"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following salts is commonly used as table salt in food preparation and preservation?",
+      "a": ["Copper (II) sulfate", "Calcium carbonate", "Ammonium chloride", "Sodium chloride"],
+      "correct": 3
+    },
+    {
+      "q": "What color does methyl orange indicator turn when added to a strong acid?",
+      "a": ["Red", "Yellow", "Blue", "Green"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following compounds is an example of an alkali (soluble base)?",
+      "a": ["Copper (II) oxide", "Sodium hydroxide", "Iron (III) oxide", "Zinc oxide"],
+      "correct": 1
+    },
+    {
+      "q": "Why is agricultural lime (calcium hydroxide or calcium oxide) often added to acidic soils by farmers?",
+      "a": ["To make the soil more acidic for weeds", "To poison soil bacteria", "To neutralize excess soil acidity and improve crop growth", "To increase the soil temperature rapidly"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the pH of an acidic solution as water is added to dilute it?",
+      "a": ["The pH drops to zero", "The pH remains completely unchanged", "The pH becomes highly alkaline", "The pH increases closer to 7"],
+      "correct": 3
+    },
+    {
+      "q": "Which salt is produced when dilute sulfuric acid reacts completely with sodium hydroxide?",
+      "a": ["Sodium sulfate", "Sodium chloride", "Sodium nitrate", "Sodium carbonate"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary cause of acid rain, which damages buildings and aquatic ecosystems?",
+      "a": ["Accumulation of oxygen in upper atmosphere", "Emission of sulfur dioxide and nitrogen oxides from burning fossil fuels", "Excessive release of water vapor from oceans", "Plant transpiration in dense forests"],
+      "correct": 1
+    },
+    {
+      "q": "Which substance is used in antacid tablets to neutralize excess stomach acid and relieve indigestion?",
+      "a": ["Hydrochloric acid", "Sulfuric acid", "Magnesium hydroxide", "Nitric acid"],
+      "correct": 2
+    },
+    {
+      "q": "What is the chemical nature of aqueous solutions of non-metal oxides such as carbon dioxide?",
+      "a": ["Strongly basic", "Neutral like pure water", "Amphoteric", "Acidic"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following ions is responsible for the acidic properties of any acid in water solution?",
+      "a": ["Hydrogen ions", "Hydroxide ions", "Sodium ions", "Chloride ions"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following ions is characteristic of all aqueous alkaline solutions?",
+      "a": ["Hydrogen ion", "Hydroxide ion", "Sulfate ion", "Nitrate ion"],
+      "correct": 1
+    },
+    {
+      "q": "What observation is made when dilute hydrochloric acid is added to solid calcium carbonate (marble chips)?",
+      "a": ["A purple gas is released", "A bright green flame appears", "Effervescence occurs, producing carbon dioxide gas which turns lime water milky", "The mixture explodes violently"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is classified as a normal salt derived from nitric acid?",
+      "a": ["Sodium hydrogen carbonate", "Potassium hydrogen sulfate", "Calcium hydroxide", "Sodium nitrate"],
+      "correct": 3
+    },
+    {
+      "q": "How can you distinguish between a dilute solution of hydrochloric acid and pure water without tasting them?",
+      "a": ["Using universal indicator paper or a pH meter", "Weighing them on a beam balance", "Checking their boiling points by freezing them", "Shaking them to see which one foams"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following processes represents a neutralization reaction in everyday life?",
+      "a": ["Burning wood in an open fireplace", "Applying toothpaste containing a mild base to neutralize tooth acid", "Boiling dirty water to kill germs", "Dissolving sugar in warm tea"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when an insoluble metal oxide reacts with an acid?",
+      "a": ["Metal gas and water", "Base and non-metal", "Salt and water", "Acid and hydrogen gas"],
+      "correct": 2
+    },
+    {
+      "q": "Which indicator remains yellow in neutral and acidic solutions but turns red in alkaline solutions?",
+      "a": ["Phenolphthalein", "Litmus solution", "Universal indicator", "Methyl orange"],
+      "correct": 3
+    },
+    {
+      "q": "What is the general name for salts formed when hydrochloric acid reacts with metals or bases?",
+      "a": ["Chlorides", "Sulfates", "Nitrates", "Carbonates"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following safety precautions is essential when diluting concentrated laboratory acids?",
+      "a": ["Pour water quickly into the concentrated acid", "Always add acid slowly to water while stirring continuously", "Perform the dilution inside a closed glass container with a tight lid", "Heat the acid strongly before adding any water"],
+      "correct": 1
+    },
+    {
+      "q": "What is the chemical formula of common laboratory sulfuric acid?",
+      "a": ["HCl", "HNO₃", "H₂SO₄", "CH₃COOH"],
+      "correct": 2
+    },
+    {
+      "q": "Which term describes a substance that changes color depending on whether it is in an acidic or basic environment?",
+      "a": ["Catalyst", "Solvent", "Solute", "Indicator"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of the salt formed when sodium hydroxide reacts completely with nitric acid?",
+      "a": ["Sodium nitrate", "Sodium chloride", "Sodium sulfate", "Sodium carbonate"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances can be used to treat acidic industrial waste water before disposal?",
+      "a": ["Lemon juice", "Calcium hydroxide (slaked lime)", "Vinegar", "Dilute hydrochloric acid"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to blue litmus paper when it is dipped into a solution of potassium hydroxide?",
+      "a": ["It turns red", "It turns green", "It remains blue", "It turns colorless"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a characteristic property of salts?",
+      "a": ["They always feel slippery like soap", "They only exist in gaseous form at room temperature", "They always turn red litmus blue", "They often form crystalline structures and dissolve in water"],
+      "correct": 3
+    },
+    {
+      "q": "Which oxide reacts with water to form an alkali?",
+      "a": ["Sodium oxide", "Carbon dioxide", "Sulfur dioxide", "Phosphorus pentoxide"],
+      "correct": 0
+    },
+    {
+      "q": "What term is given to a solution that resists changes in pH when small amounts of acid or base are added?",
+      "a": ["Saturated solution", "Buffer solution", "Suspension", "Colloid"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following acids is found naturally in the human stomach to aid digestion?",
+      "a": ["Sulfuric acid", "Nitric acid", "Hydrochloric acid", "Citric acid"],
+      "correct": 2
+    },
+    {
+      "q": "Why are strong acids considered strong electrolytes in aqueous solutions?",
+      "a": ["They do not dissolve in water at all", "They react slowly with metals", "They are always in solid form", "They ionize completely to release a high concentration of hydrogen ions"],
+      "correct": 3
+    }
+  ]
+}

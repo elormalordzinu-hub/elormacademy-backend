@@ -1,0 +1,186 @@
+{
+"id": "chem-alevel-quizzes-energetics",
+"name": "Chemical energetics enthalpy changes and calorimetry",
+"questions": [
+{
+"q": "What term defines the enthalpy change when one mole of a substance is formed from its constituent elements in their standard states under standard conditions?",
+"a": ["Standard enthalpy change of formation (Delta H_f)", "Standard enthalpy change of combustion", "Standard enthalpy change of neutralization", "Standard enthalpy change of atomization"],
+"correct": 0
+},
+{
+"q": "How is the standard enthalpy change of combustion (Delta H_c) defined?",
+"a": ["The energy released when one mole of water is produced from its elements", "The enthalpy change when one mole of a substance is burned completely in excess oxygen under standard conditions", "The energy required to melt one mole of a solid compound", "The enthalpy change when one mole of gaseous atoms is formed"],
+"correct": 1
+},
+{
+"q": "According to Hess's Law, what is the fundamental principle regarding enthalpy changes in chemical reactions?",
+"a": ["Enthalpy change depends on the intermediate reaction steps taken", "Enthalpy change is always zero for spontaneous processes", "The total enthalpy change of a chemical reaction is independent of the pathway between initial and final states", "Enthalpy change increases with temperature exponentially"],
+"correct": 2
+},
+{
+"q": "What formula is used to calculate the heat energy change (q) during a calorimetry experiment involving a solution?",
+"a": ["q = m x c x Delta T", "q = n x Delta H", "q = P x V", "q = C x Delta T squared"],
+"correct": 3
+},
+{
+"q": "What is the standard enthalpy change of neutralization defined as?",
+"a": ["The enthalpy change when one mole of water is formed by the reaction of an acid and an alkali under standard conditions", "The energy released when an acid dissolves in water", "The enthalpy change when one mole of a salt is precipitated", "The energy required to dissociate a weak acid"],
+"correct": 0
+},
+{
+"q": "What term represents the energy required to break one mole of a specific covalent bond in gaseous molecules, averaged over a range of similar compounds?",
+"a": ["Lattice energy", "Mean bond enthalpy / Bond dissociation energy", "Electron affinity", "Enthalpy of vaporization"],
+"correct": 1
+},
+{
+"q": "Which of the following represents an exothermic reaction process?",
+"a": ["Melting of ice", "Boiling of liquid water", "Combustion of methane in oxygen", "Dissolving ammonium nitrate in water"],
+"correct": 2
+},
+{
+"q": "What is the standard enthalpy change of atomization defined as?",
+"a": ["The energy released when gaseous atoms combine to form a solid lattice", "The enthalpy change when one mole of electrons is added to gaseous atoms", "The energy required to convert a liquid into a gas at boiling point", "The enthalpy change when one mole of gaseous atoms is formed from the element in its standard state under standard conditions"],
+"correct": 3
+},
+{
+"q": "What is the standard enthalpy change of formation for any element in its standard state (e.g., O<sub>2</sub> gas, C graphite)?",
+"a": ["Zero", "Positive infinity", "Negative one hundred kilojoules per mole", "Variable depending on pressure"],
+"correct": 0
+},
+{
+"q": "Using bond enthalpies, how is the approximate enthalpy change of a reaction (Delta H) calculated?",
+"a": ["Sum of bonds formed minus sum of bonds broken", "Sum of bonds broken minus sum of bonds formed", "Total reactant enthalpy multiplied by product enthalpy", "Sum of all standard formation enthalpies"],
+"correct": 1
+},
+{
+"q": "What type of reaction is characterized by a negative value of Delta H and releases thermal energy to the surroundings?",
+"a": ["Endothermic reaction", "Photochemical reaction", "Exothermic reaction", "Isothermal reaction"],
+"correct": 2
+},
+{
+"q": "What does Born-Haber cycle construction utilize to determine the lattice energy of an ionic compound?",
+"a": ["Faraday's laws of electrolysis", "Rate equations and activation energy", "Ideal gas law constants", "Hess's Law combining enthalpy changes such as atomization, ionization, electron affinity, and formation"],
+"correct": 3
+},
+{
+"q": "What is the first electron affinity of an atom defined as?",
+"a": ["The enthalpy change when one mole of gaseous 1- ions is formed by adding one mole of electrons to one mole of gaseous atoms", "The energy required to remove an electron from a gaseous atom", "The enthalpy change when a solid salt dissolves in water", "The energy released when two atoms form a covalent bond"],
+"correct": 0
+},
+{
+"q": "What term describes the enthalpy change when one mole of gaseous ions dissolves in sufficient water to form an infinitely dilute solution?",
+"a": ["Enthalpy of lattice formation", "Enthalpy of hydration", "Enthalpy of solution", "Enthalpy of atomization"],
+"correct": 1
+},
+{
+"q": "What is the relationship between the enthalpy of solution (Delta H_sol), lattice energy (Delta H_lattice), and hydration enthalpies (Delta H_hyd) of ions?",
+"a": ["Delta H_sol equals Delta H_lattice plus sum of Delta H_hyd", "Delta H_sol equals Delta H_hyd minus Delta H_lattice", "Delta H_sol equals sum of Delta H_hyd minus Delta H_lattice", "Delta H_sol equals Delta H_lattice multiplied by Delta H_hyd"],
+"correct": 2
+},
+{
+"q": "Why is the second electron affinity of oxygen (forming O<sup>2-</sup> from O<sup>-</sup>) an endothermic process?",
+"a": ["Oxygen atoms are too heavy to accept electrons", "Energy is absorbed because electrons repel each other when added to a negatively charged ion", "Electrons possess positive mass charge", "The nucleus repels incoming electrons completely"],
+"correct": 3
+},
+{
+"q": "What standard condition for temperature is used in thermochemical measurements?",
+"a": ["298 Kelvin (25 degrees Celsius)", "273 Kelvin (0 degrees Celsius)", "373 Kelvin (100 degrees Celsius)", "298 degrees Celsius"],
+"correct": 0
+},
+{
+"q": "Which of the following factors increases the magnitude of lattice energy in ionic crystals?",
+"a": ["Larger ionic radii and smaller charges", "Higher ionic charges and smaller ionic radii", "Lower melting points and higher volatility", "Increased distance between cations and anions"],
+"correct": 1
+},
+{
+"q": "What does a positive sign for the enthalpy change of a reaction (Delta H > 0) signify?",
+"a": ["The reaction is spontaneous at all temperatures", "The reaction releases heat to the surroundings", "The reaction is endothermic, absorbing heat from the surroundings", "The reaction rate is extremely fast"],
+"correct": 2
+},
+{
+"q": "When calculating enthalpy change from experimental calorimetry data where 50.0 cm<sup>3</sup> of acid reacts with 50.0 cm<sup>3</sup> of alkali, what mass (m) is typically used in q = m c Delta T assuming dilute aqueous solutions?",
+"a": ["50.0 grams", "25.0 grams", "0.100 kilograms", "100.0 grams (total volume assuming density of water is 1.0 g per cm cubed)"],
+"correct": 3
+},
+{
+"q": "What is the standard pressure condition used in thermochemistry?",
+"a": ["100 kilopascals (1 bar)", "1 atmosphere (101.3 kPa)", "10 kilopascals", "500 kilopascals"],
+"correct": 0
+},
+{
+"q": "Which of the following processes has a standard enthalpy change of reaction that is equal to the standard enthalpy of formation of the product?",
+"a": ["Combustion of carbon monoxide to form carbon dioxide", "Formation of one mole of liquid water from hydrogen gas and oxygen gas", "Thermal decomposition of calcium carbonate", "Neutralization of hydrochloric acid with sodium hydroxide"],
+"correct": 1
+},
+{
+"q": "Why are bond enthalpy values calculated from tables sometimes slightly different from actual experimental reaction enthalpy changes?",
+"a": ["Bond enthalpies are only valid for ionic crystals", "Mean bond enthalpies are averaged values derived from a range of different chemical environments, whereas actual bond energies vary slightly depending on molecular structure", "Experimental reactions always lose 50 percent of energy as light", "Bond enthalpies ignore temperature effects entirely"],
+"correct": 2
+},
+{
+"q": "What is the enthalpy change of solution defined as?",
+"a": ["The energy required to melt a solid solute", "The enthalpy change when one mole of a substance dissolves in water to form a saturated solution", "The heat released when a gas dissolves under pressure", "The enthalpy change when one mole of a solute is dissolved in sufficient solvent to form an infinitely dilute solution"],
+"correct": 3
+},
+{
+"q": "What experimental error is typically the primary cause of inaccurate enthalpy of combustion values measured using a simple spirit burner and copper calorimeter?",
+"a": ["Heat loss to the surrounding atmosphere and incomplete combustion of the fuel", "Evaporation of the metal calorimeter", "Using too much water in the beaker", "Measuring temperature in Fahrenheit instead of Celsius"],
+"correct": 0
+},
+{
+"q": "How does the hydration enthalpy of Group 2 metal cations change down the group from magnesium to barium?",
+"a": ["Hydration enthalpy increases in magnitude", "Hydration enthalpy decreases in magnitude (becomes less exothermic) as ionic radius increases", "Hydration enthalpy remains completely constant", "Hydration enthalpy becomes positive"],
+"correct": 1
+},
+{
+"q": "What does Hess's Law allow chemists to determine indirectly?",
+"a": ["The exact speed of electrons in atomic orbitals", "The exact mass of subatomic particles", "Enthalpy changes that cannot be measured directly by direct experiment", "The absolute enthalpy of a single isolated substance"],
+"correct": 2
+},
+{
+"q": "Which of the following equations correctly defines the standard enthalpy change of formation of liquid ethanol (C<sub>2</sub>H<sub>5</sub>OH)?",
+"a": ["2C (graphite) + 3H<sub>2</sub> (g) + 0.5O<sub>2</sub> (g) -> C<sub>2</sub>H<sub>5</sub>OH (l)", "C<sub>2</sub>H<sub>4</sub> (g) + H<sub>2</sub>O (l) -> C<sub>2</sub>H<sub>5</sub>OH (l)", "2CO<sub>2</sub> (g) + 3H<sub>2</sub>O (l) -> C<sub>2</sub>H<sub>5</sub>OH (l) + 3O<sub>2</sub> (g)", "C<sub>2</sub>H<sub>5</sub>OH (l) + 3O<sub>2</sub> (g) -> 2CO<sub>2</sub> (g) + 3H<sub>2</sub>O (l)"],
+"correct": 3
+},
+{
+"q": "What is the primary reason why lattice enthalpies calculated theoretically using electrostatic point-charge models sometimes differ from experimental Born-Haber cycle values for transition metal compounds?",
+"a": ["Presence of significant covalent character due to polarization of anions by cations", "Transition metals do not form ionic lattices", "Experimental values ignore temperature", "Theoretical models assume zero ionic charge"],
+"correct": 0
+},
+{
+"q": "What is indicated if the calculated standard enthalpy change of a reaction (Delta H) is negative?",
+"a": ["The products have higher total enthalpy than the reactants", "The products have lower total enthalpy than the reactants, and the reaction is exothermic", "The reaction absorbs heat from the surroundings", "The activation energy is zero"],
+"correct": 1
+},
+{
+"q": "Which of the following experimental setups is used to measure the enthalpy of neutralization accurately?",
+"a": ["A metal crucible heated with a Bunsen burner", "A bomb calorimeter under high pressure oxygen", "An insulated polystyrene cup calorimeter with a thermometer and lid", "An electrolytic cell connected to a DC power supply"],
+"correct": 2
+},
+{
+"q": "What is the standard state physical form of bromine at 298 Kelvin and 100 kilopascals?",
+"a": ["Gas", "Solid crystal", "Aqueous solution", "Liquid"],
+"correct": 3
+},
+{
+"q": "What term defines the total internal energy plus the product of pressure and volume (U + PV) of a thermodynamic system?",
+"a": ["Enthalpy", "Entropy", "Gibbs free energy", "Activation energy"],
+"correct": 0
+},
+{
+"q": "How does an increase in temperature affect the rate of an exothermic reaction according to collision theory?",
+"a": ["Reaction rate decreases because equilibrium shifts left", "Reaction rate increases because more reactant particles possess kinetic energy equal to or greater than the activation energy, increasing successful collision frequency", "Reaction rate remains constant", "Activation energy decreases"],
+"correct": 1
+},
+{
+"q": "Which of the following enthalpy changes is always endothermic (positive value)?",
+"a": ["Enthalpy of combustion", "Enthalpy of hydration", "First ionization energy", "Enthalpy of neutralization"],
+"correct": 2
+},
+{
+"q": "What is represented by the activation energy (E_a) on an enthalpy profile diagram?",
+"a": ["The overall enthalpy change of the reaction", "The total energy of the products", "The average bond energy of reactants", "The minimum energy colliding particles must possess to initiate a chemical reaction"],
+"correct": 3
+}
+]
+}

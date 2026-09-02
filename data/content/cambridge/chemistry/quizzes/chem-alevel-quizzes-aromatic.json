@@ -1,0 +1,186 @@
+{
+"id": "chem-alevel-quizzes-aromatic",
+"name": "Aromatic chemistry benzene and substitution",
+"questions": [
+{
+"q": "What is the molecular formula of benzene?",
+"a": ["C<sub>6</sub>H<sub>6</sub>", "C<sub>6</sub>H<sub>12</sub>", "C<sub>6</sub>H<sub>14</sub>", "C<sub>5</sub>H<sub>10</sub>"],
+"correct": 0
+},
+{
+"q": "Why does benzene typically undergo electrophilic substitution reactions rather than electrophilic addition reactions?",
+"a": ["Electrophilic addition is too fast", "Electrophilic substitution preserves the stable delocalized pi-electron ring system", "Benzene has no pi-electrons", "Addition would form an unstable gas"],
+"correct": 1
+},
+{
+"q": "What is the shape and bond angle around each carbon atom in a benzene ring?",
+"a": ["Tetrahedral with 109.5 degree bond angles", "Linear with 180 degree bond angles", "Trigonal planar with 120 degree bond angles", "Octahedral with 90 degree bond angles"],
+"correct": 2
+},
+{
+"q": "Which catalyst is required for the halogenation of benzene, such as the reaction between benzene and chlorine?",
+"a": ["Concentrated sulfuric acid", "Nickel catalyst at high pressure", "Ultraviolet light", "Anhydrous aluminum chloride (AlCl<sub>3</sub>) or iron(III) chloride"],
+"correct": 3
+},
+{
+"q": "What active electrophile is generated during the nitration of benzene using a mixture of concentrated nitric and sulfuric acids?",
+"a": ["Nitronium ion, NO<sub>2</sub><sup>+</sup>", "Nitrogen dioxide radical, NO<sub>2</sub>", "Nitrate ion, NO<sub>3</sub><sup>-</sup>", "Nitrous acid, HNO<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "What is the organic product formed when methylbenzene (toluene) is heated under reflux with acidified potassium manganate(VII)?",
+"a": ["Methanol", "Benzoic acid", "Phenylmethanol", "Cyclohexane"],
+"correct": 1
+},
+{
+"q": "What is the primary role of concentrated sulfuric acid in the nitration mixture used for benzene?",
+"a": ["To act as a reducing agent", "To act as a solvent", "To act as a strong acid catalyst that protonates nitric acid to form the nitronium ion", "To absorb water vapor from the air"],
+"correct": 2
+},
+{
+"q": "Which of the following describes the carbon-carbon bond lengths in a benzene ring?",
+"a": ["Three short double bonds and three long single bonds alternating", "All bonds are completely different lengths", "All carbon-carbon bonds are of infinite length", "All six carbon-carbon bonds are identical in length, intermediate between a single and a double bond"],
+"correct": 3
+},
+{
+"q": "What term describes the thermodynamic stability of benzene compared to the hypothetical localized 1,3,5-cyclohexatriene structure?",
+"a": ["Delocalization energy (resonance stabilization energy)", "Activation energy", "Ionization energy", "Lattice energy"],
+"correct": 0
+},
+{
+"q": "During a Friedel-Crafts alkylation of benzene using chloromethane and aluminum chloride, what species acts as the electrophile?",
+"a": ["A chloride ion", "A methyl carbocation, CH<sub>3</sub><sup>+</sup>", "A methane radical", "A chlorine molecule"],
+"correct": 1
+},
+{
+"q": "Why does phenol react with aqueous bromine much more readily and under milder conditions than benzene does?",
+"a": ["Phenol is a gas at room temperature", "Phenol contains a carboxylic acid group", "The lone pair of electrons on the oxygen atom of the -OH group interacts with the pi-system, increasing electron density of the ring and activating it", "Bromine is a stronger acid than phenol"],
+"correct": 2
+},
+{
+"q": "What is observed when phenol reacts with aqueous bromine at room temperature?",
+"a": ["No reaction occurs without UV light", "A blue solution forms", "A pungent green gas is evolved", "A white precipitate of 2,4,6-tribromophenol forms immediately"],
+"correct": 3
+},
+{
+"q": "Which directing group is classified as 2,4-directing and ring-activating during further electrophilic substitution of a monosubstituted benzene ring?",
+"a": ["Hydroxyl group (-OH)", "Nitro group (-NO<sub>2</sub>)", "Carboxylic acid group (-COOH)", "Nitrile group (-CN)"],
+"correct": 0
+},
+{
+"q": "What is formed when benzene is reacted with an acyl chloride in the presence of an anhydrous aluminum chloride catalyst (Friedel-Crafts acylation)?",
+"a": ["An alkylbenzene", "A phenyl ketone (acylbenzene)", "A primary alcohol", "A chlorinated cyclohexane"],
+"correct": 1
+},
+{
+"q": "Why does nitrobenzene require more vigorous conditions (higher temperature and pressure) for further substitution compared to benzene?",
+"a": ["Nitrobenzene is a liquid", "The nitro group is activating", "The nitro group is electron-withdrawing and deactivates the ring by pulling electron density away", "Nitrobenzene is ionic"],
+"correct": 2
+},
+{
+"q": "What type of intermediate is formed transiently during the electrophilic substitution of benzene before a proton is lost?",
+"a": ["A stable carbocation", "A free radical pair", "A carbanion", "A delocalized non-aromatic carbocation intermediate (arenium ion or sigma complex)"],
+"correct": 3
+},
+{
+"q": "What is the main reason why benzene does not readily undergo addition reactions like alkenes do?",
+"a": ["Addition would disrupt the stable delocalized pi-electron cloud, resulting in a loss of resonance energy", "Benzene molecules are too large", "Alkenes are ionic while benzene is covalent", "Benzene has a positive charge"],
+"correct": 0
+},
+{
+"q": "Which of the following compounds is classified as a phenol rather than an alcohol?",
+"a": ["Phenylmethanol (benzyl alcohol)", "C<sub>6</sub>H<sub>5</sub>OH", "Cyclohexanol", "2-phenylethanol"],
+"correct": 1
+},
+{
+"q": "What happens when phenol is reacted with dilute sodium hydroxide solution?",
+"a": ["An insoluble oil forms", "The ring undergoes complete destruction", "Phenol dissolves to form a soluble sodium phenoxide salt because phenol is weakly acidic", "A neutral gas is evolved"],
+"correct": 2
+},
+{
+"q": "What is the function of the anhydrous aluminum chloride (AlCl<sub>3</sub>) catalyst in Friedel-Crafts reactions?",
+"a": ["To act as a solvent", "To neutralize excess acid", "To provide chlorine atoms", "To act as a Lewis acid that polarizes or accepts a chloride ion from the reactant to generate an electrophile"],
+"correct": 3
+},
+{
+"q": "How does the acidity of phenol compare with that of aliphatic alcohols and carboxylic acids?",
+"a": ["Phenol is more acidic than ethanol due to partial delocalization of the phenoxide negative charge into the ring, but less acidic than carboxylic acids", "Phenol is a strong mineral acid", "Phenol is less acidic than water", "Phenol has identical acidity to ethanoic acid"],
+"correct": 0
+},
+{
+"q": "What is the product when methylbenzene is reacted with chlorine in the presence of ultraviolet light?",
+"a": ["2-chloromethylbenzene", "(Chloromethyl)benzene (benzyl chloride)", "1-chloro-2-methylbenzene", "Chlorobenzene"],
+"correct": 1
+},
+{
+"q": "Which substituent group on a benzene ring is meta-directing and ring-deactivating?",
+"a": ["-OH", "-CH<sub>3</sub>", "-NO<sub>2</sub>", "-NH<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "What is the primary organic product of the catalytic hydrogenation of benzene under high pressure with a nickel catalyst at 150 degrees Celsius?",
+"a": ["Hexane", "Hexene", "1,3,5-cyclohexatriene", "Cyclohexane"],
+"correct": 3
+},
+{
+"q": "What is the structural evidence from X-ray crystallography that disproved Kekule's proposed alternating single and double bond structure for benzene?",
+"a": ["All carbon-carbon bond lengths are identical at 0.140 nm, intermediate between single and double bonds", "Carbon-carbon bonds are constantly shifting", "Carbon atoms form a three-dimensional cube", "Bond lengths alternate unpredictably"],
+"correct": 0
+},
+{
+"q": "What color change is observed when acidified potassium manganate(VII) is heated with an alkylbenzene like methylbenzene?",
+"a": ["Orange to green", "Purple solution turns colorless as the manganate is reduced and the side chain is oxidized to a carboxyl group", "Blue to yellow", "Colorless to deep red"],
+"correct": 1
+},
+{
+"q": "Which reagent is used to convert nitrobenzene into phenylamine (aniline) in a two-stage reduction process?",
+"a": ["Aqueous sodium hydroxide", "Cold water", "Tin (Sn) and concentrated hydrochloric acid, followed by sodium hydroxide", "Potassium dichromate"],
+"correct": 2
+},
+{
+"q": "What is the IUPAC name for the organic product formed when benzene reacts with excess chlorine in the presence of sunlight / UV light?",
+"a": ["Chlorobenzene", "1,2-dichlorobenzene", "Hexachlorobenzene", "1,2,3,4,5,6-hexachlorocyclohexane (lindane isomer mixture)"],
+"correct": 3
+},
+{
+"q": "Why is phenylamine a weaker base than aliphatic amines like ethylamine?",
+"a": ["The lone pair of electrons on the nitrogen atom is partially delocalized into the benzene ring pi-system, making it less available to accept a proton", "Phenylamine contains an ionic bond", "Phenylamine has a higher molecular weight", "Phenylamine cannot form hydrogen bonds"],
+"correct": 0
+},
+{
+"q": "What type of mechanism is operating when benzene reacts with a mixture of concentrated nitric and sulfuric acids?",
+"a": ["Nucleophilic substitution", "Electrophilic substitution", "Free radical substitution", "Electrophilic addition"],
+"correct": 1
+},
+{
+"q": "Which of the following functional groups, when attached to a benzene ring, directs incoming substituents primarily to the 2- and 4-positions?",
+"a": ["-NO<sub>2</sub>", "-CN", "-NH<sub>2</sub>", "-CHO"],
+"correct": 2
+},
+{
+"q": "What happens when phenol reacts with neutral iron(III) chloride solution?",
+"a": ["A white precipitate forms", "A silver mirror deposits", "Effervescence of carbon dioxide occurs", "A characteristic purple or violet coloration / complex forms"],
+"correct": 3
+},
+{
+"q": "Which of the following compounds has the highest boiling point due to strong intermolecular hydrogen bonding?",
+"a": ["Phenol (C<sub>6</sub>H<sub>5</sub>OH)", "Methylbenzene (C<sub>6</sub>H<sub>5</sub>CH<sub>3</sub>)", "Chlorobenzene (C<sub>6</sub>H<sub>5</sub>Cl)", "Benzene (C<sub>6</sub>H<sub>6</sub>)"],
+"correct": 0
+},
+{
+"q": "What is formed when phenylamine is reacted with cold nitrous acid (HNO<sub>2</sub> generated in situ from NaNO<sub>2</sub> and HCl at 0-5 degrees Celsius)?",
+"a": ["A nitroalkane", "A diazonium salt (e.g., benzenediazonium chloride)", "A phenol derivative immediately", "A primary alcohol"],
+"correct": 1
+},
+{
+"q": "What is the role of the halogen carrier in electrophilic substitution reactions of benzene?",
+"a": ["To act as a reducing agent", "To cool the exothermic reaction", "To polarize the halogen molecule or generate a stronger electrophilic species", "To dissolve the benzene ring"],
+"correct": 2
+},
+{
+"q": "What is the primary industrial use of nitrobenzene?",
+"a": ["As a food flavoring", "As an antiseptic", "As a solvent for plastics", "As a precursor for the manufacture of phenylamine, which is used in dye synthesis"],
+"correct": 3
+}
+]
+}

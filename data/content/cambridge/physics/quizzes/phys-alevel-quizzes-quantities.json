@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-quantities",
+"name": "Physical quantities and units for advanced analysis",
+"questions": [
+{
+"q": "Which of the following represents the correct SI base units for electrical potential difference (volt)?",
+"a": ["kg m² s⁻³ A⁻¹", "kg m s⁻² A⁻¹", "kg m² s⁻² A⁻²", "kg⁻¹ m⁻² s³ A"],
+"correct": 0
+},
+{
+"q": "What are the base units of magnetic flux density (tesla)?",
+"a": ["kg s⁻² A⁻¹", "kg s⁻² A⁻¹", "kg m⁻¹ s⁻² A⁻¹", "kg s⁻¹ A⁻²"],
+"correct": 1
+},
+{
+"q": "An experiment measures the radius of a sphere as (20.0 ± 0.2) cm. What is the percentage uncertainty in the calculated volume of the sphere?",
+"a": ["0.3%", "1.0%", "3.0%", "6.0%"],
+"correct": 2
+},
+{
+"q": "Which of the following pairs contains one scalar quantity and one vector quantity?",
+"a": ["Velocity and displacement", "Work and power", "Momentum and kinetic energy", "Pressure and electric field strength"],
+"correct": 3
+},
+{
+"q": "The speed v of a transverse wave on a stretched string depends on the tension F, the length L, and the mass M of the string. Using dimensional analysis, which formula is dimensionally consistent?",
+"a": ["v = square root of (FL / M)", "v = F L / M", "v = square root of (FM / L)", "v = M / (FL)"],
+"correct": 0
+},
+{
+"q": "What is the SI base unit expression for the Planck constant (h)?",
+"a": ["kg m s⁻¹", "kg m² s⁻¹", "kg m² s⁻²", "kg⁻¹ m⁻² s"],
+"correct": 1
+},
+{
+"q": "A student measures the current I through a resistor as (2.00 ± 0.04) A and the resistance R as (5.0 ± 0.1) ohms. What is the absolute uncertainty in the calculated power (P = I² R)?",
+"a": ["± 0.2 W", "± 0.4 W", "± 0.8 W", "± 1.2 W"],
+"correct": 2
+},
+{
+"q": "Which of the following sets consists entirely of base quantities in the SI system?",
+"a": ["Current, force, time, mass", "Length, mass, energy, temperature", "Luminous intensity, amount of substance, mass, time", "Velocity, charge, thermodynamic temperature, length"],
+"correct": 3
+},
+{
+"q": "The drag force F acting on a sphere of radius r moving at speed v through a fluid of viscosity eta is given by Stokes law as F = 6 pi eta r v. What are the SI base units of dynamic viscosity eta?",
+"a": ["kg m⁻¹ s⁻¹", "kg m s⁻²", "kg m⁻² s⁻¹", "kg² m⁻¹ s⁻²"],
+"correct": 0
+},
+{
+"q": "When adding two vectors of magnitudes 6.0 N and 8.0 N, what is the range of possible values for the magnitude of their resultant vector?",
+"a": ["0 N to 48 N", "2.0 N to 14.0 N", "6.0 N to 8.0 N", "10.0 N to 14.0 N"],
+"correct": 1
+},
+{
+"q": "What is the prefix representing a factor of 10⁻¹²?",
+"a": ["nano", "femto", "pico", "atto"],
+"correct": 2
+},
+{
+"q": "A student determines the acceleration of free fall g using a pendulum. The measured values have a small scatter about the mean, but the true value is consistently higher due to a timing reaction error. How are the precision and accuracy of these measurements described?",
+"a": ["Low precision and low accuracy", "High precision and high accuracy", "Low precision and high accuracy", "High precision and low accuracy"],
+"correct": 3
+},
+{
+"q": "Which of the following quantities has the same base units as pressure?",
+"a": ["Young modulus", "Surface tension", "Power", "Moment of a force"],
+"correct": 0
+},
+{
+"q": "What is the systematic error in a set of experimental measurements?",
+"a": ["An error caused by random fluctuations in operator judgment", "An error that causes all readings to be shifted by a constant amount or factor from the true value", "An error that can be completely eliminated by taking the average of 100 trials", "An error due to parallax when reading a meter rule"],
+"correct": 1
+},
+{
+"q": "The period T of a satellite orbiting a planet of mass M at a distance r is given by T² = (4 pi² r³) / (G M). If measurements of r have a 1% uncertainty and M a 3% uncertainty, what is the maximum percentage uncertainty in T?",
+"a": ["2%", "3.5%", "4.5%", "6%"],
+"correct": 2
+},
+{
+"q": "Which combination of units is equivalent to the joule?",
+"a": ["N s", "kg m s⁻²", "V A", "kg m² s⁻²"],
+"correct": 3
+},
+{
+"q": "What does a zero error on a micrometer screw gauge represent?",
+"a": ["A systematic instrument error where the reading is non-zero when the jaws are fully closed", "A random uncertainty caused by uneven tightening", "A fractional uncertainty in small measurements", "A calibration failure that affects precision only"],
+"correct": 0
+},
+{
+"q": "A force vector of magnitude 50 N acts at an angle of 30 degrees to the horizontal. What is the magnitude of its vertical component?",
+"a": ["25 N", "43.3 N", "50 N", "28.9 N"],
+"correct": 1
+},
+{
+"q": "Which of the following statements correctly distinguishes between random and systematic errors?",
+"a": ["Random errors can be eliminated by calibration, whereas systematic errors cannot.", "Systematic errors cause scatter around a mean value, whereas random errors do not.", "Random errors can be reduced by repeating measurements and averaging, whereas systematic errors cannot.", "Systematic errors affect precision, while random errors affect accuracy."],
+"correct": 2
+},
+{
+"q": "The resistance R of a wire is determined from R = V / I. If the voltage V has a 2% uncertainty and the current I has a 1% uncertainty, what is the percentage uncertainty in R?",
+"a": ["0.5%", "2.0%", "1.0%", "3.0%"],
+"correct": 3
+},
+{
+"q": "What is the base unit representation of electrical charge (coulomb)?",
+"a": ["A s", "A s⁻¹", "kg m s⁻¹ A", "V s"],
+"correct": 0
+},
+{
+"q": "A student calculates the density of a metal cylinder. The mass measurement has an uncertainty of 0.5% and each linear dimension (length and diameter) has an uncertainty of 1.0%. What is the total percentage uncertainty in the calculated density?",
+"a": ["1.5%", "2.5%", "3.5%", "4.0%"],
+"correct": 1
+},
+{
+"q": "Which physical quantity is correctly matched with its SI base units?",
+"a": ["Frequency: s", "Charge: kg m² s⁻² A⁻¹", "Potential difference: kg m² s⁻³ A⁻¹", "Power: kg m s⁻²"],
+"correct": 2
+},
+{
+"q": "Two forces of 12 N and 5 N act at right angles to each other. What is the magnitude and direction of their resultant relative to the 12 N force?",
+"a": ["13 N at 22.6 degrees", "17 N at 45.0 degrees", "13 N at 67.4 degrees", "13 N at 22.6 degrees from the 5 N force"],
+"correct": 3
+},
+{
+"q": "What is the fractional uncertainty of a measurement of (50.0 ± 0.5) mm?",
+"a": ["0.01", "0.05", "0.10", "0.50"],
+"correct": 0
+},
+{
+"q": "In vector subtraction (A minus B), how is the resultant vector constructed graphically?",
+"a": ["By placing the tail of B at the tail of A", "By reversing the direction of vector B and adding it head-to-tail to vector A", "By multiplying the magnitudes of A and B", "By subtracting their angles directly without components"],
+"correct": 1
+},
+{
+"q": "What are the base units of the gravitational constant (G)?",
+"a": ["N m² kg⁻²", "kg⁻¹ m³ s⁻²", "kg m² s⁻²", "kg⁻² m³ s⁻²"],
+"correct": 2
+},
+{
+"q": "Which of the following measurements is expressed with three significant figures?",
+"a": ["0.045 m", "4.500 kg", "450 s", "4.50 m"],
+"correct": 3
+},
+{
+"q": "When calibrating a thermometer against a standard, what type of error is primarily being checked and corrected?",
+"a": ["Systematic error", "Random error", "Zero error only", "Percentage uncertainty"],
+"correct": 0
+},
+{
+"q": "What is the magnitude of the component of a 100 N force acting along a line directed 60 degrees to the force vector?",
+"a": ["86.6 N", "50.0 N", "70.7 N", "100.0 N"],
+"correct": 1
+},
+{
+"q": "Which of the following quantities is dimensionless?",
+"a": ["Strain", "Stress", "Pressure", "Momentum"],
+"correct": 2
+},
+{
+"q": "A student measures the time for 20 oscillations of a pendulum to be 24.6 s with a stopwatch reading to 0.1 s. What is the percentage uncertainty in the period of a single oscillation?",
+"a": ["0.04%", "0.41%", "2.0%", "0.40%"],
+"correct": 3
+},
+{
+"q": "Why are calibration curves used in advanced physical experiments?",
+"a": ["To correct for non-linear systematic responses of measuring instruments across a range", "To eliminate random environmental fluctuations", "To increase the number of significant figures in data", "To convert scalar quantities into vectors"],
+"correct": 0
+},
+{
+"q": "What is the SI unit of luminous intensity?",
+"a": ["Mole", "Candela", "Kelvin", "Ampere"],
+"correct": 1
+},
+{
+"q": "If y = a³ b^(1/2) / c², what is the fractional uncertainty in y in terms of the fractional uncertainties of a, b, and c?",
+"a": ["3(delta a/a) + (delta b/b) - 2(delta c/c)", "3(delta a/a) - 0.5(delta b/b) + 2(delta c/c)", "3(delta a/a) + 0.5(delta b/b) + 2(delta c/c)", "3(delta a/a) * 0.5(delta b/b) / 2(delta c/c)"],
+"correct": 2
+},
+{
+"q": "Which of the following best defines precision in experimental physics?",
+"a": ["Closeness of a measurement to the accepted true value", "Absence of any systematic errors in the apparatus", "Agreement between the mean of multiple readings and a reference standard", "Closeness of agreement between repeated measurements obtained under identical conditions"],
+"correct": 3
+},
+{
+"q": "What is the dimensional formula for thermal energy (work)?",
+"a": ["M L² T⁻²", "M L T⁻²", "M L² T⁻¹", "M⁻¹ L² T⁻²"],
+"correct": 0
+},
+{
+"q": "A vector has components X = -4.0 units and Y = 3.0 units. What is the angle of the vector counterclockwise from the positive x-axis?",
+"a": ["36.9 degrees", "143.1 degrees", "126.9 degrees", "233.1 degrees"],
+"correct": 1
+},
+{
+"q": "What is the absolute uncertainty of the sum when adding two lengths: L1 = (12.4 ± 0.1) cm and L2 = (5.2 ± 0.2) cm?",
+"a": ["17.6 ± 0.1 cm", "17.6 ± 0.2 cm", "17.6 ± 0.3 cm", "17.6 ± 0.02 cm"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about SI base units is correct?",
+"a": ["All physical quantities have their own unique base unit.", "Derived units cannot be expressed in terms of base units.", "Base units are chosen arbitrarily and cannot be derived from other quantities.", "Temperature is measured in degrees Celsius as an SI base unit."],
+"correct": 3
+}
+]
+}

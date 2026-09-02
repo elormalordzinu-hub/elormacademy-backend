@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-plant-rep",
+"name": "Plant reproduction and life cycles",
+"questions": [
+{
+"q": "What is the primary function of flowers in angiosperms (flowering plants)?",
+"a": ["To produce seeds through sexual reproduction", "To absorb water and mineral salts from soil", "To anchor the plant firmly against strong winds", "To perform all cellular respiration"],
+"correct": 0
+},
+{
+"q": "Which part of a flower consists of the anther and the filament, forming the male reproductive organ?",
+"a": ["The carpel", "The stamen", "The sepal", "The receptacle"],
+"correct": 1
+},
+{
+"q": "What is the name of the female reproductive structure of a flower consisting of the stigma, style, and ovary?",
+"a": ["The stamen", "The sepal", "The carpel (or pistil)", "The pollen tube"],
+"correct": 2
+},
+{
+"q": "Which part of the stamen produces and releases pollen grains containing male gametes?",
+"a": ["The filament", "The petal", "The sepal", "The anther"],
+"correct": 3
+},
+{
+"q": "What is the sticky surface at the top of the carpel that catches pollen grains during pollination?",
+"a": ["The style", "The stigma", "The ovary", "The ovule"],
+"correct": 1
+},
+{
+"q": "What is pollination defined as in flowering plants?",
+"a": ["The fusion of male and female nuclei", "The transfer of pollen grains from an anther to a stigma", "The scattering of mature seeds away from parent plants", "The growth of a new root system"],
+"correct": 1
+},
+{
+"q": "Which feature is typically characteristic of insect-pollinated flowers compared to wind-pollinated flowers?",
+"a": ["Large, brightly colored petals and scent with nectar", "Dull green, feather-like stigmas hanging outside", "No petals and massive amounts of smooth pollen", "Absence of any reproductive organs"],
+"correct": 0
+},
+{
+"q": "How are pollen grains of wind-pollinated plants generally adapted for their purpose?",
+"a": ["They are heavy, sticky, and spiked to cling to fur", "They are produced in vast quantities, light, smooth, and easily carried by air currents", "They are brightly colored and scented to attract bees", "They are too large to move without mechanical pumps"],
+"correct": 1
+},
+{
+"q": "What happens immediately after a compatible pollen grain lands on the stigma of a flower?",
+"a": ["It grows a pollen tube down through the style to the ovary", "It turns into a green leaf", "It falls off and dies instantly", "It absorbs water and grows roots"],
+"correct": 1
+},
+{
+"q": "What is fertilization in flowering plants?",
+"a": ["The transfer of pollen between different flowers", "The fusion of the male gamete nucleus with the female gamete nucleus inside an ovule", "The swelling of petals after rain", "The germination of a seed in soil"],
+"correct": 1
+},
+{
+"q": "After fertilization takes place, what do the ovules and the ovary develop into respectively?",
+"a": ["Leaves and stems", "Seeds and fruit", "Roots and root hairs", "Petals and sepals"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of seed dispersal away from the parent plant?",
+"a": ["To reduce competition for light, water, and mineral nutrients with the parent plant", "To ensure all seeds are eaten by herbivores", "To keep seeds close together for warmth", "To prevent germination from ever occurring"],
+"correct": 1
+},
+{
+"q": "Which method of seed dispersal is typically used by plants like dandelions and sycamores?",
+"a": ["Animal ingestion and excretion", "Wind dispersal using parachute or wing structures", "Explosive pod splitting", "Water flotation"],
+"correct": 1
+},
+{
+"q": "How are seeds with hooks, burrs, or sticky coats usually dispersed?",
+"a": ["By floating down rivers", "By catching on the fur of passing animals", "By wind currents in storms", "By underground worms"],
+"correct": 1
+},
+{
+"q": "What environmental conditions are strictly required for a dry seed to break dormancy and begin germination?",
+"a": ["Bright direct sunlight, high heat, and dry soil", "Water, oxygen, and a suitable warm temperature", "Carbon dioxide gas only", "Freezing cold and total darkness"],
+"correct": 1
+},
+{
+"q": "Why is oxygen necessary for seed germination?",
+"a": ["To power aerobic respiration, providing energy for rapid cell division and growth", "To turn the seed coat green", "To dissolve the seed shell with acid", "To perform photosynthesis inside dark soil"],
+"correct": 0
+},
+{
+"q": "What is the role of the food store (cotyledon or endosperm) inside a seed during early germination?",
+"a": ["To capture sunlight underground", "To provide stored nutrients (starch, oils, proteins) until the young seedling can photosynthesize", "To act as a heavy anchor against wind", "To attract pollinating insects"],
+"correct": 1
+},
+{
+"q": "Which part of the plant embryo emerges first during successful seed germination?",
+"a": ["The plumule (future shoot)", "The radicle (future root)", "The bright flower bud", "The seed coat"],
+"correct": 1
+},
+{
+"q": "What is asexual reproduction in plants, and how does it differ from sexual reproduction?",
+"a": ["It involves flowers and two parents fusing gametes", "It produces genetically identical offspring (clones) from a single parent without gamete fusion", "It requires pollination by insects", "It only happens in underwater algae"],
+"correct": 1
+},
+{
+"q": "Which of the following is a natural method of asexual reproduction in plants?",
+"a": ["Pollen tube growth", "Runner (stolon) formation in strawberry plants", "Seed dispersal by wind", "Starch digestion in leaves"],
+"correct": 1
+},
+{
+"q": "What are artificial methods used by horticulturists to clone plants asexually?",
+"a": ["Cuttings, grafting, and micropropagation (tissue culture)", "Cross-pollination by hand", "Soaking seeds in saltwater", "Freezing flower buds"],
+"correct": 1
+},
+{
+"q": "What advantage does asexual reproduction offer a plant species compared to sexual reproduction?",
+"a": ["It allows rapid colonization of an area with successful genetic traits when conditions are stable", "It introduces wide genetic variation", "It requires two different parent plants", "It relies entirely on insect migration"],
+"correct": 1
+},
+{
+"q": "What is the main advantage of sexual reproduction in plants over asexual reproduction?",
+"a": ["It produces genetically diverse offspring that can better adapt to environmental changes or disease", "It is much faster and requires less energy", "It creates identical clones every time", "It does not need any water"],
+"correct": 1
+},
+{
+"q": "What is the function of bright petals in insect-pollinated flowers?",
+"a": ["To protect the developing bud", "To attract specific insect pollinators like bees and butterflies", "To absorb mineral ions", "To perform photosynthesis"],
+"correct": 1
+},
+{
+"q": "What are sepals, and what is their primary role before a flower opens?",
+"a": ["Green, leaf-like structures that protect the unopened flower bud", "Sticky pads that trap pollen", "Tubes that transport water to petals", "Sweet nectar glands"],
+"correct": 0
+},
+{
+"q": "Which part of the carpel enlarges and ripens into a fruit after fertilization is complete?",
+"a": ["The stigma", "The ovary wall", "The filament", "The sepal"],
+"correct": 1
+},
+{
+"q": "What happens to the petals and stamens of a flower after fertilization has occurred?",
+"a": ["They grow larger and turn green", "They wither and fall off as they are no longer needed", "They turn into seeds", "They burrow underground"],
+"correct": 1
+},
+{
+"q": "How do succulent fruits (like berries or apples) aid in seed dispersal by animals?",
+"a": ["Animals eat the sweet fruit and pass or drop the indigestible seeds far away", "Animals use them to build nests underground", "Fruits explode when touched by animals", "Animals carry them on their fur using hooks"],
+"correct": 0
+},
+{
+"q": "What is mechanical or explosive seed dispersal?",
+"a": ["Seeds being blown by hurricanes", "Seed pods drying out, splitting violently, and flinging seeds away from the parent plant", "Seeds floating down rivers", "Animals burying nuts in the ground"],
+"correct": 1
+},
+{
+"q": "Why do seeds enter a period of dormancy (resting stage) before germination?",
+"a": ["To allow time for safe dispersal and to survive harsh or unfavorable environmental conditions", "To rot away completely in soil", "To turn into animal food", "To consume all stored water"],
+"correct": 1
+},
+{
+"q": "What role does water play when it enters a dormant seed during imbibition?",
+"a": ["It activates enzymes stored in the seed to break down food reserves and starts metabolic processes", "It drowns the embryo permanently", "It turns the seed into a leaf immediately", "It freezes the internal cells"],
+"correct": 0
+},
+{
+"q": "What is the scientific term for the young shoot that develops from a germinating seed?",
+"a": ["The radicle", "The plumule", "The cotyledon", "The hypocotyl"],
+"correct": 1
+},
+{
+"q": "Why are wind-pollinated flowers typically lacking in scent and bright petals?",
+"a": ["They do not need to attract animal pollinators, relying instead on air currents", "They are dead flowers", "They produce too much nectar instead", "They grow entirely underground"],
+"correct": 0
+},
+{
+"q": "What is cross-pollination?",
+"a": ["Transfer of pollen from an anther of one plant to the stigma of a flower on a different plant of the same species", "Transfer of pollen within the exact same flower", "Fusion of two different plant species", "Pollination carried out by water only"],
+"correct": 0
+},
+{
+"q": "What is self-pollination?",
+"a": ["Transfer of pollen from the anther to the stigma of the same flower or another flower on the same plant", "Transfer of pollen to a completely different plant species", "Pollination without any flowers", "Pollen dispersal by wind across continents"],
+"correct": 0
+},
+{
+"q": "Which plant organ contains the female gametes (egg cells) inside protective structures?",
+"a": ["The anther", "The ovule inside the ovary", "The stem node", "The root tip"],
+"correct": 1
+},
+{
+"q": "What structural adaptation do many water-dispersed seeds or fruits possess?",
+"a": ["Air spaces, fibrous husks, or waterproof outer coats that allow them to float", "Heavy lead weights to sink immediately", "Sharp metal-like thorns", "Bright neon glow"],
+"correct": 0
+},
+{
+"q": "During seed germination, why does the seedling rely on stored food before its leaves break through the soil surface?",
+"a": ["It cannot perform photosynthesis yet because there is no light underground", "Leaves are toxic to young plants", "Roots absorb all sunlight", "Stored food is poisonous after germination"],
+"correct": 0
+},
+{
+"q": "What is micropropagation (tissue culture) used for in modern plant biology?",
+"a": ["To produce thousands of genetically identical disease-free plant clones rapidly from small pieces of plant tissue", "To crossbreed wild animals with plants", "To test soil pH levels", "To measure transpiration rates"],
+"correct": 0
+},
+{
+"q": "Which characteristic distinguishes angiosperms (flowering plants) from non-flowering plants like ferns and mosses?",
+"a": ["They produce flowers and enclose their seeds within fruits", "They reproduce exclusively using swimming sperm cells", "They lack any vascular tissue", "They live only in total darkness"],
+"correct": 0
+}
+]
+}

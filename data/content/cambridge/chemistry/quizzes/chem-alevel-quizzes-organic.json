@@ -1,0 +1,186 @@
+{
+"id": "chem-alevel-quizzes-organic",
+"name": "Organic chemistry mechanism pathways",
+"questions": [
+{
+"q": "What type of reagent is defined as an electron-pair donor that is attracted to areas of electron deficiency in an organic molecule?",
+"a": ["Nucleophile", "Electrophile", "Free radical", "Bronsted-Lowry acid"],
+"correct": 0
+},
+{
+"q": "What type of bond fission results in the formation of two radicals, where each bonded atom retains one of the shared electrons?",
+"a": ["Heterolytic fission", "Homolytic fission", "Condensation", "Hydrolysis"],
+"correct": 1
+},
+{
+"q": "Which intermediate is formed during the electrophilic addition of hydrogen bromide to an alkene such as propene?",
+"a": ["Carbanion", "Free radical", "Carbocation", "Carbene"],
+"correct": 2
+},
+{
+"q": "What is the primary mechanism by which halogenoalkanes like bromomethane react with aqueous sodium hydroxide to form methanol?",
+"a": ["Electrophilic addition", "Free radical substitution", "Electrophilic substitution", "Nucleophilic substitution (specifically SN2)"],
+"correct": 3
+},
+{
+"q": "Which of the following describes the first step in the free radical substitution of methane with chlorine in the presence of ultraviolet light?",
+"a": ["Initiation, involving homolytic fission of chlorine molecules into chlorine radicals", "Propagation, involving attack by a methyl radical", "Termination, involving combination of two methyl radicals", "Heterolytic fission of methane"],
+"correct": 0
+},
+{
+"q": "What is the main organic product formed when 2-bromopropane is heated under reflux with ethanolic potassium hydroxide?",
+"a": ["Propan-2-ol", "Propene", "Propanoic acid", "1-bromopropane"],
+"correct": 1
+},
+{
+"q": "Why is tertiary halogenoalkane hydrolysis typically proceed via an SN1 mechanism rather than SN2?",
+"a": ["Because the carbon-halogen bond is exceptionally short and strong", "Because steric hindrance prevents backside attack by the nucleophile", "Because tertiary carbocation intermediates are relatively stable due to positive inductive effects of three alkyl groups", "Because the hydroxide ion acts as an electrophile instead"],
+"correct": 2
+},
+{
+"q": "During the electrophilic substitution of benzene with a mixture of concentrated nitric and sulfuric acids, what is the active electrophile species generated?",
+"a": ["Nitrogen dioxide radical", "Nitrate ion", "Nitrogen gas", "Nitronium ion, NO<sub>2</sub><sup>+</sup>"],
+"correct": 3
+},
+{
+"q": "What role does aluminum chloride (AlCl<sub>3</sub>) play in a Friedel-Crafts alkylation reaction of benzene?",
+"a": ["It acts as a Lewis acid catalyst to generate the electrophilic carbocation from a halogenoalkane", "It acts as a strong Bronsted-Lowry base", "It acts as a reducing agent for benzene rings", "It provides hydroxide ions"],
+"correct": 0
+},
+{
+"q": "Which mechanistic step involves two radicals combining to form a stable molecule, bringing a free radical chain reaction to an end?",
+"a": ["Initiation", "Termination", "Propagation", "Substitution"],
+"correct": 1
+},
+{
+"q": "In nucleophilic addition reactions of carbonyl compounds (such as propanone with hydrogen cyanide), what species attacks the electrophilic carbonyl carbon first?",
+"a": ["A hydrogen radical", "A hydronium ion", "A cyanide ion (CN<sup>-</sup>)", "A water molecule"],
+"correct": 2
+},
+{
+"q": "What is the role of the hydroxyl ion (OH<sup>-</sup>) when reacting with a halogenoalkane under different conditions?",
+"a": ["It acts exclusively as an oxidizing agent", "It acts exclusively as a free radical initiator", "It acts as a Lewis acid", "It acts as a nucleophile in aqueous solution to form alcohols, and as a base in ethanolic solution to promote elimination"],
+"correct": 3
+},
+{
+"q": "Which of the following compounds reacts most rapidly with aqueous silver nitrate in ethanol to form a silver halide precipitate?",
+"a": ["2-iodo-2-methylpropane", "1-chlorobutane", "2-bromopropane", "1-fluorobutane"],
+"correct": 0
+},
+{
+"q": "What type of intermediate is characteristic of an SN1 nucleophilic substitution mechanism?",
+"a": ["A pentavalent transition state", "A planar carbocation intermediate", "A free radical chain", "A carbanion intermediate"],
+"correct": 1
+},
+{
+"q": "According to Markovnikov's rule, when an unsymmetrical alkene reacts with a hydrogen halide, the hydrogen atom adds preferentially to which carbon?",
+"a": ["The carbon with the fewest attached alkyl groups", "The carbon involved in a triple bond", "The carbon that already possesses the greater number of hydrogen atoms", "The carbon directly bonded to the halogen"],
+"correct": 2
+},
+{
+"q": "What is the primary organic product when an aldehyde is treated with sodium borohydride (NaBH<sub>4</sub>)?",
+"a": ["A ketone", "A carboxylic acid", "An alkene", "A primary alcohol"],
+"correct": 3
+},
+{
+"q": "Which mechanism describes the conversion of ethene to 1,2-dibromoethane using liquid bromine?",
+"a": ["Electrophilic addition", "Nucleophilic substitution", "Free radical substitution", "Elimination"],
+"correct": 0
+},
+{
+"q": "In the dehydration of cyclohexanol using concentrated phosphoric acid, what type of reaction mechanism is taking place?",
+"a": ["Nucleophilic substitution", "Elimination (specifically E1)", "Electrophilic addition", "Free radical polymerization"],
+"correct": 1
+},
+{
+"q": "Why does chlorobenzene fail to undergo nucleophilic substitution readily under mild conditions compared to chloroalkanes?",
+"a": ["Chlorobenzene is a gas at room temperature", "The carbon-chlorine bond is non-polar", "The delocalized pi-electrons of the benzene ring overlap with a lone pair on the chlorine atom, giving the C-Cl bond partial double-bond character", "Chlorine is too electronegative to leave"],
+"correct": 2
+},
+{
+"q": "What is the function of concentrated sulfuric acid in the nitration of benzene?",
+"a": ["To act as a dehydrating solvent only", "To act as a reducing agent", "To act as a strong base", "To act as a catalyst that reacts with nitric acid to produce the nitronium ion electrophile"],
+"correct": 3
+},
+{
+"q": "Which carbocation is the most stable and forms most readily during organic reactions?",
+"a": ["Tertiary carbocation", "Primary carbocation", "Secondary carbocation", "Methyl carbocation"],
+"correct": 0
+},
+{
+"q": "What type of bond fission generates ions with full outer shells of electrons, such as a carbocation and a halide ion?",
+"a": ["Homolytic fission", "Heterolytic fission", "Radical fission", "Thermal cracking"],
+"correct": 1
+},
+{
+"q": "In the reaction of bromoethane with aqueous potassium cyanide, what functional group is formed in the main organic product?",
+"a": ["An amine", "An amide", "A nitrile (cyanide)", "A carboxylic acid"],
+"correct": 2
+},
+{
+"q": "Which reagent is commonly used to introduce an amino group into a halogenoalkane via nucleophilic substitution?",
+"a": ["Acidified potassium manganate(VII)", "Concentrated hydrochloric acid", "Ethanolic ammonia under pressure", "Lithium aluminium hydride"],
+"correct": 3
+},
+{
+"q": "What term describes a species with an unpaired electron that is highly reactive?",
+"a": ["Free radical", "Carbocation", "Carbanion", "Nucleophile"],
+"correct": 0
+},
+{
+"q": "During the acid-catalyzed elimination of water from an alcohol, what molecule is initially lost from the protonated alcohol to form a carbocation?",
+"a": ["Hydrogen gas", "A water molecule (H<sub>2</sub>O)", "Carbon dioxide", "A hydride ion"],
+"correct": 1
+},
+{
+"q": "What is the key characteristic of an SN2 reaction mechanism regarding stereochemistry?",
+"a": ["It results in complete racemization", "It proceeds via a planar carbocation intermediate", "It involves inversion of configuration at the chiral center due to backside attack", "It has zero dependence on the concentration of the nucleophile"],
+"correct": 2
+},
+{
+"q": "Which of the following compounds can act as an electrophile due to a partial positive charge on its carbon atom?",
+"a": ["Methane", "Ethene", "Benzene", "Bromoethane"],
+"correct": 3
+},
+{
+"q": "What is the intermediate species formed during the electrophilic addition of bromine to ethene before attack by a bromide ion?",
+"a": ["A cyclic bromonium ion", "A free radical pair", "A stable carbanion", "A diazonium ion"],
+"correct": 0
+},
+{
+"q": "What type of reaction mechanism is involved when acyl chlorides react with primary amines to form secondary amides?",
+"a": ["Free radical substitution", "Nucleophilic addition-elimination", "Electrophilic addition", "Thermal elimination"],
+"correct": 1
+},
+{
+"q": "Why are fluoroalkanes much less reactive than chloroalkanes in nucleophilic substitution reactions?",
+"a": ["Fluorine is a gas", "Fluoroalkanes are ionic", "The carbon-fluorine bond enthalpy is extremely high, making it very difficult to break", "Fluorine atoms are too small to attract nucleophiles"],
+"correct": 2
+},
+{
+"q": "What is formed when a primary halogenoalkane reacts with aqueous sodium hydroxide under reflux?",
+"a": ["An aldehyde", "A ketone", "An alkene", "A primary alcohol"],
+"correct": 3
+},
+{
+"q": "Which mechanism operates when benzene reacts with chlorine in the presence of an anhydrous iron(III) chloride catalyst?",
+"a": ["Electrophilic substitution", "Nucleophilic addition", "Free radical substitution", "Elimination"],
+"correct": 0
+},
+{
+"q": "What is the main role of ultraviolet light in the chlorination of alkanes?",
+"a": ["To heat the reaction vessel", "To provide the energy required for homolytic fission of chlorine molecules into radicals", "To convert alkanes into alkenes", "To act as a nucleophilic catalyst"],
+"correct": 1
+},
+{
+"q": "In the alkaline hydrolysis of 1-bromobutane, how does the rate of reaction depend on reactant concentrations?",
+"a": ["Rate depends only on the concentration of 1-bromobutane", "Rate is independent of concentrations", "Rate depends on the concentrations of both 1-bromobutane and hydroxide ions (second-order overall)", "Rate depends only on hydroxide concentration"],
+"correct": 2
+},
+{
+"q": "Which species acts as the nucleophile in the reaction of an aldehyde with hydrogen cyanide catalyzed by cyanide ions?",
+"a": ["H<sup>+</sup> ion", "HCN molecule", "OH<sup>-</sup> ion", "CN<sup>-</sup> ion"],
+"correct": 3
+}
+]
+}

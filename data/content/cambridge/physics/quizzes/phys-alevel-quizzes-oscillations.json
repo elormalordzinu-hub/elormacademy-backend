@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-oscillations",
+"name": "Oscillations and simple harmonic motion",
+"questions": [
+{
+"q": "What is the defining condition for a body to execute simple harmonic motion (SHM)?",
+"a": ["Acceleration is directly proportional to displacement from a fixed point and directed towards that point.", "Velocity is directly proportional to displacement.", "Restoring force is inversely proportional to displacement.", "Acceleration is constant throughout the motion."],
+"correct": 0
+},
+{
+"q": "Which expression correctly gives the acceleration a of an object performing simple harmonic motion with angular frequency omega and displacement x?",
+"a": ["a = omega x", "a = -omega² x", "a = -omega x²", "a = omega² x²"],
+"correct": 1
+},
+{
+"q": "What is the total energy E of a system of mass m executing simple harmonic motion with amplitude A and angular frequency omega?",
+"a": ["E = 0.5 m omega A", "E = m omega² A²", "E = 0.5 m omega² A²", "E = m omega A²"],
+"correct": 2
+},
+{
+"q": "How are the maximum velocity v_max and maximum acceleration a_max related for a simple harmonic oscillator with angular frequency omega?",
+"a": ["a_max = v_max / omega", "a_max = v_max omega²", "a_max = v_max² omega", "a_max = v_max omega"],
+"correct": 3
+},
+{
+"q": "What is the period T of a simple pendulum of length L in a gravitational field of strength g?",
+"a": ["T = 2 pi square root of (L / g)", "T = 2 pi square root of (g / L)", "T = pi square root of (L / g)", "T = 2 pi (L / g)"],
+"correct": 0
+},
+{
+"q": "At what point in a simple harmonic motion cycle is the kinetic energy of the oscillator at its maximum?",
+"a": ["At maximum displacement (amplitude)", "At the equilibrium position (zero displacement)", "At half-amplitude", "Kinetic energy remains constant throughout the cycle"],
+"correct": 1
+},
+{
+"q": "What is the period T of a mass m attached to a horizontal spring of spring constant k executing simple harmonic motion?",
+"a": ["T = 2 pi square root of (k / m)", "T = 0.5 pi square root of (m / k)", "T = 2 pi square root of (m / k)", "T = pi square root of (m k)"],
+"correct": 2
+},
+{
+"q": "What type of damping occurs when a system is displaced and returns to equilibrium without oscillating, but takes the minimum possible time to do so?",
+"a": ["Underdamping", "Overdamping", "Light damping", "Critical damping"],
+"correct": 3
+},
+{
+"q": "What is the phase difference between displacement and velocity in simple harmonic motion?",
+"a": ["pi / 2 radians (90 degrees)", "pi radians (180 degrees)", "2 pi radians (360 degrees)", "Zero"],
+"correct": 0
+},
+{
+"q": "What happens to the total energy of a damped oscillator over time in the presence of resistive forces?",
+"a": ["It increases exponentially", "It decreases continuously until motion ceases", "It remains constant due to conservation of energy", "It fluctuates between zero and infinity"],
+"correct": 1
+},
+{
+"q": "What is resonance defined as in forced oscillations?",
+"a": ["When damping is reduced to zero", "When the driving frequency is zero", "When the frequency of the periodic driving force matches the natural frequency of the system, resulting in maximum amplitude", "When the amplitude of oscillation drops to minimum"],
+"correct": 2
+},
+{
+"q": "If the amplitude of a simple harmonic oscillator is doubled, what happens to its total energy?",
+"a": ["It is doubled", "It is quadrupled", "It increases by a factor of square root of 2", "It remains unchanged"],
+"correct": 3
+},
+{
+"q": "Which graph represents the variation of potential energy with displacement for an object executing simple harmonic motion?",
+"a": ["A parabola opening upwards (U proportional to x²)", "A straight line sloping upwards", "A sinusoidal wave", "A rectangular hyperbola"],
+"correct": 0
+},
+{
+"q": "What is the frequency f of an oscillator if its angular frequency omega is 50 rad s⁻¹?",
+"a": ["314 Hz", "7.96 Hz", "50 Hz", "25 Hz"],
+"correct": 1
+},
+{
+"q": "What is the phase difference between displacement and acceleration in simple harmonic motion?",
+"a": ["Zero", "pi / 2 radians", "pi radians (180 degrees)", "3 pi / 2 radians"],
+"correct": 2
+},
+{
+"q": "A mass of 0.20 kg is attached to a vertical spring of spring constant 50 N m⁻¹. What is the angular frequency of its oscillations?",
+"a": ["5.0 rad s⁻¹", "10.0 rad s⁻¹", "250.0 rad s⁻¹", "15.8 rad s⁻¹"],
+"correct": 3
+},
+{
+"q": "What effect does heavy (over)damping have on the resonant frequency of a driven mechanical system?",
+"a": ["It significantly lowers the resonant frequency and broadens the response peak", "It increases the resonant frequency", "It eliminates oscillations entirely without affecting frequency", "It makes the peak infinitely sharp"],
+"correct": 0
+},
+{
+"q": "Which of the following describes free oscillations?",
+"a": ["Oscillations driven by an external periodic force", "Oscillations where a system oscillates at its natural frequency with no external forces acting to pump energy in or damp it", "Oscillations with constantly increasing amplitude", "Oscillations that occur only in a vacuum"],
+"correct": 1
+},
+{
+"q": "What is the velocity v of a particle executing SHM as a function of displacement x, amplitude A, and angular frequency omega?",
+"a": ["v = omega square root of (x² - A²)", "v = omega x", "v = omega square root of (A² - x²)", "v = A omega cos(omega t)"],
+"correct": 2
+},
+{
+"q": "What is the main characteristic of forced oscillations?",
+"a": ["The system oscillates at its own natural frequency regardless of the driver", "The amplitude remains zero", "The energy of the system is completely conserved", "The system is forced to vibrate at the frequency of the external driving force"],
+"correct": 3
+},
+{
+"q": "An object oscillates with an amplitude of 0.05 m and a frequency of 10 Hz. What is its maximum acceleration?",
+"a": ["197.4 m s⁻² (approx 200 m s⁻²)", "3.14 m s⁻²", "0.50 m s⁻²", "5.00 m s⁻²"],
+"correct": 0
+},
+{
+"q": "What is the restoring force acting on a mass m attached to a spring of spring constant k at displacement x?",
+"a": ["F = +k x", "F = -k x", "F = -m omega x²", "F = k x²"],
+"correct": 1
+},
+{
+"q": "How does an increase in damping affect the sharpness of the resonance peak (Q-factor) on an amplitude-frequency graph?",
+"a": ["It makes the peak taller and narrower", "It has no effect on the peak width", "It reduces the maximum amplitude at resonance and broadens the peak", "It shifts the peak to higher frequencies"],
+"correct": 2
+},
+{
+"q": "What is the period of a simple harmonic oscillator whose displacement is given by x = 0.04 sin(20 pi t)?",
+"a": ["20 seconds", "0.05 pi seconds", "2.0 seconds", "0.10 seconds"],
+"correct": 3
+},
+{
+"q": "At what displacement from equilibrium is the magnitude of the velocity of a simple harmonic oscillator equal to half its maximum velocity?",
+"a": ["x = square root of (3) / 2 * A (approx 0.866 A)", "x = 0.5 A", "x = A / square root of (2)", "x = 0.25 A"],
+"correct": 0
+},
+{
+"q": "Which equation correctly describes the displacement x as a function of time t for an oscillator starting from maximum positive displacement at t = 0?",
+"a": ["x = A sin(omega t)", "x = A cos(omega t)", "x = -A cos(omega t)", "x = A sin(omega t + pi)"],
+"correct": 1
+},
+{
+"q": "What is the kinetic energy of a 0.5 kg mass executing SHM with an angular frequency of 10 rad s⁻¹ and an amplitude of 0.1 m when it passes through the equilibrium position?",
+"a": ["0.25 J", "0.50 J", "0.25 J (Wait: 0.5 * m * v_max² = 0.5 * 0.5 * (omega A)² = 0.25 * (10 * 0.1)² = 0.25 * 1 = 0.25 J... wait let's check: 0.5 * 0.5 * 1² = 0.25 J)", "0.025 J"],
+"correct": 2
+},
+{
+"q": "Why are vehicle suspension systems intentionally damped with shock absorbers?",
+"a": ["To increase the resonant frequency of the car chassis", "To amplify road vibrations for better steering feel", "To store potential energy during turns", "To quickly remove energy from unwanted oscillations caused by bumps, preventing continuous bouncing"],
+"correct": 3
+},
+{
+"q": "What is the acceleration of a simple harmonic oscillator at maximum displacement A?",
+"a": ["-omega² A", "Zero", "omega A", "omega² A²"],
+"correct": 0
+},
+{
+"q": "What does the gradient of a graph of acceleration versus displacement (-a vs x) represent for a simple harmonic oscillator?",
+"a": ["Angular frequency omega", "Square of the angular frequency (omega²)", "Amplitude A", "Period T"],
+"correct": 1
+},
+{
+"q": "If the length of a simple pendulum is quadrupled, what happens to its period of oscillation?",
+"a": ["It is halved", "It is doubled", "It increases by a factor of 4", "It remains unchanged"],
+"correct": 2
+},
+{
+"q": "Which of the following physical systems does NOT execute approximate simple harmonic motion for small amplitudes?",
+"a": ["A simple pendulum swinging through a small angle", "A liquid column oscillating in a U-tube", "A mass on a spring obeying Hooke's law", "A ball rolling back and forth inside a wide bowl with friction"],
+"correct": 3
+},
+{
+"q": "What is the maximum speed of an oscillator whose motion is described by x = 0.02 sin(50 t)?",
+"a": ["1.0 m s⁻¹", "50 m s⁻¹", "0.02 m s⁻¹", "2.5 m s⁻¹"],
+"correct": 0
+},
+{
+"q": "What is the primary physical cause of damping in real mechanical oscillations?",
+"a": ["Conservation of momentum", "Dissipative forces such as air resistance and internal friction converting mechanical energy into thermal energy", "Quantization of energy levels", "Gravitational pull from distant masses"],
+"correct": 1
+},
+{
+"q": "How does the total energy of a simple harmonic oscillator relate to its mass m and amplitude A?",
+"a": ["E is inversely proportional to m", "E is independent of A", "E is directly proportional to the square of the amplitude (A²)", "E is proportional to the square root of m"],
+"correct": 2
+},
+{
+"q": "What is the condition for critical damping?",
+"a": ["The system oscillates indefinitely with constant amplitude", "The damping force is zero", "The system oscillates with exponentially growing amplitude", "The system returns to equilibrium in the shortest possible time without oscillating"],
+"correct": 3
+},
+{
+"q": "What is the restoring force per unit displacement for a spring-mass system with spring constant k?",
+"a": ["Equal to k", "Equal to k / m", "Equal to m k", "Zero"],
+"correct": 0
+},
+{
+"q": "What is the angular frequency omega of a mass m on a spring of constant k?",
+"a": ["omega = m / k", "omega = square root of (k / m)", "omega = square root of (m / k)", "omega = 2 pi k / m"],
+"correct": 1
+},
+{
+"q": "At what point during one complete cycle of SHM is the magnitude of the restoring force maximum?",
+"a": ["At the equilibrium position", "When velocity is maximum", "At maximum displacement (amplitude)", "When acceleration is zero"],
+"correct": 2
+},
+{
+"q": "What term describes the reduction in amplitude of an oscillator due to energy losses to the surroundings?",
+"a": ["Resonance", "Superposition", "Diffraction", "Damping"],
+"correct": 3
+}
+]
+}

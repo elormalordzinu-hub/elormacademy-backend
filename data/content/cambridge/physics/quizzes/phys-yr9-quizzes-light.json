@@ -1,0 +1,166 @@
+{
+"id": "phys-yr9-quizzes-light",
+"name": "Light reflection and refraction",
+"questions": [
+{
+"q": "What does the law of reflection state about the angles of a light ray hitting a plane mirror?",
+"a": ["The angle of incidence equals the angle of reflection.", "The angle of incidence is greater than reflection.", "The angle of reflection is always zero.", "Angles change based on mirror color."],
+"correct": 0
+},
+{
+"q": "What term describes the bending of a light ray as it passes from one transparent medium into another with a different density?",
+"a": ["Reflection", "Refraction", "Diffraction", "Absorption"],
+"correct": 1
+},
+{
+"q": "When a beam of white light passes through a triangular glass prism, it splits into a spectrum of colors. What is this phenomenon called?",
+"a": ["Reflection", "Diffraction", "Dispersion", "Polarization"],
+"correct": 2
+},
+{
+"q": "Which of the following colors of light bends the most when passing through a glass prism because of its shorter wavelength?",
+"a": ["Red", "Orange", "Yellow", "Violet"],
+"correct": 3
+},
+{
+"q": "What kind of image is formed by a plane mirror, meaning it cannot be projected onto a screen?",
+"a": ["Virtual image", "Real image", "Inverted real image magnified", "Focal image"],
+"correct": 0
+},
+{
+"q": "When a ray of light passes from air into a denser medium like glass at an angle, how does it bend relative to the normal line?",
+"a": ["It bends away from the normal.", "It bends towards the normal.", "It continues in a straight line without bending.", "It reflects backward."],
+"correct": 1
+},
+{
+"q": "What is the critical angle of a medium defined as?",
+"a": ["The angle where light stops completely.", "The angle where reflection disappears.", "The angle of incidence in a denser medium that results in an angle of refraction of 90 degrees.", "The angle where dispersion is maximized."],
+"correct": 2
+},
+{
+"q": "What phenomenon occurs when light traveling inside an optically denser medium hits a boundary at an angle greater than the critical angle and reflects entirely back inside?",
+"a": ["Refraction", "Scattering", "Diffraction", "Total internal reflection"],
+"correct": 3
+},
+{
+"q": "Which optical device relies on total internal reflection to transmit high-speed data and internet signals over long distances?",
+"a": ["Fiber optic cable", "Plane glass window", "Concave makeup mirror", "Wood burner lens"],
+"correct": 0
+},
+{
+"q": "What type of lens is thicker in the middle than at its edges and causes parallel light rays to converge to a focal point?",
+"a": ["Concave (diverging) lens", "Convex (converging) lens", "Flat plane glass", "Prism reflector"],
+"correct": 1
+},
+{
+"q": "What type of image is produced by a convex lens when an object is placed beyond its focal length?",
+"a": ["Always virtual and upright", "Always invisible", "A real image that can be projected onto a screen", "A monochromatic beam"],
+"correct": 2
+},
+{
+"q": "Why does a swimming pool appear shallower than it actually is when viewed from above?",
+"a": ["Water absorbs all light.", "Mirrors at the bottom reflect images.", "The water is colder at the bottom.", "Light rays bend (refract) away from the normal as they exit water into the air, tricking the brain."],
+"correct": 3
+},
+{
+"q": "Which of the following terms describes materials that allow light to pass through them clearly so objects behind them can be seen?",
+"a": ["Transparent", "Translucent", "Opaque", "Reflective"],
+"correct": 0
+},
+{
+"q": "What type of lens is thinner in the center than at the edges, causing parallel rays of light to diverge?",
+"a": ["Convex lens", "Concave lens", "Plano-convex lens", "Cylindrical magnifying glass"],
+"correct": 1
+},
+{
+"q": "If an object is placed 20 cm in front of a flat plane mirror, how far behind the mirror does its virtual image appear to be located?",
+"a": ["10 cm", "40 cm", "20 cm", "0 cm"],
+"correct": 2
+},
+{
+"q": "What color does a red rose appear to be when illuminated exclusively by pure green light?",
+"a": ["Bright red", "Pure white", "Yellow", "Black (because red pigment absorbs green light and reflects no light)"],
+"correct": 3
+},
+{
+"q": "What is the primary reason why we can see non-luminous objects like books and trees around us?",
+"a": ["They reflect light from a light source into our eyes.", "They produce their own light.", "They refract sound waves.", "They absorb all light."],
+"correct": 0
+},
+{
+"q": "Which of the following correctly lists the colors of the visible spectrum in order from longest wavelength to shortest?",
+"a": ["Violet, Indigo, Blue, Green, Yellow, Orange, Red", "Red, Orange, Yellow, Green, Blue, Indigo, Violet", "Blue, Red, Green, Violet, Orange, Yellow, Indigo", "Green, Yellow, Red, Blue, Violet, Orange, Indigo"],
+"correct": 1
+},
+{
+"q": "What is the speed of light in a vacuum approximately equal to?",
+"a": ["340 meters per second", "3,000 meters per second", "300,000 kilometers per second", "1,000 kilometers per hour"],
+"correct": 2
+},
+{
+"q": "Which medical instrument uses bundles of optical fibers utilizing total internal reflection to view inside the human body?",
+"a": ["A stethoscope", "An X-ray machine", "A thermometer", "An endoscope"],
+"correct": 3
+},
+{
+"q": "What happens to the direction of a light ray if it strikes the boundary between two transparent media perpendicularly (at an angle of incidence of 0 degrees)?",
+"a": ["It passes straight through without changing direction (no refraction).", "It bends at a 90-degree angle.", "It reflects backward completely.", "It turns into sound."],
+"correct": 0
+},
+{
+"q": "What term is given to materials like frosted glass or tracing paper that let some light through but scatter it so images are blurred?",
+"a": ["Transparent", "Translucent", "Opaque", "Reflective"],
+"correct": 1
+},
+{
+"q": "When parallel light rays pass through a concave lens, what do they do?",
+"a": ["Converge to a single focal point", "Stop completely", "Diverge (spread apart) as if coming from a principal focus", "Turn into ultraviolet rays"],
+"correct": 2
+},
+{
+"q": "Why does a pencil placed obliquely in a glass of water appear to be bent or broken at the water surface?",
+"a": ["The pencil actually breaks under pressure.", "Water magnetism bends the wood.", "Chemical reactions soften the pencil.", "Refraction of light rays as they pass from water to air changes the apparent position."],
+"correct": 3
+},
+{
+"q": "What is the normal line in ray optics diagrams defined as?",
+"a": ["An imaginary line drawn perpendicular (at 90 degrees) to the mirror or boundary surface at the point of incidence", "The incident ray itself", "The reflected ray", "The horizontal baseline"],
+"correct": 0
+},
+{
+"q": "Which property of light explains why shadows are formed behind opaque objects?",
+"a": ["Light travels in curved paths.", "Light travels in straight lines (rectilinear propagation) and cannot bend around large opaque obstacles easily.", "Light has high mass.", "Light slows down in air."],
+"correct": 1
+},
+{
+"q": "What is the focal length of a lens?",
+"a": ["The total physical diameter of the glass lens", "The weight of the lens", "The distance from the optical center of the lens to its principal focus", "The time light takes to pass through the lens"],
+"correct": 2
+},
+{
+"q": "Which of the following optical instruments uses a combination of lenses to form magnified images of extremely distant objects like stars and planets?",
+"a": ["A simple magnifying glass", "A microscope", "A periscope", "An astronomical telescope"],
+"correct": 3
+},
+{
+"q": "If the angle between an incident light ray and a plane mirror surface is 30 degrees, what is the angle of reflection measured from the normal?",
+"a": ["60 degrees", "30 degrees", "90 degrees", "0 degrees"],
+"correct": 0
+},
+{
+"q": "What kind of lenses are prescribed by optometrists to correct short-sightedness (myopia), where images form in front of the retina?",
+"a": ["Convex converging lenses", "Concave diverging lenses", "Prism blocks", "Bifocal mirrors"],
+"correct": 1
+},
+{
+"q": "Why do diamond gems sparkle with brilliant rainbow colors when cut and polished skillfully?",
+"a": ["Diamonds contain tiny light bulbs.", "Diamonds are made of colored plastic.", "Diamonds have a very high refractive index and low critical angle, causing intense internal reflection and dispersion.", "Diamonds absorb all light."],
+"correct": 2
+},
+{
+"q": "What type of image is formed on the retina of a human eye?",
+"a": ["An upright virtual image magnified", "A blurry unprojectable image", "A permanent photographic print", "A real, inverted image that the brain interprets the right way up"],
+"correct": 3
+}
+]
+}

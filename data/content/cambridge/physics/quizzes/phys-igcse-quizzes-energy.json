@@ -1,0 +1,206 @@
+{
+"id": "phys-igcse-quizzes-energy",
+"name": "Energy work and power",
+"questions": [
+{
+"q": "What is the Principle of Conservation of Energy?",
+"a": ["Energy cannot be created or destroyed, but can only be converted from one form to another.", "Energy is constantly disappearing into empty space.", "Total energy in any closed system decreases over time.", "Energy can be created from nothing if work is done."],
+"correct": 0
+},
+{
+"q": "What is the formula used to calculate kinetic energy (KE)?",
+"a": ["KE = m times v", "KE = 0.5 times m times v squared", "KE = m times g times h", "KE = F times d"],
+"correct": 1
+},
+{
+"q": "How is gravitational potential energy (GPE) calculated?",
+"a": ["GPE = 0.5 times m times v squared", "GPE = F divided by d", "GPE = m times g times h", "GPE = P times t"],
+"correct": 2
+},
+{
+"q": "What is the definition of work done by a force acting on an object?",
+"a": ["Force divided by velocity", "Mass multiplied by acceleration", "Power multiplied by time", "Force multiplied by the distance moved in the direction of the force"],
+"correct": 3
+},
+{
+"q": "What is the SI unit of energy and work?",
+"a": ["Joule (J)", "Watt (W)", "Newton (N)", "Pascal (Pa)"],
+"correct": 0
+},
+{
+"q": "What is power defined as in physics?",
+"a": ["The total energy stored in a system", "The rate at which work is done or energy is transferred", "Force multiplied by distance", "Energy divided by mass"],
+"correct": 1
+},
+{
+"q": "What is the formula relating power (P), work done (W) or energy transferred (E), and time taken (t)?",
+"a": ["P = E times t", "P = t / E", "P = E / t", "P = E times t squared"],
+"correct": 2
+},
+{
+"q": "What is the SI unit of power?",
+"a": ["Joule (J)", "Newton (N)", "Volt (V)", "Watt (W)"],
+"correct": 3
+},
+{
+"q": "A crane lifts a 500 kg concrete block vertically upward through a height of 10 m. What is the gravitational potential energy gained by the block? (Use g = 10 N/kg)",
+"a": ["50,000 J", "5,000 J", "500 J", "25,000 J"],
+"correct": 0
+},
+{
+"q": "What is the kinetic energy of a 1,000 kg car traveling at a speed of 20 m/s?",
+"a": ["10,000 J", "200,000 J", "400,000 J", "100,000 J"],
+"correct": 1
+},
+{
+"q": "How is the efficiency of an energy-converting device calculated?",
+"a": ["Total input energy multiplied by useful output energy", "Useful output energy divided by total input energy (expressed as a percentage)", "Useful output energy divided by wasted energy", "Total input power minus useful output power"],
+"correct": 2
+},
+{
+"q": "Can the efficiency of any practical energy transfer device ever be 100 percent (or greater)?",
+"a": ["Yes, if frictionless lubricants are used.", "Yes, in a vacuum.", "No, because some energy is always dissipated (wasted) as thermal energy to the surroundings due to friction and resistance.", "No, unless electrical voltage is doubled."],
+"correct": 3
+},
+{
+"q": "A constant force of 50 N pushes a box across a floor over a distance of 6.0 m in the direction of the force. How much work is done?",
+"a": ["300 J", "8.3 J", "56 J", "3,000 J"],
+"correct": 0
+},
+{
+"q": "An electric motor does 6,000 J of work in 30 seconds. What is its useful output power?",
+"a": ["180,000 W", "200 W", "0.005 W", "60 W"],
+"correct": 1
+},
+{
+"q": "Which of the following energy stores is primarily involved when a stretched rubber band is released to fly across a room?",
+"a": ["Chemical energy store", "Gravitational potential energy store", "Elastic potential (strain) energy store", "Nuclear energy store"],
+"correct": 2
+},
+{
+"q": "What happens to the total amount of energy in a closed, isolated system over time?",
+"a": ["It increases continuously.", "It decreases to zero.", "It converts entirely into sound waves.", "It remains constant (conserved)."],
+"correct": 3
+},
+{
+"q": "When a ball is dropped from a height, ignoring air resistance, what energy conversion takes place as it falls?",
+"a": ["Gravitational potential energy is converted into kinetic energy.", "Kinetic energy is converted into chemical energy.", "Thermal energy is converted into gravitational potential energy.", "Elastic energy is converted into nuclear energy."],
+"correct": 0
+},
+{
+"q": "What is the main energy transfer that occurs when a chemical flashlight is switched on?",
+"a": ["Electrical energy to gravitational energy", "Chemical energy stored in the battery is converted into electrical energy and then into light and thermal energy", "Light energy is converted into sound energy", "Nuclear energy is converted into kinetic energy"],
+"correct": 1
+},
+{
+"q": "If an incandescent light bulb has a total energy input of 100 J and produces 15 J of useful light energy, how much energy is wasted as thermal energy?",
+"a": ["15 J", "100 J", "85 J", "1,150 J"],
+"correct": 2
+},
+{
+"q": "What is the efficiency of the light bulb from the question above?",
+"a": ["85 percent", "100 percent", "1.5 percent", "15 percent"],
+"correct": 3
+},
+{
+"q": "Which of the following renewable energy sources harnesses the kinetic energy of moving water in rivers or tidal barrages?",
+"a": ["Hydroelectric energy", "Geothermal energy", "Solar photovoltaic energy", "Nuclear fission energy"],
+"correct": 0
+},
+{
+"q": "What is the primary energy source for almost all energy on Earth, including fossil fuels, wind, and wave power?",
+"a": ["Geothermal heat from Earth core", "The Sun", "The rotation of the Moon", "Nuclear fusion in Jupiter"],
+"correct": 1
+},
+{
+"q": "A machine has a useful power output of 400 W and a total power input of 500 W. What is its efficiency?",
+"a": ["0.8 percent", "125 percent", "80 percent", "20 percent"],
+"correct": 2
+},
+{
+"q": "How much work is done against gravity when a 2 kg brick is lifted vertically through 3 meters? (Use g = 10 N/kg)",
+"a": ["6 J", "0.6 J", "600 J", "60 J"],
+"correct": 3
+},
+{
+"q": "What energy resource involves splitting heavy atomic nuclei such as Uranium-235?",
+"a": ["Nuclear fission", "Geothermal power", "Biofuel combustion", "Wind power"],
+"correct": 0
+},
+{
+"q": "What energy transformation occurs in a wind turbine?",
+"a": ["Electrical energy into kinetic energy", "Kinetic energy of moving air into electrical energy via a generator", "Thermal energy into chemical energy", "Potential energy of water into sound waves"],
+"correct": 1
+},
+{
+"q": "If a falling object loses 500 J of gravitational potential energy and experiences no air resistance, how much kinetic energy does it gain?",
+"a": ["0 J", "250 J", "500 J", "1,000 J"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of a non-renewable energy resource?",
+"a": ["Solar energy", "Wind energy", "Tidal energy", "Coal"],
+"correct": 3
+},
+{
+"q": "What is geothermal energy?",
+"a": ["Thermal energy stored deep underground in rocks, originating from radioactive decay within the Earth", "Energy produced by burning wood", "Electricity generated by ocean tides", "Heat captured from solar panels on roofs"],
+"correct": 0
+},
+{
+"q": "An electric heater transfers 20,000 J of thermal energy to a room in 40 seconds. What is its power output?",
+"a": ["50 W", "500 W", "800,000 W", "2,000 W"],
+"correct": 1
+},
+{
+"q": "What is the speed of a 2.0 kg ball that possesses 100 J of kinetic energy?",
+"a": ["5 m/s", "7.07 m/s", "10 m/s", "100 m/s"],
+"correct": 2
+},
+{
+"q": "Why are fossil fuels considered non-renewable?",
+"a": ["They can be easily replaced overnight in laboratories.", "They are infinite in supply.", "They produce zero carbon dioxide.", "They take millions of years to form and are being consumed much faster than they can be replaced."],
+"correct": 3
+},
+{
+"q": "What is the primary environmental disadvantage associated with burning fossil fuels like coal and oil?",
+"a": ["Release of carbon dioxide contributing to global warming and greenhouse gases", "Depletion of Earth's magnetic field", "Creation of radioactive waste", "Cooling down global ocean temperatures"],
+"correct": 0
+},
+{
+"q": "If an object is pushed up a frictionless inclined plane, what happens to its total mechanical energy (KE plus GPE)?",
+"a": ["Total mechanical energy decreases to zero.", "Total mechanical energy remains constant because no non-conservative frictional forces do work.", "Total mechanical energy increases infinitely.", "Total mechanical energy turns entirely into sound."],
+"correct": 1
+},
+{
+"q": "What is the height of a shelf if a 4 kg box placed on it stores 240 J of gravitational potential energy? (Use g = 10 N/kg)",
+"a": ["60 m", "2.4 m", "6.0 m", "9,600 m"],
+"correct": 2
+},
+{
+"q": "Which of the following energy transfers takes place inside a solar photovoltaic cell?",
+"a": ["Chemical energy to electrical energy", "Thermal energy to nuclear energy", "Kinetic energy to potential energy", "Light energy from the Sun directly into electrical energy"],
+"correct": 3
+},
+{
+"q": "What energy store is increased when a spring is compressed or stretched?",
+"a": ["Elastic potential energy store", "Gravitational potential energy store", "Chemical energy store", "Thermal energy store"],
+"correct": 0
+},
+{
+"q": "How does a pumped storage hydroelectric power station generate electricity during times of peak electrical demand?",
+"a": ["By pumping water uphill during the day", "By releasing water stored in an upper reservoir to flow downhill through turbines connected to electrical generators", "By burning coal inside the dam wall", "By capturing geothermal steam from underground"],
+"correct": 1
+},
+{
+"q": "What force does work against a car moving at constant speed along a flat highway?",
+"a": ["Engine forward force", "Gravitational force", "Frictional and air resistance forces", "Magnetic force"],
+"correct": 2
+},
+{
+"q": "If a machine has an efficiency of 0.60 (or 60 percent), what does this mean?",
+"a": ["60 percent of the input energy is wasted as thermal energy.", "The machine breaks down after 60 seconds of operation.", "The machine creates 40 percent more energy than it consumes.", "60 percent of the total input energy is converted into useful output energy, while 40 percent is wasted."],
+"correct": 3
+}
+]
+}

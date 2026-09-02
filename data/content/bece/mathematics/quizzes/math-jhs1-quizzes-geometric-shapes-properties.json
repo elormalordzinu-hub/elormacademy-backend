@@ -1,0 +1,206 @@
+{
+  "id": "math-jhs1-quizzes-geometric-shapes-properties",
+  "name": "Geometric Shapes Properties",
+  "questions": [
+    {
+      "q": "What name is given to an angle that measures exactly 90 degrees?",
+      "a": ["Right angle", "Acute angle", "Obtuse angle", "Reflex angle"],
+      "correct": 0
+    },
+    {
+      "q": "How many sides does a regular hexagon have?",
+      "a": ["5", "6", "7", "8"],
+      "correct": 1
+    },
+    {
+      "q": "What is the sum of interior angles in a triangle?",
+      "a": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+      "correct": 2
+    },
+    {
+      "q": "Which quadrilateral has all four sides equal and all four angles as right angles?",
+      "a": ["Parallelogram", "Rhombus", "Trapezium", "Square"],
+      "correct": 3
+    },
+    {
+      "q": "What do you call an angle that is greater than 90 degrees but less than 180 degrees?",
+      "a": ["Obtuse angle", "Acute angle", "Reflex angle", "Straight angle"],
+      "correct": 0
+    },
+    {
+      "q": "If two angles sum up to 180 degrees, what are they called?",
+      "a": ["Complementary angles", "Supplementary angles", "Adjacent angles", "Vertically opposite angles"],
+      "correct": 1
+    },
+    {
+      "q": "What is the name of a polygon with 8 sides?",
+      "a": ["Pentagon", "Hexagon", "Octagon", "Heptagon"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following geometric solids has 6 equal square faces?",
+      "a": ["Cuboid", "Cylinder", "Sphere", "Cube"],
+      "correct": 3
+    },
+    {
+      "q": "What is the measure of each interior angle of a regular pentagon?",
+      "a": ["108 degrees", "120 degrees", "135 degrees", "140 degrees"],
+      "correct": 0
+    },
+    {
+      "q": "Lines that never meet and always remain the same distance apart are called:",
+      "a": ["Perpendicular lines", "Parallel lines", "Intersecting lines", "Transversal lines"],
+      "correct": 1
+    },
+    {
+      "q": "What do you call a triangle with all three sides of different lengths?",
+      "a": ["Equilateral triangle", "Isosceles triangle", "Scalene triangle", "Right-angled triangle"],
+      "correct": 2
+    },
+    {
+      "q": "In a circle, what is the straight line segment that passes through the centre and touches two points on the circumference?",
+      "a": ["Radius", "Chord", "Tangent", "Diameter"],
+      "correct": 3
+    },
+    {
+      "q": "What is the sum of angles around a single point?",
+      "a": ["360 degrees", "180 degrees", "540 degrees", "720 degrees"],
+      "correct": 0
+    },
+    {
+      "q": "Which shape has only one pair of parallel sides?",
+      "a": ["Parallelogram", "Trapezium", "Rhombus", "Rectangle"],
+      "correct": 1
+    },
+    {
+      "q": "What is the interior angle sum of a polygon with 5 sides (pentagon)?",
+      "a": ["360 degrees", "720 degrees", "540 degrees", "1080 degrees"],
+      "correct": 2
+    },
+    {
+      "q": "An angle measures 210 degrees. What type of angle is it?",
+      "a": ["Obtuse angle", "Straight angle", "Acute angle", "Reflex angle"],
+      "correct": 3
+    },
+    {
+      "q": "If two straight lines intersect, what is the relationship between the vertically opposite angles?",
+      "a": ["They are equal", "They are supplementary", "They sum to 90 degrees", "They are unequal"],
+      "correct": 0
+    },
+    {
+      "q": "What is the name of a triangle that has two equal sides and two equal base angles?",
+      "a": ["Scalene triangle", "Isosceles triangle", "Equilateral triangle", "Right-angled triangle"],
+      "correct": 1
+    },
+    {
+      "q": "The line segment connecting any two points on a circle's circumference without necessarily passing through the centre is called a:",
+      "a": ["Diameter", "Radius", "Chord", "Tangent"],
+      "correct": 2
+    },
+    {
+      "q": "How many vertices does a triangular prism have?",
+      "a": ["5", "8", "9", "6"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of a polygon with 10 sides?",
+      "a": ["Decagon", "Nonagon", "Heptagon", "Dodecagon"],
+      "correct": 0
+    },
+    {
+      "q": "If angle A and angle B are complementary and angle A is 35 degrees, what is angle B?",
+      "a": ["145 degrees", "55 degrees", "65 degrees", "45 degrees"],
+      "correct": 1
+    },
+    {
+      "q": "What is the total number of faces on a square-based pyramid?",
+      "a": ["4", "6", "5", "8"],
+      "correct": 2
+    },
+    {
+      "q": "Which geometric transformation turns a shape around a fixed centre point?",
+      "a": ["Translation", "Reflection", "Enlargement", "Rotation"],
+      "correct": 3
+    },
+    {
+      "q": "What is the exterior angle of a regular polygon with 6 sides?",
+      "a": ["60 degrees", "90 degrees", "45 degrees", "120 degrees"],
+      "correct": 0
+    },
+    {
+      "q": "A line that intersects two or more parallel lines at distinct points is called a:",
+      "a": ["Tangent", "Transversal", "Chord", "Radius"],
+      "correct": 1
+    },
+    {
+      "q": "What is the size of each exterior angle of a regular decagon (10-sided polygon)?",
+      "a": ["45 degrees", "40 degrees", "36 degrees", "30 degrees"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following quadrilaterals has diagonals that bisect each other at right angles?",
+      "a": ["Rectangle", "Parallelogram", "Trapezium", "Rhombus"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of a triangle whose angles all measure less than 90 degrees?",
+      "a": ["Acute-angled triangle", "Obtuse-angled triangle", "Right-angled triangle", "Scalene triangle"],
+      "correct": 0
+    },
+    {
+      "q": "What is the sum of interior angles of a quadrilateral?",
+      "a": ["180 degrees", "360 degrees", "540 degrees", "720 degrees"],
+      "correct": 1
+    },
+    {
+      "q": "What do you call the distance around the outer boundary of a circle?",
+      "a": ["Diameter", "Area", "Circumference", "Radius"],
+      "correct": 2
+    },
+    {
+      "q": "How many edges does a cube have?",
+      "a": ["8", "6", "16", "12"],
+      "correct": 3
+    },
+    {
+      "q": "If the exterior angle of a regular polygon is 45 degrees, how many sides does the polygon have?",
+      "a": ["8 sides", "10 sides", "12 sides", "6 sides"],
+      "correct": 0
+    },
+    {
+      "q": "What is the name of a seven-sided polygon?",
+      "a": ["Hexagon", "Heptagon", "Octagon", "Nonagon"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes a quadrilateral with opposite sides parallel and equal, but no right angles?",
+      "a": ["Rectangle", "Square", "Parallelogram", "Trapezium"],
+      "correct": 2
+    },
+    {
+      "q": "What is the angle subtended by a diameter at the circumference of a circle?",
+      "a": ["45 degrees", "60 degrees", "90 degrees", "180 degrees"],
+      "correct": 3
+    },
+    {
+      "q": "What is the number of lines of symmetry in a regular pentagon?",
+      "a": ["5", "3", "4", "6"],
+      "correct": 0
+    },
+    {
+      "q": "Which 3D shape has circular bases and a curved surface meeting at a single vertex (apex)?",
+      "a": ["Cylinder", "Cone", "Sphere", "Pyramid"],
+      "correct": 1
+    },
+    {
+      "q": "What is the area of a sector of a circle with a radius of 7 cm and an angle of 90 degrees? (Use pi = 22/7)",
+      "a": ["38.5 cm²", "77 cm²", "154 cm²", "19.25 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following pairs of angles are equal when two parallel lines are cut by a transversal?",
+      "a": ["Interior angles on the same side", "Angles on a straight line", "Supplementary angles", "Corresponding angles"],
+      "correct": 3
+    }
+  ]
+}

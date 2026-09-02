@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-rates",
+  "name": "Reaction rates and particle collisions",
+  "questions": [
+    {
+      "q": "What must reactant particles do successfully for a chemical reaction to occur between them?",
+      "a": ["Collide with each other with sufficient energy", "Remain completely stationary", "Lose all of their kinetic energy", "Avoid contact with each other"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the speed at which reactants are used up or products are formed during a chemical reaction?",
+      "a": ["Chemical equilibrium", "Rate of reaction", "Atomic weight", "Solubility index"],
+      "correct": 1
+    },
+    {
+      "q": "How does increasing the temperature of a reaction mixture generally affect the rate of a chemical reaction?",
+      "a": ["It slows the reaction down completely", "It has no effect on the speed", "It speeds up the reaction because particles move faster and collide more frequently with more energy", "It stops all particle movement"],
+      "correct": 2
+    },
+    {
+      "q": "Why does increasing the concentration of a reactant in solution increase the rate of reaction?",
+      "a": ["It lowers the temperature", "It removes water from the beaker", "It makes individual atoms heavier", "It increases the number of reactant particles in a given volume, leading to more frequent collisions"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the rate of a reaction when a solid reactant is broken down into smaller pieces or a fine powder?",
+      "a": ["The rate increases because surface area is larger, allowing more collisions", "The rate decreases because particles get lost", "The reaction stops completely", "The surface area decreases"],
+      "correct": 0
+    },
+    {
+      "q": "What is a catalyst in a chemical reaction?",
+      "a": ["A substance that is used up permanently", "A substance that speeds up a chemical reaction without being consumed itself", "A substance that slows down every reaction", "An inert liquid solvent"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following describes how a catalyst works to speed up a chemical reaction?",
+      "a": ["By cooling the mixture down", "By increasing the volume of the container", "By providing an alternative reaction pathway with a lower activation energy", "By adding extra mass to the reactants"],
+      "correct": 2
+    },
+    {
+      "q": "If you increase the pressure of reacting gases, what happens to the rate of the reaction and why?",
+      "a": ["The rate decreases because particles spread out", "The rate stays the same because gas pressure does not affect particles", "The rate drops to zero", "The rate increases because gas particles are pushed closer together, resulting in more frequent collisions"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following factors does *not* directly affect the rate of a chemical reaction?",
+      "a": ["The color of the laboratory walls", "Temperature of the reactants", "Surface area of solid reactants", "Presence of a catalyst"],
+      "correct": 0
+    },
+    {
+      "q": "When marble chips (calcium carbonate) react with hydrochloric acid, which gas is produced, causing bubbles to form?",
+      "a": ["Oxygen gas", "Carbon dioxide gas", "Hydrogen gas", "Nitrogen gas"],
+      "correct": 1
+    },
+    {
+      "q": "In an experiment measuring the rate of reaction by collecting gas, which piece of glassware is most commonly used to measure the volume of gas produced over time?",
+      "a": ["A glass stirring rod", "A Bunsen burner", "A gas syringe or measuring cylinder", "An evaporating basin"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a glowing splint pop or relight faster in pure oxygen compared to ordinary air?",
+      "a": ["Oxygen is colder than air", "There is less pressure in pure oxygen", "The splint is wet", "The concentration of oxygen particles is higher, increasing the collision frequency"],
+      "correct": 3
+    },
+    {
+      "q": "What term is given to the minimum amount of energy that colliding particles must have for a reaction to start?",
+      "a": ["Activation energy", "Kinetic balance", "Thermal capacity", "Potential mass"],
+      "correct": 0
+    },
+    {
+      "q": "If a reaction takes 2 minutes to produce 50 cm³ of carbon dioxide gas, how could you express its average rate?",
+      "a": ["50 grams per liter", "25 cm³ of gas produced per minute", "100 seconds per degree", "2 cm³ per hour"],
+      "correct": 1
+    },
+    {
+      "q": "Why does milk turn sour more slowly when stored inside a refrigerator compared to leaving it on a warm kitchen counter?",
+      "a": ["The refrigerator adds a catalyst", "Darkness stops chemical changes", "Lower temperatures reduce particle kinetic energy and collision frequency, slowing down the spoiling reactions", "Refrigerators increase surface area"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following reactions would you expect to proceed the fastest at room temperature?",
+      "a": ["The rusting of an iron bridge over several years", "The weathering of rock over centuries", "The formation of fossil fuels", "An explosion of fireworks"],
+      "correct": 3
+    },
+    {
+      "q": "How does particle theory explain why crushed chalk reacts much faster with acid than a single large lump of chalk?",
+      "a": ["Crushing exposes more surface area, exposing more particles to collisions with acid molecules", "Crushing removes all impurities", "Crushing heats up the acid", "Crushing turns chalk into a gas"],
+      "correct": 0
+    },
+    {
+      "q": "Biological catalysts found in living organisms that speed up vital chemical reactions are called what?",
+      "a": ["Inhibitors", "Enzymes", "Isotopes", "Solvents"],
+      "correct": 1
+    },
+    {
+      "q": "When investigating the effect of temperature on reaction rate, what variable must be kept constant to ensure a fair test?",
+      "a": ["The temperature of each test", "The color of the beakers", "The concentration and volume of the acid used", "The final time of day"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the mass of a reaction flask if a gas is allowed to escape freely into the air during the reaction?",
+      "a": ["The mass increases", "The mass stays completely constant", "The mass becomes zero instantly", "The total mass decreases as the gas escapes"],
+      "correct": 3
+    },
+    {
+      "q": "Why do wood shavings catch fire and burn much faster than a heavy solid log of wood?",
+      "a": ["Shavings have a greater surface area exposed to oxygen", "Shavings are made of a different chemical element", "Logs contain too much water", "Logs have higher activation energy"],
+      "correct": 0
+    },
+    {
+      "q": "What is meant by a 'successful collision' between reactant particles?",
+      "a": ["Any collision that causes particles to bounce off", "A collision that has sufficient energy and correct orientation to result in a chemical reaction", "A collision that produces heat without changing chemicals", "A collision between solvent molecules only"],
+      "correct": 1
+    },
+    {
+      "q": "During a chemical reaction over time, what happens to the rate of the reaction as the reactants get used up?",
+      "a": ["It speeds up continuously", "It stays constant until the end", "It slows down and eventually stops", "It fluctuates randomly"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these devices can be placed under a reaction flask on a balance to automatically record mass loss as gas escapes over time?",
+      "a": ["A thermometer", "A stopwatch", "A ruler", "A data logger connected to an electronic balance"],
+      "correct": 3
+    },
+    {
+      "q": "Why does adding a catalyst not get used up or consumed permanently during a chemical reaction?",
+      "a": ["It provides a pathway but is regenerated unchanged at the end of the reaction", "It floats above the mixture", "It turns into light energy", "It does not interact with particles at all"],
+      "correct": 0
+    },
+    {
+      "q": "How does lowering the temperature affect the rate at which food spoils or bacteria multiply?",
+      "a": ["It speeds it up", "It slows it down significantly", "It has zero impact", "It reverses time"],
+      "correct": 1
+    },
+    {
+      "q": "If you dilute an acid solution with a large amount of water, what happens to the rate of its reaction with magnesium ribbon?",
+      "a": ["The reaction becomes explosive", "The reaction rate increases", "The reaction rate decreases because there are fewer acid particles per unit volume", "The reaction rate remains identical"],
+      "correct": 2
+    },
+    {
+      "q": "What is collision theory used to explain in chemistry?",
+      "a": ["How planets orbit stars", "How light travels through space", "How earthquakes happen", "How chemical reactions occur and why different factors affect reaction rates"],
+      "correct": 3
+    },
+    {
+      "q": "In a graph showing the volume of gas produced against time, what does a steeper initial slope indicate?",
+      "a": ["A faster initial rate of reaction", "A slower reaction", "That the reaction has finished", "That no gas was produced"],
+      "correct": 0
+    },
+    {
+      "q": "Why are grain elevators or flour mills dangerous places where dust explosions can occur?",
+      "a": ["Dust is radioactive", "Fine flour dust has a huge surface area and can burn with explosive speed when mixed with air and a spark", "Flour absorbs all oxygen", "Grain is a strong acid"],
+      "correct": 1
+    },
+    {
+      "q": "What happens when manganese(IV) oxide is added to hydrogen peroxide solution during a school demonstration?",
+      "a": ["It freezes the liquid", "It stops the reaction", "It acts as a catalyst to speed up the breakdown of hydrogen peroxide into water and oxygen", "It turns the liquid solid"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following conditions would yield the fastest reaction between zinc and hydrochloric acid?",
+      "a": ["Large zinc lumps at 10°C", "Zinc powder in dilute acid at 15°C", "Zinc lump in cold acid", "Zinc powder in concentrated hydrochloric acid at 50°C"],
+      "correct": 3
+    },
+    {
+      "q": "If a reaction graph flattens out into a horizontal line at 60 cm³ after 4 minutes, what does the horizontal section signify?",
+      "a": ["The reaction has stopped because at least one reactant is completely used up", "The reaction is speeding up", "Gas is being created faster than ever", "The temperature is rising"],
+      "correct": 0
+    },
+    {
+      "q": "Why does a car engine run efficiently only when fuel is atomized (sprayed into a fine mist) before ignition?",
+      "a": ["To make the fuel heavier", "To increase surface area for rapid and complete combustion", "To cool down the cylinders", "To prevent any reaction from happening"],
+      "correct": 1
+    },
+    {
+      "q": "According to collision theory, why do particles react faster when heated?",
+      "a": ["They become heavier", "They change into different elements", "They gain kinetic energy, move faster, collide more frequently, and more particles exceed the activation energy", "They lose all their electrons"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary role of catalysts in industrial chemical processes like making ammonia or margarine?",
+      "a": ["To increase the cost of production", "To make reactions take longer", "To make equipment heavier", "To save energy and time by allowing reactions to occur faster at lower temperatures and pressures"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following changes would decrease the rate of reaction between magnesium ribbon and dilute sulfuric acid?",
+      "a": ["Diluting the acid with extra water", "Warming the acid", "Using magnesium powder instead of a ribbon", "Adding a catalyst"],
+      "correct": 0
+    },
+    {
+      "q": "In a closed container, what happens to the frequency of collisions between gas particles if the volume of the container is reduced?",
+      "a": ["Collisions decrease", "Collisions become much more frequent", "Collisions stop entirely", "Collisions remain unchanged"],
+      "correct": 1
+    },
+    {
+      "q": "What is a major visual sign that a chemical reaction rate can be measured by observing a precipitate form?",
+      "a": ["A gas syringe fills up", "The temperature drops to zero", "A clear solution turns cloudy or opaque over time", "The solid floats on water"],
+      "correct": 2
+    },
+    {
+      "q": "Why do food packages often include small packets labeled 'Do Not Eat' containing iron powder and silica gel?",
+      "a": ["To add flavor to the food", "To poison bacteria", "To keep the food warm", "To absorb moisture and oxygen, slowing down oxidation and spoiling reactions"],
+      "correct": 3
+    }
+  ]
+}

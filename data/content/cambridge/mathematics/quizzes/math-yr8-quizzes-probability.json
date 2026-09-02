@@ -1,0 +1,206 @@
+{
+  "id": "math-yr8-quizzes-probability",
+  "name": "Theoretical and experimental probability",
+  "questions": [
+    {
+      "q": "What is the theoretical probability of rolling an even number on a fair standard 6-sided die?",
+      "a": ["1 / 2", "1 / 3", "1 / 6", "2 / 3"],
+      "correct": 0
+    },
+    {
+      "q": "If the probability of an event happening is 0.75, what is the probability of it NOT happening?",
+      "a": ["0.75", "0.25", "1.00", "0"],
+      "correct": 1
+    },
+    {
+      "q": "A bag contains 3 red marbles, 2 blue marbles, and 5 green marbles. What is the probability of randomly drawing a blue marble?",
+      "a": ["3 / 10", "1 / 2", "1 / 5", "1 / 2"],
+      "correct": 2
+    },
+    {
+      "q": "What is the experimental probability (relative frequency) of landing on heads if a coin is tossed 50 times and lands on heads 28 times?",
+      "a": ["1 / 2", "22 / 50", "28 / 50", "14 / 25"],
+      "correct": 3
+    },
+    {
+      "q": "What is the theoretical probability of drawing a red face card (King, Queen, or Jack) from a standard deck of 52 playing cards?",
+      "a": ["3 / 26", "6 / 52", "1 / 13", "3 / 13"],
+      "correct": 0
+    },
+    {
+      "q": "If two fair 6-sided dice are rolled, what is the total number of equally likely outcomes in the sample space?",
+      "a": ["12", "36", "6", "24"],
+      "correct": 1
+    },
+    {
+      "q": "A spinner has 8 equal sections numbered 1 through 8. What is the probability of spinning a prime number?",
+      "a": ["1 / 2", "3 / 8", "4 / 8", "5 / 8"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes two events that cannot happen at the same time?",
+      "a": ["Independent events", "Dependent events", "Equally likely events", "Mutually exclusive events"],
+      "correct": 3
+    },
+    {
+      "q": "What is the probability of an impossible event?",
+      "a": ["0", "1", "0.5", "100%"],
+      "correct": 0
+    },
+    {
+      "q": "A biased coin is tossed 200 times and lands on tails 120 times. What is the relative frequency of getting tails?",
+      "a": ["2 / 5", "3 / 5", "1 / 2", "4 / 5"],
+      "correct": 1
+    },
+    {
+      "q": "Two fair coins are flipped simultaneously. What is the theoretical probability of getting at least one head?",
+      "a": ["1 / 4", "1 / 2", "3 / 4", "1"],
+      "correct": 2
+    },
+    {
+      "q": "What is the probability of selecting a vowel at random from the letters of the word MATHEMATICS?",
+      "a": ["2 / 11", "3 / 11", "5 / 11", "4 / 11"],
+      "correct": 3
+    },
+    {
+      "q": "If event A and event B are independent, how do you calculate the probability that both A and B occur?",
+      "a": ["Multiply P(A) by P(B)", "Add P(A) and P(B)", "Subtract P(B) from P(A)", "Divide P(A) by P(B)"],
+      "correct": 0
+    },
+    {
+      "q": "A card is drawn from a standard deck of 52 cards, replaced, and a second card is drawn. What is the probability of drawing two aces?",
+      "a": ["1 / 221", "1 / 169", "4 / 52", "1 / 26"],
+      "correct": 1
+    },
+    {
+      "q": "Why does experimental probability often differ from theoretical probability when a trial is repeated only a few times?",
+      "a": ["Theoretical probability is always wrong", "The experiment was illegal", "Due to random variation and small sample size", "Experimental probability never changes"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the experimental probability as the number of trials in an experiment increases significantly (Law of Large Numbers)?",
+      "a": ["It drops to zero", "It fluctuates wildly without pattern", "It becomes equal to 1", "It gets closer and closer to the theoretical probability"],
+      "correct": 3
+    },
+    {
+      "q": "What is the probability of rolling a sum of 7 when two fair 6-sided dice are rolled?",
+      "a": ["1 / 6", "1 / 9", "5 / 36", "1 / 12"],
+      "correct": 0
+    },
+    {
+      "q": "A box contains 4 red pens, 3 blue pens, and 5 black pens. Two pens are drawn without replacement. What is the probability that both are black?",
+      "a": ["5 / 36", "5 / 33", "25 / 144", "1 / 6"],
+      "correct": 1
+    },
+    {
+      "q": "What is the sum of the probabilities of all possible mutually exclusive outcomes of an event?",
+      "a": ["0", "0.5", "1", "100"],
+      "correct": 2
+    },
+    {
+      "q": "If the probability of a train being on time is 0.85, what is the percentage chance that it is delayed?",
+      "a": ["85%", "0.15%", "15%", "8.5%"],
+      "correct": 3
+    },
+    {
+      "q": "A letter is chosen at random from the word PROBABILITY. What is the probability that it is the letter B?",
+      "a": ["2 / 11", "1 / 11", "3 / 11", "2 / 9"],
+      "correct": 0
+    },
+    {
+      "q": "If you roll a 6-sided die 300 times, approximately how many times would you expect to roll a number greater than 4?",
+      "a": ["50", "100", "150", "75"],
+      "correct": 1
+    },
+    {
+      "q": "What is the probability of drawing a diamond or a King from a standard deck of 52 cards?",
+      "a": ["17 / 52", "4 / 13", "4 / 13", "1 / 4"],
+      "correct": 2
+    },
+    {
+      "q": "A bag contains 5 green and 3 yellow counters. A counter is drawn and not replaced, then a second counter is drawn. What is the probability of getting green then yellow?",
+      "a": ["15 / 64", "15 / 56", "3 / 14", "15 / 56"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following describes two events where the outcome of the first event affects the probability of the second event?",
+      "a": ["Dependent events", "Independent events", "Mutually exclusive events", "Complementary events"],
+      "correct": 0
+    },
+    {
+      "q": "If P(A) = 0.4 and P(B) = 0.5, and A and B are mutually exclusive, what is P(A or B)?",
+      "a": ["0.20", "0.90", "0.10", "1.00"],
+      "correct": 1
+    },
+    {
+      "q": "What is the probability of getting heads on a fair coin and a 6 on a fair die simultaneously?",
+      "a": ["1 / 2", "1 / 6", "1 / 12", "1 / 36"],
+      "correct": 2
+    },
+    {
+      "q": "A dartboard has 20 sectors of equal size. What is the probability of hitting an even number sector on a single throw?",
+      "a": ["1 / 4", "3 / 10", "2 / 5", "1 / 2"],
+      "correct": 3
+    },
+    {
+      "q": "If a weather forecast states there is a 35% chance of rain, what is the probability (as a decimal) that it will NOT rain?",
+      "a": ["0.65", "0.35", "0.75", "0.25"],
+      "correct": 0
+    },
+    {
+      "q": "A box has 10 chocolates: 4 are dark, 6 are milk. Two chocolates are chosen at random without replacement. What is the probability that both are milk?",
+      "a": ["9 / 25", "1 / 3", "1 / 2", "3 / 10"],
+      "correct": 1
+    },
+    {
+      "q": "What is the probability of drawing a card from a standard deck that is both a club and a face card?",
+      "a": ["1 / 13", "3 / 52", "3 / 13", "1 / 4"],
+      "correct": 2
+    },
+    {
+      "q": "In a game, the probability of winning is 0.2 and the probability of drawing is 0.3. What is the probability of losing?",
+      "a": ["0.1", "0.8", "0.7", "0.5"],
+      "correct": 3
+    },
+    {
+      "q": "What is the probability of getting all tails when 3 fair coins are tossed?",
+      "a": ["1 / 8", "1 / 6", "3 / 8", "1 / 4"],
+      "correct": 0
+    },
+    {
+      "q": "A bag contains red, blue, and green counters in the ratio 2 : 3 : 5. If one counter is drawn at random, what is the probability that it is NOT blue?",
+      "a": ["3 / 10", "7 / 10", "1 / 2", "3 / 5"],
+      "correct": 1
+    },
+    {
+      "q": "If you throw a 6-sided die twice, what is the probability of getting two 6s?",
+      "a": ["1 / 6", "1 / 12", "1 / 36", "1 / 18"],
+      "correct": 2
+    },
+    {
+      "q": "Which value can NEVER be a valid probability of an event?",
+      "a": ["0", "0.5", "1", "1.25"],
+      "correct": 3
+    },
+    {
+      "q": "A spinner is divided into 4 colored sections: Red (probability 0.4), Blue (probability 0.3), Green (probability 0.2), and Yellow. What is the probability of spinning Yellow?",
+      "a": ["0.1", "0.9", "0.5", "0.2"],
+      "correct": 0
+    },
+    {
+      "q": "What is the probability of selecting a multiple of 3 from the integers 1 through 20 inclusive?",
+      "a": ["3 / 20", "3 / 10", "1 / 5", "7 / 20"],
+      "correct": 1
+    },
+    {
+      "q": "If the odds in favor of an event happening are 3 to 2, what is the theoretical probability of the event happening?",
+      "a": ["2 / 3", "3 / 2", "3 / 5", "2 / 5"],
+      "correct": 2
+    },
+    {
+      "q": "A bag contains 4 white balls and 6 black balls. Two balls are drawn successively with replacement. What is the probability that both are white?",
+      "a": ["2 / 15", "4 / 25", "8 / 45", "4 / 25"],
+      "correct": 3
+    }
+  ]
+}

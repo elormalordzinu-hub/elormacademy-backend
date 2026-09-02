@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-fields",
+"name": "Electric fields and capacitors",
+"questions": [
+{
+"q": "What is Coulomb's law for the magnitude of the electrostatic force F between two point charges q1 and q2 separated by distance r in a vacuum?",
+"a": ["F = (1 / (4 pi epsilon_0)) * (q1 q2 / r²)", "F = (1 / (4 pi epsilon_0)) * (q1 q2 / r)", "F = epsilon_0 * q1 q2 / r²", "F = q1 q2 / (4 pi epsilon_0 r³)"],
+"correct": 0
+},
+{
+"q": "How is electric field strength E defined at a point in an electric field?",
+"a": ["The total electric potential energy stored at that point", "The electrostatic force experienced per unit positive charge placed at that point", "The rate of change of electric flux with distance", "The product of charge and electric potential"],
+"correct": 1
+},
+{
+"q": "What is the electric potential V at a distance r from a point charge Q in a vacuum, taking infinity as zero reference?",
+"a": ["V = Q / (4 pi epsilon_0 r²)", "V = -Q / (4 pi epsilon_0 r)", "V = Q / (4 pi epsilon_0 r)", "V = Q² / (4 pi epsilon_0 r)"],
+"correct": 2
+},
+{
+"q": "What is the capacitance C of a parallel-plate capacitor with plate area A and separation d separated by a vacuum (or air)?",
+"a": ["C = epsilon_0 d / A", "C = epsilon_0 A d", "C = A / (epsilon_0 d)", "C = epsilon_0 A / d"],
+"correct": 3
+},
+{
+"q": "What is the energy stored E in a capacitor of capacitance C charged to a potential difference V?",
+"a": ["E = 0.5 C V²", "E = C V", "E = 0.5 Q² / C²", "E = C² V / 2"],
+"correct": 0
+},
+{
+"q": "What does the gradient of an electric potential versus distance (V-r) graph represent in a radial electric field?",
+"a": ["Electric potential energy", "Electric field strength E", "Charge Q", "Permittivity of free space epsilon_0"],
+"correct": 1
+},
+{
+"q": "How do capacitors combine when connected in series with total capacitance C_total?",
+"a": ["C_total = C1 + C2 + C3", "C_total = (C1 * C2) / (C1 - C2)", "1 / C_total = 1 / C1 + 1 / C2 + 1 / C3", "C_total = C1 * C2 * C3"],
+"correct": 2
+},
+{
+"q": "What is the uniform electric field strength E between two parallel conducting plates connected across a potential difference V separated by distance d?",
+"a": ["E = V d", "E = d / V", "E = V² / d", "E = V / d"],
+"correct": 3
+},
+{
+"q": "What is the time constant tau of a circuit containing a resistor of resistance R and a capacitor of capacitance C connected in series?",
+"a": ["tau = R C", "tau = R / C", "tau = C / R", "tau = 1 / (R C)"],
+"correct": 0
+},
+{
+"q": "What is the relative permittivity (dielectric constant) epsilon_r of a dielectric material defined as?",
+"a": ["The ratio of capacitor volume with dielectric to without", "The ratio of capacitance with the dielectric medium between plates to the capacitance with a vacuum between plates", "The ratio of electric field strength before and after insertion", "The breakdown voltage of the dielectric"],
+"correct": 1
+},
+{
+"q": "What are the SI base units of the permittivity of free space epsilon_0?",
+"a": ["kg m s⁻² A⁻¹", "N m² C⁻²", "A² s⁴ kg⁻¹ m⁻³ (or F m⁻¹)", "C² N⁻¹ m⁻²"],
+"correct": 2
+},
+{
+"q": "What happens to the potential difference across a charged and isolated parallel-plate capacitor if its plates are pulled further apart?",
+"a": ["It decreases", "It drops to zero", "It remains constant", "It increases"],
+"correct": 3
+},
+{
+"q": "What is the electric potential energy E_p of two point charges q1 and q2 separated by distance r in a vacuum?",
+"a": ["E_p = (1 / (4 pi epsilon_0)) * (q1 q2 / r)", "E_p = (1 / (4 pi epsilon_0)) * (q1 q2 / r²)", "E_p = q1 q2 / (4 pi epsilon_0 r³)", "E_p = zero"],
+"correct": 0
+},
+{
+"q": "How do capacitors combine when connected in parallel?",
+"a": ["C_total = (1 / C1) + (1 / C2)", "C_total = C1 + C2 + C3", "C_total = C1 * C2 / (C1 + C2)", "C_total = C1 - C2"],
+"correct": 1
+},
+{
+"q": "During the discharging of a capacitor through a resistor, what equation describes the charge q on the capacitor at time t (with initial charge Q_0 and time constant tau)?",
+"a": ["q = Q_0 (1 - e^(-t / tau))", "q = Q_0 e^(t / tau)", "q = Q_0 e^(-t / tau)", "q = Q_0 / (t tau)"],
+"correct": 2
+},
+{
+"q": "Which of the following statements correctly compares electric and gravitational fields?",
+"a": ["Gravitational forces are always repulsive, whereas electric forces are always attractive", "Electric fields act only on neutral masses, whereas gravitational fields act on charges", "Both electric and gravitational forces obey an inverse-cube law with distance", "Electric forces can be attractive or repulsive and are generally much stronger than gravitational forces on subatomic scales"],
+"correct": 3
+},
+{
+"q": "What is the electric field strength at a distance r from a point charge Q in a vacuum?",
+"a": ["E = Q / (4 pi epsilon_0 r²)", "E = Q / (4 pi epsilon_0 r)", "E = Q² / (4 pi epsilon_0 r²)", "E = 4 pi epsilon_0 Q / r²"],
+"correct": 0
+},
+{
+"q": "What does the area under a charge versus potential difference (Q-V) graph for a capacitor represent?",
+"a": ["Capacitance C", "Energy stored in the capacitor", "Resistance R", "Time constant tau"],
+"correct": 1
+},
+{
+"q": "A 10 microfarad capacitor is charged to 100 V. What is the energy stored in the capacitor?",
+"a": ["0.05 J", "0.10 J", "0.05 J (Wait: 0.5 * C * V² = 0.5 * 10e-6 * 10000 = 0.5 * 0.1 = 0.05 J)", "0.50 J"],
+"correct": 2
+},
+{
+"q": "What is electric potential defined as at a point in an electric field?",
+"a": ["The force acting on a unit positive charge", "The electric field strength multiplied by distance", "The total charge divided by permittivity", "The work done per unit positive charge in bringing a small test charge from infinity to that point"],
+"correct": 3
+},
+{
+"q": "What is the capacitance of a parallel-plate capacitor if its plate area is doubled and plate separation is halved?",
+"a": ["Capacitance increases by a factor of 4", "Capacitance remains unchanged", "Capacitance is halved", "Capacitance is doubled"],
+"correct": 0
+},
+{
+"q": "What happens to the charge on a parallel-plate capacitor connected across a constant voltage supply when a dielectric material is inserted between the plates?",
+"a": ["Charge decreases", "Charge increases by a factor equal to the relative permittivity epsilon_r", "Charge drops to zero", "Charge remains unchanged"],
+"correct": 1
+},
+{
+"q": "What is the time required for the charge on a discharging capacitor to decrease to approximately 37 percent (1/e) of its initial value?",
+"a": ["Two time constants (2 tau)", "Half a time constant (0.5 tau)", "One time constant (1 tau)", "Infinite time"],
+"correct": 2
+},
+{
+"q": "Which of the following describes electric field lines around a negative point charge?",
+"a": ["Parallel straight lines pointing outwards", "Concentric circles centered on the charge", "Radially outward lines", "Radially inward lines directed towards the point charge"],
+"correct": 3
+},
+{
+"q": "What is the force experienced by an electron of charge 1.60 x 10⁻¹⁹ C placed in a uniform electric field of strength 2.0 x 10⁴ N C⁻¹?",
+"a": ["3.20 x 10⁻¹⁵ N", "1.25 x 10²³ N", "8.00 x 10⁻²⁴ N", "1.60 x 10⁻¹⁹ N"],
+"correct": 0
+},
+{
+"q": "What does a horizontal line on an electric field strength versus distance graph inside a uniform field between two charged plates indicate?",
+"a": ["Field strength is zero", "Field strength is constant at all points between the plates", "Field strength increases inversely with distance", "Potential is constant"],
+"correct": 1
+},
+{
+"q": "Two capacitors of capacitance 3 microfarads and 6 microfarads are connected in series. What is their combined capacitance?",
+"a": ["9 microfarads", "4.5 microfarads", "2 microfarads", "18 microfarads"],
+"correct": 2
+},
+{
+"q": "Why does inserting a dielectric material between the plates of a capacitor increase its capacitance?",
+"a": ["Because free electrons flow through the dielectric", "Because the dielectric heats up the plates", "Because the dielectric reduces the physical size of the plates", "Because dipole polarization of the dielectric reduces the electric field between plates, lowering potential difference for the same charge"],
+"correct": 3
+},
+{
+"q": "What is the potential difference across a 470 microfarad capacitor when it stores 2.35 millicoulombs of charge?",
+"a": ["5.0 V", "10.0 V", "0.20 V", "1105 V"],
+"correct": 0
+},
+{
+"q": "What is the electric potential at a point where a charge of +2.0 microcoulombs possesses 4.0 millijoules of electric potential energy?",
+"a": ["2000 V", "2000 V (Wait: V = E_p / q = 4.0e-3 / 2.0e-6 = 2000 V)", "8000 V", "500 V", "0.5 V"],
+"correct": 1
+},
+{
+"q": "What is the half-life t_(1/2) of a discharging capacitor circuit in terms of its time constant tau?",
+"a": ["t_(1/2) = tau", "t_(1/2) = tau / ln(2)", "t_(1/2) = tau * ln(2) (approx 0.693 tau)", "t_(1/2) = 2 tau"],
+"correct": 2
+},
+{
+"q": "Which of the following represents the correct unit for electric flux?",
+"a": ["Coulomb (C)", "Volt per meter (V m⁻¹)", "Joule per coulomb (J C⁻¹)", "Newton meter squared per coulomb (N m² C⁻¹)"],
+"correct": 3
+},
+{
+"q": "What is the electrostatic force between two protons separated by 1.0 x 10⁻¹⁰ m in a vacuum? (e = 1.60 x 10⁻¹⁹ C, 1/(4 pi epsilon_0) = 8.99 x 10⁹ N m² C⁻²)",
+"a": ["2.30 x 10⁻⁸ N", "2.30 x 10⁻¹⁰ N", "9.00 x 10⁻⁹ N", "1.44 x 10⁻⁹ N"],
+"correct": 0
+},
+{
+"q": "What is the path followed by a free electron entering a uniform electric field perpendicularly?",
+"a": ["A straight line", "A parabolic trajectory", "A circular orbit", "A sinusoidal wave"],
+"correct": 1
+},
+{
+"q": "What is the total capacitance of three capacitors of 2 microfarads, 3 microfarads, and 5 microfarads connected in parallel?",
+"a": ["1.0 microfarad", "0.97 microfarads", "10 microfarads", "30 microfarads"],
+"correct": 2
+},
+{
+"q": "What is the primary function of a capacitor in an electronic alternating current (AC) filtering circuit?",
+"a": ["To permanently block all electrical signals", "To generate magnetic fields", "To convert AC to direct current permanently without diodes", "To smooth out ripples in voltage by storing energy when voltage rises and releasing it when voltage drops"],
+"correct": 3
+},
+{
+"q": "What is the electric field strength at the surface of a charged conducting sphere of radius R and total charge Q?",
+"a": ["E = Q / (4 pi epsilon_0 R²)", "E = Q / (4 pi epsilon_0 R)", "E = zero", "E = Q² / (4 pi epsilon_0 R²)"],
+"correct": 0
+},
+{
+"q": "How does the electric potential vary inside a charged hollow conducting metal sphere?",
+"a": ["It varies inversely with distance from the center", "It is constant and equal to the potential at the surface", "It drops to zero everywhere inside", "It increases linearly towards the center"],
+"correct": 1
+},
+{
+"q": "What is the work done in moving a charge of 3.0 microcoulombs between two points in an electric field with a potential difference of 12 V?",
+"a": ["4.0 microjoules", "36.0 joules", "36.0 microjoules", "0.25 microjoules"],
+"correct": 2
+},
+{
+"q": "What physical quantity does the time constant tau = R C represent dimensionally?",
+"a": ["Voltage", "Charge", "Frequency", "Time (seconds)"],
+"correct": 3
+}
+]
+}

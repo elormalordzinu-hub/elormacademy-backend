@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-probability-chance",
+"name": "Probability & Chance",
+"questions": [
+{
+"q": "What term is used in mathematics to describe the numerical measure of the likelihood that an event will occur?",
+"a": ["Probability", "Statistics", "Frequency", "Ratio"],
+"correct": 0
+},
+{
+"q": "What is the numerical value assigned to the probability of an event that is completely impossible?",
+"a": ["1", "0", "0.5", "-1"],
+"correct": 1
+},
+{
+"q": "If you toss a fair, unbiased coin once, what is the theoretical probability of getting a head?",
+"a": ["1/4", "1", "1/2", "0"],
+"correct": 2
+},
+{
+"q": "Which of the following numbers can never represent the probability of an event happening?",
+"a": ["0", "0.75", "1", "1.25"],
+"correct": 3
+},
+{
+"q": "A bag contains 3 red marbles, 2 blue marbles, and 5 green marbles. If one marble is drawn at random, what is the probability that it is red?",
+"a": ["3/10", "1/2", "1/5", "3/7"],
+"correct": 0
+},
+{
+"q": "What do the sum of the probabilities of all possible outcomes in a sample space always equal?",
+"a": ["0", "1", "100", "0.5"],
+"correct": 1
+},
+{
+"q": "A standard six-sided die is rolled once. What is the probability of rolling an even number?",
+"a": ["1/3", "1/6", "1/2", "2/3"],
+"correct": 2
+},
+{
+"q": "If the probability of a football team winning their next match is 0.65, what is the probability that they will not win?",
+"a": ["0.65", "1.00", "0.00", "0.35"],
+"correct": 3
+},
+{
+"q": "A letter is chosen at random from the word 'MATHEMATICS'. What is the probability that the chosen letter is 'M'?",
+"a": ["2/11", "3/11", "1/11", "4/11"],
+"correct": 0
+},
+{
+"q": "What is the term used for the set of all possible outcomes of a random experiment?",
+"a": ["Event", "Sample space", "Subset", "Trial"],
+"correct": 1
+},
+{
+"q": "A box contains cards numbered 1 to 20. If a card is drawn at random, what is the probability that the number is a multiple of 4?",
+"a": ["1/10", "1/4", "1/5", "3/20"],
+"correct": 2
+},
+{
+"q": "Which of the following describes an event with a probability of 1?",
+"a": ["Unlikely", "Impossible", "Evens", "Certain"],
+"correct": 3
+},
+{
+"q": "Two fair coins are tossed simultaneously. What is the probability of getting two heads?",
+"a": ["1/4", "1/2", "3/4", "1"],
+"correct": 0
+},
+{
+"q": "In a class of 40 students, 15 are girls. If a student is chosen at random to represent the class, what is the probability that the student is a boy?",
+"a": ["3/8", "5/8", "1/2", "3/5"],
+"correct": 1
+},
+{
+"q": "A spinner is divided into 8 equal sectors numbered 1 to 8. What is the probability that the pointer lands on a prime number?",
+"a": ["1/2", "1/4", "3/8", "5/8"],
+"correct": 2
+},
+{
+"q": "If an event has a probability of 0.05, how would you best describe its chance of occurring?",
+"a": ["Very likely", "Even chance", "Likely", "Very unlikely"],
+"correct": 3
+},
+{
+"q": "A card is drawn from a standard deck of 52 playing cards. What is the probability of drawing a red face card (Jack, Queen, or King)?",
+"a": ["3/26", "1/13", "1/26", "6/13"],
+"correct": 0
+},
+{
+"q": "A bag has 4 white balls and 6 black balls. Two balls are drawn successively without replacement. What is the probability that both balls are black?",
+"a": ["1/2", "1/3", "2/9", "3/10"],
+"correct": 1
+},
+{
+"q": "What is experimental (empirical) probability based on?",
+"a": ["Mathematical reasoning alone", "Assumptions", "Actual trials, experiments, or historical data", "Guesswork"],
+"correct": 2
+},
+{
+"q": "If a weather forecast states there is a 75% chance of rain tomorrow, what is the probability that it will not rain expressed as a fraction in simplest form?",
+"a": ["3/4", "1/2", "2/3", "1/4"],
+"correct": 3
+},
+{
+"q": "A die is rolled 60 times in an experiment, and the number 5 appears 12 times. What is the relative frequency (experimental probability) of rolling a 5?",
+"a": ["1/5", "1/6", "1/4", "1/3"],
+"correct": 0
+},
+{
+"q": "What is the probability of drawing a spade from a standard deck of 52 playing cards?",
+"a": ["1/2", "1/4", "1/13", "3/4"],
+"correct": 1
+},
+{
+"q": "A box contains 5 defective bulbs and 25 good bulbs. If one bulb is tested at random, what is the probability that it is defective?",
+"a": ["1/5", "1/3", "1/6", "5/6"],
+"correct": 2
+},
+{
+"q": "Which of the following pairs of events are mutually exclusive when rolling a single die?",
+"a": ["Rolling an even number and rolling a prime number", "Rolling a number greater than 4 and rolling an odd number", "Rolling a multiple of 3 and rolling an even number", "Rolling a number less than 3 and rolling an even number"],
+"correct": 3
+},
+{
+"q": "What is the probability of selecting a weekend day (Saturday or Sunday) at random from the days of the week?",
+"a": ["2/7", "1/7", "5/7", "1/2"],
+"correct": 0
+},
+{
+"q": "If the odds in favour of an event happening are 3 to 2, what is the probability that the event occurs?",
+"a": ["2/5", "3/5", "3/2", "2/3"],
+"correct": 1
+},
+{
+"q": "A jar contains 4 red, 3 green, and 5 yellow sweets. If two sweets are drawn at random with replacement, what is the probability that both are yellow?",
+"a": ["25/144", "5/36", "25/144", "5/12"],
+"correct": 2
+},
+{
+"q": "When tossing three fair coins at the same time, how many total possible outcomes are in the sample space?",
+"a": ["6", "3", "4", "8"],
+"correct": 3
+},
+{
+"q": "What is the probability that a leap year chosen at random has 53 Sundays?",
+"a": ["2/7", "1/7", "5/7", "3/7"],
+"correct": 0
+},
+{
+"q": "A bag contains integers from 1 to 50 inclusive. One integer is chosen at random. What is the probability that it is a square number (e.g., 1, 4, 9...)?",
+"a": ["1/10", "7/50", "3/25", "1/5"],
+"correct": 1
+},
+{
+"q": "Two dice are rolled together. What is the probability that the sum of the numbers showing on the two dice is 7?",
+"a": ["1/9", "5/36", "1/6", "1/12"],
+"correct": 2
+},
+{
+"q": "Why do lottery games have extremely low probabilities of winning for individual ticket holders?",
+"a": ["Because the prize money is small", "Because the draws are rigged", "Because tickets are expensive", "Because the number of possible combinations in the sample space is extremely large"],
+"correct": 3
+},
+{
+"q": "If P(A) = 0.35, P(B) = 0.45, and A and B are mutually exclusive events, what is P(A or B)?",
+"a": ["0.80", "0.10", "0.1575", "0.50"],
+"correct": 0
+},
+{
+"q": "A bag holds 6 red discs and 4 blue discs. Two discs are drawn without replacement. What is the probability that the first is red and the second is blue?",
+"a": ["2/9", "4/15", "1/3", "3/10"],
+"correct": 1
+},
+{
+"q": "If you roll a fair die 300 times, approximately how many times would you expect to roll a number greater than 4?",
+"a": ["50", "75", "100", "150"],
+"correct": 2
+},
+{
+"q": "Which term describes events that have the exact same probability of occurring?",
+"a": ["Independent", "Mutually exclusive", "Complementary", "Equally likely"],
+"correct": 3
+},
+{
+"q": "A letter is selected at random from the alphabet (26 letters). What is the probability that it is a vowel (A, E, I, O, U)?",
+"a": ["5/26", "21/26", "1/5", "4/13"],
+"correct": 0
+},
+{
+"q": "What is the probability of an event whose odds against it are 4 to 1?",
+"a": ["4/5", "1/5", "1/4", "3/4"],
+"correct": 1
+},
+{
+"q": "A drawer contains 4 black socks and 4 white socks mixed up. If you pull out 2 socks blindly in the dark, what is the minimum number you must pull to guarantee you have at least one matching pair?",
+"a": ["3", "4", "3", "2"],
+"correct": 2
+},
+{
+"q": "If event A and event B are independent, how do you calculate the probability that both A and B occur (P(A and B))?",
+"a": ["P(A) + P(B)", "P(A) - P(B)", "P(A) / P(B)", "P(A) × P(B)"],
+"correct": 3
+}
+]
+}

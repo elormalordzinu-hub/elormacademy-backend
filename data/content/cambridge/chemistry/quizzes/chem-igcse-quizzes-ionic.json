@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-ionic",
+"name": "Ionic bonding and electrostatic attraction",
+"questions": [
+{
+"q": "Which particle is formed when a metal atom loses valence electrons during ionic bonding?",
+"a": ["Positive ion", "Negative ion", "Neutral atom", "Isotope"],
+"correct": 0
+},
+{
+"q": "What type of electrostatic attraction holds ions together in a crystal lattice of sodium chloride?",
+"a": ["Attraction between nuclei and shared electrons", "Attraction between delocalized electrons and positive metal ions", "Attraction between oppositely charged ions", "Attraction between dipoles in polar molecules"],
+"correct": 1
+},
+{
+"q": "Which electron configuration represents a stable ion of magnesium in magnesium oxide?",
+"a": ["2.8.2", "2.8.8", "2.8", "2.8.1"],
+"correct": 2
+},
+{
+"q": "Why do solid ionic compounds like sodium chloride fail to conduct electricity at room temperature?",
+"a": ["They do not contain any charged particles", "Their electrons are tightly bound to non-metal atoms", "Their molecules are held together by weak intermolecular forces", "Their ions are fixed in position within the giant lattice"],
+"correct": 3
+},
+{
+"q": "What is the chemical formula of the ionic compound formed between calcium and chlorine?",
+"a": ["CaCl<sub>2</sub>", "CaCl", "Ca<sub>2</sub>Cl", "CaCl<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "Which property is characteristic of most ionic substances?",
+"a": ["Low melting points and boiling points", "High melting points and electrical conductivity when molten", "Insolubility in polar solvents like water", "Existence as gases or volatile liquids at room temperature"],
+"correct": 1
+},
+{
+"q": "During the formation of magnesium fluoride, how many electrons does each fluorine atom gain?",
+"a": ["Two electrons", "Three electrons", "One electron", "Zero electrons"],
+"correct": 2
+},
+{
+"q": "Which of the following substances consists of ions arranged in a giant ionic lattice?",
+"a": ["Carbon dioxide", "Silicon dioxide", "Methane", "Potassium chloride"],
+"correct": 3
+},
+{
+"q": "What is the formula of the ammonium ion commonly found in ionic fertilizers?",
+"a": ["NH<sub>4</sub><sup>+</sup>", "NH<sub>3</sub>", "NO<sub>3</sub><sup>-</sup>", "N<sup>3-</sup>"],
+"correct": 0
+},
+{
+"q": "Which compound contains both ionic and covalent bonds?",
+"a": ["Sodium chloride", "Ammonium chloride", "Water", "Carbon tetrachloride"],
+"correct": 1
+},
+{
+"q": "What happens to electrons when a non-metal atom reacts to form an ionic bond?",
+"a": ["It loses protons from its nucleus", "It shares a pair of electrons equally with a metal", "It gains electrons to achieve a stable noble gas configuration", "It loses all of its valence electrons"],
+"correct": 2
+},
+{
+"q": "Which molten ionic compound produces brown bromine vapor at the anode during electrolysis?",
+"a": ["Lead(II) chloride", "Sodium chloride", "Aluminum oxide", "Lead(II) bromide"],
+"correct": 3
+},
+{
+"q": "What is the charge on a nitride ion formed from a nitrogen atom?",
+"a": ["3-", "1-", "2-", "3+"],
+"correct": 0
+},
+{
+"q": "Why do ionic compounds dissolve easily in water?",
+"a": ["Water molecules react chemically to destroy the ions", "Polar water molecules are attracted to and stabilize the charged ions", "Water breaks down covalent bonds within the crystal lattice", "Water molecules transfer electrons to the crystal structure"],
+"correct": 1
+},
+{
+"q": "Which formula correctly represents aluminum oxide?",
+"a": ["AlO", "Al<sub>2</sub>O", "Al<sub>2</sub>O<sub>3</sub>", "Al<sub>3</sub>O<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "Which substance will conduct electricity when dissolved in water or melted, but not in solid form?",
+"a": ["Sugar", "Ethanol", "Sulfur", "Copper(II) sulfate"],
+"correct": 3
+},
+{
+"q": "Which ion has the same electronic configuration as neon?",
+"a": ["O<sup>2-</sup>", "S<sup>2-</sup>", "Cl<sup>-</sup>", "K<sup>+</sup>"],
+"correct": 0
+},
+{
+"q": "How many electrons are transferred when one atom of magnesium reacts with oxygen to form magnesium oxide?",
+"a": ["One electron", "Two electrons", "Three electrons", "Four electrons"],
+"correct": 1
+},
+{
+"q": "Which term describes the regular three-dimensional arrangement of alternating positive and negative ions in a solid?",
+"a": ["Simple molecular structure", "Giant covalent network", "Giant ionic lattice", "Metallic lattice"],
+"correct": 2
+},
+{
+"q": "What causes the high melting points of ionic compounds like sodium chloride?",
+"a": ["Weak van der Waals forces between individual molecules", "Covalent bonding throughout the giant structure", "Free movement of electrons between positive ions", "Strong electrostatic forces of attraction requiring large amounts of energy to break"],
+"correct": 3
+},
+{
+"q": "Which species contains a total of 10 electrons and 8 protons?",
+"a": ["O<sup>2-</sup>", "Ne", "F<sup>-</sup>", "Mg<sup>2+</sup>"],
+"correct": 0
+},
+{
+"q": "Which of the following pairs of elements will combine to form an ionic compound?",
+"a": ["Carbon and oxygen", "Sodium and fluorine", "Hydrogen and chlorine", "Sulfur and oxygen"],
+"correct": 1
+},
+{
+"q": "What is the correct chemical formula for iron(III) sulfate?",
+"a": ["FeSO<sub>4</sub>", "Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>", "Fe<sub>3</sub>(SO<sub>4</sub>)<sub>2</sub>", "Fe<sub>2</sub>SO<sub>4</sub>"],
+"correct": 2
+},
+{
+"q": "Which property is NOT typical of ionic compounds?",
+"a": ["High melting point", "Brittle nature", "Solubility in water", "Electrical conductivity in the solid state"],
+"correct": 3
+},
+{
+"q": "In an ionic crystal, each positive ion is surrounded by multiple negative ions. What determines this coordination number?",
+"a": ["The relative sizes and charges of the ions", "The temperature of the surrounding environment", "The atmospheric pressure during crystallization", "The number of neutrons in the metal nucleus"],
+"correct": 0
+},
+{
+"q": "Which substance has ions with a 2+ and 2- charge ratio?",
+"a": ["Sodium chloride", "Magnesium oxide", "Aluminum fluoride", "Potassium sulfide"],
+"correct": 1
+},
+{
+"q": "Why is energy released when gaseous positive and negative ions come together to form an ionic lattice?",
+"a": ["Electrons are destroyed in the process", "Neutrons are converted into protons", "Strong attractive electrostatic forces are established", "Repulsive forces between nuclei increase"],
+"correct": 2
+},
+{
+"q": "Which of the following compounds contains ions that all possess the electronic configuration of argon?",
+"a": ["Sodium chloride", "Magnesium oxide", "Lithium fluoride", "Potassium sulfide"],
+"correct": 3
+},
+{
+"q": "What is the correct chemical formula for calcium hydroxide?",
+"a": ["Ca(OH)<sub>2</sub>", "CaOH", "Ca<sub>2</sub>OH", "Ca(OH)<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "When sodium reacts with chlorine, what is the role of the chlorine atom?",
+"a": ["It acts as a reducing agent by losing electrons", "It acts as an oxidizing agent by accepting electrons", "It shares its valence shell with sodium", "It remains completely unreactive"],
+"correct": 1
+},
+{
+"q": "Which statement best explains why ionic crystals are brittle?",
+"a": ["They contain weak covalent bonds that snap easily", "They have low density and soft structures", "A sharp blow shifts ions of the same charge next to each other, causing repulsion and cleavage", "Heat generated by stress melts the crystal lattice instantly"],
+"correct": 2
+},
+{
+"q": "Which of the following formulas is incorrect for the ionic compound shown?",
+"a": ["NaCl", "MgO", "Al<sub>2</sub>O<sub>3</sub>", "K<sub>2</sub>Cl"],
+"correct": 3
+},
+{
+"q": "Which ion has a greater ionic radius than its parent atom?",
+"a": ["Cl<sup>-</sup>", "Na<sup>+</sup>", "Mg<sup>2+</sup>", "Al<sup>3+</sup>"],
+"correct": 0
+},
+{
+"q": "Which statement correctly describes the electrons in a molten ionic compound?",
+"a": ["Electrons are delocalized in a sea of charge", "Mobile ions carry the electrical current", "Electrons are shared equally between pairs of atoms", "Electrons are completely absent from the system"],
+"correct": 1
+},
+{
+"q": "What is the chemical formula of zinc nitrate?",
+"a": ["ZnNO<sub>3</sub>", "Zn<sub>2</sub>NO<sub>3</sub>", "Zn(NO<sub>3</sub>)<sub>2</sub>", "Zn<sub>3</sub>(NO<sub>3</sub>)<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "Which of these ionic compounds is generally insoluble in water?",
+"a": ["Sodium chloride", "Potassium nitrate", "Ammonium sulfate", "Barium sulfate"],
+"correct": 3
+},
+{
+"q": "How many total ions are present in one formula unit of aluminum sulfate, Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>?",
+"a": ["5", "3", "2", "4"],
+"correct": 0
+},
+{
+"q": "Which element forms an ion with a 2- charge by gaining two electrons?",
+"a": ["Sodium", "Sulfur", "Aluminum", "Fluorine"],
+"correct": 1
+},
+{
+"q": "What type of bonding occurs when electronegativity differences between two bonding atoms are extremely large?",
+"a": ["Pure covalent bonding", "Metallic bonding", "Ionic bonding", "Hydrogen bonding"],
+"correct": 2
+},
+{
+"q": "Which factor increases the lattice energy and melting point of an ionic compound?",
+"a": ["Larger ionic radii and smaller charges", "Lower ionic charges and longer bond distances", "Higher temperature during formation", "Smaller ionic radii and higher ionic charges"],
+"correct": 3
+}
+]
+}

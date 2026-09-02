@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-inheritance",
+"name": "Inheritance and variation",
+"questions": [
+{
+"q": "Where is genetic material (DNA) primarily located inside a typical plant or animal cell?",
+"a": ["Inside the nucleus", "Floating freely within the cell vacuole", "Attached to the outer cell wall", "Dissolved inside the cytoplasm"],
+"correct": 0
+},
+{
+"q": "What is the name of the chemical molecule that carries genetic information and instructions for inherited characteristics?",
+"a": ["Glucose", "DNA (Deoxyribonucleic acid)", "Starch", "Cellulose"],
+"correct": 1
+},
+{
+"q": "What are long, thread-like structures made of DNA and protein found in the nucleus called?",
+"a": ["Ribosomes", "Chloroplasts", "Chromosomes", "Vacuoles"],
+"correct": 2
+},
+{
+"q": "What is a gene defined as?",
+"a": ["A complete organism", "A whole cell nucleus", "A section of DNA that codes for a specific protein or inherited trait", "A type of mineral ion in soil"],
+"correct": 2
+},
+{
+"q": "How many chromosomes are typically found in a normal body cell of a human?",
+"a": ["23", "46", "2", "92"],
+"correct": 1
+},
+{
+"q": "Which of the following traits is an example of inherited variation?",
+"a": ["Natural eye color", "A scar on a finger from a kitchen accident", "Fluency in a foreign language", "Muscular buildup from lifting weights"],
+"correct": 0
+},
+{
+"q": "Which of the following characteristics is an example of environmental variation rather than inherited variation?",
+"a": ["Blood group type", "Natural hair color", "A language spoken fluently", "Earlobe attachment shape"],
+"correct": 2
+},
+{
+"q": "What type of variation shows distinct categories with no intermediate forms (such as human blood groups or attached/unattached earlobes)?",
+"a": ["Continuous variation", "Discontinuous variation", "Environmental mutation", "Accidental variation"],
+"correct": 1
+},
+{
+"q": "What type of variation shows a range of intermediate values across a complete spectrum (such as human height or body mass)?",
+"a": ["Discontinuous variation", "Continuous variation", "Constant variation", "Fixed mutation"],
+"correct": 1
+},
+{
+"q": "How many chromosomes are present in a human gamete (sperm or egg cell)?",
+"a": ["46", "92", "23", "4"],
+"correct": 2
+},
+{
+"q": "Why do gametes contain half the normal number of body cell chromosomes?",
+"a": ["Because they are smaller cells", "So that when fertilization occurs, the normal chromosome number is restored in the zygote", "To prevent any traits from being passed on", "Because they do not have a nucleus"],
+"correct": 1
+},
+{
+"q": "What is a mutation?",
+"a": ["A regular cell division process", "A permanent change or error in the sequence of DNA", "The normal breakdown of starch in leaves", "The movement of water through xylem"],
+"correct": 1
+},
+{
+"q": "Which factor can increase the frequency of random mutations in DNA?",
+"a": ["Exposure to radiation or certain toxic chemicals", "Drinking pure water daily", "Sleeping in total darkness", "Eating fresh green vegetables"],
+"correct": 0
+},
+{
+"q": "What is selective breeding (artificial selection)?",
+"a": ["When humans choose plants or animals with desirable traits to breed together for successive generations", "When nature completely eliminates all species randomly", "When an organism adapts to its environment by choice", "The natural process of fossil formation"],
+"correct": 0
+},
+{
+"q": "Who is famous for developing the theory of evolution by natural selection?",
+"a": ["Isaac Newton", "Charles Darwin", "Louis Pasteur", "Robert Hooke"],
+"correct": 1
+},
+{
+"q": "What does the theory of natural selection state?",
+"a": ["Organisms with characteristics best suited to their environment are more likely to survive and reproduce", "All organisms remain completely unchanged over millions of years", "Animals can choose to change their DNA when danger appears", "Only the largest animals survive in any habitat"],
+"correct": 0
+},
+{
+"q": "What is extinction?",
+"a": ["The migration of a species to a new country", "The permanent loss of every single individual of a particular species", "A temporary sleep phase in animals", "The birth of a mutant offspring"],
+"correct": 1
+},
+{
+"q": "Which of these is a common cause of species extinction?",
+"a": ["Habitat destruction and climate change", "Breeding in captivity under care", "Strict national park protection laws", "Controlled scientific research"],
+"correct": 0
+},
+{
+"q": "What is biodiversity?",
+"a": ["The total number of rocks in an area", "The variety of different species of organisms living in a particular habitat or Earth", "The speed at which plants grow", "The depth of ocean trenches"],
+"correct": 1
+},
+{
+"q": "Why is high biodiversity important for ecosystems?",
+"a": ["It makes ecosystems more stable and resilient to environmental changes or disease", "It ensures that no plants ever die", "It stops weather from changing", "It prevents any competition between animals"],
+"correct": 0
+},
+{
+"q": "Which cellular process produces new body cells for growth and repair, resulting in identical daughter cells?",
+"a": ["Meiosis", "Mitosis", "Photosynthesis", "Transpiration"],
+"correct": 1
+},
+{
+"q": "Which cellular process produces gametes (sperm and egg cells) with half the chromosome number?",
+"a": ["Mitosis", "Meiosis", "Respiration", "Osmosis"],
+"correct": 1
+},
+{
+"q": "What is an inherited trait that helps an organism survive and reproduce in its environment called?",
+"a": ["An adaptation", "An accident", "A disease", "A pollutant"],
+"correct": 0
+},
+{
+"q": "Which of the following features is controlled entirely by environmental factors rather than genetics?",
+"a": ["Natural eye color", "Scars resulting from surgery", "Natural hair color type", "Inherited blood group"],
+"correct": 1
+},
+{
+"q": "Which of the following features is controlled by a combination of both genetics and environment?",
+"a": ["Human body mass / weight", "Human blood group type", "Attached earlobes", "Eye color"],
+"correct": 0
+},
+{
+"q": "What term describes the different alternative forms of a particular gene?",
+"a": ["Chromosomes", "Nucleotides", "Alleles", "Vacuoles"],
+"correct": 2
+},
+{
+"q": "What is a species?",
+"a": ["A group of organisms that can reproduce with one another to produce fertile offspring", "Any group of animals living in the same forest", "All organisms that have green leaves", "Any single living individual"],
+"correct": 0
+},
+{
+"q": "How do environmental variations differ from inherited variations?",
+"a": ["Environmental variations are caused by surroundings or lifestyle, whereas inherited variations are passed down from parents through genes", "Environmental variations are coded in DNA, while inherited ones are not", "Environmental variations cannot change during life", "Inherited variations are caused by sun exposure"],
+"correct": 0
+},
+{
+"q": "What is gene cloning or genetic modification generally concerned with?",
+"a": ["Altering the genetic material of an organism by adding, removing, or changing genes", "Measuring the height of tall trees", "Staining slides for microscope viewing", "Counting animal footprints"],
+"correct": 0
+},
+{
+"q": "What is the primary consequence of inbreeding in animal or plant populations over many generations?",
+"a": ["Increased chance of inheriting harmful genetic disorders and reduced vigor", "Instant immunity to all diseases", "Doubled lifespan and infinite growth", "Complete elimination of DNA"],
+"correct": 0
+},
+{
+"q": "Which graphical representation is typically used to display continuous variation data like plant heights?",
+"a": ["A bar chart with separated categories", "A smooth curve or histogram showing a bell-shaped distribution", "A pie chart only", "A scatter plot of random points"],
+"correct": 1
+},
+{
+"q": "Which graphical representation is typically used to display discontinuous variation data like blood groups?",
+"a": ["A histogram with continuous slopes", "A discrete bar chart with spaces between bars", "A line graph of infinite points", "A circle diagram"],
+"correct": 1
+},
+{
+"q": "What role do fossils play in understanding evolution and variation?",
+"a": ["They provide physical evidence of how organisms have changed and evolved over long geological periods", "They show what plants eat today", "They prove that animals never change", "They generate electricity in soil"],
+"correct": 0
+},
+{
+"q": "What is the term for a feature that allowed ancestral organisms to survive, which is no longer functional or useful in modern descendants (such as human appendix traces)?",
+"a": ["Vestigial structure", "Active organ", "Primary gamete", "Mutant gene"],
+"correct": 0
+},
+{
+"q": "Why is genetic variation within a wildlife population crucial for survival against a new disease outbreak?",
+"a": ["It ensures some individuals may possess natural resistance and survive to breed", "It guarantees every single animal will die quickly", "It stops the disease from entering the habitat", "It turns all animals into clones"],
+"correct": 0
+},
+{
+"q": "What is meant by the term 'heritable' trait?",
+"a": ["A trait that can be passed down from parents to offspring through genetic material", "A trait learned from school teachers", "A physical injury acquired in old age", "A temporary skin tan from sunshine"],
+"correct": 0
+},
+{
+"q": "Which structure contains many genes linked together in a linear sequence?",
+"a": ["A chromosome", "A single drop of water", "A vacuole wall", "A starch grain"],
+"correct": 0
+},
+{
+"q": "What happens during sexual reproduction that creates unique genetic combinations in offspring?",
+"a": ["Random fusion of gametes from two parents combining different sets of alleles", "Exact copying of body cells without changes", "Direct absorption of soil nutrients", "Cell division by simple splitting"],
+"correct": 0
+},
+{
+"q": "Which example best illustrates continuous variation in plants?",
+"a": ["The number of petals on a specific flower species (always 5)", "The total mass of seeds produced by individual plants showing a wide numerical spectrum", "Whether a plant has thorns or no thorns", "Plant leaf color being pure green or pure white"],
+"correct": 1
+},
+{
+"q": "What is the ultimate source of all new genetic variation in a population over time?",
+"a": ["Random mutations in DNA", "Regular eating habits", "Exercise routines", "Weather temperature changes"],
+"correct": 0
+}
+]
+}

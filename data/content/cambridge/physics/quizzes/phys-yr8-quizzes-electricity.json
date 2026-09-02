@@ -1,0 +1,166 @@
+{
+"id": "phys-yr8-quizzes-electricity",
+"name": "Current potential difference and resistance",
+"questions": [
+{
+"q": "What is electric current defined as in a circuit?",
+"a": ["The rate of flow of electric charge around a circuit", "The total resistance offered by the wires", "The amount of chemical energy stored in a battery", "The speed at which electrons travel through a resistor"],
+"correct": 0
+},
+{
+"q": "What are the standard SI units used to measure electric current?",
+"a": ["Volts (V)", "Amperes (A) or amps", "Ohms (omega)", "Joules (J)"],
+"correct": 1
+},
+{
+"q": "What scientific instrument is used to measure electric current, and how must it be connected in a circuit?",
+"a": ["A voltmeter connected in parallel", "An ohmmeter connected across components", "An ammeter connected in series", "A galvanometer connected in reverse"],
+"correct": 2
+},
+{
+"q": "What does potential difference (voltage) across a component measure?",
+"a": ["The total mass of electrons flowing per second", "The resistance opposing the current", "The physical speed of the current", "The energy transferred per unit charge passing between two points"],
+"correct": 3
+},
+{
+"q": "What are the standard SI units for potential difference?",
+"a": ["Volts (V)", "Amperes (A)", "Watts (W)", "Newtons (N)"],
+"correct": 0
+},
+{
+"q": "How must a voltmeter be connected into an electric circuit to measure the potential difference across a lamp?",
+"a": ["In series with the lamp", "In parallel across the lamp", "Directly inside the battery core", "Disconected from the power supply"],
+"correct": 1
+},
+{
+"q": "What is electrical resistance?",
+"a": ["The speed at which electrons exit a battery", "The total voltage supplied to a circuit", "A measure of how difficult it is for current to flow through a component", "The amount of light produced by a bulb"],
+"correct": 2
+},
+{
+"q": "What are the standard SI units for electrical resistance?",
+"a": ["Amperes (A)", "Volts (V)", "Coulombs (C)", "Ohms (omega)"],
+"correct": 3
+},
+{
+"q": "What happens to the current in a simple circuit if you increase the resistance while keeping the voltage constant?",
+"a": ["The current decreases", "The current increases", "The current remains completely unchanged", "The current stops instantly and reverses direction"],
+"correct": 0
+},
+{
+"q": "Which law describes the mathematical relationship between current, voltage, and resistance in a metallic conductor at constant temperature?",
+"a": ["Newton's Second Law", "Ohm's Law", "Archimedes' Principle", "Conservation of Energy"],
+"correct": 1
+},
+{
+"q": "If a resistor has a resistance of 10 ohms and a current of 2 amperes flows through it, what is the potential difference across it?",
+"a": ["5 Volts", "0.2 Volts", "20 Volts", "100 Volts"],
+"correct": 2
+},
+{
+"q": "What happens to the resistance of a metal wire if its length is increased?",
+"a": ["Resistance decreases to zero", "Resistance becomes negative", "Resistance fluctuates randomly", "Resistance increases because electrons collide with more metal ions along the longer path"],
+"correct": 3
+},
+{
+"q": "What does a high resistance value in a component indicate about its effect on current?",
+"a": ["It severely restricts current flow, allowing only a tiny current to pass", "It allows massive currents to rush through freely", "It converts all current into sound waves", "It doubles the battery voltage automatically"],
+"correct": 0
+},
+{
+"q": "How does the thickness (cross-sectional area) of a wire affect its electrical resistance?",
+"a": ["Thinner wires have lower resistance", "Thicker wires have lower resistance because there is more space for charge carriers to flow easily", "Thickness has no effect on resistance", "Thicker wires have infinite resistance"],
+"correct": 1
+},
+{
+"q": "If a 12 V battery is connected across a component and a current of 3 A flows, what is the resistance of the component?",
+"a": ["4 ohms", "36 ohms", "4 ohms", "0.25 ohms"],
+"correct": 2
+},
+{
+"q": "Which of the following materials is an excellent electrical conductor with very low resistance?",
+"a": ["Pure dry wood", "Hard plastic rubber", "Sheet glass", "Copper metal"],
+"correct": 3
+},
+{
+"q": "What is the primary function of a variable resistor (rheostat) in an electronic circuit?",
+"a": ["To allow user control to change the resistance and thereby adjust the size of the current in the circuit", "To generate chemical energy from light", "To store permanent magnetic fields", "To act as a permanent fuse that breaks circuits"],
+"correct": 0
+},
+{
+"q": "What happens to the current in a circuit if you increase the voltage of the power supply while keeping resistance constant?",
+"a": ["The current drops to zero", "The current increases proportionally", "The current remains completely constant", "The wires melt immediately"],
+"correct": 1
+},
+{
+"q": "Why are electrical wires in homes and appliances usually made of copper and coated in plastic?",
+"a": ["Copper is magnetic and plastic is heavy", "Copper is an insulator and plastic conducts electricity", "Copper has very low resistance (good conductor) and plastic is an insulator that prevents shocks", "Both materials store electrical charge"],
+"correct": 2
+},
+{
+"q": "What term is given to materials such as rubber, glass, and wood that have extremely high resistance and do not allow electric current to flow through them easily?",
+"a": ["Semiconductors", "Superconductors", "Conductors", "Insulators"],
+"correct": 3
+},
+{
+"q": "If a lamp has a resistance of 20 ohms and the current through it is 0.5 amperes, what is the voltage across the lamp?",
+"a": ["10 Volts", "40 Volts", "0.025 Volts", "100 Volts"],
+"correct": 0
+},
+{
+"q": "What happens to the brightness of a lamp if the current flowing through its filament is increased?",
+"a": ["The lamp dims completely", "The lamp becomes brighter", "The lamp color turns to green", "The brightness stays identical"],
+"correct": 1
+},
+{
+"q": "Which of the following correctly represents Ohm's Law formula for calculating voltage (V)?",
+"a": ["V = I divided by R", "V = R divided by I", "V = I multiplied by R", "V = I plus R squared"],
+"correct": 2
+},
+{
+"q": "Why do electric appliance cords feel warm or hot if they carry an excessively high current or have a fault?",
+"a": ["Electricity creates cold air around wires", "Current increases air pressure inside insulation", "Magnetic fields generate heat", "Resistance in the wire causes electrical energy to transfer into thermal energy (heating)"],
+"correct": 3
+},
+{
+"q": "What is an electrical charge carrier in solid metal wires?",
+"a": ["Free-moving delocalized electrons", "Positive protons locked in nuclei", "Neutrons drifting freely", "Charged water droplets"],
+"correct": 0
+},
+{
+"q": "In a simple closed loop circuit, what happens to the electric current as it flows through identical resistors?",
+"a": ["Current is used up completely by the first component", "Current remains the same at all points in a single unbranched loop", "Current doubles after passing each resistor", "Current turns into sound energy"],
+"correct": 1
+},
+{
+"q": "What does a graph of current against voltage for a fixed resistor look like?",
+"a": ["A curved exponential line", "A downward sloping line", "A straight line passing through the origin (directly proportional)", "A horizontal flat line"],
+"correct": 2
+},
+{
+"q": "What happens to the resistance of a lamp filament as it gets very hot during operation?",
+"a": ["Resistance drops to zero", "Resistance becomes negative", "Resistance remains constant", "Resistance increases because hot metal ions vibrate more, hindering electron flow"],
+"correct": 3
+},
+{
+"q": "If the voltage across a resistor is 24 V and its resistance is 8 ohms, what current is flowing through it?",
+"a": ["3 Amperes", "192 Amperes", "0.33 Amperes", "16 Amperes"],
+"correct": 0
+},
+{
+"q": "Which device is designed specifically to break a circuit and melt if the current becomes dangerously high, preventing fires?",
+"a": ["A step-up transformer", "A fuse or circuit breaker", "A variable resistor", "A voltmeter"],
+"correct": 1
+},
+{
+"q": "What is the resistance of a circuit if a voltage of 6 V produces a current of 0.5 A?",
+"a": ["3 ohms", "0.083 ohms", "12 ohms", "6.5 ohms"],
+"correct": 2
+},
+{
+"q": "How does adding more resistors in series affect the total resistance of the circuit?",
+"a": ["Total resistance decreases", "Total resistance becomes zero", "Total resistance fluctuates randomly", "Total resistance increases because the current has to pass through each resistor in turn"],
+"correct": 3
+}
+]
+}

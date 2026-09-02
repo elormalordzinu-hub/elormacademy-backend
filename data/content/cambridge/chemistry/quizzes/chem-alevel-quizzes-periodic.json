@@ -1,0 +1,166 @@
+{
+"id": "chem-alevel-quizzes-periodic",
+"name": "Electronic configuration and periodic trends",
+"questions": [
+{
+"q": "What is the ground-state electronic configuration of a chromium atom (Cr, atomic number 24)?",
+"a": ["[Ar] 3d<sup>5</sup> 4s<sup>1</sup>", "[Ar] 3d<sup>4</sup> 4s<sup>2</sup>", "[Ar] 3d<sup>6</sup> 4s<sup>0</sup>", "[Kr] 4s<sup>2</sup> 3d<sup>4</sup>"],
+"correct": 0
+},
+{
+"q": "What is the general trend in atomic radius across Period 3 from left to right (sodium to chlorine)?",
+"a": ["Increases steadily", "Decreases steadily", "Remains completely constant", "Increases then sharply decreases"],
+"correct": 1
+},
+{
+"q": "Why does the first ionization energy show a dip between magnesium (Mg) and aluminium (Al)?",
+"a": ["Aluminium has a smaller nuclear charge than magnesium", "Aluminium atoms are larger, reducing nuclear attraction", "The outer electron in aluminium enters the higher-energy 3p subshell, which is slightly shielded by the 3s electrons", "Magnesium has paired electrons in its 3s orbital causing repulsion"],
+"correct": 2
+},
+{
+"q": "What is the ground-state electronic configuration of a copper(I) ion (Cu<sup>+</sup>)?",
+"a": ["[Ar] 3d<sup>8</sup> 4s<sup>2</sup>", "[Ar] 3d<sup>9</sup> 4s<sup>1</sup>", "[Ar] 3d<sup>4</sup> 4s<sup>1</sup>", "[Ar] 3d<sup>10</sup>"],
+"correct": 3
+},
+{
+"q": "Which element in Period 3 has the highest melting point due to its giant covalent macromolecular structure?",
+"a": ["Silicon", "Sodium", "Aluminium", "Sulfur"],
+"correct": 0
+},
+{
+"q": "How do the melting points of the Group 17 elements (halogens) change as you descend the group from fluorine to iodine?",
+"a": ["Decrease because nuclear charge decreases", "Increase because van der Waals forces become stronger due to larger electron clouds", "Remain constant because all are diatomic molecules", "Decrease due to weaker covalent bonding within molecules"],
+"correct": 1
+},
+{
+"q": "What is the trend in electronegativity values down Group 17 (the halogens)?",
+"a": ["Increases", "Stays constant", "Decreases", "Increases then decreases"],
+"correct": 2
+},
+{
+"q": "Why does the first ionization energy show a dip between phosphorus (P) and sulfur (S) in Period 3?",
+"a": ["Sulfur has a lower nuclear charge than phosphorus", "Phosphorus has a half-filled 3p subshell which provides extra stability", "Sulfur atoms have a smaller atomic radius than phosphorus", "Sulfur has paired electrons in one of its 3p orbitals, resulting in inter-electron repulsion that makes the electron easier to remove"],
+"correct": 3
+},
+{
+"q": "What type of oxide is formed when sodium burns in excess oxygen?",
+"a": ["Basic ionic oxide", "Acidic covalent oxide", "Amphoteric oxide", "Neutral gas"],
+"correct": 0
+},
+{
+"q": "What is the formula and acid-base character of the highest oxide of phosphorus (P<sub>4</sub>O<sub>10</sub>)?",
+"a": ["Basic ionic oxide", "Acidic covalent oxide", "Amphoteric oxide", "Neutral oxide"],
+"correct": 1
+},
+{
+"q": "Which Period 3 oxide exhibits amphoteric properties, reacting with both acids and strong alkalis?",
+"a": ["Sodium oxide", "Magnesium oxide", "Aluminium oxide", "Silicon dioxide"],
+"correct": 2
+},
+{
+"q": "What is observed when solid sodium chloride reacts with concentrated sulfuric acid at room temperature?",
+"a": ["Purple vapor of iodine gas is evolved", "Brown gas of bromine is evolved", "No reaction occurs", "Steamy acidic fumes of hydrogen chloride gas are produced"],
+"correct": 3
+},
+{
+"q": "What is the reaction of sodium oxide with water?",
+"a": ["Forms a strongly alkaline solution of sodium hydroxide (NaOH)", "Forms an acidic solution of sulfuric acid", "Reacts violently to produce chlorine gas", "Does not dissolve or react with water"],
+"correct": 0
+},
+{
+"q": "How does sulfur dioxide react with water?",
+"a": ["Forms a strongly basic solution", "Forms a weakly acidic solution of sulfurous acid (H<sub>2</sub>SO<sub>3</sub>)", "Precipitates solid sulfur instantly", "Releases hydrogen gas"],
+"correct": 1
+},
+{
+"q": "What is the trend in thermal stability of Group 2 carbonates (from magnesium carbonate to barium carbonate) down the group?",
+"a": ["Thermal stability decreases", "Thermal stability remains unchanged", "Thermal stability increases down the group", "Thermal stability drops to zero"],
+"correct": 2
+},
+{
+"q": "Why does the thermal stability of Group 2 carbonates increase down the group?",
+"a": ["The charge on the metal cation increases", "The covalent character of the carbonate increases", "The electronegativity of the metal increases", "The size of the metal cation increases, causing lower polarizing power on the large carbonate anion and distorting it less"],
+"correct": 3
+},
+{
+"q": "What is the trend in solubility of Group 2 hydroxides down the group from magnesium to barium?",
+"a": ["Solubility increases down the group", "Solubility decreases down the group", "Solubility is zero for all hydroxides", "Solubility first increases then decreases"],
+"correct": 0
+},
+{
+"q": "What is the trend in solubility of Group 2 sulfates down the group from magnesium to barium?",
+"a": ["Solubility increases down the group", "Solubility decreases down the group", "Solubility remains constant", "Solubility is completely infinite"],
+"correct": 1
+},
+{
+"q": "Which halogen is a dark grey-black solid at room temperature that sublimes on gentle heating to form a purple vapor?",
+"a": ["Fluorine", "Chlorine", "Iodine", "Bromine"],
+"correct": 2
+},
+{
+"q": "What color is observed when dilute aqueous silver nitrate followed by dilute aqueous ammonia is added to a solution containing chloride ions?",
+"a": ["Yellow precipitate insoluble in ammonia", "Cream precipitate sparingly soluble in concentrated ammonia", "No precipitate formed", "White precipitate soluble in dilute aqueous ammonia"],
+"correct": 3
+},
+{
+"q": "What is the main reason why fluorine is the most reactive halogen in Group 17?",
+"a": ["It has a very low F-F bond enthalpy and small atomic radius enabling easy anion formation", "It has the largest atomic radius in the group", "It forms multiple bonds with other elements", "It is a liquid at room temperature"],
+"correct": 0
+},
+{
+"q": "What happens when chlorine gas is bubbled through an aqueous solution of potassium iodide?",
+"a": ["Chlorine gas turns dark blue instantly", "The solution turns brown due to the displacement of iodine (I<sub>2</sub>)", "A white precipitate of potassium chloride settles out", "No reaction occurs because iodine is more reactive than chlorine"],
+"correct": 1
+},
+{
+"q": "What is produced when chlorine reacts with cold, dilute aqueous sodium hydroxide in a disproportionation reaction?",
+"a": ["Sodium chloride and sodium chlorate(V) only", "Sodium chloride and oxygen gas", "Sodium chloride, sodium chlorate(I) (hypochlorite), and water", "Sodium hydride and sodium chlorate(VII)"],
+"correct": 2
+},
+{
+"q": "Why does atomic radius increase down a group in the Periodic Table?",
+"a": ["Nuclear charge decreases down the group", "Number of neutrons decreases", "Electron-electron repulsion becomes zero", "Successive principal quantum shells are added, increasing shielding and distance from the nucleus"],
+"correct": 3
+},
+{
+"q": "Which of the following elements has the highest electronegativity according to the Pauling scale?",
+"a": ["Fluorine", "Chlorine", "Oxygen", "Nitrogen"],
+"correct": 0
+},
+{
+"q": "What is the general trend in first ionization energy across Period 3 from left to right?",
+"a": ["Decreases steadily", "Increases with minor dips at Group 13 and Group 16", "Remains completely constant", "Increases then drops to zero at the noble gas"],
+"correct": 1
+},
+{
+"q": "What is the physical state and appearance of chlorine at room temperature and pressure?",
+"a": ["Dark grey solid", "Brown liquid", "Pale green-yellow gas", "Colorless odorless gas"],
+"correct": 2
+},
+{
+"q": "Which of the following chlorides is neutral when dissolved in water?",
+"a": ["Aluminium chloride (AlCl<sub>3</sub>)", "Silicon tetrachloride (SiCl<sub>4</sub>)", "Phosphorus(V) chloride (PCl<sub>5</sub>)", "Sodium chloride (NaCl)"],
+"correct": 3
+},
+{
+"q": "What type of bonding is present in silicon dioxide (SiO<sub>2</sub>)?",
+"a": ["Giant covalent network structure", "Simple molecular covalent", "Ionic lattice", "Metallic lattice"],
+"correct": 0
+},
+{
+"q": "Which Group 2 element reacts most vigorously with cold water?",
+"a": ["Magnesium", "Barium", "Calcium", "Beryllium"],
+"correct": 1
+},
+{
+"q": "What is the primary role of concentrated sulfuric acid when added to solid sodium iodide?",
+"a": ["It acts solely as a weak dehydrating agent", "It acts as a mild catalyst", "It acts as an oxidizing agent, reducing to sulfur dioxide, sulfur, or hydrogen sulfide while oxidizing iodide to iodine", "It forms a neutral buffer solution"],
+"correct": 2
+},
+{
+"q": "What is the formula of the acid-base product formed when silicon tetrachloride reacts violently with water?",
+"a": ["Silicic acid (H<sub>4</sub>SiO<sub>4</sub>) and hydrochloric acid", "Silicon dioxide and hydrogen gas", "Silane gas and chlorine water", "Sodium silicate solution"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-reactivity",
+  "name": "Introduction to the reactivity series",
+  "questions": [
+    {
+      "q": "What is the reactivity series of metals?",
+      "a": ["A list of metals arranged in order of their chemical reactivity from most reactive to least reactive", "A table showing the melting points of rocks", "A list of non-metals grouped by color", "An index of atomic numbers"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is an example of a very reactive metal that bubbles vigorously and catches fire in water?",
+      "a": ["Gold", "Potassium", "Copper", "Silver"],
+      "correct": 1
+    },
+    {
+      "q": "How do unreactive metals like gold and platinum typically occur in the Earth's crust?",
+      "a": ["As metal oxides mixed with soil", "As soluble salts dissolved in oceans", "As uncombined native elements in pure form", "As gases in the atmosphere"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when a more reactive metal is placed into a solution of a less reactive metal salt?",
+      "a": ["Nothing happens at all", "The metals fuse into an alloy", "The mixture freezes solid", "A displacement reaction occurs, where the more reactive metal displaces the less reactive metal from its solution"],
+      "correct": 3
+    },
+    {
+      "q": "What gas is typically produced when a reactive metal like magnesium or zinc reacts with dilute hydrochloric acid?",
+      "a": ["Hydrogen gas", "Oxygen gas", "Carbon dioxide gas", "Chlorine gas"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following metals is *not* reactive enough to displace hydrogen from dilute acids?",
+      "a": ["Iron", "Copper", "Zinc", "Magnesium"],
+      "correct": 1
+    },
+    {
+      "q": "If you put a piece of copper metal into a solution of zinc sulfate, what observation would you make?",
+      "a": ["Violent bubbling and explosion", "Zinc metal plates out rapidly", "No reaction occurs because copper is less reactive than zinc", "The solution turns bright red"],
+      "correct": 2
+    },
+    {
+      "q": "What is observed when a clean piece of magnesium ribbon is dropped into copper(II) sulfate solution?",
+      "a": ["The magnesium shrinks and disappears with no other change", "The solution turns deep purple", "Nothing happens", "The blue color fades and brown/pink copper metal coats the magnesium"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following metals is the most reactive among standard common laboratory metals?",
+      "a": ["Potassium", "Iron", "Copper", "Silver"],
+      "correct": 0
+    },
+    {
+      "q": "Why is aluminum considered reasonably reactive chemically, yet objects made of aluminum do not corrode away quickly in air?",
+      "a": ["It is protected by a thin, tough, unreactive layer of aluminum oxide on its surface", "It is stored under oil", "It reacts with nitrogen to form a shield", "It is actually less reactive than gold"],
+      "correct": 1
+    },
+    {
+      "q": "How can very unreactive metals like iron oxide be extracted from their ores in industry?",
+      "a": ["By simple filtration", "By dissolving in water", "By heating the metal oxide with carbon in a blast furnace", "By electrolysis of liquid air"],
+      "correct": 2
+    },
+    {
+      "q": "How are very reactive metals (like potassium, sodium, and calcium) extracted from their compounds?",
+      "a": ["By heating with carbon", "By leaving them in sunlight", "By reacting with dilute acid", "By electrolysis of molten metal compounds"],
+      "correct": 3
+    },
+    {
+      "q": "Which metal reacts vigorously with cold water to form a metal hydroxide and hydrogen gas?",
+      "a": ["Sodium", "Iron", "Copper", "Gold"],
+      "correct": 0
+    },
+    {
+      "q": "Which metal reacts slowly with cold water, but reacts readily with steam to form an oxide and hydrogen?",
+      "a": ["Gold", "Magnesium", "Potassium", "Silver"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when a metal burns in oxygen gas?",
+      "a": ["A metal hydroxide", "A non-metal salt", "A metal oxide", "A hydrocarbon"],
+      "correct": 2
+    },
+    {
+      "q": "If iron nail is placed in a solution of copper sulfate, what happens to the color of the solution over time?",
+      "a": ["It turns dark black", "It turns neon green", "It remains unchanged", "The blue color fades as copper is displaced and iron enters solution"],
+      "correct": 3
+    },
+    {
+      "q": "Which metal is positioned just above hydrogen in the reactivity series, meaning it reacts with acids but not with cold water?",
+      "a": ["Zinc", "Potassium", "Gold", "Platinum"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the gradual destruction or eating away of metals due to chemical reactions with oxygen, moisture, or acids in the environment?",
+      "a": ["Distillation", "Corrosion (such as rusting)", "Sublimation", "Neutralization"],
+      "correct": 1
+    },
+    {
+      "q": "Why is iron used widely for building construction rather than sodium or potassium?",
+      "a": ["Sodium and potassium are too heavy", "Sodium and potassium are gases", "Sodium and potassium are extremely reactive and dangerous to handle in air or water", "Iron is more reactive than sodium"],
+      "correct": 2
+    },
+    {
+      "q": "What substance is essential for iron to rust, in addition to oxygen?",
+      "a": ["Carbon dioxide", "Dry nitrogen", "Argon gas", "Water (moisture)"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following metals is often used to coat steel pipes or sheets to prevent rusting through a process called galvanizing?",
+      "a": ["Zinc", "Gold", "Lead", "Copper"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary chemical name for rust?",
+      "a": ["Copper carbonate", "Hydrated iron(III) oxide", "Sodium chloride", "Calcium sulfate"],
+      "correct": 1
+    },
+    {
+      "q": "If metal X displaces metal Y from a solution of its salt, what can you deduce about their positions in the reactivity series?",
+      "a": ["Metal X is less reactive than metal Y", "Metal X and Y have identical reactivity", "Metal X is higher (more reactive) than metal Y", "Metal X is a non-metal"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following methods will *not* prevent iron from rusting?",
+      "a": ["Painting the surface", "Coating with grease or oil", "Connecting it to a sacrificial anode", "Placing it in pure dry oxygen with no water"],
+      "correct": 3
+    },
+    {
+      "q": "What is observed when calcium metal is added to cold water?",
+      "a": ["Fizzing/bubbling of hydrogen gas, a white precipitate of calcium hydroxide forming, and the metal moving around", "An instant explosion", "No reaction whatsoever", "The water turns bright pink permanently"],
+      "correct": 0
+    },
+    {
+      "q": "Why are precious metals like gold and silver traditionally used for making jewelry and coins?",
+      "a": ["They react with everything quickly", "They are unreactive, do not corrode, and maintain their shiny appearance", "They are the most reactive metals known", "They dissolve in drinking water"],
+      "correct": 1
+    },
+    {
+      "q": "In a displacement reaction between zinc and copper(II) sulfate, which substance is oxidized or loses electrons?",
+      "a": ["Copper ions", "Sulfate ions", "Zinc metal", "Water molecules"],
+      "correct": 2
+    },
+    {
+      "q": "Which metal would be able to reduce copper oxide to copper metal when heated together?",
+      "a": ["Silver", "Gold", "Platinum", "Magnesium"],
+      "correct": 3
+    },
+    {
+      "q": "What happens when iron filings are added to a solution of silver nitrate?",
+      "a": ["Iron displaces silver, forming silver crystals on the iron and turning the solution green with iron nitrate", "An explosion occurs", "Silver dissolves into gas", "Nothing happens"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following lists places the four metals in correct order from most reactive to least reactive?",
+      "a": ["Copper, Iron, Zinc, Potassium", "Potassium, Zinc, Iron, Copper", "Iron, Potassium, Copper, Zinc", "Zinc, Copper, Potassium, Iron"],
+      "correct": 1
+    },
+    {
+      "q": "What is 'sacrificial protection' in the context of preventing iron from rusting?",
+      "a": ["Painting iron with toxic paint", "Storing iron in a vacuum", "Attaching a more reactive metal (like zinc or magnesium) that corrodes in place of the iron", "Washing iron with acid daily"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a piece of copper pipe not react when left outside in the rain for years?",
+      "a": ["Copper is a gas", "Copper is too reactive", "Rainwater has no effect on metals", "Copper is located below hydrogen in the reactivity series and does not react with dilute acids or water"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following metals will react most violently with dilute hydrochloric acid?",
+      "a": ["Magnesium", "Iron", "Copper", "Silver"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical purpose of adding carbon (coke) into a blast furnace along with iron ore (iron oxide)?",
+      "a": ["To cool down the furnace", "To act as a reducing agent that removes oxygen from the iron oxide, leaving molten iron", "To make the iron magnetic", "To turn iron into gold"],
+      "correct": 1
+    },
+    {
+      "q": "If element A reacts with cold water, element B reacts with steam only, and element C does not react with steam or acid, how do their reactivities compare?",
+      "a": ["C > B > A", "B > A > C", "A > B > C", "A = B = C"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following correctly pairs a metal with its correct extraction method based on reactivity?",
+      "a": ["Potassium extracted with carbon", "Iron extracted by electrolysis", "Gold extracted with acid", "Aluminum extracted by electrolysis"],
+      "correct": 3
+    },
+    {
+      "q": "What color change is observed in universal indicator when added to the solution after potassium reacts with water?",
+      "a": ["Turns blue or purple because an alkaline metal hydroxide is formed", "Turns bright red because a strong acid is formed", "Turns yellow", "Stays completely colorless"],
+      "correct": 0
+    },
+    {
+      "q": "Why can carbon be used to extract iron from iron ore, but cannot be used to extract aluminum from aluminum oxide?",
+      "a": ["Carbon is a metal", "Carbon is more reactive than iron, but less reactive than aluminum", "Carbon is too expensive", "Aluminum oxide does not contain oxygen"],
+      "correct": 1
+    },
+    {
+      "q": "When zinc powder is added to a test tube of lead(II) nitrate solution, lead crystals form on the zinc. What kind of reaction is this?",
+      "a": ["Neutralization", "Thermal decomposition", "A single displacement reaction", "Combustion"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following statements about the reactivity series is scientifically accurate?",
+      "a": ["All metals react with water at the same speed", "Non-metals are always placed at the top of the reactivity series", "Metals at the bottom of the series form oxides very easily", "Metals higher in the series lose their outer electrons more easily to form positive ions"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "title": "Cambridge Year 7 Physics Space Quiz",
+    "topic": "The Earth and Space"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "q": "How long does it take for Earth to make one full spin on its axis?",
+      "o": ["1 year", "1 month", "24 hours", "12 hours"],
+      "a": 2
+    },
+    {
+      "id": 2,
+      "q": "What heavy cosmic object sits directly at the center of our Solar System?",
+      "o": ["The Earth", "Jupiter", "The Sun", "The Milky Way"],
+      "a": 2
+    },
+    {
+      "id": 3,
+      "q": "What invisible pull keeps all planets locked in neat orbits around the Sun?",
+      "o": ["Magnetic fields", "Gravity", "Air pressure", "Static electricity"],
+      "a": 1
+    },
+    {
+      "id": 4,
+      "q": "Which planet is located closest to our Sun?",
+      "o": ["Venus", "Earth", "Mars", "Mercury"],
+      "a": 3
+    },
+    {
+      "id": 5,
+      "q": "Which of these objects is an actual star?",
+      "o": ["The Moon", "The Sun", "Jupiter", "The Earth"],
+      "a": 1
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-living-things",
+"name": "Living Things",
+"questions": [
+{
+"q": "Which of the following characteristics is common to all living organisms?",
+"a": ["Respiration", "Ability to fly", "Possessing bones", "Photosynthesis"],
+"correct": 0
+},
+{
+"q": "What term describes the process by which living organisms increase in size and complexity?",
+"a": ["Excretion", "Growth", "Irritability", "Nutrition"],
+"correct": 1
+},
+{
+"q": "Which life process involves the removal of metabolic waste products from the body of an organism?",
+"a": ["Reproduction", "Respiration", "Excretion", "Digestion"],
+"correct": 2
+},
+{
+"q": "What is the term for the ability of living things to detect and respond to changes in their external or internal environment?",
+"a": ["Movement", "Nutrition", "Respiration", "Sensitivity (Irritability)"],
+"correct": 3
+},
+{
+"q": "Which of the following is classified as a non-living thing despite exhibiting some complex behaviours?",
+"a": ["A computer virus", "A green plant", "A bacterium", "A yeast cell"],
+"correct": 0
+},
+{
+"q": "What process do green plants use to manufacture their own food using sunlight, water, and carbon dioxide?",
+"a": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+"correct": 1
+},
+{
+"q": "Which of the following organisms is an example of a microorganism?",
+"a": ["Earthworm", "Housefly", "Bacterium", "Toad"],
+"correct": 2
+},
+{
+"q": "Why is reproduction considered an essential characteristic for living things?",
+"a": ["It helps an individual animal grow bigger", "It provides energy for daily activities", "It removes poisonous waste products", "It ensures the continuity and survival of a species"],
+"correct": 3
+},
+{
+"q": "Which term describes animals that eat both plant and animal matter?",
+"a": ["Omnivores", "Herbivores", "Carnivores", "Parasites"],
+"correct": 0
+},
+{
+"q": "What is the basic structural and functional unit of all living organisms?",
+"a": ["Tissue", "Cell", "Organ", "System"],
+"correct": 1
+},
+{
+"q": "Which group of living organisms feeds on dead and decaying organic matter, helping to recycle nutrients?",
+"a": ["Producers", "Herbivores", "Decomposers", "Carnivores"],
+"correct": 2
+},
+{
+"q": "What is the primary source of energy for almost all living things on Earth?",
+"a": ["Geothermal heat", "Chemical energy from rocks", "Wind power", "The Sun"],
+"correct": 3
+},
+{
+"q": "Which of the following is a characteristic feature of plants that distinguishes them from most animals?",
+"a": ["They can manufacture their own food through photosynthesis", "They lack cellular structure", "They move actively from place to place in search of food", "They do not respire"],
+"correct": 0
+},
+{
+"q": "What is the term for a group of similar cells working together to perform a specific function?",
+"a": ["Organ", "Tissue", "System", "Organism"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of an invertebrate animal?",
+"a": ["Tilapia fish", "Domestic cat", "Grasshopper", "Human being"],
+"correct": 2
+},
+{
+"q": "What type of respiration requires oxygen to break down food molecules to release energy?",
+"a": ["Anaerobic respiration", "Fermentation", "Photosynthetic respiration", "Aerobic respiration"],
+"correct": 3
+},
+{
+"q": "Which term describes the interrelationship between living organisms and their physical environment?",
+"a": ["Ecology", "Anatomy", "Physics", "Astronomy"],
+"correct": 0
+},
+{
+"q": "Which of the following is a vertebrate animal commonly found in aquatic environments?",
+"a": ["Crab", "Tilapia", "Snail", "Earthworm"],
+"correct": 1
+},
+{
+"q": "What is the main function of the respiratory system in living animals?",
+"a": ["To pump blood across tissues", "To digest complex proteins", "To exchange gases by taking in oxygen and releasing carbon dioxide", "To coordinate body movements"],
+"correct": 2
+},
+{
+"q": "Which of the following organisms reproduces primarily by binary fission or spore formation rather than seeds?",
+"a": ["Maize plant", "Mango tree", "Bean plant", "Bacteria / Fungi"],
+"correct": 3
+},
+{
+"q": "What do we call animals that feed exclusively on other animals?",
+"a": ["Carnivores", "Herbivores", "Omnivores", "Producers"],
+"correct": 0
+},
+{
+"q": "Which process describes the release of energy from food within the cells of living things?",
+"a": ["Digestion", "Respiration", "Excretion", "Transpiration"],
+"correct": 1
+},
+{
+"q": "What is the protective outer covering of a woody plant stem or tree trunk called?",
+"a": ["Cuticle", "Leaf blade", "Bark", "Root hair"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of a biotic factor in an ecosystem?",
+"a": ["Temperature", "Rainfall", "Soil pH", "Green plants"],
+"correct": 3
+},
+{
+"q": "What term is used to describe the variety of all living things in a particular habitat or region?",
+"a": ["Biodiversity", "Topography", "Atmosphere", "Lithosphere"],
+"correct": 0
+},
+{
+"q": "Which organ in flowering plants is primarily responsible for absorbing water and mineral salts from the soil?",
+"a": ["Leaf", "Root", "Flower", "Stem"],
+"correct": 1
+},
+{
+"q": "What is the term for a community of living organisms interacting with one another and with their non-living environment?",
+"a": ["Population", "Species", "Ecosystem", "Niche"],
+"correct": 2
+},
+{
+"q": "Which of the following best defines a habitat?",
+"a": ["The chemical makeup of a rock", "The internal organ system of an insect", "The speed at which an animal runs", "The natural home or environment where an organism lives"],
+"correct": 3
+},
+{
+"q": "Which of the following features helps amphibians like frogs survive both in water and on land?",
+"a": ["Moist skin and lungs/gills", "Hard feathers and wings", "Dry scales and thick shells", "A rigid exoskeleton"],
+"correct": 0
+},
+{
+"q": "What is the primary role of decomposers such as fungi and bacteria in nature?",
+"a": ["To produce oxygen for animals", "To break down dead organic matter and recycle nutrients", "To compete with plants for sunlight", "To cause diseases in healthy crops"],
+"correct": 1
+},
+{
+"q": "Which of the following represents the correct sequence in a simple food chain?",
+"a": ["Hawk -> Snake -> Frog -> Grasshopper -> Grass", "Grass -> Hawk -> Snake -> Frog -> Grasshopper", "Grass -> Grasshopper -> Frog -> Snake -> Hawk", "Snake -> Grass -> Frog -> Grasshopper -> Hawk"],
+"correct": 2
+},
+{
+"q": "Why do plants bend toward a window receiving sunlight?",
+"a": ["To escape from cold drafts", "To search for underground water", "To avoid insect predators", "To capture maximum light for photosynthesis (phototropism)"],
+"correct": 3
+},
+{
+"q": "Which of the following is an example of a behavioral adaptation in animals to avoid harsh weather?",
+"a": ["Migration", "Growing thick fur", "Developing a hard shell", "Changing skin color permanently"],
+"correct": 0
+},
+{
+"q": "What is the term for plants that complete their life cycle in one growing season?",
+"a": ["Perennials", "Annuals", "Biennials", "Evergreens"],
+"correct": 1
+},
+{
+"q": "Which of the following gases is absorbed by plants from the atmosphere during photosynthesis?",
+"a": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "What is the primary function of flowers in flowering plants?",
+"a": ["To anchor the plant securely in the soil", "To absorb mineral salts", "To manufacture food via sunlight", "To facilitate sexual reproduction through pollination and seed formation"],
+"correct": 3
+},
+{
+"q": "Which of the following animals is classified as a mammal?",
+"a": ["Bat", "Tilapia", "Lizard", "Pigeon"],
+"correct": 0
+},
+{
+"q": "What process do plants use to lose excess water vapor through their stomata?",
+"a": ["Photosynthesis", "Transpiration", "Respiration", "Germination"],
+"correct": 1
+},
+{
+"q": "Which part of a seed develops into the root system of a new plant during germination?",
+"a": ["Plumule", "Cotyledon", "Radicle", "Testa"],
+"correct": 2
+},
+{
+"q": "What term describes a relationship between two different organisms where both organisms benefit mutually?",
+"a": ["Parasitism", "Predation", "Competition", "Symbiosis (Mutualism)"],
+"correct": 3
+}
+]
+}

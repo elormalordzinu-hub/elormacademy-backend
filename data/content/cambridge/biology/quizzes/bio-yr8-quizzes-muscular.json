@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-muscular",
+"name": "Muscular system and movement",
+"questions": [
+{
+"q": "What is the main function of the muscular system?",
+"a": ["To pump blood across tissues", "To enable movement of the body and internal organs", "To filter liquid waste from the bloodstream", "To provide a rigid frame for mineral storage"],
+"correct": 1
+},
+{
+"q": "Which type of muscle is attached to bones and causes voluntary movement?",
+"a": ["Smooth muscle", "Cardiac muscle", "Skeletal muscle", "Involuntary muscle"],
+"correct": 2
+},
+{
+"q": "Which muscle type forms the walls of the heart and beats rhythmically without conscious control?",
+"a": ["Cardiac muscle", "Skeletal muscle", "Smooth muscle", "Striated muscle"],
+"correct": 0
+},
+{
+"q": "Where in the human body would you typically find smooth muscle tissue?",
+"a": ["Attached to the leg bones", "In the walls of the digestive tract and blood vessels", "Exclusively inside the muscular walls of the heart", "Only supporting the skull structure"],
+"correct": 1
+},
+{
+"q": "How do skeletal muscles typically attach to bones across a joint?",
+"a": ["Directly via epithelial layers", "Through flexible bands called tendons", "Using rigid cartilage links", "Through fluid-filled joint capsules"],
+"correct": 1
+},
+{
+"q": "What term describes a pair of muscles that work together to pull a bone in opposite directions?",
+"a": ["Synergistic pair", "Parallel pair", "Antagonistic pair", "Balanced pair"],
+"correct": 2
+},
+{
+"q": "When an antagonistic muscle pair operates, what happens when the prime mover (agonist) contracts?",
+"a": ["The opposing muscle (antagonist) relaxes and is stretched", "Both muscles contract with identical force simultaneously", "The opposing muscle locks into a rigid fixed state", "Both muscles completely dissolve their protein fibers"],
+"correct": 0
+},
+{
+"q": "Which muscle in the upper arm contracts to bend (flex) the elbow joint?",
+"a": ["Triceps", "Biceps", "Deltoid", "Pectoral"],
+"correct": 1
+},
+{
+"q": "Which muscle in the upper arm contracts to straighten (extend) the elbow joint?",
+"a": ["Biceps", "Triceps", "Pronator", "Supinator"],
+"correct": 1
+},
+{
+"q": "What cellular process do muscle cells rely heavily on to release the energy needed for contraction?",
+"a": ["Photosynthesis", "Aerobic respiration", "Transpiration", "Osmosis"],
+"correct": 1
+},
+{
+"q": "Which chemical substance builds up in muscle cells during rigorous exercise when oxygen supply becomes limited?",
+"a": ["Lactic acid", "Glucose", "Sodium chloride", "Calcium carbonate"],
+"correct": 0
+},
+{
+"q": "Why do muscles require an increased supply of blood during intense physical activity?",
+"a": ["To cool down internal body temperature instantly", "To deliver extra oxygen and glucose while removing carbon dioxide", "To fill the joints with excess synovial fluid", "To replace lost bone minerals"],
+"correct": 1
+},
+{
+"q": "What physical change occurs within a muscle cell when it contracts?",
+"a": ["It lengthens and becomes thinner", "It shortens and thickens", "It splits into two separate cells", "It hardens permanently into bone"],
+"correct": 1
+},
+{
+"q": "Which of the following actions is classified as an involuntary movement controlled by smooth or cardiac muscle?",
+"a": ["Kicking a football across a pitch", "Blinking your eyes intentionally", "The peristaltic movement of food through the gut", "Writing your name with a pen"],
+"correct": 2
+},
+{
+"q": "What is the role of nervous impulses in initiating muscle movement?",
+"a": ["They provide the physical heat required for sliding", "They send electrical signals from the central nervous system telling muscle fibers to contract", "They physically glue the muscle tissue to the adjacent bone", "They dissolve connective tissue to allow sliding"],
+"correct": 1
+},
+{
+"q": "Which of these describes skeletal muscle appearance under a microscope?",
+"a": ["Smooth and spindle-shaped with a single nucleus", "Striated (striped) with many nuclei", "Branched cells connected by intercalated discs", "Short cylindrical blocks with no striations"],
+"correct": 1
+},
+{
+"q": "What happens to the triceps muscle while the biceps muscle is contracting to bend the arm?",
+"a": ["It contracts tightly alongside the biceps", "It relaxes and lengthens", "It detaches from the scapula", "It stores extra glycogen"],
+"correct": 1
+},
+{
+"q": "Which term refers to the continuous, partial contraction of muscles that helps maintain posture?",
+"a": ["Muscle fatigue", "Muscle tone", "Muscle hypertrophy", "Muscle atrophy"],
+"correct": 1
+},
+{
+"q": "What condition occurs in muscles after prolonged, strenuous exercise due to oxygen debt and waste accumulation?",
+"a": ["Muscle fatigue", "Ligament tear", "Joint dislocation", "Bone fracture"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of a voluntary muscle action?",
+"a": ["The beating of the heart chambers", "The movement of food down the esophagus", "Lifting a school bag off the floor", "The constriction of blood vessels"],
+"correct": 2
+},
+{
+"q": "Which protein filaments slide past each other inside muscle cells to cause shortening?",
+"a": ["Actin and myosin", "Collagen and elastin", "Keratin and fibrin", "Insulin and hemoglobin"],
+"correct": 0
+},
+{
+"q": "What is the primary energy currency that muscle cells use to power contraction?",
+"a": ["ATP (Adenosine triphosphate)", "DNA", "Starch", "Cellulose"],
+"correct": 0
+},
+{
+"q": "Why can skeletal muscles only pull on bones and never push?",
+"a": ["Because muscle fibers can actively generate pulling force by contracting, but cannot push outward", "Because tendons wrap around bones in a one-way loop", "Because gravity prevents any upward pushing force", "Because bones block any movement in the opposite direction"],
+"correct": 0
+},
+{
+"q": "Which lifestyle habit promotes healthy muscular system development and strength?",
+"a": ["Regular physical exercise and a balanced diet containing protein", "A completely sedentary lifestyle with zero physical exertion", "Avoiding all forms of carbohydrate consumption", "Eliminating water intake during physical activity"],
+"correct": 0
+},
+{
+"q": "What is muscle atrophy?",
+"a": ["The increase in muscle size due to heavy weightlifting", "The wasting away or decrease in muscle mass due to lack of use or disease", "The sudden involuntary spasm of muscle fibers", "The permanent binding of tendons to bones"],
+"correct": 1
+},
+{
+"q": "What is muscle hypertrophy?",
+"a": ["The shrinking of muscle cells from starvation", "The enlargement of muscle fibers resulting from strength training and exercise", "The inflammation of synovial joint capsules", "The complete loss of nervous control over limbs"],
+"correct": 1
+},
+{
+"q": "Which organ system works directly with the muscular system to coordinate precise movements via electrical signals?",
+"a": ["The digestive system", "The nervous system", "The respiratory system", "The excretory system"],
+"correct": 1
+},
+{
+"q": "Which feature is unique to cardiac muscle tissue compared to skeletal muscle?",
+"a": ["It is under conscious, voluntary control", "Its cells are branched and interconnected to pass impulses quickly", "It tires very easily and requires long rest periods", "It lacks any visible striations under a microscope"],
+"correct": 1
+},
+{
+"q": "Which blood vessel type supplies oxygenated blood directly to active muscle tissues?",
+"a": ["Capillaries", "Vena cava", "Pulmonary artery", "Lymph vessels"],
+"correct": 0
+},
+{
+"q": "What waste gas produced by cellular respiration must be removed from working muscles?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "Which of the following muscles is primarily responsible for breathing movements by changing chest cavity volume?",
+"a": ["The biceps brachii", "The diaphragm", "The gastrocnemius", "The quadriceps"],
+"correct": 1
+},
+{
+"q": "What type of joint do antagonistic muscles act across to produce angular limb movement?",
+"a": ["Fixed (immovable) joints", "Movable joints like hinge or ball-and-socket joints", "Sutures inside the skull", "Fused pelvic plates"],
+"correct": 1
+},
+{
+"q": "How does regular aerobic exercise affect the efficiency of the muscular and circulatory systems?",
+"a": ["It decreases heart size and lowers overall fitness", "It increases the density of capillaries around muscle fibers for better oxygen delivery", "It causes muscles to turn into rigid bone tissue", "It stops the production of lactic acid entirely forever"],
+"correct": 1
+},
+{
+"q": "What happens to a muscle when it experiences a cramp?",
+"a": ["It relaxes permanently and loses all tone", "It undergoes a painful, involuntary, sustained contraction", "It detaches from the supporting tendon", "It liquefies its internal protein structure"],
+"correct": 1
+},
+{
+"q": "Which muscle group at the front of the thigh straightens the knee joint?",
+"a": ["Hamstrings", "Quadriceps", "Gastrocnemius", "Gluteals"],
+"correct": 1
+},
+{
+"q": "Which muscle group at the back of the thigh bends the knee joint?",
+"a": ["Quadriceps", "Hamstrings", "Biceps brachii", "Abdominals"],
+"correct": 1
+},
+{
+"q": "Why are smooth muscles described as 'non-striated'?",
+"a": ["They appear smooth and uniform under a microscope because their contractile fibers are not arranged in regular alternating bands", "They feel smooth to the touch under the skin", "They do not connect to bones", "They only contract in smooth, circular motions"],
+"correct": 0
+},
+{
+"q": "Which pigment inside muscle cells stores oxygen temporarily to assist during contraction?",
+"a": ["Hemoglobin", "Myoglobin", "Chlorophyll", "Melanin"],
+"correct": 1
+},
+{
+"q": "What is the primary function of the pectoral muscles in the chest region?",
+"a": ["To move and control the upper arm movements", "To pump blood through the aortic valve", "To grind food particles in the upper GI tract", "To filter urea from blood plasma"],
+"correct": 0
+},
+{
+"q": "If a person's motor nerve leading to a specific skeletal muscle is severed, what immediate effect will occur?",
+"a": ["The muscle will contract continuously without stopping", "The muscle will no longer be able to receive signals to contract voluntarily", "The muscle will instantly convert into cardiac tissue", "The attached bone will dissolve"],
+"correct": 1
+}
+]
+}

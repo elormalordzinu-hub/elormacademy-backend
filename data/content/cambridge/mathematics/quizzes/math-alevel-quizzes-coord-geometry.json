@@ -1,0 +1,206 @@
+{
+"id": "math-alevel-quizzes-coord-geometry",
+"name": "Coordinate geometry circles and tangents",
+"questions": [
+{
+"q": "What is the center of the circle given by the equation (x - 3)<sup>2</sup> + (y + 4)<sup>2</sup> = 25?",
+"a": ["(3, -4)", "(-3, 4)", "(3, 4)", "(-3, -4)"],
+"correct": 0
+},
+{
+"q": "What is the radius of the circle given by x<sup>2</sup> + y<sup>2</sup> - 6x + 8y - 11 = 0?",
+"a": ["4", "6", "5", "36"],
+"correct": 1
+},
+{
+"q": "Find the equation of a circle with center (0, 0) passing through the point (3, 4).",
+"a": ["x<sup>2</sup> + y<sup>2</sup> = 9", "x<sup>2</sup> + y<sup>2</sup> = 16", "x<sup>2</sup> + y<sup>2</sup> = 25", "x<sup>2</sup> + y<sup>2</sup> = 49"],
+"correct": 2
+},
+{
+"q": "What is the gradient of the radius joining the center (1, 2) to the point on the circle (4, 6)?",
+"a": ["3 / 4", "4 / 3", "1", "4 / 3"],
+"correct": 3
+},
+{
+"q": "What is the gradient of the tangent to the circle at the point (4, 6) if the radius gradient is 4/3?",
+"a": ["-3 / 4", "3 / 4", "-4 / 3", "4 / 3"],
+"correct": 0
+},
+{
+"q": "Determine whether the point (5, 2) lies inside, on, or outside the circle x<sup>2</sup> + y<sup>2</sup> = 25.",
+"a": ["Inside", "On the circle", "Outside", "Cannot be determined"],
+"correct": 1
+},
+{
+"q": "Find the midpoint of the chord joining (1, 7) and (5, 3) on a circle.",
+"a": ["(3, 3)", "(-2, 2)", "(3, 5)", "(2, 5)"],
+"correct": 2
+},
+{
+"q": "What is the general second-degree equation for a circle in the Cartesian plane?",
+"a": ["x<sup>2</sup> - y<sup>2</sup> + 2gx + 2fy + c = 0", "Ax<sup>2</sup> + By<sup>2</sup> = r<sup>2</sup>", "x<sup>2</sup> + y<sup>2</sup> + xy + gx + fy + c = 0", "x<sup>2</sup> + y<sup>2</sup> + 2gx + 2fy + c = 0 with coefficient of x<sup>2</sup> equal to y<sup>2</sup>"],
+"correct": 3
+},
+{
+"q": "Find the center of the circle x<sup>2</sup> + y<sup>2</sup> + 4x - 10y + 13 = 0.",
+"a": ["(-2, 5)", "(2, -5)", "(-2, -5)", "(2, 5)"],
+"correct": 0
+},
+{
+"q": "What is the length of the tangent drawn from an external point to a circle, given the distance from the center is 10 and the circle radius is 6?",
+"a": ["16", "8", "sqrt(136)", "4"],
+"correct": 1
+},
+{
+"q": "At what point does the circle x<sup>2</sup> + y<sup>2</sup> = 25 intersect the positive x-axis?",
+"a": ["(0, 5)", "(5, 0)", "(5, 5)", "(0, 0)"],
+"correct": 2
+},
+{
+"q": "If a line y = mx + c is a tangent to the circle x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>, what condition must the discriminant of the resulting quadratic equation satisfy?",
+"a": ["Discriminant > 0", "Discriminant < 0", "Discriminant not equal to 0", "Discriminant = 0"],
+"correct": 3
+},
+{
+"q": "Find the equation of the tangent to the circle x<sup>2</sup> + y<sup>2</sup> = 25 at the point (3, 4).",
+"a": ["3x + 4y = 25", "4x + 3y = 25", "3x - 4y = 25", "y = -(3/4)x + 25"],
+"correct": 0
+},
+{
+"q": "What is the radius of the circle x<sup>2</sup> + y<sup>2</sup> + 10x - 2y + 10 = 0?",
+"a": ["3", "4", "5", "16"],
+"correct": 1
+},
+{
+"q": "Two circles touch externally. The distance between their centers is equal to:",
+"a": ["The difference of their radii", "Zero", "The sum of their radii", "The product of their radii"],
+"correct": 2
+},
+{
+"q": "Which property is always true for a tangent to a circle at any given point on its circumference?",
+"a": ["It is parallel to the diameter", "It passes through the center", "It bisects the circle", "It is perpendicular to the radius at that point"],
+"correct": 3
+},
+{
+"q": "Find the distance between the centers of circles (x - 1)<sup>2</sup> + (y - 2)<sup>2</sup> = 9 and (x - 4)<sup>2</sup> + (y - 6)<sup>2</sup> = 16.",
+"a": ["5", "7", "1", "25"],
+"correct": 0
+},
+{
+"q": "Does the line y = 2x + 1 intersect the circle x<sup>2</sup> + y<sup>2</sup> = 4? Test by substitution.",
+"a": ["Intersects twice", "Does not intersect", "Is a tangent", "Passes through the center"],
+"correct": 1
+},
+{
+"q": "Find the equation of the circle with diameter endpoints at (-1, 2) and (5, 6).",
+"a": ["(x - 2)<sup>2</sup> + (y - 4)<sup>2</sup> = 13", "x<sup>2</sup> + y<sup>2</sup> - 4x - 8y + 11 = 0", "(x - 2)<sup>2</sup> + (y - 4)<sup>2</sup> = 13", "(x - 2)<sup>2</sup> + (y - 4)<sup>2</sup> = 52"],
+"correct": 2
+},
+{
+"q": "What is the y-intercept of the tangent to x<sup>2</sup> + y<sup>2</sup> = 25 at (3, 4)?",
+"a": ["6.25", "5", "4", "25 / 4"],
+"correct": 3
+},
+{
+"q": "Find the x-intercept of the tangent line 3x + 4y = 25.",
+"a": ["25 / 3", "25 / 4", "6", "8"],
+"correct": 0
+},
+{
+"q": "What is the area of the circle given by (x + 2)<sup>2</sup> + (y - 3)<sup>2</sup> = 49?",
+"a": ["7 pi", "49 pi", "14 pi", "98 pi"],
+"correct": 1
+},
+{
+"q": "Find the equation of the circle concentric with x<sup>2</sup> + y<sup>2</sup> - 4x + 6y = 0 and passing through the origin (0,0).",
+"a": ["(x - 2)<sup>2</sup> + (y + 3)<sup>2</sup> = 9", "x<sup>2</sup> + y<sup>2</sup> - 4x + 6y = 13", "x<sup>2</sup> + y<sup>2</sup> - 4x + 6y = 0", "(x + 2)<sup>2</sup> + (y - 3)<sup>2</sup> = 13"],
+"correct": 2
+},
+{
+"q": "If the equation of a circle is x<sup>2</sup> + y<sup>2</sup> + 2gx + 2fy + c = 0, what is the formula for its radius r?",
+"a": ["g<sup>2</sup> + f<sup>2</sup> - c", "sqrt(g + f - c)", "g<sup>2</sup> + f<sup>2</sup> + c", "sqrt(g<sup>2</sup> + f<sup>2</sup> - c)"],
+"correct": 3
+},
+{
+"q": "Find the length of the chord cut off by the line y = 0 from the circle x<sup>2</sup> + y<sup>2</sup> - 6x - 8 = 0.",
+"a": ["10", "6", "8", "4"],
+"correct": 0
+},
+{
+"q": "What is the acute angle between the tangent at point P on a circle and the line connecting P to the center?",
+"a": ["45 degrees", "90 degrees", "180 degrees", "0 degrees"],
+"correct": 1
+},
+{
+"q": "If a circle passes through the origin and has center (3, 4), what is its equation?",
+"a": ["(x - 3)<sup>2</sup> + (y - 4)<sup>2</sup> = 5", "x<sup>2</sup> + y<sup>2</sup> = 25", "(x - 3)<sup>2</sup> + (y - 4)<sup>2</sup> = 25", "x<sup>2</sup> + y<sup>2</sup> = 5"],
+"correct": 2
+},
+{
+"q": "What is the perpendicular distance from the center (0, 0) to the tangent line 3x + 4y - 15 = 0?",
+"a": ["5", "15", "3", "3"],
+"correct": 3
+},
+{
+"q": "Find the coordinates where the circle x<sup>2</sup> + y<sup>2</sup> = 25 intersects the line y = x.",
+"a": ["(5/sqrt(2), 5/sqrt(2)) and (-5/sqrt(2), -5/sqrt(2))", "(3, 3) and (-3, -3)", "(5, 5) and (-5, -5)", "(0, 0) and (5, 5)"],
+"correct": 0
+},
+{
+"q": "What is the gradient of the normal to the circle at point (x1, y1) with center (0, 0)?",
+"a": ["-x1 / y1", "y1 / x1", "-y1 / x1", "x1 / y1"],
+"correct": 1
+},
+{
+"q": "If the center of a circle is (-2, 3) and it touches the x-axis, what is its equation?",
+"a": ["(x + 2)<sup>2</sup> + (y - 3)<sup>2</sup> = 4", "(x + 2)<sup>2</sup> + (y - 3)<sup>2</sup> = 25", "(x + 2)<sup>2</sup> + (y - 3)<sup>2</sup> = 9", "x<sup>2</sup> + y<sup>2</sup> - 4x + 6y = 0"],
+"correct": 2
+},
+{
+"q": "Which of the following points lies on the circle (x - 1)<sup>2</sup> + (y - 2)<sup>2</sup> = 25?",
+"a": ["(4, 6)", "(1, 7)", "(-3, 2)", "(5, 5)"],
+"correct": 3
+},
+{
+"q": "Find the value of k if the circle x<sup>2</sup> + y<sup>2</sup> - 8x + 2y + k = 0 has a radius of 5.",
+"a": ["-8", "8", "0", "-16"],
+"correct": 0
+},
+{
+"q": "What is the maximum distance of any point on the circle x<sup>2</sup> + y<sup>2</sup> - 6x - 8y = 0 from the origin?",
+"a": ["5", "10", "15", "sqrt(10)"],
+"correct": 1
+},
+{
+"q": "Find the equation of the normal to the circle x<sup>2</sup> + y<sup>2</sup> = 25 at the point (3, 4).",
+"a": ["3x + 4y = 0", "y = -(4/3)x", "4x - 3y = 0", "y = (4/3)x"],
+"correct": 2
+},
+{
+"q": "If two circles touch internally, the distance between their centers is equal to:",
+"a": ["The sum of their radii", "Zero", "The product of their radii", "The difference of their radii"],
+"correct": 3
+},
+{
+"q": "Find the point of intersection of tangents drawn at extremities of diameter x<sup>2</sup> + y<sup>2</sup> = r<sup>2</sup>. If tangents are drawn at (r, 0) and (-r, 0), what are they?",
+"a": ["x = r and x = -r", "y = r and y = -r", "x + y = r", "x = 0"],
+"correct": 0
+},
+{
+"q": "What is the center of the circle represented by x<sup>2</sup> + y<sup>2</sup> = 10x?",
+"a": ["(0, 0)", "(5, 0)", "(-5, 0)", "(0, 5)"],
+"correct": 1
+},
+{
+"q": "What is the radius of the circle x<sup>2</sup> + y<sup>2</sup> = 10x?",
+"a": ["10", "25", "5", "sqrt(10)"],
+"correct": 2
+},
+{
+"q": "Find the length of the tangent from the point (7, 1) to the circle x<sup>2</sup> + y<sup>2</sup> = 25.",
+"a": ["sqrt(25)", "7", "1", "sqrt(25) = 5"],
+"correct": 3
+}
+]
+}

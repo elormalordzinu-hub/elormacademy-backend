@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-structure",
+  "name": "Structure of the atom and atomic number",
+  "questions": [
+    {
+      "q": "What subatomic particle is located in the nucleus and possesses a positive charge?",
+      "a": ["Proton", "Electron", "Neutron", "Positron"],
+      "correct": 0
+    },
+    {
+      "q": "Which subatomic particle has no electrical charge and resides inside the atomic nucleus?",
+      "a": ["Proton", "Neutron", "Electron", "Photon"],
+      "correct": 1
+    },
+    {
+      "q": "What is the relative mass of an electron compared to a proton?",
+      "a": ["Equal mass", "Twice as heavy", "Very small / negligible", "Heavier than a neutron"],
+      "correct": 2
+    },
+    {
+      "q": "Where are the electrons found within the structure of an atom?",
+      "a": ["Inside the nucleus", "At the very center", "Stuck to neutrons", "Orbiting the nucleus in shells"],
+      "correct": 3
+    },
+    {
+      "q": "What does the atomic number of an element specifically indicate?",
+      "a": ["The number of protons in its nucleus", "The total number of neutrons and electrons", "The mass of the atom", "The number of electron shells"],
+      "correct": 0
+    },
+    {
+      "q": "How is the mass number of an atom determined?",
+      "a": ["Number of electrons minus protons", "Total sum of protons and neutrons", "Number of electron shells multiplied by two", "Total count of all subatomic particles"],
+      "correct": 1
+    },
+    {
+      "q": "If an atom has 7 protons, 7 neutrons, and 7 electrons, what is its mass number?",
+      "a": ["7", "21", "14", "0"],
+      "correct": 2
+    },
+    {
+      "q": "Why do standard neutral atoms have an overall electrical charge of zero?",
+      "a": ["They contain no charged particles", "They have more electrons than protons", "They have more neutrons than protons", "They have an equal number of protons and electrons"],
+      "correct": 3
+    },
+    {
+      "q": "What is the maximum number of electrons that can fit into the first (innermost) shell?",
+      "a": ["2 electrons", "8 electrons", "18 electrons", "32 electrons"],
+      "correct": 0
+    },
+    {
+      "q": "What is the maximum number of electrons stable in the second shell of a lower secondary atom model?",
+      "a": ["2 electrons", "8 electrons", "4 electrons", "10 electrons"],
+      "correct": 1
+    },
+    {
+      "q": "What is the electronic configuration of a neutral aluminium atom, which has 13 electrons?",
+      "a": ["2, 10, 1", "2, 9, 2", "2, 8, 3", "8, 3, 2"],
+      "correct": 2
+    },
+    {
+      "q": "What term defines atoms of the same element that share the same proton number but have different neutron numbers?",
+      "a": ["Allotropes", "Isomers", "Ions", "Isotopes"],
+      "correct": 3
+    },
+    {
+      "q": "Which subatomic particle carries a negative electrical charge?",
+      "a": ["Electron", "Proton", "Neutron", "Nucleon"],
+      "correct": 0
+    },
+    {
+      "q": "Which part of the atom contains the vast majority of its total mass?",
+      "a": ["The electron cloud", "The nucleus", "The outer shells", "The empty space"],
+      "correct": 1
+    },
+    {
+      "q": "An atom has an atomic number of 15 and a mass number of 31. How many neutrons does it contain?",
+      "a": ["15", "46", "16", "31"],
+      "correct": 2
+    },
+    {
+      "q": "What does the group number on the periodic table tell us about the atoms of elements in that group?",
+      "a": ["The total number of electron shells", "The total number of protons", "The atomic mass", "The number of electrons in the outer shell"],
+      "correct": 3
+    },
+    {
+      "q": "What is the charge of a single proton?",
+      "a": ["+1", "-1", "0", "+2"],
+      "correct": 0
+    },
+    {
+      "q": "What is the charge of a single electron?",
+      "a": ["+1", "-1", "0", "-2"],
+      "correct": 1
+    },
+    {
+      "q": "Which particle has a relative mass of approximately 1 atomic mass unit and a neutral charge?",
+      "a": ["Proton", "Electron", "Neutron", "Alpha particle"],
+      "correct": 2
+    },
+    {
+      "q": "What is the electronic configuration of a neutral fluorine atom, which has 9 electrons?",
+      "a": ["2, 7", "9, 0", "2, 5, 2", "2, 7"],
+      "correct": 3
+    },
+    {
+      "q": "If a neutral atom has 19 protons, what is its electronic configuration?",
+      "a": ["2, 8, 8, 1", "2, 9, 8", "18, 1", "2, 8, 9"],
+      "correct": 0
+    },
+    {
+      "q": "Which scientist discovered the nucleus using the famous gold foil experiment?",
+      "a": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "John Dalton"],
+      "correct": 1
+    },
+    {
+      "q": "What term is used for an atom or group of atoms that has gained or lost electrons, acquiring a net charge?",
+      "a": ["Isotope", "Molecule", "Ion", "Allotrope"],
+      "correct": 2
+    },
+    {
+      "q": "Why is the atomic mass on the periodic table often not a whole number?",
+      "a": ["Because electrons weigh a lot", "Because atoms are constantly changing", "Because of inaccurate measuring instruments", "Because it is an average mass calculated from the relative abundances of its natural isotopes"],
+      "correct": 3
+    },
+    {
+      "q": "What is the atomic number of carbon, which has 6 protons in its nucleus?",
+      "a": ["6", "12", "3", "8"],
+      "correct": 0
+    },
+    {
+      "q": "How many electrons does a neutral magnesium atom (atomic number 12) have in its second shell?",
+      "a": ["2", "8", "12", "6"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when a neutral atom loses one or more electrons?",
+      "a": ["An anion", "An isotope", "A positive ion (cation)", "A neutral molecule"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement best describes the modern model of an atom?",
+      "a": ["A solid, hard sphere that cannot be divided", "A positive pudding with negative electrons stuck inside", "A solar system with planets on fixed tracks", "A tiny, dense positive nucleus surrounded by moving electrons in energy levels"],
+      "correct": 3
+    },
+    {
+      "q": "What is the total number of protons and neutrons in an atom called?",
+      "a": ["Mass number", "Atomic number", "Valency", "Electron number"],
+      "correct": 0
+    },
+    {
+      "q": "If an atom has 11 protons and 12 neutrons, what is its mass number?",
+      "a": ["11", "23", "12", "1"],
+      "correct": 1
+    },
+    {
+      "q": "Which electrons are primarily involved in chemical bonding and reactions between atoms?",
+      "a": ["Inner core electrons", "Nucleus neutrons", "Valence electrons in the outermost shell", "All electrons equally"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the electrons of a non-metal atom when it forms a negative ion (anion)?",
+      "a": ["It loses all its electrons", "It loses valence electrons", "It keeps the same number of electrons", "It gains one or more electrons"],
+      "correct": 3
+    },
+    {
+      "q": "Which element has atoms containing only 1 proton and no neutrons in most of its atoms?",
+      "a": ["Hydrogen", "Helium", "Lithium", "Carbon"],
+      "correct": 0
+    },
+    {
+      "q": "What is the electronic configuration of a neutral sulfur atom (atomic number 16)?",
+      "a": ["2, 8, 4", "2, 8, 6", "2, 6, 8", "4, 8, 4"],
+      "correct": 1
+    },
+    {
+      "q": "Why is the outer shell of noble gases considered exceptionally stable and unreactive?",
+      "a": ["Because it has zero electrons", "Because it contains only one electron", "Because it is completely full (usually 2 or 8 electrons)", "Because it contains neutrons instead of electrons"],
+      "correct": 2
+    },
+    {
+      "q": "How many neutrons are found in an atom of Carbon-14, given that carbon has an atomic number of 6?",
+      "a": ["6", "14", "12", "8"],
+      "correct": 3
+    },
+    {
+      "q": "Which subatomic particles have approximately equal mass?",
+      "a": ["Protons and neutrons", "Protons and electrons", "Neutrons and electrons", "Electrons and alpha particles"],
+      "correct": 0
+    },
+    {
+      "q": "What is the net electrical charge of an ion with 11 protons and 10 electrons?",
+      "a": ["-1", "+1", "0", "+11"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes rows of the periodic table, indicating the number of electron shells an atom possesses?",
+      "a": ["Groups", "Families", "Periods", "Columns"],
+      "correct": 2
+    },
+    {
+      "q": "If an atom gains 2 electrons, what type of ion does it form?",
+      "a": ["A positive cation", "A neutral isotope", "A free radical", "A negative anion with a 2- charge"],
+      "correct": 3
+    }
+  ]
+}

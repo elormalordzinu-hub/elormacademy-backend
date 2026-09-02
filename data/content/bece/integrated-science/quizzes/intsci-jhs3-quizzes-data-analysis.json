@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-data-analysis",
+"name": "Data Analysis",
+"questions": [
+{
+"q": "What term is used to describe the systematic process of inspecting, cleaning, transforming, and modeling data to discover useful information and conclusions?",
+"a": ["Data analysis", "Data destruction", "Random guessing", "Hypothesis fabrication"],
+"correct": 0
+},
+{
+"q": "Which of the following terms refers to raw, unorganized facts and figures collected during scientific experiments or surveys?",
+"a": ["Processed conclusions", "Data", "Final theories", "Verified laws"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of organizing experimental measurements into tables and charts?",
+"a": ["To make the report look colorful", "To hide incorrect measurements", "To make patterns, trends, and relationships easier to visualize and interpret", "To increase the physical weight of the report"],
+"correct": 2
+},
+{
+"q": "Which of the following statistical measures represents the arithmetic average of a set of numerical data values?",
+"a": ["Median", "Mode", "Range", "Mean"],
+"correct": 3
+},
+{
+"q": "What name is given to the middle value in a set of data when the numbers are arranged in ascending or descending order?",
+"a": ["Median", "Mean", "Standard deviation", "Total sum"],
+"correct": 0
+},
+{
+"q": "Which statistical term describes the value that appears most frequently in a given set of data?",
+"a": ["Mean", "Mode", "Range", "Variance"],
+"correct": 1
+},
+{
+"q": "What is calculated by finding the difference between the highest and lowest values in a data set?",
+"a": ["Average", "Median value", "Range", "Percentage error"],
+"correct": 2
+},
+{
+"q": "Which type of graphical representation uses rectangular bars of equal width to compare different categories of discrete data?",
+"a": ["Line graph", "Pie chart", "Scatter plot", "Bar chart"],
+"correct": 3
+},
+{
+"q": "What type of graph is best suited for showing continuous changes in data over a period of time, such as temperature changes throughout a day?",
+"a": ["Line graph", "Bar chart", "Pie chart", "Tally table"],
+"correct": 0
+},
+{
+"q": "Which graphical tool represents data as proportional sectors of a circle, useful for showing percentages or fractions of a whole?",
+"a": ["Histogram", "Pie chart", "Line diagram", "Scatter plot"],
+"correct": 1
+},
+{
+"q": "What is the term for data that consists of numbers, measurements, and quantities that can be mathematically analyzed?",
+"a": ["Qualitative data", "Subjective opinion", "Quantitative data", "Anecdotal description"],
+"correct": 2
+},
+{
+"q": "Which of the following describes qualitative data collected during a scientific observation?",
+"a": ["The exact temperature of boiling water as 100 degrees Celsius", "The precise mass of a stone as 250 grams", "The time taken for a pendulum to swing 20 times as 15 seconds", "Descriptions of color changes, texture, or physical states observed"],
+"correct": 3
+},
+{
+"q": "What role do tally marks play when conducting a scientific survey or counting experimental occurrences?",
+"a": ["They provide a quick and organized way to count and record frequency data", "They calculate the final mean automatically", "They measure precise electrical voltage", "They act as chemical indicators"],
+"correct": 0
+},
+{
+"q": "Why is it important to repeat scientific experiments multiple times and calculate average values during data analysis?",
+"a": ["To waste laboratory chemicals", "To reduce the effect of random experimental errors and improve reliability", "To make the data table as long as possible", "To eliminate the need for any recording instruments"],
+"correct": 1
+},
+{
+"q": "What term is used to describe data points that fall completely outside the normal pattern or trend of a data set due to measurement errors?",
+"a": ["Core averages", "Median benchmarks", "Outliers", "Frequency nodes"],
+"correct": 2
+},
+{
+"q": "Which of the following practices ensures high data integrity and accuracy during scientific investigations?",
+"a": ["Guessing missing data values", "Rounding numbers randomly", "Ignoring unexpected results completely", "Recording measurements carefully with proper units and double-checking calculations"],
+"correct": 3
+},
+{
+"q": "What is the first step a student should take when analyzing data collected from an integrated science project?",
+"a": ["Data cleaning, organization, and checking for recording errors", "Publishing unverified results internationally", "Throwing away all raw data sheets", "Drawing conclusions without looking at tables"],
+"correct": 0
+},
+{
+"q": "How is the arithmetic mean of a set of numbers calculated?",
+"a": ["By multiplying all the numbers together", "By adding all the values together and dividing the sum by the total count of values", "By subtracting the smallest value from the largest", "By finding the number that appears most often"],
+"correct": 1
+},
+{
+"q": "In an experiment investigating the effect of temperature on sugar dissolution rate, what name is given to the variable that the experimenter deliberately changes (plotted on the x-axis)?",
+"a": ["Dependent variable", "Controlled variable", "Independent variable", "Extraneous constant"],
+"correct": 2
+},
+{
+"q": "What is the dependent variable in an experiment where a student measures how plant growth height changes with varying amounts of daily sunlight?",
+"a": ["The amount of daily sunlight given", "The type of soil container used", "The volume of water poured daily", "The resulting height of the plant growth"],
+"correct": 3
+},
+{
+"q": "Why must variables other than the independent and dependent variables be kept constant during a fair test experiment?",
+"a": ["To ensure that changes in the dependent variable are caused only by the independent variable", "To make the experiment take longer to complete", "To confuse other researchers reviewing the report", "To prevent the use of measuring instruments"],
+"correct": 0
+},
+{
+"q": "What is the purpose of drawing a line or curve of best fit on a scatter plot graph?",
+"a": ["To connect every single dot with jagged zig-zag lines", "To show the general trend or relationship between variables while ignoring minor random variations", "To decorate the white space on the graph paper", "To prove that all data points are identical"],
+"correct": 1
+},
+{
+"q": "If a data set contains an even number of values, how is the median determined?",
+"a": ["By taking the highest value in the set", "By calculating the mode of the entire set", "By finding the mean (average) of the two middle numbers", "By ignoring the middle numbers entirely"],
+"correct": 2
+},
+{
+"q": "Which of the following represents a valid conclusion derived from analyzing weather data showing increasing daily temperatures and decreasing rainfall over five months?",
+"a": ["Rainfall is increasing exponentially", "Temperatures have no relationship with rainfall", "The region is experiencing cooler weather conditions", "The area is experiencing a drying trend or drought conditions"],
+"correct": 3
+},
+{
+"q": "What term describes the number of times a particular data value or observation occurs in a data set?",
+"a": ["Frequency", "Amplitude", "Magnitude", "Interval"],
+"correct": 0
+},
+{
+"q": "Which of the following errors in data collection occurs consistently in the same direction due to faulty equipment or poor calibration?",
+"a": ["Random error", "Systematic error", "Human tally mistake", "Transcription anomaly"],
+"correct": 1
+},
+{
+"q": "What is the primary advantage of presenting data in a frequency distribution table before plotting a chart?",
+"a": ["It hides raw measurements", "It increases experimental time", "It summarizes large amounts of data clearly into manageable groups or classes", "It eliminates all possible errors"],
+"correct": 2
+},
+{
+"q": "Which of the following actions should a student avoid when interpreting a scientific graph?",
+"a": ["Reading axis labels and units carefully", "Checking the scale increments on both axes", "Noting the title and legend of the graph", "Assuming that correlation between two variables automatically proves direct causation without further testing"],
+"correct": 3
+},
+{
+"q": "What is the range of the following set of student test scores: 50, 65, 70, 85, 95?",
+"a": ["45", "73", "70", "95"],
+"correct": 0
+},
+{
+"q": "What is the mode of the following set of recorded seed germination counts: 4, 7, 5, 4, 6, 8, 4, 9?",
+"a": ["6", "4", "7", "5"],
+"correct": 1
+},
+{
+"q": "What is the median of the following ordered set of data values: 10, 14, 18, 22, 30?",
+"a": ["14", "22", "18", "19.4"],
+"correct": 2
+},
+{
+"q": "What is the mean of the following set of mass measurements: 10g, 20g, 30g, 40g?",
+"a": ["15g", "30g", "40g", "25g"],
+"correct": 3
+},
+{
+"q": "When plotting a line graph of scientific data, which axis conventionally represents the independent variable?",
+"a": ["Horizontal axis (x-axis)", "Vertical axis (y-axis)", "Diagonal axis", "The outer border perimeter"],
+"correct": 0
+},
+{
+"q": "Where is the dependent variable conventionally plotted on a scientific line graph?",
+"a": ["On the x-axis", "On the y-axis (vertical axis)", "In the graph title box", "Outside the grid area"],
+"correct": 1
+},
+{
+"q": "Why is it essential to include correct units of measurement in data tables and graph axes?",
+"a": ["To make the writing look artistic", "To confuse readers", "To ensure numbers have clear scientific meaning and context", "To increase the length of the report"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes interpolation when analyzing data from a graph?",
+"a": ["Guessing values far beyond the measured data range", "Measuring physical paper thickness", "Counting grid lines without numbers", "Estimating a value within the range of measured data points"],
+"correct": 3
+},
+{
+"q": "What term describes estimating a value outside the measured range of data points by extending the trend line?",
+"a": ["Extrapolation", "Interpolation", "Averaging", "Tabulation"],
+"correct": 0
+},
+{
+"q": "Which of the following is a common tool used by scientists to analyze large data sets electronically using formulas, tables, and automated charts?",
+"a": ["A wooden ruler", "Spreadsheet software (such as Microsoft Excel)", "A standard manual stopwatch", "A magnetic compass"],
+"correct": 1
+},
+{
+"q": "What does a correlation coefficient close to zero indicate between two variables in data analysis?",
+"a": ["A perfect positive straight-line relationship", "A strong inverse relationship", "Little to no linear relationship between the variables", "An extreme measurement error"],
+"correct": 2
+},
+{
+"q": "Why should scientific data analysis be objective and unbiased?",
+"a": ["To make experiments take less time", "To allow researchers to invent favorable numbers", "To ensure personal opinions override facts", "To ensure findings are accurate, credible, and reflect true experimental results"],
+"correct": 3
+}
+]
+}

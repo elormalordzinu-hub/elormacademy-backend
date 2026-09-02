@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-rates",
+"name": "Rates of reaction and collision theory",
+"questions": [
+{
+"q": "What term defines the speed at which reactants are used up or products are formed in a chemical reaction?",
+"a": ["Rate of reaction", "Activation energy", "Enthalpy change", "Equilibrium constant"],
+"correct": 0
+},
+{
+"q": "According to collision theory, what two main conditions must be met for a collision between reactant particles to be successful?",
+"a": ["Low temperature and slow speed", "Sufficient activation energy and correct collision geometry", "High pressure and neutral pH", "Equal mass and identical volume"],
+"correct": 1
+},
+{
+"q": "How does increasing the temperature of a reaction mixture affect the rate of reaction?",
+"a": ["Decreases the rate because particles move slower", "Has no effect on the rate", "Increases the rate because particles gain kinetic energy and collide more frequently and with greater energy", "Increases the rate only by changing the activation energy barrier"],
+"correct": 2
+},
+{
+"q": "Why does increasing the concentration of reactants in aqueous solution increase the rate of reaction?",
+"a": ["It lowers the temperature of the mixture", "It reduces the activation energy required", "It increases the volume of the container", "It increases the number of particles per unit volume, leading to a higher frequency of successful collisions"],
+"correct": 3
+},
+{
+"q": "How does crushing a solid reactant into a fine powder affect the rate of a chemical reaction?",
+"a": ["Increases the rate by increasing the surface area exposed for collisions", "Decreases the rate because smaller particles repel each other", "Has no effect on the rate of reaction", "Increases the rate by lowering the temperature"],
+"correct": 0
+},
+{
+"q": "What is the role of a catalyst in a chemical reaction?",
+"a": ["It is permanently consumed to form products", "It provides an alternative reaction pathway with a lower activation energy, increasing the rate without being used up", "It increases the overall enthalpy change of the reaction", "It stops unwanted side reactions completely"],
+"correct": 1
+},
+{
+"q": "Which of the following experimental methods is most suitable for measuring the rate of a reaction that produces a gas?",
+"a": ["Measuring the change in pH using universal indicator", "Weighing the total mass of the reactants before mixing", "Collecting the gas in a gas syringe or measuring mass loss over time using a balance", "Freezing the mixture and measuring solid density"],
+"correct": 2
+},
+{
+"q": "In the reaction between calcium carbonate and hydrochloric acid, which change would decrease the rate of reaction?",
+"a": ["Using powdered calcium carbonate instead of large lumps", "Increasing the concentration of hydrochloric acid", "Raising the temperature of the acid solution", "Diluting the hydrochloric acid with water"],
+"correct": 3
+},
+{
+"q": "What happens to the rate of a reaction as the reaction proceeds from start to finish?",
+"a": ["The rate decreases over time as reactant particles are used up and their concentration falls", "The rate increases constantly until an explosion occurs", "The rate remains completely constant throughout", "The rate drops to zero immediately and then rises"],
+"correct": 0
+},
+{
+"q": "Why does increasing gas pressure increase the rate of a gaseous reaction?",
+"a": ["It increases the mass of individual molecules", "It pushes gas molecules closer together, increasing the frequency of collisions", "It cools the gas down", "It removes activation energy barriers"],
+"correct": 1
+},
+{
+"q": "Which term describes the minimum energy that colliding particles must possess to react?",
+"a": ["Lattice energy", "Bond dissociation energy", "Activation energy", "Ionization energy"],
+"correct": 2
+},
+{
+"q": "In an experiment measuring the reaction between magnesium ribbon and dilute hydrochloric acid, hydrogen gas is evolved. What units are typically used to express the rate of this reaction?",
+"a": ["g/mol", "cm<sup>3</sup>", "J/g", "cm<sup>3</sup>/s"],
+"correct": 3
+},
+{
+"q": "What effect does a catalyst have on the position of chemical equilibrium in a reversible reaction?",
+"a": ["It speeds up both the forward and reverse reactions equally, so it has no effect on the equilibrium position", "It shifts the equilibrium completely to the products", "It shifts the equilibrium completely to the reactants", "It stops the reverse reaction entirely"],
+"correct": 0
+},
+{
+"q": "Which of the following factors does not affect the rate of a chemical reaction involving solids and liquids?",
+"a": ["Temperature", "Pressure of the system", "Concentration of the solution", "Surface area of the solid"],
+"correct": 1
+},
+{
+"q": "How does a Maxwell-Boltzmann distribution curve help explain the effect of temperature on reaction rate?",
+"a": ["It shows that low-energy particles disappear", "It proves that volume changes with pressure", "It shows that a higher proportion of particles possess energy equal to or greater than the activation energy at higher temperatures", "It demonstrates that catalysts change molecular mass"],
+"correct": 2
+},
+{
+"q": "When sodium thiosulfate reacts with dilute hydrochloric acid, a yellow precipitate of sulfur is formed, making the mixture cloudy. Which method is typically used to monitor this reaction rate?",
+"a": ["Measuring gas volume with a gas syringe", "Recording temperature changes with a data logger", "Weighing mass loss on a digital balance", "Timing how long it takes for a cross placed under the reaction flask to disappear from view"],
+"correct": 3
+},
+{
+"q": "Why does a lump of coal dust burn much faster and more violently than a single large lump of coal in air?",
+"a": ["Coal dust has a much larger surface area to volume ratio, exposing more particles to oxygen simultaneously", "Coal dust contains a higher percentage of pure carbon", "Coal dust absorbs moisture from the air", "Coal dust lowers the activation energy of combustion"],
+"correct": 0
+},
+{
+"q": "Which piece of apparatus is best used to measure 25.0 cm<sup>3</sup> of hydrochloric acid accurately during a rate titration experiment?",
+"a": ["Beaker", "Pipette", "Conical flask", "Test tube"],
+"correct": 1
+},
+{
+"q": "In a catalyzed reaction, what happens to the catalyst after the reaction is complete?",
+"a": ["It is completely destroyed", "It is converted into a gas", "It can be recovered chemically unchanged and retains its mass", "It turns into a different element"],
+"correct": 2
+},
+{
+"q": "How does adding a catalyst affect the activation energy of a reaction?",
+"a": ["Increases activation energy significantly", "Doubles activation energy", "Has no effect on activation energy", "Lowers activation energy by providing an alternative reaction route"],
+"correct": 3
+},
+{
+"q": "Which of the following describes the effect of lowering the temperature on a reaction?",
+"a": ["Decreases the rate because particles have less kinetic energy and collide less frequently with fewer successful impacts", "Increases the rate due to higher density", "Stops all particle motion instantly", "Has no effect on particle collisions"],
+"correct": 0
+},
+{
+"q": "What is measured on the y-axis when plotting a graph of volume of gas collected against time for a fast reaction?",
+"a": ["Time elapsed in seconds", "Total volume of gas produced in cm<sup>3</sup>", "Temperature in degrees Celsius", "Mass of the flask in grams"],
+"correct": 1
+},
+{
+"q": "Why does the gradient of a gas volume versus time curve become less steep (flatten out) as time progresses?",
+"a": ["The reaction speeds up as products accumulate", "The temperature of the room increases", "Reactants are being used up, so their concentration decreases and the reaction rate slows down", "The gas syringe becomes blocked"],
+"correct": 2
+},
+{
+"q": "Which term describes a reaction that takes place so rapidly that it releases a huge amount of energy in a confined space almost instantly?",
+"a": ["Slow weathering", "Rusting of iron", "Photosynthesis", "Explosion"],
+"correct": 3
+},
+{
+"q": "If it takes 40 seconds for 50 cm<sup>3</sup> of hydrogen gas to be produced in a reaction, what is the average rate of gas production during this interval?",
+"a": ["1.25 cm<sup>3</sup>/s", "0.80 cm<sup>3</sup>/s", "90.0 cm<sup>3</sup>/s", "2.00 cm<sup>3</sup>/s"],
+"correct": 0
+},
+{
+"q": "Which factor explains why biological catalysts (enzymes) work best at a specific optimum temperature?",
+"a": ["Higher temperatures destroy their shape (denature them), while low temperatures give particles insufficient kinetic energy", "Enzymes freeze solid at room temperature", "Enzymes turn into acids at high temperatures", "Enzymes only function in a vacuum"],
+"correct": 1
+},
+{
+"q": "What is the effect of increasing the surface area of a solid reactant on the frequency of collisions?",
+"a": ["Collisions become less frequent", "Collisions stop entirely", "Collisions occur more frequently because more surface particles are exposed", "Collisions have lower energy"],
+"correct": 2
+},
+{
+"q": "In the catalytic decomposition of hydrogen peroxide using manganese(IV) oxide, what role does the manganese(IV) oxide play?",
+"a": ["Reactant", "Inert impurity", "Product", "Catalyst"],
+"correct": 3
+},
+{
+"q": "Why does a glowing relight more brightly in pure oxygen than in air?",
+"a": ["Higher concentration of oxygen molecules increases collision frequency and combustion rate", "Air contains poisonous gases that slow down burning", "Oxygen gas is much colder than air", "Nitrogen in air acts as a catalyst"],
+"correct": 0
+},
+{
+"q": "Which of the following statements about collision theory is correct?",
+"a": ["Every collision between reactant particles results in a reaction", "Only a small fraction of total collisions are successful because most lack the necessary activation energy or geometry", "Collisions only occur when liquids are boiling", "Particle speed has no impact on collision success"],
+"correct": 1
+},
+{
+"q": "How does dilution of an acid affect the rate of its reaction with a reactive metal?",
+"a": ["Rate increases because water speeds up metal atoms", "Rate remains completely unchanged", "Rate decreases because there are fewer acid particles per unit volume, reducing collision frequency", "Rate becomes infinite"],
+"correct": 2
+},
+{
+"q": "When drawing a tangent to a curve on a graph of mass loss against time, what does the gradient of that tangent represent?",
+"a": ["Total mass lost", "Activation energy", "Final temperature", "Rate of reaction at that specific instant (instantaneous rate)"],
+"correct": 3
+},
+{
+"q": "Which condition would give the fastest initial rate of reaction between marble chips (calcium carbonate) and excess dilute hydrochloric acid?",
+"a": ["Fine calcium carbonate powder and 2.0 mol/dm<sup>3</sup> hydrochloric acid at 50 degrees Celsius", "Large marble lumps and 0.5 mol/dm<sup>3</sup> hydrochloric acid at 20 degrees Celsius", "Medium marble chips and 1.0 mol/dm<sup>3</sup> hydrochloric acid at 25 degrees Celsius", "Large marble lumps and 2.0 mol/dm<sup>3</sup> hydrochloric acid at 20 degrees Celsius"],
+"correct": 0
+},
+{
+"q": "What happens to the total mass of an open reaction flask where hydrogen gas is escaping during a reaction?",
+"a": ["Mass increases steadily", "Mass decreases as gas escapes into the room", "Mass remains constant throughout", "Mass drops to zero immediately"],
+"correct": 1
+},
+{
+"q": "Why does the rate of reaction eventually drop to zero in a closed container?",
+"a": ["The container walls become too hot", "Products start escaping into the atmosphere", "One or more reactants have been completely used up", "Catalysts evaporate"],
+"correct": 2
+},
+{
+"q": "Which of the following describes an enzyme?",
+"a": ["A synthetic plastic catalyst used in industry", "An inorganic metal oxide powder", "A radioactive isotope", "A protein molecule produced by living organisms that acts as a biological catalyst"],
+"correct": 3
+},
+{
+"q": "How does an increase in gas volume at constant temperature affect pressure and reaction rate?",
+"a": ["Increasing container volume decreases pressure, spreading particles out and decreasing collision rate", "Increasing volume increases pressure and speeds up reactions", "Volume has no effect on gas reactions", "Pressure rises when volume increases"],
+"correct": 0
+},
+{
+"q": "In industrial processes, why are catalysts used even though they can be expensive?",
+"a": ["They increase the theoretical maximum yield of products", "They allow reactions to run at lower temperatures and pressures, saving massive energy costs", "They eliminate the need for any chemical reactors", "They turn waste products into pure gold"],
+"correct": 1
+},
+{
+"q": "Which of the following sets of conditions will produce sulfur dioxide gas most rapidly when reacting excess sodium sulfite with dilute hydrochloric acid?",
+"a": ["Large crystals of sodium sulfite at 15 degrees Celsius", "Sodium sulfite solution diluted with excess water", "Concentrated hydrochloric acid and finely powdered sodium sulfite at 40 degrees Celsius", "Frozen sodium sulfite blocks"],
+"correct": 2
+},
+{
+"q": "What is the primary reason food spoils more slowly when stored in a refrigerator?",
+"a": ["Refrigerators introduce carbon dioxide gas", "Refrigerators remove all moisture", "Refrigerators block light", "Lower temperatures reduce the kinetic energy and collision frequency of spoilage bacteria and chemical reactions"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,406 @@
+{
+  "id": "phys-alevel-quizzes-induction",
+  "name": "Electromagnetic induction and AC circuits",
+  "questions": [
+    {
+      "q": "What does Faraday's law of electromagnetic induction state?",
+      "a": [
+        "The magnitude of induced emf is directly proportional to the rate of change of magnetic flux linkage",
+        "Induced emf is always in the direction opposing the change producing it",
+        "Magnetic flux is proportional to electric current",
+        "Induced current is independent of resistance"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What does Lenz's law state regarding electromagnetic induction?",
+      "a": [
+        "Induced emf creates a magnetic field that assists the original flux change",
+        "The direction of any induced current or emf is such that it opposes the change in magnetic flux that produces it",
+        "Induced charge is conserved in all closed loops",
+        "Magnetic flux always remains constant"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "How is the induced emf E expressed mathematically in terms of magnetic flux linkage Nφ and time t according to Faraday's law?",
+      "a": [
+        "E = N × (dφ / dt)²",
+        "E = -N × t / (dφ)",
+        "E = -d(Nφ) / dt",
+        "E = Nφ / t"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the induced emf E in a straight conductor of length L moving at right angles with velocity v across a uniform magnetic field of flux density B?",
+      "a": [
+        "E = B L / v",
+        "E = v / (B L)",
+        "E = B² L v",
+        "E = B L v"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is root-mean-square (rms) current I_rms related to peak (maximum) alternating current I₀?",
+      "a": [
+        "I_rms = I₀ / √2",
+        "I_rms = I₀ × √2",
+        "I_rms = I₀ / 2",
+        "I_rms = 2 I₀"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the mean power P_mean dissipated in a pure resistor of resistance R connected across an alternating voltage with rms values V_rms and I_rms?",
+      "a": [
+        "P_mean = V_rms × I_rms / 2",
+        "P_mean = V_rms × I_rms",
+        "P_mean = V_rms² / (2 R)",
+        "P_mean = 0"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the principle of operation of an ideal transformer?",
+      "a": [
+        "Direct electrical conduction between primary and secondary windings",
+        "Conversion of AC to DC via rectification",
+        "Mutual electromagnetic induction between primary and secondary coils sharing a common magnetic flux",
+        "Self-induction limiting current"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the turns ratio formula relating primary voltage Vₚ, secondary voltage Vₛ, primary turns Nₚ, and secondary turns Nₛ in an ideal transformer?",
+      "a": [
+        "Vₚ / Vₛ = Nₛ / Nₚ",
+        "Vₚ × Vₛ = Nₚ × Nₛ",
+        "Vₚ / Vₛ = Iₛ / Iₚ",
+        "Vₚ / Vₛ = Nₚ / Nₛ"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What causes eddy currents in the iron cores of transformers and AC generators?",
+      "a": [
+        "Induced circulating currents in the bulk metal core caused by changing magnetic flux, leading to thermal energy losses",
+        "High external resistance",
+        "Electrostatic charge accumulation",
+        "Quantum tunneling of electrons"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "How are eddy current power losses minimized in transformer iron cores?",
+      "a": [
+        "Using solid copper blocks",
+        "Using laminated iron cores separated by insulating varnish layers",
+        "Operating at infinite frequency",
+        "Removing the core entirely"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the reactance X_L of an inductor of inductance L connected to an AC source of frequency f (angular frequency ω)?",
+      "a": [
+        "X_L = 1 / (2 π f L)",
+        "X_L = 2 π f / L",
+        "X_L = ω L = 2 π f L",
+        "X_L = L / (2 π f)"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the phase relationship between alternating voltage and alternating current in a purely inductive AC circuit?",
+      "a": [
+        "Voltage and current are in phase",
+        "Current leads voltage by 90 degrees (π / 2 radians)",
+        "Voltage leads current by 180 degrees (π radians)",
+        "Voltage leads current by 90 degrees (π / 2 radians)"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the capacitive reactance X_C of a capacitor of capacitance C connected to an AC source of angular frequency ω?",
+      "a": [
+        "X_C = 1 / (ω C)",
+        "X_C = ω C",
+        "X_C = C / ω",
+        "X_C = ω / C"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the phase relationship between voltage and current in a purely capacitive AC circuit?",
+      "a": [
+        "Voltage and current are in phase",
+        "Current leads voltage by 90 degrees (π / 2 radians)",
+        "Voltage leads current by 90 degrees",
+        "Current lags voltage by 180 degrees"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the impedance Z of a series R-L-C circuit connected to an AC supply of angular frequency ω?",
+      "a": [
+        "Z = R + ω L + (1 / (ω C))",
+        "Z = √(R² + (ω L + ω C)²)",
+        "Z = √(R² + (ω L - 1 / (ω C))²)",
+        "Z = R - ω L - (1 / (ω C))"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What condition defines electrical resonance in a series R-L-C circuit?",
+      "a": [
+        "Inductive reactance is zero",
+        "Capacitive reactance equals total resistance",
+        "Impedance is at its maximum value",
+        "Inductive reactance equals capacitive reactance (ω L = 1 / (ω C)), making impedance equal to R and current maximum"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the resonant frequency f₀ of a series circuit containing inductance L and capacitance C?",
+      "a": [
+        "f₀ = 1 / (2 π √(L C))",
+        "f₀ = 2 π √(L C)",
+        "f₀ = √(L C) / (2 π)",
+        "f₀ = 1 / (π √(L C))"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the peak voltage V₀ of a mains AC supply whose root-mean-square voltage V_rms is 240 V?",
+      "a": [
+        "240 V",
+        "339 V (240 × √2)",
+        "120 V",
+        "480 V"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "A flat coil of 50 turns and area 0.04 m² rotates at 50 Hz in a uniform magnetic field of 0.20 T. What is the peak induced emf?",
+      "a": [
+        "12.5 V",
+        "25.0 V",
+        "25.1 V (N × B × A × ω = 50 × 0.20 × 0.04 × 2 × π × 50 = 25.1 V)",
+        "50.2 V"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why does a generator require more mechanical input power when a larger electrical current is drawn from its output terminals?",
+      "a": [
+        "Friction in bearings increases",
+        "The generator converts mechanical energy into thermal energy directly",
+        "Copper wire resistance drops to zero",
+        "Conservation of energy requires that electrical power output is matched by mechanical work overcoming opposing magnetic forces (Lenz's law)"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the mean power dissipated in a purely inductive circuit connected to an AC supply over a complete cycle?",
+      "a": [
+        "Zero",
+        "Maximum power",
+        "V_rms × I_rms",
+        "I_rms² × X_L"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the efficiency of a real transformer defined as?",
+      "a": [
+        "Ratio of primary turns to secondary turns",
+        "Ratio of output power (secondary power) to input power (primary power) expressed as a percentage",
+        "Ratio of secondary voltage to primary current",
+        "Ratio of core mass to winding mass"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "In a step-down transformer, how do the primary and secondary currents compare (assuming 100 percent efficiency)?",
+      "a": [
+        "Secondary current is less than primary current",
+        "Secondary current equals primary current",
+        "Secondary current is greater than primary current",
+        "Secondary current is zero"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What does the rotating coil in an alternating current generator produce?",
+      "a": [
+        "A constant unidirectional direct current",
+        "A square-wave voltage signal",
+        "A static magnetic field",
+        "A sinusoidally varying alternating emf"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the rms value of an alternating current whose peak value is 5.0 A?",
+      "a": [
+        "3.54 A (5.0 / √2)",
+        "5.0 A",
+        "7.07 A",
+        "2.50 A"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary cause of power loss due to magnetic flux leakage in a transformer?",
+      "a": [
+        "Core lamination imperfections",
+        "Not all magnetic flux produced by the primary coil links with the secondary coil",
+        "Resistance of the core material",
+        "High frequency oscillations"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the impedance of a series R-C circuit containing a 30-ohm resistor and a capacitive reactance of 40 ohms?",
+      "a": [
+        "70 ohms",
+        "10 ohms",
+        "50 ohms",
+        "35 ohms"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the current in an AC circuit containing an inductor when the frequency of the AC supply is increased?",
+      "a": [
+        "Current increases because inductive reactance decreases",
+        "Current remains constant",
+        "Current drops to zero immediately",
+        "Current decreases because inductive reactance increases proportionally"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the self-inductance L of a coil in which an emf of 2.0 V is induced when the current changes at a rate of 50 A s⁻¹?",
+      "a": [
+        "0.04 H (2.0 / 50)",
+        "25 H",
+        "100 H",
+        "0.40 H"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the unit of self-inductance and mutual inductance?",
+      "a": [
+        "Weber (Wb)",
+        "Henry (H)",
+        "Tesla (T)",
+        "Farad (F)"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the energy stored E in an inductor of inductance L carrying current I?",
+      "a": [
+        "E = L I",
+        "E = 0.5 L² I",
+        "E = 0.5 L I²",
+        "E = L² I² / 2"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why are step-up transformers used at power stations before electrical power transmission across long distance power lines?",
+      "a": [
+        "To increase transmission current",
+        "To reduce consumer electricity bills",
+        "To eliminate the need for copper wires",
+        "To increase voltage and correspondingly decrease current, minimizing I² R power losses in transmission cables"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the phase angle φ between voltage and current in a series R-L circuit with resistance R and inductive reactance X_L?",
+      "a": [
+        "tan(φ) = X_L / R",
+        "tan(φ) = R / X_L",
+        "cos(φ) = X_L × R",
+        "sin(φ) = R × X_L"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the quality factor (Q-factor) of a resonant R-L-C circuit a measure of?",
+      "a": [
+        "Physical weight of the circuit components",
+        "Sharpness of the resonance peak and voltage magnification across reactive components",
+        "Total power consumption",
+        "DC resistance stability"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is mutual induction defined as?",
+      "a": [
+        "Production of eddy currents inside solid metal blocks",
+        "Self-induction within a single coil",
+        "The induction of an emf in one coil due to a changing current in a neighboring coil",
+        "Conversion of AC to magnetic flux"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary function of smoothing capacitors in a rectifier power supply circuit?",
+      "a": [
+        "To increase peak AC voltage",
+        "To block all alternating current frequencies permanently",
+        "To generate magnetic flux",
+        "To store charge when rectified voltage rises and release it when voltage drops, reducing voltage ripples"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "A transformer has 1000 turns on its primary coil and 200 turns on its secondary coil. If 240 V AC is applied to the primary, what is the secondary voltage?",
+      "a": [
+        "48 V",
+        "1200 V",
+        "240 V",
+        "12 V"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the inductive reactance of a 0.50 H inductor connected to a 50 Hz AC mains supply?",
+      "a": [
+        "78.5 ohms (2 × π × 50 × 0.50)",
+        "157.1 ohms",
+        "25.0 ohms",
+        "3.14 ohms"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the capacitive reactance of a 10 microfarad capacitor connected to a 50 Hz AC supply?",
+      "a": [
+        "318.3 ohms",
+        "31.4 ohms",
+        "318.3 ohms (1 / (2 × π × 50 × 10⁻⁶))",
+        "0.00318 ohms"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the total impedance of a series R-L-C circuit at resonant frequency?",
+      "a": [
+        "Impedance reaches infinity",
+        "Impedance equals zero",
+        "Impedance equals inductive reactance minus capacitive reactance",
+        "Impedance reaches its minimum value, equal strictly to the resistance R"
+      ],
+      "correct": 3
+    }
+  ]
+}

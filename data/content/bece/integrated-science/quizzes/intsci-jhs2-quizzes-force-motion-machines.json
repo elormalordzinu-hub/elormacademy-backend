@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs2-quizzes-force-motion-machines",
+"name": "Force Motion Machines",
+"questions": [
+{
+"q": "What is defined as a push or a pull exerted on an object that can change its state of rest or uniform motion?",
+"a": ["Force", "Energy", "Power", "Pressure"],
+"correct": 0
+},
+{
+"q": "Which force opposes the relative motion between two surfaces in contact?",
+"a": ["Magnetic force", "Friction", "Gravitational force", "Electrostatic force"],
+"correct": 1
+},
+{
+"q": "What is the SI unit of force?",
+"a": ["Joule", "Watt", "Newton", "Pascal"],
+"correct": 2
+},
+{
+"q": "Which simple machine consists of a rigid bar pivoted at a fixed point called a fulcrum?",
+"a": ["Inclined plane", "Pulley", "Screw", "Lever"],
+"correct": 3
+},
+{
+"q": "What type of force pulls objects toward the center of the Earth?",
+"a": ["Gravitational force", "Frictional force", "Tension force", "Magnetic force"],
+"correct": 0
+},
+{
+"q": "Which class of lever has the fulcrum positioned between the load and the effort?",
+"a": ["Second-class lever", "First-class lever", "Third-class lever", "Zero-class lever"],
+"correct": 1
+},
+{
+"q": "What term describes the rate of change of displacement with respect to time, including direction?",
+"a": ["Speed", "Distance", "Velocity", "Acceleration"],
+"correct": 2
+},
+{
+"q": "Which of the following devices is an example of a wheel and axle machine?",
+"a": ["A seesaw", "A crowbar", "A pair of sugar tongs", "A steering wheel on a car"],
+"correct": 3
+},
+{
+"q": "What is the formula used to calculate the speed of a moving object?",
+"a": ["Speed = Distance / Time", "Speed = Time / Distance", "Speed = Force x Mass", "Speed = Work x Distance"],
+"correct": 0
+},
+{
+"q": "Which simple machine uses a grooved wheel and a rope to lift heavy loads easily?",
+"a": ["Inclined plane", "Pulley system", "Wedge", "Screw"],
+"correct": 1
+},
+{
+"q": "What name is given to a push or pull that acts on objects without physical contact, such as magnetism or gravity?",
+"a": ["Contact force", "Frictional force", "Non-contact force", "Tension force"],
+"correct": 2
+},
+{
+"q": "Which of the following everyday tools is an example of a wedge?",
+"a": ["A flag pole rope", "A door hinge", "A winding staircase", "An axe blade"],
+"correct": 3
+},
+{
+"q": "What is acceleration defined as?",
+"a": ["Rate of change of velocity with respect to time", "Total distance traveled per unit time", "Force applied divided by distance moved", "Mass multiplied by gravitational field strength"],
+"correct": 0
+},
+{
+"q": "In a second-class lever, where is the load located relative to the fulcrum and the effort?",
+"a": ["At the extreme opposite end from the fulcrum", "Between the fulcrum and the effort", "At the same position as the fulcrum", "Outside the lever arm"],
+"correct": 1
+},
+{
+"q": "What simple machine is a sloping surface used to raise heavy objects with less effort force?",
+"a": ["Pulley", "Gear", "Inclined plane", "Wheel and axle"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of a third-class lever where the effort is applied between the fulcrum and the load?",
+"a": ["Crowbar", "Wheelbarrow", "Scissors", "A pair of tweezers or forceps"],
+"correct": 3
+},
+{
+"q": "What effect does friction have on moving mechanical parts in machines?",
+"a": ["Produces heat and causes wear and tear", "Increases speed indefinitely", "Eliminates all energy losses", "Creates new mechanical energy"],
+"correct": 0
+},
+{
+"q": "What is the term for the product of an object's mass and its velocity?",
+"a": ["Potential energy", "Momentum", "Power output", "Work done"],
+"correct": 1
+},
+{
+"q": "Which method is commonly used to reduce unwanted friction in bicycle chains and engine parts?",
+"a": ["Using sandpaper", "Adding sand", "Applying lubricants like oil or grease", "Roughening the metal surfaces"],
+"correct": 2
+},
+{
+"q": "What is work defined as in physics when a force moves an object?",
+"a": ["Force divided by time", "Mass multiplied by speed", "Power multiplied by area", "Force multiplied by distance moved in the direction of the force"],
+"correct": 3
+},
+{
+"q": "What is the SI unit of work and energy?",
+"a": ["Joule", "Newton", "Watt", "Pascal"],
+"correct": 0
+},
+{
+"q": "Which simple machine is essentially an inclined plane wrapped around a cylinder?",
+"a": ["Lever", "Screw", "Pulley", "Wheel and axle"],
+"correct": 1
+},
+{
+"q": "What force keeps objects moving in a circular path by acting towards the center of the circle?",
+"a": ["Centrifugal force", "Frictional drag", "Centripetal force", "Upthrust"],
+"correct": 2
+},
+{
+"q": "Which of the following represents a balanced force situation?",
+"a": ["A car accelerating rapidly from a traffic light", "A ball falling freely toward the ground", "A runner speeding up at the start of a race", "A heavy box resting motionless on a flat floor"],
+"correct": 3
+},
+{
+"q": "What is the mechanical advantage of a simple machine?",
+"a": ["Ratio of load lifted to the effort applied", "Ratio of time taken to distance covered", "Total friction divided by total mass", "Work input divided by total temperature"],
+"correct": 0
+},
+{
+"q": "Which of the following devices uses gears to change speed and direction of rotation?",
+"a": ["A simple inclined plank", "A bicycle gear transmission system", "A standard flat lever", "A fixed rope pulley"],
+"correct": 1
+},
+{
+"q": "What happens to an object when unbalanced forces act upon it?",
+"a": ["It remains stationary forever", "It moves at constant speed in a straight line", "It accelerates or changes its direction of motion", "Its mass increases instantly"],
+"correct": 2
+},
+{
+"q": "Which of the following actions best demonstrates how to increase friction when it is needed for safety?",
+"a": ["Pouring oil on a basketball court", "Using smooth glass floors", "Riding bicycle tires with completely worn-out treads", "Grooving car tires and spreading sand on icy roads"],
+"correct": 3
+},
+{
+"q": "What is the primary purpose of using simple machines in daily tasks?",
+"a": ["To make work easier by multiplying force or changing direction", "To create free energy out of nothing", "To eliminate the need for effort entirely", "To increase the total amount of work required"],
+"correct": 0
+},
+{
+"q": "Which type of friction occurs when an object rolls over a surface, typically being much smaller than sliding friction?",
+"a": ["Static friction", "Rolling friction", "Fluid friction", "Limiting friction"],
+"correct": 1
+},
+{
+"q": "What term is used to describe the maximum distance a wave moves from its rest position?",
+"a": ["Frequency", "Wavelength", "Amplitude", "Velocity"],
+"correct": 2
+},
+{
+"q": "Which of the following represents Newton's First Law of Motion?",
+"a": ["Force equals mass times acceleration", "For every action there is an equal and opposite reaction", "Energy cannot be created or destroyed", "An object continues in its state of rest or uniform motion unless acted upon by an external force"],
+"correct": 3
+},
+{
+"q": "What is the weight of an object with a mass of 10 kg on Earth (assuming gravitational field strength g = 10 N/kg)?",
+"a": ["100 N", "1 N", "10 kg", "1000 J"],
+"correct": 0
+},
+{
+"q": "Which device is a classic example of a first-class lever used in construction?",
+"a": ["Wheelbarrow", "A crowbar used to lift a heavy stone", "Nutcracker", "Fishing rod"],
+"correct": 1
+},
+{
+"q": "What name is given to the resistance experienced by objects moving through air or water?",
+"a": ["Static drag", "Magnetic resistance", "Fluid friction or drag", "Rolling resistance"],
+"correct": 2
+},
+{
+"q": "Which physical quantity measures the quantity of matter contained in a body?",
+"a": ["Weight", "Force", "Pressure", "Mass"],
+"correct": 3
+},
+{
+"q": "What is the efficiency of a machine defined as?",
+"a": ["Ratio of useful work output to total work input expressed as a percentage", "Ratio of load to friction", "Total time multiplied by power", "Speed divided by acceleration"],
+"correct": 0
+},
+{
+"q": "Which of the following statements about mass and weight is correct?",
+"a": ["Mass changes depending on location while weight remains constant", "Mass remains constant everywhere while weight changes with gravity", "Mass and weight are identical physical quantities", "Weight is measured in kilograms while mass is measured in Newtons"],
+"correct": 1
+},
+{
+"q": "What term describes a push or pull that changes the shape or size of an object?",
+"a": ["Inertia", "Momentum", "Deforming force", "Terminal velocity"],
+"correct": 2
+},
+{
+"q": "Which simple machine is found on the cap of a soft drink bottle or a jar?",
+"a": ["Pulley", "Lever", "Wedge", "Screw"],
+"correct": 3
+}
+]
+}

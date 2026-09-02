@@ -1,0 +1,206 @@
+{
+"id": "math-jhs3-quizzes-algebraic-factorization",
+"name": "Algebraic Factorization",
+"questions": [
+{
+"q": "What is the completely factored form of the expression 4x + 8?",
+"a": ["4(x + 2)", "2(2x + 4)", "4(x + 8)", "x(4 + 8)"],
+"correct": 0
+},
+{
+"q": "Factorize completely: 5a² - 10ab",
+"a": ["5a(a - 2b)", "5(a² - 2ab)", "a(5a - 10b)", "5a(a - b)"],
+"correct": 1
+},
+{
+"q": "Which of the following is the correct factorization of the difference of two squares expression: x² - 25?",
+"a": ["(x - 5)(x - 5)", "(x + 5)(x + 5)", "(x - 5)(x + 5)", "(x - 25)(x + 1)"],
+"correct": 2
+},
+{
+"q": "Factorize the quadratic expression completely: x² + 7x + 10",
+"a": ["(x + 1)(x + 10)", "(x + 2)(x + 5)", "(x - 2)(x - 5)", "(x + 7)(x + 3)"],
+"correct": 3
+},
+{
+"q": "What is the common monomial factor of the expression 12x³y² - 18x²y³?",
+"a": ["6x²y²", "3xy", "12x³y³", "2x²y"],
+"correct": 0
+},
+{
+"q": "Factorize by grouping terms: ab + ac + bd + cd",
+"a": ["(a + b)(c + d)", "(a + c)(b + d)", "(a + d)(b + c)", "(a - b)(c - d)"],
+"correct": 1
+},
+{
+"q": "Which expression represents the complete factorization of 9y² - 16?",
+"a": ["(3y - 4)(3y - 4)", "(9y - 4)(y + 4)", "(3y - 4)(3y + 4)", "(3y - 8)(3y + 2)"],
+"correct": 2
+},
+{
+"q": "Factorize the quadratic expression: x² - 9x + 18",
+"a": ["(x - 2)(x - 9)", "(x + 3)(x + 6)", "(x + 2)(x + 9)", "(x - 3)(x - 6)"],
+"correct": 3
+},
+{
+"q": "Factorize completely: 3p²q - 6pq² + 9pq",
+"a": ["3pq(p - 2q + 3)", "3p(pq - 2q² + 3q)", "pq(3p - 6q + 9)", "3(p²q - 2pq² + 3pq)"],
+"correct": 0
+},
+{
+"q": "What are the factors of x² - 5x - 24?",
+"a": ["(x - 3)(x + 8)", "(x - 8)(x + 3)", "(x - 4)(x + 6)", "(x + 4)(x - 6)"],
+"correct": 1
+},
+{
+"q": "Factorize the expression completely: 2x² + 7x + 3",
+"a": ["(2x + 3)(x + 1)", "(2x + 1)(x + 3)", "(2x - 1)(x - 3)", "(x + 7)(2x + 1)"],
+"correct": 2
+},
+{
+"q": "Which of the following is a factor of x² - 12x + 36?",
+"a": ["(x + 6)", "(x - 12)", "(x + 3)", "(x - 6)"],
+"correct": 3
+},
+{
+"q": "Factorize by grouping: 2ax - 4ay + 3bx - 6by",
+"a": ["(2a + 3b)(x - 2y)", "(a - 2y)(2b + 3x)", "(2x - y)(a + b)", "(2a - 3b)(x + 2y)"],
+"correct": 0
+},
+{
+"q": "Express 49m² - 64n² in its fully factorized form.",
+"a": ["(7m - 8n)(7m - 8n)", "(7m - 8n)(7m + 8n)", "(7m + 8n)(7m + 8n)", "(14m - 16n)(3.5m + 4n)"],
+"correct": 1
+},
+{
+"q": "What is the complete factorization of 3x² - 14x - 5?",
+"a": ["(3x - 1)(x + 5)", "(3x + 5)(x - 1)", "(3x + 1)(x - 5)", "(3x - 5)(x + 1)"],
+"correct": 2
+},
+{
+"q": "Factorize completely: 15m³n² - 25m²n⁴",
+"a": ["5m²n²(3m - 5n²)", "5mn(3m²n - 5mn³)", "15m²n²(m - n²)", "5m²n²(3m - 5n)"],
+"correct": 3
+},
+{
+"q": "Which of the following binomials is a factor of x² + 2x - 15?",
+"a": ["(x + 5)", "(x + 3)", "(x - 5)", "(x + 15)"],
+"correct": 0
+},
+{
+"q": "Factorize completely: 4x² - 9y²",
+"a": ["(2x - 3y)(2x - 3y)", "(2x - 3y)(2x + 3y)", "(4x - 9y)(x + y)", "(2x + 3y)(2x + 3y)"],
+"correct": 1
+},
+{
+"q": "Find the factors of the quadratic expression: x² + 11x + 24",
+"a": ["(x + 2)(x + 12)", "(x + 4)(x + 6)", "(x + 3)(x + 8)", "(x + 1)(x + 24)"],
+"correct": 2
+},
+{
+"q": "Factorize completely: 6ab + 9ac - 2bd - 3cd",
+"a": ["(2b + 3c)(3a - d)", "(3a - d)(2b - 3c)", "(2b - 3c)(3a + d)", "(3a + d)(2b - 3c)"],
+"correct": 3
+},
+{
+"q": "What is the completely factored form of 5x² - 45?",
+"a": ["5(x - 3)(x + 3)", "5(x² - 9)", "(5x - 15)(x + 3)", "5(x - 3)²"],
+"correct": 0
+},
+{
+"q": "Factorize: 2x² - 5x - 12",
+"a": ["(2x - 3)(x + 4)", "(2x + 3)(x - 4)", "(2x - 4)(x + 3)", "(2x + 4)(x - 3)"],
+"correct": 1
+},
+{
+"q": "Which of the following expressions is a perfect square trinomial?",
+"a": ["x² + 6x + 9", "x² + 5x + 6", "x² - 4x - 4", "x² + 8x + 12"],
+"correct": 2
+},
+{
+"q": "Factorize completely: ax + ay - bx - by",
+"a": ["(a - b)(x - y)", "(a + b)(x - y)", "(a - b)(x + y)", "(a + b)(x + y)"],
+"correct": 3
+},
+{
+"q": "What is the common factor in the terms of 14p²q³ - 21p³q²?",
+"a": ["7p²q²", "7pq", "14p²q²", "7p³q³"],
+"correct": 0
+},
+{
+"q": "Factorize completely: x² - 14x + 49",
+"a": ["(x - 7)(x + 7)", "(x - 7)²", "(x + 7)²", "(x - 14)(x + 35)"],
+"correct": 1
+},
+{
+"q": "Find the factors of 4x² - 12x + 9",
+"a": ["(2x - 3)(2x + 3)", "(4x - 3)(x - 3)", "(2x - 3)²", "(2x + 3)²"],
+"correct": 2
+},
+{
+"q": "Factorize completely: 8x³y - 18xy³",
+"a": ["2xy(4x² - 9y²)", "2xy(2x - 3y)²", "xy(8x² - 18y²)", "2xy(2x - 3y)(2x + 3y)"],
+"correct": 3
+},
+{
+"q": "What is the result when 3x(x - 2) + 4(x - 2) is fully factorized?",
+"a": ["(3x + 4)(x - 2)", "(3x - 4)(x + 2)", "(3x + 2)(x - 4)", "3x(x - 2)(x + 4)"],
+"correct": 0
+},
+{
+"q": "Factorize completely: x² - 11x + 28",
+"a": ["(x - 2)(x - 14)", "(x - 4)(x - 7)", "(x + 4)(x + 7)", "(x - 1)(x - 28)"],
+"correct": 1
+},
+{
+"q": "Which of the following is a factor of 6x² + 13x + 6?",
+"a": ["(3x - 2)", "(2x - 3)", "(3x + 2)", "(6x + 1)"],
+"correct": 2
+},
+{
+"q": "Factorize the expression completely: p²q - q³",
+"a": ["q(p - q)(p - q)", "q(p² - q²)", "q(p - q)²", "q(p - q)(p + q)"],
+"correct": 3
+},
+{
+"q": "What is the completely factored form of 2x³ - 8x?",
+"a": ["2x(x - 2)(x + 2)", "2x(x² - 4)", "x(2x² - 8)", "2x(x - 2)²"],
+"correct": 0
+},
+{
+"q": "Factorize completely: 3x² + 10x + 8",
+"a": ["(3x + 2)(x + 4)", "(3x + 4)(x + 2)", "(3x - 2)(x - 4)", "(x + 8)(3x + 1)"],
+"correct": 1
+},
+{
+"q": "Which of the following is the correct factorization of 1 - 100y²?",
+"a": ["(1 - 10y)(1 - 10y)", "(1 + 10y)(1 + 10y)", "(1 - 10y)(1 + 10y)", "(1 - 50y)(1 + 50y)"],
+"correct": 2
+},
+{
+"q": "Factorize by grouping: xy + 5x + 3y + 15",
+"a": ["(x + 3)(y + 15)", "(x + 5)(y + 3)", "(x + 15)(y + 3)", "(x + 3)(y + 5)"],
+"correct": 3
+},
+{
+"q": "What is the common factor for the expression 24a⁴b² - 16a²b⁴?",
+"a": ["8a²b²", "4a²b²", "8ab", "2a²b²"],
+"correct": 0
+},
+{
+"q": "Factorize completely: x² + x - 20",
+"a": ["(x - 2)(x + 10)", "(x + 5)(x - 4)", "(x - 5)(x + 4)", "(x + 2)(x - 10)"],
+"correct": 1
+},
+{
+"q": "Which expression represents the complete factorization of 5m² - 20mn + 20n²?",
+"a": ["5(m - 2n)(m + 2n)", "5(m² - 4mn + 4n²)", "5(m - 2n)²", "(5m - 10n)(m - 2n)"],
+"correct": 2
+},
+{
+"q": "Factorize completely: x³ - x",
+"a": ["x(x² - 1)", "(x² - x)(x + 1)", "x(x - 1)(x - 1)", "x(x - 1)(x + 1)"],
+"correct": 3
+}
+]
+}

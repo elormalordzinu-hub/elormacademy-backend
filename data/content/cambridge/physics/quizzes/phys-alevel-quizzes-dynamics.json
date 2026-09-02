@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-dynamics",
+"name": "Dynamics and Newton’s laws",
+"questions": [
+{
+"q": "What is Newton's second law of motion defined as in terms of momentum?",
+"a": ["The rate of change of momentum of a body is directly proportional to the net external force acting on it and takes place in the direction in which the force acts.", "Force is equal to mass multiplied by velocity.", "The momentum of an isolated system remains constant.", "Action and reaction forces are equal and opposite."],
+"correct": 0
+},
+{
+"q": "A constant force of 20 N acts on a body of mass 4.0 kg initially at rest. What is the momentum of the body after 3.0 s?",
+"a": ["15 N s", "60 N s", "80 N s", "120 N s"],
+"correct": 1
+},
+{
+"q": "A block of mass 5.0 kg is pulled up a frictionless incline of 30 degrees to the horizontal by a parallel force of 40 N. What is the acceleration of the block? (g = 9.81 m s⁻²)",
+"a": ["4.5 m s⁻²", "6.2 m s⁻²", "5.1 m s⁻²", "8.0 m s⁻²"],
+"correct": 2
+},
+{
+"q": "Which of the following represents the unit of linear momentum in SI base units?",
+"a": ["kg m s⁻²", "N s", "kg m² s⁻¹", "kg m s⁻¹"],
+"correct": 3
+},
+{
+"q": "An elevator of mass 500 kg is moving upwards with an acceleration of 2.0 m s⁻². What is the tension in the supporting cable? (g = 9.81 m s⁻²)",
+"a": ["5905 N", "4905 N", "3905 N", "6905 N"],
+"correct": 0
+},
+{
+"q": "A bullet of mass 20 g traveling at 400 m s⁻¹ embeds itself in a stationary wooden block of mass 1.98 kg resting on a frictionless surface. What is the common velocity of the bullet and block immediately after the impact?",
+"a": ["2.0 m s⁻¹", "4.0 m s⁻¹", "8.0 m s⁻¹", "10.0 m s⁻¹"],
+"correct": 1
+},
+{
+"q": "What is the physical principle underlying the recoil velocity of a gun when fired?",
+"a": ["Conservation of mechanical energy", "Newton's first law of equilibrium", "Conservation of linear momentum", "Archimedes principle"],
+"correct": 2
+},
+{
+"q": "Two masses M1 = 3.0 kg and M2 = 2.0 kg are connected by a light inextensible string passing over a smooth frictionless pulley. What is the acceleration of the system? (g = 9.81 m s⁻²)",
+"a": ["0.98 m s⁻²", "1.96 m s⁻²", "2.45 m s⁻²", "3.92 m s⁻²"],
+"correct": 3
+},
+{
+"q": "What is meant by an inelastic collision?",
+"a": ["A collision in which linear momentum is not conserved", "A collision in which kinetic energy is conserved but momentum is not", "A collision in which kinetic energy is not conserved, though total linear momentum is conserved", "A collision where objects permanently shatter into dust"],
+"correct": 0
+},
+{
+"q": "A force-time graph shows a force rising linearly from 0 to 50 N in 2.0 s and then remaining constant at 50 N for another 3.0 s. What is the total impulse delivered to the object over the 5.0 s interval?",
+"a": ["125 N s", "175 N s", "200 N s", "250 N s"],
+"correct": 1
+},
+{
+"q": "A 1000 kg car traveling at 20 m s⁻¹ collides with a stationary wall and comes to rest in 0.20 s. What is the average magnitude of the force exerted on the car by the wall?",
+"a": ["10 kN", "50 kN", "100 kN", "200 kN"],
+"correct": 2
+},
+{
+"q": "Which statement best describes Newton's third law of motion?",
+"a": ["If a body is acted upon by a balanced force, it remains at rest or in uniform motion.", "The net force on an object is proportional to its rate of change of momentum.", "Forces always occur in pairs; if body A exerts a force on body B, body B exerts an equal and opposite force on body A of the exact same type.", "Action and reaction forces cancel each other out because they act on the same body."],
+"correct": 3
+},
+{
+"q": "A box of mass 10 kg is dragged across a rough horizontal floor with a constant velocity by a horizontal force of 30 N. What is the coefficient of kinetic friction between the box and the floor? (g = 9.81 m s⁻²)",
+"a": ["0.31", "0.50", "0.20", "1.00"],
+"correct": 0
+},
+{
+"q": "A shell of mass 2.0 kg is fired horizontally from a stationary cannon of mass 200 kg with a muzzle velocity of 300 m s⁻¹. What is the recoil velocity of the cannon?",
+"a": ["-1.5 m s⁻¹", "-3.0 m s⁻¹", "-6.0 m s⁻¹", "-30.0 m s⁻¹"],
+"correct": 1
+},
+{
+"q": "What is the definition of impulse in terms of force and time?",
+"a": ["The product of force and distance", "The rate of change of force", "The product of the net force and the time interval during which it acts", "The kinetic energy imparted per unit time"],
+"correct": 2
+},
+{
+"q": "A ball of mass 0.5 kg strikes a vertical wall horizontally with a speed of 10 m s⁻¹ and rebounds along its original path with a speed of 8.0 m s⁻¹. What is the magnitude of the impulse received by the ball?",
+"a": ["1.0 N s", "4.0 N s", "5.0 N s", "9.0 N s"],
+"correct": 3
+},
+{
+"q": "In an elastic collision between two bodies in one dimension, which of the following quantities is conserved?",
+"a": ["Both total linear momentum and total kinetic energy", "Total momentum only, while kinetic energy is lost", "Total kinetic energy only, while momentum changes", "Neither momentum nor kinetic energy"],
+"correct": 0
+},
+{
+"q": "A block of mass 4.0 kg rests on a rough horizontal table. The coefficient of static friction is 0.40. What is the minimum horizontal force required to start the block moving? (g = 9.81 m s⁻²)",
+"a": ["9.8 N", "15.7 N", "39.2 N", "4.0 N"],
+"correct": 1
+},
+{
+"q": "A 2.0 kg trolley moving at 3.0 m s⁻¹ collides head-on with a stationary 1.0 kg trolley. After the collision, they stick together. What is their common speed?",
+"a": ["1.0 m s⁻¹", "1.5 m s⁻¹", "2.0 m s⁻¹", "3.0 m s⁻¹"],
+"correct": 2
+},
+{
+"q": "Which of the following scenarios demonstrates Newton's first law of motion?",
+"a": ["A rocket accelerating in deep space", "A book resting on a table experiencing a normal contact force equal to its weight", "A ball accelerating as it falls freely under gravity", "A spaceship drifting through outer space at constant velocity with engines shut down"],
+"correct": 3
+},
+{
+"q": "A particle of mass m moving with velocity u undergoes an elastic head-on collision with an identical stationary particle. What are their velocities after the collision?",
+"a": ["First particle stops, second particle moves with velocity u", "Both particles move with velocity u / 2", "First particle rebounds with -u, second stays at rest", "Both particles move in opposite directions at u"],
+"correct": 0
+},
+{
+"q": "A constant force accelerates a 500 g mass from rest to a speed of 10 m s⁻¹ in 2.0 s. What is the magnitude of the force?",
+"a": ["1.0 N", "2.5 N", "5.0 N", "10.0 N"],
+"correct": 1
+},
+{
+"q": "What is the main reason why seatbelts and airbags save lives during a vehicle collision according to momentum principles?",
+"a": ["They increase the total momentum change of the passenger.", "They decrease the final velocity of the car.", "They increase the collision time interval, thereby significantly reducing the average impact force experienced by the passenger.", "They eliminate all kinetic energy instantly."],
+"correct": 2
+},
+{
+"q": "A block is sliding down a rough inclined plane at a constant velocity. Which of the following statements is true?",
+"a": ["The component of weight down the plane is less than the frictional force.", "The normal contact force is zero.", "There is a net down-slope accelerating force.", "The component of weight down the plane is exactly balanced by the frictional force."],
+"correct": 3
+},
+{
+"q": "A 60 kg skydiver reaches a terminal velocity of 50 m s⁻¹. What is the upward air resistance force acting on her? (g = 9.81 m s⁻²)",
+"a": ["589 N", "3000 N", "0 N", "600 N"],
+"correct": 0
+},
+{
+"q": "A rocket burns fuel at a rate of 10 kg s⁻¹, ejecting gas backwards at a relative speed of 2000 m s⁻¹. What is the thrust force exerted on the rocket?",
+"a": ["200 N", "20,000 N", "2,000 N", "200,000 N"],
+"correct": 1
+},
+{
+"q": "Two bodies of masses m and 3m experience the same net force. What is the ratio of their accelerations (a_m : a_3m)?",
+"a": ["1 : 3", "3 : 1", "3 : 1", "1 : 9"],
+"correct": 2
+},
+{
+"q": "Which of the following is a non-contact force?",
+"a": ["Tension in a rope", "Frictional force", "Normal contact force", "Gravitational force"],
+"correct": 3
+},
+{
+"q": "A mass of 2.0 kg is suspended by a vertical cord. What is the tension in the cord if the mass is accelerated upwards at 3.0 m s⁻²? (g = 9.81 m s⁻²)",
+"a": ["25.6 N", "19.6 N", "13.6 N", "6.0 N"],
+"correct": 0
+},
+{
+"q": "An object of mass m moves in a circle of radius r at a constant speed v. What is the magnitude of the net centripetal force acting on it?",
+"a": ["m v / r", "m v² / r", "m v² r", "m r omega²"],
+"correct": 1
+},
+{
+"q": "A bullet of mass 10 g moving at 500 m s⁻¹ strikes a thick wooden board and penetrates 5 cm before stopping. What is the average resistive force exerted by the board?",
+"a": ["12.5 kN", "25.0 kN", "25.0 kN", "50.0 kN"],
+"correct": 2
+},
+{
+"q": "What happens to the momentum of a system if the net external force acting on it is zero?",
+"a": ["Momentum increases linearly", "Momentum decreases to zero", "Momentum oscillates periodically", "Momentum is conserved (remains constant)"],
+"correct": 3
+},
+{
+"q": "A constant horizontal force of 10 N pulls a 2.0 kg block across a horizontal table against a constant frictional force of 2.0 N. What is the acceleration of the block?",
+"a": ["4.0 m s⁻²", "5.0 m s⁻²", "6.0 m s⁻²", "8.0 m s⁻²"],
+"correct": 0
+},
+{
+"q": "A ball is dropped onto a hard floor. The collision is partially inelastic. Which of the following is true immediately after impact compared to immediately before?",
+"a": ["Momentum is greater", "Kinetic energy is less", "Speed is higher", "Mass has decreased"],
+"correct": 1
+},
+{
+"q": "A 5.0 kg block is pushed across a floor with a force of 30 N against a friction force of 10 N. How far does it travel from rest in 2.0 s?",
+"a": ["2.0 m", "4.0 m", "8.0 m", "16.0 m"],
+"correct": 2
+},
+{
+"q": "Which law of motion explains why passengers are thrown forward when a bus suddenly stops?",
+"a": ["Newton's third law", "Law of universal gravitation", "Newton's second law", "Newton's first law (inertia)"],
+"correct": 3
+},
+{
+"q": "A body of mass 3.0 kg has an initial velocity of (2.0 i + 5.0 j) m s⁻¹. A constant force of (6.0 i - 2.0 j) N acts on it for 3.0 s. What is its velocity vector after 3.0 s?",
+"a": ["(8.0 i + 3.0 j) m s⁻¹", "(4.0 i + 2.0 j) m s⁻¹", "(2.0 i + 8.0 j) m s⁻¹", "(6.0 i - 3.0 j) m s⁻¹"],
+"correct": 0
+},
+{
+"q": "A light spring balance holds a mass in an elevator. When the elevator accelerates downwards at 2.0 m s⁻², what does the balance read for a 10 kg mass? (g = 9.81 m s⁻²)",
+"a": ["118.1 N", "78.1 N", "98.1 N", "49.1 N"],
+"correct": 1
+},
+{
+"q": "A particle experiences a time-varying force F(t) = 3t² + 2t. What is the impulse delivered from t = 0 to t = 3 s?",
+"a": ["18 N s", "27 N s", "36 N s", "45 N s"],
+"correct": 2
+},
+{
+"q": "Which of the following units is equivalent to the newton?",
+"a": ["kg m⁻¹ s⁻²", "kg m s⁻¹", "J m⁻¹", "kg m s⁻²"],
+"correct": 3
+}
+]
+}

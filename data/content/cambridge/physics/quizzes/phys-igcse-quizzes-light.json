@@ -1,0 +1,206 @@
+{
+"id": "phys-igcse-quizzes-light",
+"name": "Light reflection refraction and lenses",
+"questions": [
+{
+"q": "What is the Law of Reflection regarding light striking a smooth plane mirror?",
+"a": ["Angle of incidence is equal to the angle of reflection", "Angle of incidence is greater than angle of reflection", "Angle of refraction equals angle of incidence", "Angle of reflection is always ninety degrees"],
+"correct": 0
+},
+{
+"q": "Which of the following best describes the image formed by a plane mirror?",
+"a": ["Real, inverted, and magnified", "Virtual, upright, laterally inverted, and the same size as the object", "Real, upright, and smaller", "Virtual, inverted, and magnified"],
+"correct": 1
+},
+{
+"q": "What is refraction of light?",
+"a": ["The bouncing of light off a rough surface", "The absorption of light inside a dense medium", "The bending of light as it passes from one transparent medium into another due to a change in its speed", "The splitting of white light into constituent colors"],
+"correct": 2
+},
+{
+"q": "Snell Law relates the angle of incidence (i) and the angle of refraction (r) to what refractive index property?",
+"a": ["The density of the mirror", "The focal length of a lens", "The mass of the light ray", "The refractive index (n) of the medium, where n = sin(i) / sin(r)"],
+"correct": 3
+},
+{
+"q": "What is total internal reflection?",
+"a": ["When light traveling from a denser medium to a less dense medium strikes the boundary at an angle greater than the critical angle and is completely reflected back inside", "When light passes straight through a vacuum without bending", "When light is completely absorbed by a black surface", "When light reflects off a rough wall diffusely"],
+"correct": 0
+},
+{
+"q": "What is the critical angle of a transparent medium?",
+"a": ["The angle of incidence that produces an angle of refraction of zero", "The angle of incidence in the denser medium for which the angle of refraction in the less dense medium is ninety degrees", "The angle at which light stops traveling", "The angle of reflection off a glass prism"],
+"correct": 1
+},
+{
+"q": "Which modern telecommunications technology relies entirely on total internal reflection to transmit high-speed data signals over long distances?",
+"a": ["Copper coaxial cables", "Radio antenna towers", "Optical fibers", "Satellite dishes"],
+"correct": 2
+},
+{
+"q": "What is the refractive index (n) of a transparent medium if the speed of light in a vacuum is c and the speed of light in the medium is v?",
+"a": ["n = v / c", "n = c times v", "n = v squared / c", "n = c / v"],
+"correct": 3
+},
+{
+"q": "What type of lens is thicker at its center than at its edges and converges parallel light rays passing through it?",
+"a": ["Convex (converging) lens", "Concave (diverging) lens", "Plane glass plate", "Spherical mirror"],
+"correct": 0
+},
+{
+"q": "What is the principal focus (focal point) of a converging lens?",
+"a": ["The point where the lens is thickest", "The point on the principal axis where parallel rays of light converge after passing through the lens", "The center of curvature of the lens surface", "The point where light is completely blocked"],
+"correct": 1
+},
+{
+"q": "What type of lens is thinner in the center than at its edges and causes parallel rays of light to diverge?",
+"a": ["Convex lens", "Biconvex lens", "Concave (diverging) lens", "Cylindrical lens"],
+"correct": 2
+},
+{
+"q": "What is meant by the focal length of a thin lens?",
+"a": ["The total physical length of the glass lens", "The distance from the lens edge to the top of the object", "The distance from the optical center of the lens to its principal focus", "The diameter of the lens aperture"],
+"correct": 3
+},
+{
+"q": "An object is placed at a distance greater than twice the focal length (2F) in front of a converging lens. What is the nature of the image formed?",
+"a": ["Real, inverted, and diminished (smaller than the object)", "Virtual, upright, and magnified", "Real, upright, and same size", "Virtual, inverted, and diminished"],
+"correct": 0
+},
+{
+"q": "When an object is placed inside the focal point (less than F) of a converging magnifying glass, what type of image is produced?",
+"a": ["Real and inverted", "Virtual, upright, and magnified", "Real and diminished", "No image is formed"],
+"correct": 1
+},
+{
+"q": "What vision defect is corrected by using spectacles fitted with diverging (concave) lenses?",
+"a": ["Long-sightedness (hypermetropia)", "Astigmatism", "Short-sightedness (myopia)", "Cataracts"],
+"correct": 2
+},
+{
+"q": "What happens when white light passes through a triangular glass prism?",
+"a": ["It accelerates to the speed of sound.", "It turns completely black.", "It reflects backward.", "It disperses into a spectrum of seven colors (ROYGBIV) because different frequencies refract by different amounts."],
+"correct": 3
+},
+{
+"q": "Which color of visible light experiences the greatest amount of refraction (bending) when passing through a glass prism?",
+"a": ["Violet light", "Yellow light", "Orange light", "Red light"],
+"correct": 0
+},
+{
+"q": "What is the primary difference between a real image and a virtual image?",
+"a": ["Real images can never be seen with the eye.", "Real images can be projected onto a screen because light rays actually meet at the image position, whereas virtual images only appear to come from an apparent position and cannot be formed on a screen.", "Virtual images are always larger than real images.", "Virtual images are formed by concave lenses only."],
+"correct": 1
+},
+{
+"q": "If the angle of incidence of a light ray in water striking a flat water-air boundary is 45 degrees, and the critical angle for water is 42 degrees, what happens to the ray?",
+"a": ["It refracts out into the air at 90 degrees.", "It passes straight through without bending.", "It undergoes total internal reflection, reflecting entirely back into the water.", "It is absorbed completely."],
+"correct": 2
+},
+{
+"q": "Which of the following optical instruments uses two converging lenses to form a magnified image of distant objects such as stars and planets?",
+"a": ["A simple periscope", "A slide projector", "A compound microscope", "An astronomical refracting telescope"],
+"correct": 3
+},
+{
+"q": "What term describes the bouncing of light off a rough, uneven surface in many different directions?",
+"a": ["Diffuse reflection", "Specular reflection", "Total internal reflection", "Refraction"],
+"correct": 0
+},
+{
+"q": "Why does a swimming pool appear shallower than its actual measured depth when viewed from above?",
+"a": ["Water absorbs all red light.", "Light rays from the bottom of the pool bend away from the normal as they pass from water into air, making the apparent image appear higher than it is.", "The pool floor is made of mirrors.", "Water pressure pushes the bottom upward."],
+"correct": 1
+},
+{
+"q": "What is the focal length of a converging lens if an object placed 20 cm in front of it forms a real image of the exact same size at a distance of 20 cm on the other side?",
+"a": ["20 cm", "40 cm", "10 cm", "5 cm"],
+"correct": 2
+},
+{
+"q": "In ray diagrams for a converging lens, which of the following three principal rays is incorrectly described?",
+"a": ["A ray parallel to the principal axis passes through the principal focus after refraction.", "A ray passing through the optical center goes straight through without deviation.", "A ray passing through the principal focus emerges parallel to the principal axis after refraction.", "A ray traveling along the edge of the lens reflects backward at 180 degrees."],
+"correct": 3
+},
+{
+"q": "What medical condition is corrected by using converging (convex) lenses in eyeglasses?",
+"a": ["Long-sightedness (hypermetropia), where close objects appear blurred because images form behind the retina", "Short-sightedness (myopia)", "Color blindness", "Glaucoma"],
+"correct": 0
+},
+{
+"q": "What is lateral inversion in a plane mirror image?",
+"a": ["The image is turned upside down vertically.", "Left and right appear reversed in the mirror image compared to the object.", "The image is pushed backward into the wall.", "Colors of the object are inverted."],
+"correct": 1
+},
+{
+"q": "If the refractive index of a piece of glass is 1.5, what is the speed of light in that glass? (Speed of light in vacuum c = 300,000 km/s)",
+"a": ["450,000 km/s", "300,000 km/s", "200,000 km/s", "150,000 km/s"],
+"correct": 2
+},
+{
+"q": "What is the magnifying power formula for a simple magnifying glass (lens) forming a virtual image at the near point?",
+"a": ["Magnification = Image height / Object distance", "Magnification = Focal length divided by lens diameter", "Magnification = Object height squared", "Magnification = 1 + (D / f), where D is the least distance of distinct vision and f is focal length"],
+"correct": 3
+},
+{
+"q": "Why does a diamond sparkle brilliantly with many colored flashes of light when cut properly?",
+"a": ["Diamond has a very high refractive index (about 2.42) and a very small critical angle (about 24.5 degrees), causing intense internal reflection and strong dispersion.", "Diamond generates its own light.", "Diamond absorbs all light wavelengths.", "Diamond is a metallic conductor."],
+"correct": 0
+},
+{
+"q": "When a ray of light passes perpendicularly (at an angle of incidence of 0 degrees) from air into a glass block, what happens to its path and speed?",
+"a": ["It bends at a 90-degree angle.", "Its speed decreases, but it continues straight ahead without any change in direction (no refraction).", "It reflects backward.", "It stops moving entirely."],
+"correct": 1
+},
+{
+"q": "What type of image is always produced by a concave (diverging) lens, regardless of where the real object is placed?",
+"a": ["Real, inverted, and magnified", "Real, upright, and diminished", "Virtual, upright, and diminished (smaller than the object)", "Virtual, inverted, and magnified"],
+"correct": 2
+},
+{
+"q": "Which component of the human eye acts as the adjustable converging lens system that fine-focuses light rays onto the retina?",
+"a": ["The cornea", "The iris", "The pupil", "The crystalline lens"],
+"correct": 3
+},
+{
+"q": "What is the angle of reflection if a light ray strikes a plane mirror with an angle of incidence of 35 degrees relative to the mirror surface?",
+"a": ["55 degrees", "35 degrees", "70 degrees", "90 degrees"],
+"correct": 0
+},
+{
+"q": "Why do mirages occur on hot desert roads during sunny days?",
+"a": ["Air near the hot road surface has a lower density and lower refractive index than cooler air above it, bending light rays upward via refraction and total internal reflection.", "Road asphalt melts into mirrors.", "Light travels faster in solid asphalt.", "Magnetic fields bend light."],
+"correct": 1
+},
+{
+"q": "What is the focal length of a lens with a power of +5.0 Diopters?",
+"a": ["+5.0 meters", "+50 centimeters", "+0.2 meters (or 20 cm)", "+2.0 meters"],
+"correct": 2
+},
+{
+"q": "Which optical device uses total internal reflection within a right-angled glass prism to bend light rays through 90 degrees or 180 degrees without light loss?",
+"a": ["A concave makeup mirror", "A dispersing prism", "A simple magnifying glass", "A periscope prism"],
+"correct": 3
+},
+{
+"q": "What is the main characteristic of monochromatic light?",
+"a": ["It consists of a single frequency or wavelength (such as a pure laser beam).", "It contains all colors of the rainbow combined.", "It travels faster than white light.", "It cannot be refracted."],
+"correct": 0
+},
+{
+"q": "If an object is placed exactly at the focal point (F) of a converging lens, where is the image formed?",
+"a": ["At the optical center of the lens", "At infinity (no clear image is formed because refracted rays emerge parallel)", "At 2F on the opposite side", "Inside the lens glass"],
+"correct": 1
+},
+{
+"q": "How does increasing the curvature (making surfaces more curved and bulging) of a converging glass lens affect its optical properties?",
+"a": ["It increases its focal length and makes it weaker.", "It turns it into a diverging lens.", "It decreases its focal length, making it stronger and bending light rays more sharply.", "It has zero effect on focal length."],
+"correct": 2
+},
+{
+"q": "What is astigmatism and how is it corrected optically?",
+"a": ["Inability to see distant objects, corrected with convex lenses", "Inability to focus on close objects, corrected with prisms", "Clouding of the crystalline lens, corrected with surgery", "An optical defect where the cornea or lens has uneven curvature in different planes, corrected using cylindrical lenses"],
+"correct": 3
+}
+]
+}

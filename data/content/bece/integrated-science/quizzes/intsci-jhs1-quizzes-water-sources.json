@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-water-sources",
+"name": "Water Sources",
+"questions": [
+{
+"q": "Which of the following is considered a natural source of water?",
+"a": ["Rainfall (precipitation)", "Tap water system", "Borehole pump", "Water treatment plant"],
+"correct": 0
+},
+{
+"q": "What term describes the continuous movement of water on, above, and below the surface of the Earth?",
+"a": ["Photosynthesis", "Water cycle (Hydrological cycle)", "Respiration", "Transpiration"],
+"correct": 1
+},
+{
+"q": "Which process in the water cycle involves water turning from liquid into vapor due to heat from the Sun?",
+"a": ["Precipitation", "Condensation", "Evaporation", "Infiltration"],
+"correct": 2
+},
+{
+"q": "What is the primary source of all fresh water on Earth?",
+"a": ["Groundwater aquifers", "Ocean seas", "Desalination plants", "Precipitation (Rain/Snow)"],
+"correct": 3
+},
+{
+"q": "Which of the following water sources is typically found underground and tapped using wells or boreholes?",
+"a": ["Groundwater", "Seawater", "Atmospheric vapor", "Surface runoff"],
+"correct": 0
+},
+{
+"q": "What is the process by which water vapor in the atmosphere cools and changes back into tiny liquid water droplets to form clouds?",
+"a": ["Evaporation", "Condensation", "Melting", "Sublimation"],
+"correct": 1
+},
+{
+"q": "Which water body contains the vast majority of all water on Earth, though it is too salty for direct human consumption?",
+"a": ["Rivers", "Lakes", "Oceans", "Glaciers"],
+"correct": 2
+},
+{
+"q": "Why is it unsafe to drink untreated water directly from rivers or streams?",
+"a": ["It is too hot", "It lacks essential minerals", "It contains too much pure oxygen", "It may contain harmful pathogens, bacteria, and pollutants"],
+"correct": 3
+},
+{
+"q": "What term is used to describe water that is safe for human consumption and drinking?",
+"a": ["Potable water", "Brackish water", "Hard water", "Distilled water"],
+"correct": 0
+},
+{
+"q": "Which method is commonly used in water treatment plants to kill harmful microorganisms?",
+"a": ["Filtration through sand", "Chlorination (Disinfection)", "Sedimentation", "Adding large stones"],
+"correct": 1
+},
+{
+"q": "What is the name of the stage in water treatment where heavy suspended particles settle to the bottom of a tank?",
+"a": ["Chlorination", "Aeration", "Sedimentation", "Distillation"],
+"correct": 2
+},
+{
+"q": "Which of the following human activities contributes significantly to the pollution of natural water sources?",
+"a": ["Tree planting", "Rainwater harvesting", "Using drip irrigation", "Improper disposal of industrial waste and sewage"],
+"correct": 3
+},
+{
+"q": "What is rainwater harvesting?",
+"a": ["Collecting and storing rainwater for future use", "Removing salt from ocean water", "Pumping underground water to the surface", "Polluting rivers with rainwater runoff"],
+"correct": 0
+},
+{
+"q": "Which of the following is a surface water source?",
+"a": ["Spring water", "River", "Deep well", "Underground aquifer"],
+"correct": 1
+},
+{
+"q": "What physical property makes water an excellent solvent for many substances?",
+"a": ["Its high freezing point", "Its dark color", "Its polarity and ability to dissolve polar compounds", "Its heavy weight"],
+"correct": 2
+},
+{
+"q": "What is hard water characterized by?",
+"a": ["High concentration of dissolved oxygen", "Being completely free of minerals", "Having a very sweet taste", "Difficulty in forming lather with soap due to dissolved calcium and magnesium ions"],
+"correct": 3
+},
+{
+"q": "Which of the following is an advantage of protecting water catchments and river banks?",
+"a": ["Preventing soil erosion and maintaining water quality", "Encouraging factories to dump waste", "Reducing rainfall in the area", "Drying up natural springs"],
+"correct": 0
+},
+{
+"q": "What is the process of removing salt and other impurities from seawater to make it fit for drinking called?",
+"a": ["Sedimentation", "Desalination", "Chlorination", "Filtration"],
+"correct": 1
+},
+{
+"q": "Which of the following diseases can be contracted by drinking contaminated water?",
+"a": ["Malaria", "Asthma", "Cholera", "Scurvy"],
+"correct": 2
+},
+{
+"q": "What role do plants play in the water cycle?",
+"a": ["They absorb all water and prevent rain", "They turn water into solid rock", "They release pollutants into the atmosphere", "They release water vapor into the atmosphere through transpiration"],
+"correct": 3
+},
+{
+"q": "Which layer of the Earth stores vast amounts of groundwater in permeable rocks and soil?",
+"a": ["Aquifer", "Atmosphere", "Stratosphere", "Lithosphere crust"],
+"correct": 0
+},
+{
+"q": "What is the main purpose of adding alum (coagulant) during water treatment?",
+"a": ["To sweeten the taste", "To clump fine suspended dirt particles together so they settle faster", "To kill bacteria instantly", "To turn water into ice"],
+"correct": 1
+},
+{
+"q": "Which of the following is a major domestic use of water?",
+"a": ["Generating friction", "Burning fuels", "Cooking and sanitation", "Melting metals"],
+"correct": 2
+},
+{
+"q": "Why is water often referred to as the 'universal solvent'?",
+"a": ["It can dissolve only solid rock", "It is found only in the universe", "It cannot mix with anything", "It dissolves more substances than any other liquid"],
+"correct": 3
+},
+{
+"q": "Which of the following is an indicator of clean, potable water?",
+"a": ["Clear appearance with no unpleasant odor or taste", "Strong foul smell of chemicals", "Cloudy color with floating particles", "Bright green tint"],
+"correct": 0
+},
+{
+"q": "What is the term for water falling from the atmosphere in the form of rain, snow, sleet, or hail?",
+"a": ["Evaporation", "Precipitation", "Transpiration", "Condensation"],
+"correct": 1
+},
+{
+"q": "Which water conservation practice helps save water in agricultural farming?",
+"a": ["Flood irrigation during peak sunlight", "Leaving taps running continuously", "Using drip irrigation systems", "Clearing all vegetation near rivers"],
+"correct": 2
+},
+{
+"q": "What is the main hazard associated with agricultural chemical fertilizers washing into water bodies?",
+"a": ["Making the water taste sweet", "Purifying the river completely", "Killing all water pests instantly", "Eutrophication (excessive plant/algal growth that depletes oxygen)"],
+"correct": 3
+},
+{
+"q": "Which of the following describes a spring?",
+"a": ["A natural occurrence where groundwater emerges onto the Earth's surface", "A man-made plastic tank on a roof", "An artificial canal dug for transport", "A machine used to boil water"],
+"correct": 0
+},
+{
+"q": "What is the purpose of passing water through a sand filter during treatment?",
+"a": ["To add flavor", "To trap remaining fine suspended particles", "To heat the water to boiling point", "To freeze the water"],
+"correct": 1
+},
+{
+"q": "Which of the following is a key reason for conserving water resources?",
+"a": ["Water is unlimited and never runs out", "Oceans are shrinking rapidly", "Clean, accessible fresh water is a limited and vital resource", "Rainwater is harmful to plants"],
+"correct": 2
+},
+{
+"q": "What is the term for the underground boundary below which the ground is completely saturated with water?",
+"a": ["Boiling line", "Sea level", "Freezing zone", "Water table"],
+"correct": 3
+},
+{
+"q": "Which activity is a wise way to conserve water at home?",
+"a": ["Fixing leaking pipes and taps promptly", "Leaving the shower running while brushing teeth", "Washing cars with a continuous hosepipe", "Using drinking water to wash concrete floors"],
+"correct": 0
+},
+{
+"q": "What is the primary effect of boiling untreated water before drinking it?",
+"a": ["It removes all dissolved salt", "It kills disease-causing germs and bacteria", "It turns the water into a solid", "It increases water hardness"],
+"correct": 1
+},
+{
+"q": "Which of the following describes surface runoff?",
+"a": ["Water sinking deep into rocks", "Water evaporating from leaves", "Water flowing over the land surface into rivers and lakes after rain", "Water freezing in clouds"],
+"correct": 2
+},
+{
+"q": "Why are wetlands and swamps important for natural water management?",
+"a": ["They breed mosquitoes exclusively", "They block all rainfall", "They consume all fresh water on Earth", "They act as natural filters and help control floods"],
+"correct": 3
+},
+{
+"q": "Which instrument or container property is essential when storing harvested rainwater safely?",
+"a": ["A tightly covered container to prevent mosquito breeding", "An open bucket exposed to dust", "A rusted iron drum", "A container placed directly in sewage waste"],
+"correct": 0
+},
+{
+"q": "What is the term for water that has been used by humans in homes or industries and contains waste matter?",
+"a": ["Distilled water", "Wastewater (Sewage)", "Rainwater", "Spring water"],
+"correct": 1
+},
+{
+"q": "Which sector is typically the largest consumer of global freshwater resources?",
+"a": ["Information technology", "Recreational swimming pools", "Agriculture (Irrigation)", "Beverage bottling"],
+"correct": 2
+},
+{
+"q": "What natural disaster occurs when excessive rainfall or overflowing water bodies submerge normally dry land?",
+"a": ["Drought", "Earthquake", "Volcanic eruption", "Flood"],
+"correct": 3
+}
+]
+}

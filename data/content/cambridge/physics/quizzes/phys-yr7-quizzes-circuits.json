@@ -1,0 +1,206 @@
+{
+"id": "phys-yr7-quizzes-circuits",
+"name": "Introduction to simple circuits and switches",
+"questions": [
+{
+"q": "What is required for an electric current to flow in a simple circuit?",
+"a": ["A complete unbroken loop containing a power source and conducting path", "An open switch and a non-conducting wire", "Only a light bulb connected to nothing else", "A source of sound energy and plastic threads"],
+"correct": 0
+},
+{
+"q": "What is the function of a cell or battery in an electrical circuit?",
+"a": ["To block the flow of electrons completely", "To provide the push (voltage/electrical energy) that drives the current", "To consume all energy without transferring it", "To measure the temperature of the wires"],
+"correct": 1
+},
+{
+"q": "Which of the following materials is a good electrical conductor commonly used to make wires?",
+"a": ["Dry wood", "Pure plastic", "Copper", "Rubber"],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of a switch in an electrical circuit?",
+"a": ["To increase the weight of the circuit", "To change the color of the connecting wires", "To generate chemical energy", "To break or complete the circuit, controlling the flow of current"],
+"correct": 3
+},
+{
+"q": "What term is used for materials that do not allow electric current to pass through them easily?",
+"a": ["Electrical insulators", "Electrical conductors", "Power sources", "Superconductors"],
+"correct": 0
+},
+{
+"q": "What scientific instrument is used to measure electric current in a circuit?",
+"a": ["A thermometer", "An ammeter", "A newton meter", "A metre rule"],
+"correct": 1
+},
+{
+"q": "What is the standard SI unit used to measure electric current?",
+"a": ["Volt (V)", "Watt (W)", "Ampere (A)", "Ohm (Ω)"],
+"correct": 2
+},
+{
+"q": "In a series circuit containing a battery and two identical lamps, how is the current shared between the components?",
+"a": ["The current splits into different values at each branch", "The current is higher near the positive terminal", "The current is zero everywhere", "The current is the same at all points in the circuit"],
+"correct": 3
+},
+{
+"q": "What happens to the other lamp in a simple series circuit if one lamp breaks or is unscrewed?",
+"a": ["The other lamp goes out because the circuit is broken", "The other lamp shines twice as bright", "The other lamp remains lit normally", "The battery explodes"],
+"correct": 0
+},
+{
+"q": "What is the main advantage of a parallel circuit over a series circuit for household lighting?",
+"a": ["Parallel circuits use no electricity", "If one appliance breaks or is turned off, the other branches remain complete and stay lit", "Parallel circuits only need one wire", "Parallel circuits have no switches"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of an electrical insulator used to cover metal wires for safety?",
+"a": ["Iron core", "Silver foil", "Plastic or rubber coating", "Graphite rod"],
+"correct": 2
+},
+{
+"q": "What effect does adding more batteries in series to a simple circuit have on a lamp?",
+"a": ["The lamp becomes dimmer", "The lamp stays exactly the same", "The lamp turns blue", "The lamp becomes brighter due to increased voltage/current"],
+"correct": 3
+},
+{
+"q": "What happens to the brightness of two identical lamps connected in series compared to a single lamp with one battery?",
+"a": ["The lamps are dimmer because the voltage is shared between them", "The lamps are much brighter", "The lamps flicker constantly", "One lamp is bright and the other is off"],
+"correct": 0
+},
+{
+"q": "Which circuit diagram symbol represents an open switch?",
+"a": ["A straight continuous line", "A line with a break and a raised lever showing a gap", "A circle with a cross inside", "Two parallel long and short lines"],
+"correct": 1
+},
+{
+"q": "What does a circle with a cross inside represent in a standard circuit diagram?",
+"a": ["A battery", "A switch", "A lamp (bulb)", "An ammeter"],
+"correct": 2
+},
+{
+"q": "Why is copper chosen as the preferred metal for electrical wiring in homes and schools?",
+"a": ["It is magnetic and heavy", "It is expensive and rare", "It is an insulator", "It is an excellent electrical conductor and flexible"],
+"correct": 3
+},
+{
+"q": "What is the role of a fuse or circuit breaker in a household electrical system?",
+"a": ["To protect circuits and appliances by automatically breaking the flow if the current gets dangerously high", "To increase electricity bills", "To slow down the flow of light", "To convert electrical energy into sound"],
+"correct": 0
+},
+{
+"q": "In a parallel circuit, what can be said about the voltage across each parallel branch connected to the same power supply?",
+"a": ["The voltage drops to zero in every branch", "The voltage across each parallel branch is the same as the supply voltage", "The voltage is divided randomly", "The voltage increases with each branch"],
+"correct": 1
+},
+{
+"q": "What will happen if you connect a wire directly from the positive terminal of a battery to the negative terminal without a component like a lamp (short circuit)?",
+"a": ["The battery will charge up fully", "The wires will freeze", "The wire and battery will get dangerously hot very quickly", "The circuit will work normally"],
+"correct": 2
+},
+{
+"q": "Which of the following materials would allow a current to pass through it in a conductivity test?",
+"a": ["A wooden toothpick", "A plastic ruler", "A rubber eraser", "A metal paperclip"],
+"correct": 3
+},
+{
+"q": "How does adding more lamps in series to a circuit affect the overall current flowing from the battery?",
+"a": ["The current decreases because total resistance increases", "The current increases massively", "The current remains completely unchanged", "The current stops flowing entirely"],
+"correct": 0
+},
+{
+"q": "What term describes the opposition to the flow of electric current offered by a component or wire?",
+"a": ["Voltage", "Resistance", "Capacitance", "Charge"],
+"correct": 1
+},
+{
+"q": "If you have two identical lamps connected in parallel across a battery, how does their brightness compare to a single lamp circuit?",
+"a": ["They are completely dark", "They are dimmer than a single lamp", "They remain at normal full brightness because each branch connects directly to the supply", "They burn out instantly"],
+"correct": 2
+},
+{
+"q": "Which scientist's unit of measurement is used for electrical resistance?",
+"a": ["Alessandro Volta", "Thomas Edison", "Nikola Tesla", "Georg Ohm (Ohm)"],
+"correct": 3
+},
+{
+"q": "What is the standard symbol used to represent a cell in a circuit diagram?",
+"a": ["One long parallel line and one short thick parallel line", "A zigzag line", "A wavy line with arrows", "A shaded circle"],
+"correct": 0
+},
+{
+"q": "What is the purpose of drawing circuit diagrams using standard international symbols instead of realistic drawings?",
+"a": ["To make circuits harder to build", "To provide a universal, clear, and standardized way for scientists and engineers worldwide to communicate designs", "To hide how batteries work", "To save paper space"],
+"correct": 1
+},
+{
+"q": "What happens in a parallel circuit if one branch contains a broken bulb while another branch has a working bulb?",
+"a": ["Both bulbs go out", "The working bulb dims by half", "The working bulb stays on", "The battery reverses polarity"],
+"correct": 2
+},
+{
+"q": "Which of these devices converts electrical energy into kinetic energy (movement)?",
+"a": ["An electric heater", "A fixed resistor", "A simple lamp", "An electric motor"],
+"correct": 3
+},
+{
+"q": "Why are electrical plugs fitted with plastic or rubber casing around the pins and body?",
+"a": ["To prevent users from touching live metal parts and experiencing an electric shock", "To make the plug heavier", "To attract dust away from sockets", "To increase electrical resistance"],
+"correct": 0
+},
+{
+"q": "What does a zigzag line symbol usually represent in a circuit diagram?",
+"a": ["A battery cell", "A resistor", "A switch", "A light-emitting diode"],
+"correct": 1
+},
+{
+"q": "If a circuit has a break in it (such as an open switch or disconnected wire), what is the current reading on an ammeter in that circuit?",
+"a": ["Maximum current", "A fluctuating high value", "Zero current", "Negative current"],
+"correct": 2
+},
+{
+"q": "Which of the following household appliances relies primarily on the heating effect of an electric current?",
+"a": ["An electric toaster", "A ceiling fan", "An electronic digital clock", "A television screen"],
+"correct": 3
+},
+{
+"q": "What energy transformation takes place inside a working battery when it powers a circuit?",
+"a": ["Chemical energy is converted into electrical energy", "Kinetic energy is converted into sound", "Thermal energy is converted into light", "Nuclear energy is converted into friction"],
+"correct": 0
+},
+{
+"q": "What happens to the total resistance of a circuit when more resistors are added in series?",
+"a": ["Total resistance decreases", "Total resistance increases", "Total resistance drops to zero", "Resistance has no effect"],
+"correct": 1
+},
+{
+"q": "Which of the following is considered a non-renewable source of electrical energy generation on a large scale?",
+"a": ["Solar panels", "Wind turbines", "Coal-fired power stations", "Hydroelectric dams"],
+"correct": 2
+},
+{
+"q": "In a science experiment, a student builds a circuit but the bulb does not light up. Which of the following is the most likely troubleshooting step?",
+"a": ["Paint the wires green", "Check if the bulb is blown, the battery is flat, or there is a loose connection", "Place the circuit in a refrigerator", "Add more plastic casing"],
+"correct": 3
+},
+{
+"q": "What type of electrical circuit has only one single closed loop for the current to flow through?",
+"a": ["A series circuit", "A parallel circuit", "A complex network", "A short circuit"],
+"correct": 0
+},
+{
+"q": "Why is it dangerous to touch electrical switches or appliances with wet hands?",
+"a": ["Water is a complete insulator", "Water containing impurities conducts electricity, increasing the risk of a dangerous shock", "Water turns electricity into light", "Wet hands destroy the plastic casing"],
+"correct": 1
+},
+{
+"q": "What term describes a complete, unbroken pathway that allows electricity to flow and power devices?",
+"a": ["An open circuit", "A broken loop", "A closed circuit", "An insulated barrier"],
+"correct": 2
+},
+{
+"q": "Which of the following components allows you to manually open and close a circuit easily?",
+"a": ["A resistor", "An ammeter", "A lamp", "A switch"],
+"correct": 3
+}
+]
+}

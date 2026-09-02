@@ -1,0 +1,166 @@
+{
+  "id": "phys-yr9-quizzes-circuits",
+  "name": "Electrical circuits and current",
+  "questions": [
+    {
+      "q": "What is an electric current defined as in a metallic conductor?",
+      "a": ["The rate of flow of electric charge (free electrons)", "The total mass of the battery", "The temperature of the wire", "The amount of light produced by a bulb"],
+      "correct": 0
+    },
+    {
+      "q": "What instrument is used to measure electric current in a circuit, and how must it be connected?",
+      "a": ["A voltmeter connected in parallel", "An ammeter connected in series", "A newton meter connected across a resistor", "A thermometer connected to a battery"],
+      "correct": 1
+    },
+    {
+      "q": "What is the standard SI unit of measurement for electric current?",
+      "a": ["Volts (V)", "Ohms (Ω)", "Amperes (A)", "Watts (W)"],
+      "correct": 2
+    },
+    {
+      "q": "What does a complete, closed electrical circuit require to function properly?",
+      "a": ["A break in the wire and an open switch", "Only a single copper wire", "An insulating plastic rod", "A complete continuous loop with a source of potential difference (like a cell/battery) and conducting wires"],
+      "correct": 3
+    },
+    {
+      "q": "In a series circuit, what is true about the electric current at different points around the loop?",
+      "a": ["The current is exactly the same at all points in the circuit.", "The current is highest near the positive terminal.", "The current drops to zero after passing the first bulb.", "The current splits up at every wire turn."],
+      "correct": 0
+    },
+    {
+      "q": "How is electric current shared across components in a parallel circuit containing identical branches?",
+      "a": ["All current flows through the first branch only.", "The total current from the source divides among the parallel branches.", "Current multiplies at each junction.", "Current becomes negative."],
+      "correct": 1
+    },
+    {
+      "q": "What is conventional current direction defined as in circuit diagrams?",
+      "a": ["From the negative terminal to the positive terminal", "Randomly oscillating back and forth", "From the positive terminal to the negative terminal", "From earth into the air"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following materials is an excellent conductor of electric current?",
+      "a": ["Dry wood", "Pure rubber", "Plastic sheeting", "Copper wire"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to other lamps in a simple series circuit if one lamp filament breaks (burns out)?",
+      "a": ["All other lamps go out because the circuit is now broken.", "They shine twice as brightly.", "They remain unaffected.", "They start blinking."],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary function of a switch in an electrical circuit?",
+      "a": ["To increase battery voltage automatically", "To open or close the circuit, controlling whether current can flow", "To convert electrical energy into sound", "To measure resistance"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following materials is classified as an electrical insulator?",
+      "a": ["Iron nail", "Graphite rod", "Plastic or rubber", "Aluminum foil"],
+      "correct": 2
+    },
+    {
+      "q": "What happens in a parallel circuit if one branch bulb burns out or is disconnected?",
+      "a": ["All bulbs in the circuit go out immediately.", "The power source explodes.", "The entire current drops to zero.", "Bulbs in the other parallel branches remain lit."],
+      "correct": 3
+    },
+    {
+      "q": "What subatomic particles flow through metal wires to carry an electric current?",
+      "a": ["Free electrons", "Protons", "Neutrons", "Atomic nuclei"],
+      "correct": 0
+    },
+    {
+      "q": "Which circuit component is designed to melt and break the circuit if the current becomes dangerously high, preventing fires?",
+      "a": ["A plastic switch", "A fuse", "A copper resistor", "A wooden peg"],
+      "correct": 1
+    },
+    {
+      "q": "What unit is used to measure electrical charge (Q), which equals current multiplied by time?",
+      "a": ["Volts", "Watts", "Coulombs (C)", "Joules"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following diagrams correctly shows how to connect an ammeter into a circuit to measure current?",
+      "a": ["Connected directly across the battery terminals in parallel", "Connected between two separate disconnected circuits", "Connected as a loop around the outside of the room", "Connected in series with the components so all current passes through it"],
+      "correct": 3
+    },
+    {
+      "q": "If two identical lamps are connected in series with a 6 V battery, how does the brightness compare to a single lamp connected across the same battery?",
+      "a": ["They are dimmer because the potential difference is shared between them.", "They are much brighter.", "They have zero brightness.", "They flash on and off."],
+      "correct": 0
+    },
+    {
+      "q": "What is the main advantage of wiring household lights in parallel rather than in series?",
+      "a": ["It uses more wire.", "Each appliance can be switched on and off independently, and all get full mains voltage.", "It causes frequent short circuits.", "It reduces brightness to save energy."],
+      "correct": 1
+    },
+    {
+      "q": "Which formula correctly links charge (Q), current (I), and time (t)?",
+      "a": ["Q = I / t", "Q = t / I", "Q = I × t", "Q = I + t"],
+      "correct": 2
+    },
+    {
+      "q": "What occurs when a low-resistance wire accidentally connects the positive and negative terminals of a power supply directly, causing a massive surge of current?",
+      "a": ["A drop in temperature", "A stable equilibrium", "An open circuit", "A short circuit (risk of overheating or fire)"],
+      "correct": 3
+    },
+    {
+      "q": "Why are electrical wires in homes usually coated with a layer of plastic insulation?",
+      "a": ["To prevent electric shocks and accidental short circuits between touching wires", "To make the wires heavier", "To increase current flow speed", "To generate decorative colors"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the total current drawn from a battery when more resistors or lamps are added in parallel?",
+      "a": ["The total current decreases.", "The total current increases because more alternative pathways are available.", "The total current drops to zero.", "Current remains completely unchanged."],
+      "correct": 1
+    },
+    {
+      "q": "Which of these electronic symbols represents an open switch in a circuit diagram?",
+      "a": ["A solid straight line with no breaks", "A closed circle with a cross", "A line with a bridge showing a gap and lever lifted", "A zigzag jagged line"],
+      "correct": 2
+    },
+    {
+      "q": "What energy transformation takes place when an electric current flows through a resistor or heating element?",
+      "a": ["Electrical energy converts into sound only.", "Electrical energy converts into chemical energy.", "Electrical energy converts into nuclear energy.", "Electrical energy converts into thermal energy (heating)."],
+      "correct": 3
+    },
+    {
+      "q": "If a current of 2 A flows through a lamp for 10 seconds, what total electrical charge passes through?",
+      "a": ["20 Coulombs (C)", "5 Coulombs", "0.2 Coulombs", "200 Coulombs"],
+      "correct": 0
+    },
+    {
+      "q": "Which term describes a complete path through which electric charge can flow?",
+      "a": ["An open gap", "A closed circuit", "An insulator shield", "A magnetic field"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the total resistance of a circuit and the resulting current when more resistors are added in series?",
+      "a": ["Total resistance decreases and current increases.", "Resistance stays zero and current is infinite.", "Total resistance increases and current decreases.", "Current remains constant regardless of resistance."],
+      "correct": 2
+    },
+    {
+      "q": "Which device is used as a source of electrical energy in a simple portable flashlight?",
+      "a": ["A glass prism", "An ammeter", "A steel core", "Cells or batteries"],
+      "correct": 3
+    },
+    {
+      "q": "What does a battery supply to free electrons in a circuit to push them around the loop?",
+      "a": ["Potential difference (voltage)", "Magnetic friction", "Gravitational pull", "Sound waves"],
+      "correct": 0
+    },
+    {
+      "q": "Why is copper chosen over rubber for making electrical connection wires?",
+      "a": ["Copper is an insulator.", "Copper has very low electrical resistance and conducts current extremely well.", "Copper is magnetic.", "Copper is transparent."],
+      "correct": 1
+    },
+    {
+      "q": "If three identical lamps are wired in parallel across a 6 V battery, what is the potential difference across each individual lamp?",
+      "a": ["2 V", "18 V", "6 V", "0 V"],
+      "correct": 2
+    },
+    {
+      "q": "What safety device breaks a circuit automatically by tripping a magnetic switch when an overload current is detected in modern homes?",
+      "a": ["A wooden breaker", "An insulation sleeve", "A standard glass fuse wire", "A circuit breaker (MCB)"],
+      "correct": 3
+    }
+  ]
+}

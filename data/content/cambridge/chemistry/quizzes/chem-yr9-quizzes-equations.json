@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr9-quizzes-equations",
+  "name": "Chemical equations balancing and stoichiometry",
+  "questions": [
+    {
+      "q": "What law states that mass is neither created nor destroyed during a chemical reaction, which is why chemical equations must be balanced?",
+      "a": ["Law of Conservation of Mass", "Law of Constant Proportions", "Law of Definite Composition", "Law of Gaseous Volumes"],
+      "correct": 0
+    },
+    {
+      "q": "What are the starting substances in a chemical reaction called, written on the left-hand side of a chemical equation?",
+      "a": ["Products", "Reactants", "Catalysts", "Inhibitors"],
+      "correct": 1
+    },
+    {
+      "q": "What numbers are placed in front of chemical formulas in an equation to balance the number of atoms of each element?",
+      "a": ["Subscripts", "Valency numbers", "Coefficients", "Atomic numbers"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following correctly represents a balanced chemical equation for the combustion of hydrogen to form water?",
+      "a": ["H2 + O2 -> H2O", "2H2 + O2 -> H2O", "H2 + 2O2 -> 2H2O", "2H2 + O2 -> 2H2O"],
+      "correct": 3
+    },
+    {
+      "q": "In the balanced equation 2Mg + O2 -> 2MgO, how many moles of magnesium oxide are produced from 2 moles of magnesium?",
+      "a": ["2 moles", "1 mole", "4 moles", "0.5 moles"],
+      "correct": 0
+    },
+    {
+      "q": "What do state symbols in brackets, such as (s), (l), (g), and (aq), represent in a chemical equation?",
+      "a": ["The color changes of the substances", "The physical state of each substance at the reaction conditions", "The number of electron shells", "The temperature of the reaction flask"],
+      "correct": 1
+    },
+    {
+      "q": "Why is it incorrect to change the subscripts in a chemical formula when balancing an equation?",
+      "a": ["It makes the writing look untidy", "It takes too much time", "It changes the identity and chemical composition of the substance itself", "Subscripts have no mathematical meaning"],
+      "correct": 2
+    },
+    {
+      "q": "Balance the following equation: CH4 + 2O2 -> CO2 + ?H2O. What is the missing coefficient for water?",
+      "a": ["1", "3", "4", "2"],
+      "correct": 3
+    },
+    {
+      "q": "How many total oxygen atoms are represented on the reactant side of the balanced equation: 2SO2 + O2 -> 2SO3?",
+      "a": ["4", "2", "6", "3"],
+      "correct": 0
+    },
+    {
+      "q": "What does the symbol '->' signify in a chemical equation?",
+      "a": ["A mathematical equals sign", "Yields or reacts to form (separating reactants from products)", "Reversible equilibrium", "Destruction of matter"],
+      "correct": 1
+    },
+    {
+      "q": "When balancing the equation for the reaction between sodium and water: Na + H2O -> NaOH + H2, what coefficient is needed in front of NaOH?",
+      "a": ["1", "3", "2", "4"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following equations is fully balanced?",
+      "a": ["N2 + H2 -> NH3", "N2 + 3H2 -> NH3", "N2 + H2 -> 2NH3", "N2 + 3H2 -> 2NH3"],
+      "correct": 3
+    },
+    {
+      "q": "What does the coefficient '3' in front of 3H2SO4 indicate?",
+      "a": ["Three molecules of sulfuric acid", "Six sulfur atoms", "Twelve hydrogen atoms only", "A total molecular weight of 3"],
+      "correct": 0
+    },
+    {
+      "q": "In a balanced chemical equation, what must be equal on both the reactant and product sides?",
+      "a": ["The total volume of gases", "The number of atoms of each individual element", "The total number of molecules", "The temperature of the substances"],
+      "correct": 1
+    },
+    {
+      "q": "Balance the equation for the thermal decomposition of calcium carbonate: CaCO3 -> CaO + CO2. Is this equation already balanced as written?",
+      "a": ["No, it needs a 2 in front of CaCO3", "No, it needs a 3 in front of CO2", "Yes, it is already balanced with 1:1:1 stoichiometry", "No, it violates conservation of mass"],
+      "correct": 2
+    },
+    {
+      "q": "What is an ionic equation used to show?",
+      "a": ["Only the neutral gases in a system", "The color of precipitates formed", "Every single atom present in solid blocks", "The specific ions that take part in a reaction in aqueous solution, omitting spectator ions"],
+      "correct": 3
+    },
+    {
+      "q": "What are 'spectator ions' in an aqueous chemical reaction?",
+      "a": ["Ions that remain unchanged and do not participate directly in the chemical reaction", "Ions that cause color changes", "Ions that turn into gases", "Ions that precipitate out first"],
+      "correct": 0
+    },
+    {
+      "q": "If 4 grams of hydrogen react completely with 32 grams of oxygen, what mass of water is produced according to the law of conservation of mass?",
+      "a": ["18 grams", "36 grams", "64 grams", "16 grams"],
+      "correct": 1
+    },
+    {
+      "q": "What is the correct balanced equation for the reaction of iron with hydrochloric acid to form iron(II) chloride and hydrogen gas?",
+      "a": ["Fe + HCl -> FeCl + H", "Fe + 2HCl -> FeCl3 + H2", "Fe + 2HCl -> FeCl2 + H2", "2Fe + HCl -> 2FeCl + H2"],
+      "correct": 2
+    },
+    {
+      "q": "What does the (aq) state symbol mean in a chemical equation?",
+      "a": ["An aqueous solution dissolved in pure alcohol", "A pure liquid substance", "A gaseous vapor", "An aqueous solution dissolved in water"],
+      "correct": 3
+    },
+    {
+      "q": "When balancing equations containing polyatomic ions (like SO4^2-), how is it usually easiest to balance them?",
+      "a": ["Treat the intact polyatomic ion as a single unit if it appears unchanged on both sides", "Break the polyatomic ion into individual atoms immediately", "Ignore the polyatomic ion completely", "Change its subscript to match numbers"],
+      "correct": 0
+    },
+    {
+      "q": "Balance the combustion of carbon: C + O2 -> CO2. What is the sum of all stoichiometric coefficients in this balanced equation?",
+      "a": ["2", "3", "4", "5"],
+      "correct": 1
+    },
+    {
+      "q": "In the reaction: Zn + CuSO4 -> ZnSO4 + Cu, what type of chemical reaction equation is this representing?",
+      "a": ["Neutralization", "Thermal decomposition", "Displacement reaction", "Combustion"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary purpose of writing word equations before chemical equations?",
+      "a": ["To calculate atomic weights", "To measure gas volumes", "To determine color changes", "To identify the reactants and products in words before translating them into chemical formulas"],
+      "correct": 3
+    },
+    {
+      "q": "Balance the following equation: Al + O2 -> Al2O3. What is the coefficient in front of oxygen (O2)?",
+      "a": ["3", "1", "2", "4"],
+      "correct": 0
+    },
+    {
+      "q": "How many hydrogen atoms are present in the formula 3(NH4)2SO4?",
+      "a": ["12", "24", "8", "16"],
+      "correct": 1
+    },
+    {
+      "q": "What does stoichiometry allow chemists to calculate?",
+      "a": ["The color of flames", "The exact melting points of metals", "The relative quantities of reactants consumed and products formed in a reaction", "The exact speed of light in solutions"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following represents an unbalanced chemical equation?",
+      "a": ["2Na + Cl2 -> 2NaCl", "CH4 + 2O2 -> CO2 + 2H2O", "N2 + 3H2 -> 2NH3", "H2 + O2 -> H2O"],
+      "correct": 3
+    },
+    {
+      "q": "When balancing the equation for the neutralization of sodium hydroxide with hydrochloric acid: NaOH + HCl -> NaCl + H2O, what are the stoichiometric coefficients?",
+      "a": ["1, 1, 1, 1", "2, 1, 2, 1", "1, 2, 1, 2", "2, 2, 1, 1"],
+      "correct": 0
+    },
+    {
+      "q": "Why can coefficients be changed when balancing an equation, but subscripts cannot?",
+      "a": ["Coefficients change atom types", "Coefficients change the number of molecules or moles without altering chemical identity, whereas subscripts change the chemical identity", "Subscripts are always integers", "Coefficients are permanent"],
+      "correct": 1
+    },
+    {
+      "q": "In the reaction: Mg + 2HCl -> MgCl2 + H2, if 1 mole of magnesium reacts, how many moles of hydrogen gas are produced?",
+      "a": ["2 moles", "0.5 moles", "1 mole", "3 moles"],
+      "correct": 2
+    },
+    {
+      "q": "What indicates that a chemical reaction equation represents a reversible reaction rather than going to completion in one direction?",
+      "a": ["An arrow pointing straight down", "An equals sign", "A dashed line", "Harpoon arrows pointing in opposite directions (<=> or right/left harpoons)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the coefficient of water when the equation for the combustion of propane is balanced: C3H8 + O2 -> CO2 + H2O?",
+      "a": ["4", "2", "3", "5"],
+      "correct": 0
+    },
+    {
+      "q": "Which scientist's experimental work with sealed vessels and combustion firmly established the Law of Conservation of Mass?",
+      "a": ["John Dalton", "Antoine Lavoisier", "Dmitri Mendeleev", "J.J. Thomson"],
+      "correct": 1
+    },
+    {
+      "q": "When copper(II) oxide reacts with sulfuric acid, the equation is CuO + H2SO4 -> CuSO4 + H2O. What is the mole ratio of copper(II) oxide to copper(II) sulfate?",
+      "a": ["2:1", "1:2", "1:1", "3:2"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following correctly describes a balanced net ionic equation?",
+      "a": ["An equation including all spectator ions", "An equation showing only mass in grams", "An equation with unbalanced charges", "An ionic equation where both atom mass and net electrical charge are balanced on both sides"],
+      "correct": 3
+    }
+  ]
+}

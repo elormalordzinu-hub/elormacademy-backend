@@ -1,0 +1,53 @@
+{
+  "mathematics": {
+    "year-7": {
+      "games": [{ "name": "Algebra Attack", "id": "math-yr7-alg1" }],
+      "quizzes": [{ "name": "Fractions Basics", "id": "math-yr7-frac1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-8": {
+      "games": [{ "name": "Geometry Dash", "id": "math-yr8-geo1" }],
+      "quizzes": [{ "name": "Percentages", "id": "math-yr8-perc1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-9": {
+      "games": [{ "name": "Pythagoras Quest", "id": "math-yr9-pyth1" }],
+      "quizzes": [{ "name": "Simultaneous Equations", "id": "math-yr9-simul1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    }
+  },
+  "chemistry": {
+    "year-7": {
+      "games": [{ "name": "States of Matter", "id": "chem-yr7-states" }],
+      "quizzes": [{ "name": "Periodic Table Intro", "id": "chem-yr7-per1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-8": {
+      "games": [{ "name": "Atom Builder", "id": "chem-yr8-atom" }],
+      "quizzes": [{ "name": "Chemical Reactions", "id": "chem-yr8-rxn1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-9": {
+      "games": [{ "name": "Bonding Battle", "id": "chem-yr9-bond" }],
+      "quizzes": [{ "name": "Mole Calculations", "id": "chem-yr9-mole" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    }
+  },
+  "physics": {
+    "year-7": {
+      "games": [{ "name": "Force Field", "id": "phys-yr7-force" }],
+      "quizzes": [{ "name": "Energy Basics", "id": "phys-yr7-nrg1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-8": {
+      "games": [{ "name": "Light Refraction", "id": "phys-yr8-light" }],
+      "quizzes": [{ "name": "Sound Waves", "id": "phys-yr8-snd1" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    },
+    "year-9": {
+      "games": [{ "name": "Gravity Orbit", "id": "phys-yr9-grav" }],
+      "quizzes": [{ "name": "Electric Circuits", "id": "phys-yr9-circ" }],
+      "simulations": [], "definitions": [], "study-guides": [], "true-false": [], "videos": [], "worksheets": []
+    }
+  }
+}

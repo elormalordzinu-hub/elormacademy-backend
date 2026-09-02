@@ -1,0 +1,146 @@
+{
+"id": "phys-yr7-quizzes-density",
+"name": "Density and its calculation",
+"questions": [
+{
+"q": "What is the scientific definition of density?",
+"a": ["Mass per unit volume of a substance", "Weight per unit area", "Volume per unit mass", "Total mass of an object"],
+"correct": 0
+},
+{
+"q": "What is the standard SI unit for density?",
+"a": ["grams per cubic centimetre (g/cm³)", "kilograms per cubic metre (kg/m³)", "kilograms per litre (kg/L)", "grams per millilitre (g/mL)"],
+"correct": 1
+},
+{
+"q": "Which formula is used to calculate density (d or ρ)?",
+"a": ["Density = Volume × Mass", "Density = Mass + Volume", "Density = Mass / Volume", "Density = Volume / Mass"],
+"correct": 2
+},
+{
+"q": "If an object has a mass of 20 grams and a volume of 10 cubic centimetres, what is its density?",
+"a": ["0.5 g/cm³", "200 g/cm³", "2 g/cm³", "10 g/cm³"],
+"correct": 3
+},
+{
+"q": "Why do objects like wood or ice float on water?",
+"a": ["Their density is less than the density of water", "They contain trapped air pockets only", "They have zero mass", "Water pushes them away with magnetic force"],
+"correct": 0
+},
+{
+"q": "What instrument is required to measure the mass component when calculating the density of a solid object?",
+"a": ["A thermometer", "An electronic balance", "A stopwatch", "A metre rule"],
+"correct": 1
+},
+{
+"q": "If a liquid has a density of 1.0 g/cm³, which common substance is it most likely to be?",
+"a": ["Iron", "Mercury", "Pure water", "Gold"],
+"correct": 2
+},
+{
+"q": "A solid block of metal has a volume of 50 cm³ and a density of 8 g/cm³. What is its mass?",
+"a": ["6.25 g", "42 g", "58 g", "400 g"],
+"correct": 3
+},
+{
+"q": "Why does a solid iron nail sink in water even though iron ships float?",
+"a": ["The shape of the ship traps air, making its overall average density less than water", "Iron is lighter than water", "The ship is made of plastic inside", "Water pushes down harder on nails"],
+"correct": 0
+},
+{
+"q": "If you cut a large block of solid aluminum in half, what happens to the density of each piece?",
+"a": ["The density doubles", "The density remains exactly the same as the original block", "The density becomes zero", "The density is halved"],
+"correct": 1
+},
+{
+"q": "How can you determine the volume of an irregular solid object like a stone before calculating its density?",
+"a": ["Multiply its length by its width", "Weigh it on a spring scale", "Use water displacement in a measuring cylinder", "Measure its temperature"],
+"correct": 2
+},
+{
+"q": "What happens to the density of most substances when they are heated significantly?",
+"a": ["Density increases because mass increases", "Density stays constant", "Density becomes infinite", "Density decreases because volume expands"],
+"correct": 3
+},
+{
+"q": "If a liquid has a high density compared to another liquid, how do they generally behave when mixed without dissolving (like oil and water)?",
+"a": ["The denser liquid sinks to the bottom", "The denser liquid floats to the top", "They mix instantly into a solid", "They evaporate into the air"],
+"correct": 0
+},
+{
+"q": "What is the volume of a liquid with a mass of 100 g and a density of 2.0 g/cm³?",
+"a": ["200 cm³", "50 cm³", "0.02 cm³", "102 cm³"],
+"correct": 1
+},
+{
+"q": "Which state of matter typically has the highest density under normal conditions?",
+"a": ["Gas", "Liquid", "Solid", "Plasma"],
+"correct": 2
+},
+{
+"q": "An irregular metal sinker has a mass of 105 g. When dropped into a measuring cylinder, the water level rises from 50 cm³ to 65 cm³. What is the density of the metal?",
+"a": ["1.5 g/cm³", "2.1 g/cm³", "5.25 g/cm³", "7.0 g/cm³"],
+"correct": 3
+},
+{
+"q": "Which units are commonly used for the density of gases in school science labs?",
+"a": ["g/cm³ or kg/m³ (often much smaller numerical values due to large volume)", "kg/kg", "cm³/g", "N/m²"],
+"correct": 0
+},
+{
+"q": "What is the mass of 10 cm³ of a liquid whose density is 0.8 g/cm³?",
+"a": ["1.25 g", "8.0 g", "80 g", "10.8 g"],
+"correct": 1
+},
+{
+"q": "If object A has a density of 0.7 g/cm³ and object B has a density of 1.2 g/cm³, what will happen if both are placed in a container of pure water (density 1.0 g/cm³)?",
+"a": ["Both will sink to the bottom", "Both will float on top", "Object A will float, and Object B will sink", "Object B will float, and Object A will sink"],
+"correct": 2
+},
+{
+"q": "Why do gases have much lower densities than solids and liquids?",
+"a": ["Gas particles have more mass", "Gas particles are tightly packed", "Gas molecules attract each other strongly", "Gas particles are spread very far apart with large empty spaces between them"],
+"correct": 3
+},
+{
+"q": "If you have 1 kg of feathers and 1 kg of solid iron, which one has a greater volume?",
+"a": ["The feathers, because their density is much lower", "The iron, because it is heavier", "They both have the exact same volume", "Neither has volume"],
+"correct": 0
+},
+{
+"q": "What is the density of an object with a mass of 36 g and a volume of 12 cm³?",
+"a": ["2.0 g/cm³", "3.0 g/cm³", "4.0 g/cm³", "48.0 g/cm³"],
+"correct": 1
+},
+{
+"q": "How does temperature affect the density of water when it is cooled from 4°C to 0°C and freezes into ice?",
+"a": ["Ice becomes denser than liquid water", "Ice density stays exactly equal to water", "Ice expands, making its density lower than liquid water (which is why ice floats)", "Ice evaporates completely"],
+"correct": 2
+},
+{
+"q": "Which formula can be rearranged to find the mass of an object if you know its density and volume?",
+"a": ["Mass = Volume / Density", "Mass = Density - Volume", "Mass = Volume + Density", "Mass = Density × Volume"],
+"correct": 3
+},
+{
+"q": "A rectangular block of wood measures 2 cm × 5 cm × 10 cm and has a mass of 60 g. What is its density?",
+"a": ["0.6 g/cm³", "6.0 g/cm³", "1.6 g/cm³", "600 g/cm³"],
+"correct": 0
+},
+{
+"q": "Why do hot air balloons rise into the air?",
+"a": ["The air inside the balloon is cooled down", "Heating the air inside makes it expand, reducing its density compared to the cooler outside air", "The balloon fabric becomes magnetic", "The Earth's gravity stops working on balloons"],
+"correct": 1
+},
+{
+"q": "If 50 cm³ of liquid X has a mass of 40 g, what is the density of liquid X?",
+"a": ["1.25 g/cm³", "10.0 g/cm³", "0.8 g/cm³", "2.0 g/cm³"],
+"correct": 2
+},
+{
+"q": "What term describes a substance's mass divided by its volume, expressed in standard units?",
+"a": ["Weight", "Pressure", "Concentration", "Density"],
+"correct": 3
+}
+]
+}

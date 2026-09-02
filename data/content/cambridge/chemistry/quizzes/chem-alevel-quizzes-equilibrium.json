@@ -1,0 +1,166 @@
+{
+"id": "chem-alevel-quizzes-equilibrium",
+"name": "Chemical equilibrium and Kc expressions",
+"questions": [
+{
+"q": "What is the dynamic equilibrium state characterized by in a reversible chemical reaction?",
+"a": ["Rates of forward and reverse reactions are equal and concentrations of reactants and products remain constant", "All chemical reactions stop completely", "Concentrations of reactants and products become exactly equal", "The forward reaction rate drops to zero"],
+"correct": 0
+},
+{
+"q": "According to Le Chatelier's principle, what happens to the position of equilibrium when the pressure of a gaseous equilibrium mixture is increased?",
+"a": ["Shifts in the direction that produces more moles of gas", "Shifts in the direction that produces fewer moles of gas", "Remains completely unaffected", "Shifts to favor the endothermic direction regardless of moles"],
+"correct": 1
+},
+{
+"q": "How does an increase in temperature affect the value of the equilibrium constant (Kc) for an exothermic reversible reaction?",
+"a": ["Kc increases because the forward reaction speeds up", "Kc remains completely constant", "Kc decreases because the equilibrium shifts to favor the endothermic reverse reaction", "Kc becomes zero"],
+"correct": 2
+},
+{
+"q": "What is the correct expression for the equilibrium constant (Kc) for the reaction: N<sub>2</sub> (g) + 3H<sub>2</sub> (g) <-> 2NH<sub>3</sub> (g)?",
+"a": ["Kc = [N<sub>2</sub>] [H<sub>2</sub>]<sup>3</sup> / [NH<sub>3</sub>]<sup>2</sup>", "Kc = [NH<sub>3</sub>] / ([N<sub>2</sub>] [H<sub>2</sub>])", "Kc = 2[NH<sub>3</sub>] / ([N<sub>2</sub>] 3[H<sub>2</sub>])", "Kc = [NH<sub>3</sub>]<sup>2</sup> / ([N<sub>2</sub>] [H<sub>2</sub>]<sup>3</sup>)"],
+"correct": 3
+},
+{
+"q": "What is the effect of adding a suitable catalyst to a reversible reaction mixture at equilibrium?",
+"a": ["Increases the rates of both forward and reverse reactions equally, leaving the equilibrium position and Kc unchanged", "Shifts the equilibrium position to the right to increase yield", "Increases the value of Kc", "Decreases the activation energy of only the forward reaction"],
+"correct": 0
+},
+{
+"q": "What units are associated with the equilibrium constant Kc for the reaction: H<sub>2</sub> (g) + I<sub>2</sub> (g) <-> 2HI (g)?",
+"a": ["mol dm<sup>-3</sup>", "No units (dimensionless)", "mol<sup>-1</sup> dm<sup>3</sup>", "mol<sup>2</sup> dm<sup>-6</sup>"],
+"correct": 1
+},
+{
+"q": "What does a very large numerical value of Kc (e.g., Kc > 10<sup>5</sup>) indicate about a reaction at equilibrium?",
+"a": ["The reaction mixture consists predominantly of unreacted reactants", "The reaction rate is extremely slow", "The position of equilibrium lies far to the right, favoring products", "The reaction is non-spontaneous"],
+"correct": 2
+},
+{
+"q": "How does increasing the concentration of a reactant affect the position of a chemical equilibrium?",
+"a": ["Shifts the equilibrium to the left", "Decreases the value of Kc", "Has no effect on equilibrium yield", "Shifts the equilibrium to the right to consume the added reactant and restore equilibrium"],
+"correct": 3
+},
+{
+"q": "What term describes a system in which both forward and reverse reactions occur simultaneously at equal rates in a closed container?",
+"a": ["Dynamic equilibrium", "Static equilibrium", "Complete reaction", "Irreversible process"],
+"correct": 0
+},
+{
+"q": "In the contact process, sulfur dioxide reacts with oxygen to form sulfur trioxide: 2SO<sub>2</sub> (g) + O<sub>2</sub> (g) <-> 2SO<sub>3</sub> (g) (Delta H is negative). What conditions of temperature and pressure maximize the equilibrium yield of sulfur trioxide?",
+"a": ["High temperature and low pressure", "Low temperature and high pressure", "High temperature and high pressure", "Low temperature and low pressure"],
+"correct": 1
+},
+{
+"q": "What is the equilibrium constant expressed in terms of partial pressures for gaseous systems called?",
+"a": ["Kc", "Kn", "Kp", "Ksp"],
+"correct": 2
+},
+{
+"q": "What is the relationship between the partial pressure of an individual gas in a mixture and the total pressure according to Dalton's law?",
+"a": ["Partial pressure equals total pressure divided by temperature", "Partial pressure equals mole fraction multiplied by volume", "Partial pressure equals total pressure minus gas density", "Partial pressure equals mole fraction of that gas multiplied by the total pressure of the system"],
+"correct": 3
+},
+{
+"q": "Why are pure solids and pure liquids omitted from heterogeneous equilibrium Kc expressions?",
+"a": ["Their concentrations remain constant throughout the reaction and are incorporated into the overall value of Kc", "They do not participate in chemical reactions", "They have infinite mass", "They have zero volume in solution"],
+"correct": 0
+},
+{
+"q": "What is observed when the temperature is increased for an endothermic equilibrium reaction?",
+"a": ["Kc decreases and yield of products decreases", "Kc increases and equilibrium shifts to the right to absorb the added thermal energy", "Equilibrium shifts to the left", "No change occurs in Kc or position"],
+"correct": 1
+},
+{
+"q": "What is the mole fraction of a gas in a mixture containing 2.0 moles of nitrogen, 1.0 mole of oxygen, and 1.0 mole of argon?",
+"a": ["0.25", "0.75", "0.50", "0.20"],
+"correct": 2
+},
+{
+"q": "How does an increase in total pressure affect the position of equilibrium for the reaction: N<sub>2</sub>O<sub>4</sub> (g) <-> 2NO<sub>2</sub> (g)?",
+"a": ["Shifts to the right forming more NO<sub>2</sub>", "Has no effect because moles are equal", "Shifts to the right due to increased temperature", "Shifts to the left favoring the side with fewer moles of gas (N<sub>2</sub>O<sub>4</sub>)"],
+"correct": 3
+},
+{
+"q": "What is the unit of Kp for the dissociation of dinitrogen tetroxide: N<sub>2</sub>O<sub>4</sub> (g) <-> 2NO<sub>2</sub> (g)?",
+"a": ["kPa (or atm)", "No units", "kPa<sup>-1</sup>", "kPa<sup>2</sup>"],
+"correct": 0
+},
+{
+"q": "What condition must be maintained for a chemical system to establish and maintain dynamic equilibrium?",
+"a": ["Open container allowing gas escape", "Closed container preventing escape of reactants and products, with constant temperature", "Constant addition of fresh catalysts", "Constant removal of products"],
+"correct": 1
+},
+{
+"q": "What does Le Chatelier's principle state regarding a system at dynamic equilibrium subjected to external change?",
+"a": ["The system will remain completely unchanged", "The system will stop reacting immediately", "The system will respond in such a way as to counteract or minimize the effect of the change", "The system will undergo total thermal decomposition"],
+"correct": 2
+},
+{
+"q": "If the value of Kc for a reaction is 4.0 x 10<sup>-3</sup>, what can be deduced about the position of equilibrium?",
+"a": ["Equilibrium lies far to the right", "Reaction goes to 100 percent completion", "Equilibrium lies moderately to the right", "Equilibrium lies far to the left, favoring reactants"],
+"correct": 3
+},
+{
+"q": "What is the effect of removing a product continuously from an equilibrium mixture?",
+"a": ["Equilibrium shifts to the right to replace the removed product, increasing overall conversion", "Equilibrium shifts to the left", "Kc value increases proportionally", "Reaction stops instantly"],
+"correct": 0
+},
+{
+"q": "What does a homogeneous equilibrium refer to?",
+"a": ["A system where reactants and products are in different phases", "A system where all reactants and products are in the same physical phase (e.g., all gases or all in aqueous solution)", "A system containing only solid salts", "A system operating at absolute zero temperature"],
+"correct": 1
+},
+{
+"q": "How is the equilibrium constant for a reverse reaction (Kc prime) related to the equilibrium constant of the forward reaction (Kc)?",
+"a": ["Kc prime equals negative Kc", "Kc prime equals Kc squared", "Kc prime equals 1 / Kc", "Kc prime equals Kc divided by two"],
+"correct": 2
+},
+{
+"q": "In the industrial Haber process, why is a moderate high pressure (around 200 atmospheres) used even though higher pressures would shift equilibrium further to the right?",
+"a": ["Lower pressures give higher yields", "High pressures cause the catalyst to melt", "High pressures decrease reaction rates", "Extremely high pressures require immense capital equipment costs and pose severe safety risks while diminishing returns"],
+"correct": 3
+},
+{
+"q": "What is the primary factor that alters the numerical value of an equilibrium constant Kc?",
+"a": ["Temperature change", "Pressure change", "Concentration changes", "Addition of a catalyst"],
+"correct": 0
+},
+{
+"q": "Which of the following expressions represents the partial pressure of gas A in a mixture of gases total pressure P_total?",
+"a": ["P_A = Total moles divided by moles of A", "P_A = Mole fraction of A multiplied by P_total", "P_A = P_total plus volume of A", "P_A = Concentration of A multiplied by gas constant R"],
+"correct": 1
+},
+{
+"q": "What occurs when a system is not at equilibrium and the reaction quotient (Qc) is less than the equilibrium constant (Kc)?",
+"a": ["The reverse reaction rate exceeds the forward rate", "Equilibrium has already been attained", "The forward reaction is favored until Qc equals Kc", "No reaction takes place"],
+"correct": 2
+},
+{
+"q": "What is the effect of adding an inert gas at constant volume to a gaseous equilibrium mixture?",
+"a": ["Shifts equilibrium to the right", "Shifts equilibrium to the left", "Changes the value of Kc", "Total pressure increases, but partial pressures and mole fractions of reactants and products remain unchanged, so equilibrium does not shift"],
+"correct": 3
+},
+{
+"q": "How does a catalyst affect the time taken to reach dynamic equilibrium in a reversible reaction?",
+"a": ["Reduces the time taken to reach equilibrium by accelerating forward and reverse rates equally", "Increases the time taken significantly", "Prevents equilibrium from ever being reached", "Has zero effect on reaction time"],
+"correct": 0
+},
+{
+"q": "What is the expression for Kp for the thermal decomposition of calcium carbonate: CaCO<sub>3</sub> (s) <-> CaO (s) + CO<sub>2</sub> (g)?",
+"a": ["Kp = [CaO] [CO<sub>2</sub>] / [CaCO<sub>3</sub>]", "Kp = Partial pressure of CO<sub>2</sub> (P_CO2)", "Kp = 1 / P_CO2", "Kp = P_CaO multiplied by P_CO2"],
+"correct": 1
+},
+{
+"q": "Why does a decrease in volume of a gaseous equilibrium system containing equal moles of gaseous reactants and products have no effect on equilibrium position?",
+"a": ["Pressure has no effect on gases", "Concentrations do not change", "Total moles of gas on both sides of the stoichiometric equation are equal", "Temperature drops automatically"],
+"correct": 2
+},
+{
+"q": "What is the term for a chemical reaction that can proceed in both forward and reverse directions under suitable conditions?",
+"a": ["First-order reaction", "Disproportionation reaction", "Neutralization reaction", "Reversible reaction"],
+"correct": 3
+}
+]
+}

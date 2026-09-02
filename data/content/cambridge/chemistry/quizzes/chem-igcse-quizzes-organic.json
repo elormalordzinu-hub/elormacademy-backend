@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-organic",
+"name": "Organic chemistry alkanes alkenes and alcohols",
+"questions": [
+{
+"q": "What is the general formula for alkanes?",
+"a": ["C<sub>n</sub>H<sub>2n+2</sub>", "C<sub>n</sub>H<sub>2n</sub>", "C<sub>n</sub>H<sub>2n-2</sub>", "C<sub>n</sub>H<sub>2n+1</sub>OH"],
+"correct": 0
+},
+{
+"q": "Which functional group is present in all alkenes?",
+"a": ["C-O single bond", "C=C double bond", "O-H hydroxyl group", "C-Cl bond"],
+"correct": 1
+},
+{
+"q": "What is the name of the alkane containing four carbon atoms?",
+"a": ["Propane", "Pentane", "Butane", "Hexane"],
+"correct": 2
+},
+{
+"q": "What homologous series does ethanol belong to?",
+"a": ["Alkanes", "Alkenes", "Carboxylic acids", "Alcohols"],
+"correct": 3
+},
+{
+"q": "What happens when ethene reacts with steam in the presence of a phosphoric acid catalyst?",
+"a": ["Ethanol is produced", "Ethane is produced", "Carbon dioxide and water are produced", "Poly(ethene) is produced"],
+"correct": 0
+},
+{
+"q": "Which of the following compounds is saturated?",
+"a": ["Ethene", "Ethane", "Propene", "But-2-ene"],
+"correct": 1
+},
+{
+"q": "What color change is observed when an alkene is bubbled through aqueous bromine?",
+"a": ["From green to blue", "From colorlessly clear to black", "From orange-brown to colorless", "From purple to pink"],
+"correct": 2
+},
+{
+"q": "What are the two main products of the complete combustion of an alkane such as methane?",
+"a": ["Carbon monoxide and water", "Carbon and hydrogen", "Carbon dioxide and hydrogen", "Carbon dioxide and water"],
+"correct": 3
+},
+{
+"q": "Which process is used to break down long-chain petroleum fractions into more useful shorter-chain alkanes and alkenes?",
+"a": ["Cracking", "Neutralization", "Fractional distillation", "Polymerization"],
+"correct": 0
+},
+{
+"q": "What is the functional group of carboxylic acids?",
+"a": ["-OH", "-COOH", "-CHO", "-COOR"],
+"correct": 1
+},
+{
+"q": "Which of the following is a condition required for the catalytic cracking of long-chain hydrocarbons?",
+"a": ["Presence of concentrated sulfuric acid at room temperature", "Exposure to strong sunlight", "High temperature and a catalyst (such as alumina or silica)", "High pressure with aqueous sodium hydroxide"],
+"correct": 2
+},
+{
+"q": "What is formed when ethanol undergoes oxidation by reacting with acidified potassium manganate(VII)?",
+"a": ["Ethane", "Ethene", "Ethyl ethanoate", "Ethanoic acid"],
+"correct": 3
+},
+{
+"q": "What is the molecular formula of propene?",
+"a": ["C<sub>3</sub>H<sub>6</sub>", "C<sub>3</sub>H<sub>8</sub>", "C<sub>3</sub>H<sub>4</sub>", "C<sub>2</sub>H<sub>4</sub>"],
+"correct": 0
+},
+{
+"q": "Which term describes molecules with the same molecular formula but different structural formulas?",
+"a": ["Homologues", "Isomers", "Allotropes", "Isotopes"],
+"correct": 1
+},
+{
+"q": "What type of chemical reaction occurs when bromine reacts with ethene?",
+"a": ["Substitution", "Condensation", "Addition", "Neutralization"],
+"correct": 2
+},
+{
+"q": "Which of the following alcohols has the chemical formula C<sub>4</sub>H<sub>9</sub>OH?",
+"a": ["Methanol", "Ethanol", "Propanol", "Butanol"],
+"correct": 3
+},
+{
+"q": "What is the main component of natural gas?",
+"a": ["Methane", "Ethane", "Propane", "Butane"],
+"correct": 0
+},
+{
+"q": "Why do alkanes undergo substitution reactions with halogens rather than addition reactions?",
+"a": ["Alkanes are highly reactive gases", "Alkanes only have single covalent bonds (are saturated) and lack a double bond", "Alkanes contain ionic bonds that break easily", "Alkanes act as strong oxidizing agents"],
+"correct": 1
+},
+{
+"q": "What gas is produced when sodium metal reacts with ethanol?",
+"a": ["Carbon dioxide", "Oxygen", "Hydrogen", "Methane"],
+"correct": 2
+},
+{
+"q": "Which of the following describes the trend in boiling points of alkanes as relative molecular mass increases?",
+"a": ["Boiling points decrease", "Boiling points remain completely constant", "Boiling points fluctuate randomly", "Boiling points increase"],
+"correct": 3
+},
+{
+"q": "What is the general formula for alkenes?",
+"a": ["C<sub>n</sub>H<sub>2n</sub>", "C<sub>n</sub>H<sub>2n+2</sub>", "C<sub>n</sub>H<sub>2n-2</sub>", "C<sub>n</sub>H<sub>n</sub>"],
+"correct": 0
+},
+{
+"q": "Which of the following is produced during the fermentation of glucose using yeast?",
+"a": ["Ethanoic acid and water", "Ethanol and carbon dioxide", "Ethene and hydrogen", "Methanol and oxygen"],
+"correct": 1
+},
+{
+"q": "What is a necessary condition for the fermentation of glucose to produce ethanol effectively?",
+"a": ["Temperature above 100 degrees Celsius", "Strong sunlight and dry air", "An absence of oxygen (anaerobic conditions) and a warm temperature around 30 to 35 degrees Celsius", "Presence of concentrated hydrochloric acid"],
+"correct": 2
+},
+{
+"q": "What is the name of the ester formed when ethanol reacts with ethanoic acid?",
+"a": ["Methyl methanoate", "Propyl propanoate", "Ethyl methanoate", "Ethyl ethanoate"],
+"correct": 3
+},
+{
+"q": "What is the structural feature shared by members of the same homologous series?",
+"a": ["The same functional group", "The same physical state at room temperature", "The same total number of atoms", "The same melting point"],
+"correct": 0
+},
+{
+"q": "Which substance is used as a catalyst when converting ethanol into ethene by dehydration?",
+"a": ["Copper(II) oxide", "Aluminium oxide or concentrated sulfuric acid", "Iron powder", "Manganese(IV) oxide"],
+"correct": 1
+},
+{
+"q": "What type of formula shows the actual number of atoms of each element in a molecule?",
+"a": ["Empirical formula", "Structural formula", "Molecular formula", "General formula"],
+"correct": 2
+},
+{
+"q": "Which of the following compounds is a member of the carboxylic acid series?",
+"a": ["Ethanol", "Ethene", "Ethane", "Ethanoic acid"],
+"correct": 3
+},
+{
+"q": "What is the name of the process used to separate crude oil into useful fractions?",
+"a": ["Fractional distillation", "Cracking", "Filtration", "Simple distillation"],
+"correct": 0
+},
+{
+"q": "Which fraction obtained from fractional distillation of crude oil has the lowest boiling point and lowest viscosity?",
+"a": ["Bitumen", "Refinery gas (petroleum gas)", "Diesel oil", "Lubricating fraction"],
+"correct": 1
+},
+{
+"q": "What color is observed when acidified potassium dichromate(VI) reacts with ethanol?",
+"a": ["From green to orange", "From blue to colorless", "From orange to green", "From purple to colorless"],
+"correct": 2
+},
+{
+"q": "Why is fractional distillation of petroleum possible?",
+"a": ["Different fractions have different colors", "Different fractions have different solubilities in water", "Different fractions have different electrical conductivities", "Different fractions have different boiling points due to varying chain lengths"],
+"correct": 3
+},
+{
+"q": "What is the empirical formula of ethene (C<sub>2</sub>H<sub>4</sub>)?",
+"a": ["CH<sub>2</sub>", "C<sub>2</sub>H<sub>4</sub>", "CH<sub>3</sub>", "C<sub>2</sub>H<sub>2</sub>"],
+"correct": 0
+},
+{
+"q": "What is formed when chlorine reacts with methane in the presence of ultraviolet light?",
+"a": ["Chloromethane and water", "Chloromethane and hydrogen chloride", "Dichloromethane and oxygen", "Carbon tetrachloride only"],
+"correct": 1
+},
+{
+"q": "Which of the following statements about homologous series is correct?",
+"a": ["Adjacent members differ by a CH unit", "All members have identical physical properties", "Adjacent members differ by a CH<sub>2</sub> group in their molecular formulas", "All members are gases at room temperature"],
+"correct": 2
+},
+{
+"q": "What is the functional group found in esters?",
+"a": ["-OH", "-COOH", "-CHO", "-COO-"],
+"correct": 3
+},
+{
+"q": "Which of the following organic compounds will decolorize aqueous bromine rapidly?",
+"a": ["Propene", "Propane", "Ethanol", "Ethanoic acid"],
+"correct": 0
+},
+{
+"q": "What are the products when ethanol burns completely in excess oxygen?",
+"a": ["Ethanol vapor and hydrogen", "Carbon dioxide and water", "Carbon monoxide and carbon", "Ethanoic acid and water"],
+"correct": 1
+},
+{
+"q": "What name is given to hydrocarbons that contain only single carbon-carbon bonds?",
+"a": ["Unsaturated", "Aromatic", "Saturated", "Alkenes"],
+"correct": 2
+},
+{
+"q": "What type of reaction is the conversion of ethene to poly(ethene)?",
+"a": ["Condensation polymerization", "Thermal decomposition", "Substitution", "Addition polymerization"],
+"correct": 3
+}
+]
+}

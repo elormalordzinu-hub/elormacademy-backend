@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-climate-conservation",
+"name": "Climate Conservation",
+"questions": [
+{
+"q": "What term is used to describe the long-term alteration of global weather patterns and average temperatures, largely driven by human activities?",
+"a": ["Climate change", "Daily weather forecast", "Diurnal temperature range", "Atmospheric pressure drop"],
+"correct": 0
+},
+{
+"q": "Which of the following greenhouse gases is released in large quantities through the burning of fossil fuels and deforestation?",
+"a": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+"correct": 1
+},
+{
+"q": "What is the primary objective of climate conservation efforts worldwide?",
+"a": ["To accelerate industrial coal mining", "To eliminate all rainfall permanently", "To protect ecosystems, reduce greenhouse gas emissions, and stabilize global temperatures", "To increase the rate of global deforestation"],
+"correct": 2
+},
+{
+"q": "Which of the following everyday human activities helps contribute directly to climate conservation?",
+"a": ["Leaving electrical appliances on standby all day", "Burning household plastic waste in open yards", "Driving a heavy diesel truck with faulty exhaust pipes", "Planting trees and practicing afforestation"],
+"correct": 3
+},
+{
+"q": "What name is given to the natural process by which certain gases in the Earth's atmosphere trap heat, keeping the planet warm enough to sustain life?",
+"a": ["The greenhouse effect", "Photosynthesis", "Nuclear fission", "Magnetic induction"],
+"correct": 0
+},
+{
+"q": "Which of the following is a major consequence of global warming on polar regions and sea levels?",
+"a": ["Expansion of polar ice sheets", "Melting of glaciers and rising sea levels", "Increase in global snowfall amounts", "Cooling of ocean surface currents"],
+"correct": 1
+},
+{
+"q": "What term describes the large-scale planting of trees in areas that were previously deforested to restore ecosystems and absorb carbon dioxide?",
+"a": ["Urbanization", "Desertification", "Afforestation / Reforestation", "Strip mining"],
+"correct": 2
+},
+{
+"q": "Which of the following energy sources contributes the least to greenhouse gas emissions and climate change?",
+"a": ["Coal-fired power plants", "Diesel generators", "Heavy fuel oil burners", "Solar and wind energy"],
+"correct": 3
+},
+{
+"q": "What is the primary cause of global deforestation, which significantly worsens climate change?",
+"a": ["Clearing land for agriculture, logging, and infrastructure development", "Natural cooling cycles of the upper atmosphere", "Increased ocean evaporation rates", "Volcanic ash reflection"],
+"correct": 0
+},
+{
+"q": "Which international agreement or conference framework focuses heavily on uniting nations to combat climate change and limit global temperature rises?",
+"a": ["World Health Organization charter", "United Nations Framework Convention on Climate Change (UNFCCC)", "International Monetary Fund treaty", "Global Postal Union agreement"],
+"correct": 1
+},
+{
+"q": "What term refers to the total amount of greenhouse gases produced directly and indirectly by human activities, expressed in equivalent units of carbon dioxide?",
+"a": ["Carbon footprint", "Ozone concentration", "Atmospheric pressure index", "Biodiversity index"],
+"correct": 2
+},
+{
+"q": "Which of the following agricultural practices helps mitigate climate change by improving soil health and reducing synthetic fertilizer runoff?",
+"a": ["Continuous slash-and-burn farming", "Unrestricted heavy tractor plowing", "Intensive chemical pesticide spraying", "Organic farming, crop rotation, and agroforestry"],
+"correct": 3
+},
+{
+"q": "What layer in the upper atmosphere shields the Earth from harmful ultraviolet radiation from the sun?",
+"a": ["Ozone layer", "Tropospheric water vapor", "Ionized nitrogen belt", "Carbon shell"],
+"correct": 0
+},
+{
+"q": "Which of the following gases, released from livestock digestion and paddy rice fields, is a potent greenhouse gas contributing to climate change?",
+"a": ["Methane", "Neon", "Argon", "Oxygen"],
+"correct": 1
+},
+{
+"q": "What is a major environmental benefit of protecting and conserving mangrove swamps and coastal wetlands?",
+"a": ["They increase coastal erosion rates", "They generate toxic industrial waste", "They act as carbon sinks and protect coastlines from storm surges", "They block all sunlight from reaching the sea"],
+"correct": 2
+},
+{
+"q": "Which of the following transport choices significantly reduces an individual's carbon footprint in urban areas?",
+"a": ["Driving a separate fuel-inefficient car alone", "Leaving vehicle engines idling for hours", "Using commercial jet airplanes for short trips", "Walking, cycling, or using public mass transit systems"],
+"correct": 3
+},
+{
+"q": "What term describes the shift toward using energy sources that do not emit carbon dioxide or pollute the environment?",
+"a": ["Clean energy transition", "Fossil fuel expansion", "Carbon intensification", "Industrial regression"],
+"correct": 0
+},
+{
+"q": "Why is the destruction of tropical rainforests particularly devastating for the global climate?",
+"a": ["Rainforests produce zero oxygen", "Rainforests act as major carbon sinks, and destroying them releases stored carbon back into the atmosphere", "Rainforests increase atmospheric cooling drastically", "Rainforests prevent all rainfall globally"],
+"correct": 1
+},
+{
+"q": "What practice involves recovering and processing waste materials like paper, plastic, and glass to reduce energy consumption and resource depletion?",
+"a": ["Landfilling", "Incineration", "Recycling", "Open dumping"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of an adaptation strategy to cope with the impacts of climate change in agriculture?",
+"a": ["Ignoring weather patterns completely", "Growing crops strictly during historical rainy seasons without changes", "Relying solely on unassisted rainfall for drought-stricken lands", "Developing and planting drought-resistant and early-maturing crop varieties"],
+"correct": 3
+},
+{
+"q": "What name is given to extreme weather events, such as prolonged droughts, severe floods, and intense hurricanes, which are increasing due to climate change?",
+"a": ["Climate extremes / Severe weather anomalies", "Constant seasonal norms", "Standard barometric stability", "Calm atmospheric conditions"],
+"correct": 0
+},
+{
+"q": "Which sector is currently one of the largest contributors to global greenhouse gas emissions through electricity generation and fuel combustion?",
+"a": ["Energy and transport sector", "Basic education sector", "Handicraft manufacturing", "Artisanal pottery"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of establishing national parks and wildlife reserves in climate and environmental conservation?",
+"a": ["To mine for underground minerals", "To clear land for real estate development", "To protect biodiversity, natural habitats, and ecological balance", "To harvest timber for export"],
+"correct": 2
+},
+{
+"q": "Which of the following actions demonstrates responsible water conservation, which is closely linked to climate resilience?",
+"a": ["Leaving water taps running continuously while brushing teeth", "Using broken pipes without repair", "Washing cars with open hosepipes daily", "Fixing leaking pipes, harvesting rainwater, and using water efficiently"],
+"correct": 3
+},
+{
+"q": "What term describes the variety of all living organisms within a given ecosystem, region, or the entire Earth?",
+"a": ["Biodiversity", "Biomass volume", "Population density", "Trophic level"],
+"correct": 0
+},
+{
+"q": "Which of the following human activities directly destroys marine biodiversity and coral reef ecosystems?",
+"a": ["Establishment of marine protected areas", "Destructive fishing practices, pollution, and ocean warming", "Sustainable coastal tourism management", "Reduction of plastic bag usage"],
+"correct": 1
+},
+{
+"q": "What is the primary role of carbon sinks, such as oceans and mature forests, in the global carbon cycle?",
+"a": ["To emit high volumes of carbon dioxide", "To burn fossil fuels rapidly", "To absorb and store large amounts of carbon dioxide from the atmosphere", "To block solar radiation completely"],
+"correct": 2
+},
+{
+"q": "Which of the following policies can governments implement to discourage high carbon emissions by industries?",
+"a": ["Subsidizing coal mining operations", "Banning the use of solar panels", "Providing tax breaks for heavy polluters", "Implementing carbon pricing, taxes, and strict environmental regulations"],
+"correct": 3
+},
+{
+"q": "What term is used to describe the degradation of land in arid and semi-arid regions, often caused by climate change and human overexploitation?",
+"a": ["Desertification", "Glacial accumulation", "Forest maturation", "Aquatic eutrophication"],
+"correct": 0
+},
+{
+"q": "Which of the following is a direct indicator that global climate change is actively occurring?",
+"a": ["Stable year-round temperatures globally", "Receding glaciers, rising global sea levels, and increased ocean temperatures", "Expansion of Arctic sea ice year after year", "Decrease in extreme weather anomalies"],
+"correct": 1
+},
+{
+"q": "What is the main goal of community-based climate education and awareness programs?",
+"a": ["To encourage higher energy consumption", "To promote industrial pollution", "To empower local populations with knowledge to practice environmental conservation and sustainable living", "To discourage tree planting"],
+"correct": 2
+},
+{
+"q": "Which of the following represents an energy-efficient habit in commercial and residential buildings?",
+"a": ["Leaving incandescent lights on in empty rooms", "Using old, unserviced air conditioners", "Running heaters and coolers simultaneously with open doors", "Turning off lights, fans, and electronics when leaving a room"],
+"correct": 3
+},
+{
+"q": "What name is given to fuels formed over millions of years from the decayed remains of ancient plants and animals?",
+"a": ["Fossil fuels", "Biomass fuels", "Synthetic hydrocarbons", "Renewable distillates"],
+"correct": 0
+},
+{
+"q": "Which of the following phenomena causes oceans to become more acidic, threatening marine life like shellfish and corals?",
+"a": ["Absorption of excess atmospheric carbon dioxide by seawater", "Increase in ocean salinity from melting freshwater", "Depletion of marine nitrogen gas", "Excess solar flare activity"],
+"correct": 1
+},
+{
+"q": "What is the purpose of transitioning from single-use plastics to biodegradable alternatives in waste management?",
+"a": ["To increase plastic litter in oceans", "To accelerate landfill accumulation", "To reduce environmental pollution and long-term ecological damage", "To consume more petroleum products"],
+"correct": 2
+},
+{
+"q": "Which of the following practices constitutes poor environmental stewardship and worsens climate vulnerability?",
+"a": ["Protecting water bodies from chemical dumping", "Practicing agroforestry and crop rotation", "Enforcing laws against illegal logging", "Indiscriminate burning of bushes, improper waste disposal, and illegal mining (galamsey)"],
+"correct": 3
+},
+{
+"q": "What term refers to actions taken to adjust to actual or expected climate change impacts, minimizing potential damage?",
+"a": ["Climate adaptation", "Climate denial", "Atmospheric stagnation", "Thermal acceleration"],
+"correct": 0
+},
+{
+"q": "Which of the following international cooperative efforts focuses specifically on phasing out ozone-depleting substances?",
+"a": ["The Kyoto Protocol on carbon trading", "The Montreal Protocol", "The Paris Agreement on global warming", "The Geneva Convention on warfare"],
+"correct": 1
+},
+{
+"q": "What is the primary advantage of utilizing green building standards in modern construction?",
+"a": ["They consume maximum electrical power", "They use non-recyclable toxic materials", "They optimize energy efficiency, water conservation, and sustainable material use", "They increase indoor temperatures artificially"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes the concept of sustainable development in relation to climate conservation?",
+"a": ["Using up all natural resources rapidly for immediate economic gain", "Ignoring environmental impacts for future generations", "Maximizing industrial pollution without restriction", "Meeting present societal needs without compromising the ability of future generations to meet their own needs"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Activity Menu</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="activity-page">
+
+    <div class="nav-container">
+        <a href="../index.html" class="btn-back-home">⬅ BACK</a>
+        <a href="../index.html" class="btn-back-home">HOME 🏠</a>
+    </div>
+
+    <h1 id="welcome-message"></h1>
+   
+    <div class="activity-grid">
+        <button class="btn-activity" onclick="selectActivity('games')" style="display: none;">Games 🎮</button>
+        <button class="btn-activity" onclick="selectActivity('simulations')" style="display: none;">Simulations 🔬</button>
+        
+        <button class="btn-activity" onclick="selectActivity('quizzes')">Quizzes 📝</button>
+        <button class="btn-activity" onclick="selectActivity('study-guides')" style="display: none;">Study Guides 📚</button>
+        
+        <button class="btn-activity" onclick="selectActivity('true-false')" style="display: none;">True/False ✅</button>
+        <button class="btn-activity" onclick="selectActivity('videos')" style="display: none;">Videos 🎥</button>
+
+        <button class="btn-activity" onclick="selectActivity('worksheets')" style="display: none;">Worksheets 📄</button>
+        <button class="btn-activity" onclick="selectActivity('definitions')" style="display: none;">A-Z Definitions ⚡</button>
+    </div>
+
+    <script src="../js/main.js"></script>
+</body>
+</html>

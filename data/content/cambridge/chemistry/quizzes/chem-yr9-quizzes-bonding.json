@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr9-quizzes-bonding",
+  "name": "Introduction to bonding ionic and covalent",
+  "questions": [
+    {
+      "q": "Why do atoms form chemical bonds with other atoms?",
+      "a": ["To achieve a stable, full outer electron shell (like a noble gas)", "To increase their total mass", "To destroy their protons", "To cool down their surroundings"],
+      "correct": 0
+    },
+    {
+      "q": "What type of chemical bond is formed when electrons are transferred completely from a metal to a non-metal?",
+      "a": ["Covalent bond", "Ionic bond", "Metallic bond", "Hydrogen bond"],
+      "correct": 1
+    },
+    {
+      "q": "What type of chemical bond is formed when non-metal atoms share pairs of electrons?",
+      "a": ["Ionic bond", "Metallic bond", "Covalent bond", "Electrostatic bond"],
+      "correct": 2
+    },
+    {
+      "q": "What forms when a neutral metal atom loses one or more electrons during ionic bonding?",
+      "a": ["A negative anion", "A neutral isotope", "A free radical", "A positive cation"],
+      "correct": 3
+    },
+    {
+      "q": "What forms when a non-metal atom gains electrons during ionic bonding?",
+      "a": ["A negative ion (anion)", "A positive cation", "A pure metal", "A neutron cluster"],
+      "correct": 0
+    },
+    {
+      "q": "What holds the oppositely charged ions together in an ionic compound?",
+      "a": ["Shared electron pairs", "Strong electrostatic forces of attraction", "Magnetic fields", "Gravitational pull"],
+      "correct": 1
+    },
+    {
+      "q": "How many covalent bonds are typically formed by a hydrogen atom to complete its outer shell?",
+      "a": ["Two", "Three", "One", "Four"],
+      "correct": 2
+    },
+    {
+      "q": "What type of particle structure is typically formed by covalent compounds (such as water or carbon dioxide)?",
+      "a": ["Giant ionic crystal lattices", "A sea of delocalized electrons", "Infinite metallic sheets", "Simple discrete molecules"],
+      "correct": 3
+    },
+    {
+      "q": "In a single covalent bond, how many electrons are shared between the two atoms?",
+      "a": ["A shared pair (2 electrons)", "4 electrons", "1 electron", "6 electrons"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances contains ionic bonds?",
+      "a": ["Water (H2O)", "Sodium chloride (NaCl)", "Carbon dioxide (CO2)", "Methane (CH4)"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances contains covalent bonds?",
+      "a": ["Magnesium oxide (MgO)", "Sodium fluoride (NaF)", "Oxygen gas (O2)", "Potassium chloride (KCl)"],
+      "correct": 2
+    },
+    {
+      "q": "What is the formula of the ionic compound formed between magnesium (Mg) and chlorine (Cl)?",
+      "a": ["MgCl", "Mg2Cl", "MgCl3", "MgCl2"],
+      "correct": 3
+    },
+    {
+      "q": "Why do atoms share electrons in covalent bonding instead of transferring them completely?",
+      "a": ["Both non-metal atoms have similar high electronegativities and need to gain electrons, so sharing is mutually beneficial", "One atom is a metal", "They have no electrons available", "Electrons are too heavy to transfer"],
+      "correct": 0
+    },
+    {
+      "q": "How many pairs of electrons are shared in a double covalent bond, such as in an oxygen molecule (O2)?",
+      "a": ["One pair", "Two pairs", "Three pairs", "Four pairs"],
+      "correct": 1
+    },
+    {
+      "q": "What is the chemical formula for water, formed by covalent bonding between hydrogen and oxygen?",
+      "a": ["HO", "HO2", "H2O", "H3O"],
+      "correct": 2
+    },
+    {
+      "q": "What is the term for a charged group of covalently bonded atoms that acts as a single unit (such as sulfate, SO4^2-)?",
+      "a": ["An isotope", "A noble gas", "An allotrope", "A polyatomic ion"],
+      "correct": 3
+    },
+    {
+      "q": "When a sodium atom (Group 1) reacts with a fluorine atom (Group 7), what happens to their electrons?",
+      "a": ["Sodium transfers one electron to fluorine, forming Na+ and F- ions", "Fluorine transfers electrons to sodium", "They share four pairs of electrons", "Electrons are destroyed in the nucleus"],
+      "correct": 0
+    },
+    {
+      "q": "What is the total number of shared electrons in a triple covalent bond, such as in a nitrogen molecule (N2)?",
+      "a": ["3 electrons", "6 electrons", "2 electrons", "8 electrons"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following elements is most likely to form a positive ion with a 2+ charge?",
+      "a": ["Fluorine", "Sodium", "Magnesium", "Oxygen"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following pairs of elements will combine to form an ionic compound?",
+      "a": ["Carbon and oxygen", "Hydrogen and chlorine (gases)", "Nitrogen and hydrogen", "Potassium and bromine"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following pairs of elements will combine to form covalent bonds?",
+      "a": ["Sulfur and oxygen", "Sodium and sulfur", "Calcium and iodine", "Lithium and fluorine"],
+      "correct": 0
+    },
+    {
+      "q": "What is the electronic structure of a neon atom (2, 8), and why does it relate to bonding?",
+      "a": ["It has 10 shells", "It has a full outer shell of 8 electrons, making it stable and unreactive", "It readily forms ionic bonds with metals", "It shares electrons in pairs"],
+      "correct": 1
+    },
+    {
+      "q": "If an atom has 7 valence electrons (like chlorine), what does it typically do to achieve stability?",
+      "a": ["Lose 7 electrons", "Share all 7 electrons permanently", "Gain 1 electron or share 1 electron pair to complete its octet", "Turn into a metal"],
+      "correct": 2
+    },
+    {
+      "q": "What does a dot-and-cross diagram represent in chemical bonding?",
+      "a": ["The boiling point of a substance", "The physical shape of a laboratory flask", "The atomic weights of isotopes", "The arrangement of outer shell (valence) electrons in atoms or ions"],
+      "correct": 3
+    },
+    {
+      "q": "Why do ionic compounds form giant crystal lattices rather than small discrete molecules?",
+      "a": ["Because each positive ion is surrounded by multiple negative ions in all directions, creating massive electrostatic attraction networks", "Because covalent bonds pull them into circles", "Because ions are gases", "Because molecules repel each other"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical formula for carbon dioxide, reflecting its covalent bonding structure?",
+      "a": ["CO", "CO2", "C2O", "C0.5O"],
+      "correct": 1
+    },
+    {
+      "q": "Which statement correctly compares ionic and covalent bonds?",
+      "a": ["Ionic bonds involve sharing electrons between metals", "Covalent bonds involve electron transfer from non-metals to metals", "Ionic bonds involve electron transfer creating ions, while covalent bonds involve sharing electron pairs between non-metals", "Both bond types involve a sea of delocalized electrons"],
+      "correct": 2
+    },
+    {
+      "q": "What is the formula of the ionic compound formed between aluminium (Al^3+) and oxygen (O^2-)?",
+      "a": ["AlO", "Al2O3", "Al3O2", "AlO2"],
+      "correct": 3
+    },
+    {
+      "q": "How many covalent bonds are present in a molecule of methane (CH4)?",
+      "a": ["Four single covalent bonds", "One triple bond", "Two double bonds", "Zero covalent bonds"],
+      "correct": 0
+    },
+    {
+      "q": "What is the charge on a calcium ion formed from a calcium atom (Group 2)?",
+      "a": ["1+", "2+", "2-", "1-"],
+      "correct": 1
+    },
+    {
+      "q": "What is the charge on a sulfide ion formed when a sulfur atom gains 2 electrons?",
+      "a": ["1+", "2+", "2-", "1-"],
+      "correct": 2
+    },
+    {
+      "q": "Why is hydrogen chloride (HCl) gas classified as a covalently bonded molecule even though it contains hydrogen and chlorine?",
+      "a": ["Because chlorine is a metal", "Because it is a giant lattice", "Because hydrogen and chlorine are both non-metals that share a pair of electrons", "Because it has ionic charge"],
+      "correct": 3
+    },
+    {
+      "q": "In a water molecule (H2O), how many unshared pairs of electrons (lone pairs) remain on the central oxygen atom?",
+      "a": ["Two lone pairs", "Zero lone pairs", "One lone pair", "Three lone pairs"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the ability of an atom to attract shared electrons in a covalent bond?",
+      "a": ["Radioactivity", "Electronegativity", "Malleability", "Volatility"],
+      "correct": 1
+    },
+    {
+      "q": "When atoms bond covalently, what happens to the overall potential energy of the system?",
+      "a": ["Energy increases indefinitely", "Energy remains at zero", "Energy decreases as a stable, lower-energy bond is formed", "Energy turns into sound"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following substances contains both ionic and covalent bonding (e.g., in a polyatomic ion)?",
+      "a": ["Pure water (H2O)", "Diamond (C)", "Methane (CH4)", "Sodium nitrate (NaNO3)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary characteristic of the octet rule in chemical bonding?",
+      "a": ["Atoms tend to react to obtain eight electrons in their outermost valence shell", "Atoms always have eight protons", "Atoms must have eight electron shells", "Molecules must contain eight atoms"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is true for ammonia (NH3) in terms of covalent bonding?",
+      "a": ["It has ionic bonds between nitrogen and hydrogen", "It has three single covalent bonds between nitrogen and three hydrogen atoms", "It has a giant lattice structure", "It consists of metal cations"],
+      "correct": 1
+    },
+    {
+      "q": "What type of bond holds together the atoms in a molecule of chlorine gas (Cl2)?",
+      "a": ["Ionic bond", "Metallic bond", "Single covalent bond", "Hydrogen bond"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a property of the bonds within a giant covalent structure like diamond?",
+      "a": ["Weak electrostatic forces between ions", "Mobile electrons that transfer easily", "Weak intermolecular forces only", "Extremely strong covalent bonds extending in a continuous network"],
+      "correct": 3
+    }
+  ]
+}

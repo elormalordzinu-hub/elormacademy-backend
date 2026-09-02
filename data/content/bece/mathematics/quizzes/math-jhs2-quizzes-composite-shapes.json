@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-composite-shapes",
+"name": "Composite Shapes",
+"questions": [
+{
+"q": "What is a composite shape?",
+"a": ["A shape made up of two or more simple geometric shapes", "A shape with only curved lines", "A 3D shape with flat faces", "A shape that cannot be measured"],
+"correct": 0
+},
+{
+"q": "To find the total area of an L-shaped composite figure, what is the best approach?",
+"a": ["Multiply all the side lengths together", "Split the shape into non-overlapping rectangles, find their individual areas, and add them up", "Subtract the perimeter from the area", "Find the average of all dimensions"],
+"correct": 1
+},
+{
+"q": "A garden consists of a rectangle of length 10 m and width 6 m, with a semicircle attached to one of its shorter sides. What is the total area of the garden? (Take pi = 3.142)",
+"a": ["74.14 m²", "84.14 m²", "94.14 m²", "60.00 m²"],
+"correct": 2
+},
+{
+"q": "If a composite shape is formed by cutting a smaller square of side 3 cm out of a larger square of side 8 cm, what is the remaining area?",
+"a": ["64 cm²", "9 cm²", "73 cm²", "55 cm²"],
+"correct": 3
+},
+{
+"q": "How do you calculate the perimeter of any composite 2D shape?",
+"a": ["Add together the lengths of all the outer bounding sides", "Multiply all the side lengths", "Find the sum of the areas", "Add the longest and shortest sides"],
+"correct": 0
+},
+{
+"q": "A running track is composed of a rectangle with a length of 50 m and two semicircles at both ends with a radius of 7 m. What is the total perimeter of the inner edge? (Take pi = 22/7)",
+"a": ["144 m", "143 m", "154 m", "132 m"],
+"correct": 1
+},
+{
+"q": "A shape is made of a triangle with a base of 10 cm and a height of 6 cm sitting on top of a rectangle of length 10 cm and width 8 cm. What is the total area?",
+"a": ["110 cm²", "115 cm²", "110 cm²", "130 cm²"],
+"correct": 2
+},
+{
+"q": "When calculating the perimeter of a shape made by joining a square and a semicircle along a shared side, which statement is true about the shared side?",
+"a": ["It is counted twice in the perimeter", "It is added to the total perimeter", "It is doubled", "It is excluded because it is on the inside of the perimeter boundary"],
+"correct": 3
+},
+{
+"q": "A floor plan is shaped like an L-word with dimensions: a base of 12 m, total height of 10 m, and a cut-out section of width 5 m and height 4 m. What is the total area?",
+"a": ["100 m²", "120 m²", "80 m²", "90 m²"],
+"correct": 0
+},
+{
+"q": "If a window is composed of a rectangle (1 m by 1.5 m) topped with a semicircle of diameter 1 m, what is the total area of the glass? (Take pi = 3.14)",
+"a": ["1.89 m²", "1.89 m²", "1.50 m²", "2.10 m²"],
+"correct": 1
+},
+{
+"q": "A symmetrical composite shape is made of a parallelogram of base 9 cm and height 4 cm, flanked by two identical triangles. If each triangle has a base of 3 cm and height of 4 cm, what is the total area?",
+"a": ["48 cm²", "54 cm²", "48 cm²", "60 cm²"],
+"correct": 2
+},
+{
+"q": "Which of the following units is appropriate for expressing the perimeter of a large composite building foundation?",
+"a": ["Square metres (m²)", "Cubic metres (m³)", "Litres (L)", "Metres (m)"],
+"correct": 3
+},
+{
+"q": "A swimming pool deck is formed by subtracting a smaller inner rectangle (8 m × 4 m) from an outer rectangle (12 m × 8 m). What is the area of the deck?",
+"a": ["64 m²", "96 m²", "32 m²", "48 m²"],
+"correct": 0
+},
+{
+"q": "What is the perimeter of a regular octagon formed by cutting four equal right-angled triangles from the corners of a square of side 10 cm, such that each cut has legs of 3 cm?",
+"a": ["32 cm", "40 cm", "36 cm", "48 cm"],
+"correct": 1
+},
+{
+"q": "A composite 2D shape consists of a semicircle of radius 7 cm placed on top of a rectangle of length 14 cm and width 10 cm. Find the total area of the shape. (Take pi = 22/7)",
+"a": ["217 cm²", "77 cm²", "217 cm²", "140 cm²"],
+"correct": 2
+},
+{
+"q": "Why is it important to check unit consistency before calculating the area or perimeter of a composite shape?",
+"a": ["To make the numbers larger", "To ensure the shape looks symmetrical", "To comply with drawing standards", "To prevent calculation errors caused by mixing units like centimetres and metres"],
+"correct": 3
+},
+{
+"q": "A sign board is shaped like a triangle with a base of 8 m and a height of 5 m, attached to a rectangle of length 8 m and width 3 m. What is the total area?",
+"a": ["44 m²", "40 m²", "34 m²", "48 m²"],
+"correct": 0
+},
+{
+"q": "If a composite shape has a missing side length labeled x, and the parallel opposite sides measure 15 cm and 9 cm in a stepped vertical drop, what is the value of x?",
+"a": ["8 cm", "6 cm", "24 cm", "3 cm"],
+"correct": 1
+},
+{
+"q": "A metallic plate is in the shape of a trapezoid combined with a rectangle. The rectangular section is 10 cm by 6 cm, and the trapezoidal section has a parallel side of 10 cm, a top side of 6 cm, and a height of 4 cm. What is the total area?",
+"a": ["92 cm²", "40 cm²", "92 cm²", "80 cm²"],
+"correct": 2
+},
+{
+"q": "What is the total boundary length (perimeter) of a shape formed by putting two identical semicircles of radius 7 cm on opposite sides of a 14 cm by 14 cm square? (Take pi = 22/7)",
+"a": ["88 cm", "72 cm", "56 cm", "88 cm"],
+"correct": 3
+},
+{
+"q": "An irregular polygon on a grid is split into three vertical strips: a rectangle (2 cm × 5 cm), a rectangle (4 cm × 7 cm), and a rectangle (3 cm × 4 cm). What is the total area?",
+"a": ["50 cm²", "46 cm²", "42 cm²", "60 cm²"],
+"correct": 0
+},
+{
+"q": "A decorative wooden frame is made by joining four identical right-angled triangles to the inside edges of a square frame of side 20 cm. If each triangle has legs of 5 cm, what is the area of the remaining open space?",
+"a": ["375 cm²", "350 cm²", "400 cm²", "325 cm²"],
+"correct": 1
+},
+{
+"q": "A compound shape consists of a semi-circle mounted on the diameter of a triangle. If the triangle's base (also the diameter) is 14 cm and its height is 10 cm, what is the total area? (Take pi = 22/7)",
+"a": ["147 cm²", "175 cm²", "147 cm²", "112 cm²"],
+"correct": 2
+},
+{
+"q": "When calculating the cost of painting a complex composite wall surface, which measurement do you need?",
+"a": ["Total perimeter in metres", "Total height only", "Diagonal length", "Total surface area in square metres"],
+"correct": 3
+},
+{
+"q": "A piece of land is shaped like a rectangle of 20 m by 15 m with a triangular corner piece of base 5 m and height 12 m removed. What is the area of the remaining land?",
+"a": ["270 m²", "300 m²", "285 m²", "240 m²"],
+"correct": 0
+},
+{
+"q": "What is the perimeter of a composite shape formed by joining a semi-circle of diameter 10 cm to the side of a rectangle measuring 10 cm by 15 cm? (Take pi = 3.14)",
+"a": ["60.0 cm", "65.7 cm", "55.7 cm", "70.0 cm"],
+"correct": 1
+},
+{
+"q": "A cross-section of a concrete beam is an I-beam composed of three rectangles: a top flange (20 cm × 2 cm), a central web (2 cm × 16 cm), and a bottom flange (20 cm × 2 cm). What is the total cross-sectional area?",
+"a": ["112 cm²", "72 cm²", "112 cm²", "120 cm²"],
+"correct": 2
+},
+{
+"q": "If you double all the linear dimensions of a composite 2D shape, what happens to its total area?",
+"a": ["It stays the same", "It doubles", "It triples", "It quadruples (multiplies by 4)"],
+"correct": 3
+},
+{
+"q": "A courtyard comprises a square of side 8 m and four semicircles on each of its sides, where the diameter of each semicircle equals the side of the square (8 m). What is the total area of the courtyard? (Take pi = 3.142)",
+"a": ["164.53 m²", "100.53 m²", "144.53 m²", "128.00 m²"],
+"correct": 0
+},
+{
+"q": "Find the perimeter of an L-shape where the outer edges measure: bottom 10 cm, right side 3 cm, inner horizontal 6 cm, inner vertical 7 cm, left side 10 cm, and top 4 cm.",
+"a": ["36 cm", "40 cm", "34 cm", "42 cm"],
+"correct": 1
+},
+{
+"q": "A logo is designed using a circle of radius 7 cm inscribed inside a square of side 14 cm. What is the area of the region inside the square but outside the circle? (Take pi = 22/7)",
+"a": ["196 cm²", "154 cm²", "42 cm²", "84 cm²"],
+"correct": 2
+},
+{
+"q": "Which method is least helpful when finding the area of a complex irregular shape drawn on squared paper?",
+"a": ["Counting full squares and estimating partial squares", "Splitting it into standard rectangles and triangles", "Weighing the paper on a digital scale", "Using standard coordinate geometry formulas for vertices"],
+"correct": 3
+},
+{
+"q": "A farmer's plot is formed by combining a rectangle (40 m × 25 m) and a right-angled triangle attached to the 25 m side, with the triangle's other perpendicular side measuring 15 m. What is the total area of the plot?",
+"a": ["1187.5 m²", "1000.0 m²", "1100.0 m²", "1250.0 m²"],
+"correct": 0
+},
+{
+"q": "What is the perimeter of a compound shape made by attaching an equilateral triangle of side 6 cm to one side of a square of side 6 cm?",
+"a": ["24 cm", "30 cm", "18 cm", "36 cm"],
+"correct": 1
+},
+{
+"q": "A composite window frame has an outer rectangle of 120 cm by 80 cm with two identical rectangular glass panes separated by a 4 cm vertical wooden mullion. What is the area of one glass pane?",
+"a": ["9600 cm²", "4800 cm²", "4608 cm²", "4512 cm²"],
+"correct": 2
+},
+{
+"q": "When calculating the outer boundary fence length for a compound property shaped like a polygon, why do you not include internal partition property lines?",
+"a": ["Because internal lines are measured in square units", "Because inner lines have zero length", "Because fences cannot be built inside", "Because perimeter only accounts for the outermost enclosing boundary"],
+"correct": 3
+},
+{
+"q": "A school badge is a composite shape consisting of a rectangle of 5 cm by 4 cm topped with an isosceles triangle of base 5 cm and height 3 cm. What is the total area of the badge?",
+"a": ["27.5 cm²", "20.0 cm²", "35.0 cm²", "22.5 cm²"],
+"correct": 0
+},
+{
+"q": "A rectangular swimming pool measuring 12 m by 6 m is surrounded by a uniform concrete walkway of width 1.5 m. What is the total area of the pool and the walkway combined?",
+"a": ["105 m²", "135 m²", "120 m²", "90 m²"],
+"correct": 1
+},
+{
+"q": "A composite panel is formed by removing a circular hole of radius 3.5 cm from the center of a square metal sheet of side 20 cm. What is the remaining surface area? (Take pi = 22/7)",
+"a": ["400.0 cm²", "361.5 cm²", "361.5 cm²", "361.0 cm²"],
+"correct": 2
+},
+{
+"q": "If a composite shape can be completely decomposed into 3 rectangles of areas 12 cm², 18 cm², and 24 cm², what is its total area?",
+"a": ["48 cm²", "50 cm²", "52 cm²", "54 cm²"],
+"correct": 3
+}
+]
+}

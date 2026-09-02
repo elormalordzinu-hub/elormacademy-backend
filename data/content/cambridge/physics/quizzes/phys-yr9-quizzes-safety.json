@@ -1,0 +1,206 @@
+{
+"id": "phys-yr9-quizzes-safety",
+"name": "Laboratory safety protocols and risk assessment",
+"questions": [
+{
+"q": "What is the primary purpose of conducting a risk assessment before starting a practical physics experiment?",
+"a": ["To identify potential hazards and determine precautions to prevent injury or accidents", "To make the experiment take longer to complete", "To calculate the exact cost of equipment", "To decide what grade students will receive"],
+"correct": 0
+},
+{
+"q": "What action should you take immediately if you notice a frayed electrical cord on a low-voltage power supply during a circuit experiment?",
+"a": ["Use tape to wrap it while it is plugged in", "Report it to the teacher and do not use the equipment", "Ignore it if the power light turns on", "Cut the cord with scissors"],
+"correct": 1
+},
+{
+"q": "Which of the following safety symbols or hazard warnings indicates that a substance or component can cause severe burns to skin and eyes?",
+"a": ["Radioactive symbol", "Flammable symbol", "Corrosive symbol", "Fragile glassware symbol"],
+"correct": 2
+},
+{
+"q": "When heating water with an immersion heater or Bunsen burner during a thermal energy experiment, what safety precaution is essential?",
+"a": ["Leave the container completely unmonitored", "Hold the hot glass container with bare hands immediately after heating", "Wear safety goggles and ensure the vessel is stable and secure", "Boil the water until the container melts entirely"],
+"correct": 3
+},
+{
+"q": "Why is it important to ensure your hands are completely dry before plugging in or operating electrical equipment in the school laboratory?",
+"a": ["To prevent electric shock, as water can conduct electricity", "To keep the plastic casing clean of fingerprints", "To prevent the equipment from overheating", "To stop the wires from melting"],
+"correct": 0
+},
+{
+"q": "What is the correct way to smell a chemical or substance if required during a combined science investigation?",
+"a": ["Place your nose directly over the container and inhale deeply", "Gently wave your hand over the container toward your nose (wafting)", "Heat the container strongly and breathe in the fumes", "Taste a small drop on your finger"],
+"correct": 1
+},
+{
+"q": "If a glass beaker is accidentally knocked over and shatters on the laboratory floor, what should you do first?",
+"a": ["Pick up the large pieces with bare hands immediately", "Vacuum the room without telling anyone", "Inform the teacher right away and keep away from the broken glass", "Sweep the glass under the lab bench"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a safe practice when working with optical lasers or ray boxes in light experiments?",
+"a": ["Look directly into the laser beam to check its brightness", "Shine the laser beam into other students' eyes as a joke", "Disassemble the laser housing with a screwdriver", "Never direct a laser beam into anyone's eyes and avoid specular reflections into eyes"],
+"correct": 3
+},
+{
+"q": "What hazard is associated with using a stretched spring or elastic band under high tension during a forces and extension experiment?",
+"a": ["It could snap suddenly and fly toward someone's face or eyes", "It will generate toxic chemical fumes", "It will instantly turn into liquid mercury", "It will cause an electrical short circuit"],
+"correct": 0
+},
+{
+"q": "Where should heavy equipment, such as large iron stands or heavy power packs, be stored on lab benches to prevent accidents?",
+"a": ["Right on the very edge of the desk so they are easy to grab", "Well away from the edge, towards the middle or back of the bench", "Balanced precariously on top of books", "On top of electrical sockets"],
+"correct": 1
+},
+{
+"q": "When connecting electrical circuits with DC power supplies or batteries in school labs, what helps prevent overheating and short circuits?",
+"a": ["Using bare uninsulated copper wires touching wooden desks", "Keeping circuits closed for hours unattended", "Checking the circuit layout and having the teacher check it before turning on the power", "Using the highest possible voltage setting immediately"],
+"correct": 2
+},
+{
+"q": "Why must long hair and loose clothing be tied back or secured when working near open flames or moving mechanical apparatus?",
+"a": ["To look professional for school inspections", "To make it easier to put on safety goggles", "To keep hair cool", "To prevent hair or clothing from catching fire or getting caught in moving parts"],
+"correct": 3
+},
+{
+"q": "What is the correct procedure if a small chemical splash gets into a student's eyes during a lab session?",
+"a": ["Flush the eye immediately with an eyewash station or running water and notify the teacher", "Rub the eye firmly with a dry cloth", "Cover the eye tightly with a bandage and continue working", "Ignore it until the lesson ends"],
+"correct": 0
+},
+{
+"q": "Which safety measure is crucial when carrying hot objects, such as metal blocks used in specific heat capacity experiments?",
+"a": ["Use bare hands quickly so you do not drop them", "Use appropriate heat-resistant gloves or tongs and place them on a heatproof mat", "Blow on them while running across the room", "Throw them into a sink of cold water immediately"],
+"correct": 1
+},
+{
+"q": "What does a 'fragile equipment' label on glassware like thin measuring cylinders or lenses remind students to do?",
+"a": ["Store them in direct sunlight", "Heat them with an intense direct flame", "Handle them with care to avoid breakage and cuts", "Drop them onto carpet to test durability"],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of wearing safety glasses or goggles during physics experiments involving projectiles, springs, or glass?",
+"a": ["To improve night vision in dark rooms", "To protect eyes from UV sunlight", "To magnify small objects on the bench", "To protect eyes from flying debris, shattering glass, or snapping wires"],
+"correct": 3
+},
+{
+"q": "Why should food and drinks never be brought into or consumed inside a science laboratory?",
+"a": ["To prevent accidental ingestion of harmful substances or contamination", "Because food makes desks sticky", "To stop students from talking", "Because school rules forbid sitting down"],
+"correct": 0
+},
+{
+"q": "How should radioactive sources (if used in specialized advanced demonstrations) be handled safely?",
+"a": ["Kept in an open tray near student faces", "Handled using long tongs, for minimum time, and kept in shielded containers", "Stored in ordinary pencil cases", "Carried around the classroom to show friends"],
+"correct": 1
+},
+{
+"q": "What should you do with a radioactive or hazardous waste warning sign on equipment or containers?",
+"a": ["Scratch it off with a pen", "Ignore it if the experiment looks fun", "Follow all handling instructions associated with that specific warning symbol", "Throw the container in the regular paper recycling bin"],
+"correct": 2
+},
+{
+"q": "What is the safest way to disconnect a plug from a wall socket after completing an electrical experiment?",
+"a": ["Pull the flexible cord as hard as possible from across the room", "Jerk the wire sharply upwards", "Stand on the wire to pull it free", "Grip the molded plug firmly and pull straight out (never pull by the flexible cord)"],
+"correct": 3
+},
+{
+"q": "Why is it important to clear bags, coats, and stools away from lab walkways during practical lessons?",
+"a": ["To prevent tripping hazards that could cause injuries or spills", "To make the floor look tidy for photographs", "To increase room temperature", "To improve Wi-Fi signal strength"],
+"correct": 0
+},
+{
+"q": "If a student feels unwell or experiences a minor burn from touching a hot tripod, what is the immediate first aid step?",
+"a": ["Apply cooking oil to the burn", "Cool the burn under cold running tap water for at least 10 minutes and inform the teacher", "Wrap the burn tightly in cotton wool", "Apply ink to the skin"],
+"correct": 1
+},
+{
+"q": "What precaution should be taken when setting up a pendulum or mass-on-a-string experiment to ensure it does not cause injury?",
+"a": ["Swing it directly toward other students' faces", "Use razor-sharp steel wire", "Ensure the mass is securely attached and swing it in a clear area away from passersby", "Attach a heavy bowling ball to a thin sewing thread"],
+"correct": 2
+},
+{
+"q": "Which of these actions represents a severe breach of laboratory safety rules?",
+"a": ["Following instructions on the worksheet", "Wearing safety goggles during heating", "Cleaning up your workstation before leaving", "Running, horseplay, or unauthorized experimentation in the lab"],
+"correct": 3
+},
+{
+"q": "When assembling apparatus like a retort stand, clamp, and pendulum bob, why is it important to check that the clamp is tightened securely?",
+"a": ["To prevent heavy apparatus from slipping or falling during the experiment", "To increase the electrical voltage of the stand", "To make the metal shiny", "To improve sound resonance"],
+"correct": 0
+},
+{
+"q": "What should you do if an electrical appliance starts smoking or emitting a burning smell during an experiment?",
+"a": ["Blow on it to cool it down", "Immediately switch off the power supply at the mains or socket, and inform the teacher", "Pour a beaker of water over it while plugged in", "Wait to see if the smell goes away"],
+"correct": 1
+},
+{
+"q": "Why are non-slip mats or stable bases used underneath equipment like ripple tanks or heavy dynamics tracks?",
+"a": ["To make the equipment heavier", "To absorb sound waves", "To prevent apparatus from sliding off the desk during operation", "To conduct electricity"],
+"correct": 2
+},
+{
+"q": "What is the correct procedure for disposing of broken glass or sharp metal pins in the lab?",
+"a": ["Throw them into regular waste paper bins", "Leave them on the floor for the cleaner", "Put them in student pencil cases", "Place them in a designated rigid sharps or broken glass bin"],
+"correct": 3
+},
+{
+"q": "Why is it necessary to keep water away from electrical power packs and bare plug sockets?",
+"a": ["To reduce the risk of short circuits, equipment damage, and electric shock", "Because water dissolves plastic wires instantly", "To keep the desks dry", "To prevent water from evaporating"],
+"correct": 0
+},
+{
+"q": "What type of footwear is required during practical science lessons in a school laboratory?",
+"a": ["Open-toe sandals", "Fully enclosed, flat shoes that protect the feet", "High-heeled fashion shoes", "Bare feet for better balance"],
+"correct": 1
+},
+{
+"q": "If an experiment requires heating a liquid in a test tube using a Bunsen burner, which way should the mouth of the test tube point?",
+"a": ["Straight down toward your feet", "Directly at your lab partner's face", "Away from yourself and everyone else", "Straight up toward the ceiling"],
+"correct": 2
+},
+{
+"q": "What is the primary role of student safety rules in the school laboratory?",
+"a": ["To restrict learning opportunities", "To make experiments boring", "To eliminate all fun activities", "To create a safe working environment where everyone can investigate science safely"],
+"correct": 3
+},
+{
+"q": "When measuring the extension of a spring with added masses, why should you avoid adding masses beyond the spring's elastic limit?",
+"a": ["It can permanently deform or snap the spring, creating a hazard", "It will cause the masses to float", "It increases room air pressure", "It turns the spring into a magnet"],
+"correct": 0
+},
+{
+"q": "What should be checked before using a digital top-pan balance or electronic meter in the laboratory?",
+"a": ["Whether it can play music", "That it is correctly zeroed (tared) and plugged in safely", "That it is hot to the touch", "Whether it is painted black"],
+"correct": 1
+},
+{
+"q": "Why is it important to wash your hands thoroughly with soap and water at the end of a practical science lesson?",
+"a": ["To cool down from walking in the hallway", "To practice hand washing techniques", "To remove any residual chemical traces, dust, or microscopic hazards", "To dry your hands before using phones"],
+"correct": 2
+},
+{
+"q": "What should you do immediately if the fire alarm sounds during a practical science lesson?",
+"a": ["Finish measuring your last data point", "Pack your bags slowly", "Hide under the lab bench", "Stop work immediately, turn off any gas or electrical equipment, and evacuate calmly as instructed"],
+"correct": 3
+},
+{
+"q": "How can you minimize the risk of burns when using a Bunsen burner on a luminous (yellow safety) flame?",
+"a": ["Keep the yellow safety flame visible so everyone knows it is lit and do not touch the barrel", "Turn off all lights in the room", "Wave your hands through the flame", "Leave papers right next to the base"],
+"correct": 0
+},
+{
+"q": "When setting up a circuit containing a lamp and resistors, why is it recommended to check the circuit diagram before closing the switch?",
+"a": ["To make the wires look artistic", "To ensure correct polarity and prevent component damage or short circuits", "To calculate the speed of light", "To test the room temperature"],
+"correct": 1
+},
+{
+"q": "What is the main hazard of placing glass beakers containing hot liquids near the edge of a laboratory workbench?",
+"a": ["They might start glowing in the dark", "They will attract dust", "They could be easily knocked over, causing burns and broken glass", "They will freeze solid"],
+"correct": 2
+},
+{
+"q": "What should be established before beginning any new practical investigation in the laboratory?",
+"a": ["Who can leave the classroom first", "Which games to play afterward", "What snacks to eat", "A clear understanding of the procedure, hazards, and emergency exits"],
+"correct": 3
+}
+]
+}

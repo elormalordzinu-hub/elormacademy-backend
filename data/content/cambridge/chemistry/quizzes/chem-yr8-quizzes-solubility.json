@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr8-quizzes-solubility",
+  "name": "Solubility and saturation",
+  "questions": [
+    {
+      "q": "What term is given to the liquid that dissolves a solid substance to form a solution?",
+      "a": ["Solvent", "Solute", "Solution", "Suspension"],
+      "correct": 0
+    },
+    {
+      "q": "What is the solid substance that dissolves in a liquid called?",
+      "a": ["Solvent", "Solute", "Residue", "Filtrate"],
+      "correct": 1
+    },
+    {
+      "q": "What does it mean when a solution is described as 'saturated'?",
+      "a": ["It has no liquid left in it", "It contains very little solute", "It can dissolve no more solute at that specific temperature", "It has boiled away completely"],
+      "correct": 2
+    },
+    {
+      "q": "How can you generally increase the solubility of a solid solute like salt or sugar in water?",
+      "a": ["Cool the water down", "Keep it completely still", "Increase the pressure", "Heat the solvent / water"],
+      "correct": 3
+    },
+    {
+      "q": "Which term describes a substance that does not dissolve in a particular solvent?",
+      "a": ["Insoluble", "Soluble", "Miscible", "Saturated"],
+      "correct": 0
+    },
+    {
+      "q": "What is formed when a solute completely dissolves in a solvent?",
+      "a": ["A suspension", "A solution", "A colloid", "An emulsion"],
+      "correct": 1
+    },
+    {
+      "q": "If you add more sugar to a saturated sugar solution at room temperature and stir, what will happen to the extra sugar?",
+      "a": ["It will instantly dissolve", "It will turn into gas", "It will remain undissolved at the bottom of the container", "It will explode"],
+      "correct": 2
+    },
+    {
+      "q": "What is a solubility curve used to show in chemistry experiments?",
+      "a": ["How fast a liquid boils", "How heavy a solute is", "The melting point of metals", "How mass of a solute dissolved in a specific volume of solvent changes with temperature"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes liquids that mix completely with each other in all proportions (like water and ethanol)?",
+      "a": ["Miscible", "Immiscible", "Saturated", "Insoluble"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes liquids that do not mix and form separate layers (like oil and water)?",
+      "a": ["Miscible", "Immiscible", "Soluble", "Concentrated"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following factors affects how fast a solid dissolves, even if it doesn't change the total amount that can dissolve?",
+      "a": ["The color of the container", "The atmospheric pressure", "Stirring and particle size (surface area)", "The phase of the moon"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the solubility of most gases in water when the temperature of the water increases?",
+      "a": ["Solubility increases significantly", "Solubility stays exactly the same", "Solubility doubles", "Solubility decreases (gases become less soluble)"],
+      "correct": 3
+    },
+    {
+      "q": "What is a concentrated solution?",
+      "a": ["A solution containing a large amount of dissolved solute in a given volume", "A solution with no solute", "A solution that is frozen solid", "A very dilute mixture"],
+      "correct": 0
+    },
+    {
+      "q": "What is a dilute solution?",
+      "a": ["A solution saturated with solute", "A solution containing a relatively small amount of dissolved solute", "A pure liquid with no solute", "A boiling mixture"],
+      "correct": 1
+    },
+    {
+      "q": "If 35 grams of salt dissolves completely in 100 grams of water at 20°C, but more added salt settles out, what is the solubility of salt at this temperature?",
+      "a": ["100 g per 100 g water", "0 g per 100 g water", "35 g per 100 g water", "70 g per 100 g water"],
+      "correct": 2
+    },
+    {
+      "q": "Why does crushing a solid lump of solute into a fine powder help it dissolve faster?",
+      "a": ["It changes its chemical formula", "It removes impurities", "It increases the temperature", "It increases the surface area exposed to the solvent"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following is an example of an aqueous solution?",
+      "a": ["Common salt dissolved in water", "Sand stirred into oil", "Solid ice melting in a glass", "Pure liquid mercury"],
+      "correct": 0
+    },
+    {
+      "q": "When preparing a saturated solution in the school lab, how can you ensure saturation has been reached?",
+      "a": ["Heat it until it evaporates", "Keep adding solute until some refuses to dissolve and remains at the bottom", "Measure its temperature only", "Weigh the empty beaker"],
+      "correct": 1
+    },
+    {
+      "q": "What typically happens to the solubility of solid salts (such as copper sulfate or potassium nitrate) as water temperature rises?",
+      "a": ["Solubility decreases", "Solubility drops to zero", "Solubility increases", "Solubility is unaffected"],
+      "correct": 2
+    },
+    {
+      "q": "If a hot saturated solution of copper sulfate is cooled down slowly, what scientific phenomenon usually occurs?",
+      "a": ["The liquid turns into a gas", "All solute vanishes", "The solution becomes dilute", "Crystals of copper sulfate start to form (crystallization)"],
+      "correct": 3
+    },
+    {
+      "q": "What word is used to describe the mixture formed when an insoluble solid like chalk is mixed with water?",
+      "a": ["Suspension", "Solution", "True solvent", "Alloy"],
+      "correct": 0
+    },
+    {
+      "q": "How can you separate an insoluble solid (like sand) from a liquid solution?",
+      "a": ["Simple distillation", "Filtration", "Chromatography", "Evaporation to dryness"],
+      "correct": 1
+    },
+    {
+      "q": "Which solvent is considered the 'universal solvent' in chemistry because it dissolves many important ionic and covalent substances?",
+      "a": ["Ethanol", "Petrol", "Water", "Mercury"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when fizzy soft drink bottles are left open in warm sunlight?",
+      "a": ["More carbon dioxide gas dissolves", "The drink becomes more saturated", "Sugar precipitates out", "Dissolved carbon dioxide gas escapes because gas solubility drops at higher temperatures"],
+      "correct": 3
+    },
+    {
+      "q": "Which term describes a solution that contains less solute than it is capable of dissolving at a specific temperature?",
+      "a": ["Unsaturated", "Saturated", "Super-saturated", "Supersaturated solid"],
+      "correct": 0
+    },
+    {
+      "q": "What is the liquid that passes through filter paper during filtration called?",
+      "a": ["Residue", "Filtrate", "Distillate", "Solute"],
+      "correct": 1
+    },
+    {
+      "q": "What is the solid that remains trapped on the filter paper during filtration called?",
+      "a": ["Filtrate", "Solvent", "Residue", "Extract"],
+      "correct": 2
+    },
+    {
+      "q": "Why does stirring a solution help solid sugar dissolve quicker?",
+      "a": ["It changes the chemical bonds", "It cools the liquid down", "It increases pressure", "It moves dissolved particles away from the solid surface, allowing fresh solvent to contact it"],
+      "correct": 3
+    },
+    {
+      "q": "If you evaporate all the water from a saltwater solution, what is left behind?",
+      "a": ["Salt crystals (solute)", "Pure oxygen", "Nothing", "A suspension"],
+      "correct": 0
+    },
+    {
+      "q": "Which of these substances is generally insoluble in water?",
+      "a": ["Sodium chloride", "Copper(II) carbonate", "Copper sulfate", "Sugar (sucrose)"],
+      "correct": 1
+    },
+    {
+      "q": "What units are typically used to measure solubility on standard school science solubility curves?",
+      "a": ["Grams per liter", "Kilograms per cubic meter", "Grams of solute per 100 grams of water", "Moles per second"],
+      "correct": 2
+    },
+    {
+      "q": "What is a supersaturated solution?",
+      "a": ["A solution with no solute dissolved", "A frozen mixture", "A dilute solution", "A special unstable solution that contains more dissolved solute than normal at that temperature"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following pairs of substances will form a solution when mixed together?",
+      "a": ["Sugar and water", "Sand and water", "Chalk and water", "Oil and water"],
+      "correct": 0
+    },
+    {
+      "q": "How does increasing water temperature affect the rate at which sugar dissolves?",
+      "a": ["It slows it down", "It speeds it up", "It stops it completely", "It has no effect"],
+      "correct": 1
+    },
+    {
+      "q": "If you have 50 g of water and the solubility of a salt is 40 g per 100 g of water at 30°C, what is the maximum mass of salt that can dissolve in this 50 g of water?",
+      "a": ["40 grams", "80 grams", "20 grams", "10 grams"],
+      "correct": 2
+    },
+    {
+      "q": "When investigating how temperature affects solubility, what variable must be kept strictly constant?",
+      "a": ["The temperature of the water", "The amount of dissolved solute at the end", "The type of solute and volume of solvent", "The final mass of the container"],
+      "correct": 3
+    }
+  ]
+}

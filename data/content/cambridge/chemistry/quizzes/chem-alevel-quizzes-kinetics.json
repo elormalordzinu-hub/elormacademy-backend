@@ -1,0 +1,166 @@
+{
+"id": "chem-alevel-quizzes-kinetics",
+"name": "Chemical kinetics rate laws and reaction mechanisms",
+"questions": [
+{
+"q": "What is defined as the rate of a chemical reaction at any specific instant in time?",
+"a": ["The change in concentration of a reactant or product per unit time, determined from the gradient of a concentration-time graph", "The total time taken for a reaction to reach completion", "The initial concentration of reactants divided by total volume", "The activation energy divided by temperature"],
+"correct": 0
+},
+{
+"q": "What does the order of a reaction with respect to a specific reactant represent in a rate equation?",
+"a": ["The stoichiometric coefficient of that reactant in the balanced equation", "The power to which the concentration of that reactant is raised in the experimentally determined rate equation", "The number of moles of reactant consumed per second", "The activation energy barrier for that reactant"],
+"correct": 1
+},
+{
+"q": "What is the overall order of a chemical reaction whose rate equation is given by Rate = k [A]<sup>2</sup> [B]<sup>1</sup>?",
+"a": ["First order", "Second order", "Third order", "Zero order"],
+"correct": 2
+},
+{
+"q": "How does the half-life of a first-order reactant depend on its initial concentration?",
+"a": ["Half-life increases as initial concentration increases", "Half-life decreases as initial concentration increases", "Half-life is directly proportional to concentration squared", "Half-life is constant and independent of the initial concentration"],
+"correct": 3
+},
+{
+"q": "What is the units of the rate constant (k) for a second-order overall reaction where rate has units of mol dm<sup>-3</sup> s<sup>-1</sup> and concentration has units of mol dm<sup>-3</sup>?",
+"a": ["dm<sup>3</sup> mol<sup>-1</sup> s<sup>-1</sup>", "s<sup>-1</sup>", "mol dm<sup>-3</sup> s<sup>-1</sup>", "dm<sup>6</sup> mol<sup>-2</sup> s<sup>-1</sup>"],
+"correct": 0
+},
+{
+"q": "According to the Arrhenius equation, what effect does an increase in temperature have on the rate constant (k) of a chemical reaction?",
+"a": ["The rate constant decreases exponentially", "The rate constant increases exponentially because more molecules exceed the activation energy", "The rate constant remains completely unchanged", "The rate constant becomes zero"],
+"correct": 1
+},
+{
+"q": "What is the role of a catalyst in a chemical reaction mechanism?",
+"a": ["It is consumed permanently to form products", "It shifts the position of chemical equilibrium to the right", "It provides an alternative reaction pathway with a lower activation energy, increasing reaction rate without being used up", "It increases the enthalpy change of the reaction"],
+"correct": 2
+},
+{
+"q": "What term describes the slowest step in a multi-step reaction mechanism that determines the overall rate of the reaction?",
+"a": ["Fast equilibrium step", "Termination step", "Initiation step", "Rate-determining step"],
+"correct": 3
+},
+{
+"q": "What is indicated by a zero-order reaction with respect to a reactant?",
+"a": ["Changing the concentration of that reactant has no effect on the rate of the reaction", "The reactant is completely absent from the reaction mixture", "The reaction rate is infinite", "The half-life of the reactant decreases over time"],
+"correct": 0
+},
+{
+"q": "What experimental method can be used to monitor the rate of a reaction that produces a gas?",
+"a": ["Measuring electrical conductivity changes over time", "Measuring volume of gas evolved using a gas syringe or mass loss on a balance", "Titrating aliquots with acid-base indicators", "Measuring refractive index changes"],
+"correct": 1
+},
+{
+"q": "Which of the following parameters can be determined graphically from a plot of ln(k) versus 1/T according to the linear Arrhenius equation?",
+"a": ["Activation energy from the y-intercept", "Enthalpy change of reaction from the curve", "Activation energy from the gradient and the pre-exponential factor from the intercept", "Rate constant directly at zero Kelvin"],
+"correct": 2
+},
+{
+"q": "What is the defining characteristic of a homogeneous catalyst in a reaction system?",
+"a": ["It exists in a different physical state from the reactants", "It is a solid mesh suspended in a liquid solution", "It is destroyed during the first step of the mechanism", "It exists in the same physical phase as the reactants (e.g., all in aqueous solution or all gases)"],
+"correct": 3
+},
+{
+"q": "How does an increase in reactant concentration affect the rate of a chemical reaction according to collision theory?",
+"a": ["Frequency of effective collisions between reactant particles increases, thereby increasing the reaction rate", "Kinetic energy of individual particles increases", "Activation energy of the reaction decreases", "Number of intermediate steps increases"],
+"correct": 0
+},
+{
+"q": "What is a reaction intermediate in a multi-step reaction mechanism?",
+"a": ["The final stable product of the reaction", "A species formed in one step of a mechanism and consumed in a subsequent step, which does not appear in the overall balanced equation", "The initial reactant added to the flask", "A homogeneous catalyst"],
+"correct": 1
+},
+{
+"q": "Which of the following statements about heterogeneous catalysis is correct?",
+"a": ["The catalyst is in the same phase as the reactants", "Heterogeneous catalysts do not involve adsorption of reactants onto active sites", "The catalyst is in a different phase (typically a solid catalyst interacting with gaseous or liquid reactants)", "Heterogeneous catalysts lower reaction enthalpy"],
+"correct": 2
+},
+{
+"q": "What is the molecularity of an elementary reaction step where three reactant particles collide simultaneously?",
+"a": ["Unimolecular", "Bimolecular", "Tetramolecular", "Termolecular"],
+"correct": 3
+},
+{
+"q": "If a reaction is first order with respect to reactant X, what happens to the initial rate if the concentration of X is tripled?",
+"a": ["The rate increases by a factor of 3", "The rate increases by a factor of 9", "The rate remains unchanged", "The rate decreases by a factor of 3"],
+"correct": 0
+},
+{
+"q": "What is measured during an iodine clock experiment to determine initial reaction rates?",
+"a": ["The exact temperature of the vessel", "The time taken for a sudden color change or appearance of a blue-black starch-iodine complex to occur", "The total mass of iodine crystals added", "The electrical potential of the solution"],
+"correct": 1
+},
+{
+"q": "Why does a rise in temperature increase the rate of a chemical reaction significantly more than predicted by the slight increase in collision frequency?",
+"a": ["Molecules become heavier at higher temperatures", "The volume of the container expands", "A large proportion of reactant molecules gain kinetic energy equal to or exceeding the activation energy (E_a), drastically increasing successful collision frequency", "Catalysts become more active"],
+"correct": 2
+},
+{
+"q": "What is the overall order of a reaction whose rate law is Rate = k [A]<sup>0</sup>?",
+"a": ["First order", "Second order", "Fractional order", "Zero order"],
+"correct": 3
+},
+{
+"q": "Which of the following best describes the activation energy of a catalyzed reaction compared to the uncatalyzed pathway?",
+"a": ["Lower activation energy", "Higher activation energy", "Equal activation energy", "Negative activation energy"],
+"correct": 0
+},
+{
+"q": "How is the order of reaction with respect to a reactant determined experimentally using initial rates data?",
+"a": ["By measuring the final equilibrium yield", "By comparing how changes in the initial concentration of that reactant affect the initial rate of the reaction while keeping other concentrations constant", "By calculating standard enthalpy of formation", "By measuring pH changes at room temperature"],
+"correct": 1
+},
+{
+"q": "What is indicated if the half-life of a reactant increases progressively as the reaction proceeds?",
+"a": ["The reaction is first order", "The reaction is zero order", "The reaction is second order with respect to that reactant", "The reaction has reached chemical equilibrium"],
+"correct": 2
+},
+{
+"q": "What does the term 'molecularity' refer to in chemical kinetics?",
+"a": ["The total number of moles of products formed", "The concentration of solute in moles per decimeter cubed", "The total number of reactant molecules or ions taking part in an overall stoichiometric equation", "The number of individual reactant particles (molecules, atoms, or ions) colliding together in an elementary reaction step"],
+"correct": 3
+},
+{
+"q": "Which of the following graph types yields a straight line for a zero-order reaction?",
+"a": ["Concentration versus time", "Rate versus concentration squared", "Natural logarithm of concentration versus time", "Reciprocal concentration versus time"],
+"correct": 0
+},
+{
+"q": "What physical property change is monitored using a spectrophotometer or colorimeter to study the kinetics of a colored reaction mixture?",
+"a": ["Electrical conductivity", "Light absorption (absorbance) proportional to concentration", "Gas pressure in a sealed vessel", "Mass loss on an analytical balance"],
+"correct": 1
+},
+{
+"q": "If the rate equation for a reaction is Rate = k [A] [B], and the concentration of both A and B are doubled, by what factor does the reaction rate increase?",
+"a": ["Factor of 2", "Factor of 3", "Factor of 4", "Factor of 8"],
+"correct": 2
+},
+{
+"q": "What is the primary function of catalytic converters fitted to automobile exhaust systems?",
+"a": ["To convert carbon dioxide into oxygen gas", "To store excess fuel during acceleration", "To filter out soot particles using paper membranes", "To catalyze redox reactions converting toxic carbon monoxide and nitrogen oxides into harmless nitrogen and carbon dioxide"],
+"correct": 3
+},
+{
+"q": "What is the unit of the rate constant (k) for a first-order overall reaction?",
+"a": ["s<sup>-1</sup>", "mol dm<sup>-3</sup> s<sup>-1</sup>", "dm<sup>3</sup> mol<sup>-1</sup> s<sup>-1</sup>", "dm<sup>6</sup> mol<sup>-2</sup> s<sup>-1</sup>"],
+"correct": 0
+},
+{
+"q": "Which statement correctly describes how enzymes act as biological catalysts?",
+"a": ["They operate effectively at any extreme temperature or pH level", "They feature specific active sites that bind substrates, providing an alternative low-activation-energy pathway", "They permanently bond to the products of the reaction", "They shift equilibrium positions to favor 100 percent product yield"],
+"correct": 1
+},
+{
+"q": "What is deduced about a reaction mechanism if the rate equation includes a particular reactant, and that reactant appears in the rate-determining step?",
+"a": ["The reactant must be a spectator ion", "The reactant does not affect the speed of the reaction", "The reactant (or species derived from it) is involved in or prior to the rate-determining step", "The reaction must be zero order overall"],
+"correct": 2
+},
+{
+"q": "What does the Maxwell-Boltzmann distribution curve illustrate regarding molecular energies in a gas sample?",
+"a": ["The exact position of every molecule in space", "The molecular weights of isotopes", "The proportion of reactant molecules that are solid versus liquid", "The distribution of molecular kinetic energies at a given temperature, highlighting the fraction exceeding the activation energy"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,206 @@
+{
+"id": "math-jhs1-quizzes-algebraic-expressions",
+"name": "Algebraic Expressions",
+"questions": [
+{
+"q": "What do we call a letter or symbol used to represent an unknown quantity in algebra?",
+"a": ["Variable", "Constant", "Coefficient", "Exponent"],
+"correct": 0
+},
+{
+"q": "Simplify the expression by collecting like terms: 5x + 3y - 2x + 4y.",
+"a": ["3x + 7y", "3x + y", "7x + 7y", "8x + 7y"],
+"correct": 1
+},
+{
+"q": "Evaluate the algebraic expression 3a² - 2ab + b when a = 2 and b = 3.",
+"a": ["10", "15", "7", "12"],
+"correct": 2
+},
+{
+"q": "Expand the brackets: 4(2x - 5).",
+"a": ["6x - 9", "8x - 5", "8x - 20", "2x - 20"],
+"correct": 3
+},
+{
+"q": "Factorise the expression completely by taking out the highest common factor: 6x + 9.",
+"a": ["3(2x + 3)", "2(3x + 9)", "3(x + 3)", "6(x + 3)"],
+"correct": 0
+},
+{
+"q": "Simplify the following product: 3a² × 4a³.",
+"a": ["7a⁵", "12a⁵", "12a⁶", "7a⁶"],
+"correct": 1
+},
+{
+"q": "Simplify the algebraic fraction: 15x⁵ / 3x².",
+"a": ["5x²", "5x⁷", "5x³", "12x³"],
+"correct": 2
+},
+{
+"q": "If Kofi has y books and Ama has 4 more than twice the number of books Kofi has, write an expression for Ama's books.",
+"a": ["4y + 2", "2(y + 4)", "4 + y/2", "2y + 4"],
+"correct": 3
+},
+{
+"q": "Simplify: -4(x - 3) + 2(3x + 1).",
+"a": ["2x + 14", "-2x + 10", "10x - 10", "2x - 10"],
+"correct": 0
+},
+{
+"q": "Find the value of x if 5x - 7 = 18.",
+"a": ["3", "5", "7", "6"],
+"correct": 1
+},
+{
+"q": "Simplify the expression: (2x³)².chts",
+"a": ["4x⁶", "2x⁶", "4x⁵", "8x⁶"],
+"correct": 2
+},
+{
+"q": "Add the expressions: (4x² - 3x + 5) and (2x² + 5x - 2).",
+"a": ["6x² - 2x + 3", "6x⁴ + 2x² + 3", "6x² + 8x + 3", "6x² + 2x + 3"],
+"correct": 3
+},
+{
+"q": "Evaluate 10 - 3p when p = -4.",
+"a": ["22", "-2", "2", "14"],
+"correct": 0
+},
+{
+"q": "Which of the following represents 'the product of three consecutive integers where the smallest is x'?",
+"a": ["x(x + 1)(x + 2)", "x + (x + 1) + (x + 2)", "3x + 3", "x(3x + 3)"],
+"correct": 1
+},
+{
+"q": "Expand and simplify: (x + 3)(x + 4).",
+"a": ["x² + 7x + 7", "x² + 12x + 7", "x² + 7x + 12", "x² + 3x + 12"],
+"correct": 2
+},
+{
+"q": "Factorise by grouping: ab + ac + db + dc.",
+"a": ["(a + d)(b + c)", "(a + b)(c + d)", "(a + c)(b + d)", "(a + b)(b + c)"],
+"correct": 3
+},
+{
+"q": "Subtract 3x - 5 from 7x + 2.",
+"a": ["4x + 7", "10x - 3", "4x - 3", "-4x + 7"],
+"correct": 0
+},
+{
+"q": "Simplify: (18a⁴b²) / (6a²b).",
+"a": ["3a⁶b³", "3a²b", "12a²b", "3a²b²"],
+"correct": 1
+},
+{
+"q": "If the perimeter of a rectangle is given as 2(l + w), find the perimeter when length l = 8 cm and width w = 5 cm.",
+"a": ["26 cm", "40 cm", "26 cm", "13 cm"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of an algebraic identity?",
+"a": ["2x + 3 = 9", "5x - 4 > 10", "x² - 9 = 0", "2(x + 3) = 2x + 6"],
+"correct": 3
+},
+{
+"q": "Simplify: 5xy - 2yx + 3xy.",
+"a": ["6xy", "10xy", "3xy", "8xy"],
+"correct": 0
+},
+{
+"q": "Find the value of x in the equation: 3(x - 2) = 2(x + 4).",
+"a": ["10", "14", "12", "8"],
+"correct": 1
+},
+{
+"q": "Express the statement 'Five less than twice a number is seventeen' as an algebraic equation.",
+"a": ["5 - 2x = 17", "2(x - 5) = 17", "2x - 5 = 17", "5 - x/2 = 17"],
+"correct": 2
+},
+{
+"q": "Evaluate: (-3x²) × (-2x³).",
+"a": ["-6x⁵", "6x⁶", "-6x⁶", "6x⁵"],
+"correct": 3
+},
+{
+"q": "Factorise completely: 4x² - 16.",
+"a": ["4(x - 2)(x + 2)", "(2x - 4)(2x + 4)", "4(x - 4)(x + 4)", "(4x - 4)(x + 4)"],
+"correct": 0
+},
+{
+"q": "Simplify the compound fraction expression: (4x / 3) + (x / 2).",
+"a": ["5x / 5", "11x / 6", "7x / 6", "5x / 6"],
+"correct": 1
+},
+{
+"q": "What is the coefficient of x in the expansion of (x - 5)(x + 3)?",
+"a": ["-15", "8", "-2", "2"],
+"correct": 2
+},
+{
+"q": "If m = -2 and n = 3, evaluate the expression: m³ + n².",
+"a": ["17", "-1", "1", "1"],
+"correct": 3
+},
+{
+"q": "Simplify: a(b + c) - b(a - c).",
+"a": ["ac + bc", "ab + ac - ab + bc", "ac - bc", "2ab + ac"],
+"correct": 0
+},
+{
+"q": "Solve for y: (y / 4) + 3 = 8.",
+"a": ["12", "20", "16", "24"],
+"correct": 1
+},
+{
+"q": "What is the sum of the angles in a triangle if the angles are represented as x, 2x, and 3x degrees?",
+"a": ["90 degrees", "360 degrees", "180 degrees", "540 degrees"],
+"correct": 2
+},
+{
+"q": "Which expression is equivalent to 16 - x²?",
+"a": ["(x - 4)(x + 4)", "(4 - x)(4 - x)", "(16 - x)(1 + x)", "(4 - x)(4 + x)"],
+"correct": 3
+},
+{
+"q": "Simplify: 7p - [3p + (2p - 4)].",
+"a": ["2p + 4", "4p - 4", "6p + 4", "2p - 4"],
+"correct": 0
+},
+{
+"q": "Find the value of x if 4(2x - 1) - 2(x + 3) = 18.",
+"a": ["3", "4", "5", "6"],
+"correct": 1
+},
+{
+"q": "Factorise: x² + 7x + 12.",
+"a": ["(x + 2)(x + 6)", "(x + 1)(x + 12)", "(x + 3)(x + 4)", "(x - 3)(x - 4)"],
+"correct": 2
+},
+{
+"q": "If a biro costs c cedis and a exercise book costs e cedis, write an expression for the total cost of 4 biros and 6 exercise books.",
+"a": ["24ce", "4c + 6e", "10ce", "4e + 6c"],
+"correct": 3
+},
+{
+"q": "Simplify: (3x²y) × (4x³y⁴) / (2x⁴y²).",
+"a": ["6xy³", "12x²y³", "6x²y²", "6x³y³"],
+"correct": 0
+},
+{
+"q": "Evaluate the formula V = u + at when u = 10, a = 4, and t = 5.",
+"a": ["20", "30", "50", "40"],
+"correct": 1
+},
+{
+"q": "What is the highest common factor (HCF) of the terms 12a³b² and 18a²b⁴?",
+"a": ["6a³b⁴", "36a³b⁴", "6a²b²", "2a²b²"],
+"correct": 2
+},
+{
+"q": "Express as a single fraction: 2 / (x + 1) + 1 / (x + 2).",
+"a": ["(3x + 5) / (x + 1)(x + 2)", "(3x + 3) / (x² + 3x + 2)", "(3x + 1) / (x² + 3x + 2)", "(3x + 5) / (x² + 3x + 2)"],
+"correct": 3
+}
+]
+}

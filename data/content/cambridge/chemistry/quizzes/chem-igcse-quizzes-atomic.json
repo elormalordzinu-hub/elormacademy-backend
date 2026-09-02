@@ -1,0 +1,166 @@
+{
+  "id": "chem-igcse-quizzes-atomic",
+  "name": "Atomic structure and the periodic table",
+  "questions": [
+    {
+      "q": "What are the three subatomic particles that make up an atom?",
+      "a": ["Protons, neutrons, and electrons", "Protons, positrons, and photons", "Alpha particles, beta particles, and gamma rays", "Nuclei, ions, and isotopes"],
+      "correct": 0
+    },
+    {
+      "q": "What is the relative electrical charge of a neutron?",
+      "a": ["+1", "0 (neutral)", "-1", "+2"],
+      "correct": 1
+    },
+    {
+      "q": "Where is the vast majority of an atom's mass concentrated?",
+      "a": ["In the electron cloud", "In the outer shell", "In the nucleus", "Distributed evenly across the atom"],
+      "correct": 2
+    },
+    {
+      "q": "What does the atomic number (proton number) of an element represent?",
+      "a": ["The total number of neutrons and protons", "The total number of electrons in the outer shell", "The relative atomic mass", "The number of protons in the nucleus of an atom"],
+      "correct": 3
+    },
+    {
+      "q": "What are isotopes?",
+      "a": ["Atoms of the same element with the same number of protons but different numbers of neutrons", "Atoms of different elements with the same mass number", "Charged ions formed by losing electrons", "Molecules containing different types of bonds"],
+      "correct": 0
+    },
+    {
+      "q": "What is the maximum number of electrons that can occupy the first electron shell of an atom?",
+      "a": ["1", "2", "8", "18"],
+      "correct": 1
+    },
+    {
+      "q": "What electronic configuration corresponds to a sulfur atom (atomic number 16)?",
+      "a": ["2,8,2", "2,6,8", "2,8,6", "2,8,8,2"],
+      "correct": 2
+    },
+    {
+      "q": "Which group on the Periodic Table consists of unreactive gases with a full outer electron shell?",
+      "a": ["Group I", "Group VII", "Transition metals", "Group VIII (or Group 0)"],
+      "correct": 3
+    },
+    {
+      "q": "Why do elements in the same group of the Periodic Table have similar chemical properties?",
+      "a": ["Because they have the same number of outer shell (valence) electrons", "Because they have identical relative atomic masses", "Because they belong to the same physical state", "Because they contain the same number of neutrons"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the reactivity of the alkali metals (Group I) as you go down the group?",
+      "a": ["It decreases", "It increases", "It stays constant", "It drops to zero"],
+      "correct": 1
+    },
+    {
+      "q": "What name is given to the vertical columns in the Periodic Table?",
+      "a": ["Periods", "Shells", "Groups", "Lattices"],
+      "correct": 2
+    },
+    {
+      "q": "What is the general trend in metallic character across a period from left to right in the Periodic Table?",
+      "a": ["Metallic character increases", "Density drops to zero", "Reactivity with water stops", "Metallic character decreases and non-metallic character increases"],
+      "correct": 3
+    },
+    {
+      "q": "What is the mass number of an atom with 6 protons, 6 electrons, and 7 neutrons?",
+      "a": ["13", "12", "14", "6"],
+      "correct": 0
+    },
+    {
+      "q": "Which group of elements consists of diatomic molecules and shows a decrease in reactivity going down the group?",
+      "a": ["Alkali metals", "Halogens (Group VII)", "Noble gases", "Transition elements"],
+      "correct": 1
+    },
+    {
+      "q": "What charge does a chlorine atom acquire when it gains one electron to form a chloride ion?",
+      "a": ["+1", "+2", "-1", "-2"],
+      "correct": 2
+    },
+    {
+      "q": "Which set of properties is typical of transition elements?",
+      "a": ["Low melting points, soft texture, and colorless compounds", "High reactivity with cold water producing hydrogen gas", "Low density and poor electrical conductivity", "High melting points, high density, and formation of colored compounds"],
+      "correct": 3
+    },
+    {
+      "q": "What is the electronic configuration of a sodium ion (Na<sup>+</sup>)?",
+      "a": ["2,8", "2,8,1", "2,8,8", "2,7"],
+      "correct": 0
+    },
+    {
+      "q": "How many protons are present in a neutral atom of oxygen-18 (<sup>18</sup>O)?",
+      "a": ["10", "8", "18", "6"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes horizontal rows in the Periodic Table?",
+      "a": ["Groups", "Families", "Periods", "Blocks"],
+      "correct": 2
+    },
+    {
+      "q": "Which halogen is a dark grey-black solid that sublimes into a purple vapor when heated?",
+      "a": ["Fluorine", "Chlorine", "Bromine", "Iodine"],
+      "correct": 3
+    },
+    {
+      "q": "What is the relative mass of an electron compared to a proton?",
+      "a": ["Negligible (about 1/1840 of a proton)", "Equal to a proton", "Double a proton", "Zero mass"],
+      "correct": 0
+    },
+    {
+      "q": "Which element is a transition metal commonly used as a catalyst in industrial processes?",
+      "a": ["Sodium", "Iron", "Calcium", "Sulfur"],
+      "correct": 1
+    },
+    {
+      "q": "What is the number of neutrons in an atom of carbon-14 (<sup>14</sup>C)?",
+      "a": ["6", "14", "8", "12"],
+      "correct": 2
+    },
+    {
+      "q": "Why are the noble gases unreactive under standard conditions?",
+      "a": ["They have a single electron in their outer shell", "They possess high electronegativity", "They are radioactive", "They have a stable, full outer shell of electrons"],
+      "correct": 3
+    },
+    {
+      "q": "What happens when potassium reacts with water?",
+      "a": ["It floats, melts into a ball, moves rapidly across the surface, and burns with a lilac flame", "It sinks and produces no reaction", "It explodes quietly without heat", "It forms a solid precipitate of potassium"],
+      "correct": 0
+    },
+    {
+      "q": "Which halogen can displace bromine from an aqueous solution of potassium bromide?",
+      "a": ["Iodine", "Chlorine", "Astatine", "None of them"],
+      "correct": 1
+    },
+    {
+      "q": "What does the period number of an element in the Periodic Table indicate?",
+      "a": ["The number of valence electrons", "The atomic mass", "The number of occupied electron shells", "The number of isotopes"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement about isotopes of the same element is correct?",
+      "a": ["They have different chemical properties because electron configurations differ", "They have different numbers of protons", "They have different numbers of valence electrons", "They have identical chemical properties because they have the same number of electrons and protons"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical symbol for the element with atomic number 20?",
+      "a": ["Ca", "K", "Cu", "C"],
+      "correct": 0
+    },
+    {
+      "q": "Which property generally increases as you go down Group VII (the halogens)?",
+      "a": ["Reactivity", "Melting and boiling points", "Volatility", "Electronegativity"],
+      "correct": 1
+    },
+    {
+      "q": "What is the electronic structure of a magnesium atom (atomic number 12)?",
+      "a": ["2,8", "2,8,1", "2,8,2", "2,6,4"],
+      "correct": 2
+    },
+    {
+      "q": "Why do alkali metals become more reactive as you go down Group I?",
+      "a": ["Atoms get smaller, holding onto electrons tighter", "The number of inner shells decreases", "The nuclear charge decreases", "The outer electron is further from the nucleus and shielded by inner shells, making it easier to lose"],
+      "correct": 3
+    }
+  ]
+}

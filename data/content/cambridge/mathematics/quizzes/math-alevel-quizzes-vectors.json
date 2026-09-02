@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-vectors",
+  "name": "Vectors in 3D space",
+  "questions": [
+    {
+      "q": "Find the magnitude of the vector a = 3i - 4j + 12k.",
+      "a": ["13", "19", "5", "169"],
+      "correct": 0
+    },
+    {
+      "q": "Determine the dot product of vectors p = [2, -1, 4] and q = [3, 5, -2].",
+      "a": ["5", "-3", "19", "27"],
+      "correct": 1
+    },
+    {
+      "q": "Find the angle between the vectors a = [1, 2, 2] and b = [3, 0, 4].",
+      "a": ["arccos(11 / 15)", "arccos(7 / 15)", "arccos(11 / (3√5))", "arccos(3 / 5)"],
+      "correct": 2
+    },
+    {
+      "q": "Calculate the cross product of vectors u = [1, 2, 3] and v = [4, 5, 6].",
+      "a": ["[3, -6, 3]", "[-3, 6, -3]", "[27, -18, -3]", "[-3, 6, -3]"],
+      "correct": 3
+    },
+    {
+      "q": "Find a unit vector in the direction of vector a = [2, -3, 6].",
+      "a": ["[2/7, -3/7, 6/7]", "[2/√41, -3/√41, 6/√41]", "[1/7, -1/7, 2/7]", "[2, -3, 6]"],
+      "correct": 0
+    },
+    {
+      "q": "For what value of k are the vectors a = [1, k, -2] and b = [3, -2, 4] perpendicular?",
+      "a": ["-5/2", "5/2", "-2/3", "2"],
+      "correct": 1
+    },
+    {
+      "q": "Find the vector equation of the line passing through the point (1, -1, 2) with direction vector [3, 2, -1].",
+      "a": ["r = [3, 2, -1] + λ[1, -1, 2]", "r = [1, -1, 2] - λ[3, 2, -1]", "r = [1, -1, 2] + λ[3, 2, -1]", "r = [1, 1, -2] + λ[3, 2, -1]"],
+      "correct": 2
+    },
+    {
+      "q": "Determine whether the lines r = [1, 2, 3] + λ[2, 1, -1] and r = [4, 1, 2] + μ[4, 2, -2] are parallel, intersecting, or skew.",
+      "a": ["Intersecting", "Skew", "Perpendicular", "Parallel"],
+      "correct": 3
+    },
+    {
+      "q": "Find the Cartesian equation of the plane passing through the point (2, 1, -1) with normal vector n = [3, -2, 4].",
+      "a": ["3x - 2y + 4z = 0", "3x - 2y + 4z = 8", "2x + y - z = 3", "3x + 2y + 4z = 12"],
+      "correct": 0
+    },
+    {
+      "q": "Find the acute angle between the planes 2x - y + 2z = 5 and x + 2y - 2z = 3.",
+      "a": ["arccos(1/3)", "arccos(4/9)", "arccos(2/3)", "arccos(5/9)"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the shortest distance from the point (1, 2, 3) to the plane 2x - 2y + z = 5.",
+      "a": ["1", "2", "2/3", "4/3"],
+      "correct": 2
+    },
+    {
+      "q": "Find the point of intersection of the line r = [1, 0, -1] + λ[2, 1, 1] and the plane x + y + z = 3.",
+      "a": ["(1, 0, -1)", "(5, 2, 1)", "(3, 1, 0)", "(3, 1, 1)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the vector product magnitude (area of the parallelogram) formed by vectors a = [2, 1, -1] and b = [1, -2, 3].",
+      "a": ["√110", "14", "√84", "10"],
+      "correct": 0
+    },
+    {
+      "q": "Find the volume of the parallelepiped defined by vectors a = [1, 1, 0], b = [0, 1, 1], and c = [1, 0, 1].",
+      "a": ["1", "2", "4", "3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the coordinates of the foot of the perpendicular from the point (1, 2, 3) to the line r = [0, 1, 2] + λ[1, 1, 1].",
+      "a": ["(1, 2, 3)", "(0, 1, 2)", "(1, 2, 2)", "(2, 3, 4)"],
+      "correct": 2
+    },
+    {
+      "q": "Find the equation of the plane containing the points A(1, 0, 1), B(2, 1, 0), and C(0, 1, 2).",
+      "a": ["x + y + z = 2", "2x - y + z = 3", "x - y + z = 1", "x + y + z = 2"],
+      "correct": 3
+    },
+    {
+      "q": "Determine the value of m for which the vectors [1, 2, 3], [2, m, 1], and [3, 1, 2] are coplanar.",
+      "a": ["-1", "5", "0", "7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the intersection point of the two lines r = [1, 1, 1] + λ[1, 2, 3] and r = [2, 3, 5] + μ[1, 1, 1].",
+      "a": ["(1, 1, 1)", "(2, 3, 4)", "(3, 5, 7)", "(0, -1, -2)"],
+      "correct": 1
+    },
+    {
+      "q": "Find the distance between the parallel planes 2x - y + 2z = 3 and 2x - y + 2z = 9.",
+      "a": ["2", "6", "2", "3"],
+      "correct": 2
+    },
+    {
+      "q": "Find the angle between the line r = [1, 2, 3] + λ[1, 1, 2] and the plane x + y + z = 6.",
+      "a": ["arcsin(√3 / 3)", "arcsin(1 / 2)", "arcsin(√2 / 3)", "arcsin(4 / (3√6))"],
+      "correct": 3
+    },
+    {
+      "q": "If a = [2, -1, 2] and b = [4, 2, -4], find a + 2b.",
+      "a": ["[10, 3, -6]", "[6, 1, -2]", "[10, 5, -2]", "[8, 0, -2]"],
+      "correct": 0
+    },
+    {
+      "q": "Find the projection of vector a = [3, 1, 2] onto vector b = [1, 2, 2].",
+      "a": ["3", "3", "9/3", "5/3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the vector equation of the line passing through points A(1, 2, 3) and B(3, 5, 1).",
+      "a": ["r = [3, 5, 1] + λ[2, 3, -2]", "r = [1, 2, 3] + λ[4, 7, 4]", "r = [1, 2, 3] + λ[2, 3, -2]", "r = [3, 5, 1] + λ[1, 2, 3]"],
+      "correct": 2
+    },
+    {
+      "q": "Determine if the points A(1, 2, 3), B(2, 4, 6), and C(3, 6, 9) are collinear.",
+      "a": ["No, they form a triangle", "Yes, because AB and BC are perpendicular", "Yes, because AB is parallel to AC with a common point", "No, they are coplanar only"],
+      "correct": 3
+    },
+    {
+      "q": "Find the coordinates of the reflection of the point (1, 2, 3) in the plane x + y + z = 6.",
+      "a": ["(3, 4, 5)", "(2, 3, 4)", "(1, 1, 1)", "(0, 0, 0)"],
+      "correct": 0
+    },
+    {
+      "q": "Find the cosine of the angle between the diagonal of a cube and one of its edges.",
+      "a": ["1/2", "1 / √3", "√(2/3)", "1/3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the vector perpendicular to both a = [1, 0, -1] and b = [0, 1, 1].",
+      "a": ["[1, 1, 1]", "[1, -1, 1]", "[1, -1, -1]", "[-1, 1, 1]"],
+      "correct": 2
+    },
+    {
+      "q": "Find the symmetric equations of the line passing through (2, -1, 4) with direction ratios [3, 2, -5].",
+      "a": ["(x - 2)/3 = (y + 1)/2 = (z - 4)/-5", "(x + 2)/3 = (y - 1)/2 = (z + 4)/-5", "(x - 3)/2 = (y - 2)/-1 = (z + 5)/4", "(x - 2)/3 = (y + 1)/2 = (z - 4)/-5"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the area of the triangle with vertices at the origin, (1, 2, 3), and (3, 2, 1).",
+      "a": ["√26", "2√26", "13", "√13"],
+      "correct": 0
+    },
+    {
+      "q": "Find the value of p such that the vectors a = [p, 2, 1] and b = [3, -1, 2] are orthogonal.",
+      "a": ["0", "0", "-1", "1"],
+      "correct": 1
+    },
+    {
+      "q": "Find the shortest distance between the skew lines r = [1, 0, 0] + λ[0, 1, 0] and r = [0, 1, 0] + μ[1, 0, 0].",
+      "a": ["0", "1", "1", "2"],
+      "correct": 2
+    },
+    {
+      "q": "Find the position vector of the point dividing the join of A(1, 2, 3) and B(4, 5, 6) in the ratio 2:1 internally.",
+      "a": ["(3, 4, 5)", "(2, 3, 4)", "(7/3, 8/3, 3)", "(3, 4, 5)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the direction cosines of the vector a = [2, -3, 6].",
+      "a": ["2/7, -3/7, 6/7", "2/√14, -3/√14, 6/√14", "1/7, 2/7, 3/7", "2/7, 3/7, 6/7"],
+      "correct": 0
+    },
+    {
+      "q": "Find the equation of the plane passing through (1, 1, 1) and parallel to the plane 2x - 3y + 6z = 5.",
+      "a": ["2x - 3y + 6z = 1", "2x - 3y + 6z = 5", "2x - 3y + 6z = 11", "x + y + z = 3"],
+      "correct": 1
+    },
+    {
+      "q": "Find the scalar triple product a · (b × c) for a = [1, 2, 3], b = [0, 1, 4], and c = [5, 6, 0].",
+      "a": ["12", "-15", "-33", "24"],
+      "correct": 2
+    },
+    {
+      "q": "Find the projection vector of a = [2, 3, 1] in the direction of b = [1, 1, 0].",
+      "a": ["(5/2, 5/2, 0)", "(1, 1, 0)", "(2, 2, 0)", "(5/2, 5/2, 0)"],
+      "correct": 3
+    },
+    {
+      "q": "Find the vector equation of the line of intersection of the planes x + y + z = 1 and 2x - y + z = 2.",
+      "a": ["r = [1/3, 0, 2/3] + λ[2, 1, -3]", "r = [1, 1, 1] + λ[1, 1, 1]", "r = [0, 0, 1] + λ[1, 0, -1]", "r = [1, 0, 0] + λ[0, 1, -1]"],
+      "correct": 0
+    },
+    {
+      "q": "If a + b + c = 0 and |a| = 3, |b| = 4, and |c| = 5, find the angle between a and b.",
+      "a": ["π/6", "π/2", "π/3", "π/4"],
+      "correct": 1
+    },
+    {
+      "q": "Find the distance from the point (2, 3, -1) to the line r = [1, 1, 1] + λ[2, 1, 2].",
+      "a": ["√3", "2", "√5", "3"],
+      "correct": 2
+    },
+    {
+      "q": "Find the coordinates of the centroid of the triangle with vertices A(1, 2, 3), B(4, 0, 5), and C(7, 4, 1).",
+      "a": ["(3, 2, 3)", "(4, 2, 3)", "(2, 2, 2)", "(4, 2, 3)"],
+      "correct": 3
+    }
+  ]
+}

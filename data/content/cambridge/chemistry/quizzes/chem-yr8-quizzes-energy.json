@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-energy",
+  "name": "Exothermic and endothermic processes",
+  "questions": [
+    {
+      "q": "What term describes a chemical reaction or process that releases thermal energy into the surroundings, causing the temperature to rise?",
+      "a": ["Exothermic process", "Endothermic process", "Neutral process", "Isothermal process"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes a chemical reaction or process that absorbs thermal energy from its surroundings, causing the temperature to drop?",
+      "a": ["Exothermic reaction", "Endothermic process", "Combustion", "Oxidation"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following everyday events is a classic example of an exothermic chemical reaction?",
+      "a": ["Dissolving ammonium nitrate in water", "Melting ice cubes", "Burning wood in a campfire", "Photosynthesis in plants"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the temperature of the surroundings during an exothermic reaction?",
+      "a": ["It decreases", "It stays completely constant", "It drops to absolute zero", "It increases"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the temperature of the surroundings during an endothermic process?",
+      "a": ["It decreases as heat is absorbed from the environment", "It increases rapidly", "It fluctuates wildly", "It remains unaffected"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following processes is strictly endothermic?",
+      "a": ["Burning methane gas", "Thermal decomposition of calcium carbonate by heating", "Neutralizing acid with an alkali", "Rusting iron"],
+      "correct": 1
+    },
+    {
+      "q": "When solid ammonium nitrate dissolves in water and the temperature of the water drops significantly, what type of process is this?",
+      "a": ["Exothermic", "Combustion", "Endothermic", "Neutralization"],
+      "correct": 2
+    },
+    {
+      "q": "Why does the temperature of a reaction mixture rise when an acid reacts with a reactive metal or alkali?",
+      "a": ["The reaction absorbs cold air", "Energy is created from nothing", "Friction causes the heat", "It is an exothermic reaction releasing thermal energy"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following is a reliable way to test if a chemical reaction in a test tube is exothermic?",
+      "a": ["Feel the outside of the test tube to see if it feels warm or hot", "Measure the color change only", "Weigh the test tube on a balance", "Listen for a loud humming sound"],
+      "correct": 0
+    },
+    {
+      "q": "In terms of energy, how can combustion (burning) reactions be classified?",
+      "a": ["Endothermic because they need heat to start", "Exothermic because they release large amounts of heat and light energy", "Neither exothermic nor endothermic", "Physical phase changes"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following phase changes from a higher energy state to a lower energy state is exothermic?",
+      "a": ["Melting ice", "Boiling water", "Condensation of steam into water", "Sublimation of dry ice"],
+      "correct": 2
+    },
+    {
+      "q": "Which phase change requires an input of thermal energy from the surroundings and is therefore endothermic?",
+      "a": ["Freezing liquid water", "Condensing water vapor", "Freezing liquid wax", "Melting solid chocolate"],
+      "correct": 3
+    },
+    {
+      "q": "During a laboratory neutralization reaction between hydrochloric acid and sodium hydroxide solution, a thermometer placed in the beaker shows an increase in temperature. What does this indicate?",
+      "a": ["The reaction is exothermic", "The reaction is endothermic", "No reaction took place", "The thermometer is broken"],
+      "correct": 0
+    },
+    {
+      "q": "Why is photosynthesis in green plants classified as an endothermic process?",
+      "a": ["It gives off heat to the room", "It absorbs light energy from the Sun to convert carbon dioxide and water into glucose", "It burns fuel rapidly", "It releases oxygen gas with high heat"],
+      "correct": 1
+    },
+    {
+      "q": "If you mix two chemicals in a beaker and notice frost forming on the outside because the temperature drops below freezing, what type of reaction has occurred?",
+      "a": ["Combustion", "Exothermic", "Endothermic", "Exothermic oxidation"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement correctly describes energy changes during bond breaking and bond forming?",
+      "a": ["Breaking bonds releases energy while forming bonds absorbs energy", "Both breaking and forming bonds absorb energy", "Both breaking and forming bonds release energy", "Breaking bonds absorbs energy while forming bonds releases energy"],
+      "correct": 3
+    },
+    {
+      "q": "What type of energy is primarily transferred to the surroundings during an exothermic chemical reaction?",
+      "a": ["Thermal (heat) energy", "Nuclear energy", "Magnetic energy", "Gravitational potential energy"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to chemical energy stored within bonds when an exothermic reaction takes place?",
+      "a": ["It is converted and released as thermal or light energy into the surroundings", "It increases without limit", "It remains trapped inside the atoms permanently", "It turns into electricity directly without wires"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following reactions is typically used in commercial instant cold packs for sports injuries?",
+      "a": ["Burning magnesium", "Mixing acid and metal", "Dissolving specific salts like ammonium nitrate in water (endothermic)", "Mixing water and concentrated sulfuric acid"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following reactions is typically used in commercial instant heat packs for warming hands?",
+      "a": ["Melting ice", "Evaporating alcohol", "Dissolving salt in cold water", "Exothermic oxidation of iron powder with oxygen"],
+      "correct": 3
+    },
+    {
+      "q": "When wood burns in a fireplace, thermal and light energy are given off. How is this classified?",
+      "a": ["Exothermic reaction", "Endothermic reaction", "Neutralization process", "Physical dissolving"],
+      "correct": 0
+    },
+    {
+      "q": "If a chemical reaction absorbs more energy when breaking bonds than it releases when making new bonds, what is the overall reaction?",
+      "a": ["Exothermic", "Endothermic", "Catalytic", "Neutral"],
+      "correct": 1
+    },
+    {
+      "q": "What change would you expect to observe on a thermometer when an endothermic reaction takes place in solution?",
+      "a": ["The temperature reading goes up", "The temperature remains steady at 100°C", "The temperature reading goes down", "The thermometer shatters from heat"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following processes involves both absorbing energy to break bonds and releasing energy to form new bonds?",
+      "a": ["Only physical mixing", "Only freezing", "Only evaporating", "Any chemical reaction"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following best defines an exothermic process?",
+      "a": ["A process where energy is transferred from the system to the surroundings", "A process where energy is transferred from surroundings to system", "A process with zero energy transfer", "A process that only occurs in a vacuum"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following best defines an endothermic process?",
+      "a": ["A process that releases sparks", "A process where energy is absorbed by the system from the surroundings", "A process that creates thermal energy", "A rapid explosion"],
+      "correct": 1
+    },
+    {
+      "q": "During the thermal decomposition of copper(II) carbonate in a test tube, continuous heating is required. What does this tell us about the reaction?",
+      "a": ["It is exothermic", "It is spontaneous", "It is endothermic", "It releases large amounts of light"],
+      "correct": 2
+    },
+    {
+      "q": "When concentrated sulfuric acid is added to water, the solution becomes extremely hot. How is this dissolution process classified?",
+      "a": ["Endothermic solution", "Neutralization", "Phase transition", "Exothermic dissolution"],
+      "correct": 3
+    },
+    {
+      "q": "If the products of a reaction have less chemical potential energy stored in their bonds than the reactants, where did the excess energy go?",
+      "a": ["Released into the surroundings as heat or light", "Destroyed by the reaction", "Absorbed into the atoms", "Converted into solid matter"],
+      "correct": 0
+    },
+    {
+      "q": "If the products of a reaction have more chemical potential energy stored in their bonds than the reactants, what must have happened during the reaction?",
+      "a": ["Energy was released", "Energy was absorbed from the surroundings", "No energy change occurred", "Energy was created from sound"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following everyday appliances relies on an exothermic reaction to function?",
+      "a": ["An electric refrigerator", "An air conditioner", "A gas burner stove", "A solar panel"],
+      "correct": 2
+    },
+    {
+      "q": "Why does food cook when placed in a hot oven?",
+      "a": ["The food undergoes exothermic reactions", "The food releases heat into the oven", "The food creates its own nuclear energy", "Thermal energy is transferred endothermically into the food molecules"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following statements is true regarding respiration in living cells?",
+      "a": ["It is an exothermic process that releases energy for body functions", "It is an endothermic process that absorbs heat from blood", "It produces no energy changes", "It is identical to photosynthesis"],
+      "correct": 0
+    },
+    {
+      "q": "What role do surroundings play in an exothermic reaction?",
+      "a": ["They provide heat to the reaction", "They absorb the thermal energy released by the reaction", "They remain completely isolated and unaffected", "They act as a chemical catalyst"],
+      "correct": 1
+    },
+    {
+      "q": "What role do surroundings play in an endothermic reaction?",
+      "a": ["They become heated up", "They release gas bubbles", "They supply thermal energy to the reacting system", "They produce light"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following laboratory observations confirms that a chemical change is exothermic?",
+      "a": ["The flask gets cold to the touch", "The solution changes color instantly", "Crystals precipitate out", "The temperature of the reaction mixture increases noticeably"],
+      "correct": 3
+    },
+    {
+      "q": "When a candle burns, wax reacts with oxygen in the air. What energy transformation takes place?",
+      "a": ["Chemical energy is transformed into thermal and light energy (exothermic)", "Thermal energy is absorbed from the air", "Mechanical energy turns into cold", "Nuclear energy is released"],
+      "correct": 0
+    },
+    {
+      "q": "Is the boiling of water an exothermic or endothermic process?",
+      "a": ["Exothermic because it produces steam", "Endothermic because water must absorb heat continuously to change into gas", "Neither", "Spontaneous and heat-releasing"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes the minimum amount of energy required to start a chemical reaction?",
+      "a": ["Chemical potential", "Thermal capacity", "Activation energy", "Bond energy"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when you mix baking soda and vinegar in a flask and observe a temperature decrease?",
+      "a": ["An exothermic reaction releases heat", "A physical condensation occurs", "Combustion takes place", "An endothermic reaction absorbs heat from the liquid and container"],
+      "correct": 3
+    }
+  ]
+}

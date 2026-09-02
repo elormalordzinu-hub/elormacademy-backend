@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-separation",
+  "name": "Separation techniques distillation and chromatography",
+  "questions": [
+    {
+      "q": "Which separation technique is used to separate a soluble solid from its solution by evaporating the solvent to leave crystals?",
+      "a": ["Crystallization / Evaporation", "Filtration", "Decantation", "Magnetic separation"],
+      "correct": 0
+    },
+    {
+      "q": "What technique is used to separate a mixture of liquids with different boiling points?",
+      "a": ["Filtration", "Fractional distillation", "Chromatography", "Magnetic attraction"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary purpose of paper chromatography in a school laboratory?",
+      "a": ["To separate solid rocks", "To purify drinking water", "To separate mixtures of soluble colored substances (like inks or dyes)", "To measure boiling points"],
+      "correct": 2
+    },
+    {
+      "q": "During simple distillation of saltwater, what happens to the water vapor in the Liebig condenser?",
+      "a": ["It is heated further", "It is filtered through paper", "It escapes into the room", "It cools down and condenses back into liquid pure water"],
+      "correct": 3
+    },
+    {
+      "q": "What is the name of the pure liquid collected during a distillation process?",
+      "a": ["Distillate", "Residue", "Filtrate", "Solute"],
+      "correct": 0
+    },
+    {
+      "q": "In paper chromatography, what term describes the paper or medium through which the solvent moves?",
+      "a": ["Mobile phase", "Stationary phase", "Distillate", "Crystalline lattice"],
+      "correct": 1
+    },
+    {
+      "q": "In paper chromatography, what term describes the liquid solvent that travels up the paper?",
+      "a": ["Stationary phase", "Residue", "Mobile phase", "Catalyst"],
+      "correct": 2
+    },
+    {
+      "q": "Why must the starting pencil line in paper chromatography be drawn in pencil rather than ink?",
+      "a": ["Pencil marks look neater", "Ink is too expensive", "Pencil ink dissolves and ruins the paper", "Pencil lead (graphite) is insoluble and will not dissolve or run in the solvent"],
+      "correct": 3
+    },
+    {
+      "q": "What piece of equipment is essential in fractional distillation (that is not used in simple distillation) to separate liquids with close boiling points?",
+      "a": ["Fractionating column", "Filter funnel", "Bunsen burner shield", "Evaporating basin"],
+      "correct": 0
+    },
+    {
+      "q": "Which technique would be best to separate a mixture of sand and water?",
+      "a": ["Fractional distillation", "Filtration", "Paper chromatography", "Evaporation to dryness"],
+      "correct": 1
+    },
+    {
+      "q": "What is the final liquid obtained from the distillation of fermented sugar solution (water and ethanol mixture)?",
+      "a": ["Pure dry salt", "Pure sand", "Ethanol / alcohol distillate", "Carbon dioxide gas"],
+      "correct": 2
+    },
+    {
+      "q": "In fractional distillation of liquid air, which gas boils off first because it has the lowest boiling point (-196°C)?",
+      "a": ["Oxygen", "Argon", "Carbon dioxide", "Nitrogen"],
+      "correct": 3
+    },
+    {
+      "q": "What is an Rf value in paper chromatography used to calculate?",
+      "a": ["The ratio of the distance traveled by the substance to the distance traveled by the solvent front", "The boiling point of a dye", "The total mass of the pigment", "The purity of a metal bar"],
+      "correct": 0
+    },
+    {
+      "q": "If a dye has an Rf value of 0.65 in water, what does this mean?",
+      "a": ["It traveled 65 cm up the paper", "It traveled 0.65 of the distance that the solvent front traveled", "It is insoluble in water", "It contains 65 different colors"],
+      "correct": 1
+    },
+    {
+      "q": "Why is running water passed through the outer jacket of a Liebig condenser from the bottom up during distillation?",
+      "a": ["To heat the vapor faster", "To increase air pressure", "To ensure the condenser jacket stays completely full of cold water for efficient cooling", "To make the glass glow"],
+      "correct": 2
+    },
+    {
+      "q": "Which separation method would be most suitable to obtain pure drinking water from muddy river water containing dissolved salts?",
+      "a": ["Simple filtration alone", "Chromatography", "Magnetic separation", "Simple distillation"],
+      "correct": 3
+    },
+    {
+      "q": "What property of components allows them to be successfully separated by fractional distillation?",
+      "a": ["Different boiling points", "Different magnetic properties", "Different particle sizes", "Different colors"],
+      "correct": 0
+    },
+    {
+      "q": "What property of components allows them to be separated by paper chromatography?",
+      "a": ["Different densities", "Different solubilities in the solvent and affinities for the paper", "Different melting points", "Different electrical charges"],
+      "correct": 1
+    },
+    {
+      "q": "If two different food dyes produce the exact same Rf value using the exact same solvent and paper, what can be inferred?",
+      "a": ["They are definitely different substances", "They have different boiling points", "They are likely to be the same chemical substance", "They are insoluble"],
+      "correct": 2
+    },
+    {
+      "q": "During paper chromatography, why must the solvent level in the beaker be kept *below* the pencil line holding the spots?",
+      "a": ["To prevent the paper from catching fire", "To speed up evaporation", "To make the colors brighter", "To prevent the sample spots from dissolving directly into the bulk solvent pool instead of traveling up"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for a substance that is completely pure and melts or boils at a single exact temperature?",
+      "a": ["Pure substance", "Mixture", "Solution", "Suspension"],
+      "correct": 0
+    },
+    {
+      "q": "How can you test if a liquid distillate collected from distillation is pure water?",
+      "a": ["Check if it is colored", "Test its boiling point (it should boil precisely at 100°C)", "Taste it immediately in the lab", "Weigh it on a scale"],
+      "correct": 1
+    },
+    {
+      "q": "In fractional distillation, which liquid fraction is collected at the top of the fractionating column?",
+      "a": ["The liquid with the highest boiling point", "The liquid with the highest density", "The liquid with the lowest boiling point", "The solid residue"],
+      "correct": 2
+    },
+    {
+      "q": "Why does a fractionating column have glass beads or plates inside it?",
+      "a": ["To make the apparatus heavier", "To filter out solid dust", "To block the vapor completely", "To provide a large surface area for vapors to condense and re-evaporate repeatedly, achieving better separation"],
+      "correct": 3
+    },
+    {
+      "q": "Which separation method relies on a rotating machine to spin dense solid particles to the bottom of a test tube?",
+      "a": ["Centrifugation", "Chromatography", "Sublimation", "Distillation"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes a solid turning directly into a gas without melting, which can be used to separate iodine from sand?",
+      "a": ["Evaporation", "Sublimation", "Condensation", "Dissolution"],
+      "correct": 1
+    },
+    {
+      "q": "If a sample of black ink separates into three distinct colored spots on chromatography paper, what does this prove about the black ink?",
+      "a": ["It is a pure chemical element", "It is a single compound", "It is a mixture containing at least three different soluble dyes", "It is insoluble in water"],
+      "correct": 2
+    },
+    {
+      "q": "When separating a mixture of oil and water, what piece of laboratory glassware is used to drain the bottom layer away?",
+      "a": ["A Liebig condenser", "A Buchner flask", "A volumetric pipette", "A separating funnel"],
+      "correct": 3
+    },
+    {
+      "q": "What is the solvent front in paper chromatography?",
+      "a": ["The highest point reached by the solvent as it moves up the paper", "The starting pencil line", "The bottom of the beaker", "The color spots"],
+      "correct": 0
+    },
+    {
+      "q": "How is an Rf value calculated mathematically?",
+      "a": ["Distance of solvent divided by distance of spot", "Distance traveled by spot divided by distance traveled by solvent front", "Spot color intensity multiplied by height", "Mass of spot divided by volume of solvent"],
+      "correct": 1
+    },
+    {
+      "q": "Why is fractional distillation used in crude oil (petroleum) refineries?",
+      "a": ["To make crude oil solid", "To freeze the oil", "To separate crude oil into useful fractions with different boiling point ranges", "To remove all carbon"],
+      "correct": 2
+    },
+    {
+      "q": "If an ink spot does not move at all from the baseline during chromatography using water, what can you conclude about that dye?",
+      "a": ["It has a very high Rf value of 1.0", "It is extremely soluble in water", "It is a gas", "It is insoluble in that particular solvent"],
+      "correct": 3
+    },
+    {
+      "q": "What is the main advantage of using fractional distillation over simple distillation?",
+      "a": ["It can separate mixtures of liquids whose boiling points are very close to each other", "It requires no heat source", "It works only for solids", "It is instantaneous"],
+      "correct": 0
+    },
+    {
+      "q": "In a distillation setup, what is the purpose of adding anti-bumping granules into the round-bottom flask?",
+      "a": ["To color the liquid", "To ensure smooth boiling and prevent violent splashing", "To increase the boiling point", "To act as a chemical catalyst"],
+      "correct": 1
+    },
+    {
+      "q": "Which separation technique would you select to separate a mixture of salt and water while keeping *both* the solid salt and the water?",
+      "a": ["Filtration", "Simple evaporation to dryness", "Simple distillation", "Chromatography"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the temperature shown on the thermometer during the steady distillation of a pure liquid?",
+      "a": ["It continuously rises up and down", "It drops to zero", "It fluctuates wildly", "It remains constant at the boiling point of that liquid"],
+      "correct": 3
+    },
+    {
+      "q": "Which of these mixtures is best analyzed using paper chromatography rather than distillation?",
+      "a": ["A drop of colored food coloring", "A mixture of salt and water", "A mixture of ethanol and water", "Crude oil"],
+      "correct": 0
+    },
+    {
+      "q": "What physical change occurs when steam turns into liquid water inside a condenser?",
+      "a": ["Melting", "Condensation", "Sublimation", "Freezing"],
+      "correct": 1
+    },
+    {
+      "q": "Why must chromatography tanks or beakers usually be covered with a lid during the experiment?",
+      "a": ["To keep the room dark", "To prevent the paper from falling out", "To saturate the air inside with solvent vapor and prevent evaporation of the mobile phase", "To heat up the system"],
+      "correct": 2
+    },
+    {
+      "q": "What is the term for a substance that cannot be separated into simpler substances by chemical or physical means?",
+      "a": ["A mixture", "A solution", "A compound", "A chemical element"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+"id": "phys-yr8-quizzes-magnetism",
+"name": "Magnetism and magnetic fields",
+"questions": [
+{
+"q": "Which of the following materials is strongly magnetic and attracted to magnets?",
+"a": ["Iron (and steel)", "Pure copper", "Clean aluminum", "Dry wood"],
+"correct": 0
+},
+{
+"q": "What happens when two bar magnets are brought close together with their North poles facing each other?",
+"a": ["They attract each other strongly", "They repel each other", "They stick together permanently", "Nothing happens"],
+"correct": 1
+},
+{
+"q": "What are the two ends of a bar magnet called?",
+"a": ["Positive and negative poles", "East and west poles", "North and South poles", "Primary and secondary ends"],
+"correct": 2
+},
+{
+"q": "What term describes the region around a magnet where magnetic forces can be detected?",
+"a": ["An electric circuit", "A gravitational zone", "An electrostatic field", "A magnetic field"],
+"correct": 3
+},
+{
+"q": "How do magnetic field lines indicate the strength of a magnetic field in a specific region?",
+"a": ["Closer together field lines represent a stronger magnetic field", "Further apart lines mean higher magnetic strength", "The color of the lines shows the strength", "The length of the lines determines the strength"],
+"correct": 0
+},
+{
+"q": "In what direction do magnetic field lines always run outside of a bar magnet?",
+"a": ["From the South pole to the North pole", "From the North pole to the South pole", "In random circular loops inside the air", "Directly toward the center of the Earth"],
+"correct": 1
+},
+{
+"q": "Which of the following metals is classified as non-magnetic?",
+"a": ["Nickel", "Cobalt", "Gold", "Steel"],
+"correct": 2
+},
+{
+"q": "What happens if you cut a bar magnet in half into two separate pieces?",
+"a": ["One piece becomes a pure North pole and the other becomes a pure South pole", "Both pieces lose their magnetism completely", "The magnet turns into an electric current", "Each broken piece becomes a complete new magnet with its own North and South poles"],
+"correct": 3
+},
+{
+"q": "What scientific instrument uses a lightweight magnetized needle to find direction by aligning with Earth's magnetic field?",
+"a": ["A magnetic compass", "An ammeter", "A barometer", "A newton meter"],
+"correct": 0
+},
+{
+"q": "What term describes a material like soft iron that easily becomes magnetized in a magnetic field but quickly loses its magnetism when removed?",
+"a": ["A permanent magnet", "A temporary magnet", "An electrical insulator", "A superconducting resistor"],
+"correct": 1
+},
+{
+"q": "Why does a magnetic compass needle point toward the Arctic region of the Earth?",
+"a": ["Because the Earth's geographic North Pole is also a magnetic North pole", "Because compasses are attracted to metal buildings", "Because the Earth's magnetic South pole is located near the geographic North Pole", "Because gravity pulls compasses northward"],
+"correct": 2
+},
+{
+"q": "What type of magnet retains its magnetism for a very long time and is made from hard magnetic materials like steel or neodymium?",
+"a": ["An electromagnet", "A temporary soft iron core", "A thermal conductor", "A permanent magnet"],
+"correct": 3
+},
+{
+"q": "What happens when a North pole of one magnet is brought near the South pole of another magnet?",
+"a": ["They attract each other", "They repel each other", "They cancel each other out into zero force", "They melt from friction"],
+"correct": 0
+},
+{
+"q": "Which of the following describes how you can magnetize an unmagnetized iron nail using a permanent magnet?",
+"a": ["Heat the nail in a Bunsen burner flame", "Stroke the iron nail repeatedly in one direction with one pole of a permanent magnet", "Submerge the nail in saltwater", "Connect the nail to a battery"],
+"correct": 1
+},
+{
+"q": "What happens to paperclips made of soft iron when they attach to the bottom of a bar magnet?",
+"a": ["They become permanently magnetic forever", "They turn into plastic", "They become induced magnets and can attract other paperclips below them", "They dissolve into the air"],
+"correct": 2
+},
+{
+"q": "Which of the following metals is magnetic?",
+"a": ["Copper", "Aluminum", "Lead", "Cobalt"],
+"correct": 3
+},
+{
+"q": "What pattern do iron filings form when sprinkled around a bar magnet on a piece of paper?",
+"a": ["They form lines tracing out the shape of the magnetic field", "They arrange themselves in random circles", "They gather only at the exact center", "They form a straight vertical line"],
+"correct": 0
+},
+{
+"q": "What happens to the strength of a magnetic field as you move further away from the poles of a magnet?",
+"a": ["The magnetic field strength increases", "The magnetic field strength decreases", "The magnetic field strength remains completely constant", "The magnetic field turns into electricity"],
+"correct": 1
+},
+{
+"q": "Why is steel often used to make permanent magnets whereas soft iron is used for temporary magnets?",
+"a": ["Steel is cheaper than iron", "Steel is a better electrical conductor", "Steel is a hard magnetic material that keeps its magnetism once magnetized, whereas soft iron loses it easily", "Steel melts at lower temperatures"],
+"correct": 2
+},
+{
+"q": "What can be said about the magnetic poles of any magnet?",
+"a": ["A magnet can exist with only a single isolated North pole", "Poles can be erased by shaking the magnet", "Magnets have no poles, only a uniform field", "Poles always exist in pairs (North and South); you cannot have one without the other"],
+"correct": 3
+},
+{
+"q": "What causes the Earth to act like a giant magnet with its own magnetic field?",
+"a": ["Circulating electric currents in the Earth's molten outer core containing liquid iron and nickel", "A giant bar magnet buried deep inside the crust", "Solar wind bouncing off clouds", "Gravity pulling on rocks"],
+"correct": 0
+},
+{
+"q": "How can you demagnetize a permanent steel magnet (destroy its magnetism)?",
+"a": ["Keep it in a dark box for a week", "Heat it strongly to a high temperature or hammer it repeatedly", "Wash it with soap and water", "Place it near a wooden table"],
+"correct": 1
+},
+{
+"q": "If you suspend a bar magnet freely by a piece of string, in which direction will it align itself when it comes to rest?",
+"a": ["East-West direction", "Vertically upward", "North-South direction", "In circles around the room"],
+"correct": 2
+},
+{
+"q": "What term describes the process where an unmagnetized magnetic material becomes a magnet when placed in a magnetic field?",
+"a": ["Electrolysis", "Refraction", "Combustion", "Magnetic induction"],
+"correct": 3
+},
+{
+"q": "Where is the magnetic field of a bar magnet strongest?",
+"a": ["At the two poles (North and South ends)", "At the exact midpoint of the magnet", "In the air 10 cm away from the magnet", "Inside the middle of the steel bar"],
+"correct": 0
+},
+{
+"q": "What happens when two South poles of different magnets are brought close together?",
+"a": ["They attract each other", "They repel each other", "They fuse together into one magnet", "Nothing happens"],
+"correct": 1
+},
+{
+"q": "Which of the following items would be picked up by a strong bar magnet?",
+"a": ["A copper coin", "An aluminum drink can", "A steel paperclip", "A gold wedding ring"],
+"correct": 2
+},
+{
+"q": "What are magnetic domains inside a piece of iron?",
+"a": ["Random electrical charges", "Open spaces between atoms", "Invisible color bands", "Tiny microscopic regions where the magnetic fields of atoms are aligned together"],
+"correct": 3
+},
+{
+"q": "Why do iron filings cluster densely at the poles of a bar magnet during a plotting experiment?",
+"a": ["Because the magnetic field is strongest at the poles", "Because filings prefer cold temperatures", "Because gravity pulls filings toward ends", "Because air currents blow them there"],
+"correct": 0
+},
+{
+"q": "What happens to the alignment of magnetic domains inside a piece of soft iron when it is placed near a strong magnet?",
+"a": ["They point in completely random directions", "They line up in the same direction, magnetizing the iron", "They melt into a liquid", "They turn into electric sparks"],
+"correct": 1
+},
+{
+"q": "What is the primary navigational benefit of understanding Earth's magnetic field?",
+"a": ["It prevents thunderstorms", "It creates solar power", "It allows sailors, pilots, and travelers to use compasses to navigate accurately across the globe", "It stops earthquakes"],
+"correct": 2
+},
+{
+"q": "Which of the following best defines a non-magnetic material?",
+"a": ["A material that attracts magnets strongly", "A material that repels magnets", "A material that turns into an electromagnet", "A material that is completely unaffected by magnets, such as plastic or wood"],
+"correct": 3
+}
+]
+}

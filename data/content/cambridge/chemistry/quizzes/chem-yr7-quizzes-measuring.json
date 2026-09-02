@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr7-quizzes-measuring",
+  "name": "Measuring mass volume and temperature",
+  "questions": [
+    {
+      "q": "Which standard SI unit is used to measure mass in a school chemistry laboratory?",
+      "a": ["Gram (g) or Kilogram (kg)", "Liter (L)", "Degree Celsius (°C)", "Second (s)"],
+      "correct": 0
+    },
+    {
+      "q": "What piece of laboratory equipment is best used to measure an exact, fixed volume of a liquid, such as 25.0 cm³?",
+      "a": ["A beaker", "A volumetric pipette or burette", "A stirring rod", "An evaporating dish"],
+      "correct": 1
+    },
+    {
+      "q": "When reading the volume of a clear liquid in a measuring cylinder, where should your eye level be positioned to avoid parallax error?",
+      "a": ["Looking down from high above the cylinder", "Looking up from beneath the liquid level", "Level with the bottom of the curved meniscus", "Aligned with the very top edge of the liquid ring"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary function of a laboratory thermometer during a heating experiment?",
+      "a": ["To measure atmospheric pressure", "To measure the mass of a solid substance", "To measure the volume of expanding gases", "To measure temperature accurately in degrees Celsius"],
+      "correct": 3
+    },
+    {
+      "q": "Before measuring the mass of a chemical powder on an electronic balance, what button should you press to zero the reading with the weighing boat on?",
+      "a": ["Tare / Zero", "Power off", "Print", "Calibration mode"],
+      "correct": 0
+    },
+    {
+      "q": "Which of these instruments is least accurate for measuring specific liquid volumes?",
+      "a": ["A measuring cylinder", "A standard laboratory beaker with rough graduation lines", "A volumetric pipette", "A burette"],
+      "correct": 1
+    },
+    {
+      "q": "What is the term given to the curved upper surface of a liquid inside a narrow glass tube or measuring cylinder?",
+      "a": ["The vertex", "The focal point", "The meniscus", "The gradient"],
+      "correct": 2
+    },
+    {
+      "q": "If water freezes at 0°C and boils at 100°C under standard conditions, what is room temperature typically around?",
+      "a": ["100°C", "0°C", "minus 10°C", "20 to 25°C"],
+      "correct": 3
+    },
+    {
+      "q": "How many milliliters (mL) or cubic centimeters (cm³) are equal to 1 liter (L) of liquid?",
+      "a": ["1,000 mL", "100 mL", "10 mL", "1,000,000 mL"],
+      "correct": 0
+    },
+    {
+      "q": "When measuring the temperature of a liquid being heated in a beaker, why should the thermometer bulb not touch the bottom of the glass container?",
+      "a": ["It will cause the thermometer to measure the temperature of the glass container/heat source rather than the liquid itself", "It will instantly shatter the thermometer bulb", "It will cause the liquid to boil away too fast", "It will block the movement of the stirring rod"],
+      "correct": 1
+    },
+    {
+      "q": "Which unit is commonly used to express the volume of liquids in school science experiments?",
+      "a": ["Kilograms (kg)", "Meters (m)", "Cubic centimeters (cm³) or milliliters (mL)", "Newtons (N)"],
+      "correct": 2
+    },
+    {
+      "q": "What instrument would you use to measure the mass of a metal block with high precision?",
+      "a": ["A spring balance", "A 100 cm³ measuring cylinder", "A glass thermometer", "An electronic digital balance"],
+      "correct": 3
+    },
+    {
+      "q": "What does a parallax error occur from when reading a measuring scale?",
+      "a": ["Looking at the scale from an angle rather than directly straight on", "Using a dirty piece of glassware", "Measuring a liquid that is too hot", "Weighing an object on an uncalibrated balance"],
+      "correct": 0
+    },
+    {
+      "q": "If a measuring cylinder has scale divisions marked every 1 cm³, what is the correct estimated limit of reading or precision for that cylinder?",
+      "a": ["plus or minus 1.0 cm³", "plus or minus 0.5 cm³", "plus or minus 0.01 cm³", "plus or minus 5.0 cm³"],
+      "correct": 1
+    },
+    {
+      "q": "What is the freezing point of pure water on the Celsius temperature scale?",
+      "a": ["minus 100°C", "100°C", "0°C", "32°F"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following describes the correct way to measure the volume of an irregular solid (like a small stone) using a measuring cylinder and water?",
+      "a": ["Weigh the stone on a scale and multiply by its density", "Drop the stone on a balance and read the display", "Heat the stone in a beaker until it melts", "Pour water into a measuring cylinder, record initial volume, submerge the stone, record final volume, and find the difference"],
+      "correct": 3
+    },
+    {
+      "q": "What is the boiling point of pure water under standard atmospheric pressure?",
+      "a": ["100°C", "50°C", "0°C", "212°F"],
+      "correct": 0
+    },
+    {
+      "q": "Why are electronic digital balances preferred over traditional triple-beam mechanical balances in modern laboratories?",
+      "a": ["They can be used to heat chemicals simultaneously", "They provide faster, easier, and more precise digital mass readings", "They do not require any electrical power source", "They measure liquid volumes automatically"],
+      "correct": 1
+    },
+    {
+      "q": "When water is placed in a narrow glass cylinder, does the meniscus curve downwards or upwards at its center?",
+      "a": ["It forms a flat horizontal surface", "It curves upwards at the center", "It curves downwards at the center", "It forms a complete spherical bubble"],
+      "correct": 2
+    },
+    {
+      "q": "If you need to measure exactly 50.0 cm³ of hydrochloric acid quickly, which piece of apparatus from this list is most suitable?",
+      "a": ["An evaporating dish", "A watch glass", "A chemical spatula", "A 50 cm³ measuring cylinder or burette"],
+      "correct": 3
+    },
+    {
+      "q": "What does the term 'calibration' mean when applied to measuring instruments like thermometers or balances?",
+      "a": ["Checking and adjusting the instrument against a known standard to ensure accuracy", "Cleaning the outside surface with alcohol", "Storing the equipment in a dark wooden box", "Connecting the device to a computer network"],
+      "correct": 0
+    },
+    {
+      "q": "If an electronic balance reads 0.00 g before you place a chemical boat on it, but reads minus 0.05 g when you remove it, what should you do?",
+      "a": ["Ignore the difference completely", "Press the tare/zero button again to reset the display to 0.00 g", "Add 0.05 g to every measurement you record", "Throw away the electronic balance"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following temperature readings represents the coldest condition?",
+      "a": ["20°C", "0°C", "minus 18°C", "5°C"],
+      "correct": 2
+    },
+    {
+      "q": "Why is it important to ensure a measuring cylinder is resting on a flat, level bench when taking a volume reading?",
+      "a": ["To prevent the glass from rolling off the table", "To make the liquid change color faster", "To stop chemical vapors from escaping", "To ensure the liquid surface is completely horizontal and level for an accurate reading"],
+      "correct": 3
+    },
+    {
+      "q": "What is the mass of 1 cubic centimeter (1 cm³) of pure water at room temperature, approximately?",
+      "a": ["1 gram (1 g)", "10 grams", "1 kilogram", "0.1 gram"],
+      "correct": 0
+    },
+    {
+      "q": "When recording scientific data in a laboratory table, what must always be included alongside the numerical values?",
+      "a": ["The names of the students in the group", "The appropriate units of measurement (e.g., g, cm³, °C)", "The brand name of the equipment used", "The current weather conditions outside"],
+      "correct": 1
+    },
+    {
+      "q": "If you submerge a metal key into a measuring cylinder containing 40 cm³ of water, and the water level rises to 47 cm³, what is the volume of the key?",
+      "a": ["40 cm³", "87 cm³", "7 cm³", "47 cm³"],
+      "correct": 2
+    },
+    {
+      "q": "Which measuring tool is specifically designed to measure variable volumes of liquid delivered during a titration experiment?",
+      "a": ["A dropping pipette", "A glass beaker", "A gas syringe", "A burette"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary risk of heating a sealed glass thermometer to a temperature far exceeding its maximum scale limit?",
+      "a": ["The internal liquid expands too much, causing the glass bulb to break or explode", "The thermometer will turn into a solid metal", "The temperature scale numbers will fade away", "The thermometer will start measuring mass instead"],
+      "correct": 0
+    },
+    {
+      "q": "What does 'precision' refer to when taking repeated measurements in a science experiment?",
+      "a": ["How close a measurement is to the true accepted value", "How close repeated measurements are to each other", "How fast you can record the data", "How expensive the measuring equipment is"],
+      "correct": 1
+    },
+    {
+      "q": "If a balance measures mass to two decimal places (e.g., 12.45 g), what is its smallest increment of measurement?",
+      "a": ["1.00 g", "0.10 g", "0.01 g", "0.001 g"],
+      "correct": 2
+    },
+    {
+      "q": "What is the correct term for the error introduced when a measuring instrument has a non-zero reading when nothing is being measured (e.g., starting at plus 0.2 g)?",
+      "a": ["Parallax error", "Random error", "Human estimation error", "Zero error"],
+      "correct": 3
+    },
+    {
+      "q": "When measuring the temperature of a melting ice cube, where should the thermometer bulb be positioned?",
+      "a": ["Fully immersed in the mixture of melting ice and water", "Floating in the air directly above the ice", "Touching the metal side of the freezer", "Pressed hard against the bottom of the glass beaker"],
+      "correct": 0
+    },
+    {
+      "q": "Which of these units is equivalent to 1 decimeter cubed (1 dm³)?",
+      "a": ["1 milliliter (1 mL)", "1 liter (1000 cm³)", "1 cubic meter (1 m³)", "1 microliter"],
+      "correct": 1
+    },
+    {
+      "q": "If you mix 50 cm³ of water with 50 cm³ of ethanol, the total volume turns out to be slightly less than 100 cm³. Which measuring instrument would reveal this accurate discrepancy if read carefully?",
+      "a": ["A standard plastic bucket", "A wide kitchen bowl", "A precise graduated measuring cylinder or volumetric flask", "A metal spoon"],
+      "correct": 2
+    },
+    {
+      "q": "What is the main advantage of using a digital thermometer over a traditional liquid-in-glass mercury or alcohol thermometer?",
+      "a": ["It can measure mass and volume at the same time", "It looks more traditional", "It never needs batteries", "It provides a direct digital readout, reducing reading errors"],
+      "correct": 3
+    }
+  ]
+}

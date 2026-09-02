@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr8-quizzes-formulas",
+  "name": "Chemical formulas and symbols",
+  "questions": [
+    {
+      "q": "What does the chemical symbol 'Na' represent on the periodic table?",
+      "a": ["Sodium", "Nitrogen", "Nickel", "Neon"],
+      "correct": 0
+    },
+    {
+      "q": "What is the correct chemical formula for water?",
+      "a": ["CO2", "H2O", "NaCl", "NH3"],
+      "correct": 1
+    },
+    {
+      "q": "In the chemical formula for carbon dioxide, CO2, what does the subscript '2' indicate?",
+      "a": ["Two carbon atoms", "Total mass of 2 grams", "Two oxygen atoms bonded to one carbon atom", "Two molecules of carbon"],
+      "correct": 2
+    },
+    {
+      "q": "What does the chemical symbol 'Fe' stand for?",
+      "a": ["Fluorine", "Francium", "Fermium", "Iron (from ferrum)"],
+      "correct": 3
+    },
+    {
+      "q": "Which chemical formula represents common table salt (sodium chloride)?",
+      "a": ["NaCl", "HCl", "NaOH", "Na2CO3"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical formula for carbon dioxide gas?",
+      "a": ["CO", "CO2", "C2O", "C2O4"],
+      "correct": 1
+    },
+    {
+      "q": "How many total atoms are present in a single molecule of sulfuric acid, H2SO4?",
+      "a": ["3 atoms", "5 atoms", "7 atoms", "10 atoms"],
+      "correct": 2
+    },
+    {
+      "q": "What is the correct chemical formula for ammonia gas?",
+      "a": ["CH4", "H2O", "HCl", "NH3"],
+      "correct": 3
+    },
+    {
+      "q": "What chemical symbol represents the element potassium?",
+      "a": ["K", "P", "Po", "Pt"],
+      "correct": 0
+    },
+    {
+      "q": "What does the chemical formula CH4 represent?",
+      "a": ["Carbon monoxide", "Methane", "Carbon dioxide", "Ammonia"],
+      "correct": 1
+    },
+    {
+      "q": "Which chemical symbol stands for gold?",
+      "a": ["Ag", "Go", "Au", "Gd"],
+      "correct": 2
+    },
+    {
+      "q": "What is the correct chemical formula for hydrochloric acid?",
+      "a": ["H2SO4", "HNO3", "H2CO3", "HCl"],
+      "correct": 3
+    },
+    {
+      "q": "What chemical symbol represents silver?",
+      "a": ["Ag", "Si", "Sr", "Sn"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical formula for calcium carbonate (found in limestone and marble)?",
+      "a": ["CaO", "CaCO3", "CaCl2", "Ca(OH)2"],
+      "correct": 1
+    },
+    {
+      "q": "How many oxygen atoms are contained in a single molecule of aluminum sulfate, Al2(SO4)3?",
+      "a": ["4 atoms", "7 atoms", "12 atoms", "3 atoms"],
+      "correct": 2
+    },
+    {
+      "q": "What element is represented by the chemical symbol 'Cu'?",
+      "a": ["Carbon", "Cobalt", "Calcium", "Copper"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical formula for magnesium oxide?",
+      "a": ["MgO", "Mg2O", "MnO2", "MgSO4"],
+      "correct": 0
+    },
+    {
+      "q": "Which chemical formula represents sulfuric acid?",
+      "a": ["HCl", "H2SO4", "HNO3", "H3PO4"],
+      "correct": 1
+    },
+    {
+      "q": "What does a coefficient in front of a chemical formula, such as 3H2O, represent?",
+      "a": ["Three hydrogen atoms", "Three water molecules", "Three oxygen atoms", "Total mass of 3 grams"],
+      "correct": 2
+    },
+    {
+      "q": "What element does the chemical symbol 'Hg' represent?",
+      "a": ["Hydrogen", "Helium", "Hafnium", "Mercury (hydrargyrum)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical formula for glucose (sugar produced in photosynthesis)?",
+      "a": ["C6H12O6", "CO2", "H2O", "CH4"],
+      "correct": 0
+    },
+    {
+      "q": "Which symbol represents lead on the periodic table?",
+      "a": ["Le", "Pb", "Pd", "Pt"],
+      "correct": 1
+    },
+    {
+      "q": "What is the correct chemical formula for sodium hydroxide (a strong alkali)?",
+      "a": ["NaCl", "Na2SO4", "NaOH", "NaHCO3"],
+      "correct": 2
+    },
+    {
+      "q": "What does the chemical symbol 'Sn' stand for?",
+      "a": ["Silicon", "Sodium", "Sulfur", "Tin (stannum)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical formula for nitric acid?",
+      "a": ["HNO3", "H2SO4", "HCl", "H2CO3"],
+      "correct": 0
+    },
+    {
+      "q": "How many hydrogen atoms are in a single molecule of ammonium hydroxide, NH4OH?",
+      "a": ["3", "5", "4", "6"],
+      "correct": 1
+    },
+    {
+      "q": "What element is denoted by the chemical symbol 'P'?",
+      "a": ["Potassium", "Platinum", "Phosphorus", "Lead"],
+      "correct": 2
+    },
+    {
+      "q": "What is the chemical formula for carbon monoxide gas?",
+      "a": ["CO2", "C2O", "C", "CO"],
+      "correct": 3
+    },
+    {
+      "q": "What element is represented by the chemical symbol 'W'?",
+      "a": ["Tungsten (wolfram)", "Zinc", "Sodium", "Water"],
+      "correct": 0
+    },
+    {
+      "q": "What is the correct chemical formula for calcium hydroxide (limewater)?",
+      "a": ["CaO", "Ca(OH)2", "CaCO3", "CaCl2"],
+      "correct": 1
+    },
+    {
+      "q": "In a balanced chemical equation, what do the numbers (subscripts and coefficients) tell us about the reaction?",
+      "a": ["The color changes", "The temperature of the room", "The exact ratio of atoms and molecules reacting and forming", "The speed of the reaction"],
+      "correct": 2
+    },
+    {
+      "q": "Which symbol represents the element nitrogen?",
+      "a": ["Ni", "Na", "Ne", "N"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical formula for sulfur dioxide?",
+      "a": ["SO2", "SO3", "S2O", "S"],
+      "correct": 0
+    },
+    {
+      "q": "What element is represented by the symbol 'K'?",
+      "a": ["Krypton", "Potassium (kalium)", "Phosphorus", "Calcium"],
+      "correct": 1
+    },
+    {
+      "q": "How many total atoms are in a single molecule of calcium carbonate, CaCO3?",
+      "a": ["3 atoms", "4 atoms", "5 atoms", "6 atoms"],
+      "correct": 2
+    },
+    {
+      "q": "What chemical symbol represents zinc?",
+      "a": ["Zi", "Zr", "Ze", "Zn"],
+      "correct": 3
+    },
+    {
+      "q": "What is the formula for oxygen gas, which exists as diatomic molecules in the air?",
+      "a": ["O2", "O", "O3", "H2O"],
+      "correct": 0
+    },
+    {
+      "q": "What is the formula for nitrogen gas in the atmosphere?",
+      "a": ["Ni", "N2", "NO2", "NH3"],
+      "correct": 1
+    },
+    {
+      "q": "What does a chemical formula tell you about a pure compound?",
+      "a": ["How much it weighs in pounds", "Its exact boiling point", "The types of atoms and their fixed ratio in the compound", "How fast it dissolves"],
+      "correct": 2
+    },
+    {
+      "q": "What element is represented by the symbol 'Si'?",
+      "a": ["Silver", "Sulfur", "Scandium", "Silicon"],
+      "correct": 3
+    }
+  ]
+}

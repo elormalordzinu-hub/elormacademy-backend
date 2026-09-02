@@ -1,0 +1,206 @@
+{
+  "id": "math-igcse-quizzes-trig",
+  "name": "Trigonometry sine and cosine rules",
+  "questions": [
+    {
+      "q": "Which formula correctly states the Sine Rule in any triangle ABC with sides a, b, c opposite to angles A, B, C?",
+      "a": ["a / sin(A) = b / sin(B) = c / sin(C)", "a² = b² + c² - 2bc cos(A)", "Area = 0.5 × a × b × sin(C)", "sin(A) / a = sin(B) / b = sin(C) / c"],
+      "correct": 0
+    },
+    {
+      "q": "When should you use the Cosine Rule to find an unknown side in a triangle?",
+      "a": ["When you know two angles and one side", "When you know two sides and the included angle (SAS)", "When you know all three angles", "When you know a side and its opposite angle"],
+      "correct": 1
+    },
+    {
+      "q": "What is the formula for the area of a triangle given two sides a and b and the included angle C?",
+      "a": ["0.5 × a × b × cos(C)", "0.5 × base × height", "0.5 × a × b × sin(C)", "a × b × sin(C)"],
+      "correct": 2
+    },
+    {
+      "q": "In triangle ABC, side a = 7 cm, side b = 8 cm, and angle C = 60°. What is the length of side c using the cosine rule?",
+      "a": ["√37 cm", "√45 cm", "√57 cm", "√73 cm"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle XYZ, angle X = 45°, angle Y = 60°, and side x = 10 cm. What is the length of side y?",
+      "a": ["12.25 cm", "14.14 cm", "8.16 cm", "15.00 cm"],
+      "correct": 0
+    },
+    {
+      "q": "Which form of the cosine rule should be used to find an unknown angle A when all three sides a, b, c are known?",
+      "a": ["cos(A) = (b² + c² - a²) / (2bc)", "cos(A) = (a² + b² - c²) / (2ab)", "cos(A) = (a² - b² - c²) / (2bc)", "cos(A) = 2bc / (b² + c² - a²)"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, side a = 10 cm, side b = 14 cm, and angle C = 30°. What is the area of the triangle?",
+      "a": ["30 cm²", "70 cm²", "35 cm²", "140 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "What is the ambiguous case of the sine rule encountered when solving triangles?",
+      "a": ["ASA condition", "SAS condition", "SSS condition", "SSA (Side-Side-Angle) condition"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle PQR, angle P = 30°, angle Q = 45°, and side q = 12 cm. What is the length of side p?",
+      "a": ["8.49 cm", "10.00 cm", "16.97 cm", "6.00 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If the three sides of a triangle are 5 cm, 7 cm, and 10 cm, what is the cosine of the angle opposite the 10 cm side?",
+      "a": ["-0.214", "-0.143", "0.143", "0.214"],
+      "correct": 1
+    },
+    {
+      "q": "In any triangle ABC, if a = 8 cm, b = 10 cm, and c = 12 cm, what type of angle is the largest angle in the triangle?",
+      "a": ["Acute angle", "Right angle", "Obtuse angle", "Straight angle"],
+      "correct": 2
+    },
+    {
+      "q": "When finding an unknown angle using the sine rule, why might you need to check for a second possible obtuse angle?",
+      "a": ["Because sin(θ) equals sin(180° - θ)", "Because triangles always contain 180°", "Because cosine is negative in the second quadrant", "Because side lengths cannot be negative"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle ABC, angle A = 70°, angle B = 50°, and side c = 8 cm. What is the length of side a?",
+      "a": ["11.39 cm", "9.20 cm", "6.13 cm", "12.50 cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the area of an equilateral triangle with side length 8 cm?",
+      "a": ["16 cm²", "16√3 cm²", "32 cm²", "32√3 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, side a = 6 cm, side b = 9 cm, and angle C = 40°. What is the length of side c?",
+      "a": ["4.55 cm", "6.12 cm", "5.87 cm", "7.20 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If sin(θ) = 0.6 for an angle in a triangle, what is the value of sin(180° - θ)?",
+      "a": ["-0.6", "-0.8", "0.8", "0.6"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle XYZ, x = 7 cm, y = 9 cm, and z = 12 cm. What is the largest angle of the triangle?",
+      "a": ["83.3°", "95.7°", "74.2°", "102.5°"],
+      "correct": 0
+    },
+    {
+      "q": "A triangular field has sides of length 40 meters, 50 meters, and 70 meters. What is the area of the field to the nearest square meter?",
+      "a": ["866 m²", "980 m²", "1050 m²", "1200 m²"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, angle B = 60°, side a = 6 cm, and side c = 8 cm. What is the length of side b?",
+      "a": ["6.12 cm", "6.55 cm", "7.21 cm", "8.00 cm"],
+      "correct": 2
+    },
+    {
+      "q": "Which trigonometric identity is fundamental to deriving the cosine rule from right-angled triangles?",
+      "a": ["sin² + cos² = 1", "tan = sin / cos", "double angle formulas", "Pythagoras theorem"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle ABC, angle A = 40°, angle C = 70°, and side b = 15 cm. What is the length of side c?",
+      "a": ["19.60 cm", "14.20 cm", "11.50 cm", "22.10 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If the cosine of an angle in a triangle is negative, what does this tell you about the angle?",
+      "a": ["It is an acute angle", "It is an obtuse angle", "It is a right angle", "It is invalid"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle PQR, p = 12 cm, q = 15 cm, and r = 20 cm. What is the cosine of angle P?",
+      "a": ["0.45", "0.52", "0.59", "0.65"],
+      "correct": 2
+    },
+    {
+      "q": "What is the area of a triangle with sides 7 cm, 8 cm, and 9 cm calculated via Heron's formula or trigonometric methods?",
+      "a": ["24.5 cm²", "25.6 cm²", "28.0 cm²", "26.83 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle DEF, d = 14 cm, e = 18 cm, and angle F = 55°. What is the length of side f?",
+      "a": ["15.15 cm", "16.80 cm", "18.45 cm", "20.10 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If you are given all three sides of a triangle and need to find an angle, which rule must you use?",
+      "a": ["Sine rule", "Cosine rule", "Pythagoras theorem", "Tangent ratio"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, angle A = 50°, side a = 10 cm, and side b = 8 cm. What is the size of angle B to the nearest tenth of a degree?",
+      "a": ["35.2°", "41.8°", "36.7°", "45.0°"],
+      "correct": 2
+    },
+    {
+      "q": "A ship sails 50 km on a bearing of 030°, then 70 km on a bearing of 110°. What is the direct distance from its starting point?",
+      "a": ["78.4 km", "85.2 km", "92.1 km", "95.4 km"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle ABC, if a = 5 cm, b = 6 cm, and c = 7 cm, what is the exact area of the triangle?",
+      "a": ["6√6 cm²", "12√3 cm²", "15 cm²", "18 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "Which formula allows finding an unknown angle when two sides and the non-included angle are known (caution with ambiguity)?",
+      "a": ["Cosine rule", "Sine rule", "Area formula", "Pythagoras theorem"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle XYZ, x = 11 cm, y = 13 cm, and angle Z = 68°. What is the length of side z?",
+      "a": ["12.5 cm", "13.0 cm", "13.6 cm", "14.2 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the area of a parallelogram with adjacent sides 8 cm and 11 cm and included angle 50°?",
+      "a": ["45.2 cm²", "56.4 cm²", "62.1 cm²", "67.3 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle ABC, angle A = 80°, angle B = 40°, and side c = 12 cm. What is the length of side b?",
+      "a": ["7.85 cm", "9.12 cm", "10.45 cm", "11.20 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If the cosine rule formula is written as c² = a² + b² - 2ab cos(C), what happens if angle C is 90°?",
+      "a": ["It becomes the sine rule", "It reduces to Pythagoras theorem because cos(90°) = 0", "It becomes invalid", "It calculates the area"],
+      "correct": 1
+    },
+    {
+      "q": "In triangle ABC, a = 9 cm, b = 12 cm, and c = 15 cm. What is the measure of angle C?",
+      "a": ["60°", "75°", "90°", "120°"],
+      "correct": 2
+    },
+    {
+      "q": "A surveyor measures two sides of a triangular plot as 120 m and 150 m, with an enclosed angle of 65°. What is the area of the plot in square meters?",
+      "a": ["6850 m²", "7200 m²", "7890 m²", "8156 m²"],
+      "correct": 3
+    },
+    {
+      "q": "In triangle PQR, p = 8 cm, q = 10 cm, and angle P = 45°. Using the sine rule, what are the possible values for angle Q?",
+      "a": ["62.1° or 117.9°", "45.0° only", "30.5° only", "75.2° or 104.8°"],
+      "correct": 0
+    },
+    {
+      "q": "In triangle ABC, if a = 7 cm, b = 7 cm, and c = 7 cm, what is the measure of angle A?",
+      "a": ["45°", "60°", "90°", "120°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the area of a triangle where a = 14 cm, b = 20 cm, and c = 26 cm?",
+      "a": ["120 cm²", "135 cm²", "140 cm²", "150 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "In triangle XYZ, x = 6 cm, y = 8 cm, and angle Z = 120°. What is the length of side z?",
+      "a": ["10.2 cm", "11.4 cm", "12.0 cm", "12.17 cm"],
+      "correct": 3
+    }
+  ]
+}

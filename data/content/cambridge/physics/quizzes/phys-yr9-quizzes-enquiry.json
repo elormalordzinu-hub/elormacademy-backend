@@ -1,0 +1,186 @@
+{
+"id": "phys-yr9-quizzes-enquiry",
+"name": "Scientific enquiry planning and hypothesis testing",
+"questions": [
+{
+"q": "What is a scientific hypothesis in the context of a physics investigation?",
+"a": ["A testable prediction or proposed explanation for a phenomenon based on scientific reasoning", "A random guess with no backing", "A final proven law of nature", "A list of lab equipment needed"],
+"correct": 0
+},
+{
+"q": "What name is given to the variable that the investigator deliberately changes or manipulates during an experiment?",
+"a": ["Dependent variable", "Independent variable", "Control variable", "Random error variable"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of keeping control variables constant throughout an investigation?",
+"a": ["To make the experiment take longer", "To ensure that random errors increase", "To ensure that any change in the dependent variable is caused only by the independent variable", "To eliminate the need for measurements"],
+"correct": 2
+},
+{
+"q": "Which term describes the variable that is measured or observed as it responds to changes in the independent variable?",
+"a": ["The independent variable", "The control variable", "The apparatus variable", "The dependent variable"],
+"correct": 3
+},
+{
+"q": "Why is it important to repeat measurements (take multiple trials) for each value of the independent variable in an experiment?",
+"a": ["To calculate a mean (average) and identify or reduce the effect of random errors / anomalies", "To use up extra time in the lesson", "To make the data table look longer", "To change the hypothesis"],
+"correct": 0
+},
+{
+"q": "What is an anomalous result (anomaly) in experimental data?",
+"a": ["A result that fits the exact pattern perfectly", "A result that does not fit the trend or pattern of the other repeat readings", "The highest possible measurement on a scale", "The average of three trials"],
+"correct": 1
+},
+{
+"q": "When planning a table to record experimental data, what must be included in the column headers?",
+"a": ["Only numbers without text", "Random symbols", "The physical quantity name or symbol along with the correct unit in brackets (e.g., Length / cm)", "Drawings of the equipment"],
+"correct": 2
+},
+{
+"q": "What type of graph is most appropriate for displaying continuous numerical data where both the independent and dependent variables are numerical?",
+"a": ["A pie chart", "A bar chart with disconnected categories", "A labeled map", "A line graph or scatter plot with a line of best fit"],
+"correct": 3
+},
+{
+"q": "What does a line of best fit on a scatter graph help a student determine?",
+"a": ["The general trend or relationship between the independent and dependent variables", "The exact brand of equipment used", "The total cost of the experiment", "The room temperature during the test"],
+"correct": 0
+},
+{
+"q": "What is the difference between random errors and systematic errors in experimental measurements?",
+"a": ["Random errors are caused by faulty equipment that is always off by the same amount, while systematic errors fluctuate unpredictably.", "Random errors cause unpredictable variations in readings around the true value, whereas systematic errors shift all readings by a consistent amount due to calibration issues.", "Systematic errors do not exist in physics.", "Random errors can never be reduced."],
+"correct": 1
+},
+{
+"q": "What does it mean for an experiment or measurement to be described as 'reliable'?",
+"a": ["It was performed by a teacher", "It took less than five minutes", "Repeated measurements yield consistent, similar results", "It used digital sensors instead of rulers"],
+"correct": 2
+},
+{
+"q": "What is the definition of 'accuracy' in scientific measurements?",
+"a": ["How close a measured value is to the true or accepted actual value", "How many times an experiment was repeated", "How fast the student wrote down data", "How expensive the measuring instrument was"],
+"correct": 3
+},
+{
+"q": "When designing an investigation to test how mass affects the extension of a spring, what should be the independent variable?",
+"a": ["The mass added to the spring", "The extension of the spring", "The length of the ruler", "The gravitational field strength"],
+"correct": 0
+},
+{
+"q": "In an experiment investigating how wire length affects electrical resistance, which factors must be kept constant (control variables)?",
+"a": ["The length of the wire only", "The material and thickness (cross-sectional area) of the wire, and its temperature", "The voltage of the power supply and current simultaneously", "The color of the insulation tape"],
+"correct": 1
+},
+{
+"q": "What should a student conclude if their experimental results support their initial hypothesis?",
+"a": ["The experiment must never be repeated.", "Science has ended.", "The evidence supports the prediction, but further testing under varied conditions builds stronger scientific validity.", "The hypothesis was proven to be absolute truth forever."],
+"correct": 2
+},
+{
+"q": "What is precision in scientific data collection referring to?",
+"a": ["Whether the equipment is digital", "Whether the measurement matches the textbook value", "How quickly the data can be collected", "How close repeat measurements are to each other (small spread)"],
+"correct": 3
+},
+{
+"q": "Why is it good practice to choose a wide range of values for the independent variable when planning an investigation?",
+"a": ["To reveal any trends, patterns, or non-linear relationships clearly across a broader spectrum", "To make calculations more difficult", "To use up all available weights in the lab", "To ensure no anomalies ever occur"],
+"correct": 0
+},
+{
+"q": "What is a pilot experiment (preliminary testing), and why might a researcher conduct one?",
+"a": ["An experiment flown in an airplane to test gravity", "A small-scale trial run to check if the method works and find suitable ranges for variables", "A final exam given to students", "A test done without any equipment"],
+"correct": 1
+},
+{
+"q": "When drawing a line of best fit on a scatter graph, how should the line be positioned?",
+"a": ["Connecting every single data point in a zigzag path", "Drawn vertically from top to bottom", "Passing as close as possible to all points, with a roughly balanced number of points on either side", "Drawn horizontally across the middle of the graph paper"],
+"correct": 2
+},
+{
+"q": "What should a student do if they identify a clear anomalous result during data processing?",
+"a": ["Include it in calculating the mean without checking", "Erase it and pretend it never happened", "Ignore it and never mention the trial", "Check the procedure, re-test if possible, and exclude the anomaly from mean calculations"],
+"correct": 3
+},
+{
+"q": "Which of the following describes a continuous variable?",
+"a": ["Time, temperature, or length, which can take any numerical value within a range", "Shoe size or eye color", "Types of metal (iron, copper, aluminum)", "Pass or fail outcomes"],
+"correct": 0
+},
+{
+"q": "What is the purpose of evaluating an experimental method at the end of an investigation report?",
+"a": ["To boast about how fast the work was done", "To identify sources of error, limitations, and suggest improvements for future accuracy", "To list the names of all lab partners", "To change the hypothesis to match the errors"],
+"correct": 1
+},
+{
+"q": "If an ammeter always reads 0.2 A even when no current is flowing through the circuit, what type of error is present?",
+"a": ["A random error due to blinking", "A human reading error", "A zero error (systematic error)", "An anomaly caused by temperature"],
+"correct": 2
+},
+{
+"q": "How can parallax error be avoided when reading a liquid level in a measuring cylinder or a scale on a meter ruler?",
+"a": ["Look at the scale from a sharp angle above", "Squint your eyes shut", "Stand across the room", "Ensure your eye is positioned directly level with the meniscus or pointer"],
+"correct": 3
+},
+{
+"q": "What is a categorical variable in a science experiment?",
+"a": ["A variable that describes types, groups, or categories (such as material type or color)", "A variable measured in exact meters", "A variable that changes every second", "A variable with infinite decimal places"],
+"correct": 0
+},
+{
+"q": "When planning a fair test on how surface texture affects toy car travel distance, what must be controlled?",
+"a": ["The mass of the car, starting height or release force, and ramp angle", "The color of the laboratory walls", "The time of day the experiment is conducted", "The name of the student recording data"],
+"correct": 1
+},
+{
+"q": "What does a positive correlation on a scatter graph of two physics variables mean?",
+"a": ["As one variable increases, the other variable decreases", "Both variables remain completely constant at zero", "As one variable increases, the other variable also increases", "There is no mathematical link between them"],
+"correct": 2
+},
+{
+"q": "Why is it important to state the resolution of a measuring instrument (such as a 1 mm ruler vs a 0.1 mm vernier caliper)?",
+"a": ["To make the report look more colorful", "To show how heavy the tool is", "To calculate equipment cost", "To indicate the smallest change the instrument can reliably detect and measure"],
+"correct": 3
+},
+{
+"q": "What is the primary value of peer review or discussing experimental methods with classmates?",
+"a": ["To spot flaws in the experimental design, control variables, or data collection methods that you might have missed", "To copy someone else's homework", "To argue about grades", "To finish the lesson early"],
+"correct": 0
+},
+{
+"q": "If an experiment's findings contradict the initial hypothesis, what does this indicate in scientific enquiry?",
+"a": ["The student failed the task completely", "The experiment was a waste of time", "The hypothesis was incorrect, which is a normal and valuable part of scientific discovery leading to new understanding", "The measuring instruments must have broken the laws of physics"],
+"correct": 1
+},
+{
+"q": "How should you calculate the mean of three repeat measurements (e.g., 10.2 s, 10.4 s, 10.3 s)?",
+"a": ["Multiply them all together and divide by two", "Subtract the lowest from the highest", "Add all three values together and divide by three", "Pick the middle number only"],
+"correct": 2
+},
+{
+"q": "What is the main advantage of using digital sensors and data loggers instead of manual stopwatches in physics timing experiments?",
+"a": ["They make funny sounds", "They require batteries", "They look modern", "They reduce human reaction time errors and improve precision"],
+"correct": 3
+},
+{
+"q": "When writing up a conclusion for a physics investigation, what should be included?",
+"a": ["A clear statement answering the aim, supported by patterns or trends in the processed data", "A story about what happened during lunch", "A list of every piece of equipment touched", "An unformatted block of raw numbers"],
+"correct": 0
+},
+{
+"q": "Why is it important to use consistent units throughout all calculations and data tables in a physics practical?",
+"a": ["To confuse the teacher", "To prevent unit mismatch errors (e.g., mixing centimeters and meters)", "To make numbers look smaller", "To comply with art class standards"],
+"correct": 1
+},
+{
+"q": "What does an inverse relationship (negative correlation) between two variables look like on a graph?",
+"a": ["A horizontal flat line", "A line going upwards from left to right", "A curve or straight line sloping downwards from left to right", "A vertical circle"],
+"correct": 2
+},
+{
+"q": "What is the role of secondary sources (such as textbooks or verified scientific databases) in scientific enquiry planning?",
+"a": ["To replace doing practical experiments entirely", "To copy answers without thinking", "To decorate lab walls", "To research scientific background theory, expected values, and safety precautions"],
+"correct": 3
+}
+]
+}

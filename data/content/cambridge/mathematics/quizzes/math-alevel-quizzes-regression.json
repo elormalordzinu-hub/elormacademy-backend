@@ -1,0 +1,186 @@
+{
+"id": "math-alevel-quizzes-regression",
+"name": "Linear regression and product moment correlation",
+"questions": [
+{
+"q": "What does the Product Moment Correlation Coefficient measure?",
+"a": ["The strength and direction of linear association between two variables", "The rate of change of y with respect to x", "The slope of the regression line", "The goodness of fit of a quadratic curve"],
+"correct": 0
+},
+{
+"q": "What is the range of possible values for the Product Moment Correlation Coefficient r?",
+"a": ["0 to 1", "-1 to 1", "-inf to +inf", "0 to 100"],
+"correct": 1
+},
+{
+"q": "If the value of r is exactly -1, what does this indicate about the bivariate data points?",
+"a": ["No correlation at all", "Perfect positive linear correlation", "Perfect negative linear correlation", "Non-linear functional relationship"],
+"correct": 2
+},
+{
+"q": "In the linear regression equation y = a + bx, what does the parameter b represent?",
+"a": ["The y-intercept", "The correlation coefficient", "The residual error", "The gradient of the regression line"],
+"correct": 3
+},
+{
+"q": "How is the gradient b of the regression line y on x calculated using summary statistics Sxx and Sxy?",
+"a": ["b = Sxy / Sxx", "b = Sxx / Sxy", "b = Sxy / Syy", "b = Syy / Sxy"],
+"correct": 0
+},
+{
+"q": "Through which notable point does every least squares regression line y = a + bx always pass?",
+"a": ["The origin", "The point of means", "The maximum x and maximum y", "The median point"],
+"correct": 1
+},
+{
+"q": "Given that Sxx = 100, Syy = 144, and Sxy = 120, calculate the Product Moment Correlation Coefficient r.",
+"a": ["0.83", "0.90", "1.00", "0.75"],
+"correct": 2
+},
+{
+"q": "What is meant by the term interpolation when using a regression line?",
+"a": ["Predicting a value outside the range of the given data set", "Calculating the correlation coefficient", "Estimating a value of y for a given x that is well above maximum data", "Estimating a value of y for an x value that lies within the range of observed data"],
+"correct": 3
+},
+{
+"q": "Why is extrapolation using a regression line generally considered unreliable?",
+"a": ["The linear relationship may not hold outside the range of observed data", "It results in negative variances", "It changes the value of Sxy", "It violates the definition of PMCC"],
+"correct": 0
+},
+{
+"q": "If r = 0.85, what percentage of the variation in y can be explained by the linear relationship with x?",
+"a": ["72.3 percent", "85.0 percent", "92.2 percent", "42.5 percent"],
+"correct": 1
+},
+{
+"q": "Which of the following correlation coefficient values represents the strongest linear association?",
+"a": ["0.65", "-0.40", "-0.88", "0.80"],
+"correct": 2
+},
+{
+"q": "What effect does coding data have on the value of the Product Moment Correlation Coefficient r?",
+"a": ["r increases proportionally", "r decreases", "r changes sign if scaling factor is negative", "r remains completely unchanged"],
+"correct": 3
+},
+{
+"q": "Given Sxx = 50, Sxy = 150, and bar(x) = 10, bar(y) = 20, find the intercept a in the regression line y = a + bx.",
+"a": ["-10", "10", "20", "0"],
+"correct": 0
+},
+{
+"q": "What does a PMCC value of r = 0.05 indicate about two variables?",
+"a": ["Strong positive linear correlation", "No evidence of linear correlation", "Moderate negative correlation", "Curvilinear relationship only"],
+"correct": 1
+},
+{
+"q": "If the regression line of y on x is y = 2.5x + 4, what is the estimated value of y when x = 6?",
+"a": ["15", "16", "19", "21"],
+"correct": 2
+},
+{
+"q": "Which of the following scatter diagrams would produce a PMCC close to zero?",
+"a": ["Points forming a steep upward straight line", "Points forming a downward straight line", "Points forming a tight exponential curve", "Points scattered randomly with no discernible pattern"],
+"correct": 3
+},
+{
+"q": "What is a residual in regression analysis?",
+"a": ["The difference between the observed value of y and the predicted value from the regression line", "The sum of all x values divided by n", "The square root of Sxx", "The slope of the regression line"],
+"correct": 0
+},
+{
+"q": "If Sxx = 80, Syy = 45, and Sxy = -50, what can be deduced about the relationship between x and y?",
+"a": ["x and y are positively correlated", "x and y are negatively correlated", "x and y are perfectly uncorrelated", "The calculation is mathematically impossible"],
+"correct": 1
+},
+{
+"q": "In least squares regression, what quantity is minimized to find the best-fit line?",
+"a": ["The sum of absolute errors", "The sum of x values", "The sum of squared residuals", "The product of Sxx and Syy"],
+"correct": 2
+},
+{
+"q": "If the regression line of x on y has equation x = 0.4y + 2, what is the estimated value of x when y = 20?",
+"a": ["8", "12", "5.5", "10"],
+"correct": 3
+},
+{
+"q": "If coded variables are used such that u = x - 5 and v = y - 10, how does the calculated slope b_uv compare to the original slope b_xy?",
+"a": ["b_uv = b_xy", "b_uv = b_xy + 5", "b_uv = b_xy * 10", "b_uv = b_xy / 2"],
+"correct": 0
+},
+{
+"q": "Which of the following is an assumption required for hypothesis testing of the PMCC using a normal distribution?",
+"a": ["Both variables must follow a bivariate normal distribution", "The data must be time-series data", "The variance of x must equal variance of y", "The sample size must be exactly 30"],
+"correct": 1
+},
+{
+"q": "Given Sxy = 240, Sxx = 300, Syy = 200, calculate the gradient b of the regression line of y on x.",
+"a": ["0.80", "1.20", "0.80", "1.50"],
+"correct": 2
+},
+{
+"q": "What does a negative value of the regression coefficient b signify?",
+"a": ["An error in data collection", "As x increases, y tends to increase", "There is no correlation", "As x increases, y tends to decrease"],
+"correct": 3
+},
+{
+"q": "If r = 0.9, what is the coefficient of determination, and what does it represent?",
+"a": ["0.81, meaning 81 percent of the variance in y is explained by x", "0.90, meaning 90 percent correlation", "0.81, meaning 19 percent unexplained error", "0.10, meaning 10 percent residual variance"],
+"correct": 0
+},
+{
+"q": "When should you use the regression line of x on y rather than y on x?",
+"a": ["When x is independent and y is dependent", "When estimating x for a given value of y", "Always", "When r = 1"],
+"correct": 1
+},
+{
+"q": "Calculate Sxy given that sum(x) = 20, sum(y) = 30, sum(xy) = 140, and n = 5.",
+"a": ["10", "15", "20", "25"],
+"correct": 2
+},
+{
+"q": "If two variables are completely independent with no linear relationship, what is the expected value of the sample PMCC for a large sample?",
+"a": ["1", "-1", "0.5", "0"],
+"correct": 3
+},
+{
+"q": "Given Sxx = 150, Syy = 216, and Sxy = 180, what is the regression coefficient b of y on x?",
+"a": ["1.20", "0.83", "1.44", "0.69"],
+"correct": 0
+},
+{
+"q": "If the points on a scatter diagram lie exactly on a straight line sloping upwards, what is the value of r?",
+"a": ["0", "1", "-1", "0.5"],
+"correct": 1
+},
+{
+"q": "In a study of height and weight, the regression line is weight = 0.7 * height - 25. Estimate the weight for a height of 170 cm.",
+"a": ["90 kg", "100 kg", "94 kg", "119 kg"],
+"correct": 2
+},
+{
+"q": "Which of the following is true regarding outliers in bivariate data when calculating PMCC?",
+"a": ["Outliers always have no effect on r", "Outliers increase sample size", "Outliers make data discrete", "Outliers can severely distort the value of r"],
+"correct": 3
+},
+{
+"q": "If the covariance of X and Y is Cov(X, Y) = 12 and the standard deviations are SD(X) = 3 and SD(Y) = 5, calculate the PMCC r.",
+"a": ["0.80", "0.60", "0.75", "0.90"],
+"correct": 0
+},
+{
+"q": "What is the primary limitation of the Product Moment Correlation Coefficient?",
+"a": ["It cannot be calculated for samples greater than 100", "It only measures linear association and is sensitive to extreme outliers", "It requires both variables to have a mean of zero", "It is only valid for discrete probability distributions"],
+"correct": 1
+},
+{
+"q": "If the regression line of y on x is y = 3x - 2 and bar(x) = 4, what is the mean of y?",
+"a": ["8", "12", "10", "6"],
+"correct": 2
+},
+{
+"q": "If you code data using u = 2x and v = 3y, how does the PMCC r_uv between u and v relate to the original PMCC r_xy?",
+"a": ["r_uv = 6 r_xy", "r_uv = r_xy / 6", "r_uv = (2/3) r_xy", "r_uv = r_xy"],
+"correct": 3
+}
+]
+}

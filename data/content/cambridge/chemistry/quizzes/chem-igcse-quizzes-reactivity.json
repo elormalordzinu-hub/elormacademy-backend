@@ -1,0 +1,186 @@
+{
+"id": "chem-igcse-quizzes-reactivity",
+"name": "The reactivity series and metal extraction",
+"questions": [
+{
+"q": "Which of the following metals is the most reactive?",
+"a": ["Potassium", "Iron", "Copper", "Silver"],
+"correct": 0
+},
+{
+"q": "What is observed when a piece of zinc metal is placed into an aqueous solution of copper(II) sulfate?",
+"a": ["No reaction occurs", "Red-brown copper coats the zinc and the blue solution fades", "A purple gas is evolved", "The zinc dissolves rapidly to form a yellow solution"],
+"correct": 1
+},
+{
+"q": "How are very reactive metals like aluminium extracted from their ores?",
+"a": ["Heating with carbon in a blast furnace", "Thermal decomposition of their carbonates", "Electrolysis of a molten metal oxide compound", "Reduction with hydrogen gas"],
+"correct": 2
+},
+{
+"q": "Which metal is found uncombined (native state) in the Earth crust because it is extremely unreactive?",
+"a": ["Sodium", "Magnesium", "Zinc", "Gold"],
+"correct": 3
+},
+{
+"q": "What is the main reducing agent used in a blast furnace to extract iron from hematite?",
+"a": ["Carbon monoxide", "Hydrogen gas", "Sodium metal", "Water vapor"],
+"correct": 0
+},
+{
+"q": "Which metal reacts vigorously with cold water to form an alkaline solution and hydrogen gas?",
+"a": ["Iron", "Sodium", "Copper", "Lead"],
+"correct": 1
+},
+{
+"q": "What is the purpose of adding limestone (calcium carbonate) to the blast furnace during iron extraction?",
+"a": ["To act as a reducing agent", "To increase the temperature", "To remove acidic impurities like silicon dioxide by forming slag", "To melt the iron ore directly"],
+"correct": 2
+},
+{
+"q": "Why can copper be extracted by heating its ore with carbon, but aluminium cannot?",
+"a": ["Copper is more reactive than carbon", "Aluminium is a liquid at room temperature", "Aluminium is less reactive than carbon", "Carbon is more reactive than copper but less reactive than aluminium"],
+"correct": 3
+},
+{
+"q": "What happens when zinc is added to dilute hydrochloric acid?",
+"a": ["Bubbles of hydrogen gas are produced steadily", "An explosive reaction occurs instantly", "No reaction takes place", "Chlorine gas is evolved"],
+"correct": 0
+},
+{
+"q": "Which metal does not react with dilute hydrochloric acid at all?",
+"a": ["Iron", "Copper", "Zinc", "Magnesium"],
+"correct": 1
+},
+{
+"q": "What is 'slag' formed during the extraction of iron in a blast furnace?",
+"a": ["Molten iron metal", "Calcium carbonate rock", "Calcium silicate", "Silicon dioxide impurity"],
+"correct": 2
+},
+{
+"q": "Which of the following is a physical property characteristic of transition metals?",
+"a": ["Low melting points", "Soft texture easily cut with a knife", "Good electrical insulators", "High density and formation of colored compounds"],
+"correct": 3
+},
+{
+"q": "What is the general trend in reactivity of metals as you go down Group 1 of the Periodic Table?",
+"a": ["Reactivity increases", "Reactivity decreases", "Reactivity remains constant", "Metals become non-metals"],
+"correct": 0
+},
+{
+"q": "Which metal will displace iron from an aqueous solution of iron(II) sulfate?",
+"a": ["Copper", "Magnesium", "Silver", "Gold"],
+"correct": 1
+},
+{
+"q": "What is an alloy?",
+"a": ["A chemically pure element found in rocks", "A pure molten metal", "A mixture of a metal with one or more other elements (metals or carbon)", "A type of ionic salt crystal"],
+"correct": 2
+},
+{
+"q": "Why is brass (an alloy of copper and zinc) generally harder and stronger than pure copper?",
+"a": ["Zinc atoms have identical size to copper atoms", "Zinc makes the alloy melt at lower temperatures", "Brass contains ionic bonds instead of metallic bonds", "Different sized zinc atoms distort the regular layers of copper atoms, preventing them from sliding over each other easily"],
+"correct": 3
+},
+{
+"q": "Which of the following metal hydroxides decomposes upon heating to form a metal oxide and water vapor?",
+"a": ["Copper(II) hydroxide", "Sodium hydroxide", "Potassium hydroxide", "Lithium hydroxide"],
+"correct": 0
+},
+{
+"q": "What is observed when magnesium ribbon is heated strongly in air?",
+"a": ["Melts without burning", "Burns brightly with a blinding white flame to form a white powder (magnesium oxide)", "Turns into a green liquid", "Produces purple vapor"],
+"correct": 1
+},
+{
+"q": "In the reactivity series, where are metals that react with steam but not cold water typically positioned?",
+"a": ["Above potassium", "Below silver", "Between magnesium and iron", "At the very bottom"],
+"correct": 2
+},
+{
+"q": "Which of the following gases is produced when reactive metals react with steam?",
+"a": ["Oxygen", "Carbon dioxide", "Chlorine", "Hydrogen"],
+"correct": 3
+},
+{
+"q": "What is the formula of hematite, the main ore of iron?",
+"a": ["Fe<sub>2</sub>O<sub>3</sub>", "FeS", "FeCO<sub>3</sub>", "FeCl<sub>3</sub>"],
+"correct": 0
+},
+{
+"q": "Why is aluminium metal resistant to corrosion despite being high in the reactivity series?",
+"a": ["It does not react with oxygen", "It forms a thin, tough, adherent layer of aluminium oxide on its surface that prevents further reaction", "It is protected by an oily coating naturally", "It forms a soluble salt layer"],
+"correct": 1
+},
+{
+"q": "What is the main reason iron objects rust when exposed to both oxygen and water?",
+"a": ["Iron forms a protective alloy layer", "Iron absorbs nitrogen from air", "Iron is oxidized to hydrated iron(III) oxide", "Iron reacts with carbon dioxide to form carbonates"],
+"correct": 2
+},
+{
+"q": "Which of the following methods is used to prevent iron from rusting by coating it with a layer of zinc?",
+"a": ["Electroplating with gold", "Painting", "Greasing", "Galvanizing"],
+"correct": 3
+},
+{
+"q": "What is sacrificial protection in corrosion prevention?",
+"a": ["Attaching a more reactive metal (like zinc or magnesium) to iron so that the more reactive metal corrodes instead", "Coating iron with plastic", "Keeping iron in a vacuum", "Painting iron with acid"],
+"correct": 0
+},
+{
+"q": "Which metal is extracted by the electrolysis of molten aluminium oxide dissolved in molten cryolite?",
+"a": ["Iron", "Aluminium", "Copper", "Zinc"],
+"correct": 1
+},
+{
+"q": "What role does cryolite play in the extraction of aluminium by electrolysis?",
+"a": ["It acts as the positive anode", "It is the main ore source", "It lowers the melting point of aluminium oxide, saving electrical energy", "It prevents carbon dioxide formation"],
+"correct": 2
+},
+{
+"q": "What happens when copper metal is heated in air?",
+"a": ["It explodes into flames", "It evaporates instantly", "It dissolves into the atmosphere", "It reacts slowly to form a black layer of copper(II) oxide"],
+"correct": 3
+},
+{
+"q": "Which of the following carbonates does not undergo thermal decomposition easily upon normal laboratory heating?",
+"a": ["Sodium carbonate", "Copper(II) carbonate", "Zinc carbonate", "Calcium carbonate"],
+"correct": 0
+},
+{
+"q": "What is the appearance of iron(III) oxide produced during rusting?",
+"a": ["Bright shiny silver", "Red-brown solid", "Yellow liquid", "Deep blue crystals"],
+"correct": 1
+},
+{
+"q": "Why are copper and stainless steel used to make water pipes and cutlery respectively?",
+"a": ["They are radioactive", "They dissolve in drinking water", "They resist corrosion due to unreactive nature or protective oxide layers", "They are extremely soft metals"],
+"correct": 2
+},
+{
+"q": "Which of the following equations correctly represents the displacement reaction between zinc and copper(II) sulfate?",
+"a": ["Zn + CuSO<sub>4</sub> -> CuZn + SO<sub>4</sub>", "Zn + Cu -> ZnCu", "2Zn + CuSO<sub>4</sub> -> Zn<sub>2</sub>SO<sub>4</sub> + Cu", "Zn + CuSO<sub>4</sub> -> ZnSO<sub>4</sub> + Cu"],
+"correct": 3
+},
+{
+"q": "What is the primary commercial use of mild steel (low carbon steel)?",
+"a": ["Car bodies and machinery because it is strong and easily shaped", "Making jewelry", "Making aircraft wings", "Electrical wiring"],
+"correct": 0
+},
+{
+"q": "Which transition metal is commonly used as a catalyst in the Haber process?",
+"a": ["Copper", "Iron", "Gold", "Silver"],
+"correct": 1
+},
+{
+"q": "What is the thermal decomposition product of copper(II) carbonate?",
+"a": ["Copper metal and carbon dioxide", "Copper(I) oxide and oxygen", "Copper(II) oxide and carbon dioxide", "Copper hydride and water"],
+"correct": 2
+},
+{
+"q": "Which of the following metals reacts most slowly with cold water?",
+"a": ["Potassium", "Sodium", "Calcium", "Copper"],
+"correct": 3
+}
+]
+}

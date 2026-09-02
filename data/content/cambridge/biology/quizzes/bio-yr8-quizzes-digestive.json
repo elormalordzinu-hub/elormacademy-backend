@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-digestive",
+"name": "Human digestive system",
+"questions": [
+{
+"q": "What is the primary function of the human digestive system?",
+"a": ["To pump oxygenated blood throughout the body tissues", "To break down large, insoluble food molecules into small, soluble molecules that can be absorbed into the blood", "To exchange carbon dioxide for oxygen in the lungs", "To filter solid waste and urea from plasma"],
+"correct": 1
+},
+{
+"q": "Which process involves physically chewing food into smaller pieces inside the mouth?",
+"a": ["Chemical digestion", "Mechanical digestion", "Active transport", "Osmosis"],
+"correct": 1
+},
+{
+"q": "What enzyme is found in human saliva that begins the breakdown of starch into simpler sugars?",
+"a": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+"correct": 1
+},
+{
+"q": "What is the muscular tube that pushes food from the mouth down to the stomach using wave-like muscular contractions?",
+"a": ["The trachea", "The esophagus", "The ureter", "The bronchiole"],
+"correct": 1
+},
+{
+"q": "What are the wave-like muscular contractions that propel food along the digestive tract called?",
+"a": ["Peristalsis", "Diffusion", "Ventilation", "Transpiration"],
+"correct": 0
+},
+{
+"q": "Which organ secretes strong hydrochloric acid and digestive enzymes to break down proteins?",
+"a": ["The liver", "The stomach", "The pancreas", "The gall bladder"],
+"correct": 1
+},
+{
+"q": "Why does the stomach contain hydrochloric acid?",
+"a": ["To provide the optimum low pH for stomach enzymes to work and to kill harmful bacteria swallowed with food", "To digest dietary fiber completely into pure water", "To cool down the body during intense exercise", "To turn food into solid bone tissue"],
+"correct": 0
+},
+{
+"q": "What is the longest section of the digestive tract where most nutrient absorption takes place?",
+"a": ["The large intestine", "The small intestine", "The esophagus", "The rectum"],
+"correct": 1
+},
+{
+"q": "Which organ produces bile, a substance that helps emulsify fats?",
+"a": ["The pancreas", "The liver", "The stomach", "The salivary glands"],
+"correct": 1
+},
+{
+"q": "Where is bile stored before being released into the small intestine?",
+"a": ["The gall bladder", "The appendix", "The spleen", "The kidneys"],
+"correct": 0
+},
+{
+"q": "What is the role of bile in fat digestion?",
+"a": ["It turns fat directly into solid protein", "It breaks large fat droplets into tiny droplets, increasing surface area for enzymes to work on", "It freezes fat particles to destroy them", "It changes fat into starch"],
+"correct": 1
+},
+{
+"q": "Which organ produces a range of digestive enzymes (like protease, amylase, and lipase) and releases them into the small intestine?",
+"a": ["The heart", "The trachea", "The pancreas", "The thyroid"],
+"correct": 2
+},
+{
+"q": "What are the tiny finger-like projections that line the inner wall of the small intestine to maximize absorption?",
+"a": ["Alveoli", "Cilia", "Nephrons", "Villi"],
+"correct": 3
+},
+{
+"q": "How are villi adapted for efficient absorption of digested food molecules?",
+"a": ["They have thick walls made of several cell layers", "They actively pump food backward into the stomach", "They provide a large surface area, have walls one cell thick, and contain a rich network of blood capillaries", "They are covered in hard cartilage rings"],
+"correct": 2
+},
+{
+"q": "What is absorbed primarily in the large intestine (colon)?",
+"a": ["Proteins and complex starch polymers", "Oxygen gas for cellular respiration", "Vitamins made by bone marrow", "Water and mineral ions from remaining indigestible food"],
+"correct": 3
+},
+{
+"q": "What is the name of the semi-solid waste stored in the rectum before being eliminated from the body?",
+"a": ["Feces", "Plasma", "Urine", "Saliva"],
+"correct": 0
+},
+{
+"q": "Which enzyme breaks down proteins into amino acids in the stomach and small intestine?",
+"a": ["Amylase", "Lipase", "Cellulase", "Protease"],
+"correct": 3
+},
+{
+"q": "Which enzyme breaks down lipids (fats and oils) into fatty acids and glycerol?",
+"a": ["Protease", "Lipase", "Amylase", "Maltase"],
+"correct": 1
+},
+{
+"q": "What happens to food molecules like starch and proteins during chemical digestion?",
+"a": ["They are turned into heavy metal elements", "They are broken down by enzymes into smaller, soluble units that can pass through cell membranes", "They are burned into pure energy instantly", "They remain completely unchanged"],
+"correct": 1
+},
+{
+"q": "What is the small pouch located at the junction between the small and large intestine called in humans?",
+"a": ["The larynx", "The appendix", "The alveolus", "The bronchus"],
+"correct": 1
+},
+{
+"q": "Which part of the digestive system is responsible for the ingestion of food and initial mechanical digestion?",
+"a": ["The mouth", "The stomach", "The rectum", "The pancreas"],
+"correct": 0
+},
+{
+"q": "What is the function of the salivary glands?",
+"a": ["To produce acid that kills bacteria", "To secrete saliva containing amylase to lubricate food and start starch breakdown", "To store bile before it enters the gut", "To absorb water into the bloodstream"],
+"correct": 1
+},
+{
+"q": "Which substance is NOT chemically digested in the human digestive tract?",
+"a": ["Starch", "Dietary fiber (cellulose)", "Proteins", "Lipids"],
+"correct": 1
+},
+{
+"q": "Where does the absorption of most digested water-soluble nutrients primarily occur?",
+"a": ["The stomach lining", "The walls of the small intestine via villi", "The large intestine wall", "The esophagus wall"],
+"correct": 1
+},
+{
+"q": "What prevents food from entering the trachea (windpipe) when you swallow?",
+"a": ["The epiglottis folds down over the larynx", "The soft palate closes the nasal cavity", "The diaphragm contracts upward", "The tongue blocks the airway completely"],
+"correct": 0
+},
+{
+"q": "Which cells in the stomach lining secrete hydrochloric acid?",
+"a": ["Villar cells", "Gastric gland cells", "Salivary cells", "Pancreatic acinar cells"],
+"correct": 1
+},
+{
+"q": "What is chyme?",
+"a": ["Solid food particles before chewing", "The semi-fluid mass of partially digested food leaving the stomach", "Pure digestive enzyme secretion", "Waste material stored in the rectum"],
+"correct": 1
+},
+{
+"q": "Why is the inner lining of the small intestine folded and covered in villi?",
+"a": ["To slow down the movement of food", "To maximize the surface area available for absorbing nutrients", "To create friction that breaks down food further", "To produce extra hydrochloric acid"],
+"correct": 1
+},
+{
+"q": "Which blood vessel transports absorbed nutrients directly from the small intestine to the liver?",
+"a": ["The hepatic portal vein", "The renal artery", "The pulmonary vein", "The jugular vein"],
+"correct": 0
+},
+{
+"q": "What is the role of the large intestine in human nutrition?",
+"a": ["To digest complex proteins into amino acids", "To absorb remaining water and compact waste into feces", "To produce bile for fat emulsification", "To secrete powerful stomach acids"],
+"correct": 1
+},
+{
+"q": "Which of the following describes mechanical digestion?",
+"a": ["Enzymes breaking polymer bonds", "Acids dissolving food particles", "Teeth chewing and stomach muscles churning food to increase surface area", "Bacteria fermenting sugars"],
+"correct": 2
+},
+{
+"q": "What happens to the activity of salivary amylase when it enters the strongly acidic environment of the stomach?",
+"a": ["It works much faster", "It becomes denatured and stops working", "It turns into protease", "It gets absorbed directly into blood"],
+"correct": 1
+},
+{
+"q": "Which organ releases insulin and digestive juices into the small intestine?",
+"a": ["The liver", "The pancreas", "The gall bladder", "The salivary gland"],
+"correct": 1
+},
+{
+"q": "What is the primary adaptation of the stomach wall that assists with mechanical digestion?",
+"a": ["Layers of thick smooth muscle that churn and mix food", "A single layer of cells for easy diffusion", "Hard cartilage rings preventing collapse", "Millions of tiny absorbing villi"],
+"correct": 0
+},
+{
+"q": "Which vitamin is synthesized by symbiotic bacteria living inside the human large intestine?",
+"a": ["Vitamin C", "Vitamin K", "Vitamin A", "Vitamin D"],
+"correct": 1
+},
+{
+"q": "What term describes the uptake of small, soluble food molecules into the cells of the body?",
+"a": ["Ingestion", "Digestion", "Absorption", "Egestion"],
+"correct": 2
+},
+{
+"q": "What is egestion?",
+"a": ["The removal of metabolic waste products like urea", "The passing out of undigested food as feces through the anus", "The release of energy from glucose", "The absorption of water in the colon"],
+"correct": 1
+},
+{
+"q": "Why must food molecules be broken down into small, soluble molecules during digestion?",
+"a": ["So they can pass through the cell membranes of the gut wall into the blood", "So they can turn into solid bone structure", "To make them heavier for gravity", "To change their color"],
+"correct": 0
+},
+{
+"q": "Which digestive juice does NOT contain any enzymes?",
+"a": ["Saliva", "Gastric juice", "Bile", "Pancreatic juice"],
+"correct": 2
+},
+{
+"q": "What is the optimal pH range for enzymes operating in the human small intestine?",
+"a": ["Strongly acidic (pH 1 to 2)", "Neutral to slightly alkaline (pH 7 to 8)", "Extremely acidic (pH 4)", "Highly basic (pH 12 to 14)"],
+"correct": 1
+}
+]
+}

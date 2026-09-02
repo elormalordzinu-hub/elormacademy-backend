@@ -1,0 +1,166 @@
+{
+"id": "chem-alevel-quizzes-analytical",
+"name": "Analytical techniques NMR spectroscopy and mass spectrometry",
+"questions": [
+{
+"q": "What is the primary physical property measured in high-resolution carbon-13 NMR spectroscopy?",
+"a": ["Spin-spin coupling of carbon-13 nuclei with surrounding magnetic fields", "Mass-to-charge ratio of molecular fragments", "Infrared bond stretching frequencies", "Ultraviolet light absorption maxima"],
+"correct": 0
+},
+{
+"q": "Which reference compound is universally used to calibrate both proton and carbon-13 NMR spectra, providing a sharp peak at zero parts per million?",
+"a": ["Deuterated chloroform", "Tetramethylsilane, Si(CH<sub>3</sub>)<sub>4</sub>", "Water", "Ethanol"],
+"correct": 1
+},
+{
+"q": "In a high-resolution proton NMR spectrum of ethanol (CH<sub>3</sub>CH<sub>2</sub>OH), what splitting pattern is observed for the CH<sub>2</sub> protons?",
+"a": ["Singlet", "Triplet", "Quartet", "Multiplet with six peaks"],
+"correct": 2
+},
+{
+"q": "What information does the integration curve or relative peak area provide in a proton NMR spectrum?",
+"a": ["The relative molecular mass of the compound", "The bond angles within the functional group", "The exact boiling point of the substance", "The relative number of hydrogen atoms in each chemical environment"],
+"correct": 3
+},
+{
+"q": "Why is tetramethylsilane (TMS) chosen as the calibration standard in NMR spectroscopy?",
+"a": ["It is volatile, chemically inert, non-toxic, and produces a single sharp signal upfield from almost all organic protons", "It is intensely colored and easy to see", "It reacts completely with the sample to form a salt", "It absorbs strongly in the ultraviolet region"],
+"correct": 0
+},
+{
+"q": "What is the origin of the M+1 peak observed in mass spectrometry of organic compounds?",
+"a": ["Fragmentation of the carbon skeleton", "The natural abundance of the carbon-13 isotope (approx 1.1 percent)", "Protonation of the sample inside the ion source", "The presence of trace water vapor"],
+"correct": 1
+},
+{
+"q": "In mass spectrometry, what causes the prominent fragment peak at m/z = 43 in the spectrum of propan-2-one (acetone)?",
+"a": ["Loss of a methyl group to form the acylium ion [CH<sub>3</sub>CO]<sup>+</sup>", "Loss of an oxygen atom", "Loss of all hydrogen atoms", "Formation of a molecular ion radical"],
+"correct": 2
+},
+{
+"q": "Which of the following deuterated solvents is commonly used in NMR spectroscopy to avoid interference from solvent proton peaks?",
+"a": ["Ethanol-d6", "Acetone-d6", "Water-d2", "Trichloromethane-d (deuterochloroform, CDCl<sub>3</sub>)"],
+"correct": 3
+},
+{
+"q": "What splitting pattern (multiplicity) is predicted by the n+1 rule for a proton that has three adjacent equivalent protons?",
+"a": ["Quartet", "Triplet", "Doublet", "Singlet"],
+"correct": 0
+},
+{
+"q": "What is the chemical shift (delta value) range typically observed for protons in a carboxylic acid (-COOH group)?",
+"a": ["0.5 to 1.5 ppm", "9.0 to 13.0 ppm", "4.5 to 6.0 ppm", "2.0 to 3.0 ppm"],
+"correct": 1
+},
+{
+"q": "What happens to the peak corresponding to an -OH or -NH proton in a proton NMR spectrum when deuterium oxide (D<sub>2</sub>O) is added to the sample?",
+"a": ["It splits into a quartet", "It shifts to zero ppm permanently", "It disappears due to deuterium exchange of the labile proton", "It turns green"],
+"correct": 2
+},
+{
+"q": "Which analytical technique is most effective for identifying the presence of specific bonds and functional groups such as O-H, C=O, and C-C through characteristic absorption frequencies?",
+"a": ["Mass spectrometry", "Carbon-13 NMR spectroscopy", "Proton NMR spectroscopy", "Infrared (IR) spectroscopy"],
+"correct": 3
+},
+{
+"q": "How many peaks are expected in the carbon-13 NMR spectrum of 2-bromopropane?",
+"a": ["Two peaks", "Three peaks", "One peak", "Four peaks"],
+"correct": 0
+},
+{
+"q": "What is indicated by the presence of strong peaks of roughly equal height at m/z and m/z+2 in a 3:1 ratio in a mass spectrum?",
+"a": ["The presence of a bromine atom", "The presence of a chlorine atom", "The presence of a sulfur atom", "The presence of a nitrogen atom"],
+"correct": 1
+},
+{
+"q": "In high-resolution proton NMR spectroscopy, what does spin-spin coupling (splitting) reveal about the molecular structure?",
+"a": ["The exact molar mass of the compound", "The presence of heavy metal catalysts", "The number of non-equivalent hydrogen atoms on adjacent carbon atoms", "The total number of carbon atoms in the chain"],
+"correct": 2
+},
+{
+"q": "What value of chemical shift (delta) is typically associated with protons in an aldehyde group (-CHO)?",
+"a": ["1.0 to 2.0 ppm", "3.5 to 4.5 ppm", "7.0 to 8.0 ppm", "9.3 to 10.5 ppm"],
+"correct": 3
+},
+{
+"q": "What is the molecular ion peak (M+) in a mass spectrum used to determine?",
+"a": ["The relative molecular mass (Mr) of the compound", "The melting point of the substance", "The exact pH of an aqueous solution", "The solubility of the organic molecule"],
+"correct": 0
+},
+{
+"q": "Why do carbon-12 nuclei not produce signals in carbon-13 NMR spectroscopy?",
+"a": ["Carbon-12 has an even number of protons and neutrons, resulting in a nuclear spin quantum number of zero", "Carbon-12 is radioactive", "Carbon-12 is a gas at room temperature", "Carbon-12 has a negative mass"],
+"correct": 1
+},
+{
+"q": "What is the expected splitting pattern for the methyl protons in ethyl ethanoate (CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>3</sub>)?",
+"a": ["Triplet", "Quartet", "Singlet (or triplet depending on specific group, but specifically the CH<sub>3</sub> attached to carbonyl is a singlet)", "Doublet"],
+"correct": 2
+},
+{
+"q": "Which type of mass spectrometry fragmentation is particularly characteristic of straight-chain alkanes, resulting in regular intervals of mass differences?",
+"a": ["Loss of oxygen radicals", "Cleavage of aromatic rings", "Loss of water molecules", "Loss of successive CH<sub>2</sub> units (mass difference of 14)"],
+"correct": 3
+},
+{
+"q": "How many distinct chemical environments for carbon atoms exist in 1-chloropropane, leading to distinct peaks in its carbon-13 NMR spectrum?",
+"a": ["Three", "Two", "Four", "One"],
+"correct": 0
+},
+{
+"q": "What is the primary cause of chemical shift in NMR spectroscopy?",
+"a": ["Doppler effect of molecular motion", "Electrons surrounding the nucleus shield it from the external magnetic field, and adjacent electronegative atoms deshield the nucleus", "Changes in temperature during data acquisition", "Vibration of covalent bonds"],
+"correct": 1
+},
+{
+"q": "In the mass spectrum of a compound containing a chlorine atom, what is the characteristic intensity ratio of the M and M+2 molecular ion peaks?",
+"a": ["1 to 1", "2 to 1", "3 to 1", "1 to 3"],
+"correct": 2
+},
+{
+"q": "Which of the following functional groups produces a proton NMR signal with a chemical shift typically found between 2.1 and 3.0 ppm?",
+"a": ["Alcohol O-H", "Alkene =CH", "Aldehyde -CHO", "Protons on a carbon adjacent to a carbonyl group (-CO-CH<sub>3</sub>)"],
+"correct": 3
+},
+{
+"q": "What does a high-resolution proton NMR spectrum provide that a low-resolution spectrum does not?",
+"a": ["Spin-spin splitting patterns of individual peaks", "The boiling point of the liquid", "The exact mass of the molecule", "The infrared absorption wavenumber"],
+"correct": 0
+},
+{
+"q": "What is the carbon-13 NMR chemical shift range for carbon atoms in aliphatic alkane chains?",
+"a": ["100 to 150 ppm", "0 to 50 ppm", "160 to 220 ppm", "50 to 90 ppm"],
+"correct": 1
+},
+{
+"q": "Why does the proton NMR spectrum of pure liquid ethanol often show the -OH proton as a singlet without splitting?",
+"a": ["Because the carbon atom has no attached hydrogens", "Because of rapid intermolecular proton exchange with traces of moisture or acid", "Because the molecule is symmetrical", "Because the magnetic field is too strong"],
+"correct": 2
+},
+{
+"q": "What structural feature is suggested by a strong, broad absorption peak around 3200 to 3600 cm<sup>-1</sup> in an infrared spectrum?",
+"a": ["A carbonyl group (C=O)", "An alkene double bond (C=C)", "A nitrile group (C identical to N)", "A hydroxyl group (O-H)"],
+"correct": 3
+},
+{
+"q": "What is the splitting pattern of the CH protons in 1,1-dichloroethane (CH<sub>3</sub>CHCl<sub>2</sub>) in a high-resolution proton NMR spectrum?",
+"a": ["Quartet", "Triplet", "Doublet", "Singlet"],
+"correct": 0
+},
+{
+"q": "What is the primary function of the electron impact ionizer in a mass spectrometer?",
+"a": ["To accelerate ions toward the detector", "To bombard gaseous sample molecules with high-energy electrons, knocking out an electron to form a positive radical ion ([M]<sup>+</sup>)", "To separate isotopes based on mass", "To condense vapors into liquid form"],
+"correct": 1
+},
+{
+"q": "In carbon-13 NMR spectroscopy, what region of chemical shift corresponds to carbon atoms in carbonyl groups (such as ketones and aldehydes)?",
+"a": ["0 to 50 ppm", "50 to 90 ppm", "190 to 220 ppm", "100 to 150 ppm"],
+"correct": 2
+},
+{
+"q": "Which of the following molecules will exhibit only a single peak (singlet) in its low-resolution proton NMR spectrum?",
+"a": ["Ethanol", "Chloroethane", "Propanoic acid", "Tetrachloromethane (or tetramethylsilane, but among common organic molecules like 2-methylpropane or similar, let's consider dimethyl ether or 2,2-dimethylpropane)"],
+"correct": 3
+}
+]
+}

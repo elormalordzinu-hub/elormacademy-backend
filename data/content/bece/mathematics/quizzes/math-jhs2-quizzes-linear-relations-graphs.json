@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-linear-relations-graphs",
+"name": "Linear Relations Graphs",
+"questions": [
+{
+"q": "What is the general equation of a straight-line graph in slope-intercept form?",
+"a": ["y = mx + c", "y = ax² + bx + c", "ax + by = c²", "y = m/x"],
+"correct": 0
+},
+{
+"q": "In the linear equation y = 3x - 5, what does the number -5 represent on the graph?",
+"a": ["The gradient (slope)", "The y-intercept", "The x-intercept", "The origin"],
+"correct": 1
+},
+{
+"q": "How is the gradient (slope) m of a straight line passing through points (x₁, y₁) and (x₂, y₂) calculated?",
+"a": ["(x₂ - x₁) / (y₂ - y₁)", "(y₁ + y₂) / (x₁ + x₂)", "(y₂ - y₁) / (x₂ - x₁)", "(x₁ × x₂) / (y₁ × y₂)"],
+"correct": 2
+},
+{
+"q": "What is the gradient of any horizontal straight line on a Cartesian plane?",
+"a": ["1", "Undefined", "-1", "0"],
+"correct": 3
+},
+{
+"q": "Which of the following points lies on the line given by the equation y = 2x + 3?",
+"a": ["(2, 7)", "(1, 4)", "(3, 8)", "(0, 0)"],
+"correct": 0
+},
+{
+"q": "What does a negative gradient (m < 0) indicate about a straight-line graph from left to right?",
+"a": ["It slopes upwards", "It slopes downwards", "It is horizontal", "It is vertical"],
+"correct": 1
+},
+{
+"q": "Find the gradient of the straight line that passes through the points (1, 2) and (3, 8).",
+"a": ["2", "4", "3", "5"],
+"correct": 2
+},
+{
+"q": "What is the equation of a vertical line that passes through the point (4, -5)?",
+"a": ["y = -5", "y = 4x - 5", "y = 4", "x = 4"],
+"correct": 3
+},
+{
+"q": "Where does the graph of the linear equation y = 4x - 8 cross the x-axis (x-intercept)?",
+"a": ["(2, 0)", "(0, -8)", "(4, 0)", "(0, 2)"],
+"correct": 0
+},
+{
+"q": "If two distinct straight lines have the exact same gradient, what can be said about their relationship?",
+"a": ["They are perpendicular", "They are parallel", "They intersect at the origin", "They are the exact same line"],
+"correct": 1
+},
+{
+"q": "What is the y-intercept of the linear relation 3x + 2y = 12?",
+"a": ["(0, 3)", "(0, 4)", "(0, 6)", "(4, 0)"],
+"correct": 2
+},
+{
+"q": "Which of the following equations represents a direct proportion relationship where the graph passes through the origin (0, 0)?",
+"a": ["y = 3x + 1", "y = x - 4", "y = 5", "y = 2.5x"],
+"correct": 3
+},
+{
+"q": "What is the gradient of the line represented by the equation 5x - y = 7?",
+"a": ["5", "-1", "-5", "1/5"],
+"correct": 0
+},
+{
+"q": "If a line has a gradient of -3 and a y-intercept of 4, what is its equation?",
+"a": ["y = 4x - 3", "y = -3x + 4", "y = 3x - 4", "y = -4x + 3"],
+"correct": 1
+},
+{
+"q": "What is the x-intercept of the line y = -2x + 6?",
+"a": ["(0, 6)", "(6, 0)", "(3, 0)", "(0, 3)"],
+"correct": 2
+},
+{
+"q": "What is the condition for two lines with gradients m₁ and m₂ to be perpendicular to each other?",
+"a": ["m₁ = m₂", "m₁ + m₂ = 0", "m₁ - m₂ = 1", "m₁ × m₂ = -1"],
+"correct": 3
+},
+{
+"q": "Complete the table of values for the relation y = 2x - 1 when x = 3:",
+"a": ["y = 5", "y = 6", "y = 4", "y = 7"],
+"correct": 0
+},
+{
+"q": "Which of the following equations describes a line parallel to y = 4x + 7?",
+"a": ["y = -4x + 7", "y = 4x - 2", "y = 7x + 4", "y = (1/4)x + 7"],
+"correct": 1
+},
+{
+"q": "Find the equation of the line passing through the point (0, 5) with a gradient of 2.",
+"a": ["y = 5x + 2", "y = 2x - 5", "y = 2x + 5", "y = 5x - 2"],
+"correct": 2
+},
+{
+"q": "What is the gradient of the line perpendicular to y = (1/2)x + 4?",
+"a": ["2", "1/2", "-1/2", "-2"],
+"correct": 3
+},
+{
+"q": "A taxi service charges a fixed flag-down fee of GH₵ 10.00 plus GH₵ 5.00 per kilometer travelled. Which linear equation models the total cost (y) for x kilometers?",
+"a": ["y = 5x + 10", "y = 10x + 5", "y = 5(x + 10)", "y = 15x"],
+"correct": 0
+},
+{
+"q": "What is the slope (gradient) of the line joining (-2, 3) and (4, 15)?",
+"a": ["1", "2", "3", "4"],
+"correct": 1
+},
+{
+"q": "If the point (k, 7) lies on the linear relation y = 3x + 1, what is the value of k?",
+"a": ["1", "3", "2", "4"],
+"correct": 2
+},
+{
+"q": "Which of the following lines passes through the origin?",
+"a": ["y = x + 5", "y = 3", "x = 4", "y = -2x"],
+"correct": 3
+},
+{
+"q": "What is the equation of the horizontal line passing through the point (-3, 6)?",
+"a": ["y = 6", "x = -3", "y = -3", "x = 6"],
+"correct": 0
+},
+{
+"q": "In drawing a linear graph from a table of values, what is the primary purpose of plotting at least three points instead of just two?",
+"a": ["To make the graph look colorful", "To serve as a check against plotting or calculation errors", "To change the gradient of the line", "To find the area under the graph"],
+"correct": 1
+},
+{
+"q": "What is the gradient of the line described by 2y = 6x - 10?",
+"a": ["6", "3", "3", "-5"],
+"correct": 2
+},
+{
+"q": "What is the distance between the y-intercepts of the two lines y = 2x + 8 and y = 2x - 3?",
+"a": ["5", "8", "3", "11"],
+"correct": 3
+},
+{
+"q": "Find the equation of a straight line that passes through the point (2, 3) and has a gradient of 4.",
+"a": ["y = 4x - 5", "y = 4x + 5", "y = 2x + 3", "y = 3x + 4"],
+"correct": 0
+},
+{
+"q": "What does the intersection point of two simultaneous linear graphs represent graphically?",
+"a": ["The y-intercept of both lines", "The unique solution (x, y) that satisfies both equations simultaneously", "The gradients of the lines", "The area between the axes"],
+"correct": 1
+},
+{
+"q": "If a line passes through the points (0, 0) and (5, 20), what is its equation?",
+"a": ["y = 5x", "y = 20x", "y = 4x", "y = x + 15"],
+"correct": 2
+},
+{
+"q": "Which of the following equations represents a linear relation that does NOT pass through the first quadrant?",
+"a": ["y = 2x", "y = x + 3", "y = 3x - 2", "y = -2x - 4"],
+"correct": 3
+},
+{
+"q": "What is the y-intercept of the line passing through (2, 7) with a gradient of 3?",
+"a": ["(0, 1)", "(0, 3)", "(0, 7)", "(0, 4)"],
+"correct": 0
+},
+{
+"q": "A water tank is being drained. The volume of water V (in litres) remaining after t minutes is given by V = 500 - 25t. What is the initial volume of water in the tank?",
+"a": ["25 litres", "500 litres", "475 litres", "250 litres"],
+"correct": 1
+},
+{
+"q": "What is the slope of the line segment joining (3, -2) and (-1, 6)?",
+"a": ["2", "-1", "-2", "4"],
+"correct": 2
+},
+{
+"q": "Which of the following coordinates represents the midpoint of the line segment joining (2, 4) and (6, 10)?",
+"a": ["(2, 3)", "(8, 14)", "(4, 6)", "(4, 7)"],
+"correct": 3
+},
+{
+"q": "If the equation of a line is written as y = mx + c and m = 0, what kind of graph is produced?",
+"a": ["A horizontal straight line", "A vertical line", "A sloping line", "A curved parabola"],
+"correct": 0
+},
+{
+"q": "What is the equation of the line that passes through (-1, 2) and (1, 6)?",
+"a": ["y = x + 3", "y = 2x + 4", "y = 4x + 2", "y = 3x + 1"],
+"correct": 1
+},
+{
+"q": "What is the sum of the x-intercept and y-intercept of the line 3x + 4y = 12?",
+"a": ["3", "4", "7", "12"],
+"correct": 2
+},
+{
+"q": "Why are linear relations and their graphs important in practical applications such as business and science?",
+"a": ["They can only be drawn on computers", "They are purely abstract and have no real-world use", "They only work for negative numbers", "They allow us to model, predict, and visualize constant rates of change between variables"],
+"correct": 3
+}
+]
+}

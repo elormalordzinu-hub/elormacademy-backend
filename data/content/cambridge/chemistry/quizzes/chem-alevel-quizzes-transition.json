@@ -1,0 +1,207 @@
+{
+"id": "chem-alevel-quizzes-transition",
+"name": "Transition elements complex ions and ligand substitution",
+"questions": [
+{
+"q": "What is the defining electronic configuration characteristic of transition elements in terms of their d-orbitals?",
+"action": "none",
+"a": ["They are d-block elements that form one or more stable ions with incompletely filled d-orbitals", "They have completely filled d-orbitals in all oxidation states", "They only form compounds with s-block metals", "They possess no electrons in their d-subshell"],
+"correct": 0
+},
+{
+"q": "What term is given to a species, such as H<sub>2</sub>O or NH<sub>3</sub>, that contains a lone pair of electrons and can donate it to a central transition metal ion to form a coordinate bond?",
+"a": ["Electrophile", "Ligand", "Free radical", "Bronsted-Lowry acid"],
+"correct": 1
+},
+{
+"q": "What is the coordination number of the cobalt ion in the complex [Co(Cl<sub>4</sub>)]<sup>2-</sup>?",
+"a": ["2", "3", "4", "6"],
+"correct": 2
+},
+{
+"q": "Which of the following elements is classified as a d-block element but is NOT considered a traditional transition element because it does not form ions with incomplete d-orbitals?",
+"a": ["Iron (Fe)", "Copper (Cu)", "Chromium (Cr)", "Zinc (Zn)"],
+"correct": 3
+},
+{
+"q": "What is the shape and bond angle associated with hexaaquairon(II), [Fe(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>, which has a coordination number of 6?",
+"a": ["Octahedral with 90 and 180 degree bond angles", "Tetrahedral with 109.5 degree bond angles", "Linear with 180 degree bond angles", "Square planar with 90 degree bond angles"],
+"correct": 0
+},
+{
+"q": "Why do transition metal complexes often exhibit vibrant colors in aqueous solution?",
+"a": ["Because the metal atoms undergo nuclear radioactive decay", "Because d-orbitals are split in energy by ligands, allowing d-d electron transitions that absorb specific wavelengths of visible light", "Because of high electrical conductivity in the solution", "Because molecules undergo thermal combustion"],
+"correct": 1
+},
+{
+"q": "What is the oxidation state of chromium in the dichromate ion, Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>?",
+"a": ["+3", "+4", "+6", "+7"],
+"correct": 2
+},
+{
+"q": "What color change is observed when excess concentrated hydrochloric acid is added to an aqueous solution of copper(II) sulfate containing [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>?",
+"a": ["Pale pink to dark purple", "Colorless to deep blue", "Orange to green", "Blue to yellow-green (due to formation of [CuCl<sub>4</sub>]<sup>2-</sup>)"],
+"correct": 3
+},
+{
+"q": "Which of the following ligands is classified as a bidentate ligand capable of forming two coordinate bonds per molecule?",
+"a": ["1,2-diaminoethane (ethane-1,2-diamine, en)", "Chloride ion (Cl<sup>-</sup>)", "Water (H<sub>2</sub>O)", "Ammonia (NH<sub>3</sub>)"],
+"correct": 0
+},
+{
+"q": "What type of stereoisomerism is exhibited by square planar complexes such as cisplatin, [Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>]?",
+"a": ["Optical isomerism only", "Cis-trans (geometric) isomerism", "Chain isomerism", "Ionization isomerism"],
+"correct": 1
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added dropwise to a solution containing copper(II) ions, [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>?",
+"a": ["A white precipitate that dissolves in excess", "A green solution with no precipitate", "A pale blue precipitate of Cu(OH)<sub>2</sub>(H<sub>2</sub>O)<sub>4</sub> that is insoluble in excess NaOH", "A dark brown gas evolved"],
+"correct": 2
+},
+{
+"q": "What is the chelate effect?",
+"a": ["The rapid precipitation of transition metal hydroxides in alkaline media", "The complete loss of color when a transition metal is heated", "The thermal decomposition of complex ions into metal oxides", "The thermodynamic stability enhancement observed when multidentate (chelating) ligands replace monodentate ligands in a complex"],
+"correct": 3
+},
+{
+"q": "What electronic configuration represents a neutral ground-state gaseous atom of iron (Atomic Number 26)?",
+"a": ["[Ar] 3d<sup>6</sup> 4s<sup>2</sup>", "[Ar] 3d<sup>5</sup> 4s<sup>3</sup>", "[Ar] 3d<sup>8</sup>", "[Ar] 4s<sup>2</sup> 4p<sup>4</sup>"],
+"correct": 0
+},
+{
+"q": "Why is zinc considered a d-block element but not a transition metal under standard IUPAC definitions?",
+"a": ["It has a very high melting point", "Its ion, Zn<sup>2+</sup>, has a completely filled 3d<sup>10</sup> electron configuration", "It does not form any compounds", "It is a liquid at room temperature"],
+"correct": 1
+},
+{
+"q": "Which reagent can be used to reduce iron(III) ions to iron(II) ions in aqueous solution?",
+"a": ["Acidified potassium manganate(VII)", "Concentrated nitric acid", "Zinc metal in the presence of an acid", "Hydrogen peroxide"],
+"correct": 2
+},
+{
+"q": "What is the primary reason why transition elements exhibit variable oxidation states in their compounds?",
+"a": ["Their outer s and d electrons have very similar energies, requiring relatively small differences in energy to remove varying numbers of electrons", "Their atomic radii are identical across the period", "They have zero nuclear charge", "They form giant covalent lattices exclusively"],
+"correct": 3
+},
+{
+"q": "What color is associated with aqueous chromium(III) ions, [Cr(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>?",
+"a": ["Green (or violet depending on hydration)", "Deep purple", "Bright yellow", "Orange-red"],
+"correct": 0
+},
+{
+"q": "What happens when excess aqueous ammonia is added dropwise and then in excess to a solution containing copper(II) ions?",
+"a": ["A permanent blue precipitate forms and never changes", "A pale blue precipitate forms initially, which then dissolves in excess ammonia to form a deep blue solution containing [Cu(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup>", "The solution turns bright red with no visible precipitate", "A white solid precipitates out"],
+"correct": 1
+},
+{
+"q": "Which of the following complex ions is known to exhibit optical isomerism (having non-superimposable mirror images)?",
+"a": ["-[Pt(NH<sub>3</sub>)<sub>2</sub>Cl<sub>2</sub>] (square planar)", "[CuCl<sub>4</sub>]<sup>2-</sup> (tetrahedral)", "[Co(CH<sub>2</sub>NH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub>]<sup>3+</sup> (octahedral with three bidentate ligands)", "[CoCl<sub>4</sub>]<sup>2-</sup> (tetrahedral)"],
+"correct": 2
+},
+{
+"q": "What is the role of ligands in splitting the d-orbital energies of a transition metal ion?",
+"a": ["Ligands repel the d-electrons electrostatically, lifting the degeneracy of the d-orbitals and causing a split in energy levels (Delta E)", "Ligands add extra protons to the metal nucleus", "Ligands absorb all electrical conductivity", "Ligands neutralize the charge of the metal core completely"],
+"correct": 3
+},
+{
+"q": "Which transition metal ion gives a characteristic purple color in aqueous solution and acts as a powerful oxidizing agent in acidic media?",
+"a": ["Manganate(VII), MnO<sub>4</sub><sup>-</sup>", "Iron(II), Fe<sup>2+</sup>", "Copper(II), Cu<sup>2+</sup>", "Chromium(III), Cr<sup>3+</sup>"],
+"correct": 0
+},
+{
+"q": "What term describes a reaction in which one ligand in a complex ion is replaced by another ligand?",
+"a": ["Addition polymerization", "Ligand substitution", "Disproportionation", "Electrophilic substitution"],
+"correct": 1
+},
+{
+"q": "Why does hemoglobin contain an iron(II) complex that can reversibly bind oxygen gas?",
+"a": ["To catalyze the combustion of glucose directly", "To provide structural rigidity to red blood cells", "To coordinate oxygen molecules reversibly at the iron center without permanent oxidation to iron(III) under normal physiological conditions", "To act as a buffer for blood pH"],
+"correct": 2
+},
+{
+"q": "What is the electron configuration of the Fe<sup>3+</sup> ion?",
+"a": ["[Ar] 3d<sup>6</sup>", "[Ar] 3d<sup>4</sup> 4s<sup>1</sup>", "[Ar] 3d<sup>3</sup> 4s<sup>2</sup>", "[Ar] 3d<sup>5</sup>"],
+"correct": 3
+},
+{
+"q": "Which property is typical of transition elements and their compounds?",
+"a": ["Catalytic activity", "Diamagnetism in all compounds", "Insolubility of all their salts in water", "White colored salts"],
+"correct": 0
+},
+{
+"q": "What shape is adopted by the tetrachloronickelate(II) ion, [NiCl<sub>4</sub>]<sup>2-</sup>, due to ligand steric hindrance?",
+"a": ["Octahedral", "Tetrahedral", "Linear", "Square planar"],
+"correct": 1
+},
+{
+"q": "What is observed when aqueous sodium hydroxide is added to a solution of chromium(III) sulfate, followed by adding an excess of NaOH?",
+"a": ["A white precipitate that remains insoluble", "No visible reaction occurs", "A grey-green precipitate of Cr(OH)<sub>3</sub> forms, which then dissolves in excess NaOH to form a dark green solution of hexahydroxochromate(III)", "A brown precipitate that turns black"],
+"correct": 2
+},
+{
+"q": "Which of the following factors affects the magnitude of the d-orbital splitting energy (Delta E) in a complex ion?",
+"a": ["The atmospheric pressure", "The volume of the container", "The temperature of the room", "The identity of the central metal ion, its oxidation state, and the nature of the surrounding ligands"],
+"correct": 3
+},
+{
+"q": "What type of catalyst is iron in the industrial Haber process for manufacturing ammonia?",
+"a": ["Heterogeneous catalyst", "Homogeneous catalyst", "Enzyme catalyst", "Autocatalyst"],
+"correct": 0
+},
+{
+"q": "What color change is observed when acidified potassium manganate(VII) is added to a solution containing iron(II) ions until the manganate is in excess?",
+"a": ["Blue to colorless", "Purple to pale pink / colorless as MnO<sub>4</sub><sup>-</sup> is reduced to Mn<sup>2+</sup>", "Yellow to dark brown", "Green to orange"],
+"correct": 1
+},
+{
+"q": "What is the coordination number in a complex ion featuring three bidentate ligands like [Fe(en)<sub>3</sub>]<sup>3+</sup>?",
+"a": ["3", "4", "6", "12"],
+"correct": 2
+},
+{
+"q": "Why are anhydrous salts of transition metals often white or colorless, whereas their hydrated complex counterparts are colored?",
+"a": ["Water molecules add electrons to the metal core", "Hydration changes the atomic mass of the metal", "Water molecules act as a radioactive source", "In the absence of ligands, d-orbitals are degenerate and no d-d electron transitions can absorb visible light"],
+"correct": 3
+},
+{
+"q": "Which metal ion is responsible for the characteristic deep blue solution formed when excess aqueous ammonia is added to copper(II) solutions?",
+"a": ["[Cu(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>]<sup>2+</sup>", "[Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>", "[CuCl<sub>4</sub>]<sup>2-</sup>", "[Cu(NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup>"],
+"correct": 0
+},
+{
+"q": "What term is used to describe species that contain unpaired d-electrons and are attracted into an external magnetic field?",
+"a": ["Diamagnetic", "Paramagnetic", "Supercooled", "Isothermal"],
+"correct": 1
+},
+{
+"q": "Which of the following transition metal species contains the metal in the +7 oxidation state?",
+"a": ["Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>", "VO<sub>2</sub><sup>+</sup>", "MnO<sub>4</sub><sup>-</sup>", "Fe(CN)<sub>6</sub><sup>3-</sup>"],
+"correct": 2
+},
+{
+"q": "What is the primary reason why transition metal complexes absorb specific frequencies of visible light?",
+"a": ["Because light reflects off the container walls", "Because the metal nucleus undergoes fission", "Because photons cause electrons to move between different energy levels within split d-orbitals", "Because of high vibrational energy in covalent bonds"],
+"correct": 3
+},
+{
+"q": "Which of the following is a monodentate ligand that can act as a poison in biological systems by binding strongly to transition metal sites in hemoglobin?",
+"a": ["Carbon monoxide (CO)", "Water (H<sub>2</sub>O)", "Ethanol (C<sub>2</sub>H<sub>5</sub>OH)", "Methane (CH<sub>4</sub>)"],
+"correct": 0
+},
+{
+"q": "What type of reaction occurs when Tollens' reagent (containing [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>) oxidizes an aldehyde to a carboxylic acid?",
+"a": ["Addition reaction", "Redox reaction resulting in silver mirror deposition", "Substitution reaction", "Elimination reaction"],
+"correct": 1
+},
+{
+"q": "What is the formula of the complex ion formed when excess sodium hydroxide is added to an aluminum(III) solution (often studied alongside transition elements as amphoteric behavior)?",
+"a": ["[Al(H<sub>2</sub>O)<sub>6</sub>]<sup>3+</sup>", "Al(OH)<sub>3</sub>", "[Al(OH)<sub>4</sub>]<sup>-</sup>", "Al<sub>2</sub>O<sub>3</sub>"],
+"correct": 2
+},
+{
+"q": "How does the color of a transition metal complex change if the identity of the ligand changes (e.g., replacing H<sub>2</sub>O with NH<sub>3</sub>)?",
+"a": ["Color never changes regardless of ligands", "Color becomes permanently invisible", "Only intensity changes while frequency remains identical", "Color changes because different ligands cause different degrees of d-orbital splitting, altering the energy (and wavelength) of light absorbed"],
+"correct": 3
+}
+]
+}

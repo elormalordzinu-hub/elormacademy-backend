@@ -1,0 +1,206 @@
+{
+  "id": "math-yr9-quizzes-trig",
+  "name": "Trigonometry in right-angled triangles",
+  "questions": [
+    {
+      "q": "In a right-angled triangle, which trigonometric ratio represents the ratio of the opposite side to the hypotenuse?",
+      "a": ["Sine", "Cosine", "Tangent", "Secant"],
+      "correct": 0
+    },
+    {
+      "q": "If the adjacent side is 6 cm and the hypotenuse is 10 cm, what is the cosine of the angle?",
+      "a": ["0.80", "0.60", "1.67", "0.75"],
+      "correct": 1
+    },
+    {
+      "q": "Which formula correctly defines the tangent of an angle in a right-angled triangle?",
+      "a": ["Hypotenuse / Opposite", "Adjacent / Hypotenuse", "Opposite / Adjacent", "Hypotenuse / Adjacent"],
+      "correct": 2
+    },
+    {
+      "q": "In a right-angled triangle, if angle θ is 30° and the opposite side is 5 cm, what is the length of the hypotenuse?",
+      "a": ["5 cm", "8.66 cm", "7.07 cm", "10 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Find the length of the side adjacent to angle θ if the hypotenuse is 12 cm and cos(θ) = 0.5.",
+      "a": ["6 cm", "12 cm", "24 cm", "10.39 cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the value of tan(45°) in a right-angled isosceles triangle?",
+      "a": ["0.50", "1.00", "1.41", "0.71"],
+      "correct": 1
+    },
+    {
+      "q": "If sin(θ) = 0.8, what is the value of the angle θ to the nearest degree?",
+      "a": ["37°", "56°", "53°", "64°"],
+      "correct": 2
+    },
+    {
+      "q": "A ladder 10 m long leans against a wall, making an angle of 60° with the ground. How high up the wall does the ladder reach?",
+      "a": ["5.00 m", "8.66 m", "7.07 m", "5.77 m"],
+      "correct": 3
+    },
+    {
+      "q": "Which trigonometric ratio would you use to find an unknown angle if you only know the opposite and adjacent sides?",
+      "a": ["Tangent", "Sine", "Cosine", "Cosecant"],
+      "correct": 0
+    },
+    {
+      "q": "In triangle ABC with angle B = 90°, side AB = 9 cm and side BC = 12 cm, what is the length of the hypotenuse AC?",
+      "a": ["21 cm", "15 cm", "3 cm", "13.4 cm"],
+      "correct": 1
+    },
+    {
+      "q": "If cos(θ) = 0, what is the measure of angle θ?",
+      "a": ["0°", "45°", "90°", "180°"],
+      "correct": 2
+    },
+    {
+      "q": "A tree casts a shadow 15 meters long when the angle of elevation of the sun is 30°. What is the height of the tree?",
+      "a": ["15.00 m", "25.98 m", "10.00 m", "8.66 m"],
+      "correct": 3
+    },
+    {
+      "q": "When calculating an unknown side length using sine, you multiply the hypotenuse by the sine of the angle if the unknown is the:",
+      "a": ["Opposite side", "Adjacent side", "Hypotenuse itself", "Perimeter"],
+      "correct": 0
+    },
+    {
+      "q": "If the opposite side is equal in length to the adjacent side in a right-angled triangle, what is the angle θ?",
+      "a": ["30°", "45°", "60°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the inverse trigonometric operation used to find an angle from a known sine ratio?",
+      "a": ["Sine squared", "Sine cubed", "Arcsine or inverse sine", "Reciprocal sine"],
+      "correct": 2
+    },
+    {
+      "q": "In a right-angled triangle, the side opposite to the right angle is always called the:",
+      "a": ["Base", "Height", "Adjacent", "Hypotenuse"],
+      "correct": 3
+    },
+    {
+      "q": "If sin(θ) = 0.5, what is the angle θ?",
+      "a": ["30°", "45°", "60°", "90°"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the tangent of angle θ if the opposite side is 7 cm and the adjacent side is 7 cm.",
+      "a": ["0.00", "1.00", "1.41", "7.00"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following values can never be greater than 1 for a real angle in a right-angled triangle?",
+      "a": ["Tangent", "Secant", "Sine", "Cotangent"],
+      "correct": 2
+    },
+    {
+      "q": "A kite is flying on a string 50 m long. If the string makes an angle of 40° with the ground, what is the horizontal ground distance to the kite?",
+      "a": ["32.14 m", "42.85 m", "38.30 m", "38.30 m"],
+      "correct": 3
+    },
+    {
+      "q": "If tan(θ) = 2, what does this indicate about the sides of the right-angled triangle?",
+      "a": ["The opposite side is twice as long as the adjacent side.", "The adjacent side is twice as long as the opposite side.", "The hypotenuse is twice as long as the opposite side.", "The sides are all equal."],
+      "correct": 0
+    },
+    {
+      "q": "In a right-angled triangle, if the hypotenuse is 13 cm and one leg is 5 cm, what is the length of the other leg?",
+      "a": ["8 cm", "12 cm", "14 cm", "√194 cm"],
+      "correct": 1
+    },
+    {
+      "q": "What is the cosine of 0°?",
+      "a": ["0", "0.5", "1", "Undefined"],
+      "correct": 2
+    },
+    {
+      "q": "If the angle of elevation from a boat to the top of a lighthouse 40 meters high is 45°, how far is the boat from the base of the lighthouse?",
+      "a": ["20 m", "56.57 m", "30 m", "40 m"],
+      "correct": 3
+    },
+    {
+      "q": "If you know the hypotenuse and the adjacent side, which ratio should you use to find the angle?",
+      "a": ["Cosine", "Sine", "Tangent", "Cosecant"],
+      "correct": 0
+    },
+    {
+      "q": "What is the sine of 90°?",
+      "a": ["0", "1", "-1", "0.5"],
+      "correct": 1
+    },
+    {
+      "q": "In a right-angled triangle, the sum of the two acute angles is always:",
+      "a": ["45°", "180°", "90°", "360°"],
+      "correct": 2
+    },
+    {
+      "q": "If opposite = 3 cm and adjacent = 4 cm, what is the hypotenuse?",
+      "a": ["3.5 cm", "7.0 cm", "6.0 cm", "5.0 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Which mnemonic is commonly used to remember basic trigonometric ratios?",
+      "a": ["SOH CAH TOA", "PEMDAS", "BODMAS", "FOIL"],
+      "correct": 0
+    },
+    {
+      "q": "If the angle of depression from a cliff top to a ship is 30°, what is the angle of elevation from the ship to the cliff top?",
+      "a": ["15°", "30°", "60°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the value of sin(30°) + cos(60°)?",
+      "a": ["0.5", "1.5", "1.0", "2.0"],
+      "correct": 2
+    },
+    {
+      "q": "If a ramp rises 2 meters over a horizontal distance of 10 meters, what is the angle of inclination to the nearest degree?",
+      "a": ["5.71°", "11.31°", "11.54°", "11.31°"],
+      "correct": 3
+    },
+    {
+      "q": "In any right-angled triangle, the longest side is always the:",
+      "a": ["Hypotenuse", "Adjacent", "Opposite", "Base"],
+      "correct": 0
+    },
+    {
+      "q": "If cos(θ) = 0.5, what is the value of angle θ?",
+      "a": ["30°", "60°", "45°", "90°"],
+      "correct": 1
+    },
+    {
+      "q": "What is the exact value of tan(60°)?",
+      "a": ["1", "√2", "√3", "2"],
+      "correct": 2
+    },
+    {
+      "q": "If the legs of a right-angled triangle are both 5 cm, what is the length of the hypotenuse?",
+      "a": ["5 cm", "7.07 cm", "10 cm", "5.00 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Which trigonometric ratio relates the adjacent side to the hypotenuse?",
+      "a": ["Cosine", "Sine", "Tangent", "Cotangent"],
+      "correct": 0
+    },
+    {
+      "q": "If the hypotenuse is 20 cm and the angle is 30°, what is the length of the opposite side?",
+      "a": ["5 cm", "10 cm", "15 cm", "17.32 cm"],
+      "correct": 1
+    },
+    {
+      "q": "What is the value of sin(0°)?",
+      "a": ["0.5", "1", "0", "Undefined"],
+      "correct": 2
+    },
+    {
+      "q": "If the opposite side is 9 cm and the adjacent side is 12 cm, what is the hypotenuse?",
+      "a": ["21 cm", "10.8 cm", "11 cm", "15 cm"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-genetic-inheritance",
+"name": "Genetic Inheritance",
+"questions": [
+{
+"q": "What term is used to describe the transmission of hereditary characteristics from parents to their offspring?",
+"a": ["Genetics / Inheritance", "Metabolism", "Respiration", "Digestion"],
+"correct": 0
+},
+{
+"q": "Where are the genetic instructions (genes) primarily stored within a eukaryotic cell?",
+"a": ["In the ribosomes", "In the nucleus on chromosomes", "In the cell membrane", "In the cytoplasm fluid"],
+"correct": 1
+},
+{
+"q": "What chemical substance makes up chromosomes and carries the genetic code of living organisms?",
+"a": ["RNA only", "Protein enzymes", "Deoxyribonucleic Acid (DNA)", "Cellulose"],
+"correct": 2
+},
+{
+"q": "What are alternative forms of a specific gene that occupy the same position on homologous chromosomes called?",
+"a": ["Gametes", "Zygotes", "Mutations", "Alleles"],
+"correct": 3
+},
+{
+"q": "What is the physical, observable appearance or trait of an organism resulting from its genetic makeup called?",
+"a": ["Phenotype", "Genotype", "Karyotype", "Mutation"],
+"correct": 0
+},
+{
+"q": "Which term describes an allele that expresses its trait even when only one copy is present (represented by a capital letter)?",
+"a": ["Recessive allele", "Dominant allele", "Mutated allele", "Inert allele"],
+"correct": 1
+},
+{
+"q": "What is the genetic composition or combination of alleles an organism possesses for a particular trait called?",
+"a": ["Phenotype", "Hybrid", "Genotype", "Pedigree"],
+"correct": 2
+},
+{
+"q": "How many total chromosomes are normally found in a somatic (body) cell of a human being?",
+"a": ["23 chromosomes", "22 chromosomes", "64 chromosomes", "46 chromosomes"],
+"correct": 3
+},
+{
+"q": "What type of cell division produces sex cells (gametes such as sperm and egg) with half the chromosome number?",
+"a": ["Meiosis", "Mitosis", "Binary fission", "Budding"],
+"correct": 0
+},
+{
+"q": "Which of the following represents a homozygous dominant genotype?",
+"a": ["Tt", "TT", "tt", "XY"],
+"correct": 1
+},
+{
+"q": "What do we call an organism that has two different alleles for a particular trait (e.g., Tt)?",
+"a": ["Homozygous purebred", "Polyploid", "Heterozygous (hybrid)", "Mutant"],
+"correct": 2
+},
+{
+"q": "Who is historically recognized as the 'Father of Genetics' for his pioneering pea plant breeding experiments?",
+"a": ["Charles Darwin", "Robert Hooke", "Louis Pasteur", "Gregor Mendel"],
+"correct": 3
+},
+{
+"q": "What sex chromosomes are present in a normal human male somatic cell?",
+"a": ["XY", "XX", "YY", "XO"],
+"correct": 0
+},
+{
+"q": "Which of the following characteristics in humans is an example of a discontinuous variation controlled by a single gene?",
+"a": ["Body height", "Skin color shades", "Blood group (A, B, AB, O)", "Body weight"],
+"correct": 1
+},
+{
+"q": "What term describes a permanent, random change in the DNA sequence of an organism's gene or chromosome?",
+"a": ["Fertilization", "Pollination", "Mutation", "Mitosis"],
+"correct": 2
+},
+{
+"q": "What are the sex chromosomes found in a normal human female?",
+"a": ["XY", "YY", "XO", "XX"],
+"correct": 3
+},
+{
+"q": "In a genetic cross between a pure-breeding tall plant (TT) and a pure-breeding short plant (tt), what is the phenotype of the F1 generation offspring?",
+"a": ["All tall plants", "All short plants", "Half tall and half short", "Medium height plants"],
+"correct": 0
+},
+{
+"q": "Which of the following terms describes an allele whose expression is masked by a dominant allele unless two copies are present?",
+"a": ["Dominant allele", "Recessive allele", "Co-dominant allele", "Mutated allele"],
+"correct": 1
+},
+{
+"q": "What is the primary function of genes during protein synthesis in living cells?",
+"a": ["To store excess water", "To generate solar energy", "To code for specific amino acids that build proteins and control traits", "To break down waste products directly"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of continuous variation in humans influenced by both genetics and environmental factors?",
+"a": ["Earlobe attachment type", "Tongue rolling ability", "ABO blood grouping", "Body height and weight"],
+"correct": 3
+},
+{
+"q": "What tool or grid is commonly used by geneticists to predict the possible genotypes and phenotypes of offspring from a cross?",
+"a": ["Punnett square", "Pedigree chart", "Karyotype grid", "Microscope slide"],
+"correct": 0
+},
+{
+"q": "How many chromosomes are contained in a normal human gamete (sperm or egg cell)?",
+"a": ["46 chromosomes", "23 chromosomes", "92 chromosomes", "10 chromosomes"],
+"correct": 1
+},
+{
+"q": "What type of inheritance occurs when neither of two alleles is completely dominant, resulting in a blended phenotype in the heterozygote (e.g., pink flowers from red and white parents)?",
+"a": ["Complete dominance", "Sex-linked inheritance", "Incomplete dominance", "Polygenic inheritance"],
+"correct": 2
+},
+{
+"q": "Which of the following statements correctly describes sexual reproduction in relation to genetic variation?",
+"a": ["It produces offspring that are exact genetic clones of one parent", "It completely eliminates all gene mutations", "It prevents any adaptation in populations", "It combines genetic material from two parents, increasing genetic diversity among offspring"],
+"correct": 3
+},
+{
+"q": "What term describes the complete set of genetic material present in an organism?",
+"a": ["Genome", "Proteome", "Phenome", "Ribosome"],
+"correct": 0
+},
+{
+"q": "Which of the following genetic disorders is inherited as a recessive trait and affects the shape of red blood cells?",
+"a": ["Down syndrome", "Sickle-cell anemia", "Color blindness", "Hemophilia"],
+"correct": 1
+},
+{
+"q": "What is a pedigree chart used for in genetics?",
+"a": ["Measuring plant growth rates", "Counting total cell numbers", "Tracing the inheritance of specific traits through generations of a family", "Mapping weather patterns"],
+"correct": 2
+},
+{
+"q": "Which process ensures that the chromosome number remains constant from generation to generation in sexually reproducing organisms?",
+"a": ["Mitosis alone", "Binary fission", "Aseptic germination", "Meiosis followed by fertilization"],
+"correct": 3
+},
+{
+"q": "What do we call the observable physical differences within a population of the same species, such as variations in skin color or leaf shape?",
+"a": ["Variation", "Cloning", "Metamorphosis", "Extinction"],
+"correct": 0
+},
+{
+"q": "Which of the following cellular structures contains the DNA molecules that dictate inherited traits?",
+"a": ["Vacuole", "Chromosome", "Cell wall", "Ribosome"],
+"correct": 1
+},
+{
+"q": "In human blood grouping (ABO system), alleles $I^A$ and $I^B$ are both expressed equally in a heterozygous individual ($I^A I^B$). What is this type of inheritance called?",
+"a": ["Recessive dominance", "Incomplete dominance", "Codominance", "Sex-linked trait"],
+"correct": 2
+},
+{
+"q": "What is the term for selective breeding practiced by humans to develop desired traits in crops and domestic animals?",
+"a": ["Natural selection", "Genetic drift", "Random mutation", "Artificial selection (selective breeding)"],
+"correct": 3
+},
+{
+"q": "What term describes chromosomes that occur in pairs—one inherited from the mother and one from the father—having the same length and gene loci?",
+"a": ["Homologous chromosomes", "Sister chromatids", "Mutated strands", "Ribosomal units"],
+"correct": 0
+},
+{
+"q": "Which of the following is a classic example of a sex-linked inherited condition in humans?",
+"a": ["Albinism", "Red-green color blindness", "Sickle-cell anemia", "Type O blood"],
+"correct": 1
+},
+{
+"q": "What is the expected phenotypic ratio of offspring in a monohybrid cross between two heterozygous parents (Tt x Tt) according to Mendel's laws?",
+"a": ["100% tall", "100% short", "3 tall : 1 short", "1 tall : 2 medium : 1 short"],
+"correct": 2
+},
+{
+"q": "Which of the following factors can act as a mutagen, increasing the rate of genetic mutations?",
+"a": ["Pure distilled drinking water", "Mild room temperature", "Nutritious organic compost", "Ionizing radiation and certain harmful chemicals"],
+"correct": 3
+},
+{
+"q": "What branch of biology focuses specifically on the study of heredity and the variation of inherited characteristics?",
+"a": ["Genetics", "Ecology", "Taxonomy", "Anatomy"],
+"correct": 0
+},
+{
+"q": "Which term describes an individual having two identical alleles for a particular gene (e.g., TT or tt)?",
+"a": ["Heterozygous", "Homozygous", "Hybrid", "Polyploid"],
+"correct": 1
+},
+{
+"q": "What role do sex chromosomes play in human reproduction?",
+"a": ["They control the digestion of food", "They regulate body temperature", "They determine the biological sex of the offspring", "They produce red blood cells"],
+"correct": 2
+},
+{
+"q": "Why did Gregor Mendel choose garden pea plants for his landmark inheritance experiments?",
+"a": ["They take 10 years to mature", "They only reproduce asexually", "They are extremely difficult to cultivate", "They have distinct contrasting traits and reproduce quickly"],
+"correct": 3
+}
+]
+}

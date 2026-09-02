@@ -1,0 +1,15 @@
+"Act as a curriculum expert. I need a comprehensive, structured list of all subtopics for [Insert Subject] at [Insert Grade/Level] under the [Insert Curriculum] framework.
+
+Requirements:
+
+List only the specific subtopics.
+
+NO main headings, NO explanations, NO filler text, and NO numbers.
+
+Include core academic content subtopics.
+
+Include essential lab skills, safety protocols, and data interpretation/scientific enquiry subtopics relevant to this specific level.
+
+Formatting: Provide each subtopic on its own line, separated by a single empty line (double spacing). Do not use bullet points or any other formatting characters. The result should be clean text that can be copied directly into a plain text file.
+
+Ensure the list is exhaustive for the specified curriculum."

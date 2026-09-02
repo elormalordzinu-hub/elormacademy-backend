@@ -1,0 +1,146 @@
+{
+"id": "intsci-jhs2-quizzes-reproductive-health",
+"name": "Reproductive Health",
+"questions": [
+{
+"q": "What is adolescence defined as in human development?",
+"a": ["The transitional period of physical and psychological development between childhood and adulthood", "The stage of infancy right after birth", "The final stage of old age", "The period before birth"],
+"correct": 0
+},
+{
+"q": "Which hormone is primarily responsible for the development of secondary sexual characteristics in human males during puberty?",
+"a": ["Progesterone", "Testosterone", "Oestrogen", "Insulin"],
+"correct": 1
+},
+{
+"q": "What is the term for the monthly discharge of blood and mucosal tissue from the inner lining of the uterus in females?",
+"a": ["Ovulation", "Fertilization", "Menstruation", "Implantation"],
+"correct": 2
+},
+{
+"q": "Which of the following is a primary physical change that occurs in girls during puberty?",
+"a": ["Deepening of the voice", "Growth of facial hair", "Broadening of shoulders", "Widening of hips and development of breasts"],
+"correct": 3
+},
+{
+"q": "What is the biological process by which a mature egg cell (ovum) is released from the ovary?",
+"a": ["Ovulation", "Menstruation", "Fertilization", "Pollination"],
+"correct": 0
+},
+{
+"q": "Which organ in the female reproductive system is the site where a fertilized egg implants and develops during pregnancy?",
+"a": ["Ovary", "Uterus (Womb)", "Fallopian tube (Oviduct)", "Vagina"],
+"correct": 1
+},
+{
+"q": "Where does the fertilization of a human egg by a sperm cell typically take place?",
+"a": ["Vagina", "Uterus", "Fallopian tube (Oviduct)", "Cervix"],
+"correct": 2
+},
+{
+"q": "What name is given to infections that are spread primarily through sexual contact?",
+"a": ["Deficiency diseases", "Non-communicable diseases", "Airborne infections", "Sexually Transmitted Infections (STIs)"],
+"correct": 3
+},
+{
+"q": "Which of the following is a viral Sexually Transmitted Infection (STI) that currently has no cure, though it can be managed with antiretroviral drugs?",
+"a": ["HIV/AIDS", "Gonorrhea", "Syphilis", "Chlamydia"],
+"correct": 0
+},
+{
+"q": "Which method of birth control provides a physical barrier preventing sperm from meeting the egg, and also helps protect against STIs?",
+"a": ["Oral contraceptive pill", "Condom", "Intrauterine device (IUD)", "Natural rhythm method"],
+"correct": 1
+},
+{
+"q": "What is responsible for the transmission of HIV from an infected person to another?",
+"a": ["Sharing eating utensils", "Sitting close to an infected person", "Exchange of specific body fluids such as blood, semen, and vaginal secretions", "Mosquito bites"],
+"correct": 2
+},
+{
+"q": "Which of the following practices is crucial for maintaining personal hygiene during menstruation?",
+"a": ["Avoiding bathing for a whole week", "Using dirty cloth rags repeatedly without washing", "Wearing a single sanitary pad for 24 hours", "Changing sanitary pads regularly and washing the genital area with clean water"],
+"correct": 3
+},
+{
+"q": "What is teenage pregnancy?",
+"a": ["Pregnancy occurring in females under the age of 20 during their adolescence", "Pregnancy that occurs only after marriage", "A medical condition affecting elderly women", "A planned family planning method"],
+"correct": 0
+},
+{
+"q": "Which of the following is a common social or economic consequence of teenage pregnancy?",
+"a": ["Immediate career promotion", "Interruption or dropping out of formal education", "Enhanced financial stability", "Improved social status in the community"],
+"correct": 1
+},
+{
+"q": "What term describes the deliberate avoidance of sexual intercourse or practicing self-restraint before marriage?",
+"a": ["Contraception", "Sterilization", "Abstinence", "Pollination"],
+"correct": 2
+},
+{
+"q": "Which bacteria-caused STI can lead to painful urination and discharge, and can cause infertility if left untreated?",
+"a": ["Common cold", "Malaria", "Cholera", "Gonorrhea"],
+"correct": 3
+},
+{
+"q": "What are secondary sexual characteristics?",
+"a": ["Physical features that appear during puberty distinguishing males from females apart from primary sex organs", "Organs present at birth", "Teeth that grow during childhood", "Internal organs like kidneys and liver"],
+"correct": 0
+},
+{
+"q": "Which female hormone stimulates the thickening of the uterine lining and regulates the menstrual cycle alongside progesterone?",
+"a": ["Testosterone", "Oestrogen", "Adrenaline", "Insulin"],
+"correct": 1
+},
+{
+"q": "Why is early marriage and childbearing discouraged among adolescents?",
+"a": ["Because young people cannot eat adult food", "Because babies born to teenagers are always adults", "Because the female body may not be fully mature, leading to health complications during childbirth", "Because schools do not allow married students to wear uniforms"],
+"correct": 2
+},
+{
+"q": "Which of the following is an effective way to prevent the spread of HIV/AIDS and other STIs?",
+"a": ["Sharing needles with friends", "Having multiple unprotected sexual partners", "Ignoring symptoms of infections", "Practicing abstinence or using barrier methods like condoms consistently"],
+"correct": 3
+},
+{
+"q": "What is the role of the testes in the human male reproductive system?",
+"a": ["To produce sperm cells and male sex hormones (testosterone)", "To store urine before excretion", "To produce female egg cells", "To nourish the developing fetus"],
+"correct": 0
+},
+{
+"q": "What is the term for the release of semen from the male penis during sexual excitement or sleep?",
+"a": ["Menstruation", "Ejaculation", "Ovulation", "Implantation"],
+"correct": 1
+},
+{
+"q": "Which of the following is a psychological or emotional change often experienced during adolescence?",
+"a": ["Complete loss of memory", "Permanent sleepiness", "Mood swings, identity search, and increased emotional sensitivity", "Total detachment from friends"],
+"correct": 2
+},
+{
+"q": "How can stigmatization against people living with HIV/AIDS (PLWHA) be reduced in society?",
+"a": ["By isolating them in separate communities", "By refusing to talk to them", "By blaming them for their condition", "Through education, empathy, and understanding how the virus is actually transmitted"],
+"correct": 3
+},
+{
+"q": "What is the function of the ovaries in the female reproductive system?",
+"a": ["To produce female egg cells (ova) and female sex hormones", "To pump blood to the uterus", "To filter liquid waste from the blood", "To digest food nutrients"],
+"correct": 0
+},
+{
+"q": "Which practice helps adolescents maintain good reproductive health and personal hygiene?",
+"a": ["Sharing inner clothes with peers", "Daily bathing, wearing clean undergarments, and practicing proper menstrual hygiene", "Ignoring body odor", "Using harsh chemical perfumes on sensitive areas"],
+"correct": 1
+},
+{
+"q": "What is the primary danger of contracting bacterial STIs like syphilis and gonorrhea?",
+"a": ["They cause instant hair loss", "They improve body immunity", "They can cause severe damage to reproductive organs, chronic pain, and permanent infertility", "They cure other diseases automatically"],
+"correct": 2
+},
+{
+"q": "Which of the following agencies or groups plays a vital role in providing reproductive health education to adolescents?",
+"a": ["Music entertainment clubs only", "Criminal syndicates", "Commercial business firms", "Schools, healthcare workers, and parents/guidance counselors"],
+"correct": 3
+}
+]
+}

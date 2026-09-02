@@ -1,0 +1,186 @@
+{
+"id": "intsci-jhs2-quizzes-body-systems",
+"name": "Body Systems",
+"questions": [
+{
+"q": "Which major body system is primarily responsible for pumping blood and circulating nutrients, gases, and wastes throughout the human body?",
+"a": ["Circulatory system", "Respiratory system", "Digestive system", "Nervous system"],
+"correct": 0
+},
+{
+"q": "What is the main function of the human respiratory system?",
+"a": ["To break down food molecules into simpler nutrients", "To facilitate gaseous exchange by taking in oxygen and removing carbon dioxide", "To protect internal organs from physical impact", "To provide structural support and framework for movement"],
+"correct": 1
+},
+{
+"q": "Which part of the digestive system is responsible for the complete digestion and absorption of food nutrients?",
+"a": ["Stomach", "Large intestine", "Small intestine", "Oesophagus"],
+"correct": 2
+},
+{
+"q": "What is the basic functional unit of the nervous system responsible for transmitting electrical impulses?",
+"a": ["Nephron", "Alveolus", "Villus", "Neurone"],
+"correct": 3
+},
+{
+"q": "Which organ in the excretory system filters waste products, excess water, and salts from the blood to form urine?",
+"a": ["Kidney", "Liver", "Lungs", "Skin"],
+"correct": 0
+},
+{
+"q": "What type of blood vessel carries oxygenated blood away from the heart to the various organs of the body?",
+"a": ["Vein", "Artery", "Capillary", "Vena cava"],
+"correct": 1
+},
+{
+"q": "Which skeletal component protects the human brain from mechanical injury?",
+"a": ["Vertebral column", "Ribcage", "Skull (Cranium)", "Pelvic girdle"],
+"correct": 2
+},
+{
+"q": "What is the role of red blood cells in the circulatory system?",
+"a": ["To fight off infections and foreign pathogens", "To clot blood when a wound occurs", "To transport dissolved food substances", "To transport oxygen using hemoglobin from the lungs to body tissues"],
+"correct": 3
+},
+{
+"q": "Which muscular organ pumps blood continuously into the circulatory network?",
+"a": ["Heart", "Lungs", "Liver", "Stomach"],
+"correct": 0
+},
+{
+"q": "What process involves the mechanical and chemical breakdown of large insoluble food particles into smaller soluble ones?",
+"a": ["Respiration", "Digestion", "Excretion", "Circulation"],
+"correct": 1
+},
+{
+"q": "Which of the following structures in the respiratory system prevents food from entering the windpipe during swallowing?",
+"a": ["Pharynx", "Trachea", "Epiglottis", "Bronchus"],
+"correct": 2
+},
+{
+"q": "Which part of the human skeleton protects the heart and lungs?",
+"a": ["Skull", "Backbone", "Pelvis", "Ribcage"],
+"correct": 3
+},
+{
+"q": "What is the primary function of white blood cells in the human body?",
+"a": ["Defending the body against diseases and infection", "Carrying oxygen to cells", "Transporting carbon dioxide", "Regulating body temperature"],
+"correct": 0
+},
+{
+"q": "Which gland in the endocrine system regulates overall body metabolism and growth?",
+"a": ["Pancreas", "Thyroid gland", "Adrenal gland", "Sweat gland"],
+"correct": 1
+},
+{
+"q": "What is the name of the tube that connects the mouth to the stomach?",
+"a": ["Trachea", "Ureter", "Oesophagus", "Urethra"],
+"correct": 2
+},
+{
+"q": "Which system controls and coordinates all body activities through electrical and chemical signals?",
+"a": ["Digestive system", "Skeletal system", "Circulatory system", "Nervous system"],
+"correct": 3
+},
+{
+"q": "What are the tiny air sacs in the lungs where gaseous exchange takes place called?",
+"a": ["Alveoli", "Bronchi", "Bronchioles", "Trachea"],
+"correct": 0
+},
+{
+"q": "Which component of blood is responsible for blood clotting to stop bleeding when an injury occurs?",
+"a": ["Red blood cells", "Platelets", "White blood cells", "Plasma"],
+"correct": 1
+},
+{
+"q": "What is the waste product produced during aerobic respiration that is exhaled through the lungs?",
+"a": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "Which organ stores bile produced by the liver before it is released into the small intestine?",
+"a": ["Pancreas", "Stomach", "Kidney", "Gallbladder"],
+"correct": 3
+},
+{
+"q": "What name is given to the joint type found in the shoulder and hip that allows movement in all directions?",
+"a": ["Ball-and-socket joint", "Hinge joint", "Pivot joint", "Fixed joint"],
+"correct": 0
+},
+{
+"q": "Which part of the central nervous system controls involuntary actions such as heartbeat, breathing, and digestion?",
+"a": ["Cerebrum", "Medulla oblongata (Brainstem)", "Cerebellum", "Spinal cord"],
+"correct": 1
+},
+{
+"q": "What is the function of the villi found in the inner lining of the small intestine?",
+"a": ["To secrete digestive enzymes", "To grind food mechanically", "To provide a large surface area for the absorption of digested food", "To push waste material out of the body"],
+"correct": 2
+},
+{
+"q": "Which body system provides structural support, movement, and protection for internal organs?",
+"a": ["Respiratory system", "Circulatory system", "Excretory system", "Musculoskeletal system"],
+"correct": 3
+},
+{
+"q": "What is the main function of the large intestine in the digestive system?",
+"a": ["Absorption of water from undigested food waste", "Digestion of complex proteins", "Production of bile", "Absorption of simple sugars"],
+"correct": 0
+},
+{
+"q": "Which blood vessels have thin walls and valves to prevent the backflow of blood towards the heart?",
+"a": ["Arteries", "Veins", "Capillaries", "Arterioles"],
+"correct": 1
+},
+{
+"q": "What is the chemical substance produced by endocrine glands that regulates specific body functions called?",
+"a": ["Enzyme", "Antibody", "Hormone", "Saliva"],
+"correct": 2
+},
+{
+"q": "Which organ of the excretory system eliminates excess water and urea through sweating?",
+"a": ["Kidney", "Lungs", "Liver", "Skin"],
+"correct": 3
+},
+{
+"q": "What type of joint is found at the elbow and knee, allowing movement in only one plane?",
+"a": ["Hinge joint", "Ball-and-socket joint", "Pivot joint", "Gliding joint"],
+"correct": 0
+},
+{
+"q": "Which part of the brain is primarily responsible for maintaining balance, posture, and coordination of voluntary movements?",
+"a": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+"correct": 1
+},
+{
+"q": "What is the liquid medium of blood that transports nutrients, hormones, and waste products?",
+"a": ["Red blood cells", "Platelets", "Plasma", "Lymph"],
+"correct": 2
+},
+{
+"q": "Which tube transports urine from the kidneys down to the urinary bladder?",
+"a": ["Urethra", "Oesophagus", "Vas deferens", "Ureter"],
+"correct": 3
+},
+{
+"q": "What enzyme found in human saliva begins the digestion of starches into simpler sugars?",
+"a": ["Amylase (Ptyalin)", "Pepsin", "Lipase", "Trypsin"],
+"correct": 0
+},
+{
+"q": "Which disorder of the circulatory system involves chronically high blood pressure against artery walls?",
+"a": ["Anemia", "Hypertension", "Leukemia", "Diabetes"],
+"correct": 1
+},
+{
+"q": "What is the name of the muscular dome-shaped partition that separates the chest cavity from the abdominal cavity and aids breathing?",
+"a": ["Ribcage", "Pleura", "Diaphragm", "Larynx"],
+"correct": 2
+},
+{
+"q": "Which body system is responsible for detecting stimuli from the internal and external environment and generating responses?",
+"a": ["Digestive system", "Respiratory system", "Endocrine system", "Nervous system"],
+"correct": 3
+}
+]
+}

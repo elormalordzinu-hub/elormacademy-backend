@@ -1,0 +1,166 @@
+{
+"id": "chem-igcse-quizzes-lattices",
+"name": "Giant covalent structures diamond and graphite",
+"questions": [
+{
+"q": "What type of bonding holds the carbon atoms together in diamond?",
+"a": ["Strong covalent bonds", "Weak intermolecular forces", "Ionic bonds", "Metallic bonds"],
+"correct": 0
+},
+{
+"q": "Why is graphite able to conduct electricity while diamond is an insulator?",
+"a": ["Graphite contains free-moving positive ions", "Graphite has delocalized electrons between its layers that can move", "Graphite contains water trapped within its lattice structure", "Graphite has ionic bonds that dissociate in the solid state"],
+"correct": 1
+},
+{
+"q": "How many other carbon atoms is each carbon atom bonded to in diamond?",
+"a": ["Two", "Three", "Four", "Six"],
+"correct": 2
+},
+{
+"q": "What property makes diamond suitable for use in heavy-duty cutting tools and drill bits?",
+"a": ["It is soft and flaky", "It conducts heat and electricity efficiently", "It dissolves easily in industrial solvents", "It has a rigid tetrahedral giant structure making it extremely hard"],
+"correct": 3
+},
+{
+"q": "Why does graphite feel slippery and act as a good dry lubricant?",
+"a": ["Weak forces between its layers allow the layers to slide over one another easily", "It reacts with air to form a greasy coating", "It contains oily molecules trapped inside hexagonal rings", "Its covalent bonds constantly break and reform"],
+"correct": 0
+},
+{
+"q": "What is the structural arrangement of carbon atoms within each individual layer of graphite?",
+"a": ["Tetrahedral pyramids", "Hexagonal rings", "Linear chains", "Random amorphous clusters"],
+"correct": 1
+},
+{
+"q": "How many covalent bonds does each carbon atom form within a layer of graphite?",
+"a": ["One", "Two", "Three", "Four"],
+"correct": 2
+},
+{
+"q": "Which of the following substances shares a giant covalent macromolecular structure similar to diamond?",
+"a": ["Sodium chloride", "Copper metal", "Carbon dioxide", "Silicon dioxide (sand)"],
+"correct": 3
+},
+{
+"q": "What is the term used to describe different forms of the same element in the same physical state, such as diamond and graphite?",
+"a": ["Allotropes", "Isotopes", "Isomers", "Homologues"],
+"correct": 0
+},
+{
+"q": "Why do giant covalent structures like diamond and silicon dioxide have extremely high melting points?",
+"a": ["They consist of small molecules held by weak intermolecular forces", "A vast network of strong covalent bonds must be broken throughout the lattice", "They contain free electrons that generate immense internal heat", "They are held together by electrostatic forces between ions"],
+"correct": 1
+},
+{
+"q": "Which allotrope of carbon is structured as spherical cages of carbon atoms, such as C<sub>60</sub>?",
+"a": ["Diamond", "Graphite", "Buckminsterfullerene", "Amorphous carbon"],
+"correct": 2
+},
+{
+"q": "Which of the following statements correctly compares the hardness of diamond and graphite?",
+"a": ["Both are equally hard because they are made of pure carbon", "Graphite is harder than diamond because of its layered structure", "Diamond is soft and graphite is extremely hard", "Diamond is the hardest naturally occurring substance, while graphite is soft"],
+"correct": 3
+},
+{
+"q": "What is the geometric shape formed by the arrangement of carbon bonds around each atom in diamond?",
+"a": ["Tetrahedral", "Hexagonal planar", "Linear", "Octahedral"],
+"correct": 0
+},
+{
+"q": "Which substance is used as a pencil lead when mixed with clay because it marks paper easily as layers flake off?",
+"a": ["Diamond", "Graphite", "Silicon dioxide", "Fullerene"],
+"correct": 1
+},
+{
+"q": "What happens to the fourth valence electron of each carbon atom in graphite?",
+"a": ["It is transferred to neighboring oxygen atoms", "It forms an ionic bond with impurities", "It becomes delocalized and forms a pool of mobile electrons between layers", "It is lost as hydrogen gas"],
+"correct": 2
+},
+{
+"q": "Which property is shared by both diamond and graphite?",
+"a": ["High electrical conductivity in solid state", "Solubility in water", "Ability to conduct heat", "Insolubility in water and organic solvents"],
+"correct": 3
+},
+{
+"q": "In silicon dioxide (SiO<sub>2</sub>), what is the ratio of silicon atoms to oxygen atoms?",
+"a": ["One silicon atom to two oxygen atoms", "Two silicon atoms to one oxygen atom", "One silicon atom to one oxygen atom", "One silicon atom to four oxygen atoms"],
+"correct": 0
+},
+{
+"q": "Why are giant covalent structures insoluble in water and organic solvents?",
+"a": ["Solvent molecules react to form gases", "The covalent bonds within the giant lattice are too strong for solvent molecules to break", "Solvents destroy the outer electrons of carbon atoms", "They contain ionic charges that repel polar solvents"],
+"correct": 1
+},
+{
+"q": "Which of the following materials is classified as a macromolecule rather than a simple molecular substance?",
+"a": ["Water, H<sub>2</sub>O", "Methane, CH<sub>4</sub>", "Silicon dioxide, SiO<sub>2</sub>", "Carbon dioxide, CO<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "Which statement correctly describes why graphite can be used as electrodes in electrolysis?",
+"a": ["It is a transparent solid that melts easily", "It reacts with electrolytes to produce current", "It is an insulator that prevents short circuits", "It is chemically inert and its delocalized electrons allow it to conduct electricity"],
+"correct": 3
+},
+{
+"q": "How many valence electrons does a carbon atom have available for bonding?",
+"a": ["Four", "Two", "Six", "Eight"],
+"correct": 0
+},
+{
+"q": "Which allotrope of carbon consists of hollow tubes of carbon atoms with high tensile strength and electrical conductivity?",
+"a": ["Diamond", "Carbon nanotubes (graphene tubes)", "Graphite powder", "Amorphous charcoal"],
+"correct": 1
+},
+{
+"q": "What type of forces exist between the layers of graphite?",
+"a": ["Strong covalent bonds", "Ionic bonds", "Weak intermolecular (van der Waals) forces", "Metallic bonds"],
+"correct": 2
+},
+{
+"q": "Which of the following is true regarding silicon dioxide, SiO<sub>2</sub>?",
+"a": ["Each silicon atom is bonded to two oxygen atoms in linear chains", "It has a low melting point due to weak intermolecular forces", "It conducts electricity in both solid and molten states", "Each silicon atom is covalently bonded to four oxygen atoms in a tetrahedral arrangement"],
+"correct": 3
+},
+{
+"q": "What is graphene?",
+"a": ["A single, one-atom-thick sheet of graphite with exceptional strength and conductivity", "A three-dimensional diamond lattice with impurities", "A spherical molecule made of sixty carbon atoms", "An amorphous form of carbon used in filters"],
+"correct": 0
+},
+{
+"q": "Why does diamond have a higher density than graphite?",
+"a": ["Diamond contains heavier carbon isotopes", "Diamond's atoms are packed more tightly in a compact tetrahedral giant lattice", "Graphite contains large spaces filled with air between its layers", "Graphite atoms repel each other, expanding the structure"],
+"correct": 1
+},
+{
+"q": "Which of the following best explains why diamond does not conduct electricity?",
+"a": ["All of its valence electrons are tightly held in localized covalent bonds with no free charges", "It has an ionic lattice that traps electrons", "It contains free protons instead of electrons", "Its structure lacks any carbon atoms"],
+"correct": 2
+},
+{
+"q": "Which structure consists of carbon atoms bonded in a giant network where every carbon is bonded to three neighbors, forming layers?",
+"a": ["Diamond", "Silicon dioxide", "Buckminsterfullerene", "Graphite"],
+"correct": 3
+},
+{
+"q": "What is the main reason diamond and graphite have different physical properties even though both are made entirely of carbon?",
+"a": ["They have different arrangements of atoms and types of bonding within their structures", "Graphite contains hydrogen impurities", "Diamond is formed at lower temperatures", "Graphite is an ionic compound while diamond is covalent"],
+"correct": 0
+},
+{
+"q": "Which of these substances is commonly known as quartz or silica and forms a giant covalent structure?",
+"a": ["Carbon dioxide, CO<sub>2</sub>", "Silicon dioxide, SiO<sub>2</sub>", "Sodium silicate, Na<sub>2</sub>SiO<sub>3</sub>", "Carbon monoxide, CO"],
+"correct": 1
+},
+{
+"q": "In the structure of silicon dioxide, what type of atom is each oxygen atom bonded to?",
+"a": ["Two oxygen atoms", "Four silicon atoms", "Two silicon atoms", "One silicon and one carbon atom"],
+"correct": 2
+},
+{
+"q": "Which of the following applications relies directly on the lubricating property of graphite?",
+"a": ["Cutting glass", "Drilling oil wells", "Jewelry manufacture", "Lubricating bicycle chains and locks"],
+"correct": 3
+}
+]
+}

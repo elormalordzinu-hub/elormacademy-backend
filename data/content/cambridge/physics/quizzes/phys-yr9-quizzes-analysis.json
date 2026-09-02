@@ -1,0 +1,166 @@
+{
+"id": "phys-yr9-quizzes-analysis",
+"name": "Data interpretation and graphical analysis",
+"questions": [
+{
+"q": "What is the independent variable conventionally plotted on in a scientific line graph?",
+"a": ["The horizontal x-axis", "The vertical y-axis", "The chart title block", "The legend box"],
+"correct": 0
+},
+{
+"q": "Which axis on a line graph is used for plotting the dependent variable that responds to changes?",
+"a": ["The diagonal axis", "The vertical y-axis", "The horizontal x-axis", "The outer margin"],
+"correct": 1
+},
+{
+"q": "What does a straight line of best fit passing through the origin (0, 0) on a graph indicate about two variables?",
+"a": ["They are inversely proportional.", "They have no mathematical relationship.", "They are directly proportional to each other.", "Their values are constantly zero."],
+"correct": 2
+},
+{
+"q": "How do you calculate the gradient (slope) of a straight-line graph?",
+"a": ["Multiply change in x by change in y", "Add y to x", "Square the y-values", "Divide the change in y (rise) by the change in x (run)"],
+"correct": 3
+},
+{
+"q": "What does a steep gradient on a distance-time graph represent?",
+"a": ["A higher speed or rate of motion", "A slower motion", "Zero speed (stationary)", "Negative acceleration"],
+"correct": 0
+},
+{
+"q": "What does a horizontal flat line on a distance-time graph signify about an object's motion?",
+"a": ["It is moving at constant high speed.", "The object is stationary (at rest)", "It is accelerating rapidly.", "It is moving backward."],
+"correct": 1
+},
+{
+"q": "When drawing a line of best fit for scattered experimental points, how should the line be positioned?",
+"a": ["Connecting the first and last point in a sharp zigzag", "Drawn vertically from top to bottom", "Passing as close as possible to all points, with a balanced number of points on either side", "Drawn parallel to the y-axis"],
+"correct": 2
+},
+{
+"q": "What does the area under a speed-time graph represent physically?",
+"a": ["Total acceleration", "Average temperature", "Total force applied", "Total distance traveled by the object"],
+"correct": 3
+},
+{
+"q": "What does a curved line sloping upwards on a speed-time graph indicate?",
+"a": ["Increasing acceleration", "Constant speed", "Deceleration (slowing down)", "Zero movement"],
+"correct": 0
+},
+{
+"q": "Why is it important to use more than half of the available grid space on graph paper when plotting scientific data?",
+"a": ["To waste paper", "To make the graph clear, easy to read, and allow accurate interpolation and gradient calculation", "To make the axes lines thicker", "To hide anomalous data points"],
+"correct": 1
+},
+{
+"q": "What is interpolation on a graph?",
+"a": ["Guessing values far outside the measured data range", "Redrawing grid lines", "Estimating unknown values between measured data points on the graph", "Calculating equipment mass"],
+"correct": 2
+},
+{
+"q": "What is extrapolation on a graph?",
+"a": ["Calculating the mean of y-values", "Erasing wrong points", "Measuring axis length", "Extending the line of best fit beyond the measured data points to predict unmeasured values"],
+"correct": 3
+},
+{
+"q": "What does a negative correlation (inverse relationship) look like on a scatter graph?",
+"a": ["A straight or curved line sloping downwards from left to right", "A horizontal flat line", "A vertical line", "A line sloping upwards from left to right"],
+"correct": 0
+},
+{
+"q": "On a force-extension graph for a spring, what does the gradient of the straight linear section represent?",
+"a": ["The mass of the weight hanger", "The spring constant (stiffness of the spring)", "The electrical resistance", "The total energy stored"],
+"correct": 1
+},
+{
+"q": "What does a constant positive gradient on a speed-time graph indicate?",
+"a": ["Deceleration", "Zero acceleration", "Constant acceleration", "Constant distance"],
+"correct": 2
+},
+{
+"q": "Why must axis labels on a scientific graph always include both the quantity name and its unit (e.g., Force / N)?",
+"a": ["To decorate the page", "To make numbers look larger", "To satisfy art curriculum rules", "To ensure clarity and allow correct interpretation of the plotted values"],
+"correct": 3
+},
+{
+"q": "What does a horizontal flat line on a speed-time graph signify?",
+"a": ["Constant speed (zero acceleration)", "Stationary position", "Rapidly increasing speed", "Reversing direction"],
+"correct": 0
+},
+{
+"q": "How can you find the speed of an object at a specific instant from a curved distance-time graph?",
+"a": ["Read the y-value directly", "Draw a tangent to the curve at that point and calculate its gradient", "Multiply distance by time", "Calculate the area under the curve"],
+"correct": 1
+},
+{
+"q": "What does a scatter graph with points showing no clear pattern or trend indicate?",
+"a": ["Perfect direct proportionality", "An inverse relationship", "No correlation or relationship between the two variables", "Maximum experimental accuracy"],
+"correct": 2
+},
+{
+"q": "When plotting points on graph paper, what symbol is standard practice for marking each data point?",
+"a": ["Large colored blobs", "Thick marker circles", "Random letters", "Small, neat crosses (X) or sharp dots (.)"],
+"correct": 3
+},
+{
+"q": "What does a non-linear curve on a current-voltage graph for a filament lamp indicate about its resistance?",
+"a": ["Resistance is changing (increasing as current and temperature rise)", "Resistance is strictly zero", "Resistance remains perfectly constant", "Ohm's law is obeyed perfectly"],
+"correct": 0
+},
+{
+"q": "If the graph of variable A against variable B is a straight line that does not pass through the origin (has a y-intercept), what does this prove?",
+"a": ["Variable A is zero when B is zero.", "Variable A is directly proportional to variable B.", "Variable A is linearly related to variable B, but they are not directly proportional.", "The experiment is invalid."],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of drawing a line of best fit rather than connecting every dot with jagged lines?",
+"a": ["To make the graph look artistic", "To hide mistakes", "To show the general underlying trend while smoothing out random experimental errors", "To make calculation impossible"],
+"correct": 2
+},
+{
+"q": "What does a straight line sloping downwards from left to right on a distance-time graph represent?",
+"a": ["An object accelerating forward", "An object stopped", "An object gaining mass", "An object moving backward towards its starting position at constant speed"],
+"correct": 3
+},
+{
+"q": "How should scale intervals on graph axes be chosen when setting up grid paper?",
+"a": ["Using simple, easy-to-divide scales like multiples of 1, 2, or 5 (avoiding awkward divisions like 3 or 7)", "Using whatever spacing fits the first three numbers", "Making intervals completely random", "Making the x-axis scale different for every single grid square"],
+"correct": 0
+},
+{
+"q": "What does the gradient of a distance-time graph represent?",
+"a": ["Acceleration", "Speed", "Force", "Power"],
+"correct": 1
+},
+{
+"q": "If you calculate the gradient of a line on a graph where the y-axis is distance (m) and the x-axis is time (s), what physical quantity does the numerical value represent?",
+"a": ["Mass", "Force", "Speed", "Energy"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a direct proportion relationship between two variables, x and y?",
+"a": ["As x increases, y decreases exponentially.", "As x increases, y stays completely constant.", "x plus y equals zero.", "As x increases, y increases at a constant rate, and the graph is a straight line through the origin."],
+"correct": 3
+},
+{
+"q": "What should be done with an obvious outlier (anomalous point) when drawing a line of best fit on a graph?",
+"a": ["Ignore the outlier, do not let it influence the line, and exclude it from gradient calculations", "Force the line of best fit to bend sharply to touch it", "Multiply its value by two", "Make it the origin point of the graph"],
+"correct": 0
+},
+{
+"q": "What does a curved line on a distance-time graph indicate?",
+"a": ["Constant stationary position", "Changing speed (acceleration or deceleration)", "Negative mass", "Uniform velocity"],
+"correct": 1
+},
+{
+"q": "If the graph of y versus x is a straight line with a positive y-intercept, what is the mathematical equation representing this line?",
+"a": ["y = mx", "y = c divided by x", "y = mx + c", "y = x squared"],
+"correct": 2
+},
+{
+"q": "Why is graphical analysis often preferred over calculating a single average ratio from data pairs?",
+"a": ["It takes less time", "It uses more ink", "It looks more colorful", "It uses all available data points to establish a trend, reducing the effect of random errors"],
+"correct": 3
+}
+]
+}

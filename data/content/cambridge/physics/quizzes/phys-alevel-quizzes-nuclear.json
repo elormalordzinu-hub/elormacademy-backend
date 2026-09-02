@@ -1,0 +1,406 @@
+{
+  "id": "phys-alevel-quizzes-nuclear",
+  "name": "Nuclear physics and binding energy",
+  "questions": [
+    {
+      "q": "What is defined as the mass defect of a nucleus?",
+      "a": [
+        "The difference between the total mass of the individual separated nucleons and the rest mass of the intact nucleus",
+        "The mass of the orbiting electrons combined with the nucleus",
+        "The total mass of protons minus the mass of neutrons",
+        "The mass lost during radioactive beta decay"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What does nuclear binding energy represent?",
+      "a": [
+        "The energy released when an electron is captured by a nucleus",
+        "The minimum energy required to separate all the nucleons of a nucleus completely to infinity",
+        "The kinetic energy of alpha particles emitted during decay",
+        "The electrostatic repulsion energy between protons"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "How is the binding energy per nucleon related to the stability of a nucleus?",
+      "a": [
+        "Lower binding energy per nucleon indicates higher nuclear stability",
+        "Nuclear stability is independent of binding energy per nucleon",
+        "Higher binding energy per nucleon indicates greater nuclear stability",
+        "Zero binding energy per nucleon represents the most stable configuration"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Which nuclide possesses the highest binding energy per nucleon, making it the most stable nucleus in nature?",
+      "a": [
+        "Hydrogen-1",
+        "Uranium-238",
+        "Helium-4",
+        "Iron-56"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is nuclear fission?",
+      "a": [
+        "The splitting of a heavy, unstable nucleus into two lighter, more stable nuclei accompanied by a release of energy",
+        "The fusion of two hydrogen atoms to form helium",
+        "The emission of an alpha particle from a radioactive isotope",
+        "The conversion of a proton into a neutron via beta-plus decay"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is nuclear fusion?",
+      "a": [
+        "The radioactive breakdown of heavy elements into lead",
+        "The joining of two light nuclei to form a heavier, more stable nucleus with the release of energy",
+        "The absorption of thermal neutrons by uranium-235",
+        "The splitting of a nucleus due to high electrostatic forces"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Why do nuclear fusion reactions require extremely high temperatures and pressures?",
+      "a": [
+        "To reduce the mass of the nucleons to zero",
+        "To ionize all surrounding atoms completely",
+        "To provide nuclei with enough kinetic energy to overcome the strong electrostatic repulsion between positively charged nuclei",
+        "To prevent neutrons from escaping the reaction chamber"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the unified atomic mass unit (u) approximately equal to in kilograms?",
+      "a": [
+        "9.11 × 10⁻³¹ kg",
+        "1.60 × 10⁻¹⁹ kg",
+        "6.02 × 10²³ kg",
+        "1.66 × 10⁻²⁷ kg"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the energy equivalent of 1 unified atomic mass unit (1 u) in mega-electronvolts (MeV)?",
+      "a": [
+        "931.5 MeV",
+        "0.511 MeV",
+        "13.6 MeV",
+        "3.00 × 10⁸ MeV"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary mechanism that holds nucleons together inside an atomic nucleus despite the electrostatic repulsion between protons?",
+      "a": [
+        "Gravitational attraction",
+        "The strong nuclear force",
+        "Magnetic dipole interactions",
+        "Centripetal acceleration"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following characteristics describes the strong nuclear force?",
+      "a": [
+        "It has an infinite range similar to gravity",
+        "It is repulsive at all distances between nucleons",
+        "It is attractive at distances of a few femtometres (fm) and becomes extremely repulsive at separations less than about 0.5 fm",
+        "It acts equally on electrons, protons, and neutrons"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is radioactive decay characterized by?",
+      "a": [
+        "A completely controllable rate dependent on external temperature and pressure",
+        "A predictable deterministic lifetime for each individual nucleus",
+        "An exponential rate that depends on chemical bonding",
+        "A random and spontaneous process where each nucleus in a radioactive sample has a constant probability of decay per unit time"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the decay constant λ of a radioactive isotope defined as?",
+      "a": [
+        "The probability of decay of a given nucleus per unit time",
+        "The total number of atoms remaining in the sample",
+        "The half-life of the radioactive substance",
+        "The activity divided by the square of the mass"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "How is the half-life t₁₉₂ of a radioactive isotope related to its decay constant λ?",
+      "a": [
+        "t₁₉₂ = λ / ln(2)",
+        "t₁₉₂ = ln(2) / λ",
+        "t₁₉₂ = λ × ln(2)",
+        "t₁₉₂ = 1 / (λ² × ln(2))"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the mathematical relationship governing radioactive decay over time t, where N₀ is the initial number of nuclei?",
+      "a": [
+        "N = N₀ × e^(λ × t)",
+        "N = N₀ × (1 - e^(-λ × t))",
+        "N = N₀ × e^(-λ × t)",
+        "N = N₀ - λ × t"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the activity A of a radioactive source defined as?",
+      "a": [
+        "The total mass of radioactive material remaining",
+        "The kinetic energy released per unit time",
+        "The half-life multiplied by the number of active nuclei",
+        "The rate of decay of radioactive nuclei (number of disintegrations per unit time, A = λ × N)"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the SI unit of activity for a radioactive source?",
+      "a": [
+        "Becquerel (Bq), equivalent to one decay per second",
+        "Curie (Ci)",
+        "Gray (Gy)",
+        "Sievert (Sv)"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "During alpha decay of a heavy nucleus, what change occurs in the proton number Z and nucleon number A?",
+      "a": [
+        "Z decreases by 2, A remains unchanged",
+        "Z decreases by 2, A decreases by 4",
+        "Z increases by 1, A decreases by 1",
+        "Z and A both remain unchanged"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What occurs during beta-minus (β⁻) decay within the nucleus?",
+      "a": [
+        "A positron and an electron neutrino are emitted",
+        "A proton is converted into a neutron, a positron, and a neutrino",
+        "A neutron is converted into a proton, an electron, and an electron antineutrino",
+        "An alpha particle is captured by the nucleus"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is emitted during gamma-ray emission from an excited atomic nucleus?",
+      "a": [
+        "A high-speed electron",
+        "A helium-4 nucleus",
+        "A high-speed positron",
+        "A high-energy electromagnetic photon"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the mass defect of a carbon-12 nucleus given that the mass of a carbon-12 atom is 12.00000 u, the mass of a proton is 1.00728 u, and the mass of a neutron is 1.00866 u?",
+      "a": [
+        "0.09896 u",
+        "0.05432 u",
+        "0.12450 u",
+        "1.00120 u"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Why do heavier nuclei (with Z > 82) tend to undergo alpha or beta radioactive decay?",
+      "a": [
+        "They have too few nucleons to maintain any structure",
+        "The electrostatic repulsion between a large number of protons outweighs the short-range attractive strong nuclear force, making them unstable",
+        "Neutrons become heavier than protons at high atomic numbers",
+        "Electrons in inner shells pull the nucleus apart"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "A radioactive isotope has a half-life of 4.0 hours. What fraction of the original undecayed nuclei remains after 12 hours?",
+      "a": [
+        "1/4",
+        "1/6",
+        "1/8",
+        "1/16"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the decay constant of a radioactive substance with a half-life of 8.0 days?",
+      "a": [
+        "0.0866 day⁻¹",
+        "0.693 day⁻¹",
+        "1.155 day⁻¹",
+        "0.0866 day⁻¹"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is background radiation?",
+      "a": [
+        "The constant low-level ionizing radiation present in the environment from natural and artificial sources",
+        "Radiation emitted solely by nuclear power plants",
+        "Cosmic rays that are completely blocked by the Earth's atmosphere",
+        "Thermal radiation emitted by hot objects"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is a natural source of background ionizing radiation?",
+      "a": [
+        "Diagnostic X-ray machines",
+        "Radon gas emitted from rocks and soil",
+        "Nuclear weapon testing fallout",
+        "Radiotherapy cancer treatments"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the main reason why nuclear fusion produces more energy per nucleon than nuclear fission?",
+      "a": [
+        "Fusion involves heavier elements with negative mass",
+        "Fission destroys all nucleons completely",
+        "The increase in binding energy per nucleon when combining light nuclei is significantly greater than the increase when splitting very heavy nuclei",
+        "Fusion releases neutrinos instead of photons"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What type of radioactive radiation has the highest ionizing power and shortest penetration range in air?",
+      "a": [
+        "Gamma-rays",
+        "X-rays",
+        "Beta-particles",
+        "Alpha-particles"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What experimental evidence from Rutherford's alpha particle scattering experiment led to the discovery of the atomic nucleus?",
+      "a": [
+        "A small fraction of alpha particles were deflected through large angles, and a very few bounced straight back, indicating a dense, positively charged central core",
+        "All alpha particles passed straight through without any deviation",
+        "Alpha particles caused electrons to be ejected from orbits",
+        "Alpha particles were absorbed entirely by the gold atoms"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What is the approximate nuclear density of matter across different stable nuclides?",
+      "a": [
+        "1.0 × 10³ kg m⁻³",
+        "1.4 × 10¹⁷ kg m⁻³",
+        "5.5 × 10³ kg m⁻³",
+        "3.0 × 10²² kg m⁻³"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the radius r of a nucleus with nucleon number A related to the nucleon radius constant r₀ (approx. 1.2 fm)?",
+      "a": [
+        "r = r₀ × A",
+        "r = r₀ / A^(1/3)",
+        "r = r₀ × A^(1/3)",
+        "r = r₀ × A³"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "In a nuclear fission reactor, what is the purpose of control rods (such as boron or cadmium)?",
+      "a": [
+        "To slow down fast neutrons to thermal energies",
+        "To cool the reactor core by absorbing thermal energy",
+        "To reflect escaping neutrons back into the fuel core",
+        "To absorb neutrons and regulate the chain reaction rate"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the purpose of a moderator (such as graphite or heavy water) in a thermal nuclear fission reactor?",
+      "a": [
+        "To slow down fast fission neutrons through elastic collisions so they can be captured efficiently by uranium-235 nuclei",
+        "To accelerate fuel rods",
+        "To absorb excess gamma radiation",
+        "To convert steam directly into electricity"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What characterizes beta-plus (β⁺) decay?",
+      "a": [
+        "A neutron transforms into a proton, emitting an electron",
+        "A proton in a proton-rich nucleus transforms into a neutron, a positron, and an electron neutrino",
+        "An orbital electron is captured by the nucleus",
+        "An alpha particle is absorbed by a proton"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is electron capture?",
+      "a": [
+        "A nucleus captures a free neutron from space",
+        "A high-speed electron collides with an atomic nucleus and splits it",
+        "A nucleus absorbs an inner-shell orbital electron, transforming a proton into a neutron and releasing a neutrino",
+        "An electron is bound permanently in an excited nucleus"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "Why is carbon-14 dating effective for determining the age of ancient organic archaeological specimens?",
+      "a": [
+        "Carbon-14 has a half-life of billions of years",
+        "Living organisms actively ingest carbon-14 maintaining a constant ratio, but upon death, uptake ceases and the carbon-14 decays at a known half-life rate (5730 years)",
+        "Carbon-14 concentration in the atmosphere increases exponentially over time",
+        "Carbon-14 is stable in dead tissue but radioactive in living tissue"
+      ],
+      "correct": 3
+    },
+    {
+      "q": "What is the total binding energy of a nucleus of helium-4 (⁴₂He), given its mass defect is 0.0304 u?",
+      "a": [
+        "28.3 MeV (0.0304 u × 931.5 MeV/u)",
+        "4.2 MeV",
+        "14.1 MeV",
+        "931.5 MeV"
+      ],
+      "correct": 0
+    },
+    {
+      "q": "What safety precaution is essential when handling sources of ionizing radiation in a school laboratory?",
+      "a": [
+        "Using bare hands to hold sources for maximum dexterity",
+        "Using long-handled tongs, storing sources in lead-lined containers, and minimizing exposure time",
+        "Increasing room temperature to speed up decay",
+        "Looking directly at the open source to verify position"
+      ],
+      "correct": 1
+    },
+    {
+      "q": "What is the role of shielding (such as thick concrete or lead walls) around a nuclear reactor?",
+      "a": [
+        "To generate additional electricity from thermal losses",
+        "To slow down fast neutrons",
+        "To absorb high-energy neutrons and penetrating gamma-radiation, protecting operators and the environment",
+        "To prevent the reactor vessel from expanding"
+      ],
+      "correct": 2
+    },
+    {
+      "q": "What is the atomic number Z and nucleon number A of the daughter nucleus produced when thorium-232 undergoes alpha decay?",
+      "a": [
+        "Z = 92, A = 232",
+        "Z = 90, A = 232",
+        "Z = 88, A = 230",
+        "Z = 88, A = 228"
+      ],
+      "correct": 3
+    }
+  ]
+}

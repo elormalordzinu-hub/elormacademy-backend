@@ -1,0 +1,206 @@
+{
+  "id": "math-yr8-quizzes-circles",
+  "name": "Circles circumference and area",
+  "questions": [
+    {
+      "q": "What is the formula for the circumference of a circle given its radius r?",
+      "a": ["2πr", "πr²", "πr", "2πr²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the area of a circle with a radius of 7 cm? (Use π = 22 / 7)",
+      "a": ["44 cm²", "154 cm²", "88 cm²", "308 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the circumference of a circle with a diameter of 14 cm. (Use π = 22 / 7)",
+      "a": ["22 cm", "88 cm", "44 cm", "154 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the radius of a circle if its circumference is 31.4 cm? (Use π = 3.14)",
+      "a": ["100 cm", "10 cm", "2.5 cm", "5 cm"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate the area of a circle with a diameter of 10 cm. (Use π = 3.14)",
+      "a": ["78.5 cm²", "31.4 cm²", "157 cm²", "314 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "If the radius of a circle is doubled, what happens to its area?",
+      "a": ["It is doubled", "It is multiplied by 4", "It is halved", "It remains the same"],
+      "correct": 1
+    },
+    {
+      "q": "A circular garden has a radius of 3.5 meters. What is its circumference? (Use π = 22 / 7)",
+      "a": ["11 meters", "38.5 meters", "22 meters", "77 meters"],
+      "correct": 2
+    },
+    {
+      "q": "What is the area of a semicircle with a radius of 6 cm? (Use π = 3.14)",
+      "a": ["113.04 cm²", "37.68 cm²", "18.84 cm²", "56.52 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "Find the perimeter of a quarter circle (quadrant) with a radius of 14 cm. (Use π = 22 / 7)",
+      "a": ["50 cm", "77 cm", "44 cm", "22 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If the circumference of a circle is 66 cm, what is its diameter? (Use π = 22 / 7)",
+      "a": ["10.5 cm", "21 cm", "42 cm", "33 cm"],
+      "correct": 1
+    },
+    {
+      "q": "What is the radius of a circle whose area is 616 cm²? (Use π = 22 / 7)",
+      "a": ["7 cm", "28 cm", "14 cm", "21 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A bicycle wheel has a diameter of 70 cm. How far does it travel in 100 complete rotations? (Use π = 22 / 7)",
+      "a": ["22 meters", "70 meters", "154 meters", "220 meters"],
+      "correct": 3
+    },
+    {
+      "q": "What is the area of a ring (annulus) formed by an outer radius of 10 cm and an inner radius of 6 cm? (Use π = 3.14)",
+      "a": ["200.96 cm²", "50.24 cm²", "314.16 cm²", "113.04 cm²"],
+      "correct": 0
+    },
+    {
+      "q": "Calculate the perimeter of a semicircle with a diameter of 20 cm. (Use π = 3.14)",
+      "a": ["31.4 cm", "51.4 cm", "62.8 cm", "41.4 cm"],
+      "correct": 1
+    },
+    {
+      "q": "If the area of a circle is 78.5 cm², what is its radius? (Use π = 3.14)",
+      "a": ["2.5 cm", "10 cm", "5 cm", "25 cm"],
+      "correct": 2
+    },
+    {
+      "q": "A running track consists of two straight sections of 100 meters and two semicircles with a diameter of 63 meters. What is the total length of the inner track? (Use π = 22 / 7)",
+      "a": ["200 meters", "263 meters", "326 meters", "398 meters"],
+      "correct": 3
+    },
+    {
+      "q": "What is the exact circumference of a circle with a radius of 9 cm in terms of π?",
+      "a": ["18π cm", "9π cm", "81π cm", "36π cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the area of a sector of a circle with a radius of 12 cm and an angle of 90°? (Use π = 3.14)",
+      "a": ["37.68 cm²", "113.04 cm²", "226.08 cm²", "18.84 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "Find the arc length of a sector with a radius of 20 cm and an angle of 60°. (Use π = 3.14)",
+      "a": ["10.47 cm", "20.93 cm", "20.94 cm", "62.8 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If a circle has a circumference of 44 cm, what is its area? (Use π = 22 / 7)",
+      "a": ["616 cm²", "154 cm²", "308 cm²", "154 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "A lawn sprinkler sprays water in a circular pattern with a maximum reach of 8 meters. What is the area of the watered lawn? (Use π = 3.14)",
+      "a": ["200.96 m²", "50.24 m²", "100.48 m²", "25.12 m²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the radius of a circle if its area is 50.24 cm²? (Use π = 3.14)",
+      "a": ["2 cm", "4 cm", "8 cm", "16 cm"],
+      "correct": 1
+    },
+    {
+      "q": "A circular pond has a path around it of uniform width 2 meters. If the radius of the pond is 5 meters, what is the area of the path alone? (Use π = 3.14)",
+      "a": ["78.5 m²", "153.86 m²", "75.36 m²", "113.04 m²"],
+      "correct": 2
+    },
+    {
+      "q": "How many complete rotations does a wheel of diameter 50 cm make when traveling a distance of 157 meters? (Use π = 3.14)",
+      "a": ["50 rotations", "500 rotations", "200 rotations", "100 rotations"],
+      "correct": 3
+    },
+    {
+      "q": "What is the perimeter of a sector of a circle with radius 10 cm and angle 90°? (Use π = 3.14)",
+      "a": ["35.7 cm", "15.7 cm", "25.7 cm", "31.4 cm"],
+      "correct": 0
+    },
+    {
+      "q": "If the diameter of a circle is increased by 100%, by what percentage does its area increase?",
+      "a": ["100%", "300%", "200%", "400%"],
+      "correct": 1
+    },
+    {
+      "q": "Calculate the area of a circle whose circumference is 18.84 cm. (Use π = 3.14)",
+      "a": ["113.04 cm²", "9.42 cm²", "28.26 cm²", "37.68 cm²"],
+      "correct": 2
+    },
+    {
+      "q": "A sector has an area of 15.7 cm² and a radius of 5 cm. What is the angle of the sector? (Use π = 3.14)",
+      "a": ["45°", "60°", "90°", "72°"],
+      "correct": 3
+    },
+    {
+      "q": "What is the length of the arc of a semicircle with a radius of 7 cm? (Use π = 22 / 7)",
+      "a": ["22 cm", "44 cm", "14 cm", "11 cm"],
+      "correct": 0
+    },
+    {
+      "q": "A square of side length 14 cm has a circle inscribed inside it. What is the area of the region inside the square but outside the circle? (Use π = 22 / 7)",
+      "a": ["42 cm²", "196 cm²", "154 cm²", "84 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "What is the radius of a circular track if running around it 5 times gives a total distance of 1.1 km? (Use π = 22 / 7)",
+      "a": ["17.5 meters", "70 meters", "35 meters", "140 meters"],
+      "correct": 2
+    },
+    {
+      "q": "If the ratio of the radii of two circles is 2 : 3, what is the ratio of their areas?",
+      "a": ["2 : 3", "4 : 6", "8 : 27", "4 : 9"],
+      "correct": 3
+    },
+    {
+      "q": "A chord of length 12 cm is 8 cm away from the center of a circle. What is the radius of the circle?",
+      "a": ["10 cm", "14 cm", "20 cm", "√208 cm"],
+      "correct": 0
+    },
+    {
+      "q": "What is the exact area of a circle with a diameter of 16 cm in terms of π?",
+      "a": ["16π cm²", "64π cm²", "256π cm²", "8π cm²"],
+      "correct": 1
+    },
+    {
+      "q": "A pendulum swings through an arc of 30°. If the length of the pendulum is 42 cm, what is the length of the arc it traces? (Use π = 22 / 7)",
+      "a": ["11 cm", "22 cm", "22 cm", "44 cm"],
+      "correct": 2
+    },
+    {
+      "q": "If a circular pizza of diameter 30 cm is cut into 8 equal slices, what is the top surface area of one slice? (Use π = 3.14)",
+      "a": ["353.25 cm²", "88.31 cm²", "176.625 cm²", "44.15 cm²"],
+      "correct": 3
+    },
+    {
+      "q": "What is the diameter of a circle whose area equals its circumference numerically?",
+      "a": ["4 units", "2 units", "π units", "8 units"],
+      "correct": 0
+    },
+    {
+      "q": "A circular metal plate has a radius of 15 cm. A hole of radius 3 cm is drilled in the center. What is the remaining surface area of the plate? (Use π = 3.14)",
+      "a": ["678.24 cm²", "633.03 cm²", "706.5 cm²", "565.2 cm²"],
+      "correct": 1
+    },
+    {
+      "q": "If the circumference of a circle increases from 10π cm to 20π cm, by how much does its radius increase?",
+      "a": ["10 cm", "2.5 cm", "5 cm", "20 cm"],
+      "correct": 2
+    },
+    {
+      "q": "What is the angle of a sector with radius 10 cm and arc length 15.7 cm? (Use π = 3.14)",
+      "a": ["45°", "60°", "120°", "90°"],
+      "correct": 3
+    }
+  ]
+}

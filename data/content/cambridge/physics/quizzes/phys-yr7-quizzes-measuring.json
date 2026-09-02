@@ -1,0 +1,166 @@
+{
+"id": "phys-yr7-quizzes-measuring",
+"name": "Measuring length time and mass",
+"questions": [
+{
+"q": "When measuring the length of a table using a metre rule, why should the rule be placed directly against the object?",
+"a": ["To avoid parallax error and ensure accuracy", "To make the table heavier", "To increase the temperature", "To prevent the ruler from bending"],
+"correct": 0
+},
+{
+"q": "What is the correct method to find the thickness of a single sheet of paper using a ruler if a single sheet is too thin to measure accurately?",
+"a": ["Measure one sheet with a kitchen scale", "Measure a thick stack of 100 sheets and divide the total thickness by 100", "Multiply the thickness of a book by 10", "Estimate it visually"],
+"correct": 1
+},
+{
+"q": "How can a student minimize reaction-time error when timing a swinging pendulum with a stopwatch?",
+"a": ["Stop timing after just one swing", "Start the stopwatch after 50 swings", "Time multiple swings (e.g., 20 or 50 swings) and divide the total time by the number of swings", "Use a digital clock on the wall"],
+"correct": 2
+},
+{
+"q": "Which instrument is most accurate for measuring small masses in a school science laboratory, such as chemicals for an experiment?",
+"a": ["A bathroom scale", "A spring balance", "A heavy-duty floor scale", "An electronic top-pan balance"],
+"correct": 3
+},
+{
+"q": "What is the proper eye position when reading the meniscus level of water in a measuring cylinder?",
+"a": ["Eye level with the bottom of the meniscus", "Looking down sharply from above", "Looking up from underneath the table", "It does not matter where you look"],
+"correct": 0
+},
+{
+"q": "If a metre rule has worn-out ends starting slightly away from the 0 cm mark, what is the best practice for measuring an object's length?",
+"a": ["Start measuring from the worn 0 cm mark anyway", "Start measuring from a clear whole number like 1.0 cm and subtract that value from the final reading", "Add 5 cm to every measurement", "Throw the ruler away and guess"],
+"correct": 1
+},
+{
+"q": "What instrument is commonly used to find the diameter of a cylindrical object like a test tube or coin?",
+"a": ["A thermometer", "A stopwatch", "Vernier callipers", "A spring balance"],
+"correct": 2
+},
+{
+"q": "Why do scientists take multiple repeat readings during an experiment when measuring length, time, or mass?",
+"a": ["To waste time", "To use up all the lab equipment", "To make the calculations more complicated", "To calculate an average and reduce the effect of random experimental errors"],
+"correct": 3
+},
+{
+"q": "What is the term for the curved upper surface of a liquid inside a narrow glass measuring cylinder?",
+"a": ["Meniscus", "Vertex", "Radius", "Crest"],
+"correct": 0
+},
+{
+"q": "When measuring the volume of an irregularly shaped small stone using a measuring cylinder, what liquid is typically used?",
+"a": ["Concentrated acid", "Water", "Hot cooking oil", "Liquid nitrogen"],
+"correct": 1
+},
+{
+"q": "If 20 oscillations of a pendulum take 40 seconds, what is the period (time for one complete oscillation)?",
+"a": ["0.5 seconds", "40 seconds", "2.0 seconds", "800 seconds"],
+"correct": 2
+},
+{
+"q": "What is zero error on a measuring instrument?",
+"a": ["When the instrument runs out of power", "When the instrument is completely broken", "When the measured object has a mass of zero", "When the instrument does not read zero when it should before a measurement is taken"],
+"correct": 3
+},
+{
+"q": "Which unit is standard for expressing time intervals in laboratory timing experiments?",
+"a": ["Second (s)", "Hour (h)", "Day (d)", "Century"],
+"correct": 0
+},
+{
+"q": "How do you find the volume of an irregular solid using displacement water method?",
+"a": ["Multiply length by width by height", "Subtract initial water level from the final water level after submerging the object", "Weigh the object on a balance", "Divide mass by temperature"],
+"correct": 1
+},
+{
+"q": "Which of these precautions helps prevent parallax error when reading a meter scale?",
+"a": ["Squinting your eyes", "Wearing safety goggles", "Placing the eye perpendicular to the scale mark being read", "Turning off the laboratory lights"],
+"correct": 2
+},
+{
+"q": "What is the typical resolution (smallest division) on a standard school metre rule?",
+"a": ["1 metre", "1 centimetre", "0.1 decimetre", "1 millimetre"],
+"correct": 3
+},
+{
+"q": "If you measure the length of a pen five times and get values 14.2 cm, 14.3 cm, 14.2 cm, 14.1 cm, and 14.2 cm, what is the best estimated length to record?",
+"a": ["14.2 cm", "14.3 cm", "14.1 cm", "14.5 cm"],
+"correct": 0
+},
+{
+"q": "What property of matter does a balance measure directly?",
+"a": ["Volume", "Mass", "Speed", "Pressure"],
+"correct": 1
+},
+{
+"q": "Why is it important to let a pendulum swing freely without obstruction during time measurements?",
+"a": ["To make it look nice", "To increase air resistance", "To ensure consistent motion without energy loss from bumping into obstacles", "To change its mass"],
+"correct": 2
+},
+{
+"q": "When using a top-pan electronic balance, what should you press before placing your sample and container on it to ensure only the sample mass is measured?",
+"a": ["The power switch", "The maximum limit button", "The calibration lock", "The 'tare' or 'zero' button"],
+"correct": 3
+},
+{
+"q": "What is the standard unit of mass used in scientific calculations?",
+"a": ["Kilogram", "Gram", "Milligram", "Tonne"],
+"correct": 0
+},
+{
+"q": "If water curves upwards at the edges in a glass container, what shape does the meniscus form?",
+"a": ["Convex meniscus", "Concave meniscus", "Flat surface", "Spherical bubble"],
+"correct": 1
+},
+{
+"q": "How would you determine the average diameter of a single wire if it is too thin to measure accurately with a regular ruler?",
+"a": ["Weigh it on a scale", "Measure its length", "Wrap the wire tightly around a pencil 10 times, measure the total width of the coils, and divide by 10", "Multiply the length by 100"],
+"correct": 2
+},
+{
+"q": "What is a major source of error when timing a short event like a 50-metre dash manually with a stopwatch?",
+"a": ["The wind speed", "The color of the stopwatch", "The temperature of the room", "Human reaction time in starting and stopping the watch"],
+"correct": 3
+},
+{
+"q": "Which of the following is an example of an instrument used to measure length?",
+"a": ["Metre rule", "Stopwatch", "Thermometer", "Amphometer"],
+"correct": 0
+},
+{
+"q": "If 50 coins are stacked together and their total height is measured as 10 cm, what is the thickness of one coin?",
+"a": ["0.05 cm", "0.2 cm", "2.0 cm", "5.0 cm"],
+"correct": 1
+},
+{
+"q": "What physical quantity does a graduated cylinder measure?",
+"a": ["Mass", "Time", "Volume of liquids or irregular solids", "Force"],
+"correct": 2
+},
+{
+"q": "When setting up an experiment to measure the period of a pendulum, what string length is typically measured from the point of suspension to?",
+"a": ["The top of the string", "The middle of the knot", "The bottom of the support stand", "The center of mass of the pendulum bob"],
+"correct": 3
+},
+{
+"q": "What is the primary reason for repeating measurements in an experiment?",
+"a": ["To identify anomalous results and improve reliability", "To consume extra chemicals", "To practice writing numbers", "To make the report longer"],
+"correct": 0
+},
+{
+"q": "If a measuring cylinder initially contains 50 cm³ of water, and an object dropped inside raises the water level to 75 cm³, what is the volume of the object?",
+"a": ["125 cm³", "25 cm³", "50 cm³", "75 cm³"],
+"correct": 1
+},
+{
+"q": "Which of the following errors occurs when the eye is not properly aligned with the graduation mark on a ruler?",
+"a": ["Zero error", "Random error", "Parallax error", "Systematic calibration error"],
+"correct": 2
+},
+{
+"q": "What is the most suitable unit for recording the mass of a small iron nail in the laboratory?",
+"a": ["Kilograms", "Tonnes", "Milligrams", "Grams"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "chem-yr9-quizzes-reactions",
+  "name": "Types of reactions precipitation and displacement",
+  "questions": [
+    {
+      "q": "What is a precipitation reaction?",
+      "a": ["A reaction where mixing two soluble salt solutions produces an insoluble solid product (precipitate)", "A reaction where rain falls outdoors", "A reaction where a gas bubbles out of solution", "A reaction where metals melt into liquids"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the solid product that settles out of solution during a precipitation reaction?",
+      "a": ["A filtrate", "A precipitate", "A distillate", "A solute"],
+      "correct": 1
+    },
+    {
+      "q": "What is a displacement reaction?",
+      "a": ["A reaction where two liquids swap colors", "A reaction where gases expand in volume", "A reaction where a more reactive element displaces a less reactive element from a compound", "A reaction where solids turn into gases"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when a piece of zinc metal is placed into a solution of copper(II) sulfate?",
+      "a": ["Nothing happens", "Zinc sinks and turns into gold", "Copper metal dissolves into a gas", "Zinc displaces copper, depositing brown copper metal and forming colorless zinc sulfate solution"],
+      "correct": 3
+    },
+    {
+      "q": "Why will copper metal *not* react with a solution of zinc sulfate?",
+      "a": ["Copper is less reactive than zinc, so it cannot displace zinc from its compound", "Copper is a gas", "Zinc sulfate is insoluble", "Copper is too cold"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is an example of a precipitation reaction when mixing two solutions?",
+      "a": ["Mixing sodium chloride and water", "Mixing aqueous silver nitrate with aqueous sodium chloride to form insoluble silver chloride", "Melting ice cubes in a beaker", "Dissolving sugar in hot tea"],
+      "correct": 1
+    },
+    {
+      "q": "In the reactivity series of metals, how does reactivity generally change as you move down the group of alkali metals or down column trends?",
+      "a": ["Reacts less vigorously", "Stays constant", "Reactivity increases down Group 1", "Metals turn into non-metals"],
+      "correct": 2
+    },
+    {
+      "q": "What is observed visually when aqueous lead(II) nitrate is mixed with aqueous potassium iodide?",
+      "a": ["A bright blue gas forms", "The solution becomes magnetic", "A white fizzing sound occurs", "A bright yellow precipitate of lead(II) iodide instantly forms"],
+      "correct": 3
+    },
+    {
+      "q": "What is the role of solubility rules in chemistry?",
+      "a": ["To predict whether a specific ionic salt is soluble or insoluble in water, helping identify precipitates", "To determine the boiling point of gases", "To measure electrical voltage", "To calculate atomic masses"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following metal displacement reactions will take place spontaneously?",
+      "a": ["Silver metal added to copper(II) sulfate solution", "Magnesium metal added to copper(II) sulfate solution", "Copper metal added to iron(II) sulfate solution", "Gold metal added to zinc sulfate solution"],
+      "correct": 1
+    },
+    {
+      "q": "What term is used to describe ions that do not change or participate in a precipitation reaction?",
+      "a": ["Precipitate ions", "Reactive ions", "Spectator ions", "Catalyst ions"],
+      "correct": 2
+    },
+    {
+      "q": "When chlorine gas is bubbled into a solution of potassium bromide, what type of reaction occurs and what is observed?",
+      "a": ["Precipitation; a white solid settles", "Neutralization; water and salt form", "Thermal decomposition; bubbles of steam appear", "Halogen displacement; the solution turns orange-brown as bromine is displaced"],
+      "correct": 3
+    },
+    {
+      "q": "Why does a displacement reaction occur between a reactive metal and a metal salt solution?",
+      "a": ["The more reactive metal has a greater tendency to lose electrons and form positive ions than the less reactive metal", "The solutions are magnetic", "Heat is absorbed from the air", "Gravity pulls heavy atoms down"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following compounds is generally *insoluble* in water according to standard solubility rules?",
+      "a": ["Sodium chloride", "Silver chloride", "Potassium nitrate", "Magnesium sulfate"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed during the thermite reaction, which is a dramatic displacement reaction between aluminum powder and iron(III) oxide?",
+      "a": ["Cold liquid water", "Pure aluminum gas", "Molten iron metal and aluminum oxide", "Zinc sulfate crystals"],
+      "correct": 2
+    },
+    {
+      "q": "In an ionic equation for a precipitation reaction, what does the inclusion of states like (aq) and (s) highlight?",
+      "a": ["That the temperature is 100°C", "That gases are burning", "That color changes are permanent", "That soluble ions react to form an insoluble solid precipitate (s)"],
+      "correct": 3
+    },
+    {
+      "q": "If you mix barium chloride solution with dilute sulfuric acid, what insoluble white precipitate is formed?",
+      "a": ["Barium sulfate", "Sodium chloride", "Hydrogen gas", "Copper hydroxide"],
+      "correct": 0
+    },
+    {
+      "q": "Why can carbon be used in blast furnaces to displace iron from iron oxide ores?",
+      "a": ["Carbon is a liquid metal", "Carbon is more reactive than iron and can reduce iron oxides by taking away oxygen", "Carbon is magnetic", "Iron is a noble gas"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the color of a copper(II) sulfate solution when a strip of magnesium ribbon is placed in it?",
+      "a": ["It turns dark purple", "It boils instantly", "The blue color fades as copper ions are removed from solution and copper metal coats the magnesium", "It turns radioactive green"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following halogen displacement reactions will *not* occur?",
+      "a": ["Chlorine water + potassium bromide solution", "Bromine water + potassium iodide solution", "Chlorine water + potassium iodide solution", "Iodine solution + potassium chloride solution"],
+      "correct": 3
+    },
+    {
+      "q": "What experimental technique is used to separate an insoluble precipitate from the liquid mixture after a precipitation reaction?",
+      "a": ["Filtration", "Fractional distillation", "Magnetic separation", "Chromatography"],
+      "correct": 0
+    },
+    {
+      "q": "When sodium hydroxide solution is added to copper(II) sulfate solution, what colored precipitate forms?",
+      "a": ["Bright yellow precipitate", "Light blue precipitate of copper(II) hydroxide", "Red crystalline solid", "Black soot"],
+      "correct": 1
+    },
+    {
+      "q": "How can you experimentally determine the order of reactivity of three unknown metals using displacement reactions?",
+      "a": ["Weigh them on a balance", "Measure their melting points", "Test each metal in salt solutions of the other two metals to see which ones cause displacement", "Dissolve them in pure oil"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following pairs of solutions will *not* produce a precipitate when mixed?",
+      "a": ["Barium chloride and sulfuric acid", "Lead nitrate and sodium chloride", "Silver nitrate and potassium bromide", "Sodium nitrate and potassium chloride"],
+      "correct": 3
+    }
+  ]
+}

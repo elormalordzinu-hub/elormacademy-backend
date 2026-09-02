@@ -1,0 +1,206 @@
+{
+"id": "chem-igcse-quizzes-redox",
+"name": "Redox reactions oxidation and reduction",
+"questions": [
+{
+"q": "What is the classical definition of oxidation?",
+"a": ["Gain of oxygen or loss of hydrogen", "Loss of oxygen or gain of hydrogen", "Gain of electrons", "Loss of protons"],
+"correct": 0
+},
+{
+"q": "In terms of electron transfer, how is reduction defined?",
+"a": ["Loss of electrons", "Gain of electrons", "Loss of neutrons", "Gain of protons"],
+"correct": 1
+},
+{
+"q": "What is an oxidizing agent?",
+"a": ["A substance that donates electrons to other species", "A substance that loses oxygen during a reaction", "A substance that oxidizes another species while being reduced itself", "A substance that remains inert throughout a redox reaction"],
+"correct": 2
+},
+{
+"q": "What is the oxidation state of sulfur in sulfur dioxide, SO<sub>2</sub>?",
+"a": ["-2", "0", "+2", "+4"],
+"correct": 3
+},
+{
+"q": "Which color change is observed when acidified potassium manganate(VII) acts as an oxidizing agent and is reduced by a reducing agent?",
+"a": ["Purple to colorless", "Orange to green", "Blue to white", "Colorless to brown"],
+"correct": 0
+},
+{
+"q": "What color change is observed when aqueous potassium iodide is oxidized by chlorine water, indicating the displacement of iodine?",
+"a": ["Green to purple", "Colorless to brown (or purple in organic solvent)", "Yellow to blue", "Pink to colorless"],
+"correct": 1
+},
+{
+"q": "In the reaction: Zn + CuO -> ZnO + Cu, which species is oxidized?",
+"a": ["Copper(II) ions", "Copper metal", "Zinc metal", "Zinc oxide"],
+"correct": 2
+},
+{
+"q": "What is the oxidation state of any uncombined element in its native state (such as O<sub>2</sub> or Fe)?",
+"a": ["-1", "+1", "+2", "0"],
+"correct": 3
+},
+{
+"q": "Which reagent is commonly used as a chemical test for a reducing agent because it turns from orange to green?",
+"a": ["Acidified potassium dichromate(VI)", "Potassium manganate(VII)", "Aqueous sodium hydroxide", "Universal indicator solution"],
+"correct": 0
+},
+{
+"q": "In terms of electron transfer, what happens to a reducing agent during a redox reaction?",
+"a": ["It gains electrons", "It loses electrons (is oxidized)", "It shares proton pairs", "It remains unchanged"],
+"correct": 1
+},
+{
+"q": "What is the oxidation state of iron in iron(III) chloride, FeCl<sub>3</sub>?",
+"a": ["+2", "0", "+3", "-1"],
+"correct": 2
+},
+{
+"q": "Which of the following processes represents reduction?",
+"a": ["Mg -> Mg<sup>2+</sup> + 2e<sup>-</sup>", "Fe<sup>2+</sup> -> Fe<sup>3+</sup> + e<sup>-</sup>", "2Cl<sup>-</sup> -> Cl<sub>2</sub> + 2e<sup>-</sup>", "Cu<sup>2+</sup> + 2e<sup>-</sup> -> Cu"],
+"correct": 3
+},
+{
+"q": "What is the role of hydrogen gas when passed over heated copper(II) oxide?",
+"a": ["It acts as a reducing agent, removing oxygen from copper(II) oxide", "It acts as an oxidizing agent", "It acts as an acid-base catalyst", "It forms an unreactive alloy with copper"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of chlorine in hydrogen chloride, HCl?",
+"a": ["+1", "-1", "0", "+5"],
+"correct": 1
+},
+{
+"q": "Why is potassium iodide solution used as a test reagent for oxidizing agents?",
+"a": ["It precipitates white silver chloride", "It turns deep blue in the presence of acids", "It is oxidized by oxidizing agents to release iodine, which turns starch solution blue-black", "It produces carbon dioxide gas bubbles"],
+"correct": 2
+},
+{
+"q": "In the ionic equation: Cl<sub>2</sub> + 2Br<sup>-</sup> -> 2Cl<sup>-</sup> + Br<sub>2</sub>, which species is reduced?",
+"a": ["Bromide ions", "Bromine molecules", "Chloride ions", "Chlorine molecules"],
+"correct": 3
+},
+{
+"q": "What does the term 'redox' stand for?",
+"a": ["Reduction-oxidation", "Reaction-dissociation", "Radical-electron exchange", "Redistribution of oxygen"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of manganese in manganese(IV) oxide, MnO<sub>2</sub>?",
+"a": ["+2", "+4", "+6", "+7"],
+"correct": 1
+},
+{
+"q": "Which of the following half-equations represents oxidation?",
+"a": ["Cl<sub>2</sub> + 2e<sup>-</sup> -> 2Cl<sup>-</sup>", "Ag<sup>+</sup> + e<sup>-</sup> -> Ag", "Fe -> Fe<sup>2+</sup> + 2e<sup>-</sup>", "Cu<sup>2+</sup> + 2e<sup>-</sup> -> Cu"],
+"correct": 2
+},
+{
+"q": "What is observed when aqueous potassium iodide is added to acidified hydrogen peroxide (an oxidizing agent)?",
+"a": ["A pungent green gas is evolved", "A white precipitate forms instantly", "The solution turns acidic with pH 1", "The solution turns brown as iodide ions are oxidized to iodine"],
+"correct": 3
+},
+{
+"q": "In the extraction of iron from hematite in a blast furnace, what is the role of carbon monoxide?",
+"a": ["It acts as a reducing agent that removes oxygen from iron(III) oxide", "It acts as an oxidizing agent", "It acts as a neutral slag maker", "It melts the limestone"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of carbon in carbon monoxide, CO?",
+"a": ["-2", "+2", "+4", "0"],
+"correct": 1
+},
+{
+"q": "Which of the following chemical species can act as both an oxidizing agent and a reducing agent in different reactions?",
+"a": ["Fluorine gas", "Sodium metal", "Hydrogen peroxide, H<sub>2</sub>O<sub>2</sub>", "Helium gas"],
+"correct": 2
+},
+{
+"q": "What happens to the oxidation state of an element during oxidation?",
+"a": ["Decreases", "Becomes zero", "Stays constant", "Increases"],
+"correct": 3
+},
+{
+"q": "In the reaction between magnesium and dilute hydrochloric acid: Mg + 2HCl -> MgCl<sub>2</sub> + H<sub>2</sub>, what is oxidized?",
+"a": ["Magnesium metal", "Hydrogen ions", "Chloride ions", "Water molecules"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of nitrogen in nitric acid, HNO<sub>3</sub>?",
+"a": ["+3", "+5", "-3", "+2"],
+"correct": 1
+},
+{
+"q": "Which halide ion is most easily oxidized to its halogen element when reacting with chlorine water?",
+"a": ["Chloride ions", "Fluoride ions", "Iodide ions", "Astatide ions in insoluble salts"],
+"correct": 2
+},
+{
+"q": "What is the chemical test to confirm the presence of an oxidizing agent using starch?",
+"a": ["Starch turns pink in oxidizing agents", "Starch dissolves completely", "Starch turns green", "Starch turns blue-black in the presence of iodine released when an oxidizing agent reacts with potassium iodide"],
+"correct": 3
+},
+{
+"q": "Which species is the reducing agent in the reaction: C + 2CuO -> 2Cu + CO<sub>2</sub>?",
+"a": ["Carbon (C)", "Copper(II) ions", "Copper metal", "Carbon dioxide"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of chromium in potassium dichromate(VI), K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>?",
+"a": ["+3", "+6", "+2", "-2"],
+"correct": 1
+},
+{
+"q": "Why is displacement of metals considered a redox reaction?",
+"a": ["Because heat is always absorbed", "Because neutral atoms turn into gases", "Because electrons are transferred from a more reactive metal to the ions of a less reactive metal", "Because no electron exchange takes place"],
+"correct": 2
+},
+{
+"q": "What is the oxidation number of hydrogen in metal hydrides like sodium hydride, NaH?",
+"a": ["+1", "0", "+2", "-1"],
+"correct": 3
+},
+{
+"q": "When sulfur dioxide is bubbled through acidified potassium manganate(VII), the solution turns from purple to colorless. What does this indicate about sulfur dioxide?",
+"a": ["It is a reducing agent", "It is a strong oxidizing agent", "It is a strong acid", "It is insoluble in water"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of phosphorus in phosphoric acid, H<sub>3</sub>PO<sub>4</sub>?",
+"a": ["+3", "+5", "-3", "+1"],
+"correct": 1
+},
+{
+"q": "Which half-equation correctly represents reduction of chlorine gas to chloride ions?",
+"a": ["Cl<sub>2</sub> -> 2Cl<sup>-</sup> + 2e<sup>-</sup>", "Cl<sup>-</sup> -> Cl + e<sup>-</sup>", "Cl<sub>2</sub> + 2e<sup>-</sup> -> 2Cl<sup>-</sup>", "2Cl<sup>-</sup> + 2e<sup>-</sup> -> Cl<sub>2</sub>"],
+"correct": 2
+},
+{
+"q": "What is observed when iron nails are placed in an aqueous solution of copper(II) sulfate?",
+"a": ["Iron dissolves instantly into a green gas", "Solution turns bright purple", "A grey bubble layer forms without color change", "Red-brown copper metal coats the iron nail and the blue solution fades to pale green"],
+"correct": 3
+},
+{
+"q": "Which definition describes reduction in terms of hydrogen transfer?",
+"a": ["Gain of hydrogen", "Loss of hydrogen", "Sharing of hydrogen bonds", "Neutralization of hydrogen"],
+"correct": 0
+},
+{
+"q": "What is the oxidation state of lead in lead(IV) oxide, PbO<sub>2</sub>?",
+"a": ["+2", "+4", "-2", "0"],
+"correct": 1
+},
+{
+"q": "In the reaction: 2FeCl<sub>2</sub> + Cl<sub>2</sub> -> 2FeCl<sub>3</sub>, what role does chlorine play?",
+"a": ["Reducing agent", "Catalyst", "Oxidizing agent", "Spectator molecule"],
+"correct": 2
+},
+{
+"q": "Why can carbon be used to extract zinc from zinc oxide, but not aluminum from aluminum oxide?",
+"a": ["Carbon is more reactive than aluminum", "Zinc oxide is a liquid at room temperature", "Aluminum oxide is an organic compound", "Carbon is less reactive than aluminum, so it cannot displace aluminum from its oxide, but carbon is more reactive than zinc"],
+"correct": 3
+}
+]
+}

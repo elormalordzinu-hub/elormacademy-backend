@@ -1,0 +1,206 @@
+{
+"id": "phys-igcse-quizzes-gravity",
+"name": "Mass weight and gravitational fields",
+"questions": [
+{
+"q": "What is the fundamental difference between mass and weight?",
+"a": ["Mass is the amount of matter in an object and is constant everywhere, whereas weight is the gravitational force acting on that mass and varies with gravitational field strength.", "Mass is a vector quantity measured in Newtons, while weight is a scalar quantity measured in kilograms.", "Weight depends only on the speed of the object, while mass depends on its volume.", "There is no difference; mass and weight are identical physical quantities."],
+"correct": 0
+},
+{
+"q": "What is the formula that links weight (W), mass (m), and gravitational field strength (g)?",
+"a": ["W = m / g", "W = m times g", "W = g / m", "W = m times g squared"],
+"correct": 1
+},
+{
+"q": "What is the standard unit of measurement for weight?",
+"a": ["Kilogram (kg)", "Gram (g)", "Newton (N)", "Joule (J)"],
+"correct": 2
+},
+{
+"q": "What is the standard unit of measurement for mass?",
+"a": ["Newton (N)", "Newton per kilogram (N/kg)", "Meter per second (m/s)", "Kilogram (kg)"],
+"correct": 3
+},
+{
+"q": "If an object has a mass of 50 kg on Earth where gravitational field strength is approximately 10 N/kg, what is its mass on the Moon where gravity is weaker (about 1.6 N/kg)?",
+"a": ["50 kg", "8.0 kg", "500 kg", "312.5 kg"],
+"correct": 0
+},
+{
+"q": "Using the same scenario above, what is the weight of that 50 kg object on the Moon (g = 1.6 N/kg)?",
+"a": ["500 N", "80 N", "50 N", "1.6 N"],
+"correct": 1
+},
+{
+"q": "What instrument is commonly used to measure the weight of an object directly in the laboratory?",
+"a": ["A top-pan electronic balance", "A beam balance with standard masses", "A spring balance (newton meter)", "A graduated measuring cylinder"],
+"correct": 2
+},
+{
+"q": "What instrument is traditionally used to measure the mass of an object by comparison?",
+"a": ["A spring balance", "A barometer", "A manometer", "A double-pan beam balance"],
+"correct": 3
+},
+{
+"q": "What is meant by the term 'gravitational field strength' (g)?",
+"a": ["The gravitational force exerted per unit mass on an object placed in that field", "The total mass of a planet divided by its radius", "The speed at which an object orbits a star", "The atmospheric pressure at sea level"],
+"correct": 0
+},
+{
+"q": "On Earth, what is the approximate value of the gravitational field strength (g) commonly used in IGCSE calculations?",
+"a": ["1.0 N/kg", "9.8 N/kg (or 10 N/kg)", "100 N/kg", "3.0 N/kg"],
+"correct": 1
+},
+{
+"q": "If an astronaut has a weight of 700 N on Earth (g = 10 N/kg), what is their mass?",
+"a": ["7,000 kg", "70 N", "70 kg", "7 kg"],
+"correct": 2
+},
+{
+"q": "Why does an object experience free-fall acceleration when dropped in a vacuum?",
+"a": ["Because air resistance pushes it downward.", "Because gravity acts only on solids, not gases.", "Because mass becomes zero in a vacuum.", "Because the only force acting on the object is its weight (gravity), producing a constant acceleration."],
+"correct": 3
+},
+{
+"q": "What happens to the weight of a spacecraft as it travels far away from Earth into deep space, away from all planets and stars?",
+"a": ["Its weight drops to virtually zero because the gravitational field strength is almost zero.", "Its weight increases infinitely.", "Its weight remains exactly the same as on Earth.", "Its weight turns into negative mass."],
+"correct": 0
+},
+{
+"q": "What happens to the mass of that same spacecraft as it travels into deep space?",
+"a": ["Its mass decreases to zero.", "Its mass remains constant because the amount of matter in it has not changed.", "Its mass triples due to lack of air.", "Its mass converts entirely into energy."],
+"correct": 1
+},
+{
+"q": "Which of the following best describes mass as an inherent property of matter?",
+"a": ["Mass is a measure of an object's temperature.", "Mass depends entirely on which planet the object is resting on.", "Mass is a measure of an object's inertia (its resistance to changes in its motion).", "Mass is equivalent to the volume occupied by a gas."],
+"correct": 2
+},
+{
+"q": "If a heavy rock and a feather are dropped simultaneously inside a sealed vacuum chamber on Earth, what do they do?",
+"a": ["The rock hits the bottom much faster than the feather.", "The feather floats away upward.", "They both remain completely suspended in the middle.", "They fall at exactly the same rate and hit the bottom at the same time."],
+"correct": 3
+},
+{
+"q": "What is the weight of an object with a mass of 12 kg on a planet where the gravitational field strength is 4.0 N/kg?",
+"a": ["48 N", "3.0 N", "120 N", "16 N"],
+"correct": 0
+},
+{
+"q": "What is the mass of an object that has a weight of 250 N on Earth, where g = 10 N/kg?",
+"a": ["2,500 kg", "25 kg", "240 kg", "2.5 kg"],
+"correct": 1
+},
+{
+"q": "Which of the following physical quantities is a vector?",
+"a": ["Mass", "Time", "Weight", "Temperature"],
+"correct": 2
+},
+{
+"q": "Which of the following physical quantities is a scalar?",
+"a": ["Force", "Velocity", "Weight", "Mass"],
+"correct": 3
+},
+{
+"q": "Why are electronic top-pan balances in school laboratories often calibrated to read in grams or kilograms even though they measure force (weight)?",
+"a": ["Because weight is directly proportional to mass at a constant gravity, allowing the balance to display mass directly for convenience.", "Because mass and weight are the exact same physical quantity.", "To confuse students during physics practicals.", "Because gravity does not exist inside school buildings."],
+"correct": 0
+},
+{
+"q": "If planet X has twice the mass and twice the radius of Earth, how does its surface gravitational field strength compare?",
+"a": ["It is four times greater than Earth.", "It depends on complex atmospheric pressure.", "It is half that of Earth.", "It is exactly the same as Earth."],
+"correct": 2
+},
+{
+"q": "How does gravitational field strength affect the terminal velocity of a falling object?",
+"a": ["A stronger gravitational field increases the downward weight force, resulting in a higher terminal velocity before air resistance balances it.", "Gravitational field strength has no impact on terminal velocity.", "A stronger gravitational field decreases terminal velocity to zero.", "It causes the object to accelerate infinitely without limit."],
+"correct": 0
+},
+{
+"q": "What is the weight of a 500 g mass on Earth (use g = 10 N/kg)?",
+"a": ["5,000 N", "50 N", "0.05 N", "5 N"],
+"correct": 3
+},
+{
+"q": "If you take an object to the top of a very high mountain, what happens to its mass and its weight?",
+"a": ["Mass decreases slightly, weight stays constant.", "Both mass and weight increase significantly.", "Mass remains constant, but weight decreases very slightly because it is further from the Earth center.", "Both mass and weight drop immediately to zero."],
+"correct": 2
+},
+{
+"q": "What is the gravitational field strength on the surface of the Earth expressed in fundamental SI units?",
+"a": ["m/s squared", "N/kg (or m/s squared)", "kg/m cubed", "Joule/second"],
+"correct": 1
+},
+{
+"q": "An object requires a force of 45 N to lift it at constant speed on a planet where g = 9.0 N/kg. What is the mass of the object?",
+"a": ["405 kg", "5.0 kg", "0.2 kg", "45.0 kg"],
+"correct": 1
+},
+{
+"q": "What term describes the force of gravity acting on an object's mass?",
+"a": ["Inertia", "Momentum", "Friction", "Weight"],
+"correct": 3
+},
+{
+"q": "If the gravitational field strength on Mars is 3.7 N/kg, what is the weight of a 60 kg rover on the Martian surface?",
+"a": ["222 N", "63.7 N", "16.2 N", "600 N"],
+"correct": 0
+},
+{
+"q": "Which of these statements correctly compares the inertia of a 10 kg bowling ball and a 10 kg feather pillow?",
+"a": ["The feather pillow has greater inertia because it is larger in volume.", "Both objects have exactly the same inertia because their masses are identical.", "The bowling ball has greater inertia because it is made of solid plastic.", "Neither object possesses inertia in a gravitational field."],
+"correct": 1
+},
+{
+"q": "What is the primary factor that determines the magnitude of gravitational field strength near a celestial body?",
+"a": ["The color and temperature of the star it orbits", "The rotational speed of the body on its axis", "The mass of the celestial body and the distance from its center", "The thickness of its atmosphere"],
+"correct": 2
+},
+{
+"q": "If an object has a weight of 60 N on Earth (g = 10 N/kg), what would be its mass?",
+"a": ["600 kg", "6 kg", "0.6 kg", "60 kg"],
+"correct": 1
+},
+{
+"q": "What happens to a falling object's acceleration if air resistance builds up to equal its weight?",
+"a": ["Acceleration drops to zero, and the object continues falling at a constant terminal velocity.", "Acceleration increases exponentially.", "The object reverses direction and flies upward.", "The object stops instantly in mid-air."],
+"correct": 0
+},
+{
+"q": "Which of the following instruments operates based on the stretching of a spring under a load (Hooke's Law) to measure weight?",
+"a": ["A triple-beam balance", "A chemical thermometer", "A spring balance (newton meter)", "A hydrometer"],
+"correct": 2
+},
+{
+"q": "What is the mass of an object whose weight is 35 N on a world where g = 7.0 N/kg?",
+"a": ["245 kg", "5.0 kg", "0.2 kg", "35 kg"],
+"correct": 1
+},
+{
+"q": "Which of the following is true about the gravitational force between two masses?",
+"a": ["It is always a repulsive force.", "It depends on the electrical charge of the masses.", "It is always an attractive force that acts between any two objects with mass.", "It only exists on planets with atmospheres."],
+"correct": 2
+},
+{
+"q": "If a person has a mass of 80 kg, what is their approximate weight on Earth where g = 10 N/kg?",
+"a": ["80 N", "8 N", "800 N", "8,000 N"],
+"correct": 2
+},
+{
+"q": "What is the effect on an object's weight if the local gravitational field strength is doubled while its mass remains constant?",
+"a": ["Its weight is halved.", "Its weight remains unchanged.", "Its weight is reduced to zero.", "Its weight is doubled."],
+"correct": 3
+},
+{
+"q": "What is the weight of a 2.5 kg physics textbook on Earth (g = 10 N/kg)?",
+"a": ["25 N", "0.25 N", "2.5 N", "250 N"],
+"correct": 0
+},
+{
+"q": "Which of the following statements about mass is correct?",
+"a": ["Mass can change depending on altitude above sea level.", "Mass is a scalar quantity measured in kilograms that resists changes in motion.", "Mass is identical to weight in every physical context.", "Mass decreases when an object is taken to the Moon."],
+"correct": 1
+}
+]
+}

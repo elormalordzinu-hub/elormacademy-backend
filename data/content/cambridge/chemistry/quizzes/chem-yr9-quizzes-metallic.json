@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr9-quizzes-metallic",
+  "name": "Metallic bonding and properties",
+  "questions": [
+    {
+      "q": "What is metallic bonding?",
+      "a": ["The electrostatic attraction between positive metal ions and a sea of delocalized valence electrons", "The sharing of electron pairs between non-metal atoms", "The transfer of electrons from metals to non-metals", "The weak intermolecular forces between neutral molecules"],
+      "correct": 0
+    },
+    {
+      "q": "Why are metals good conductors of electricity in both solid and liquid states?",
+      "a": ["They contain fixed ionic lattices", "Their delocalized outer shell electrons are free to move throughout the structure and carry an electrical current", "They contain dissolved salt ions", "They are made of polar molecules"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes the ability of metals to be hammered or rolled into thin sheets without shattering?",
+      "a": ["Ductility", "Brittleness", "Malleability", "Volatility"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes the ability of metals to be drawn into long, thin wires?",
+      "a": ["Elasticity", "Opacity", "Conductivity", "Ductility"],
+      "correct": 3
+    },
+    {
+      "q": "Why are metals malleable and ductile rather than brittle like ionic crystals?",
+      "a": ["When a force is applied, layers of positive ions can slide over one another, and the delocalized electrons adjust to maintain strong attractions, preventing fracture", "Because metal ions repel each other violently", "Because metals contain covalent bonds", "Because metals are soft liquids"],
+      "correct": 0
+    },
+    {
+      "q": "What is an alloy?",
+      "a": ["A pure element in liquid form", "A mixture of a metal with one or more other elements (usually metals or carbon) designed to enhance specific properties", "A type of covalent plastic", "An ionic salt solution"],
+      "correct": 1
+    },
+    {
+      "q": "Why are alloys typically stronger and harder than pure metals?",
+      "a": ["Alloys have weaker bonds", "Alloys contain no electrons", "The different-sized atoms in an alloy distort the regular crystal lattice layers, preventing them from sliding over each other easily", "Alloys are made of gases"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a well-known alloy of copper and tin?",
+      "a": ["Steel", "Brass", "Solder", "Bronze"],
+      "correct": 3
+    },
+    {
+      "q": "What physical property causes metals to have a shiny appearance (luster) when freshly cut or polished?",
+      "a": ["Their delocalized electrons reflect light waves effectively", "They contain trapped air bubbles", "They emit radioactive light", "They have rough surfaces"],
+      "correct": 0
+    },
+    {
+      "q": "Why do metals generally have high melting and boiling points?",
+      "a": ["They are made of light gases", "A large amount of thermal energy is required to overcome the strong electrostatic attractions between the positive ions and the delocalized sea of electrons", "They contain weak intermolecular forces", "Their electrons are stationary"],
+      "correct": 1
+    },
+    {
+      "q": "How do metals conduct thermal energy (heat) so efficiently?",
+      "a": ["Through molecular vibration only", "By evaporating into steam", "Through the rapid movement and collision of delocalized electrons and vibrating positive ions that transfer kinetic energy quickly", "By absorbing all light"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following metals is a liquid at room temperature?",
+      "a": ["Iron", "Copper", "Gold", "Mercury"],
+      "correct": 3
+    },
+    {
+      "q": "What is brass composed of as an alloy?",
+      "a": ["Copper and zinc", "Iron and carbon", "Copper and tin", "Lead and tin"],
+      "correct": 0
+    },
+    {
+      "q": "What is steel primarily an alloy of?",
+      "a": ["Copper and aluminum", "Iron and a controlled amount of carbon (plus other metals)", "Zinc and lead", "Gold and silver"],
+      "correct": 1
+    },
+    {
+      "q": "Why is pure copper often alloyed with zinc to make brass for musical instruments or plumbing fittings?",
+      "a": ["To make it softer and melt at lower temperatures", "To make it radioactive", "To increase its hardness, strength, and resistance to corrosion compared to pure copper", "To make it dissolve in water"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the electrical conductivity of a metal when its temperature is increased significantly?",
+      "a": ["Conductivity increases infinitely", "Conductivity drops to zero", "Conductivity becomes supercooled", "Conductivity decreases because vibrating metal ions impede the smooth flow of delocalized electrons"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following describes the structure of a solid metal?",
+      "a": ["A giant lattice of positive metal ions surrounded by a moving sea of delocalized valence electrons", "A collection of separate neutral molecules held by weak forces", "A 3D network of covalent bonds between non-metals", "An alternating array of positive and negative ions"],
+      "correct": 0
+    },
+    {
+      "q": "Why are many structural bridges and buildings constructed using steel rather than pure iron?",
+      "a": ["Pure iron is a gas", "Steel is much stronger, resists bending, and has better structural durability due to carbon additions", "Steel dissolves in air", "Pure iron is too expensive and heavy"],
+      "correct": 1
+    },
+    {
+      "q": "What is the origin of the 'delocalized electrons' in a metallic bond?",
+      "a": ["Electrons brought in from the air", "Electrons shared from non-metal impurities", "Outer shell (valence) electrons that detach from metal atoms and roam freely throughout the lattice", "Inner core electrons stripped by heat"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following metals is known for being extremely soft, reactive, and having a low density (capable of floating on oil)?",
+      "a": ["Iron", "Copper", "Platinum", "Sodium"],
+      "correct": 3
+    },
+    {
+      "q": "How does the number of delocalized electrons per atom typically affect the melting point and strength of a metal (e.g., comparing sodium with 1 valence electron to aluminum with 3)?",
+      "a": ["More delocalized electrons create stronger electrostatic attractions, resulting in higher melting points and greater hardness", "More electrons make the metal softer and liquid at room temperature", "Valence electrons have no effect on melting point", "Metals with more electrons do not conduct electricity"],
+      "correct": 0
+    },
+    {
+      "q": "Which property of metals explains why they cannot be easily compressed?",
+      "a": ["Their electrons are too fast", "The positive metal ions are packed closely together with very little empty space between them", "They contain weak intermolecular forces", "They are made of hollow cages"],
+      "correct": 1
+    },
+    {
+      "q": "Why are aircraft bodies often constructed from aluminum alloys rather than pure aluminum or heavy steel?",
+      "a": ["Aluminum alloys are magnetic", "Aluminum alloys dissolve in clouds", "Aluminum alloys combine high tensile strength and corrosion resistance with low density (light weight)", "Aluminum alloys are cheaper than wood"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes the ability of certain metal alloys (like nitinol) to return to their original shape after being deformed when heated?",
+      "a": ["Superconductivity", "Malleability", "Radioactivity", "Shape memory effect"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following is a property shared by almost all metals except mercury?",
+      "a": ["Solid at room temperature with a crystalline structure", "Gaseous at room temperature", "Soluble in water", "Transparent to visible light"],
+      "correct": 0
+    },
+    {
+      "q": "How does adding atoms of a different size to form an alloy prevent layers of metal ions from sliding past each other easily?",
+      "a": ["Different-sized atoms create magnetic fields", "Different-sized atoms disrupt the regular orderly rows of the lattice, acting as 'speed bumps' that block dislocation movement", "Alloys destroy all metal ions", "Alloys turn into liquids"],
+      "correct": 1
+    },
+    {
+      "q": "Which metal is widely used for electrical wiring in homes due to its excellent electrical conductivity and ductility, second only to silver?",
+      "a": ["Iron", "Lead", "Copper", "Sodium"],
+      "correct": 2
+    },
+    {
+      "q": "What happens when a metal is struck by a hammer?",
+      "a": ["It shatters into sharp ionic shards like glass", "It evaporates instantly", "It dissolves into a powder", "It deforms without breaking because ion layers slide and delocalized electrons cushion the shift"],
+      "correct": 3
+    },
+    {
+      "q": "Why do transition metals generally have higher melting points and greater hardness than Group 1 alkali metals?",
+      "a": ["Transition metals contribute more electrons per atom to the delocalized electron sea, forming much stronger metallic bonds", "Transition metals are non-metals", "Transition metals have fewer electrons", "Transition metals contain ionic bonds"],
+      "correct": 0
+    },
+    {
+      "q": "What is solder, an alloy commonly used in electronics to join electrical components together, typically made of?",
+      "a": ["Iron and carbon", "Tin and lead", "Copper and zinc", "Gold and platinum"],
+      "correct": 1
+    },
+    {
+      "q": "Why are jewelry and wedding rings often made of 18-carat gold (an alloy of gold mixed with copper and silver) rather than 100% pure 24-carat gold?",
+      "a": ["Pure gold is toxic", "Pure gold is too expensive to mine", "Pure gold is too soft and easily scratched, so alloying it increases its durability and scratch resistance", "Pure gold is a gas"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following phenomena occurs when metal surfaces react with oxygen and moisture in the environment over time?",
+      "a": ["Sublimation", "Nuclear fission", "Melting", "Corrosion (such as rusting of iron)"],
+      "correct": 3
+    },
+    {
+      "q": "What role do the positive metal ions play in holding a metallic structure together?",
+      "a": ["They attract the surrounding sea of delocalized electrons through strong electrostatic forces", "They repel all electrons away", "They form covalent bonds with air", "They act as thermal insulators"],
+      "correct": 0
+    },
+    {
+      "q": "Why is stainless steel (an alloy of iron, chromium, and nickel) resistant to rusting compared to pure iron?",
+      "a": ["It contains carbon gas", "Chromium forms a tough, invisible protective oxide layer on the surface that prevents oxygen and water from reaching the iron underneath", "Stainless steel is magnetic", "It dissolves rust instantly"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following describes the electrical resistance of pure metals as temperature decreases toward absolute zero?",
+      "a": ["Resistance increases infinitely", "Resistance stays constant", "Resistance drops dramatically, and some metals become superconductors with zero electrical resistance", "Resistance turns into heat"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following properties distinguishes metals from non-metals in solid form?",
+      "a": ["High brittleness and electrical insulation", "Low melting points and transparency", "Solubility in organic solvents", "Thermal and electrical conductivity, malleability, and luster"],
+      "correct": 3
+    }
+  ]
+}

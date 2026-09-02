@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs2-quizzes-solar-system",
+"name": "Solar System",
+"questions": [
+{
+"q": "What is the center of our solar system around which all planets and other celestial bodies revolve?",
+"a": ["The Sun", "The Earth", "The Moon", "Jupiter"],
+"correct": 0
+},
+{
+"q": "Which planet is closest in distance to the Sun?",
+"a": ["Venus", "Mercury", "Earth", "Mars"],
+"correct": 1
+},
+{
+"q": "Which planet is known as the 'Red Planet' due to iron oxide on its surface?",
+"a": ["Saturn", "Venus", "Mars", "Neptune"],
+"correct": 2
+},
+{
+"q": "What is the largest planet in our solar system?",
+"a": ["Saturn", "Uranus", "Neptune", "Jupiter"],
+"correct": 3
+},
+{
+"q": "Which planet is famous for its large and prominent ring system made of ice and rock particles?",
+"a": ["Saturn", "Mars", "Mercury", "Earth"],
+"correct": 0
+},
+{
+"q": "What name is given to the natural satellite that revolves around the Earth?",
+"a": ["Titan", "The Moon", "Phobos", "Europa"],
+"correct": 1
+},
+{
+"q": "Which planet is the hottest in the solar system due to a runaway greenhouse effect trapped by its thick carbon dioxide atmosphere?",
+"a": ["Mars", "Mercury", "Venus", "Jupiter"],
+"correct": 2
+},
+{
+"q": "What term describes the path along which a planet travels around the Sun?",
+"a": ["Axis", "Orbit", "Equator", "Latitude"],
+"correct": 3
+},
+{
+"q": "Which planet is unique in supporting life and having vast amounts of liquid water on its surface?",
+"a": ["Earth", "Venus", "Mars", "Saturn"],
+"correct": 0
+},
+{
+"q": "What celestial body is an icy chunk of frozen gases, rock, and dust that develops a glowing coma and tail when it approaches the Sun?",
+"a": ["Asteroid", "Comet", "Meteorite", "Black hole"],
+"correct": 1
+},
+{
+"q": "Which of the following planets is classified as an outer planet (gas giant)?",
+"a": ["Mercury", "Venus", "Neptune", "Earth"],
+"correct": 2
+},
+{
+"q": "What phenomenon occurs when the Moon passes directly between the Sun and the Earth, blocking sunlight from reaching certain parts of the Earth?",
+"a": ["Lunar eclipse", "Solar flare", "Equinox", "Solar eclipse"],
+"correct": 3
+},
+{
+"q": "What is the rotation of the Earth on its axis responsible for creating?",
+"a": ["Day and night", "The four distinct seasons", "Solar and lunar eclipses", "The phases of the moon"],
+"correct": 0
+},
+{
+"q": "Which planet rotates on its side, having a unique and extreme tilt relative to its orbital plane?",
+"a": ["Saturn", "Uranus", "Jupiter", "Mars"],
+"correct": 1
+},
+{
+"q": "What region of space containing numerous rocky bodies is located primarily between the orbits of Mars and Jupiter?",
+"a": ["Kuiper belt", "Oort cloud", "Asteroid belt", "Stratosphere"],
+"correct": 2
+},
+{
+"q": "What term describes a meteoroid that enters Earth's atmosphere and burns up completely, producing a streak of light across the night sky?",
+"a": ["Asteroid", "Comet", "Satellite", "Shooting star (Meteor)"],
+"correct": 3
+},
+{
+"q": "What is the revolution of the Earth around the Sun once every 365 1/4 days responsible for?",
+"a": ["The changing of the year and seasons", "The daily rising and setting of the sun", "The occurrence of high and low tides", "The daily change in wind direction"],
+"correct": 0
+},
+{
+"q": "Which planet is the farthest known major planet from the Sun, appearing as a cold, windy blue giant?",
+"a": ["Saturn", "Neptune", "Mercury", "Venus"],
+"correct": 1
+},
+{
+"q": "What event occurs when the Earth passes directly between the Sun and the Moon, casting a shadow on the Moon?",
+"a": ["Solar eclipse", "Solar storm", "Lunar eclipse", "Equinox"],
+"correct": 2
+},
+{
+"q": "Which of the following inner (terrestrial) planets is characterized by a rocky, cratered surface and extreme temperature fluctuations?",
+"a": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+"correct": 3
+},
+{
+"q": "What are the varying shapes of the illuminated part of the Moon as seen from Earth called?",
+"a": ["Phases of the Moon", "Eclipse patterns", "Solar cycles", "Tidal variations"],
+"correct": 0
+},
+{
+"q": "Which force keeps all the planets in the solar system bound in their orbits around the Sun?",
+"a": ["Magnetic force", "Gravitational force", "Electrostatic force", "Frictional force"],
+"correct": 1
+},
+{
+"q": "What is the primary source of light and thermal energy for the entire solar system?",
+"a": ["The Earth's core", "Distant stars", "The Sun", "Reflected moonlight"],
+"correct": 2
+},
+{
+"q": "Which planet is often referred to as Earth's 'twin' or 'sister planet' due to its similar size and mass?",
+"a": ["Mars", "Jupiter", "Mercury", "Venus"],
+"correct": 3
+},
+{
+"q": "What name is given to small rocky or metallic bodies traveling through space before they encounter Earth?",
+"a": ["Meteoroids", "Comets", "Galaxies", "Nebulae"],
+"correct": 0
+},
+{
+"q": "Which of the following planets has no true atmosphere and shows extreme surface temperature changes between day and night?",
+"a": ["Earth", "Mercury", "Neptune", "Saturn"],
+"correct": 1
+},
+{
+"q": "What causes ocean tides on Earth?",
+"a": ["The rotation of the Earth's core", "Undercurrents in deep oceans", "The gravitational pull of the Moon and the Sun", "Atmospheric pressure changes"],
+"correct": 2
+},
+{
+"q": "What is a dwarf planet famous for its icy surface and located in the outer regions of the solar system?",
+"a": ["Mars", "Jupiter", "Venus", "Pluto"],
+"correct": 3
+},
+{
+"q": "Which outer planet is distinguished by its deep blue color caused by methane gas in its atmosphere?",
+"a": ["Neptune", "Mercury", "Mars", "Saturn"],
+"correct": 0
+},
+{
+"q": "How long does it take for the Earth to complete one full rotation on its axis?",
+"a": ["365 days", "24 hours", "28 days", "12 months"],
+"correct": 1
+},
+{
+"q": "Which group of planets is known as the terrestrial (rocky) planets?",
+"a": ["Jupiter, Saturn, Uranus, Neptune", "Mercury, Venus, Earth, Mars", "Pluto, Ceres, Eris", "Comets and Asteroids"],
+"correct": 2
+},
+{
+"q": "What is the term for a meteoroid that survives its passage through Earth's atmosphere and strikes the ground?",
+"a": ["Meteor", "Comet core", "Meteoroid", "Meteorite"],
+"correct": 3
+},
+{
+"q": "Which star is located almost directly above the Earth's North Pole, historically used by travelers for navigation?",
+"a": ["Polaris (North Star)", "Sirius", "Betelgeuse", "Proxima Centauri"],
+"correct": 0
+},
+{
+"q": "What is the approximate tilt of the Earth's axis, which is responsible for the variation in the length of day and night across seasons?",
+"a": ["0 degrees", "23.5 degrees", "45 degrees", "90 degrees"],
+"correct": 1
+},
+{
+"q": "Which planet is known for its Great Red Spot, a giant storm larger than Earth?",
+"a": ["Saturn", "Venus", "Jupiter", "Neptune"],
+"correct": 2
+},
+{
+"q": "What term describes a massive system of stars, gas, dust, and dark matter bound together by gravity, of which our solar system is a part?",
+"a": ["Solar system", "Constellation", "Asteroid belt", "Galaxy (Milky Way)"],
+"correct": 3
+},
+{
+"q": "Which of the following objects is considered a natural satellite of a planet?",
+"a": ["The Moon", "An artificial communication satellite", "A space probe", "A weather balloon"],
+"correct": 0
+},
+{
+"q": "What happens during a total solar eclipse within the path of totality?",
+"a": ["The moon turns bright red", "The Sun is completely blocked by the Moon, darkening the sky", "The stars disappear completely at night", "The Earth stops rotating"],
+"correct": 1
+},
+{
+"q": "Which planet has the shortest year (takes the least time to revolve around the Sun)?",
+"a": ["Earth", "Mars", "Mercury", "Neptune"],
+"correct": 2
+},
+{
+"q": "What is the main component of the sun and other stars?",
+"a": ["Liquid water", "Solid rock", "Carbon dioxide gas", "Hydrogen and helium gases"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+"id": "math-alevel-quizzes-hypothesis",
+"name": "Hypothesis testing and significance levels",
+"questions": [
+{
+"q": "Define the null hypothesis in hypothesis testing.",
+"a": ["The statement that there is no effect or no difference, assumed true until evidence indicates otherwise", "The hypothesis that the researcher wishes to prove", "The alternative explanation for experimental results", "The probability of making a Type I error"],
+"correct": 0
+},
+{
+"q": "What is a Type I error in hypothesis testing?",
+"a": ["Failing to reject a false null hypothesis", "Rejecting a true null hypothesis", "Accepting the alternative hypothesis when it is false", "Calculating the wrong test statistic"],
+"correct": 1
+},
+{
+"q": "What is a Type II error in hypothesis testing?",
+"a": ["Rejecting a true null hypothesis", "Failing to reject the alternative hypothesis when it is true", "Failing to reject a false null hypothesis", "Selecting an incorrect significance level"],
+"correct": 2
+},
+{
+"q": "What does the significance level of a hypothesis test represent?",
+"a": ["The probability of making a Type II error", "The power of the test", "The probability of accepting the null hypothesis", "The probability of making a Type I error when the null hypothesis is true"],
+"correct": 3
+},
+{
+"q": "A coin is tested for bias by tossing it 20 times and counting heads. The null hypothesis is p = 0.5. What type of test is appropriate if the alternative is p != 0.5?",
+"a": ["Two-tailed test", "One-tailed test upper", "One-tailed test lower", "Z-test with unknown variance"],
+"correct": 0
+},
+{
+"q": "In a binomial hypothesis test where H0: p = 0.2 and H1: p > 0.2, how is the critical region defined for a 5 percent significance level with sample size n = 15?",
+"a": ["X <= 2", "X >= x_crit such that probability <= 0.05", "X <= x_crit such that probability <= 0.05", "X = 0"],
+"correct": 1
+},
+{
+"q": "If a test statistic falls within the critical region, what conclusion is drawn?",
+"a": ["Accept the null hypothesis", "There is insufficient evidence against the null hypothesis", "Reject the null hypothesis in favor of the alternative hypothesis", "The experiment must be repeated with a larger sample"],
+"correct": 2
+},
+{
+"q": "When testing a population mean mu using a normal distribution where the population variance is known, which test statistic is used?",
+"a": ["T-statistic", "Chi-squared statistic", "F-statistic", "Z-statistic"],
+"correct": 3
+},
+{
+"q": "A sample of 50 observations is taken from a normal distribution with known standard deviation sigma = 4. The sample mean is bar(x) = 25. Test H0: mu = 24 against H1: mu > 24 at the 5 percent significance level. What is the Z value?",
+"a": ["1.77", "1.96", "2.33", "1.645"],
+"correct": 0
+},
+{
+"q": "What is the critical value of Z for a one-tailed test at the 5 percent significance level?",
+"a": ["1.960", "1.645", "2.576", "2.326"],
+"correct": 1
+},
+{
+"q": "What is the critical value of Z for a two-tailed test at the 5 percent significance level?",
+"a": ["1.645", "1.960", "1.960", "2.576"],
+"correct": 2
+},
+{
+"q": "If a hypothesis test is conducted at the 1 percent significance level instead of the 5 percent significance level for a two-tailed test, what happens to the critical region?",
+"a": ["It becomes wider and harder to reject H0", "It stays exactly the same", "It disappears entirely", "It becomes narrower and further out in the tails"],
+"correct": 3
+},
+{
+"q": "A Poisson distribution is used to model customer arrivals. The historical mean is lambda = 5 per hour. On a given day, 9 customers arrive in 1 hour. Test at the 5 percent significance level whether the arrival rate has increased. What is the probability value?",
+"a": ["0.0318", "0.0521", "0.1042", "0.0137"],
+"correct": 0
+},
+{
+"q": "In the context of hypothesis testing, what does the p-value represent?",
+"a": ["The probability of making a Type I error", "The probability of obtaining test results at least as extreme as observed, assuming the null hypothesis is true", "The preset significance level of the test", "The probability that the alternative hypothesis is true"],
+"correct": 1
+},
+{
+"q": "If the p-value calculated in a hypothesis test is 0.034 and the chosen significance level is alpha = 0.05, what is the correct statistical decision?",
+"a": ["Accept H0", "Do not reject H0", "Reject H0", "Fail to conclude anything"],
+"correct": 2
+},
+{
+"q": "Why is continuity correction sometimes applied when using a normal approximation to a binomial distribution in hypothesis testing?",
+"a": ["To make calculations harder", "To adjust for sample size", "To account for population skewness", "To bridge the gap between discrete binomial probabilities and continuous normal probabilities"],
+"correct": 3
+},
+{
+"q": "A manufacturer claims that the mean lifetime of batteries is 500 hours. A sample of 30 batteries gives a sample mean of 490 hours with standard deviation 15 hours. Test H0: mu = 500 against H1: mu < 500 at the 1 percent significance level. What is the test statistic Z?",
+"a": ["-3.65", "-2.33", "-1.96", "-3.00"],
+"correct": 0
+},
+{
+"q": "If a researcher decreases the significance level alpha from 0.05 to 0.01, what is the effect on the probability of a Type I error?",
+"a": ["Increases", "Decreases", "Remains unchanged", "Becomes zero"],
+"correct": 1
+},
+{
+"q": "When testing a proportion p using a large sample binomial test, what condition justifies the use of the normal distribution approximation?",
+"a": ["n is small", "p is close to 0.5", "np >= 5 and n(1 - p) >= 5", "np < 5"],
+"correct": 2
+},
+{
+"q": "Suppose you test a hypothesis and find a p-value of 0.082. If your significance level is 0.05, what is your conclusion?",
+"a": ["Reject H0", "Accept H1 definitively", "There is strong evidence against H0", "There is insufficient evidence to reject H0"],
+"correct": 3
+},
+{
+"q": "A coin is tossed 100 times, and 60 heads are observed. Test at the 5 percent significance level whether the coin is biased towards heads. What is the Z value?",
+"a": ["2.00", "1.645", "1.96", "2.33"],
+"correct": 0
+},
+{
+"q": "What is the power of a hypothesis test defined as?",
+"a": ["The probability of making a Type I error", "The probability of correctly rejecting a false null hypothesis", "The probability of accepting a true null hypothesis", "The sample size multiplied by the effect size"],
+"correct": 1
+},
+{
+"q": "If a researcher wants to decrease the probability of a Type II error without changing the significance level alpha, what action should be taken?",
+"a": ["Decrease the sample size", "Use a two-tailed test instead of a one-tailed test", "Increase the sample size", "Change the null hypothesis value"],
+"correct": 2
+},
+{
+"q": "In a two-tailed hypothesis test for a normal mean with alpha = 0.05, the calculated test statistic gives Z = 2.10. What is the outcome of the test?",
+"a": ["Not significant, do not reject H0", "Significant at 1 percent level", "Inconclusive", "Significant at 5 percent level, reject H0"],
+"correct": 3
+},
+{
+"q": "A random sample of 36 items from a normal population with standard deviation 6 has a mean of 72. Test H0: mu = 70 against H1: mu != 70 at the 5 percent significance level. What is the Z test statistic?",
+"a": ["2.00", "1.96", "1.645", "2.58"],
+"correct": 0
+},
+{
+"q": "When conducting a one-tailed upper test, where does the critical region lie on the standard normal curve?",
+"a": ["In the left tail", "In the right tail", "Split equally between both tails", "In the center"],
+"correct": 1
+},
+{
+"q": "If H0: mu = 50 and H1: mu < 50, what type of test is being performed?",
+"a": ["Two-tailed test", "Upper one-tailed test", "Lower one-tailed test", "Chi-squared test"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about hypothesis testing is correct?",
+"a": ["Accepting H0 proves that the null hypothesis is true", "Rejecting H0 proves absolute mathematical fact", "A hypothesis test can eliminate all errors", "A hypothesis test evaluates evidence against H0, quantifying the probability of observed results"],
+"correct": 3
+},
+{
+"q": "A Poisson process has a mean of 3 events per interval. A test is run for H0: lambda = 3 against H1: lambda != 3. What constitutes the two-tailed critical region for an approximate 5 percent test?",
+"a": ["X <= 0 or X >= 7", "X <= 1 or X >= 6", "X >= 8", "X <= 2"],
+"correct": 0
+},
+{
+"q": "What does a critical value separate on a probability distribution curve?",
+"a": ["The mean from the median", "The region where H0 is accepted from the region where H0 is rejected", "Type I error from Type II error", "The sample distribution from the population distribution"],
+"correct": 1
+},
+{
+"q": "If a test statistic is Z = 1.285 for a one-tailed test at alpha = 0.10, what decision should be made?",
+"a": ["Accept H0 with high confidence", "Reject H0 at the 10 percent significance level", "Reject H0 at the 1 percent significance level", "Retest with a smaller sample"],
+"correct": 2
+},
+{
+"q": "In designing a hypothesis test, if the consequences of a Type I error are extremely severe, what should the researcher do to the significance level alpha?",
+"a": ["Increase alpha", "Keep alpha at 0.10", "Set alpha = 0.50", "Decrease alpha"],
+"correct": 3
+},
+{
+"q": "A clinical trial tests a new drug with H0: p = 0.4 against H1: p > 0.4. In a sample of 100 patients, 48 are cured. Test at the 5 percent level. What is the Z value?",
+"a": ["1.63", "1.96", "2.33", "1.28"],
+"correct": 0
+},
+{
+"q": "Why can we never accept the null hypothesis in a formal hypothesis test, but rather fail to reject it?",
+"a": ["Because mathematical proofs require infinite samples", "Because absence of evidence against H0 does not constitute absolute proof that H0 is true", "Because the test statistic is always an estimate", "Because significance levels prevent acceptance"],
+"correct": 1
+},
+{
+"q": "If n = 25 and p = 0.4 under H0, what is the exact mean and variance of the binomial distribution for the number of successes X?",
+"a": ["Mean = 10, Variance = 4", "Mean = 10, Variance = 5", "Mean = 10, Variance = 6", "Mean = 6, Variance = 4"],
+"correct": 2
+},
+{
+"q": "Which of the following errors is analogous to convicting an innocent person in a criminal court trial?",
+"a": ["Type II error", "Sampling error", "Standard error", "Type I error"],
+"correct": 3
+}
+]
+}

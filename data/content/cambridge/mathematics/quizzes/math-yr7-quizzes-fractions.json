@@ -1,0 +1,206 @@
+{
+  "id": "math-yr7-quizzes-fractions",
+  "name": "Fractions decimals and percentages relationships",
+  "questions": [
+    {
+      "q": "What is 3/4 expressed as a percentage?",
+      "a": ["75%", "60%", "80%", "70%"],
+      "correct": 0
+    },
+    {
+      "q": "Convert 0.35 into a fraction in its simplest form.",
+      "a": ["3/10", "7/20", "35/100", "7/25"],
+      "correct": 1
+    },
+    {
+      "q": "What is 40% written as a fraction in lowest terms?",
+      "a": ["4/10", "1/4", "2/5", "3/5"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following decimals is equivalent to 5/8?",
+      "a": ["0.58", "0.625", "0.65", "0.85"],
+      "correct": 3
+    },
+    {
+      "q": "Order the following from smallest to largest: 0.6, 58%, 3/5",
+      "a": ["58%, 3/5, 0.6 (all equal)", "3/5, 0.6, 58%", "0.6, 58%, 3/5", "58%, 0.6, 3/5"],
+      "correct": 0
+    },
+    {
+      "q": "What is 125% expressed as a decimal?",
+      "a": ["1.25", "12.5", "0.125", "125"],
+      "correct": 1
+    },
+    {
+      "q": "What is 7/20 expressed as a percentage?",
+      "a": ["14%", "30%", "35%", "40%"],
+      "correct": 2
+    },
+    {
+      "q": "Which fraction is equivalent to 0.16 recurring (1/6)?",
+      "a": ["4/25", "16/100", "1/6", "16/99"],
+      "correct": 3
+    },
+    {
+      "q": "Calculate 30% of 150.",
+      "a": ["45", "50", "40", "55"],
+      "correct": 0
+    },
+    {
+      "q": "What is 9/25 converted to a decimal?",
+      "a": ["0.32", "0.36", "0.40", "0.45"],
+      "correct": 1
+    },
+    {
+      "q": "Express 0.08 as a percentage.",
+      "a": ["0.8%", "80%", "8%", "0.08%"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these values is the largest?",
+      "a": ["3/4", "0.7", "72%", "13/20"],
+      "correct": 3
+    },
+    {
+      "q": "What is 18 out of 25 expressed as a percentage?",
+      "a": ["72%", "75%", "68%", "80%"],
+      "correct": 0
+    },
+    {
+      "q": "Convert 2 and 3/5 into a decimal.",
+      "a": ["2.3", "2.6", "2.35", "2.75"],
+      "correct": 1
+    },
+    {
+      "q": "What is 15% of 80?",
+      "a": ["10", "14", "12", "16"],
+      "correct": 2
+    },
+    {
+      "q": "Which decimal represents three-eighths?",
+      "a": ["0.35", "0.375", "0.38", "0.365"],
+      "correct": 3
+    },
+    {
+      "q": "Express 45 minutes as a fraction of 1 hour in its simplest form.",
+      "a": ["3/4", "4/5", "2/3", "7/10"],
+      "correct": 0
+    },
+    {
+      "q": "What is 0.625 converted to a fraction in simplest terms?",
+      "a": ["62/100", "5/8", "3/5", "25/40"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is equal to 7/8?",
+      "a": ["0.825", "85%", "87.5%", "88%"],
+      "correct": 2
+    },
+    {
+      "q": "Decrease 200 by 15%.",
+      "a": ["185", "175", "180", "170"],
+      "correct": 3
+    },
+    {
+      "q": "What is 35% of 240?",
+      "a": ["84", "90", "72", "96"],
+      "correct": 0
+    },
+    {
+      "q": "Convert 7/11 into a decimal rounded to 2 decimal places.",
+      "a": ["0.63", "0.64", "0.65", "0.60"],
+      "correct": 1
+    },
+    {
+      "q": "What is 112.5% written as a fraction in simplest form?",
+      "a": ["9/10", "5/4", "9/8", "11/8"],
+      "correct": 2
+    },
+    {
+      "q": "Increase 80 by 35%.",
+      "a": ["104", "112", "100", "108"],
+      "correct": 3
+    },
+    {
+      "q": "What is 5/6 expressed as a percentage rounded to 1 decimal place?",
+      "a": ["83.3%", "85.0%", "80.6%", "86.7%"],
+      "correct": 0
+    },
+    {
+      "q": "If a jacket costs 60 dollars and is on sale with a 20% discount, what is the sale price?",
+      "a": ["45 dollars", "48 dollars", "50 dollars", "52 dollars"],
+      "correct": 1
+    },
+    {
+      "q": "What is 0.045 written as a percentage?",
+      "a": ["4.5%", "0.45%", "45%", "450%"],
+      "correct": 2
+    },
+    {
+      "q": "Which fraction is strictly between 1/3 and 1/2?",
+      "a": ["2/5", "3/10", "1/4", "7/12"],
+      "correct": 3
+    },
+    {
+      "q": "Express 125g as a percentage of 1kg.",
+      "a": ["12.5%", "1.25%", "125%", "0.125%"],
+      "correct": 0
+    },
+    {
+      "q": "What is 220 increased by 45%?",
+      "a": ["309", "319", "329", "299"],
+      "correct": 1
+    },
+    {
+      "q": "Convert 4.15 into a mixed number in its simplest form.",
+      "a": ["4 and 3/20", "4 and 1/5", "4 and 3/20", "4 and 7/50"],
+      "correct": 2
+    },
+    {
+      "q": "What is 75% of 400 divided by 5?",
+      "a": ["50", "80", "40", "60"],
+      "correct": 3
+    },
+    {
+      "q": "Find the original price of an item if a 25% discount brings it to 45 dollars.",
+      "a": ["60 dollars", "56 dollars", "65 dollars", "55 dollars"],
+      "correct": 0
+    },
+    {
+      "q": "What is 13/20 as a decimal?",
+      "a": ["0.60", "0.65", "0.70", "0.75"],
+      "correct": 1
+    },
+    {
+      "q": "Order from least to greatest: 4/5, 0.82, 79%, 4/5",
+      "a": ["0.82, 4/5, 79%", "79%, 0.82, 4/5", "79%, 4/5, 0.82", "4/5, 79%, 0.82"],
+      "correct": 2
+    },
+    {
+      "q": "What is 3/8 expressed as a percentage?",
+      "a": ["30.5%", "35.0%", "36.5%", "37.5%"],
+      "correct": 3
+    },
+    {
+      "q": "Express 0.005 as a percentage.",
+      "a": ["0.5%", "5%", "0.05%", "50%"],
+      "correct": 0
+    },
+    {
+      "q": "What is the reciprocal of 0.25 expressed as a fraction?",
+      "a": ["1/4", "4/1", "25/100", "4/5"],
+      "correct": 1
+    },
+    {
+      "q": "If an item's price rises from 50 dollars to 65 dollars, what is the percentage increase?",
+      "a": ["20%", "25%", "30%", "35%"],
+      "correct": 2
+    },
+    {
+      "q": "What is 65% of 1 hour in minutes?",
+      "a": ["36 minutes", "37 minutes", "38 minutes", "39 minutes"],
+      "correct": 3
+    }
+  ]
+}

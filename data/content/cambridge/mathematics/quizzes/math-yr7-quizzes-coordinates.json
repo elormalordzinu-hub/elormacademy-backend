@@ -1,0 +1,206 @@
+{
+"id": "math-yr7-quizzes-coordinates",
+"name": "Coordinates and linear graphs",
+"questions": [
+{
+"q": "What are the coordinates of the origin on a Cartesian plane?",
+"a": ["(0, 0)", "(1, 1)", "(0, 1)", "(1, 0)"],
+"correct": 0
+},
+{
+"q": "Which quadrant contains the point (-3, 4)?",
+"a": ["Quadrant 1", "Quadrant 2", "Quadrant 3", "Quadrant 4"],
+"correct": 1
+},
+{
+"q": "What is the y-intercept of the linear equation y = 3x + 5?",
+"a": ["3", "-3", "5", "-5"],
+"correct": 2
+},
+{
+"q": "What is the gradient (slope) of the line y = -2x + 7?",
+"a": ["7", "-7", "2", "-2"],
+"correct": 3
+},
+{
+"q": "Which of the following points lies on the line y = 2x - 1?",
+"a": ["(3, 5)", "(2, 5)", "(1, 2)", "(0, 1)"],
+"correct": 0
+},
+{
+"q": "What is the equation of a horizontal line passing through the point (2, -4)?",
+"a": ["x = 2", "y = -4", "y = 2", "x = -4"],
+"correct": 1
+},
+{
+"q": "What is the equation of a vertical line passing through the point (-5, 3)?",
+"a": ["y = 3", "y = -5", "x = -5", "x = 3"],
+"correct": 2
+},
+{
+"q": "Calculate the gradient of the line passing through the points (1, 2) and (3, 8).",
+"a": ["2", "6", "4", "3"],
+"correct": 3
+},
+{
+"q": "If a line has a gradient of 4 and a y-intercept of -3, what is its equation?",
+"a": ["y = 4x - 3", "y = -3x + 4", "y = 4x + 3", "y = -4x - 3"],
+"correct": 0
+},
+{
+"q": "What is the midpoint of the line segment joining points (2, 3) and (6, 9)?",
+"a": ["(3, 4)", "(4, 6)", "(8, 12)", "(2, 6)"],
+"correct": 1
+},
+{
+"q": "Which of the following equations represents a line parallel to y = 5x - 2?",
+"a": ["y = -5x + 2", "y = 2x + 5", "y = 5x + 7", "y = (1/5)x - 2"],
+"correct": 2
+},
+{
+"q": "What is the y-intercept of the line 2y = 4x - 10?",
+"a": ["-10", "4", "2", "-5"],
+"correct": 3
+},
+{
+"q": "Which point does NOT lie on the line y = 4 - x?",
+"a": ["(2, 3)", "(0, 4)", "(4, 0)", "(1, 3)"],
+"correct": 0
+},
+{
+"q": "What is the gradient of the line represented by 3x + y = 6?",
+"a": ["3", "-3", "6", "-1/3"],
+"correct": 1
+},
+{
+"q": "Find the x-intercept of the line y = 2x - 8.",
+"a": ["-8", "2", "4", "-4"],
+"correct": 2
+},
+{
+"q": "What is the distance between the points (0, 0) and (3, 4)?",
+"a": ["3", "4", "7", "5"],
+"correct": 3
+},
+{
+"q": "Which quadrant contains the point (-5, -2)?",
+"a": ["Quadrant 3", "Quadrant 2", "Quadrant 1", "Quadrant 4"],
+"correct": 0
+},
+{
+"q": "What is the equation of the line passing through (0, 3) with a gradient of -1?",
+"a": ["y = x + 3", "y = -x + 3", "y = 3x - 1", "y = -3x + 1"],
+"correct": 1
+},
+{
+"q": "Determine the gradient of the line joining (-2, 1) and (4, 13).",
+"a": ["1", "3", "2", "6"],
+"correct": 2
+},
+{
+"q": "Which of these lines passes through the origin (0, 0)?",
+"a": ["y = x + 1", "y = 5", "x = 2", "y = -3x"],
+"correct": 3
+},
+{
+"q": "What is the rule for the linear sequence generating the y-values when x = 1, 2, 3 and y = 5, 8, 11?",
+"a": ["y = 3x + 2", "y = 2x + 3", "y = 3x - 2", "y = 5x"],
+"correct": 0
+},
+{
+"q": "Find the midpoint of the line segment between (-1, 4) and (5, -2).",
+"a": ["(3, 1)", "(2, 1)", "(2, 3)", "(1, 1)"],
+"correct": 1
+},
+{
+"q": "If the point (k, 7) lies on the line y = 3x - 2, what is the value of k?",
+"a": ["5", "2", "3", "7"],
+"correct": 2
+},
+{
+"q": "What is the gradient of any horizontal line?",
+"a": ["1", "-1", "Undefined", "0"],
+"correct": 3
+},
+{
+"q": "What is the gradient of any vertical line?",
+"a": ["Undefined", "0", "1", "-1"],
+"correct": 0
+},
+{
+"q": "Rearrange the equation 2x + y = 8 into the form y = mx + c.",
+"a": ["y = 2x + 8", "y = -2x + 8", "y = 2x - 8", "y = -2x - 8"],
+"correct": 1
+},
+{
+"q": "What is the value of y when x = -3 on the graph y = 4x + 5?",
+"a": ["-17", "7", "-7", "17"],
+"correct": 2
+},
+{
+"q": "Which of the following coordinates represents a point on the x-axis?",
+"a": ["(3, 4)", "(0, 5)", "(-2, 1)", "(6, 0)"],
+"correct": 3
+},
+{
+"q": "What is the y-intercept of the line given by 5x - 3y = 15?",
+"a": ["-5", "5", "-3", "3"],
+"correct": 0
+},
+{
+"q": "Calculate the gradient of the line passing through (-3, -2) and (3, 6).",
+"a": ["4/3", "3/4", "1", "2"],
+"correct": 1
+},
+{
+"q": "Which line is steeper: y = 5x + 1 or y = -3x + 8?",
+"a": ["y = -3x + 8", "They have equal steepness", "y = 5x + 1", "Cannot be determined"],
+"correct": 2
+},
+{
+"q": "If a line passes through (0, 0) and (4, 12), what is its equation?",
+"a": ["y = 4x", "y = 12x", "y = x + 8", "y = 3x"],
+"correct": 3
+},
+{
+"q": "What is the distance between the points (1, 2) and (1, 7) on a coordinate grid?",
+"a": ["5 units", "6 units", "7 units", "4 units"],
+"correct": 0
+},
+{
+"q": "Which point lies in Quadrant 4?",
+"a": ["(-2, 3)", "(4, -5)", "(-1, -6)", "(3, 2)"],
+"correct": 1
+},
+{
+"q": "Find the x-intercept of the linear equation 3x + 4y = 12.",
+"a": ["3", "4", "4", "3"],
+"correct": 2
+},
+{
+"q": "What is the equation of the line parallel to the x-axis passing through (0, -7)?",
+"a": ["x = -7", "y = x - 7", "x = 0", "y = -7"],
+"correct": 3
+},
+{
+"q": "What is the gradient of the line represented by the equation y - 5 = 2(x + 1)?",
+"a": ["2", "5", "-1", "7"],
+"correct": 0
+},
+{
+"q": "If the midpoint of a line segment is (3, 4) and one endpoint is (1, 1), what is the other endpoint?",
+"a": ["(5, 6)", "(5, 7)", "(2, 2.5)", "(4, 7)"],
+"correct": 1
+},
+{
+"q": "Which of the following linear equations has a negative gradient?",
+"a": ["y = 3x + 4", "y = 0.5x - 1", "y = 6 - 2x", "y = x"],
+"correct": 2
+},
+{
+"q": "Determine where the line y = 2x + 4 intersects the y-axis.",
+"a": ["(2, 0)", "(4, 0)", "(0, 2)", "(0, 4)"],
+"correct": 3
+}
+]
+}

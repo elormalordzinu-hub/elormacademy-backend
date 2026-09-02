@@ -1,0 +1,166 @@
+{
+"id": "bio-yr8-quizzes-data",
+"name": "Data analysis and evaluation of scientific evidence",
+"questions": [
+{
+"q": "What is the primary purpose of processing raw experimental data into tables and graphs?",
+"a": ["To make it easier to identify trends, patterns, and relationships between variables", "To increase the physical size of the laboratory report", "To hide incorrect or messy numbers from teachers", "To turn quantitative values into random guesses"],
+"correct": 0
+},
+{
+"q": "What does a line of best fit on a scatter graph represent?",
+"a": ["A random drawing connecting every single data dot", "The overall trend or relationship between variables while smoothing out minor experimental errors", "The maximum possible limit of the laboratory equipment", "Anomalous results that should be ignored"],
+"correct": 1
+},
+{
+"q": "What is an anomalous result in a scientific dataset?",
+"a": ["The exact mathematical average of all trials", "The most accurate measurement recorded in the session", "A result that does not fit with the pattern or trend of the rest of the data", "The independent variable value chosen for the first test"],
+"correct": 2
+},
+{
+"q": "How should an anomalous result typically be handled when calculating a mean value?",
+"a": ["Include it directly without checking", "Multiply it by ten to increase its weight", "Ignore the data completely without recording it", "Investigate for potential errors, repeat the measurement if possible, and exclude it from the mean calculation"],
+"correct": 3
+},
+{
+"q": "What indicates a positive correlation on a line graph showing enzyme activity versus temperature?",
+"a": ["As temperature increases up to a point, enzyme activity increases", "As temperature increases, enzyme activity decreases", "The graph line remains completely horizontal with zero slope", "All data points form a vertical line"],
+"correct": 0
+},
+{
+"q": "What does a negative correlation on an experimental graph signify?",
+"a": ["The experiment failed and must be restarted", "As one variable increases, the other variable decreases", "The data numbers are all negative values", "No measurements were recorded during the test"],
+"correct": 1
+},
+{
+"q": "Why is calculating a mean (average) from repeat readings important for scientific evidence?",
+"a": ["It makes the data table look longer", "It changes the hypothesis automatically", "It reduces the effect of random errors and improves data reliability", "It increases room temperature"],
+"correct": 2
+},
+{
+"q": "When analyzing a bar chart comparing the energy content of different food groups, what do the equal widths of the bars ensure?",
+"a": ["That the paper is colorful", "That the experiment took longer to complete", "That the student wrote neatly", "Fair visual comparison without misleading the reader"],
+"correct": 3
+},
+{
+"q": "What is the correct way to calculate the mean of a set of valid repeat readings (e.g., 12, 14, 13)?",
+"a": ["Add all the values together and divide by the number of readings", "Multiply all the values together", "Take only the highest value", "Subtract the lowest value from the highest value"],
+"correct": 0
+},
+{
+"q": "What does a scatter graph with points scattered randomly across the grid with no visible pattern indicate?",
+"a": ["The experiment was performed with absolute perfection", "There is no apparent relationship or correlation between the variables", "The dependent variable is too large to measure", "The equipment is digital"],
+"correct": 1
+},
+{
+"q": "Why must axis labels on a scientific graph always include both the variable name and its physical unit?",
+"a": ["To make the graph look decorative", "To confuse anyone reading the lab report", "To ensure the graph can be interpreted accurately and scientifically", "To change the conclusion of the study"],
+"correct": 2
+},
+{
+"q": "What is a conclusion drawn from scientific evidence?",
+"a": ["A list of equipment used before starting", "A guess about what you will eat for lunch", "A fictional story about science history", "A summary statement explaining what the results show, supported directly by processed data"],
+"correct": 3
+},
+{
+"q": "What is the difference between data and evidence?",
+"a": ["Data are the raw measurements collected, whereas evidence is processed data used to support or refute a scientific claim", "Data and evidence mean the exact same thing with no differences", "Evidence is collected before an experiment, while data is written afterward", "Data is qualitative only, while evidence is always digital"],
+"correct": 0
+},
+{
+"q": "Why might a scientist repeat an investigation published by another researcher?",
+"a": ["To copy their homework", "To check reproducibility and verify whether the evidence is reliable and valid", "To prove that all science experiments fail", "To waste laboratory resources"],
+"correct": 1
+},
+{
+"q": "What is a limitation in experimental evidence?",
+"a": ["A rule about wearing safety goggles", "The time of day the lesson starts", "A factor or restriction (such as equipment resolution) that constrains how far the conclusions can be generalized", "The cost of a notebook"],
+"correct": 2
+},
+{
+"q": "When evaluating a scientific claim made in an advertisement, what should a student check first?",
+"a": ["How expensive the product is", "Whether the company has a nice logo", "Whether the advertisement uses bright colors", "Whether the claim is supported by controlled, repeatable experimental evidence"],
+"correct": 3
+},
+{
+"q": "What does a steep gradient on a line graph of plant growth over time indicate?",
+"a": ["A rapid rate of growth over that time period", "A very slow rate of growth", "That the plant stopped growing entirely", "That the measuring ruler was broken"],
+"correct": 0
+},
+{
+"q": "Why is it important to examine the scale on graph axes when analyzing published data?",
+"a": ["To see how much paper was wasted", "A non-zero or compressed scale can visually exaggerate or distort trends and relationships", "To find out the name of the graph maker", "To check the room lighting"],
+"correct": 1
+},
+{
+"q": "What is secondary data in scientific enquiry?",
+"a": ["The second measurement taken in a data table", "Your lab partner's personal opinion", "Data collected by other researchers, found in books, journals, or databases, used for comparison", "Random internet rumors with no source"],
+"correct": 2
+},
+{
+"q": "What does evaluating a scientific method involve during data analysis?",
+"a": ["Leaving the laboratory immediately", "Throwing away all data tables", "Buying new equipment for the school", "Assessing how well the method controlled variables and identifying potential sources of error"],
+"correct": 3
+},
+{
+"q": "Why do biological datasets often show more variation between repeat readings than chemistry datasets?",
+"a": ["Living organisms naturally show biological diversity and individual differences", "Living organisms are made of metal", "Biology experiments are never repeated", "Biology uses no measuring tools"],
+"correct": 0
+},
+{
+"q": "What is the purpose of using a line graph rather than a bar chart when plotting continuous data like temperature changes over time?",
+"a": ["To show percentages in a circle", "To show continuous trends and allow estimation of values between measured points", "To display disconnected categories", "To hide incorrect numbers"],
+"correct": 1
+},
+{
+"q": "What does a horizontal line on a distance-time or growth-time graph signify?",
+"a": ["The variable is increasing rapidly", "The variable is decreasing quickly", "No change or zero rate of change over that time period", "An experimental error occurred"],
+"correct": 2
+},
+{
+"q": "When evaluating whether a conclusion is fully supported by evidence, what must a student check?",
+"a": ["Whether the conclusion matches personal opinions", "Whether the font size is large enough", "Whether the graphs are drawn in color", "Whether every statement in the conclusion is directly backed up by trends seen in the data table or graph"],
+"correct": 3
+},
+{
+"q": "What is precision in scientific data collection?",
+"a": ["How close repeated measurements are to each other", "How close a measurement is to the true value", "How expensive the measuring equipment is", "How fast the data table is filled in"],
+"correct": 0
+},
+{
+"q": "What is accuracy in scientific measurements?",
+"a": ["Getting the same incorrect number ten times", "How close a measured result is to the true or accepted value", "Writing numbers in neat handwriting", "Using the largest beaker available"],
+"correct": 1
+},
+{
+"q": "What is the primary risk of drawing a conclusion from a sample size that is too small?",
+"a": ["The report will take too long to read", "The paper will run out of ink", "The evidence may not be representative of the wider population, leading to an unreliable conclusion", "The room temperature will drop"],
+"correct": 2
+},
+{
+"q": "Why might a set of data have high precision but low accuracy?",
+"a": ["The instruments were read incorrectly or had a systematic calibration error, giving tight clustered wrong results", "The students worked too quickly", "The data table had too many columns", "Random errors were completely eliminated"],
+"correct": 3
+},
+{
+"q": "What is a systematic error in experimental data?",
+"a": ["An error caused by a faulty instrument or flaw in experimental design that shifts all readings consistently in one direction", "A random mistake in writing down a number", "An accidental spill on the laboratory floor", "A sudden change in weather outside"],
+"correct": 0
+},
+{
+"q": "What is a random error in measurements, and how can its impact on final evidence be minimized?",
+"a": ["An intentional change to the independent variable; minimized by stopping the test", "An unpredictable variation in readings; minimized by taking repeats and calculating a mean", "A permanent flaw in equipment calibration; minimized by buying new desks", "A spelling mistake in the conclusion; minimized by using a dictionary"],
+"correct": 1
+},
+{
+"q": "When analyzing a pie chart representing energy use in an ecosystem, what do the individual sectors represent?",
+"a": ["Disconnected random numbers", "The exact temperature of each organism", "Proportions or percentages of a whole category", "Anomalous results"],
+"correct": 2
+},
+{
+"q": "Why do scientists peer-review data analyses and conclusions before they are published in scientific journals?",
+"a": ["To let classmates grade each other's handwriting", "To make students rewrite notes ten times", "To test typing speed on computers", "To check validity, spot errors in data interpretation, and ensure scientific rigor"],
+"correct": 3
+}
+]
+}

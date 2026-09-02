@@ -1,0 +1,146 @@
+{
+"id": "chem-alevel-quizzes-entropy",
+"name": "Entropy and Gibbs free energy",
+"questions": [
+{
+"q": "What is entropy (S) a measure of in a thermodynamic system?",
+"a": ["The degree of disorder or dispersal of available energy among particles in a system", "The total internal heat content of a substance", "The speed at which reactant molecules collide", "The activation energy barrier of a reaction"],
+"correct": 0
+},
+{
+"q": "What condition according to the Third Law of Thermodynamics applies to a perfect crystalline substance at absolute zero (0 Kelvin)?",
+"a": ["Entropy reaches its maximum possible value", "Entropy is exactly zero", "Entropy is infinite", "Entropy fluctuates randomly"],
+"correct": 1
+},
+{
+"q": "How is the standard entropy change of a reaction (Delta S theta) calculated from standard molar entropies (S theta)?",
+"a": ["Sum of reactant entropies minus sum of product entropies", "Product entropies multiplied by reactant entropies", "Sum of standard entropies of products minus sum of standard entropies of reactants", "Sum of all entropies divided by two"],
+"correct": 2
+},
+{
+"q": "Why does the entropy of a substance increase significantly when it melts from a solid to a liquid?",
+"a": ["Molecules lose all kinetic energy", "Molecules form a rigid crystal lattice", "Temperature drops to absolute zero", "Particles gain freedom of movement, leading to greater disorder and more ways of distributing energy"],
+"correct": 3
+},
+{
+"q": "What is the sign of Delta S for the reaction: N<sub>2</sub> (g) + 3H<sub>2</sub> (g) <-> 2NH<sub>3</sub> (g)?",
+"a": ["Negative (decrease in entropy because 4 moles of gas form 2 moles of gas)", "Positive (increase in entropy)", "Zero", "Infinite"],
+"correct": 0
+},
+{
+"q": "What does Gibbs free energy change (Delta G) determine regarding a chemical reaction?",
+"a": ["The rate at which products are formed", "Whether a chemical reaction is thermodynamically spontaneous or feasible", "The exact activation energy of the process", "The strength of covalent bonds"],
+"correct": 1
+},
+{
+"q": "What is the mathematical equation relating Gibbs free energy change (Delta G), enthalpy change (Delta H), and entropy change (Delta S) at constant temperature (T)?",
+"a": ["Delta G equals Delta H plus T Delta S", "Delta G equals Delta H multiplied by T Delta S", "Delta G equals Delta H minus T Delta S", "Delta G equals T Delta H minus Delta S"],
+"correct": 2
+},
+{
+"q": "What condition must be met for a chemical reaction or process to be thermodynamically feasible (spontaneous)?",
+"a": ["Delta G must be positive", "Delta H must be zero", "Delta S of surroundings must be negative", "Delta G must be zero or negative (Delta G <= 0)"],
+"correct": 3
+},
+{
+"q": "Why might an endothermic reaction (Delta H > 0) still be spontaneous at high temperatures?",
+"a": ["If Delta S is positive and large enough such that the T Delta S term exceeds Delta H, making Delta G negative", "Because temperature cancels out enthalpy", "Because endothermic reactions always release energy at high pressure", "Because entropy decreases at high temperatures"],
+"correct": 0
+},
+{
+"q": "What is the unit of standard molar entropy (S theta) as reported in thermodynamic tables?",
+"a": ["kJ mol<sup>-1</sup>", "J K<sup>-1</sup> mol<sup>-1</sup>", "mol dm<sup>-3</sup>", "Kilograms per meter cubed"],
+"correct": 1
+},
+{
+"q": "What happens to the entropy of the surroundings when an exothermic reaction occurs in a system?",
+"a": ["Surroundings entropy decreases", "Surroundings entropy remains unchanged", "Surroundings entropy increases because thermal energy released increases the thermal disorder of the surroundings", "Surroundings drop to absolute zero"],
+"correct": 2
+},
+{
+"q": "What temperature (T) threshold determines when a reaction with both positive Delta H and positive Delta S becomes spontaneous?",
+"a": ["Only at absolute zero Kelvin", "Only above 1000 degrees Celsius", "Only when pressure is zero", "Above a certain temperature where T Delta S exceeds Delta H, making Delta G negative"],
+"correct": 3
+},
+{
+"q": "What is the sign of Delta S for the thermal decomposition of calcium carbonate: CaCO<sub>3</sub> (s) -> CaO (s) + CO<sub>2</sub> (g)?",
+"a": ["Positive (because a gas is produced from a solid, increasing disorder)", "Negative", "Zero", "Undefined"],
+"correct": 0
+},
+{
+"q": "What does a negative value of Gibbs free energy change (Delta G) signify?",
+"a": ["The reaction is non-spontaneous", "The reaction is thermodynamically feasible / spontaneous under the specified conditions", "The reaction is at equilibrium", "The reaction is endothermic"],
+"correct": 1
+},
+{
+"q": "How is the entropy change of the surroundings (Delta S_surrounding) calculated from the enthalpy change of the reaction (Delta H) and temperature (T)?",
+"a": ["Delta S_surrounding equals Delta H multiplied by T", "Delta S_surrounding equals T divided by Delta H", "Delta S_surrounding equals negative Delta H divided by T (-Delta H / T)", "Delta S_surrounding equals Delta H plus T"],
+"correct": 2
+},
+{
+"q": "Why does water freezing into ice at -10 degrees Celsius occur spontaneously even though it involves a decrease in system entropy?",
+"a": ["Ice has higher energy than water", "Freezing is an endothermic process", "The entropy of the system decreases, but the exothermic heat released to the surroundings increases the entropy of the surroundings by a greater amount, resulting in a net increase in total entropy (Delta G < 0)", "Freezing violates thermodynamics"],
+"correct": 3
+},
+{
+"q": "What is the physical state change that typically results in the largest increase in entropy for a given substance?",
+"a": ["Vaporization (liquid to gas)", "Melting (solid to liquid)", "Condensation (gas to liquid)", "Freezing (liquid to solid)"],
+"correct": 0
+},
+{
+"q": "At what condition of Delta G is a chemical system considered to be at dynamic equilibrium?",
+"a": ["Delta G is a large positive number", "Delta G is exactly equal to zero", "Delta G is negative infinity", "Delta G equals Delta H"],
+"correct": 1
+},
+{
+"q": "How does an increase in the number of moles of gas from reactants to products affect the entropy change of the system (Delta S)?",
+"a": ["Decreases Delta S", "Has no effect on Delta S", "Increases Delta S because gases have significantly higher molar entropies than liquids or solids", "Makes Delta S negative"],
+"correct": 2
+},
+{
+"q": "What is the primary factor that prevents a reaction with negative Delta H and negative Delta S from being spontaneous at extremely high temperatures?",
+"a": ["Enthalpy becomes positive", "Pressure drops to zero", "Activation energy disappears", "The -T Delta S term becomes large and positive, overcoming the negative Delta H and making Delta G positive"],
+"correct": 3
+},
+{
+"q": "Which of the following substances would you expect to have the highest standard molar entropy (S theta) at 298 Kelvin?",
+"a": ["Steam (H<sub>2</sub>O (g))", "Liquid water (H<sub>2</sub>O (l))", "Ice (H<sub>2</sub>O (s))", "Sodium chloride crystal (NaCl (s))"],
+"correct": 0
+},
+{
+"q": "What equation links the standard Gibbs free energy change of a reaction (Delta G theta) to its equilibrium constant (Kc or Kp)?",
+"a": ["Delta G theta equals RT multiplied by Kc", "Delta G theta equals negative RT ln(K) (-RT ln K)", "Delta G theta equals K divided by RT", "Delta G theta equals exp(-RT / K)"],
+"correct": 1
+},
+{
+"q": "What is total entropy change (Delta S_total) equal to according to the Second Law of Thermodynamics for a spontaneous process?",
+"a": ["Delta S_total equals zero", "Delta S_total equals system entropy minus surroundings entropy", "Delta S_total equals Delta S_system plus Delta S_surroundings, and must be positive for a spontaneous process", "Delta S_total equals enthalpy change divided by temperature"],
+"correct": 2
+},
+{
+"q": "Why are some reactions that are thermodynamically feasible (Delta G < 0) practically very slow or imperceptible at room temperature?",
+"a": ["Because thermodynamics determines reaction rate", "Because Gibbs free energy is positive", "Because entropy is zero", "Because thermodynamics only indicates feasibility, not kinetics or activation energy barriers"],
+"correct": 3
+},
+{
+"q": "What is the sign of Delta S for the dissolution of solid ammonium nitrate in water?",
+"a": ["Positive because solid crystal lattice breaks apart into freely moving aqueous ions, increasing disorder", "Negative because water orders around ions", "Zero", "Undefined"],
+"correct": 0
+},
+{
+"q": "How does temperature affect the value of the T Delta S term in the Gibbs free energy equation?",
+"a": ["It decreases the term", "It increases the magnitude of the term proportionally", "It makes the term negative at all temperatures", "It has no effect"],
+"correct": 1
+},
+{
+"q": "What does a reaction with a positive Delta H and a positive Delta S require to become spontaneous?",
+"a": ["Extremely low temperatures", "High pressure only", "Temperatures high enough so that T Delta S is greater than Delta H", "A catalyst to alter Delta H"],
+"correct": 2
+},
+{
+"q": "What thermodynamic parameter accounts for both the enthalpy change of the system and the entropy change of the surroundings?",
+"a": ["Activation energy", "Bond enthalpy", "Lattice energy", "Gibbs free energy change (Delta G)"],
+"correct": 3
+}
+]
+}

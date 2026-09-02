@@ -1,0 +1,186 @@
+{
+"id": "chem-alevel-quizzes-atomic",
+"name": "Atomic structure quantum numbers and orbitals",
+"questions": [
+{
+"q": "What is the maximum number of electrons that can be accommodated in a shell with principal quantum number n = 3?",
+"a": ["18", "8", "32", "2"],
+"correct": 0
+},
+{
+"q": "Which quantum number describes the orientation of an atomic orbital in space?",
+"a": ["Principal quantum number (n)", "Angular momentum / Azimuthal quantum number (l)", "Magnetic quantum number (m<sub>l</sub>)", "Spin quantum number (m<sub>s</sub>)"],
+"correct": 1
+},
+{
+"q": "What shape does a p-orbital typically possess?",
+"a": ["Spherical", "Cylindrical", "Dumbbell-shaped", "Complex double-doughnut"],
+"correct": 2
+},
+{
+"q": "Which of the following sets of quantum numbers (n, l, m<sub>l</sub>, m<sub>s</sub>) is not permissible?",
+"a": ["(3, 2, -2, +1/2)", "(2, 1, 0, -1/2)", "(1, 0, 0, +1/2)", "(2, 2, 0, +1/2)"],
+"correct": 3
+},
+{
+"q": "What does the azimuthal quantum number (l) determine for a subshell?",
+"a": ["The shape of the subshell orbital", "The total energy of the atom only", "The spin direction of the electron", "The principal distance from the nucleus"],
+"correct": 0
+},
+{
+"q": "How many nodal planes does a standard 2p<sub>z</sub> orbital possess along its z-axis?",
+"a": ["Zero", "One", "Two", "Three"],
+"correct": 1
+},
+{
+"q": "Which subshell designation corresponds to quantum numbers n = 4 and l = 2?",
+"a": ["4s", "4p", "4d", "4f"],
+"correct": 2
+},
+{
+"q": "According to the Pauli exclusion principle, what is the maximum number of electrons that can occupy a single atomic orbital?",
+"a": ["1", "6", "10", "2"],
+"correct": 3
+},
+{
+"q": "What is the relative mass and charge of a proton?",
+"a": ["Mass 1, Charge +1", "Mass 0.0005, Charge -1", "Mass 1, Charge 0", "Mass 0, Charge +1"],
+"correct": 0
+},
+{
+"q": "What term defines atoms of the same element that have the same number of protons but a different number of neutrons?",
+"a": ["Isobars", "Isotopes", "Allotropes", "Isomers"],
+"correct": 1
+},
+{
+"q": "Which instrument is used to determine the relative atomic mass of an element by measuring the mass-to-charge ratio of ions?",
+"a": ["UV-Visible Spectrophotometer", "Infrared Spectrometer", "Mass Spectrometer", "X-ray Diffractometer"],
+"correct": 2
+},
+{
+"q": "What is the primary factor that causes the energies of orbitals within the same principal shell to split in multi-electron atoms?",
+"a": ["Spin-orbit coupling", "Nuclear mass variations", "Magnetic moment alignment", "Electron-electron repulsion and shielding"],
+"correct": 3
+},
+{
+"q": "What type of spectrum is produced when electrons transition from higher energy levels to lower energy levels, emitting specific frequencies of light?",
+"a": ["Emission line spectrum", "Continuous absorption spectrum", "Infrared thermal spectrum", "X-ray diffraction pattern"],
+"correct": 0
+},
+{
+"q": "Which scientist proposed that electrons exhibit wave-like properties, leading to the development of wave mechanics?",
+"a": ["Niels Bohr", "Louis de Broglie", "Ernest Rutherford", "J.J. Thomson"],
+"correct": 1
+},
+{
+"q": "What does Heisenberg's uncertainty principle state regarding subatomic particles?",
+"a": ["Energy can be neither created nor destroyed in an atom", "Electrons travel in fixed circular orbits around the nucleus", "It is impossible to simultaneously determine both the exact position and momentum of an electron", "All moving particles carry a distinct electrical charge"],
+"correct": 2
+},
+{
+"q": "How many total orbitals are contained within the principal energy level n = 3?",
+"a": ["3", "5", "7", "9"],
+"correct": 3
+},
+{
+"q": "What is the value of the azimuthal quantum number (l) for an f-subshell?",
+"a": ["3", "0", "1", "2"],
+"correct": 0
+},
+{
+"q": "Which transition in a hydrogen atom spectrum results in the emission of a photon with the highest energy and frequency?",
+"a": ["From n = 3 to n = 2", "From n = 5 to n = 1", "From n = 2 to n = 4", "From n = 4 to n = 3"],
+"correct": 1
+},
+{
+"q": "What defines the radial node in an atomic orbital wavefunction?",
+"a": ["A plane where the probability density is zero regardless of distance", "A point of maximum electron density at the nucleus", "A spherical shell where the probability of finding an electron is zero", "A region where spin multiplicity is inverted"],
+"correct": 2
+},
+{
+"q": "Which subshell fills immediately after the 4s subshell according to the Aufbau principle in neutral atoms?",
+"a": ["4p", "4f", "5s", "3d"],
+"correct": 3
+},
+{
+"q": "What is the term for the decrease in attractive force between the nucleus and outer electrons due to the repulsive effect of inner-shell electrons?",
+"a": ["Shielding / Screening effect", "Photoelectric emission", "Ionization enhancement", "Electronegativity polarization"],
+"correct": 0
+},
+{
+"q": "Which orbital has a spherical shape and no angular nodes?",
+"a": ["p-orbital", "s-orbital", "d-orbital", "f-orbital"],
+"correct": 1
+},
+{
+"q": "What value can the magnetic spin quantum number (m<sub>s</sub>) take for an electron?",
+"a": ["0 or 1", "-1, 0, +1", "+1/2 or -1/2", "Any integer from -n to +n"],
+"correct": 2
+},
+{
+"q": "In a mass spectrum of chlorine (Cl<sub>2</sub>), what is the expected ratio of peaks for the molecular ion cluster containing <sup>35</sup>Cl and <sup>37</sup>Cl isotopes?",
+"a": ["1 to 1 to 1", "2 to 1 to 0", "1 to 2 to 1", "3 to 1 (for single atoms) or 9 to 6 to 1 (for Cl<sub>2</sub> molecular ions approx)"],
+"correct": 3
+},
+{
+"q": "What is represented by the square of the wave function, psi squared (psi<sup>2</sup>), in quantum mechanics?",
+"a": ["Probability density of finding an electron at a given point", "Total kinetic energy of the orbital", "Angular momentum vector magnitude", "Magnetic flux density of the nucleus"],
+"correct": 0
+},
+{
+"q": "Which electron transition series in the atomic hydrogen spectrum falls in the ultraviolet region?",
+"a": ["Balmer series", "Lyman series", "Paschen series", "Brackett series"],
+"correct": 1
+},
+{
+"q": "What is the maximum number of electrons that can be held in a d-subshell?",
+"a": ["2", "6", "10", "14"],
+"correct": 2
+},
+{
+"q": "Why do 4s electrons fill before 3d electrons in most neutral transition metal atoms?",
+"a": ["The 4s orbital has a higher principal quantum number and higher energy", "The 3d subshell is completely inaccessible to incoming electrons", "Nuclear charge repels 3d electrons preferentially", "The 4s orbital penetrates closer to the nucleus, giving it a lower effective energy state in neutral atoms prior to filling"],
+"correct": 3
+},
+{
+"q": "What is an orbital defined as in modern atomic theory?",
+"a": ["A region of space around the nucleus where there is a high probability (e.g., 95 percent) of finding an electron", "A fixed circular track traveled by electrons", "A physical particle composed of bound photons", "An exact boundary where electrons bounce like billiard balls"],
+"correct": 0
+},
+{
+"q": "Which of the following ions is isoelectronic with Neon (Ne)?",
+"a": ["Na", "O<sup>2-</sup>", "Mg<sup>2+</sup>", "Cl<sup>-</sup>"],
+"correct": 1
+},
+{
+"q": "What is the term for the energy required to remove one mole of electrons from one mole of gaseous atoms to form one mole of gaseous 1+ ions?",
+"a": ["Electron affinity", "Lattice energy", "First ionization energy", "Atomization enthalpy"],
+"correct": 2
+},
+{
+"q": "How many angular (planar) nodes does a d<sub>xy</sub> orbital possess?",
+"a": ["0", "1", "3", "2"],
+"correct": 3
+},
+{
+"q": "What happens to the energy difference between successive energy levels as the principal quantum number (n) increases towards infinity?",
+"a": ["The energy levels converge and get closer together", "The energy levels diverge and spread further apart", "The energy gap remains completely constant", "The energy levels invert their order"],
+"correct": 0
+},
+{
+"q": "Which rule states that every orbital in a subshell is singly occupied with one electron before any one orbital is doubly occupied, and all singly occupied orbitals have parallel spins?",
+"a": ["Pauli exclusion principle", "Hund's rule of maximum multiplicity", "Aufbau principle", "Le Chatelier's principle"],
+"correct": 1
+},
+{
+"q": "What is the total number of magnetic quantum numbers (m<sub>l</sub>) possible when the azimuthal quantum number l = 2?",
+"a": ["3", "1", "5", "7"],
+"correct": 2
+},
+{
+"q": "Which experimental evidence directly supports the concept of main energy levels and electron shells within atoms?",
+"a": ["X-ray crystallography diffraction patterns", "Brownian motion of smoke particles", "Electrolysis of molten sodium chloride", "Successive ionization energy data showing large jumps when electrons are removed from inner shells"],
+"correct": 3
+}
+]
+}

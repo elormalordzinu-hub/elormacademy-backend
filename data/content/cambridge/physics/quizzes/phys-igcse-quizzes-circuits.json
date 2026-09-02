@@ -1,0 +1,186 @@
+{
+"id": "phys-igcse-quizzes-circuits",
+"name": "Electric circuits and components",
+"questions": [
+{
+"q": "What is electric current defined as?",
+"a": ["The rate of flow of electric charge", "The total electrical resistance in a wire", "The potential energy stored in a battery", "The speed of electrons through a vacuum"],
+"correct": 0
+},
+{
+"q": "What unit is used to measure potential difference (voltage)?",
+"a": ["Ampere", "Volt", "Ohm", "Watt"],
+"correct": 1
+},
+{
+"q": "What is Ohm Law equation relating potential difference (V), current (I), and resistance (R)?",
+"a": ["V = R / I", "I = V times R", "V = I times R", "R = V times I"],
+"correct": 2
+},
+{
+"q": "How must an ammeter be connected in an electrical circuit to measure current correctly?",
+"a": ["In parallel across the component", "Directly across the power supply terminals", "Inside the battery casing", "In series with the component through which current is to be measured"],
+"correct": 3
+},
+{
+"q": "How must a voltmeter be connected in an electrical circuit to measure potential difference?",
+"a": ["In parallel across the component being measured", "In series with the main circuit", "In a closed loop with no resistors", "Directly touching the wires without insulation"],
+"correct": 0
+},
+{
+"q": "What happens to the total resistance of a circuit when two resistors are connected in series?",
+"a": ["Total resistance decreases.", "Total resistance equals the sum of the individual resistances (R = R1 + R2).", "Total resistance equals zero.", "Total resistance equals the product divided by the sum."],
+"correct": 1
+},
+{
+"q": "How does the total resistance of two resistors connected in parallel compare to the resistance of either individual resistor?",
+"a": ["It is greater than the largest resistor.", "It equals the sum of both resistors.", "It is smaller than the resistance of either individual resistor.", "It is infinite."],
+"correct": 2
+},
+{
+"q": "What is the main characteristic of a series circuit regarding current?",
+"a": ["Current splits up at junctions.", "Current is highest near the positive terminal.", "Current varies across every component.", "Current is the same at all points in the circuit."],
+"correct": 3
+},
+{
+"q": "In a parallel circuit, how is the total current supplied by the source related to the currents in the separate branches?",
+"a": ["Total current equals the sum of the currents in all individual parallel branches.", "Total current is equal to the current in the smallest branch only.", "Total current is zero.", "Total current is the product of branch currents."],
+"correct": 0
+},
+{
+"q": "What is the function of a light-dependent resistor (LDR) in an electronic control circuit?",
+"a": ["Its resistance increases drastically as light intensity increases.", "Its resistance decreases when light intensity increases.", "It generates electricity from sunlight.", "It emits bright red light."],
+"correct": 1
+},
+{
+"q": "How does the resistance of a negative temperature coefficient (NTC) thermistor change when its temperature increases?",
+"a": ["Resistance increases linearly.", "Resistance remains constant.", "Resistance decreases as temperature rises.", "Resistance drops instantly to zero."],
+"correct": 2
+},
+{
+"q": "What is the primary function of a diode in an electrical circuit?",
+"a": ["To store electrical charge like a battery", "To step up alternating voltages", "To measure current accurately", "To allow electric current to flow in one direction only while blocking it in the reverse direction"],
+"correct": 3
+},
+{
+"q": "Calculate the resistance of a lamp operating with a potential difference of 12 V and a current of 0.5 A.",
+"a": ["24 ohms", "6 ohms", "0.04 ohms", "12.5 ohms"],
+"correct": 0
+},
+{
+"q": "What is electrical power (P) calculated as in terms of current (I) and potential difference (V)?",
+"a": ["P = V / I", "P = V times I", "P = I squared times V", "P = V squared times R"],
+"correct": 1
+},
+{
+"q": "If a resistor has a resistance of 20 ohms and has a current of 0.3 A flowing through it, what is the potential difference across it?",
+"a": ["0.015 V", "6.67 V", "6.0 V", "60.0 V"],
+"correct": 2
+},
+{
+"q": "What energy transformation takes place in a resistor when an electric current passes through it?",
+"a": ["Chemical energy to electrical energy", "Light energy to thermal energy", "Kinetic energy to potential energy", "Electrical energy to thermal energy (internal energy)"],
+"correct": 3
+},
+{
+"q": "What is the total resistance of three 6-ohm resistors connected in series?",
+"a": ["18 ohms", "2 ohms", "9 ohms", "36 ohms"],
+"correct": 0
+},
+{
+"q": "What is the total resistance of two 6-ohm resistors connected in parallel?",
+"a": ["12 ohms", "3 ohms", "6 ohms", "0.33 ohms"],
+"correct": 1
+},
+{
+"q": "Which of the following components has a current-voltage (I-V) graph that is a straight line passing through the origin, obeying Ohm Law under constant temperature?",
+"a": ["A filament lamp", "A semiconductor diode", "A metallic resistor at constant temperature", "A thermistor"],
+"correct": 2
+},
+{
+"q": "Why does the I-V graph for a metal filament lamp curve away from a straight line as the current increases?",
+"a": ["Voltage drops to zero.", "Resistance decreases due to cooling.", "Current stops flowing.", "The temperature of the metal filament increases, causing its resistance to increase."],
+"correct": 3
+},
+{
+"q": "What is electromotive force (emf) of a power source defined as?",
+"a": ["The total work done by a source in driving unit charge completely around a complete circuit, measured in volts", "The resistance of the battery interior", "The voltage drop across external wires", "The total electrical power in kilowatts"],
+"correct": 0
+},
+{
+"q": "How does terminal potential difference differ from the electromotive force (emf) of a battery when current is flowing?",
+"a": ["Terminal voltage is always higher than emf.", "Terminal voltage is lower than emf because of the potential difference dropped across the internal resistance of the battery.", "Terminal voltage equals zero.", "Emf changes with every resistor added."],
+"correct": 1
+},
+{
+"q": "What is the electrical charge (Q) transferred when a current of 2 A flows through a circuit component for 60 seconds?",
+"a": ["30 Coulombs", "0.033 Coulombs", "120 Coulombs", "240 Coulombs"],
+"correct": 2
+},
+{
+"q": "What equation links electrical energy (E), potential difference (V), current (I), and time (t)?",
+"a": ["E = V times I", "E = I times t", "E = V times I squared", "E = V times I times t"],
+"correct": 3
+},
+{
+"q": "In a potential divider circuit containing two resistors in series connected to a 12 V supply, how is the voltage distributed between them?",
+"a": ["Voltage is shared in direct proportion to the resistance of each resistor.", "Voltage is split equally regardless of resistance.", "Larger resistors get less voltage.", "All voltage drops across the first wire."],
+"correct": 0
+},
+{
+"q": "What happens to the reading on an ammeter connected in series with a lamp when the variable resistor (rheostat) in the circuit has its resistance increased?",
+"a": ["Ammeter reading increases.", "Ammeter reading decreases because total circuit resistance increases, reducing the current.", "Ammeter reading remains unchanged.", "Ammeter burns out."],
+"correct": 1
+},
+{
+"q": "What does a kilowatt-hour (kWh) measure?",
+"a": ["Electric current flow", "Potential difference", "Electrical energy consumed", "Electrical power output"],
+"correct": 2
+},
+{
+"q": "A 2 kW electric heater is used for 3 hours. If electricity costs 15 cents per kilowatt-hour, what is the total cost of running the heater?",
+"a": ["30 cents", "45 cents", "60 cents", "90 cents"],
+"correct": 3
+},
+{
+"q": "Which of the following factors affects the electrical resistance of a uniform metal wire?",
+"a": ["Length, cross-sectional area, and material resistivity", "Color of the wire insulation", "Shape of the room", "Magnetic field of the Earth"],
+"correct": 0
+},
+{
+"q": "How does increasing the length of a metal wire affect its electrical resistance?",
+"a": ["Resistance decreases proportionally.", "Resistance increases because electrons collide with more metal ions along a longer path.", "Resistance drops to zero.", "Resistance is unaffected."],
+"correct": 1
+},
+{
+"q": "How does increasing the cross-sectional (thickness) area of a wire affect its resistance?",
+"a": ["Resistance increases.", "Resistance remains constant.", "Resistance decreases because a wider path allows more charge carriers to flow more easily.", "Resistance becomes infinite."],
+"correct": 2
+},
+{
+"q": "What is conventional current direction in an electrical circuit?",
+"a": ["From negative terminal to positive terminal inside the battery", "Random in all directions", "From the light bulb to the switch", "From the positive terminal of the power supply around the circuit to the negative terminal"],
+"correct": 3
+},
+{
+"q": "What is the relationship between electric charge (Q), current (I), and time (t)?",
+"a": ["Q = I times t", "Q = I / t", "Q = t / I", "Q = I squared times t"],
+"correct": 0
+},
+{
+"q": "If 10 Coulombs of charge pass a point in a circuit in 2 seconds, what is the electric current flowing?",
+"a": ["20 A", "5 A", "0.2 A", "2 A"],
+"correct": 1
+},
+{
+"q": "What is the purpose of a variable resistor (rheostat) in an electronic circuit?",
+"a": ["To generate electricity from heat", "To block alternating current permanently", "To allow manual or adjustable control of the current flowing in a circuit by changing resistance", "To step up voltage levels"],
+"correct": 2
+},
+{
+"q": "What safety device automatically melts and breaks a circuit if the current exceeds a safe rated value due to a fault?",
+"a": ["A step-down transformer", "A diode", "A standard switch", "A fuse or circuit breaker"],
+"correct": 3
+}
+]
+}

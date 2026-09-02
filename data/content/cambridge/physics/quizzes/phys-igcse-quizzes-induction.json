@@ -1,0 +1,206 @@
+{
+  "id": "phys-igcse-quizzes-induction",
+  "name": "Electromagnetic induction and motors",
+  "questions": [
+    {
+      "q": "What phenomenon describes the production of an electromotive force in a conductor when it cuts through a magnetic field?",
+      "a": ["Electromagnetic induction", "Electrostatic charging", "Magnetic saturation", "The piezoelectric effect"],
+      "correct": 0
+    },
+    {
+      "q": "Which rule is used to determine the direction of the induced current or electromotive force in a straight conductor moving in a magnetic field?",
+      "a": ["Fleming left-hand rule", "Fleming right-hand rule", "Right-hand grip rule", "Maxwell corkscrew rule"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the magnitude of the induced electromotive force in a coil if the speed at which a bar magnet is pushed into it is doubled?",
+      "a": ["The induced emf decreases by half", "The induced emf remains completely unchanged", "The induced emf is doubled", "The induced emf drops to zero"],
+      "correct": 2
+    },
+    {
+      "q": "According to Lenz law, what is the direction of any induced current produced by a changing magnetic field?",
+      "a": ["In the same direction as the primary magnetic field", "Randomly fluctuating to cancel out resistance", "Perpendicular to all existing fields", "In such a direction as to oppose the change producing it"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following changes will increase the magnitude of the induced emf in a simple generator coil?",
+      "a": ["Increasing the speed of rotation, the strength of the magnetic field, or the number of turns on the coil", "Decreasing the number of turns on the coil", "Using a weaker magnet", "Slowing down the rate of rotation"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary function of a step-up transformer in an electrical power distribution system?",
+      "a": ["To increase current and decrease voltage", "To increase voltage and decrease current to minimize energy loss in transmission lines", "To convert alternating current into direct current", "To eliminate all electrical resistance in wires"],
+      "correct": 1
+    },
+    {
+      "q": "Why do transformers require an alternating current input rather than a direct current input to function?",
+      "a": ["AC is cheaper to produce than DC", "Direct current melts transformer iron cores instantly", "An alternating current creates a continuously changing magnetic field in the primary coil, which is required to induce a voltage in the secondary coil", "Direct current cannot pass through copper wire coils"],
+      "correct": 2
+    },
+    {
+      "q": "What equation relates the primary voltage (Vp), secondary voltage (Vs), primary turns (Np), and secondary turns (Ns) in an ideal transformer?",
+      "a": ["Vp × Vs = Np × Ns", "Vp + Vs = Np + Ns", "Vp × Np = Vs × Ns", "Vp / Vs = Np / Ns"],
+      "correct": 3
+    },
+    {
+      "q": "An ideal transformer has 100 turns on its primary coil and 400 turns on its secondary coil. If the primary voltage is 50 V, what is the secondary voltage?",
+      "a": ["200 V", "12.5 V", "50 V", "400 V"],
+      "correct": 0
+    },
+    {
+      "q": "Why are laminated iron cores used in transformers instead of solid blocks of iron?",
+      "a": ["To make the transformer heavier", "To reduce energy losses caused by induced eddy currents circulating within the core", "To increase operating temperatures", "To improve the exterior color"],
+      "correct": 1
+    },
+    {
+      "q": "Which device converts mechanical energy into electrical energy using electromagnetic induction?",
+      "a": ["A chemical battery", "A direct current electric motor", "An alternating current generator (alternator)", "A resistor"],
+      "correct": 2
+    },
+    {
+      "q": "What is the key structural difference between an AC generator and a DC generator?",
+      "a": ["AC generators have no magnets", "AC generators use split-ring commutators", "AC generators use slip rings to maintain continuous contact without reversing current polarity, whereas DC generators use a split-ring commutator", "DC generators use no brushes"],
+      "correct": 3
+    },
+    {
+      "q": "What happens when a bar magnet is pushed into a closed coil of wire connected to a sensitive center-zero galvanometer?",
+      "a": ["The galvanometer needle deflects momentarily, indicating an induced current", "The needle spins continuously in one direction", "The magnet stops moving instantly", "The wire melts from friction"],
+      "correct": 0
+    },
+    {
+      "q": "What is the purpose of the carbon brushes in a direct current electric motor?",
+      "a": ["To generate the main magnetic field", "To maintain electrical contact between the stationary power supply wires and the rotating split-ring commutator", "To cool down the armature coils", "To insulate the circuit from shorting"],
+      "correct": 1
+    },
+    {
+      "q": "What force acts on a current-carrying conductor placed at right angles to a magnetic field?",
+      "a": ["Gravitational force", "Electrostatic attraction", "A mechanical force acting perpendicular to both the magnetic field and the current (motor effect)", "Centrifugal force pulling it outward"],
+      "correct": 2
+    },
+    {
+      "q": "Which rule is used to determine the direction of the force acting on a current-carrying conductor in a magnetic field?",
+      "a": ["Right-hand grip rule", "Fleming right-hand rule", "Lenz law rule", "Fleming left-hand rule"],
+      "correct": 3
+    },
+    {
+      "q": "How can the speed of rotation of a simple DC electric motor be increased?",
+      "a": ["Increasing the current, strengthening the magnetic field, or adding more turns to the coil", "Increasing the external load", "Lengthening the connecting wires", "Replacing the battery with a resistor"],
+      "correct": 0
+    },
+    {
+      "q": "What is magnetic flux linkage?",
+      "a": ["The electrical resistance of a magnetic core", "A measure of the total magnetic field passing through a given coil area", "The speed of light in a magnetic field", "The attraction between two iron bars"],
+      "correct": 1
+    },
+    {
+      "q": "If a transformer is 100 percent efficient, what is the relationship between primary power (Pp) and secondary power (Ps)?",
+      "a": ["Primary power is less than secondary power", "Primary power is greater than secondary power", "Primary power equals secondary power (Ip × Vp = Is × Vs)", "Primary power equals zero"],
+      "correct": 2
+    },
+    {
+      "q": "An ideal transformer steps down a voltage from 240 V to 12 V. If the current in the secondary circuit is 5 A, what is the current in the primary circuit?",
+      "a": ["100 A", "10 A", "2.0 A", "0.25 A"],
+      "correct": 3
+    },
+    {
+      "q": "What term describes small currents induced in the iron core of a transformer that cause unwanted thermal energy heating?",
+      "a": ["Eddy currents", "Convection currents", "Stray currents", "Galvanic currents"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the output voltage waveform of a simple AC generator as its speed of rotation is increased?",
+      "a": ["The amplitude decreases and frequency decreases", "The amplitude of the voltage increases and the frequency (number of cycles per second) increases", "The voltage becomes a flat DC line", "The waveform disappears completely"],
+      "correct": 1
+    },
+    {
+      "q": "Why is high-voltage transmission used for transporting electricity across the national grid?",
+      "a": ["High voltage makes cables lighter in weight", "High voltage increases wire resistance", "High voltage results in a much lower current, significantly reducing thermal power loss in the cables", "High voltage prevents birds from sitting on wires"],
+      "correct": 2
+    },
+    {
+      "q": "What is the function of the soft iron core placed inside the coil of an electromagnet or transformer?",
+      "a": ["To insulate the electrical windings", "To prevent overheating", "To increase mechanical strength", "To concentrate and enhance the magnetic field lines"],
+      "correct": 3
+    },
+    {
+      "q": "What happens when a copper wire is moved parallel to uniform magnetic field lines?",
+      "a": ["No electromotive force is induced because the wire does not cut across the field lines", "Maximum current is induced", "The wire becomes permanently magnetized", "The wire heats up rapidly"],
+      "correct": 0
+    },
+    {
+      "q": "What does a cathode-ray oscilloscope display when connected to an operating AC generator?",
+      "a": ["A straight horizontal line", "A sinusoidal alternating voltage wave varying with time", "Random noise spikes", "A pulsating single-direction curve"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following factors does NOT affect the magnitude of the induced emf in a rotating generator coil?",
+      "a": ["The strength of the magnetic field", "The speed of rotation", "The color of the wire insulation", "The number of turns in the coil"],
+      "correct": 2
+    },
+    {
+      "q": "In a step-down transformer, how do the number of primary turns (Np) compare to the number of secondary turns (Ns)?",
+      "a": ["Np is equal to Ns", "Np is less than Ns", "Np is zero", "Np is greater than Ns"],
+      "correct": 3
+    },
+    {
+      "q": "What is electromagnetic induction used for in everyday electricity generation at power stations?",
+      "a": ["Generating large-scale electrical power using turbines driven by steam, water, or wind", "Storing data on hard drives", "Powering pocket calculators with solar cells", "Heating electric kettles directly"],
+      "correct": 0
+    },
+    {
+      "q": "How does increasing the strength of the permanent magnets in a DC motor affect its performance?",
+      "a": ["It decreases the motor speed", "It increases the magnetic force on the coil, resulting in higher torque and speed", "It converts the motor into a transformer", "It stops the motor from turning"],
+      "correct": 1
+    },
+    {
+      "q": "What causes the magnetic field inside a transformer core to reverse direction continuously?",
+      "a": ["The rotation of mechanical gears", "The heating of copper windings", "The alternating current in the primary coil reversing direction periodically", "Radio wave interference"],
+      "correct": 2
+    },
+    {
+      "q": "If a transformer has 500 primary turns and 100 secondary turns, and the secondary voltage is 24 V, what is the primary voltage?",
+      "a": ["4.8 V", "120 V", "240 V", "1200 V"],
+      "correct": 3
+    },
+    {
+      "q": "What is the role of slip rings in an alternating current generator?",
+      "a": ["To maintain permanent electrical contact with the rotating coil while allowing the external circuit to receive AC without reversing polarity", "To step up the generated voltage", "To convert AC into DC", "To act as a safety fuse"],
+      "correct": 0
+    },
+    {
+      "q": "Which energy transformation occurs in an electric generator during operation?",
+      "a": ["Electrical energy to thermal energy", "Mechanical kinetic energy to electrical energy", "Chemical energy to light energy", "Nuclear energy to sound energy"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the magnitude of the current induced in a closed loop if its electrical resistance is decreased?",
+      "a": ["The induced current decreases", "The induced current drops to zero", "The induced current increases for the same induced emf", "The current is unaffected by resistance"],
+      "correct": 2
+    },
+    {
+      "q": "What is a major advantage of power transmission at high voltages in terms of financial cost and energy efficiency?",
+      "a": ["It allows copper wires to be replaced by plastic strings", "It eliminates the need for power stations", "It allows transformers to be removed entirely", "It reduces power wastage as thermal energy in transmission lines, saving massive amounts of electrical energy"],
+      "correct": 3
+    },
+    {
+      "q": "When a magnet is moved away from a closed coil of wire, what direction does the induced current flow relative to when the magnet was moved toward it?",
+      "a": ["It flows in the opposite direction because the change in magnetic flux has reversed", "It flows in the exact same direction", "It stops flowing instantly", "It alternates randomly"],
+      "correct": 0
+    },
+    {
+      "q": "What is the function of the iron armature inside a DC motor?",
+      "a": ["To insulate the electrical wiring", "To support the wire coils and enhance the magnetic effect within the rotating assembly", "To absorb unwanted vibrations", "To generate chemical energy"],
+      "correct": 1
+    },
+    {
+      "q": "What is the efficiency of a transformer defined as?",
+      "a": ["Primary voltage divided by secondary voltage", "Primary current multiplied by secondary current", "Useful output power divided by total input power expressed as a percentage", "Total turns ratio multiplied by resistance"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following devices relies directly on mutual induction between two separate coils of wire?",
+      "a": ["A simple incandescent lamp", "A standard household light switch", "A photovoltaic solar panel", "A transformer"],
+      "correct": 3
+    }
+  ]
+}

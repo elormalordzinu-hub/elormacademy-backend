@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-heart",
+"name": "Structure and function of the heart",
+"questions": [
+{
+"q": "What is the primary function of the human heart in the circulatory system?",
+"a": ["To produce red blood cells for oxygen transport", "To act as a muscular pump that drives blood through blood vessels", "To filter out toxic waste products from blood plasma", "To exchange carbon dioxide directly with the atmosphere"],
+"correct": 1
+},
+{
+"q": "Which chambers are known as the upper receiving chambers of the heart?",
+"a": ["Ventricles", "Aortas", "Atria (singular: atrium)", "Vena cava"],
+"correct": 2
+},
+{
+"q": "Which chambers are known as the lower pumping chambers of the heart?",
+"a": ["Atria", "Ventricles", "Capillaries", "Vena cava"],
+"correct": 1
+},
+{
+"q": "What is the wall of muscle that separates the left and right sides of the heart called?",
+"a": ["The valve", "The septum", "The pericardium", "The aorta"],
+"correct": 1
+},
+{
+"q": "Why is it important that the septum completely separates the left and right sides of the heart?",
+"a": ["It prevents oxygenated and deoxygenated blood from mixing", "It allows blood to flow backward into the lungs", "It doubles the speed of heart contractions", "It stores extra oxygen for emergency use"],
+"correct": 0
+},
+{
+"q": "Which blood vessel brings deoxygenated blood from the upper and lower body back to the right atrium?",
+"a": ["Pulmonary vein", "Aorta", "Vena cava", "Coronary artery"],
+"correct": 2
+},
+{
+"q": "Which blood vessel carries deoxygenated blood from the right ventricle to the lungs?",
+"a": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Carotid artery"],
+"correct": 0
+},
+{
+"q": "Which blood vessels return oxygenated blood from the lungs back to the left atrium?",
+"a": ["Pulmonary arteries", "Pulmonary veins", "Superior vena cava", "Aorta"],
+"correct": 1
+},
+{
+"q": "Which major artery pumps oxygenated blood from the left ventricle out to the rest of the body?",
+"a": ["Pulmonary artery", "Vena cava", "Aorta", "Jugular vein"],
+"correct": 2
+},
+{
+"q": "What is the main function of the valves located between the atria and ventricles?",
+"a": ["To generate electrical impulses for heartbeats", "To prevent blood from flowing backward into the atria when ventricles contract", "To filter bacteria from the blood", "To speed up blood flow into capillaries"],
+"correct": 1
+},
+{
+"q": "Why does the left ventricle have a much thicker muscular wall than the right ventricle?",
+"a": ["It has to pump blood through the whole body, whereas the right ventricle only pumps to the nearby lungs", "It has to hold a larger volume of blood at all times", "It receives blood directly from the lungs under extremely high pressure", "It contains more valves to regulate flow"],
+"correct": 0
+},
+{
+"q": "What is the name of the specialized blood vessels that supply the heart muscle tissue itself with oxygen and glucose?",
+"a": ["Pulmonary vessels", "Coronary arteries", "Jugular veins", "Renal arteries"],
+"correct": 1
+},
+{
+"q": "What happens when the coronary arteries become blocked by fatty plaque deposits?",
+"a": ["The heart beats twice as fast", "Heart muscle cells are deprived of oxygen, which can lead to a heart attack", "Blood flows backward into the lungs", "The heart turns into bone tissue"],
+"correct": 1
+},
+{
+"q": "What physical sound does a stethoscope typically detect when listening to a healthy beating heart?",
+"a": ["The sound of air rushing through the lungs", "The 'lub-dub' sound of heart valves snapping shut", "The scraping of bones against the pericardium", "The friction of blood rubbing against capillary walls"],
+"correct": 1
+},
+{
+"q": "What term describes the phase of the heartbeat cycle when the heart muscle relaxes and chambers fill with blood?",
+"a": ["Systole", "Diastole", "Pulse", "Diffusion"],
+"correct": 1
+},
+{
+"q": "What term describes the phase of the heartbeat cycle when the heart muscle contracts to pump blood out?",
+"a": ["Systole", "Diastole", "Respiration", "Osmosis"],
+"correct": 0
+},
+{
+"q": "How does regular physical exercise affect the heart structure over time?",
+"a": ["It weakens the heart muscle fibers and reduces capacity", "It strengthens and slightly enlarges the heart muscle, making it more efficient", "It stops the heart from beating during sleep", "It turns soft muscle tissue into rigid cartilage"],
+"correct": 1
+},
+{
+"q": "Which of the following lifestyle choices increases the risk of heart disease?",
+"a": ["Eating a diet high in saturated fats and leading a sedentary lifestyle", "Eating plenty of fresh fruits and vegetables", "Engaging in regular aerobic sports and exercise", "Drinking clean water and maintaining proper hydration"],
+"correct": 0
+},
+{
+"q": "What is the average resting heart rate for a healthy human adult approximately?",
+"a": ["20 to 30 beats per minute", "70 to 80 beats per minute", "150 to 180 beats per minute", "300 to 350 beats per minute"],
+"correct": 1
+},
+{
+"q": "What happens to a person's heart rate during strenuous physical activity such as running?",
+"a": ["It decreases to conserve energy", "It stays completely constant", "It increases to deliver more oxygen and glucose to working muscles", "It stops completely for short intervals"],
+"correct": 2
+},
+{
+"q": "Which side of the human heart handles deoxygenated blood exclusively?",
+"a": ["The left side", "The right side", "Both sides equally", "Neither side"],
+"correct": 1
+},
+{
+"q": "Which side of the human heart handles oxygenated blood exclusively?",
+"a": ["The right side", "The left side", "The center partition only", "None of the chambers"],
+"correct": 1
+},
+{
+"q": "What is the function of the pericardium, the sac surrounding the heart?",
+"a": ["To pump blood into the aorta", "To protect the heart and reduce friction against surrounding organs as it beats", "To produce red blood cells", "To filter waste gases from blood"],
+"correct": 1
+},
+{
+"q": "Why are semilunar valves positioned at the bases of the pulmonary artery and aorta?",
+"a": ["To stop blood from flowing backward into the ventricles after they contract", "To mix oxygen and carbon dioxide together", "To speed up blood flow into the lungs", "To anchor the heart inside the chest cavity"],
+"correct": 0
+},
+{
+"q": "If a valve in the heart fails to close properly, what condition or symptom might occur?",
+"a": ["Blood leaks backward (regurgitation), making the heart work less efficiently", "The heart stops beating permanently within seconds", "Blood turns completely solid inside the chambers", "The lungs fill up with digestive juices"],
+"correct": 0
+},
+{
+"q": "Which gas enters the pulmonary veins from the lungs?",
+"a": ["Carbon dioxide", "Nitrogen", "Oxygen", "Methane"],
+"correct": 2
+},
+{
+"q": "Which gas is carried by the vena cava into the right side of the heart?",
+"a": ["High concentrations of oxygen", "High concentrations of carbon dioxide", "Pure hydrogen gas", "Water vapor only"],
+"correct": 1
+},
+{
+"q": "What triggers the heart muscle to contract in a regular rhythm?",
+"a": ["Electrical impulses generated by a natural pacemaker region within the heart", "Conscious decisions made by the brain's frontal lobe", "Digestive hormones released by the stomach", "Physical gravity pulling on blood cells"],
+"correct": 0
+},
+{
+"q": "What is the medical term for a heart rate that is unusually slow (e.g., below 60 bpm in resting adults)?",
+"a": ["Tachycardia", "Bradycardia", "Hypertension", "Anemia"],
+"correct": 1
+},
+{
+"q": "What is the medical term for a heart rate that is unusually fast at rest?",
+"a": ["Bradycardia", "Tachycardia", "Arthritis", "Leukemia"],
+"correct": 1
+},
+{
+"q": "How do heart cells receive their own supply of nutrients and oxygen since they cannot absorb them directly from the blood inside their chambers?",
+"a": ["Through the branching network of coronary blood vessels embedded in the heart muscle", "By absorbing them straight through the outer chest skin", "By digesting the walls of the ventricles", "Through hollow nerve cords attached to the spine"],
+"correct": 0
+},
+{
+"q": "What role do pacemaker cells play in the heart?",
+"a": ["They pump blood directly into the aorta", "They generate electrical signals that set the rhythm for heart contractions", "They act as one-way valves to stop backflow", "They produce white blood cells"],
+"correct": 1
+},
+{
+"q": "Which factor can cause temporary increases in heart rate even when a person is sitting still?",
+"a": ["Stress, anxiety, or release of adrenaline", "Sleeping deeply in a dark room", "Drinking a glass of pure water", "Low room temperature"],
+"correct": 0
+},
+{
+"q": "Why is the human circulatory system referred to as a 'double circulatory system'?",
+"a": ["Blood flows through the heart twice during each complete circuit of the body (pulmonary and systemic circuits)", "The heart has two separate sets of lungs attached", "Blood travels in two opposite directions inside the same artery", "The heart beats two times for every breath taken"],
+"correct": 0
+},
+{
+"q": "What is cardiac output?",
+"a": ["The total volume of blood pumped by each ventricle per minute", "The number of breaths a person takes in one minute", "The pressure of blood against artery walls", "The speed of red blood cells through capillaries"],
+"correct": 0
+},
+{
+"q": "Which of these lifestyle changes helps prevent cardiovascular disease?",
+"a": ["Smoking regularly", "Eating a balanced diet low in saturated fats and exercising daily", "Avoiding all physical activity to rest the heart", "Consuming high amounts of sugary soft drinks"],
+"correct": 1
+},
+{
+"q": "What happens during a ventricular systole?",
+"a": ["The ventricles contract, pumping blood into the pulmonary artery and aorta", "The ventricles relax and fill with blood from the atria", "The heart stops beating completely", "Blood flows backward into the veins"],
+"correct": 0
+},
+{
+"q": "Which tissue type makes up the vast majority of the heart's thick walls?",
+"a": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Epithelial tissue"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of heart valves snapping shut?",
+"a": ["To create the pulse felt in the wrist", "To prevent the reverse flow of blood between heart contractions", "To generate body heat", "To filter impurities out of plasma"],
+"correct": 1
+},
+{
+"q": "Why is a healthy supply of blood to the heart muscle critical for survival?",
+"a": ["Heart muscle cells respire continuously and die quickly if deprived of oxygen and glucose", "Heart tissue can regenerate new chambers instantly if damaged", "The heart does not need oxygen, only water", "Blood inside the heart chambers nourishes the muscle directly through the walls"],
+"correct": 0
+}
+]
+}

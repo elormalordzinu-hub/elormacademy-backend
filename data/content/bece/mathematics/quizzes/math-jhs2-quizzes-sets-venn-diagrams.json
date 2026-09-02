@@ -1,0 +1,206 @@
+{
+"id": "math-jhs2-quizzes-sets-venn-diagrams",
+"name": "Sets & Venn Diagrams",
+"questions": [
+{
+"q": "What term is used to describe a well-defined collection of objects or items?",
+"a": ["Set", "Subset", "Function", "Matrix"],
+"correct": 0
+},
+{
+"q": "Which symbol represents the universal set in set theory?",
+"a": ["Ø", "ε or U", "∩", "∪"],
+"correct": 1
+},
+{
+"q": "What do we call the set of all elements under consideration that contains all other sets in a given context?",
+"a": ["Empty set", "Intersection set", "Universal set", "Disjoint set"],
+"correct": 2
+},
+{
+"q": "If set A = {2, 4, 6, 8} and set B = {4, 8, 12}, what is the union of A and B (A ∪ B)?",
+"a": ["{4, 8}", "{2, 6}", "{12}", "{2, 4, 6, 8, 12}"],
+"correct": 3
+},
+{
+"q": "What is the intersection of set P = {1, 3, 5, 7} and set Q = {3, 5, 9, 11}?",
+"a": ["{3, 5}", "{1, 7}", "{9, 11}", "{1, 3, 5, 7, 9, 11}"],
+"correct": 0
+},
+{
+"q": "What is the complement of a set A (written as A') with respect to the universal set U?",
+"a": ["Elements in A", "Elements in U that are not in A", "Elements in both U and A", "Elements in U plus A"],
+"correct": 1
+},
+{
+"q": "If set X = {a, b, c, d}, how many subsets does set X have?",
+"a": ["8", "12", "16", "32"],
+"correct": 2
+},
+{
+"q": "What name is given to two sets that have no elements in common?",
+"a": ["Equal sets", "Universal sets", "Subset", "Disjoint sets"],
+"correct": 3
+},
+{
+"q": "If n(U) = 50, n(A) = 30, and n(A') represents the complement of A, what is n(A')?",
+"a": ["20", "30", "50", "80"],
+"correct": 0
+},
+{
+"q": "In a Venn diagram, what geometric shape is typically used to represent sets?",
+"a": ["Rectangle", "Circle or oval", "Triangle", "Straight line"],
+"correct": 1
+},
+{
+"q": "If set A = {1, 2, 3, 4, 5} and set B = {3, 4, 5}, what is the relationship between A and B?",
+"a": ["B is disjoint from A", "A is a proper subset of B", "B is a subset of A", "A and B are equal sets"],
+"correct": 2
+},
+{
+"q": "What does the shaded region representing (A ∩ B)' signify in a Venn diagram with two intersecting sets A and B?",
+"a": ["Everything inside both A and B", "Only the intersection of A and B", "The union of A and B", "Everything outside the intersection of A and B"],
+"correct": 3
+},
+{
+"q": "If n(A) = 25, n(B) = 20, and n(A ∩ B) = 8, what is n(A ∪ B)?",
+"a": ["37", "45", "53", "29"],
+"correct": 0
+},
+{
+"q": "What term is used for a set that contains no elements at all?",
+"a": ["Universal set", "Empty set (or null set)", "Finite set", "Power set"],
+"correct": 1
+},
+{
+"q": "If U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and P = {2, 4, 6, 8, 10}, what is P'?",
+"a": ["{2, 4, 6, 8, 10}", "{1, 2, 3, 4, 5}", "{1, 3, 5, 7, 9}", "{}"],
+"correct": 2
+},
+{
+"q": "In a class of 40 pupils, 25 study Mathematics, 20 study Science, and 5 study neither. How many pupils study both Mathematics and Science?",
+"a": ["8", "5", "12", "10"],
+"correct": 3
+},
+{
+"q": "Which notation indicates that element x is a member of set A?",
+"a": ["x ∈ A", "x ⊂ A", "x ∪ A", "x ∩ A"],
+"correct": 0
+},
+{
+"q": "If set M = {factors of 12} and set N = {multiples of 3 up to 15}, what is M ∩ N?",
+"a": ["{3, 6, 9, 12}", "{3, 6, 12}", "{1, 2, 3, 4, 6, 12}", "{3, 6, 9, 12, 15}"],
+"correct": 1
+},
+{
+"q": "If n(A ∪ B) = 45, n(A) = 28, and n(B) = 25, find the number of elements in the intersection n(A ∩ B).",
+"a": ["12", "6", "8", "10"],
+"correct": 2
+},
+{
+"q": "What is the power set of an empty set ∅?",
+"a": ["{Ø, 1}", "{1}", "Ø", "{Ø}"],
+"correct": 3
+},
+{
+"q": "If set A has 5 elements, how many proper subsets does it have?",
+"a": ["31", "32", "16", "64"],
+"correct": 0
+},
+{
+"q": "What does the region (A ∪ B) represent on a two-set Venn diagram?",
+"a": ["Only the elements exclusive to A", "All elements belonging to A, to B, or to both", "Only the common elements of A and B", "Elements outside both A and B"],
+"correct": 1
+},
+{
+"q": "In a survey of 50 people, 30 drink tea, 25 drink coffee, and 10 drink neither tea nor coffee. How many people drink both tea and coffee?",
+"a": ["5", "20", "15", "10"],
+"correct": 2
+},
+{
+"q": "Which of the following describes two equal sets?",
+"a": ["Sets with the same cardinality but different elements", "Sets that do not intersect", "Sets where one is a subset of the other", "Sets that contain exactly the same elements"],
+"correct": 3
+},
+{
+"q": "If set E = {even numbers between 1 and 10}, what is n(E)?",
+"a": ["4", "5", "6", "3"],
+"correct": 0
+},
+{
+"q": "What is the intersection of any set A and the universal set U (A ∩ U)?",
+"a": ["U", "A", "Ø", "A'"],
+"correct": 1
+},
+{
+"q": "If set R = {prime numbers less than 10}, what are the elements of set R?",
+"a": ["{1, 3, 5, 7}", "{1, 2, 3, 5, 7}", "{2, 3, 5, 7}", "{3, 5, 7}"],
+"correct": 2
+},
+{
+"q": "What does n(A) denote in set theory?",
+"a": ["The negative of set A", "The complement of set A", "The power set of A", "The number of elements (cardinality) in set A"],
+"correct": 3
+},
+{
+"q": "If A and B are disjoint sets where n(A) = 14 and n(B) = 19, what is n(A ∪ B)?",
+"a": ["33", "5", "14", "19"],
+"correct": 0
+},
+{
+"q": "If set S = {x : x is an integer and 2 < x < 7}, what are the elements of S?",
+"a": ["{2, 3, 4, 5, 6, 7}", "{3, 4, 5, 6}", "{2, 7}", "{3, 4, 5, 6, 7}"],
+"correct": 1
+},
+{
+"q": "If U = {1, 2, 3, ..., 10}, A = {1, 2, 3, 4}, and B = {3, 4, 5, 6}, what is (A ∪ B)'?",
+"a": ["{1, 2, 5, 6}", "{3, 4}", "{7, 8, 9, 10}", "{1, 2, 7, 8, 9, 10}"],
+"correct": 2
+},
+{
+"q": "Which symbol represents a proper subset?",
+"a": ["⊆", "⊄", "∈", "⊂"],
+"correct": 3
+},
+{
+"q": "If n(U) = 60, n(A) = 35, n(B) = 28, and n(A ∩ B) = 12, how many elements are in neither A nor B?",
+"a": ["9", "15", "12", "17"],
+"correct": 0
+},
+{
+"q": "What is the union of any set A with an empty set (A ∪ Ø)?",
+"a": ["Ø", "A", "U", "A'"],
+"correct": 1
+},
+{
+"q": "If set X = {a, b, c} and set Y = {b, c, d, e}, what is X \\ Y (set difference)?",
+"a": ["{b, c}", "{d, e}", "{a}", "{a, b, c, d, e}"],
+"correct": 2
+},
+{
+"q": "In a class of 50 students, everyone plays either football, volleyball, or both. If 35 play football and 25 play volleyball, how many play both games?",
+"a": ["5", "8", "12", "10"],
+"correct": 3
+},
+{
+"q": "What is the result of A ∩ A' for any set A?",
+"a": ["Ø", "A", "U", "A'"],
+"correct": 0
+},
+{
+"q": "If set P = {1, 2, 3} and Q = {3, 2, 1}, which statement is correct?",
+"a": ["P is a proper subset of Q", "P = Q", "P and Q are disjoint", "n(P) ≠ n(Q)"],
+"correct": 1
+},
+{
+"q": "If set A has 4 elements and set B has 3 elements, and they are disjoint, what is n(A ∪ B)?",
+"a": ["1", "7", "12", "0"],
+"correct": 2
+},
+{
+"q": "Which law states that A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)?",
+"a": ["Commutative law", "Associative law", "De Morgan's law", "Distributive law"],
+"correct": 3
+}
+]
+}

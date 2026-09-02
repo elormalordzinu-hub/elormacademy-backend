@@ -1,0 +1,206 @@
+{
+"id": "phys-yr9-quizzes-forces",
+"name": "Forces and their effects",
+"questions": [
+{
+"q": "What is the primary effect of an unbalanced force acting on a stationary object?",
+"a": ["It causes the object to accelerate in the direction of the force.", "It keeps the object completely stationary.", "It decreases the mass of the object.", "It increases the internal temperature of the object."],
+"correct": 0
+},
+{
+"q": "Which instrument is standardly used to measure the magnitude of a force in the laboratory?",
+"a": ["A triple-beam balance", "A newton meter", "A thermometer", "A graduated cylinder"],
+"correct": 1
+},
+{
+"q": "When two opposing forces acting on a body are equal in magnitude and opposite in direction, the forces are described as what?",
+"a": ["Unbalanced forces", "Net forces", "Balanced forces", "Centripetal forces"],
+"correct": 2
+},
+{
+"q": "Which of the following is a contact force rather than a non-contact force?",
+"a": ["Gravitational force", "Magnetic force", "Electrostatic force", "Friction"],
+"correct": 3
+},
+{
+"q": "What happens to the extension of a helical spring if you double the stretching force, assuming it stays within its elastic limit?",
+"a": ["It doubles", "It halves", "It stays the same", "It quadruples"],
+"correct": 0
+},
+{
+"q": "Which term describes the maximum force a material can experience before it stops obeying Hooke's law?",
+"a": ["Yield point", "Limit of proportionality", "Breaking strength", "Plastic threshold"],
+"correct": 1
+},
+{
+"q": "What type of friction occurs when a solid object slides across a surface?",
+"a": ["Fluid friction", "Static friction", "Sliding friction", "Rolling friction"],
+"correct": 2
+},
+{
+"q": "Which of the following forces opposes the motion of an object falling through air?",
+"a": ["Magnetic pull", "Normal contact force", "Tension", "Air resistance or drag"],
+"correct": 3
+},
+{
+"q": "If a car travels along a level road at a constant velocity, what can be deduced about the driving force and total resistive forces?",
+"a": ["The driving force equals the total resistive forces.", "The driving force is greater than the resistive forces.", "The resistive forces are zero.", "The driving force is zero."],
+"correct": 0
+},
+{
+"q": "What unit is used to measure force in the International System of Units (SI)?",
+"a": ["Kilograms (kg)", "Newtons (N)", "Joules (J)", "Watts (W)"],
+"correct": 1
+},
+{
+"q": "Which factor primarily affects the magnitude of air resistance acting on a moving vehicle?",
+"a": ["The color of the vehicle", "The total mass of the passengers", "The speed of the vehicle", "The type of engine oil used"],
+"correct": 2
+},
+{
+"q": "What is the term for the force exerted by a stretched string or rope on objects attached to it?",
+"a": ["Compression", "Buoyancy", "Thrust", "Tension"],
+"correct": 3
+},
+{
+"q": "Hooke's law states that the extension of an elastic object is directly proportional to what quantity, provided the limit of proportionality is not exceeded?",
+"a": ["Applied force", "Surface area", "Temperature", "Mass density"],
+"correct": 0
+},
+{
+"q": "A book rests flat on a table. Which force balances the downward force of gravity acting on the book?",
+"a": ["Friction", "Normal contact force from the table", "Air resistance", "Magnetic force"],
+"correct": 1
+},
+{
+"q": "When a skydiver opens their parachute, what immediate change occurs to their motion?",
+"a": ["They speed up rapidly", "They stop instantly", "They decelerate due to increased air resistance", "They begin moving upward"],
+"correct": 2
+},
+{
+"q": "Which device relies heavily on the compression of a fluid or spring to absorb shocks in a vehicle?",
+"a": ["A digital speedometer", "A battery charger", "A hydraulic jack or shock absorber", "An electric motor"],
+"correct": 3
+},
+{
+"q": "What effect does lubrication have on moving mechanical parts inside an engine?",
+"a": ["It decreases unwanted friction and wear.", "It increases sliding resistance.", "It converts friction into strong magnetic fields.", "It stops all motion entirely."],
+"correct": 0
+},
+{
+"q": "Which of the following describes a non-contact force field?",
+"a": ["A foot kicking a football", "The pull of Earth's gravity on an apple", "A hand pushing a door open", "A rope pulling a sled"],
+"correct": 1
+},
+{
+"q": "If an unbalanced force acts to the right on a moving cart, what will happen to the cart's speed over time?",
+"a": ["It will decrease constantly until it stops.", "It will remain strictly constant.", "It will increase in the direction of the force.", "It will fluctuate randomly."],
+"correct": 2
+},
+{
+"q": "What is the specific name given to the upward force exerted by a fluid on an object placed in it?",
+"a": ["Friction", "Tension", "Drag", "Upthrust or buoyancy"],
+"correct": 3
+},
+{
+"q": "Which of these materials typically demonstrates elastic behavior over a wide range before permanent deformation?",
+"a": ["Rubber band or steel spring", "Wet clay", "Plasticine", "Fresh dough"],
+"correct": 0
+},
+{
+"q": "What does a straight linear graph of force versus extension for a spring indicate?",
+"a": ["The spring has broken completely.", "Force is directly proportional to extension.", "Extension is inversely proportional to force.", "The temperature is changing rapidly."],
+"correct": 1
+},
+{
+"q": "Why do streamlined shapes help objects travel faster through water or air?",
+"a": ["They increase weight.", "They increase turbulent drag.", "They reduce fluid resistance.", "They eliminate gravity."],
+"correct": 2
+},
+{
+"q": "Which of the following pairs contains vector quantities that both include direction?",
+"a": ["Speed and distance", "Mass and time", "Energy and power", "Force and velocity"],
+"correct": 3
+},
+{
+"q": "What happens when an elastic material is stretched beyond its elastic limit?",
+"a": ["It suffers permanent deformation and will not return to its original length.", "It becomes infinitely strong.", "It instantly shatters into powder.", "It loses all of its mass."],
+"correct": 0
+},
+{
+"q": "How can you experimentally determine the weight of an irregular metal object using a spring balance?",
+"a": ["Measure its volume in water", "Hang the object directly from the hook of the newton meter and read the scale", "Multiply its length by its width", "Place it on a kitchen timer"],
+"correct": 1
+},
+{
+"q": "Which force is primarily responsible for holding your feet to the floor instead of floating away?",
+"a": ["Static electricity", "Air pressure", "Gravity", "Magnetic attraction"],
+"correct": 2
+},
+{
+"q": "A box is pushed across a rough wooden floor. Which direction does the friction force act relative to the box's motion?",
+"a": ["Perpendicular to the motion", "In the exact same direction as the push", "Upward into the air", "Opposite to the direction of motion"],
+"correct": 3
+},
+{
+"q": "What is the net force on an object if a force of 15 N pulls it to the right and a force of 15 N pulls it to the left?",
+"a": ["0 N", "30 N", "15 N", "225 N"],
+"correct": 0
+},
+{
+"q": "Which term represents a push or a pull that can change an object's speed, shape, or direction?",
+"a": ["Energy", "Force", "Power", "Momentum"],
+"correct": 1
+},
+{
+"q": "In an experiment investigating spring stretch, what is the independent variable usually chosen to be?",
+"a": ["The resulting extension of the spring", "The type of ruler used", "The added load or force", "The room temperature"],
+"correct": 2
+},
+{
+"q": "Which statement best explains why astronauts float inside the International Space Station?",
+"a": ["There is zero gravity in outer space.", "Air pressure pushes them upward.", "They have no mass in orbit.", "They are in a constant state of free fall around Earth."],
+"correct": 3
+},
+{
+"q": "What type of force acts between two magnets when their North poles are brought close together?",
+"a": ["A repulsive magnetic force", "An attractive magnetic force", "Gravitational pull", "Frictional drag"],
+"correct": 0
+},
+{
+"q": "If you push a heavy crate and it does not move at all, what can you conclude about the static friction force opposing you?",
+"a": ["It is equal to zero.", "It matches your push exactly in magnitude.", "It is greater than the breaking point of the floor.", "It is less than your push."],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of changing shape through applied forces?",
+"a": ["A car traveling at constant speed on a highway", "A satellite orbiting the Earth", "Squeezing a foam stress ball", "A boat drifting calmly on a lake"],
+"correct": 2
+},
+{
+"q": "Which tool or method is best suited for reducing rolling friction in bicycle wheel hubs?",
+"a": ["Adding heavy rubber pads", "Pouring sticky syrup inside", "Using rough sandpaper", "Using ball bearings and lubrication"],
+"correct": 3
+},
+{
+"q": "What occurs when opposing forces acting on an object are unbalanced?",
+"a": ["A change in the object's speed or direction of motion occurs.", "The object's velocity remains completely constant.", "All forces vanish instantly.", "The object's mass increases."],
+"correct": 0
+},
+{
+"q": "Which of these forces acts without physical contact between objects?",
+"a": ["Normal reaction force", "Gravitational force", "Friction", "Tension in a wire"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of adding treads or patterns to car tires?",
+"a": ["To make the tires look more stylish", "To increase the weight of the car", "To channel away water and maintain proper friction on wet roads", "To generate electricity for headlights"],
+"correct": 2
+},
+{
+"q": "Which statement correctly defines weight?",
+"a": ["The amount of matter contained inside an object", "The total volume occupied by an object", "The speed at which an object falls through a vacuum", "The gravitational force acting on an object's mass"],
+"correct": 3
+}
+]
+}

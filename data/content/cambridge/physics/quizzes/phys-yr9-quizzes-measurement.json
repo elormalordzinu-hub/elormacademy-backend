@@ -1,0 +1,186 @@
+{
+"id": "phys-yr9-quizzes-measurement",
+"name": "Data collection measurement accuracy and precision",
+"questions": [
+{
+"q": "What does the term 'accuracy' mean when taking measurements in a physics experiment?",
+"a": ["How close a measured value is to the true or accepted actual value", "How many decimal places the instrument displays", "How fast the experiment is performed", "How many times a measurement is repeated"],
+"correct": 0
+},
+{
+"q": "What does 'precision' refer to in scientific data collection?",
+"a": ["Whether the measurement matches the textbook value", "How close repeat measurements are to each other, showing very little spread", "How expensive the measuring equipment is", "Whether the digital display is colored"],
+"correct": 1
+},
+{
+"q": "What is the resolution of a measuring instrument defined as?",
+"a": ["The total mass of the instrument", "The maximum range it can measure", "The smallest change in quantity that the instrument can detect and display", "The time it takes to reset to zero"],
+"correct": 2
+},
+{
+"q": "What is a zero error classified as?",
+"a": ["A random fluctuation caused by room temperature", "An error caused by student reaction time", "A mistake in writing down numbers", "A systematic error where an instrument gives a non-zero reading when the true value should be zero"],
+"correct": 3
+},
+{
+"q": "Which of the following actions best helps reduce the effect of random errors in a physics investigation?",
+"a": ["Repeating measurements multiple times and calculating a mean", "Using a broken ruler", "Changing the hypothesis halfway through", "Measuring only once very quickly"],
+"correct": 0
+},
+{
+"q": "What causes parallax error when reading a scale on a measuring cylinder or meter ruler?",
+"a": ["Fluctuations in electrical voltage", "Viewing the scale from an angle rather than directly straight on (perpendicularly)", "Using the wrong units of measurement", "Air pressure changes in the laboratory"],
+"correct": 1
+},
+{
+"q": "If a digital balance reads 0.05 g when nothing is placed on it, how can you correct for this zero error before taking measurements?",
+"a": ["Add 0.05 g to every subsequent reading", "Ignore it completely", "Press the tare or zero button to reset the display to 0.00 g", "Heat the balance until it stops"],
+"correct": 2
+},
+{
+"q": "Why is a micrometer screw gauge or digital caliper considered more precise than a standard plastic meter ruler for measuring small diameters?",
+"a": ["They are heavier", "They are made of metal", "They use batteries", "They have a much finer resolution (measuring down to 0.01 mm)"],
+"correct": 3
+},
+{
+"q": "What is the primary difference between random errors and systematic errors?",
+"a": ["Random errors cause unpredictable variations around the true value, whereas systematic errors shift all measurements by a consistent amount", "Systematic errors change randomly every second", "Random errors can never be analyzed", "Systematic errors are caused exclusively by human sneezing"],
+"correct": 0
+},
+{
+"q": "How can you determine the thickness of a single sheet of paper if a standard ruler lacks the resolution to measure it directly?",
+"a": ["Measure the thickness of a stack of 100 identical sheets, then divide the total thickness by 100", "Guess the value based on textbook averages", "Weigh the paper on a kitchen scale", "Soak the paper in water first"],
+"correct": 1
+},
+{
+"q": "What does a digital stop-clock with a display showing 0.01 seconds provide compared to a manual stopwatch?",
+"a": ["Higher weight", "Lower accuracy", "Higher resolution for timing intervals", "Absolute elimination of human reaction time errors"],
+"correct": 2
+},
+{
+"q": "Which of these instruments has the lowest resolution for measuring length?",
+"a": ["A vernier caliper", "A micrometer screw gauge", "A digital millimeter sensor", "A metre rule marked in centimeters only"],
+"correct": 3
+},
+{
+"q": "What is an anomalous result (outlier) in a set of repeated physical measurements?",
+"a": ["A reading that does not fit the general pattern or trend of the other data points", "The exact average value", "The highest possible scale limit", "A measurement taken with a digital meter"],
+"correct": 0
+},
+{
+"q": "When recording measurements in a scientific table, why must all raw data for the same quantity be written to the same number of decimal places?",
+"a": ["To make the table look colorful", "To reflect the consistent precision and resolution of the measuring instrument used", "To confuse readers", "To comply with art requirements"],
+"correct": 1
+},
+{
+"q": "If a thermometer is incorrectly calibrated and reads 2 degrees Celsius when placed in pure melting ice, what type of error does this introduce to all temperature readings?",
+"a": ["A random fluctuation error", "A human parallax error", "A systematic zero error", "A timing error"],
+"correct": 2
+},
+{
+"q": "What is the most effective way to eliminate human reaction time error when timing a swinging pendulum with a stopwatch?",
+"a": ["Start the watch after ten swings have already finished", "Close your eyes while timing", "Use a hand-held clicker while looking away", "Time multiple oscillations (e.g., 20 swings) and divide the total time by the number of swings"],
+"correct": 3
+},
+{
+"q": "What does a high level of precision in a set of repeated timer readings indicate?",
+"a": ["The readings are very close in value to each other", "The clock is broken", "The true value has been found instantly", "The temperature is dropping"],
+"correct": 0
+},
+{
+"q": "Why might a set of measurements be very precise (tightly clustered) yet completely inaccurate?",
+"a": ["The experiment was repeated too many times", "A constant systematic error (like a zero error) shifted every measurement away from the true value", "Digital displays always lie", "The student used too many decimal places"],
+"correct": 1
+},
+{
+"q": "What is the correct way to view the meniscus of a transparent liquid like water in a measuring cylinder?",
+"a": ["From a high angle looking downwards", "From underneath the glass", "With your eye level directly horizontal with the bottom of the meniscus", "Through a magnifying glass from across the room"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a measurement that is both accurate and precise?",
+"a": ["All readings are scattered widely across the scale", "All readings are clustered tightly together far away from the true value", "All readings change randomly every second", "All repeat readings are tightly clustered and extremely close to the true accepted value"],
+"correct": 3
+},
+{
+"q": "How does taking the mean (average) of several repeat readings improve the quality of experimental data?",
+"a": ["It reduces the impact of random errors on the final result", "It increases the absolute resolution of the ruler", "It eliminates all systematic errors automatically", "It makes the numbers larger"],
+"correct": 0
+},
+{
+"q": "What is the resolution of a standard laboratory thermometer marked with lines every 1 degree Celsius?",
+"a": ["0.001 degrees Celsius", "1 degree Celsius", "10 degrees Celsius", "100 degrees Celsius"],
+"correct": 1
+},
+{
+"q": "If you measure the length of a metal rod three times and get 10.1 cm, 10.1 cm, and 10.2 cm, what does this data demonstrate?",
+"a": ["High systematic error", "Zero precision", "High precision in the measurements", "A broken instrument"],
+"correct": 2
+},
+{
+"q": "What should a student do if during an experiment, one data point is identified as an obvious anomaly due to a dropped weight?",
+"a": ["Include it in the mean calculation anyway", "Change all other numbers to match it", "Erase it from history and pretend it didn't happen", "Exclude the anomalous reading from calculations and repeat that specific trial if time permits"],
+"correct": 3
+},
+{
+"q": "Why is it important to check that a spring balance (newton meter) reads zero before hanging any masses from it?",
+"a": ["To check and eliminate any potential zero error", "To calibrate the local gravity", "To test the spring color", "To warm up the metal spring"],
+"correct": 0
+},
+{
+"q": "What factor limits how precisely you can measure the length of a table using a wooden metre rule?",
+"a": ["The temperature of the room", "The resolution of the rule markings (typically 1 mm)", "The color of the wood", "The speed of light"],
+"correct": 1
+},
+{
+"q": "Which term describes how well an experimental procedure is designed to test what it is supposed to test without outside interference?",
+"a": ["Instrument resolution", "Data precision", "Validity", "Random scatter"],
+"correct": 2
+},
+{
+"q": "What is the best definition of a physical measurement?",
+"a": ["A random guess of object size", "An artistic estimation of shape", "A qualitative description of color", "The determination of the size, magnitude, or dimension of a quantity using a calibrated instrument"],
+"correct": 3
+},
+{
+"q": "If an ammeter needle does not point exactly to zero when the circuit is switched off, what must be adjusted before recording current data?",
+"a": ["The mechanical zero adjustment screw on the meter face", "The temperature of the laboratory", "The length of the connecting wires", "The battery voltage"],
+"correct": 0
+},
+{
+"q": "Which of these instruments is best suited for measuring the internal diameter of a narrow glass tube with high precision?",
+"a": ["A cloth measuring tape", "A vernier caliper", "A triple-beam kitchen scale", "A protractor"],
+"correct": 1
+},
+{
+"q": "What happens to the reliability of experimental conclusions if measurements are only taken once per test value?",
+"a": ["Reliability increases because work is faster", "Reliability is unaffected", "Reliability is low because anomalies or random errors cannot be detected or averaged out", "Reliability reaches 100 percent"],
+"correct": 2
+},
+{
+"q": "When calculating the average time for 5 oscillations of a pendulum, why should the total time for multiple swings be divided by 5?",
+"a": ["To make the number smaller", "To calculate the frequency", "To convert seconds into hours", "To determine the period (time for one complete oscillation) with reduced uncertainty"],
+"correct": 3
+},
+{
+"q": "What is uncertainty in measurement?",
+"a": ["The doubt that exists about the exact result of any measurement", "A complete failure of the apparatus", "The color of the instrument dial", "The price of the equipment"],
+"correct": 0
+},
+{
+"q": "Why do digital instruments sometimes fluctuate by 1 digit at the lowest decimal place during steady measurements?",
+"a": ["Electrical noise or minute environmental changes matching the instrument's fine resolution", "The instrument is exploding", "The battery is completely dead", "Gravity is reversing"],
+"correct": 1
+},
+{
+"q": "If a measuring cylinder has scale divisions every 1 millilitre, what is the smallest estimation a careful student can typically make?",
+"a": ["0.0001 ml", "100 ml", "Half of a division (0.5 ml)", "10 ml"],
+"correct": 2
+},
+{
+"q": "What does calibration of a measuring instrument involve?",
+"a": ["Washing it with soap", "Painting numbers on the side", "Storing it in a dark box", "Checking its readings against a known standard to ensure accuracy"],
+"correct": 3
+}
+]
+}

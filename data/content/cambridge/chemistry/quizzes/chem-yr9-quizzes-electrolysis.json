@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr9-quizzes-electrolysis",
+  "name": "Introduction to electrolysis",
+  "questions": [
+    {
+      "q": "What is electrolysis?",
+      "a": ["The breakdown of an ionic compound (electrolyte) in molten or aqueous state using electrical energy", "The generation of electricity using a chemical battery", "The process of rusting iron in water", "The melting of solid ice into liquid water"],
+      "correct": 0
+    },
+    {
+      "q": "What name is given to the liquid or solution that conducts electricity and undergoes decomposition during electrolysis?",
+      "a": ["An electrode", "An electrolyte", "A non-electrolyte", "A distillate"],
+      "correct": 1
+    },
+    {
+      "q": "What is the positive electrode called in an electrolytic cell?",
+      "a": ["Cathode", "Anion", "Anode", "Cation"],
+      "correct": 2
+    },
+    {
+      "q": "What is the negative electrode called in an electrolytic cell?",
+      "a": ["Electrolyte", "Salt bridge", "Anode", "Cathode"],
+      "correct": 3
+    },
+    {
+      "q": "Which ions are attracted to the positive electrode (anode) during electrolysis?",
+      "a": ["Negative ions (anions)", "Positive ions (cations)", "Neutral molecules", "Free neutrons"],
+      "correct": 0
+    },
+    {
+      "q": "Why must ionic compounds be molten or dissolved in water before they can undergo electrolysis?",
+      "a": ["To make them change color", "So that their ions are free to move toward the oppositely charged electrodes", "Because solid ionic lattices are too cold", "To prevent electricity from flowing"],
+      "correct": 1
+    },
+    {
+      "q": "What happens at the cathode during electrolysis?",
+      "a": ["Oxidation (loss of electrons)", "Formation of anions", "Reduction (gain of electrons by positive ions)", "Neutral gas evaporation"],
+      "correct": 2
+    },
+    {
+      "q": "What is produced at the anode when molten lead(II) bromide is electrolyzed using inert electrodes?",
+      "a": ["Lead metal", "Hydrogen gas", "Oxygen gas", "Bromine gas"],
+      "correct": 3
+    },
+    {
+      "q": "What product is formed at the cathode during the electrolysis of molten lead(II) bromide?",
+      "a": ["Lead metal", "Bromine liquid", "Oxygen gas", "Water"],
+      "correct": 0
+    },
+    {
+      "q": "Why are inert electrodes, such as platinum or carbon (graphite), typically used in electrolysis?",
+      "a": ["They dissolve into the solution", "They do not react with the electrolyte or the products formed during electrolysis", "They generate their own electricity", "They are magnetic"],
+      "correct": 1
+    },
+    {
+      "q": "During the electrolysis of acidified water, what gas is collected at the anode (positive electrode)?",
+      "a": ["Hydrogen", "Chlorine", "Oxygen", "Nitrogen"],
+      "correct": 2
+    },
+    {
+      "q": "During the electrolysis of acidified water, what is the ratio of the volume of hydrogen gas collected at the cathode compared to the volume of oxygen gas collected at the anode?",
+      "a": ["1:1", "1:2", "3:1", "2:1"],
+      "correct": 3
+    },
+    {
+      "q": "What determines which ion is discharged at an electrode during the electrolysis of an aqueous solution containing multiple ion types?",
+      "a": ["The reactivity series position, concentration, and nature of the ions", "The color of the container", "The atmospheric pressure only", "The volume of the battery"],
+      "correct": 0
+    },
+    {
+      "q": "When concentrated aqueous sodium chloride (brine) is electrolyzed, what gas is released at the anode?",
+      "a": ["Hydrogen", "Chlorine", "Oxygen", "Sodium vapor"],
+      "correct": 1
+    },
+    {
+      "q": "What remaining solution is left behind in the cell after the industrial electrolysis of concentrated aqueous sodium chloride (brine)?",
+      "a": ["Hydrochloric acid", "Pure water", "Sodium hydroxide solution", "Copper sulfate solution"],
+      "correct": 2
+    },
+    {
+      "q": "What is electroplating?",
+      "a": ["Using heat to melt metal coatings", "Painting a metal surface with oil", "Polishing jewelry with sand", "Using electrolysis to coat a cheaper metal object with a thin layer of a more expensive or protective metal"],
+      "correct": 3
+    },
+    {
+      "q": "In an electroplating setup, what object is always connected to the negative terminal (cathode) of the power supply?",
+      "a": ["The object to be plated", "The pure plating metal bar", "The power switch", "The electrolyte container"],
+      "correct": 0
+    },
+    {
+      "q": "What is used as the anode when electroplating a metal object with copper?",
+      "a": ["A carbon rod", "A pure copper bar", "An iron nail", "A piece of plastic"],
+      "correct": 1
+    },
+    {
+      "q": "Why is aluminium extracted using electrolysis of molten aluminium oxide mixed with cryolite rather than by heating with carbon?",
+      "a": ["Aluminium is too cheap", "Carbon is a liquid", "Aluminium is more reactive than carbon, so carbon cannot displace it from its oxide", "Cryolite makes aluminium magnetic"],
+      "correct": 2
+    },
+    {
+      "q": "What is the primary purpose of adding cryolite to aluminium oxide during the extraction of aluminium?",
+      "a": ["To act as a fuel", "To add carbon atoms", "To color the solution", "To lower the melting point of the aluminium oxide mixture, saving energy"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the carbon anodes over time during the industrial extraction of aluminium?",
+      "a": ["They burn away as carbon dioxide because the oxygen produced at the anode reacts with the hot carbon electrodes", "They grow larger", "They turn into gold", "They dissolve into liquid water"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the chemical change where electrons are gained by ions at an electrode?",
+      "a": ["Oxidation", "Reduction", "Neutralization", "Sublimation"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes the chemical change where electrons are lost by ions at an electrode?",
+      "a": ["Condensation", "Precipitation", "Oxidation", "Freezing"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following substances will conduct electricity when in a molten state or dissolved in water?",
+      "a": ["Solid sugar", "Pure ethanol", "Solid plastic", "Copper(II) chloride solution"],
+      "correct": 3
+    },
+    {
+      "q": "Why do solid ionic compounds fail to conduct electricity?",
+      "a": ["Because their ions are locked tightly in fixed positions within the giant lattice and cannot move", "Because they contain too many electrons", "Because they are non-metals", "Because they lack protons"],
+      "correct": 0
+    },
+    {
+      "q": "During the electrolysis of dilute copper(II) sulfate solution using inert carbon electrodes, what is deposited at the cathode?",
+      "a": ["Oxygen gas", "Pink-brown copper metal", "Hydrogen gas", "Sulfur crystals"],
+      "correct": 1
+    },
+    {
+      "q": "What is observed at the anode when dilute copper(II) sulfate is electrolyzed with inert electrodes?",
+      "a": ["Copper dissolves", "A blue precipitate forms", "Bubbles of oxygen gas", "Chlorine gas"],
+      "correct": 2
+    },
+    {
+      "q": "If copper electrodes are used instead of carbon electrodes in the electrolysis of copper sulfate solution, what happens to the anode?",
+      "a": ["It turns into gold", "It coats with hydrogen", "It remains completely unchanged", "It dissolves (loses mass) as copper atoms oxidize into copper ions"],
+      "correct": 3
+    },
+    {
+      "q": "In the purification of impure copper by electrolysis, where does pure copper accumulate?",
+      "a": ["On the cathode", "On the anode", "At the bottom as sludge", "In the air as gas"],
+      "correct": 0
+    },
+    {
+      "q": "What collects at the bottom of the electrolysis tank during the industrial purification of copper?",
+      "a": ["Pure gold dust", "Anode sludge containing valuable impurities like silver and gold", "Solid sodium chloride", "Iron filings"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following ions is discharged at the cathode during the electrolysis of a dilute aqueous solution of sodium chloride?",
+      "a": ["Sodium ions", "Chloride ions", "Hydrogen ions (because sodium is more reactive than hydrogen)", "Hydroxide ions"],
+      "correct": 2
+    },
+    {
+      "q": "What is the electrical charge of cations in an electrolytic cell?",
+      "a": ["Negative", "Neutral", "Variable", "Positive"],
+      "correct": 3
+    },
+    {
+      "q": "What is the electrical charge of anions in an electrolytic cell?",
+      "a": ["Negative", "Positive", "Zero", "Magnetic"],
+      "correct": 0
+    },
+    {
+      "q": "Which subatomic particles carry the electrical current through the external wires and electrodes in an electrolytic circuit?",
+      "a": ["Protons", "Electrons", "Neutrons", "Alpha particles"],
+      "correct": 1
+    },
+    {
+      "q": "Which particles carry the electrical current through the molten or aqueous electrolyte itself?",
+      "a": ["Free electrons", "Moving atoms", "Mobile ions", "Stationary molecules"],
+      "correct": 2
+    },
+    {
+      "q": "What is produced at the cathode when molten sodium chloride is electrolyzed?",
+      "a": ["Chlorine gas", "Hydrogen gas", "Oxygen gas", "Liquid sodium metal"],
+      "correct": 3
+    },
+    {
+      "q": "Why is direct current (DC) used for electrolysis rather than alternating current (AC)?",
+      "a": ["DC ensures the electrodes maintain a constant polarity so that ions migrate in one consistent direction", "AC destroys the power supply", "DC makes the liquid boil faster", "AC causes the electrodes to melt"],
+      "correct": 0
+    },
+    {
+      "q": "Which metal is commonly used to electroplate steel car bumpers to protect them from corrosion and give them a shiny finish?",
+      "a": ["Iron", "Chromium", "Lead", "Sodium"],
+      "correct": 1
+    },
+    {
+      "q": "In terms of energy conversion, what type of energy conversion occurs during electrolysis?",
+      "a": ["Chemical energy to electrical energy", "Thermal energy to mechanical energy", "Electrical energy to chemical energy", "Light energy to sound energy"],
+      "correct": 2
+    },
+    {
+      "q": "What ionic equation represents the reaction occurring at the cathode when copper ions (Cu^2+) gain two electrons?",
+      "a": ["Cu -> Cu^2+ + 2e^-", "Cu^2+ + e^- -> Cu^+", "Cu + 2e^- -> Cu^2-", "Cu^2+ + 2e^- -> Cu"],
+      "correct": 3
+    }
+  ]
+}

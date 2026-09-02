@@ -1,0 +1,166 @@
+{
+"id": "phys-yr7-quizzes-gravity",
+"name": "Gravity and weight",
+"questions": [
+{
+"q": "What is the scientific definition of gravity?",
+"a": ["A non-contact attractive force between any two objects that have mass", "A contact force created by rubbing surfaces together", "The speed at which an object falls through air", "A magnetic repulsion force between metals"],
+"correct": 0
+},
+{
+"q": "What is the difference between mass and weight?",
+"a": ["Mass is measured in Newtons and weight in kilograms", "Mass is the amount of matter in an object (constant everywhere), while weight is the gravitational force acting on that mass", "Weight never changes anywhere in the universe, but mass does", "Mass and weight are identical terms for the same property"],
+"correct": 1
+},
+{
+"q": "What is the standard SI unit for weight?",
+"a": ["Kilogram (kg)", "Gram (g)", "Newton (N)", "Joule (J)"],
+"correct": 2
+},
+{
+"q": "Which instrument is used to measure the weight of an object?",
+"a": ["A top-pan electronic balance", "A standard wooden metre rule", "An ordinary kitchen clock", "A newton meter (spring balance)"],
+"correct": 3
+},
+{
+"q": "What is the approximate gravitational field strength (g) on the surface of the Earth?",
+"a": ["9.8 N/kg (or roughly 10 N/kg)", "1.6 N/kg", "100 N/kg", "0 N/kg"],
+"correct": 0
+},
+{
+"q": "Which formula correctly relates weight (W), mass (m), and gravitational field strength (g)?",
+"a": ["W = m / g", "W = m × g", "W = g / m", "W = m + g"],
+"correct": 1
+},
+{
+"q": "If an astronaut has a mass of 70 kg on Earth, what is their mass when they travel to the Moon (where gravity is weaker)?",
+"a": ["11.6 kg", "420 kg", "70 kg", "0 kg"],
+"correct": 2
+},
+{
+"q": "If an object has a mass of 5 kg on Earth (where g = 10 N/kg), what is its weight?",
+"a": ["0.5 N", "2.0 N", "5.0 N", "50 N"],
+"correct": 3
+},
+{
+"q": "Why does an astronaut weigh much less on the Moon than on Earth, even though their body contains the same amount of matter?",
+"a": ["The Moon has a much smaller mass than Earth, resulting in a weaker gravitational field strength", "There is no air on the Moon", "The Moon is made of cheese", "Space makes objects float by removing all atoms"],
+"correct": 0
+},
+{
+"q": "What happens to the weight of an object if it is taken deep into outer space far away from any planets or stars?",
+"a": ["Its weight increases to a maximum value", "Its weight becomes zero (weightlessness), because gravitational pull is negligible", "Its weight stays exactly the same as on Earth", "Its weight becomes equal to its volume"],
+"correct": 1
+},
+{
+"q": "Which of these instruments measures mass rather than weight?",
+"a": ["A spring balance", "A newton meter", "An electronic top-pan balance", "A rubber band scale"],
+"correct": 2
+},
+{
+"q": "If an object has a weight of 120 N on Earth (where g = 10 N/kg), what is its mass?",
+"a": ["1,200 kg", "121 kg", "1.2 kg", "12 kg"],
+"correct": 3
+},
+{
+"q": "Why do all objects, regardless of their mass, fall to the ground with the same acceleration in a vacuum (air resistance removed)?",
+"a": ["Because gravitational field strength g acts equally on every kilogram of mass, making the ratio of force to mass constant", "Because heavy objects are pulled by magnets", "Because gravity does not affect light objects", "Because air pushes them down"],
+"correct": 0
+},
+{
+"q": "What term is used to describe the force of gravity acting on a specific object?",
+"a": ["Inertia", "Weight", "Density", "Momentum"],
+"correct": 1
+},
+{
+"q": "Which of the following celestial bodies has the strongest gravitational field strength in our solar system?",
+"a": ["The Moon", "Mars", "Jupiter", "Pluto"],
+"correct": 2
+},
+{
+"q": "What is the standard SI base unit for mass?",
+"a": ["Gram (g)", "Newton (N)", "Pound (lb)", "Kilogram (kg)"],
+"correct": 3
+},
+{
+"q": "If a heavy rock and a feather are dropped together inside a sealed vacuum chamber on Earth, what will happen?",
+"a": ["They will hit the floor at the exact same time", "The rock will hit the floor much faster", "The feather will float away into the ceiling", "The feather will hit the floor first"],
+"correct": 0
+},
+{
+"q": "How does distance from the center of a planet affect the force of gravity acting on an object?",
+"a": ["Gravity increases as you move further away", "Gravity decreases as you move further away from the center", "Distance has no effect on gravity", "Gravity stops instantly at 10 metres"],
+"correct": 1
+},
+{
+"q": "What force keeps the Moon in a stable orbit around the Earth?",
+"a": ["Magnetic attraction between rocks", "Electrostatic charge on the Moon's surface", "Gravitational force exerted by the Earth", "Solar wind pressure"],
+"correct": 2
+},
+{
+"q": "If an object has a mass of 800 grams, what is its mass expressed in standard kilograms?",
+"a": ["8 kg", "80 kg", "0.08 kg", "0.8 kg"],
+"correct": 3
+},
+{
+"q": "Why does a feather fall much slower than a stone when dropped in a normal school classroom?",
+"a": ["Air resistance (drag) pushes upward significantly on the broad, light feather, slowing its fall", "The stone is pulled by magnets", "Gravity does not work on feathers", "The feather has more mass than the stone"],
+"correct": 0
+},
+{
+"q": "What is the weight of an object with a mass of 2.5 kg on Earth, using g = 10 N/kg?",
+"a": ["250 N", "25 N", "2.5 N", "0.25 N"],
+"correct": 1
+},
+{
+"q": "Which property of an object determines how strongly it is pulled by a gravitational field?",
+"a": ["Its color", "Its temperature", "Its mass", "Its speed"],
+"correct": 2
+},
+{
+"q": "What is the approximate gravitational field strength on the surface of the Moon?",
+"a": ["9.8 N/kg", "20 N/kg", "50 N/kg", "About 1.6 N/kg"],
+"correct": 3
+},
+{
+"q": "If a person weighs 600 N on Earth, what is their approximate mass?",
+"a": ["60 kg", "600 kg", "6 kg", "6,000 kg"],
+"correct": 0
+},
+{
+"q": "Why do oceans on Earth experience tides caused by the Moon?",
+"a": ["Because the Moon generates strong magnetic waves", "Because the gravitational pull of the Moon attracts the Earth's water, causing it to bulge", "Because the Sun pushes water away", "Because of underwater volcanic activity"],
+"correct": 1
+},
+{
+"q": "What happens to an object's weight if it is taken from Earth to a planet with a higher gravitational field strength, like Jupiter?",
+"a": ["Its weight decreases", "Its weight becomes zero", "Its weight increases", "Its weight fluctuates randomly"],
+"correct": 2
+},
+{
+"q": "Which of the following is true about mass?",
+"a": ["It changes depending on which planet you visit", "It is measured in Newtons using a spring balance", "It can be created or destroyed easily", "It is a measure of the amount of matter in an object and is measured in kilograms"],
+"correct": 3
+},
+{
+"q": "What causes a dropped ball to accelerate downward as it falls?",
+"a": ["The unbalanced downward force of gravity", "Air pushing it down", "Magnetic pull from the floor", "The rotation of the hands"],
+"correct": 0
+},
+{
+"q": "If an object has a mass of 15 kg, what would be its weight on a planet where the gravitational field strength is 4 N/kg?",
+"a": ["15 N", "60 N", "4 N", "150 N"],
+"correct": 1
+},
+{
+"q": "Which term describes the force of gravity acting on unit mass (measured in N/kg)?",
+"a": ["Mass density", "Weight volume", "Gravitational field strength", "Inertial resistance"],
+"correct": 2
+},
+{
+"q": "What device can be used to compare unknown masses against standard known masses using pivot balance?",
+"a": ["A spring balance", "A thermometer", "A stopwatch", "A beam balance (or mechanical scale)"],
+"correct": 3
+}
+]
+}

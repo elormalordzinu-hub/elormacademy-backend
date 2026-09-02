@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support | Bright and Bold</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        body {
+            background-color: #050505;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .content-container {
+            width: 90%;
+            max-width: 480px;
+            margin: 50px auto;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #ffe600;
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            text-shadow: 0 0 20px rgba(255, 230, 0, 0.4);
+            letter-spacing: 1px;
+        }
+
+        .subtitle11 {
+            color: #f3f0f0;
+            font-size: 1rem;
+            margin-bottom: 30px;
+            line-height: 1.5;
+        }
+
+        .about-card {
+            background: #0a0a0a;
+            border: 2px solid #00e5ff;
+            box-shadow: 0 0 30px rgba(0, 229, 255, 0.25);
+            border-radius: 16px;
+            padding: 35px 25px;
+            margin-bottom: 25px;
+            transition: transform 0.3s ease;
+        }
+
+        .about-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 0 35px rgba(0, 229, 255, 0.4);
+        }
+
+        .about-card22 h2 {
+            color: #ffffff;
+            font-size: 1.3rem;
+            margin-top: 0;
+            margin-bottom: 15px;
+            letter-spacing: 0.5px;
+        }
+
+        .about-card22 p {
+            color: #ffffff;
+            font-size: 0.95rem;
+            margin-bottom: 25px;
+        }
+
+        .btn-stack {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .btn-whatsapp {
+            background: linear-gradient(135deg, #00ff00, #00cc00);
+            color: #050505;
+            padding: 14px 20px;
+            border-radius: 10px;
+            font-weight: bold;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.95rem;
+            box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+            transition: all 0.2s ease;
+            display: block;
+        }
+
+        .btn-whatsapp:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 25px rgba(0, 255, 0, 0.5);
+        }
+
+        .btn-email {
+            background: linear-gradient(135deg, #ff4081, #d81b60);
+            color: #ffffff;
+            padding: 14px 20px;
+            border-radius: 10px;
+            font-weight: bold;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.95rem;
+            box-shadow: 0 0 20px rgba(255, 64, 129, 0.3);
+            transition: all 0.2s ease;
+            display: block;
+        }
+
+        .btn-email:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 25px rgba(255, 64, 129, 0.5);
+        }
+
+        .back-btn {
+            background: linear-gradient(135deg, #00e5ff, #0088cc);
+            color: #050505;
+            padding: 12px 25px;
+            border-radius: 10px;
+            font-weight: bold;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 0.9rem;
+            display: inline-block;
+            box-shadow: 0 0 15px rgba(0, 229, 255, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .back-btn:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 20px rgba(0, 229, 255, 0.5);
+        }
+
+        footer {
+            margin-bottom: 25px;
+            color: #777777;
+            font-size: 0.85rem;
+            letter-spacing: 0.5px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="content-container">
+    <h1>Need Help? 🛠️</h1>
+    <p class="subtitle11">I am here to ensure you have the best experience in the Arena.</p>
+    
+    <div class="about-card22">
+        <h2>Contact Support, Coupon requests, etc.</h2>
+        <p>Please reach out via WhatsApp or email.</p>
+        
+        <div class="btn-stack">
+            <a href="https://wa.me/233201351763" class="btn-whatsapp">Chat on WhatsApp</a>
+            <a href="mailto:elormalordzinu@gmail.com" class="btn-email" id="emailLink">Email Me</a>
+        </div>
+    </div>
+
+    <a href="index.html" class="back-btn">Back to Arena</a>
+</div>
+
+<footer>
+    <p>&copy; 2026 BrightandBold Learning Arena.</p>
+</footer>
+
+<script>
+    document.getElementById('emailLink').addEventListener('click', function(e) {
+        const email = 'elormalordzinu@gmail.com';
+        navigator.clipboard.writeText(email).then(() => {
+            alert('Email address (elormalordzinu@gmail.com) copied to clipboard!');
+        }).catch(err => {
+            console.error('Failed to copy email', err);
+        });
+    });
+</script>
+</body>
+</html>

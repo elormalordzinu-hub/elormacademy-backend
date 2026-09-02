@@ -1,0 +1,166 @@
+{
+"id": "phys-yr7-quizzes-thermal",
+"name": "States of matter and thermal energy",
+"questions": [
+{
+"q": "What are the three common states of matter on Earth?",
+"a": ["Solid, liquid, gas", "Metal, non-metal, gas", "Hot, cold, neutral", "Plasma, energy, solid"],
+"correct": 0
+},
+{
+"q": "Which state of matter has a fixed volume but no fixed shape, taking the shape of the container it is placed in?",
+"a": ["Solid", "Liquid", "Gas", "Plasma"],
+"correct": 1
+},
+{
+"q": "How are particles arranged in a solid substance?",
+"a": ["Randomly arranged with large gaps between them", "Moving very fast in all directions", "Tightly packed together in a regular, fixed pattern with vibrating motion", "Completely free to flow past each other randomly"],
+"correct": 2
+},
+{
+"q": "Which state of matter is highly compressible because its particles are far apart and move rapidly in all directions?",
+"a": ["Solid", "Liquid", "Ice", "Gas"],
+"correct": 3
+},
+{
+"q": "What scientific term describes the change of state from a liquid to a gas?",
+"a": ["Evaporation (or boiling)", "Condensation", "Melting", "Freezing"],
+"correct": 0
+},
+{
+"q": "What happens to the particles of a substance when it is heated?",
+"a": ["They stop moving completely", "They gain kinetic energy and vibrate or move faster, usually spreading further apart", "They shrink in physical size", "They turn into electricity"],
+"correct": 1
+},
+{
+"q": "What term is given to the change of state directly from a solid to a gas without becoming a liquid first?",
+"a": ["Condensation", "Melting", "Sublimation", "Freezing"],
+"correct": 2
+},
+{
+"q": "What is thermal energy?",
+"a": ["The electrical charge of an object", "The speed of light through a vacuum", "The physical weight of a substance", "The total kinetic and potential energy of all the particles inside a substance"],
+"correct": 3
+},
+{
+"q": "What is the primary method of thermal energy transfer through solid materials?",
+"a": ["Conduction", "Convection", "Radiation", "Evaporation"],
+"correct": 0
+},
+{
+"q": "Why are metals much better thermal conductors than wood or plastic?",
+"a": ["Metals are heavier", "Metals contain delocalized free electrons that can collide with ions and transfer thermal energy rapidly", "Wood has no particles", "Plastics absorb all heat permanently"],
+"correct": 1
+},
+{
+"q": "What method of thermal energy transfer occurs in fluids (liquids and gases) due to differences in density caused by heating?",
+"a": ["Conduction", "Radiation", "Convection", "Reflection"],
+"correct": 2
+},
+{
+"q": "What term describes materials such as wool, polystyrene, or fiberglass that are poor conductors of thermal energy and used to prevent heat loss?",
+"a": ["Conductors", "Radiators", "Semiconductors", "Thermal insulators"],
+"correct": 3
+},
+{
+"q": "What happens to warm air or warm water during a convection current?",
+"a": ["It expands, becomes less dense, and rises", "It contracts, becomes denser, and sinks", "It turns into a solid", "It remains completely stationary"],
+"correct": 0
+},
+{
+"q": "What type of heat transfer does not require any particles or medium to travel through and can even pass through a vacuum?",
+"a": ["Conduction", "Radiation (infrared)", "Convection", "Fluid friction"],
+"correct": 1
+},
+{
+"q": "What is the temperature at which a solid turns into a liquid called?",
+"a": ["Boiling point", "Condensation point", "Melting point", "Freezing point"],
+"correct": 2
+},
+{
+"q": "Why do railway tracks have small expansion gaps left between sections of metal rails?",
+"a": ["To allow water to drain away easily", "To make the train ride bumpier", "To save metal during manufacturing", "To allow the metal to expand safely on hot summer days without buckling"],
+"correct": 3
+},
+{
+"q": "What happens to water when it freezes into ice at 0 degrees Celsius?",
+"a": ["It expands slightly in volume as ice crystals form a structured open lattice", "It contracts continuously until it disappears", "Its mass increases drastically", "Its particles stop moving entirely"],
+"correct": 0
+},
+{
+"q": "What is the process called when a gas turns back into a liquid, such as water vapor forming droplets on a cold window?",
+"a": ["Evaporation", "Condensation", "Melting", "Sublimation"],
+"correct": 1
+},
+{
+"q": "According to the particle model of matter, why can liquids flow and take the shape of a container while solids cannot?",
+"a": ["Liquid particles are stationary", "Liquid particles are held in rigid fixed positions", "Liquid particles have weaker forces between them, allowing them to slide past each other", "Liquid particles have turned into gases"],
+"correct": 2
+},
+{
+"q": "Which color and texture of a surface is the best absorber and emitter of thermal infrared radiation?",
+"a": ["Shiny and white", "Shiny and silver", "Smooth and polished", "Dull and black"],
+"correct": 3
+},
+{
+"q": "What scientific term describes the continuous process where warm liquid or gas rises, cools at the top, becomes denser, and sinks back down?",
+"a": ["Convection current", "Conduction chain", "Radiation beam", "Evaporation cycle"],
+"correct": 0
+},
+{
+"q": "Why do gases fill up any container they are placed in, no matter its size?",
+"a": ["Gases have fixed shapes", "Gas particles move rapidly in all directions with large spaces between them and no strong bonds", "Gas particles attract the container walls magnetically", "Gases are heavy"],
+"correct": 1
+},
+{
+"q": "What is the boiling point of pure water under standard atmospheric pressure?",
+"a": ["0 degrees Celsius", "50 degrees Celsius", "100 degrees Celsius", "212 degrees Kelvin"],
+"correct": 2
+},
+{
+"q": "How does a vacuum flask (thermos) minimize heat transfer by conduction and convection through its walls?",
+"a": ["By using thick solid iron walls", "By filling the gap with boiling water", "By painting the inside black", "By having a double-walled glass container with a vacuum between the walls"],
+"correct": 3
+},
+{
+"q": "What happens to the temperature of water while it is actively boiling at its boiling point?",
+"a": ["The temperature stays constant until all the liquid turns into gas", "The temperature continues rising indefinitely", "The temperature drops rapidly", "The water instantly freezes"],
+"correct": 0
+},
+{
+"q": "Which of the following everyday observations is caused by thermal expansion?",
+"a": ["Ice melting in a glass of juice", "Sagging overhead power lines on a hot afternoon", "Puddles drying up on a sunny day", "Dew forming on grass overnight"],
+"correct": 1
+},
+{
+"q": "Why does blowing across the surface of a hot bowl of soup help to cool it down faster?",
+"a": ["It adds cold atoms to the soup", "It compresses the liquid particles", "It sweeps away warm water vapor molecules just above the surface, increasing the rate of evaporation", "It stops conduction"],
+"correct": 2
+},
+{
+"q": "What state of matter is characterized by having neither a fixed shape nor a fixed volume, and fills its entire container?",
+"a": ["Solid", "Liquid", "Ice", "Gas"],
+"correct": 3
+},
+{
+"q": "Why do double-glazed windows help keep houses warm in winter?",
+"a": ["The trapped layer of air or gas between the two glass panes acts as a poor thermal conductor, reducing heat loss", "Glass generates heat from sunlight", "Air is an excellent conductor of heat", "It lets convection currents escape outside"],
+"correct": 0
+},
+{
+"q": "What is the term for the energy required to change a substance from a solid to a liquid at its melting point?",
+"a": ["Kinetic energy", "Latent heat (or energy of fusion)", "Thermal pressure", "Gravitational energy"],
+"correct": 1
+},
+{
+"q": "In an experiment testing thermal insulation, which material would cause hot water in a beaker to cool down the slowest?",
+"a": ["A thin sheet of bare aluminum foil", "A bare copper plate", "A thick layer of bubble wrap or wool lagging", "An open glass funnel"],
+"correct": 2
+},
+{
+"q": "What happens to the density of most substances when they are heated?",
+"a": ["Density increases because mass increases", "Density stays exactly the same", "Density increases because volume decreases", "Density decreases because the particles spread out, increasing volume"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+"id": "phys-igcse-quizzes-magnetism",
+"name": "Magnetism and magnetic effects of current",
+"questions": [
+{
+"q": "Which of the following materials is classified as ferromagnetic and is strongly attracted to magnets?",
+"a": ["Iron", "Copper", "Aluminum", "Wood"],
+"correct": 0
+},
+{
+"q": "What is the direction of magnetic field lines outside a bar magnet?",
+"a": ["From the South pole to the North pole", "From the North pole to the South pole", "In concentric circles with no direction", "Radiating outward in all directions from the center"],
+"correct": 1
+},
+{
+"q": "What occurs when two like magnetic poles (such as North and North) are brought close together?",
+"a": ["They attract each other strongly.", "They have zero interaction.", "They repel each other.", "They neutralize each other magnetism completely."],
+"correct": 2
+},
+{
+"q": "What name is given to a long coil of wire carrying an electric current that produces a strong, uniform magnetic field inside it?",
+"a": ["A transformer", "A resistor", "A diode", "A solenoid"],
+"correct": 3
+},
+{
+"q": "How can the strength of the magnetic field inside an electromagnet solenoid be increased?",
+"a": ["Increasing the current flowing through the coil or adding an iron core", "Decreasing the number of turns of wire", "Using plastic wire instead of copper", "Reversing the battery terminals"],
+"correct": 0
+},
+{
+"q": "What rule is used to determine the direction of the magnetic field around a straight current-carrying conductor?",
+"a": ["Fleming left-hand rule", "Right-hand grip rule", "Lenz law", "Faraday law"],
+"correct": 1
+},
+{
+"q": "What is the primary difference between a permanent magnet and a temporary electromagnet?",
+"a": ["Electromagnets are made of hard steel, while permanent magnets are made of soft iron.", "Permanent magnets lose their magnetism when cold.", "Electromagnets can be switched on and off by controlling the electric current, whereas permanent magnets retain their magnetism indefinitely.", "Permanent magnets have only one pole."],
+"correct": 2
+},
+{
+"q": "Why is soft iron commonly used as the core of an electromagnet rather than hard steel?",
+"a": ["Soft iron melts at higher temperatures.", "Soft iron is much cheaper to manufacture.", "Soft iron retains its magnetism permanently after the current is switched off.", "Soft iron magnetizes and demagnetizes easily and quickly when the current is switched on and off."],
+"correct": 3
+},
+{
+"q": "What happens to a current-carrying conductor placed at right angles to a magnetic field?",
+"a": ["It experiences a mechanical force acting perpendicular to both the field and the current.", "It begins to emit light.", "It heats up and melts instantly.", "It aligns parallel to the magnetic field lines."],
+"correct": 0
+},
+{
+"q": "Which rule is used to find the direction of the force acting on a current-carrying conductor in a magnetic field (the motor effect)?",
+"a": ["Right-hand grip rule", "Fleming left-hand rule", "Fleming right-hand rule", "Right-hand palm rule"],
+"correct": 1
+},
+{
+"q": "Which of the following factors will increase the magnitude of the force on a current-carrying wire in a magnetic field?",
+"a": ["Decreasing the current", "Reducing the strength of the magnetic field", "Increasing the current or strengthening the magnetic field", "Lengthening the wire parallel to the field lines"],
+"correct": 2
+},
+{
+"q": "What is the function of the split-ring commutator in a direct current (DC) electric motor?",
+"a": ["To increase the voltage supplied to the motor", "To reverse the magnetic field of the permanent magnets", "To supply electricity directly to the stationary brushes", "To reverse the direction of current in the rotating coil every half-turn, ensuring continuous rotation in one direction"],
+"correct": 3
+},
+{
+"q": "What term describes the production of an electromotive force (emf) or electric current in a circuit when it experiences a changing magnetic field?",
+"a": ["Electromagnetic induction", "Magnetic saturation", "Electrostatic induction", "Thermoelectric effect"],
+"correct": 0
+},
+{
+"q": "According to Faraday Law of Electromagnetic Induction, what increases the magnitude of the induced emf in a coil?",
+"a": ["Decreasing the speed of the magnet movement", "Increasing the speed of movement, the number of turns in the coil, or the strength of the magnetic field", "Using a shorter wire", "Removing the iron core"],
+"correct": 1
+},
+{
+"q": "What does Lenz Law state regarding the direction of an induced current?",
+"a": ["The induced current flows in the same direction as the magnetic field.", "The induced current creates zero magnetic effect.", "The induced current always flows in such a direction as to oppose the change producing it.", "The induced current cancels out the original voltage."],
+"correct": 2
+},
+{
+"q": "What is the primary function of a step-up transformer in an electrical power transmission system?",
+"a": ["To increase the current and decrease the voltage", "To convert alternating current into direct current", "To eliminate all electrical resistance in cables", "To increase the voltage and decrease the current to reduce energy loss over long distances"],
+"correct": 3
+},
+{
+"q": "Why do transformers require an alternating current (AC) input rather than a direct current (DC) input?",
+"a": ["AC creates a continuously changing magnetic field in the primary coil, which is necessary to induce an emf in the secondary coil.", "DC melts the transformer core.", "AC travels faster through copper wire.", "Direct current cannot pass through coils."],
+"correct": 0
+},
+{
+"q": "What is the formula that relates the primary voltage (Vp), secondary voltage (Vs), primary turns (Np), and secondary turns (Ns) in an ideal transformer?",
+"a": ["Vp times Vs = Np times Ns", "Vp / Vs = Np / Ns", "Vp / Vs = Ns / Np", "Vp plus Vs = Np plus Ns"],
+"correct": 1
+},
+{
+"q": "An ideal transformer has 200 turns on its primary coil and 800 turns on its secondary coil. If the primary voltage is 50 V, what is the output voltage on the secondary coil?",
+"a": ["12.5 V", "50 V", "200 V", "800 V"],
+"correct": 2
+},
+{
+"q": "Why are laminated iron cores used in practical transformers instead of solid iron blocks?",
+"a": ["To make the transformer lighter in weight", "To increase operating temperatures", "To improve aesthetic appearance", "To reduce energy losses caused by induced eddy currents circulating within the core"],
+"correct": 3
+},
+{
+"q": "What happens when a magnet is pushed rapidly into a closed coil of wire connected to a center-zero galvanometer?",
+"a": ["The galvanometer needle deflects momentarily, indicating an induced current.", "The needle spins continuously in one direction.", "The magnet stops moving instantly.", "The wire melts."],
+"correct": 0
+},
+{
+"q": "Which of the following devices converts electrical energy into mechanical rotation using the motor effect?",
+"a": ["A step-down transformer", "A direct current electric motor", "An alternating current generator", "A magnetic compass"],
+"correct": 1
+},
+{
+"q": "What is the purpose of the slip rings connected to the rotating coil in an alternating current (AC) generator (alternator)?",
+"a": ["To convert AC into DC", "To reverse current every half-turn", "To maintain continuous electrical contact with the rotating coil while allowing the external circuit to receive AC", "To increase the magnetic field strength"],
+"correct": 2
+},
+{
+"q": "How can you determine the magnetic poles of a current-carrying solenoid?",
+"a": ["By measuring its electrical resistance", "By weighing the copper wire", "By checking its color", "By using the right-hand grip rule, where fingers curl in the direction of conventional current and the thumb points to the North pole"],
+"correct": 3
+},
+{
+"q": "What is magnetic induction?",
+"a": ["The process where an unmagnetized magnetic material becomes temporarily magnetized when placed near or in contact with a permanent magnet", "The creation of sound waves from magnets", "The flow of electrons through a vacuum", "The chemical corrosion of iron"],
+"correct": 0
+},
+{
+"q": "Which of the following materials is classified as non-magnetic?",
+"a": ["Steel", "Plastic", "Nickel", "Cobalt"],
+"correct": 1
+},
+{
+"q": "What is the main advantage of transmitting electrical power at very high voltages across the national grid?",
+"a": ["It increases wire resistance.", "It makes power cables heavier.", "It reduces the current in the transmission lines, significantly decreasing thermal energy loss due to resistance (I squared R losses).", "It prevents lightning strikes."],
+"correct": 2
+},
+{
+"q": "If an ideal transformer has a primary voltage of 240 V and a secondary voltage of 12 V, and the secondary current is 5 A, what is the primary current?",
+"a": ["0.1 A", "0.25 A", "1.0 A", "2.5 A"],
+"correct": 3
+},
+{
+"q": "What happens to iron filings sprinkled around a bar magnet?",
+"a": ["They form patterns that map out the shape and direction of the magnetic field lines.", "They dissolve into the air.", "They repel each other into straight vertical lines.", "They turn into copper."],
+"correct": 0
+},
+{
+"q": "What is the function of the carbon brushes in a DC electric motor?",
+"a": ["To generate magnetic fields", "To maintain electrical contact between the external power supply and the rotating commutator", "To cool down the armature", "To insulate the circuit"],
+"correct": 1
+},
+{
+"q": "What term is used to describe a region of space where a magnetic material experiences a magnetic force?",
+"a": ["Electric field", "Gravitational field", "Magnetic field", "Radiation field"],
+"correct": 2
+},
+{
+"q": "What does a cathode-ray oscilloscope display when connected to the output terminals of a simple AC generator being rotated by hand?",
+"a": ["A straight horizontal DC voltage line", "A pulsing single-direction wave", "Random noise", "A sinusoidal alternating voltage waveform varying with time"],
+"correct": 3
+},
+{
+"q": "Which of the following describes hard magnetic materials such as alnico or steel?",
+"a": ["They are difficult to magnetize initially, but once magnetized, they retain their magnetism permanently.", "They magnetize and demagnetize instantly.", "They cannot be used to make magnets.", "They have zero magnetic properties."],
+"correct": 0
+},
+{
+"q": "How does the strength of the magnetic field change as you move further away from a long straight current-carrying wire?",
+"a": ["It increases.", "It decreases.", "It remains strictly constant.", "It drops to zero immediately."],
+"correct": 1
+},
+{
+"q": "What is the key difference in construction between a DC motor and an AC generator?",
+"a": ["A motor uses slip rings, while a generator uses a split-ring commutator.", "A motor has no magnets.", "A DC motor uses a split-ring commutator to feed current in, whereas an AC generator uses slip rings to extract induced alternating current.", "A generator requires no external movement."],
+"correct": 2
+},
+{
+"q": "What happens when a bar magnet is cut in half into two smaller pieces?",
+"a": ["One piece becomes a pure North pole and the other becomes a pure South pole.", "Both pieces lose their magnetism completely.", "The magnetism doubles in strength.", "Each resulting piece becomes an independent magnet with its own complete North and South poles."],
+"correct": 3
+}
+]
+}

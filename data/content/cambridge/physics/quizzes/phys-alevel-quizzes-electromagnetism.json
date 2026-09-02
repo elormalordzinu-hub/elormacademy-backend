@@ -1,0 +1,246 @@
+{
+"id": "phys-alevel-quizzes-electromagnetism",
+"name": "Electromagnetism and magnetic fields",
+"questions": [
+{
+"q": "What is the magnetic force F experienced by a straight conductor of length L carrying current I placed at an angle theta to a uniform magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["F = B I L sin(theta)", "F = B I L cos(theta)", "F = B I / L", "F = B² I L"],
+"correct": 0
+},
+{
+"q": "What is the magnitude of the magnetic force F on a particle of charge q moving with velocity v at an angle theta to a uniform magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["F = q v B cos(theta)", "F = q v B sin(theta)", "F = q v / B", "F = q B² v sin(theta)"],
+"correct": 1
+},
+{
+"q": "What path does a charged particle take when it enters a uniform magnetic field at right angles to the field lines?",
+"p": "Context from source 14.",
+"a": ["A parabolic trajectory", "A straight line", "A circular path", "A sinusoidal wave"],
+"correct": 2
+},
+{
+"q": "What is the magnetic flux density B defined as in terms of force F on a current-carrying conductor?",
+"p": "Context from source 14.",
+"a": ["B = F / (I L sin(theta))", "B = F I L", "B = I L / F", "B = F sin(theta) / (I L)"],
+"correct": 3
+},
+{
+"q": "What are the SI base units of magnetic flux density B (tesla)?",
+"p": "Context from source 14.",
+"a": ["kg s⁻² A⁻¹ (or N A⁻¹ m⁻¹)", "kg m s⁻¹ A⁻²", "N m C⁻¹", "kg m² s⁻² A⁻¹"],
+"correct": 0
+},
+{
+"q": "Which rule is used to determine the direction of the force on a current-carrying conductor in a magnetic field?",
+"p": "Context from source 14.",
+"a": ["Faraday's right-hand rule", "Fleming's left-hand rule", "Lenz's law", "Ampere's circuital rule"],
+"correct": 1
+},
+{
+"q": "What is the radius r of the circular path of a charged particle of mass m and charge q moving with speed v in a perpendicular magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["r = q B / (m v)", "r = m v² / q B", "r = m v / (q B)", "r = q v / (m B)"],
+"correct": 2
+},
+{
+"q": "What is the magnitude of the magnetic flux phi through a flat surface of area A placed perpendicular to a uniform magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["phi = B / A", "phi = A / B", "phi = B² A", "phi = B A"],
+"correct": 3
+},
+{
+"q": "What is the unit of magnetic flux?",
+"p": "Context from source 14.",
+"a": ["Weber (Wb)", "Tesla (T)", "Henry (H)", "Volt per meter (V m⁻¹)"],
+"correct": 0
+},
+{
+"q": "What is the magnetic flux density B at a perpendicular distance r from a long straight current-carrying wire carrying current I?",
+"p": "Context from source 14.",
+"a": ["B = mu_0 I / (2 r)", "B = mu_0 I / (2 pi r)", "B = 2 pi mu_0 I / r", "B = I / (4 pi mu_0 r²)"],
+"correct": 1
+},
+{
+"q": "What is the magnetic force per unit length between two parallel long straight conductors separated by distance r in a vacuum, both carrying current I?",
+"p": "Context from source 14.",
+"a": ["F/L = mu_0 I / (2 pi r)", "F/L = mu_0 I² / (4 pi r²)", "F/L = mu_0 I² / (2 pi r)", "F/L = mu_0 I² / (pi r)"],
+"correct": 2
+},
+{
+"q": "What is the magnetic flux density B inside an infinitely long solenoid with n turns per unit length carrying current I?",
+"p": "Context from source 14.",
+"a": ["B = mu_0 n I / 2", "B = 4 pi mu_0 n I", "B = mu_0 I / n", "B = mu_0 n I"],
+"correct": 3
+},
+{
+"q": "What happens to the radius of the orbit of a proton moving in a uniform magnetic field if its velocity is doubled?",
+"p": "Context from source 14.",
+"a": ["Radius is doubled", "Radius is halved", "Radius is quadrupled", "Radius remains unchanged"],
+"correct": 0
+},
+{
+"q": "Why does a magnetic field do no work on a moving charged particle?",
+"p": "Context from source 14.",
+"a": ["Because the magnetic force acts in the same direction as motion", "Because the magnetic force is always perpendicular to the velocity of the particle", "Because the magnetic field strength is constant", "Because the particle's mass is too small"],
+"correct": 1
+},
+{
+"q": "What is the magnetic flux linkage N phi for a flat coil of N turns and area A placed perpendicular to a magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["N phi = B A / N", "N phi = B / (N A)", "N phi = N B A", "N phi = B N² A"],
+"correct": 2
+},
+{
+"q": "What is the SI unit of magnetic flux linkage?",
+"p": "Context from source 14.",
+"a": ["Tesla square meter (T m²)", "Weber per second (Wb s⁻¹)", "Tesla per second (T s⁻¹)", "Weber turn (Wb or Wb turn)"],
+"correct": 3
+},
+{
+"q": "What is the direction of the magnetic field lines inside a current-carrying long straight solenoid?",
+"p": "Context from source 14.",
+"a": ["Parallel to the axis and uniform", "Circular concentric loops around individual turns", "Radial pointing outwards from the center", "Zero magnetic field inside"],
+"correct": 0
+},
+{
+"q": "What is the force on an electron moving parallel to a uniform magnetic field?",
+"p": "Context from source 14.",
+"a": ["Maximum force", "Zero force", "Equal to q v B", "Equal to q B / v"],
+"correct": 1
+},
+{
+"q": "What is the period T of revolution of a charged particle of mass m and charge q in a uniform magnetic field B?",
+"p": "Context from source 14.",
+"a": ["T = 2 pi m / (q v)", "T = q B / (2 pi m)", "T = 2 pi m / (q B)", "T = m B / (2 pi q)"],
+"correct": 2
+},
+{
+"q": "What is the permeability of free space mu_0 measured in?",
+"p": "Context from source 14.",
+"a": ["N A⁻²", "Wb A⁻¹ m⁻¹", "T m A⁻¹", "All of the above (equivalent units)"],
+"correct": 3
+},
+{
+"q": "If a charged particle enters a region where both electric and magnetic fields are mutually perpendicular and pass through undeflected, what is its velocity v?",
+"p": "Context from source 14.",
+"a": ["v = E / B", "v = B / E", "v = E B", "v = E / B²"],
+"correct": 0
+},
+{
+"q": "What is the purpose of a velocity selector in particle physics experiments?",
+"p": "Context from source 14.",
+"a": ["To accelerate particles to light speed", "To select charged particles moving with a specific velocity by balancing electric and magnetic forces", "To measure the exact mass of a nucleus", "To neutralize incoming ions"],
+"correct": 1
+},
+{
+"q": "How does the magnetic flux density at the center of a flat circular coil of radius R and N turns carrying current I calculate?",
+"p": "Context from source 14.",
+"a": ["B = mu_0 N I / R", "B = mu_0 N I / (2 R²)", "B = mu_0 N I / (2 R)", "B = 2 pi mu_0 N I / R"],
+"correct": 2
+},
+{
+"q": "What happens to the magnetic flux passing through a loop if the loop is rotated so its plane becomes parallel to the magnetic field lines?",
+"p": "Context from source 14.",
+"a": ["Flux becomes maximum", "Flux doubles", "Flux becomes negative maximum", "Flux drops to zero"],
+"correct": 3
+},
+{
+"q": "What is the magnitude of the magnetic force on an electron moving at 2.0 x 10⁶ m s⁻¹ perpendicular to a magnetic field of 0.50 T? (e = 1.60 x 10⁻¹⁹ C)",
+"p": "Context from source 14.",
+"a": ["1.60 x 10⁻¹³ N", "3.20 x 10⁻¹³ N", "8.00 x 10⁻¹⁴ N", "1.60 x 10⁻¹⁹ N"],
+"correct": 0
+},
+{
+"q": "What is the orientation of the magnetic field produced by a long straight wire carrying conventional current upwards?",
+"p": "Context from source 14.",
+"a": ["Vertical straight lines", "Clockwise concentric circles when viewed from above", "Radially outward lines", "Counter-clockwise concentric circles when viewed from above"],
+"correct": 1
+},
+{
+"q": "What is the kinetic energy E_k of an ion of mass m and charge q revolving in a circular orbit of radius r in a magnetic field B?",
+"p": "Context from source 14.",
+"a": ["E_k = q² B² r / m", "E_k = m q B r / 2", "E_k = q² B² r² / (2 m)", "E_k = m² v² / r"],
+"correct": 2
+},
+{
+"q": "Which of the following describes the nature of magnetic field lines?",
+"p": "Context from source 14.",
+"a": ["They start at north poles and end at south poles without forming closed loops", "They are open lines ending in space", "They intersect each other at high magnetic field points", "They form continuous closed loops passing from south to north inside a magnet and north to south outside"],
+"correct": 3
+},
+{
+"q": "A wire of length 0.50 m carrying a current of 3.0 A is placed at right angles to a uniform magnetic field. If the magnetic force on the wire is 0.45 N, what is the magnetic flux density?",
+"p": "Context from source 14.",
+"a": ["0.30 T", "0.75 T", "1.50 T", "2.67 T"],
+"correct": 0
+},
+{
+"q": "What is the force on a stationary electron placed in a uniform magnetic field?",
+"p": "Context from source 14.",
+"a": ["q v B", "Zero", "e B / m", "Infinite"],
+"correct": 1
+},
+{
+"q": "What happens to the magnetic flux density near the ends of a finite solenoid compared to its center?",
+"p": "Context from source 14.",
+"a": ["It is twice as large", "It is zero", "It is approximately halved", "It remains completely uniform"],
+"correct": 2
+},
+{
+"q": "What is the Hall effect used to determine in solid-state physics?",
+"p": "Context from source 14.",
+"a": ["The melting point of metals", "The gravitational constant", "The optical refractive index", "The sign of charge carriers, their number density, and drift velocity"],
+"correct": 3
+},
+{
+"q": "What is the frequency of rotation of an alpha particle (q = +2e, m = 4u) in a magnetic field of 1.2 T?",
+"p": "Context from source 14.",
+"a": ["5.78 x 10⁶ Hz", "2.89 x 10⁶ Hz", "1.15 x 10⁷ Hz", "4.50 x 10⁵ Hz"],
+"correct": 0
+},
+{
+"q": "Why are soft iron cores used in electromagnets and transformers?",
+"p": "Context from source 14.",
+"a": ["Soft iron has high permanent magnetization", "Soft iron easily magnetizes and demagnetizes with high magnetic permeability, minimizing energy losses", "Soft iron is an electrical conductor that blocks magnetic fields", "Soft iron acts as an insulator"],
+"correct": 1
+},
+{
+"q": "What is the maximum magnetic torque tau experienced by a rectangular coil of N turns, area A, and current I placed in a uniform magnetic field of flux density B?",
+"p": "Context from source 14.",
+"a": ["tau = N I B / A", "tau = B I A", "tau = N I A B", "tau = N B² A / I"],
+"correct": 2
+},
+{
+"q": "What is the Hall voltage V_H across a conductor of thickness t carrying current I in a magnetic field B perpendicular to the current flow (with carrier concentration n and charge e)?",
+"p": "Context from source 14.",
+"a": ["V_H = n e I / B", "V_H = B t / (n e I)", "V_H = I t / (n e B)", "V_H = B I / (n e t)"],
+"correct": 3
+},
+{
+"q": "What is the magnetic flux through a rectangular coil of dimensions 0.10 m by 0.20 m when placed parallel to a uniform magnetic field of 0.40 T?",
+"p": "Context from source 14.",
+"a": ["Zero", "0.008 Wb", "0.02 Wb", "0.08 Wb"],
+"correct": 0
+},
+{
+"q": "Which subatomic particle would experience the greatest deflection in a uniform magnetic field if all share the same velocity perpendicular to the field?",
+"p": "Context from source 14.",
+"a": ["Alpha particle", "Electron", "Neutron", "Proton"],
+"correct": 1
+},
+{
+"q": "What is the work done by a magnetic field on a charged particle moving through it?",
+"p": "Context from source 14.",
+"a": ["Equal to the kinetic energy change", "Equal to force times distance", "Zero", "Equal to q v B"],
+"correct": 2
+},
+{
+"q": "What principle is utilized in a direct current (DC) electric motor to maintain continuous rotation of the coil in one direction?",
+"p": "Context from source 14.",
+"a": ["Lenz's law reversing current every cycle", "Total internal reflection of magnetic force", "Electromagnetic shielding", "A split-ring commutator that reverses the current direction every half-turn"],
+"correct": 3
+}
+]
+}

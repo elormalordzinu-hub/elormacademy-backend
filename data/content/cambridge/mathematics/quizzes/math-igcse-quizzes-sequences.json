@@ -1,0 +1,206 @@
+{
+  "id": "math-igcse-quizzes-sequences",
+  "name": "Sequences and series quadratic and cubic",
+  "questions": [
+    {
+      "q": "What is the nth term of the quadratic sequence: 4, 9, 16, 25, ...?",
+      "a": ["(n + 1)²", "n² + 3", "2n²", "n²"],
+      "correct": 0
+    },
+    {
+      "q": "Find the 5th term of the quadratic sequence defined by n² + n + 1.",
+      "a": ["25", "31", "30", "21"],
+      "correct": 1
+    },
+    {
+      "q": "What is the second difference for any quadratic sequence?",
+      "a": ["Zero", "Constant and equal to 2a", "Variable", "Equal to a"],
+      "correct": 2
+    },
+    {
+      "q": "Find the next term in the cubic sequence: 1, 8, 27, 64, ...",
+      "a": ["100", "150", "216", "125"],
+      "correct": 3
+    },
+    {
+      "q": "What type of sequence has a general term of the form an² + bn + c?",
+      "a": ["Quadratic sequence", "Linear sequence", "Geometric sequence", "Cubic sequence"],
+      "correct": 0
+    },
+    {
+      "q": "Given the sequence 3, 7, 13, 21, 31, find the second difference.",
+      "a": ["1", "2", "4", "6"],
+      "correct": 1
+    },
+    {
+      "q": "If the nth term of a sequence is n³ - 1, what is the 3rd term?",
+      "a": ["8", "16", "26", "27"],
+      "correct": 2
+    },
+    {
+      "q": "Find the 4th term of the quadratic sequence: 2, 6, 12, ...",
+      "a": ["16", "18", "24", "20"],
+      "correct": 3
+    },
+    {
+      "q": "What is the first difference of the quadratic sequence 1, 4, 9, 16?",
+      "a": ["3, 5, 7", "1, 2, 3", "2, 4, 6", "4, 6, 8"],
+      "correct": 0
+    },
+    {
+      "q": "If the second difference of a sequence is 6, what is the coefficient 'a' in the quadratic nth term an² + bn + c?",
+      "a": ["6", "3", "1.5", "12"],
+      "correct": 1
+    },
+    {
+      "q": "Find the 5th term of the cubic sequence given by n³ + 2n.",
+      "a": ["120", "130", "135", "127"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following represents a cubic sequence nth term?",
+      "a": ["5n - 2", "3n² + 4n - 1", "7n", "2n³ - n + 5"],
+      "correct": 3
+    },
+    {
+      "q": "What is the 10th term of the square number sequence n²?",
+      "a": ["100", "10", "20", "1000"],
+      "correct": 0
+    },
+    {
+      "q": "If the nth term is 2n² - 3, what is the 4th term?",
+      "a": ["13", "29", "32", "25"],
+      "correct": 1
+    },
+    {
+      "q": "What is the third difference of a cubic sequence where an³ is the leading term?",
+      "a": ["6a", "a", "6a", "3a"],
+      "correct": 2
+    },
+    {
+      "q": "Find the next term in the sequence: 0, 2, 6, 12, 20, ...",
+      "a": ["42", "36", "28", "30"],
+      "correct": 3
+    },
+    {
+      "q": "Identify the quadratic sequence among the following:",
+      "a": ["5, 10, 17, 26", "2, 4, 6, 8", "1, 3, 9, 27", "1, 8, 27, 64"],
+      "correct": 0
+    },
+    {
+      "q": "What is the 3rd term of the sequence with nth term n² - n?",
+      "a": ["2", "6", "12", "0"],
+      "correct": 1
+    },
+    {
+      "q": "If a sequence has first differences 3, 5, 7, 9 and second differences 2, 2, 2, the sequence is:",
+      "a": ["Cubic", "Geometric", "Quadratic", "Linear"],
+      "correct": 2
+    },
+    {
+      "q": "Find the 3rd term of the cubic sequence: 2, 9, 28, ...",
+      "a": ["125", "64", "16", "65"],
+      "correct": 3
+    },
+    {
+      "q": "What is the 20th term of the sequence n² + 1?",
+      "a": ["401", "399", "400", "420"],
+      "correct": 0
+    },
+    {
+      "q": "If the nth term is n³ + n², what is the 2nd term?",
+      "a": ["8", "12", "10", "16"],
+      "correct": 1
+    },
+    {
+      "q": "Find the missing term in the quadratic sequence: 5, 10, 19, _, 45",
+      "a": ["28", "30", "32", "35"],
+      "correct": 2
+    },
+    {
+      "q": "Which sequence grows the fastest for very large values of n?",
+      "a": ["Linear sequence", "Quadratic sequence", "Constant sequence", "Cubic sequence"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of the 6th term in the sequence n² - 2n?",
+      "a": ["24", "36", "12", "30"],
+      "correct": 0
+    },
+    {
+      "q": "If the nth term is 3n² - n + 2, find the 2nd term.",
+      "a": ["8", "12", "10", "14"],
+      "correct": 1
+    },
+    {
+      "q": "What is the first term of the cubic sequence given by n³ - n?",
+      "a": ["1", "0", "0", "2"],
+      "correct": 2
+    },
+    {
+      "q": "If a sequence has constant third differences, its general formula is a polynomial of degree:",
+      "a": ["1", "2", "4", "3"],
+      "correct": 3
+    },
+    {
+      "q": "Find the 4th term of the sequence defined by 0.5n².",
+      "a": ["8", "4", "16", "2"],
+      "correct": 0
+    },
+    {
+      "q": "What is the second difference of the sequence: 1, 3, 7, 13, 21?",
+      "a": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "q": "If the nth term of a sequence is n³ + 3n² + 3n + 1, this can be simplified to:",
+      "a": ["(n + 1)²", "2n³", "(n + 1)³", "n³ + 1"],
+      "correct": 2
+    },
+    {
+      "q": "Find the 5th term of the sequence: 4, 11, 22, 37, ...",
+      "a": ["46", "52", "60", "56"],
+      "correct": 3
+    },
+    {
+      "q": "What is the 7th term of the sequence n² + n?",
+      "a": ["56", "49", "42", "64"],
+      "correct": 0
+    },
+    {
+      "q": "If the nth term of a quadratic sequence is an² + bn + c and a = 2, what is the value of the second difference?",
+      "a": ["2", "4", "1", "8"],
+      "correct": 1
+    },
+    {
+      "q": "Find the 3rd term of the sequence given by 3n³ - 5.",
+      "a": ["76", "86", "76", "81"],
+      "correct": 2
+    },
+    {
+      "q": "What characterizes a quadratic sequence in terms of its differences?",
+      "a": ["First differences are constant", "Third differences are constant", "Differences form a geometric progression", "Second differences are constant"],
+      "correct": 3
+    },
+    {
+      "q": "If the nth term is n² + 5n - 6, find the 1st term.",
+      "a": ["0", "6", "-6", "5"],
+      "correct": 0
+    },
+    {
+      "q": "Find the next term in the cubic sequence: 2, 9, 28, 65, ...",
+      "a": ["100", "126", "216", "125"],
+      "correct": 1
+    },
+    {
+      "q": "What is the 10th term of the sequence n³?",
+      "a": ["100", "10000", "1000", "30"],
+      "correct": 2
+    },
+    {
+      "q": "If the first term is 3, second is 8, third is 15, fourth is 24, what is the nth term formula?",
+      "a": ["n² + 2", "2n² + 1", "n³ - 1", "n² + 2n"],
+      "correct": 3
+    }
+  ]
+}

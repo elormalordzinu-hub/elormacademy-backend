@@ -1,0 +1,186 @@
+{
+"id": "chem-alevel-quizzes-intermolecular",
+"name": "Intermolecular forces and physical properties",
+"questions": [
+{
+"q": "What is the primary intermolecular force present between non-polar molecules such as methane (CH<sub>4</sub>) molecules in the liquid state?",
+"a": ["London dispersion forces (instantaneous dipole-induced dipole forces)", "Hydrogen bonding", "Permanent dipole-dipole attractions", "Ionic bonding"],
+"correct": 0
+},
+{
+"q": "Which of the following compounds exhibits permanent dipole-dipole interactions as its dominant intermolecular force?",
+"a": ["Neon (Ne)", "Chloromethane (CH<sub>3</sub>Cl)", "Carbon dioxide (CO<sub>2</sub>)", "Ethane (C<sub>2</sub>H<sub>6</sub>)"],
+"correct": 1
+},
+{
+"q": "Why does hydrogen fluoride (HF) have a significantly higher boiling point than hydrogen chloride (HCl)?",
+"a": ["HF molecules are smaller and move faster", "HF has weaker London dispersion forces", "HF molecules form strong intermolecular hydrogen bonds due to high fluorine electronegativity", "HCl undergoes thermal decomposition upon heating"],
+"correct": 2
+},
+{
+"q": "How do boiling points of straight-chain alkanes change as the chain length increases from pentane to nonane?",
+"a": ["Boiling points decrease steadily", "Boiling points remain completely constant", "Boiling points fluctuate randomly", "Boiling points increase because larger molecular surfaces increase the magnitude of London dispersion forces"],
+"correct": 3
+},
+{
+"q": "Which of the following noble gases has the highest boiling point due to stronger instantaneous dipoles?",
+"a": ["Xenon (Xe)", "Helium (He)", "Neon (Ne)", "Argon (Ar)"],
+"correct": 0
+},
+{
+"q": "Why does ice have a lower density than liquid water at 0 degrees Celsius?",
+"a": ["Ice contains trapped air pockets that reduce mass", "Molecules in ice are held in an open tetrahedral lattice structure by hydrogen bonds, placing them further apart than in the random liquid state", "Water molecules contract when frozen into a metallic lattice", "Covalent bonds inside water molecules stretch significantly"],
+"correct": 1
+},
+{
+"q": "Which of the following substances is expected to be most soluble in water due to favorable hydrogen bonding interactions?",
+"a": ["Hexane (C<sub>6</sub>H<sub>14</sub>)", "Carbon dioxide (CO<sub>2</sub>)", "Ethanol (C<sub>2</sub>H<sub>5</sub>OH)", "Oxygen gas (O<sub>2</sub>)"],
+"correct": 2
+},
+{
+"q": "What type of intermolecular force accounts for the high viscosity and low volatility of liquid hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>)?",
+"a": ["Ionic bonds", "Metallic bonding", "London dispersion forces only", "Extensive intermolecular hydrogen bonding"],
+"correct": 3
+},
+{
+"q": "Which of the following haloalkanes has the highest boiling point?",
+"a": ["Iodomethane (CH<sub>3</sub>I)", "Chloromethane (CH<sub>3</sub>Cl)", "Fluoromethane (CH<sub>3</sub>F)", "Bromomethane (CH<sub>3</sub>Br)"],
+"correct": 0
+},
+{
+"q": "Why is ammonia (NH<sub>3</sub>) a gas at room temperature while water (H<sub>2</sub>O) is a liquid, even though both exhibit hydrogen bonding?",
+"a": ["Ammonia has a higher molar mass than water", "Water molecules can form a greater average number of hydrogen bonds per molecule due to having two lone pairs and two hydrogen atoms", "Ammonia contains ionic bonds", "Water undergoes autoionization completely"],
+"correct": 1
+},
+{
+"q": "What happens to the volatility of liquid hydrocarbons as branching in their carbon chains increases (e.g., comparing pentane to 2,2-dimethylpropane)?",
+"a": ["Volatility decreases because molecules stack closer together", "Volatility remains completely unchanged", "Volatility increases because branched molecules are more spherical, have smaller surface contact areas, and exhibit weaker London dispersion forces", "Volatility drops to zero"],
+"correct": 2
+},
+{
+"q": "Which substance possesses a giant covalent lattice structure resulting in an extremely high melting point and hardness?",
+"a": ["Sodium chloride (NaCl)", "Ice (H<sub>2</sub>O)", "Carbon dioxide (CO<sub>2</sub>)", "Diamond (C)"],
+"correct": 3
+},
+{
+"q": "Which type of crystalline solid consists of neutral atoms held together solely by weak London dispersion forces?",
+"a": ["Solid argon (Ar)", "Solid copper (Cu)", "Solid magnesium oxide (MgO)", "Solid silicon dioxide (SiO<sub>2</sub>)"],
+"correct": 0
+},
+{
+"q": "What term describes the ease with which an electron cloud of a molecule can be distorted by an external electric field or neighboring charge?",
+"a": ["Ionization energy", "Polarizability", "Electronegativity", "Electron affinity"],
+"correct": 1
+},
+{
+"q": "Which of the following pairs of liquids is most likely to be miscible (soluble in each other) in all proportions?",
+"a": ["Water and hexane", "Water and oil", "Ethanol and water", "Mercury and water"],
+"correct": 2
+},
+{
+"q": "Why does hydrogen sulfide (H<sub>2</sub>S) exist as a gas at room temperature while water (H<sub>2</sub>O) is a liquid, despite sulfur and oxygen belonging to the same group?",
+"a": ["Sulfur has a higher atomic number than oxygen", "H<sub>2</sub>S has a larger molecular mass", "H<sub>2</sub>S molecules cannot form intermolecular hydrogen bonds because sulfur is not sufficiently electronegative", "H<sub>2</sub>S undergoes ionic dissociation in air"],
+"correct": 3
+},
+{
+"q": "What is the primary reason why carbon dioxide (CO<sub>2</sub>) is a gas at room temperature under standard atmospheric pressure?",
+"a": ["It is a small, symmetrical non-polar molecule with very weak intermolecular London dispersion forces", "It contains ionic bonds that repel each other", "It forms extensive hydrogen bonds with air", "It has a giant covalent macromolecular structure"],
+"correct": 0
+},
+{
+"q": "Which of the following properties generally increases down a homologous series of primary alcohols (from methanol to decanol)?",
+"a": ["Water solubility", "Boiling point", "Volatility", "Vapor pressure at room temperature"],
+"correct": 1
+},
+{
+"q": "What type of solid structure is exhibited by iodine (I<sub>2</sub>) crystals at room temperature?",
+"a": ["Giant ionic lattice", "Giant metallic lattice", "Simple molecular crystal lattice", "Amorphous polymer network"],
+"correct": 2
+},
+{
+"q": "Why do polar molecules typically have higher boiling points than non-polar molecules of similar relative molecular mass?",
+"a": ["Polar molecules have permanent dipoles that provide additional attractive forces (dipole-dipole interactions) alongside dispersion forces", "Polar molecules contain covalent bonds that break during boiling", "Polar molecules are heavier due to electronegativity", "Polar molecules react with atmospheric moisture"],
+"correct": 3
+},
+{
+"q": "Which of the following compounds exhibits ion-dipole interactions when dissolved in water?",
+"a": ["Sodium chloride (NaCl)", "Glucose (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>)", "Methane (CH<sub>4</sub>)", "Ethanol (C<sub>2</sub>H<sub>5</sub>OH)"],
+"correct": 0
+},
+{
+"q": "What accounts for the surface tension of water allowing small insects to walk across its surface?",
+"a": ["Strong covalent bonds within individual water molecules", "Inward pull of intermolecular hydrogen bonding creating a cohesive network at the liquid-air interface", "Repulsion from air molecules", "Magnetic polarization of dissolved oxygen"],
+"correct": 1
+},
+{
+"q": "Why is silicon tetrachloride (SiCl<sub>4</sub>) a liquid at room temperature whereas carbon tetrachloride (CCl<sub>4</sub>) is also a liquid, but heavier Group 14 tetrachlorides show trends related to polarizability?",
+"a": ["SiCl<sub>4</sub> is ionic while CCl<sub>4</sub> is covalent", "Both are tetrahedral non-polar molecules where boiling points depend on London dispersion forces scaling with total electrons", "SiCl<sub>4</sub> forms hydrogen bonds", "CCl<sub>4</sub> forms a giant metallic lattice"],
+"correct": 2
+},
+{
+"q": "Which of the following physical properties is characteristic of substances with giant ionic crystal lattices?",
+"a": ["Low melting points and high volatility", "Electrical conductivity in the solid state", "Insolubility in polar solvents", "High melting points and electrical conductivity only when molten or aqueous"],
+"correct": 3
+},
+{
+"q": "What type of intermolecular interaction is primarily responsible for holding two strands of a DNA double helix together along its interior base pairs?",
+"a": ["Hydrogen bonding", "Ionic bonds", "Metallic bonds", "Coordinate covalent bonds"],
+"correct": 0
+},
+{
+"q": "Why does propan-1-ol have a higher boiling point than methoxyethane (dimethyl ether), even though both have the exact same molecular formula (C<sub>3</sub>H<sub>8</sub>O)?",
+"a": ["Methoxyethane has a higher molar mass", "Propan-1-ol has a polar hydroxyl group (-OH) capable of intermolecular hydrogen bonding, whereas dimethyl ether has an ether linkage without hydrogen bonding", "Methoxyethane is ionic", "Propan-1-ol forms a giant covalent lattice"],
+"correct": 1
+},
+{
+"q": "Which of the following hydrides of Group 15 elements has the highest boiling point due to hydrogen bonding?",
+"a": ["Phosphine (PH<sub>3</sub>)", "Arsine (AsH<sub>3</sub>)", "Ammonia (NH<sub>3</sub>)", "Stibine (SbH<sub>3</sub>)"],
+"correct": 2
+},
+{
+"q": "What causes the low vapor pressure of liquids with strong intermolecular forces at room temperature?",
+"a": ["Molecules escape easily into the gas phase", "Molecules undergo rapid thermal decomposition", "Molecules react with glass containers", "Molecules require substantial thermal energy to overcome strong intermolecular attractions and enter the vapor phase"],
+"correct": 3
+},
+{
+"q": "Which factor explains why grease and non-polar organic oils dissolve readily in non-polar solvents like hexane rather than in water?",
+"a": ["Similar intermolecular forces (London dispersion forces) operate between solute and solvent molecules, minimizing the energy required to separate them", "Grease molecules form ionic bonds with hexane", "Hexane molecules form strong hydrogen bonds with oil", "Water molecules repel oil through magnetic induction"],
+"correct": 0
+},
+{
+"q": "What physical property distinguishes graphite from diamond regarding electrical and thermal behavior?",
+"a": ["Diamond is a good electrical conductor while graphite is an insulator", "Graphite conducts electricity parallel to its layers due to delocalized pi electrons, whereas diamond is an electrical insulator", "Both are excellent electrical conductors in solid state", "Both are electrical insulators"],
+"correct": 1
+},
+{
+"q": "Which of the following substances sublimes rather than melts under standard atmospheric conditions due to weak intermolecular forces in its molecular crystal lattice?",
+"a": ["Water ice", "Sodium chloride", "Solid carbon dioxide (dry ice)", "Iron metal"],
+"correct": 2
+},
+{
+"q": "Why does hydrogen iodide (HI) have a higher boiling point than hydrogen chloride (HCl)?",
+"a": ["HI is a stronger acid in water", "HI molecules form covalent bonds more easily", "HI has permanent dipole-dipole bonds that are stronger than ionic bonds", "HI has a larger electron cloud resulting in stronger London dispersion forces that outweigh dipole differences"],
+"correct": 3
+},
+{
+"q": "What is the primary bonding type holding silicon atoms together in solid silicon crystal?",
+"a": ["Giant covalent network / macromolecular bonding", "Metallic bonding", "Ionic bonding", "Intermolecular hydrogen bonding"],
+"correct": 0
+},
+{
+"q": "Which of the following compounds has the lowest boiling point?",
+"a": ["Butane (C<sub>4</sub>H<sub>10</sub>)", "Propane (C<sub>3</sub>H<sub>8</sub>)", "Pentane (C<sub>5</sub>H<sub>12</sub>)", "Ethane (C<sub>2</sub>H<sub>6</sub>)"],
+"correct": 1
+},
+{
+"q": "What type of intermolecular forces must be overcome when liquid bromine evaporates into bromine vapor?",
+"a": ["Intramolecular covalent bonds", "Ionic bonds", "London dispersion forces between diatomic bromine molecules", "Metallic bonds"],
+"correct": 2
+},
+{
+"q": "Which of the following explains why water has an exceptionally high specific heat capacity?",
+"a": ["Water molecules are very heavy", "Water contains ionic impurities", "Water molecules are held rigidly in a crystal lattice at all temperatures", "A significant amount of thermal energy is required to break or disrupt the extensive network of intermolecular hydrogen bonds"],
+"correct": 3
+}
+]
+}

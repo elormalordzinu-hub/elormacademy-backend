@@ -1,0 +1,206 @@
+{
+  "id": "math-alevel-quizzes-kinematics",
+  "name": "Kinematics and projectiles",
+  "questions": [
+    {
+      "q": "A particle moves in a straight line with acceleration a(t) = 6t - 4. If its initial velocity at t = 0 is 3 m/s, find its velocity at t = 3 seconds.",
+      "a": ["18 m/s", "15 m/s", "21 m/s", "9 m/s"],
+      "correct": 0
+    },
+    {
+      "q": "The displacement of a particle is given by s(t) = t³ - 6t² + 9t meters. Find the total distance traveled by the particle in the time interval from t = 0 to t = 4 seconds.",
+      "a": ["12 meters", "14 meters", "8 meters", "20 meters"],
+      "correct": 1
+    },
+    {
+      "q": "A ball is projected upwards from ground level with an initial velocity of 20 m/s. Taking g = 10 m/s², find the maximum height reached by the ball.",
+      "a": ["10 meters", "40 meters", "20 meters", "15 meters"],
+      "correct": 2
+    },
+    {
+      "q": "A projectile is launched from ground level with a speed of 28 m/s at an angle of 30° to the horizontal. Find its time of flight (taking g = 9.8 m/s²).",
+      "a": ["1.4 seconds", "4.0 seconds", "2.0 seconds", "2.86 seconds"],
+      "correct": 3
+    },
+    {
+      "q": "For a projectile launched with speed u at an angle α to the horizontal, what is the expression for the horizontal range R on level ground?",
+      "a": ["(u² sin(2α)) / g", "(u² sin(α)) / g", "(u² cos(α)) / g", "(2u² sin(α)) / g"],
+      "correct": 0
+    },
+    {
+      "q": "A car accelerates uniformly from rest to a speed of 25 m/s over a distance of 100 meters. Find the acceleration of the car.",
+      "a": ["2.5 m/s²", "3.125 m/s²", "5.0 m/s²", "6.25 m/s²"],
+      "correct": 1
+    },
+    {
+      "q": "A particle is projected horizontally at 15 m/s from the top of a tower 45 meters high. Find the time taken to hit the ground (g = 10 m/s²).",
+      "a": ["2.0 seconds", "4.5 seconds", "3.0 seconds", "3.5 seconds"],
+      "correct": 2
+    },
+    {
+      "q": "A stone is dropped from rest down a well and hits the water after 2.5 seconds. Find the depth of the well (g = 9.8 m/s²).",
+      "a": ["24.5 meters", "49.0 meters", "61.25 meters", "30.625 meters"],
+      "correct": 3
+    },
+    {
+      "q": "A particle moves in a straight line such that its velocity v is given by v = 4t - t². Find the maximum displacement from the origin for t ≥ 0.",
+      "a": ["32/3 meters", "8 meters", "16 meters", "64/3 meters"],
+      "correct": 0
+    },
+    {
+      "q": "A projectile has an initial speed of 50 m/s and reaches a maximum height of 45 meters. Find the angle of projection α (g = 10 m/s²).",
+      "a": ["30°", "36.87°", "45°", "60°"],
+      "correct": 1
+    },
+    {
+      "q": "A particle moves with deceleration proportional to its velocity, so that dv/dt = -kv. If its initial velocity is u and velocity at time t is u/2, find the time taken.",
+      "a": ["ln(2) / k", "k / ln(2)", "1/k × ln(2)", "2 / k"],
+      "correct": 2
+    },
+    {
+      "q": "A ball is thrown with speed 20 m/s at an angle of 45° above the horizontal. Find its speed at the highest point of its trajectory.",
+      "a": ["20 m/s", "10 m/s", "20√2 m/s", "10√2 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "A particle travels in a straight line with acceleration a = 4 - 2t. If s = 0 when t = 0 and s = 10 when t = 3, what is s at t = 3?",
+      "a": ["15 meters", "12 meters", "9 meters", "18 meters"],
+      "correct": 0
+    },
+    {
+      "q": "A bullet penetrates a wooden block of thickness 10 cm, entering at 400 m/s and emerging at 100 m/s. Assuming constant deceleration, find the time spent inside the block.",
+      "a": ["0.0002 seconds", "0.0004 seconds", "0.0005 seconds", "0.001 seconds"],
+      "correct": 1
+    },
+    {
+      "q": "Find the Cartesian equation of the trajectory of a projectile launched with speed u at angle α: y = x tan(α) - (gx²) / (2u² cos²(α)). If u = 20 m/s, α = 30°, find y when x = 10 meters (g = 10).",
+      "a": ["3.23 meters", "2.15 meters", "2.23 meters", "1.77 meters"],
+      "correct": 2
+    },
+    {
+      "q": "Two particles A and B start from the same point moving in the same direction. Particle A moves with constant velocity 10 m/s, while B starts from rest with constant acceleration 2 m/s². When do they meet again?",
+      "a": ["5 seconds", "20 seconds", "15 seconds", "10 seconds"],
+      "correct": 3
+    },
+    {
+      "q": "A particle is projected from a point on level ground with speed 30 m/s at an angle of 60° to the horizontal. Find its velocity vector after 2 seconds (g = 10 m/s²).",
+      "a": ["[15, 5.98] m/s", "[15, 10] m/s", "[10, 5] m/s", "[15, 26] m/s"],
+      "correct": 0
+    },
+    {
+      "q": "A lift ascends with constant acceleration 1.5 m/s². A bolt drops from the ceiling of the lift, which is 3 meters high. Find the time taken for the bolt to hit the floor (g = 9.8 m/s²).",
+      "a": ["0.55 seconds", "0.74 seconds", "0.82 seconds", "1.0 seconds"],
+      "correct": 1
+    },
+    {
+      "q": "The displacement of a particle moving in a plane is given by r = [3t², 4t³ - t]. Find the magnitude of its acceleration vector at t = 1 second.",
+      "a": ["12", "18", "24", "30"],
+      "correct": 2
+    },
+    {
+      "q": "A particle is projected horizontally from a point h meters above the ground with speed u. It hits the ground at a distance R from the base. If h = 20 meters and R = 40 meters, find u (g = 10 m/s²).",
+      "a": ["10 m/s", "15 m/s", "14.14 m/s", "20 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "A particle moves along a line with velocity v = 3t² - 12t + 9. Find the total distance traveled in the interval [0, 4].",
+      "a": ["12 meters", "8 meters", "16 meters", "20 meters"],
+      "correct": 0
+    },
+    {
+      "q": "A ball is thrown vertically downwards from a height of 50 meters with an initial speed of 5 m/s. Find the speed with which it hits the ground (g = 10 m/s²).",
+      "a": ["30 m/s", "32.02 m/s", "35 m/s", "40 m/s"],
+      "correct": 1
+    },
+    {
+      "q": "A projectile is projected with speed u at angle α. At what angle α is the maximum height equal to the horizontal range divided by 4?",
+      "a": ["30°", "60°", "45°", "arctan(2)"],
+      "correct": 2
+    },
+    {
+      "q": "A particle is projected from ground level and passes through a point (x, y) = (10, 10) meters with an angle of 45°. What was the initial speed u (g = 10)?",
+      "a": ["10.5 m/s", "12.4 m/s", "15.0 m/s", "14.14 m/s"],
+      "correct": 3
+    },
+    {
+      "q": "A train slows down uniformly from 30 m/s to rest over a distance of 250 meters. Find the time taken.",
+      "a": ["16.67 seconds", "20 seconds", "12.5 seconds", "25 seconds"],
+      "correct": 0
+    },
+    {
+      "q": "A particle moves with acceleration a = -9.8 - 0.1v². Which differential equation represents its velocity with respect to displacement s?",
+      "a": ["v dv/ds = -9.8 - 0.1v", "v dv/ds = -9.8 - 0.1v²", "dv/ds = -9.8 - 0.1v²", "ds/dt = -9.8 - 0.1v²"],
+      "correct": 1
+    },
+    {
+      "q": "A projectile is launched from the top of a cliff 50 meters high with speed 20 m/s horizontally. Find its impact speed with the sea below (g = 9.8 m/s²).",
+      "a": ["35.2 m/s", "30.0 m/s", "36.5 m/s", "40.1 m/s"],
+      "correct": 2
+    },
+    {
+      "q": "A particle's position is given by x = sin(2t) and y = cos(2t). Describe its path.",
+      "a": ["Straight line", "Parabola", "Elliptical spiral", "Circle of radius 1 centered at origin"],
+      "correct": 3
+    },
+    {
+      "q": "A particle is projected up a plane inclined at 30° to the horizontal, with initial velocity 20 m/s straight up the line of greatest slope. Find the time before it comes to instantaneous rest on the plane (g = 9.8).",
+      "a": ["4.08 seconds", "2.04 seconds", "5.10 seconds", "3.15 seconds"],
+      "correct": 0
+    },
+    {
+      "q": "If the range of a projectile on a horizontal plane is 100 meters, find the maximum height reached if projected at an optimal angle for maximum range.",
+      "a": ["12.5 meters", "25.0 meters", "50.0 meters", "35.36 meters"],
+      "correct": 1
+    },
+    {
+      "q": "A particle moves in a straight line with simple harmonic motion characterized by acceleration a = -9x. Find its period of oscillation T.",
+      "a": ["π / 3", "2π / 3", "2π / 3", "2π / 9"],
+      "correct": 2
+    },
+    {
+      "q": "A body is projected with speed u at angle α. At what time t is the velocity vector perpendicular to the initial velocity vector?",
+      "a": ["u / (g sin α)", "(u sin α) / g", "(2u sin α) / g", "(u / g) cosec α"],
+      "correct": 3
+    },
+    {
+      "q": "A particle is dropped from a height H. At the same instant, another particle is projected upwards with speed u from the ground. They collide at height H/2. Find u in terms of H and g.",
+      "a": ["√(gH)", "2√(gH)", "0.5√(gH)", "√(2gH)"],
+      "correct": 0
+    },
+    {
+      "q": "A stone is thrown horizontally with speed 10 m/s from a cliff. After what time is its velocity vector inclined at 45° to the horizontal (g = 10)?",
+      "a": ["0.5 seconds", "1.0 second", "2.0 seconds", "1.5 seconds"],
+      "correct": 1
+    },
+    {
+      "q": "A particle moves such that v² = 4(9 - x²). Find its maximum acceleration magnitude.",
+      "a": ["4", "8", "12", "6"],
+      "correct": 2
+    },
+    {
+      "q": "A shell is fired from a gun with muzzle velocity 200 m/s at an elevation of 30°. Find the horizontal distance traveled before hitting a target at the same horizontal level (g = 9.8).",
+      "a": ["2000 meters", "3535 meters", "4000 meters", "3535 meters"],
+      "correct": 3
+    },
+    {
+      "q": "A particle moves in a straight line with deceleration a = -v³. If initial velocity is 1, find its velocity at t = 1.",
+      "a": ["1 / √3", "0.5", "1 / √2", "0.25"],
+      "correct": 0
+    },
+    {
+      "q": "A particle is projected from the origin with velocity [12, 16] m/s. Find the time it takes to reach its maximum height (g = 10).",
+      "a": ["1.2 seconds", "1.6 seconds", "2.0 seconds", "0.8 seconds"],
+      "correct": 1
+    },
+    {
+      "q": "A ball is projected horizontally from a height with speed u. If its speed upon hitting the ground is twice its initial speed u, find the angle its trajectory makes with the vertical just before impact.",
+      "a": ["30°", "45°", "60°", "arccos(1/4)"],
+      "correct": 2
+    },
+    {
+      "q": "A particle moves with simple harmonic motion between x = -5 and x = 5 with period 4 seconds. Find its maximum speed.",
+      "a": ["2.5π m/s", "5.0 m/s", "10π m/s", "2.5 m/s"],
+      "correct": 3
+    }
+  ]
+}

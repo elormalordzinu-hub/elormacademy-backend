@@ -1,0 +1,206 @@
+{
+"id": "phys-alevel-quizzes-forces",
+"name": "Forces and equilibrium",
+"questions": [
+{
+"q": "What two essential conditions must be satisfied simultaneously for a rigid body to be in complete mechanical equilibrium?",
+"a": ["Resultant force must be zero and resultant torque about any point must be zero", "Resultant velocity must be zero and acceleration must be zero", "Total momentum and total kinetic energy must be conserved", "Center of gravity must coincide with the pivot point"],
+"correct": 0
+},
+{
+"q": "What is the moment of a force defined as?",
+"a": ["The product of the force and its velocity", "The product of the magnitude of the force and the perpendicular distance from the pivot to the line of action of the force", "The rate of change of angular momentum", "The force divided by the cross-sectional area"],
+"correct": 1
+},
+{
+"q": "A uniform beam of length 4.0 m and weight 100 N rests horizontally on two supports placed at its ends. A load of 300 N is placed 1.0 m from the left end. What is the upward reaction force exerted by the right support?",
+"a": ["125 N", "150 N", "175 N", "200 N"],
+"correct": 2
+},
+{
+"q": "What is meant by a couple?",
+"a": ["A single force acting through the center of mass of an object", "Two unequal forces acting in the same direction along parallel lines", "Two perpendicular forces of different magnitudes", "A pair of equal, parallel, and opposite forces whose lines of action do not coincide, producing rotation without translation"],
+"correct": 3
+},
+{
+"q": "What is the SI unit of torque or the moment of a force?",
+"a": ["N m", "J s", "kg m s⁻²", "W m"],
+"correct": 0
+},
+{
+"q": "A uniform ladder of weight 200 N and length 5.0 m rests against a smooth vertical wall at an angle of 60 degrees to the rough horizontal ground. What is the normal reaction force exerted by the vertical wall?",
+"a": ["28.9 N", "57.7 N", "100.0 N", "173.2 N"],
+"correct": 1
+},
+{
+"q": "Where is the center of gravity of a body located?",
+"a": ["Always at its geometric center regardless of density distribution", "At the point where total mass is concentrated outside the body", "The point through which the entire weight of the body may be considered to act", "The point of maximum velocity during free fall"],
+"correct": 2
+},
+{
+"q": "What condition applies to an object floating in static equilibrium in a fluid?",
+"a": ["The upthrust is less than the weight of the object", "The center of buoyancy lies below the center of gravity", "The weight of the object is zero", "The upward upthrust force is equal in magnitude to the total weight of the floating object"],
+"correct": 3
+},
+{
+"q": "A uniform beam of weight W is hinged freely at one end and held horizontally by a vertical string attached to the other end. What is the tension in the string?",
+"a": ["W / 2", "W", "2 W", "W / 4"],
+"correct": 0
+},
+{
+"q": "What causes an object to topple when tilted?",
+"a": ["When the center of gravity shifts upwards", "When the vertical line of action of its weight falls outside its base of support", "When the normal reaction force becomes zero", "When friction on the base exceeds the weight"],
+"correct": 1
+},
+{
+"q": "Two parallel forces of 10 N and 30 N act in the same direction separated by a distance of 2.0 m. Where is the single resultant force located relative to the 10 N force?",
+"a": ["0.5 m", "1.0 m", "1.5 m", "2.0 m"],
+"correct": 2
+},
+{
+"q": "Which of the following describes static equilibrium?",
+"a": ["The body moves with a constant non-zero velocity", "The body rotates at a constant angular speed", "The internal energy of the body is constant", "The body is at rest with zero linear acceleration and zero angular acceleration"],
+"correct": 3
+},
+{
+"q": "A sign of weight 150 N is suspended from a uniform horizontal rod of weight 50 N and length 2.0 m hinged at a wall. The sign hangs 1.5 m from the hinge. A guy wire attached to the end of the rod makes an angle of 30 degrees with the rod. What is the tension in the wire?",
+"a": ["350 N", "250 N", "400 N", "150 N"],
+"correct": 0
+},
+{
+"q": "What is the principle of moments?",
+"a": ["Forces acting on a body must balance each other", "For a body in rotational equilibrium, the sum of clockwise moments about any point must equal the sum of counter-clockwise moments about the same point", "The sum of vertical forces equals the sum of horizontal forces", "Torque is proportional to angular acceleration"],
+"correct": 1
+},
+{
+"q": "A uniform heavy chain of length L and mass M hangs over the edge of a smooth table such that a fraction x of its length hangs vertically. For the chain to remain in equilibrium, what fraction x must be?",
+"a": ["0", "0.5", "Cannot be in static equilibrium on a smooth table without friction or an anchor", "1.0"],
+"correct": 2
+},
+{
+"q": "What is the magnitude of the torque produced by a couple consisting of two 50 N forces separated by a perpendicular distance of 0.4 m?",
+"a": ["10 N m", "20 N m", "40 N m", "20 N m"],
+"correct": 3
+},
+{
+"q": "A picture frame is hung by a wire passing over a smooth peg. The tension in the wire is T and the angle between the two wire segments is 60 degrees. If the weight of the frame is W, what is T in terms of W?",
+"a": ["W", "1.5 W", "2 W", "0.5 W"],
+"correct": 0
+},
+{
+"q": "An object is placed on an inclined plane. As the angle of inclination is increased, the object begins to slide just as it tips over. What does this indicate about its geometry and friction?",
+"a": ["Friction is infinite", "The line of action of weight passes outside the base edge at the exact angle where the component down the plane equals maximum static friction", "The center of gravity is above the peak", "The normal reaction force acts through the center of the base"],
+"correct": 1
+},
+{
+"q": "A uniform meter rule is pivoted at the 40 cm mark. A 60 g mass is hung at the 10 cm mark. To balance the rule horizontally, where must a 20 g mass be placed?",
+"a": ["70 cm mark", "80 cm mark", "85 cm mark", "90 cm mark"],
+"correct": 2
+},
+{
+"q": "What is the nature of the forces that make up a couple?",
+"a": ["Two unequal forces acting along the same line", "Two perpendicular forces acting at a single point", "Two forces acting in the same direction with a common line of action", "Two equal and opposite parallel forces whose lines of action do not coincide"],
+"correct": 3
+},
+{
+"q": "A uniform beam of weight 200 N is 6.0 m long and rests horizontally on two supports at distances of 1.0 m from each end. What is the reaction force at one support?",
+"a": ["100 N", "150 N", "200 N", "50 N"],
+"correct": 0
+},
+{
+"q": "What is the condition for stable equilibrium of a body slightly displaced from its resting position?",
+"a": ["Its center of gravity rises and the restoring torque brings it back to its original position", "Its center of gravity falls lower", "Its potential energy increases indefinitely without restoration", "Its center of gravity remains at exactly the same height"],
+"correct": 1
+},
+{
+"q": "Which of the following statements about center of gravity and center of mass is correct for a uniform gravitational field?",
+"a": ["They are completely different physical points", "Center of gravity depends on object shape while center of mass does not", "They are situated at the exact same point in space", "Center of mass is always outside the body while center of gravity is inside"],
+"correct": 2
+},
+{
+"q": "When analyzing the equilibrium of an object using Lamis theorem, how many coplanar, non-collinear forces must be acting on the object?",
+"a": ["Two", "Four", "Five", "Three"],
+"correct": 3
+},
+{
+"q": "A 50 N weight is suspended from the middle of a string stretched horizontally between two fixed points 2.0 m apart. If the string sags by 10 cm, what is the approximate tension in the string?",
+"a": ["250 N", "50 N", "100 N", "500 N"],
+"correct": 0
+},
+{
+"q": "What characterizes unstable equilibrium?",
+"a": ["A slight displacement results in a restoring force returning the object to equilibrium", "A slight displacement causes the center of gravity to lower and the object moves further away from its initial position", "The object experiences constant acceleration in a circle", "Total energy becomes negative"],
+"correct": 1
+},
+{
+"q": "A uniform bridge of length 20 m and weight 400 kN has a truck of weight 100 kN parked 5.0 m from the left pier. What is the upward reaction force at the right pier?",
+"a": ["150 kN", "225 kN", "237.5 kN", "300 kN"],
+"correct": 2
+},
+{
+"q": "Why does a tripod provide stable support compared to a single vertical rod?",
+"a": ["It has more mass", "It eliminates friction", "It lowers the center of gravity to the ground", "It provides a wide base of support ensuring the center of gravity's line of action remains well within the polygon of support"],
+"correct": 3
+},
+{
+"q": "A uniform beam of mass 10 kg and length 2.0 m is supported horizontally by two vertical strings at its ends. One string is cut. What is the immediate angular acceleration of the beam about the remaining pivot?",
+"a": ["14.7 rad s⁻²", "9.81 rad s⁻²", "4.90 rad s⁻²", "19.6 rad s⁻²"],
+"correct": 0
+},
+{
+"q": "What is neutral equilibrium?",
+"a": ["State where displacement lowers the center of gravity", "State where displacement neither raises nor lowers the center of gravity, and the body remains in equilibrium in its new position", "State where torque is maximum and force is zero", "State where potential energy increases exponentially"],
+"correct": 1
+},
+{
+"q": "A heavy uniform beam of weight W is supported at both ends. A person of weight 2W walks along the beam. What is the variation of the reaction force at the left support as a function of the person's distance from that support?",
+"a": ["Constant", "Non-linear quadratic", "Linear decrease", "Exponential decay"],
+"correct": 2
+},
+{
+"q": "Which vector quantity represents the turning effect of a force?",
+"a": ["Linear momentum", "Impulse", "Work", "Torque"],
+"correct": 3
+},
+{
+"q": "A uniform gate 2.0 m wide and weighing 150 N is supported by two hinges at the top and bottom edge. If the top hinge exerts a purely horizontal force, what is the vertical reaction force at the bottom hinge?",
+"a": ["150 N", "75 N", "0 N", "300 N"],
+"correct": 0
+},
+{
+"q": "If a system of coplanar forces is in equilibrium, what can be said about the sum of components of forces in any two mutually perpendicular directions?",
+"a": ["The sum in both directions must equal zero", "The sum in the x-direction must equal the sum in the y-direction", "The vector sum must equal twice the applied force", "The components must form a closed triangle with unequal sides"],
+"correct": 1
+},
+{
+"q": "A ladder rests against a smooth wall and rough floor. As a person climbs up the ladder, what happens to the frictional force exerted by the floor on the ladder?",
+"a": ["It decreases", "It remains constant", "It increases", "It drops to zero"],
+"correct": 2
+},
+{
+"q": "What is the primary physical reason why a high-tightrope walker carries a long, heavy pole?",
+"a": ["To increase total weight", "To increase air resistance", "To lower their effective height", "To increase their moment of inertia and lower their combined center of gravity, making it easier to maintain rotational balance"],
+"correct": 3
+},
+{
+"q": "A uniform rod of length L and weight W is hinged at one end and inclined at 30 degrees to the vertical. A horizontal force F is applied at the free end to keep it in equilibrium. What is F in terms of W?",
+"a": ["(W / 2) tan(30 degrees)", "W tan(60 degrees)", "W / 2", "W"],
+"correct": 0
+},
+{
+"q": "What happens to the stability of a bus when passengers are standing on the upper deck compared to when they are seated on the lower deck?",
+"a": ["Stability increases", "Stability decreases because the center of gravity rises", "Stability remains entirely unaffected", "The bus becomes neutrally stable"],
+"correct": 1
+},
+{
+"q": "Three coplanar forces of magnitudes 3 N, 4 N, and 5 N act on a point object and keep it in equilibrium. What is the angle between the 3 N and 4 N forces?",
+"a": ["0 degrees", "90 degrees", "180 degrees", "45 degrees"],
+"correct": 2
+},
+{
+"q": "What does a torque applied to an object without a fixed axis produce?",
+"a": ["Pure linear translation only", "Zero motion", "Compression of the material", "Both linear acceleration of the center of mass and angular acceleration about the center of mass"],
+"correct": 3
+}
+]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "math-igcse-quizzes-variation",
+  "name": "Variation direct and inverse",
+  "questions": [
+    {
+      "q": "If y is directly proportional to x (y ∝ x), what equation links them?",
+      "a": ["y = kx", "y = k/x", "y = k + x", "y = x/k"],
+      "correct": 0
+    },
+    {
+      "q": "If y is inversely proportional to x, what happens to y when x is doubled?",
+      "a": ["It is doubled", "It is halved", "It increases by 2", "It is squared"],
+      "correct": 1
+    },
+    {
+      "q": "Given that y is directly proportional to x², and y = 50 when x = 5, find the constant of proportionality k.",
+      "a": ["10", "5", "2", "25"],
+      "correct": 2
+    },
+    {
+      "q": "If p is inversely proportional to the square root of q, which equation represents this relationship?",
+      "a": ["p = kq²", "p = k/q", "p = k√q", "p = k / √q"],
+      "correct": 3
+    },
+    {
+      "q": "If y varies directly as x, and y = 12 when x = 4, find y when x = 7.",
+      "a": ["21", "28", "14", "19"],
+      "correct": 0
+    },
+    {
+      "q": "If M is inversely proportional to N, and M = 4 when N = 3, find M when N = 6.",
+      "a": ["8", "2", "12", "1.5"],
+      "correct": 1
+    },
+    {
+      "q": "Which graph represents direct variation between y and x?",
+      "a": ["A hyperbola curve", "A horizontal line", "A straight line passing through the origin", "A parabola opening sideways"],
+      "correct": 2
+    },
+    {
+      "q": "If A is directly proportional to r², what is the effect on A if r is tripled?",
+      "a": ["A is multiplied by 3", "A is multiplied by 6", "A is divided by 9", "A is multiplied by 9"],
+      "correct": 3
+    },
+    {
+      "q": "If y is inversely proportional to x and k = 24, find y when x = 8.",
+      "a": ["3", "192", "32", "1/3"],
+      "correct": 0
+    },
+    {
+      "q": "If variable T varies directly with the cube of r, write the general formula.",
+      "a": ["T = k/r³", "T = kr³", "T = k³r", "T = kr/3"],
+      "correct": 1
+    },
+    {
+      "q": "If y varies inversely as x², and y = 2 when x = 3, find the constant k.",
+      "a": ["6", "9", "18", "54"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes a relationship where an increase in one variable results in a proportional decrease in another?",
+      "a": ["Direct variation", "Joint variation", "Linear growth", "Inverse variation"],
+      "correct": 3
+    },
+    {
+      "q": "If a is directly proportional to b, and a = 15 when b = 5, what is the value of a when b = 12?",
+      "a": ["36", "25", "45", "60"],
+      "correct": 0
+    },
+    {
+      "q": "If y is inversely proportional to x, which of the following is constant?",
+      "a": ["y - x", "y × x", "y / x", "x / y"],
+      "correct": 1
+    },
+    {
+      "q": "The time t to complete a job is inversely proportional to the number of workers w. If 4 workers take 6 hours, how long do 3 workers take?",
+      "a": ["4.5 hours", "6 hours", "8 hours", "9 hours"],
+      "correct": 2
+    },
+    {
+      "q": "If y varies directly as x and inversely as z, which equation represents this combined variation?",
+      "a": ["y = kxz", "y = k/(xz)", "y = z/(kx)", "y = kx/z"],
+      "correct": 3
+    },
+    {
+      "q": "If y is directly proportional to x, what is the value of the ratio y/x?",
+      "a": ["Always equal to the constant k", "Always zero", "Always one", "Always changing"],
+      "correct": 0
+    },
+    {
+      "q": "If y is inversely proportional to x and y = 5 when x = 4, find x when y = 10.",
+      "a": ["2.5", "2", "8", "40"],
+      "correct": 1
+    },
+    {
+      "q": "If W is directly proportional to the square of d, and W = 48 when d = 4, find W when d = 7.",
+      "a": ["84", "105", "147", "192"],
+      "correct": 2
+    },
+    {
+      "q": "What shape does the graph of an inverse variation (y = k/x for positive x) take?",
+      "a": ["Straight line", "Parabola", "Circle", "Hyperbola"],
+      "correct": 3
+    },
+    {
+      "q": "If y varies directly with x, and y = 7 when x = 2.5, find k.",
+      "a": ["2.8", "17.5", "4.5", "0.35"],
+      "correct": 0
+    },
+    {
+      "q": "If the length L of a spring is directly proportional to the applied weight W, and L = 12 when W = 2, find L when W = 5.",
+      "a": ["24", "30", "15", "60"],
+      "correct": 1
+    },
+    {
+      "q": "If y is inversely proportional to x³, and y = 1 when x = 2, find y when x = 4.",
+      "a": ["1/2", "1/4", "1/8", "1/16"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following equations shows y being directly proportional to the square root of x?",
+      "a": ["y = k/√x", "y = kx²", "y = kx", "y = k√x"],
+      "correct": 3
+    },
+    {
+      "q": "If y is directly proportional to x, and x increases by 50%, what happens to y?",
+      "a": ["It increases by 50%", "It doubles", "It stays the same", "It increases by 25%"],
+      "correct": 0
+    },
+    {
+      "q": "If y is inversely proportional to x, and the constant k = 100, what is y when x = 25?",
+      "a": ["2500", "4", "25", "1/4"],
+      "correct": 1
+    },
+    {
+      "q": "If y varies jointly as x and z (direct variation with both), write the formula.",
+      "a": ["y = k(x + z)", "y = kx/z", "y = kxz", "y = k/(xz)"],
+      "correct": 2
+    },
+    {
+      "q": "If p is inversely proportional to q, and p = 8 when q = 2, find the constant of proportionality k.",
+      "a": ["4", "16", "0.25", "16"],
+      "correct": 3
+    },
+    {
+      "q": "If y is directly proportional to x, and y = 24 when x = 8, find the formula connecting y and x.",
+      "a": ["y = 3x", "y = 8x", "y = x/3", "y = 3/x"],
+      "correct": 0
+    },
+    {
+      "q": "If y varies inversely as x, what is the product of x and y?",
+      "a": ["Zero", "Equal to the constant k", "One", "Equal to x²"],
+      "correct": 1
+    },
+    {
+      "q": "If y is directly proportional to x³, and y = 24 when x = 2, find y when x = 3.",
+      "a": ["54", "36", "81", "108"],
+      "correct": 2
+    },
+    {
+      "q": "If y is inversely proportional to x, what is the effect on y if x is multiplied by 0.5 (halved)?",
+      "a": ["y is halved", "y is unchanged", "y is multiplied by 0.25", "y is doubled"],
+      "correct": 3
+    },
+    {
+      "q": "If y is directly proportional to x, which statement is always true?",
+      "a": ["When x = 0, y = 0", "y is always greater than x", "y and x have a negative correlation", "The graph is curved"],
+      "correct": 0
+    },
+    {
+      "q": "If y is inversely proportional to x, and y = 3 when x = 12, find y when x = 9.",
+      "a": ["4", "4", "36", "27"],
+      "correct": 1
+    },
+    {
+      "q": "If F is inversely proportional to d², and F = 10 when d = 3, find F when d = 5.",
+      "a": ["6", "18", "3.6", "2.5"],
+      "correct": 2
+    },
+    {
+      "q": "What is the constant of proportionality usually represented by in Cambridge mathematics formulas?",
+      "a": ["c", "m", "n", "k"],
+      "correct": 3
+    }
+  ]
+}

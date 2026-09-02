@@ -1,0 +1,106 @@
+{
+"id": "chem-alevel-quizzes-polymerization",
+"name": "Polymerization condensation and addition",
+"questions": [
+{
+"q": "What is the fundamental difference between addition polymerization and condensation polymerization?",
+"a": ["Addition polymerization involves unsaturated monomers (like alkenes) adding together without losing small molecules, whereas condensation polymerization involves monomers with two functional groups reacting with the elimination of a small molecule like water or HCl", "Addition polymerization produces water, condensation produces polymers", "Addition polymerization requires high pressure only", "Condensation polymerization only occurs in inorganic minerals"],
+"correct": 0
+},
+{
+"q": "Which of the following polymers is formed by addition polymerization?",
+"a": ["Terylene (polyester)", "Poly(ethene) (polyethylene)", "Nylon 6,6", "Protein"],
+"correct": 1
+},
+{
+"q": "What type of linkage connects the monomer units in a polyester such as Terylene?",
+"a": ["Amide linkage (-CONH-)", "Ether linkage (-O-)", "Ester linkage (-COO-)", "Glycosidic linkage"],
+"correct": 2
+},
+{
+"q": "What two functional monomer types are required to synthesize a typical polyamide such as Nylon 6,6?",
+"a": ["A diol and a dicarboxylic acid", "An alkene and a halogen", "An amino acid only", "A dicarboxylic acid (or diacyl chloride) and a diamine"],
+"correct": 3
+},
+{
+"q": "What is the repeat unit of poly(chloroethene), commonly known as PVC?",
+"a": ["-CH<sub>2</sub>-CHCl-", "-CH<sub>2</sub>-CH<sub>2</sub>-", "-CHCl-CHCl-", "-CH(CH<sub>3</sub>)-CH<sub>2</sub>-"],
+"correct": 0
+},
+{
+"q": "Why are addition polymers such as poly(ethene) and poly(propene) generally chemically inert and non-biodegradable?",
+"a": ["They contain strong ionic bonds", "Their saturated carbon-carbon backbones are non-polar and lack reactive functional groups that can be easily attacked by nucleophiles, acids, or enzymes", "They dissolve in water instantly", "They are made of metal atoms"],
+"correct": 1
+},
+{
+"q": "Which of the following is a condensation polymer?",
+"a": ["Poly(ethene)", "Poly(chloroethene)", "Polylactic acid / Terylene (polyester)", "Poly(phenylethene)"],
+"correct": 2
+},
+{
+"q": "What small molecule is eliminated during the formation of Terylene from benzene-1,4-dicarboxylic acid and ethane-1,2-diol?",
+"a": ["Hydrogen gas", "Ammonia", "Hydrogen chloride", "Water (H<sub>2</sub>O)"],
+"correct": 3
+},
+{
+"q": "What repeating functional group is present in Kevlar, a high-strength aramid polymer?",
+"a": ["Amide linkage (-CONH-) joining benzene rings", "Ester linkage", "Ether linkage", "Carbon-carbon double bond"],
+"correct": 0
+},
+{
+"q": "How do condensation polymers generally differ from addition polymers in terms of their biodegradability?",
+"a": ["Condensation polymers are completely indestructible", "Condensation polymers are often more susceptible to hydrolysis at their ester or amide linkages by water, acids, or enzymes, making them potentially more biodegradable than polyalkenes", "Addition polymers biodegrade in seconds", "There is no difference in biodegradability"],
+"correct": 1
+},
+{
+"q": "What monomer is used to manufacture poly(phenylethene), commonly known as polystyrene?",
+"a": ["Ethene", "Chloroethene", "Phenylethene (styrene, C<sub>6</sub>H<sub>5</sub>CH=CH<sub>2</sub>)", "Propenenitrile"],
+"correct": 2
+},
+{
+"q": "Which analytical technique is commonly used to determine the relative molecular mass distribution and chain length of polymers?",
+"a": ["Titration", "Flame photometry", "Simple distillation", "Gel permeation chromatography / mass spectrometry"],
+"correct": 3
+},
+{
+"q": "What is the repeat unit of poly(propenenitrile), also known as acrylic fiber?",
+"a": ["-CH<sub>2</sub>-CH(CN)-", "-CH<sub>2</sub>-CH<sub>2</sub>-", "-CH(CH<sub>3</sub>)-CH<sub>2</sub>-", "-CHCl-CH<sub>2</sub>-"],
+"correct": 0
+},
+{
+"q": "In the industrial production of Nylon 6,6, what is the significance of the numbers '6,6' in its name?",
+"a": ["It has a molecular weight of 66", "It indicates that both the diamine monomer and the dicarboxylic acid monomer contain 6 carbon atoms each", "It means it takes 66 hours to manufacture", "It refers to the melting point"],
+"correct": 1
+},
+{
+"q": "What environmental challenge is primarily associated with the disposal of waste addition polymers like poly(ethene) and poly(propene)?",
+"a": ["They dissolve in rain and contaminate drinking water", "They release toxic radioactive isotopes", "They accumulate in landfills and oceans because their strong C-C bonds resist natural biodegradation", "They spontaneously combust in air"],
+"correct": 2
+},
+{
+"q": "What is a major advantage of recycling condensation polymers like PET (polyethylene terephthalate) through chemical hydrolysis?",
+"a": ["It turns waste into solid metal", "It generates electricity directly", "It creates radioactive fuel", "It breaks the polymer back down into its original monomer building blocks, which can be repurified and reused"],
+"correct": 3
+},
+{
+"q": "Which of the following represents a protein backbone linkage, which is chemically a type of condensation polymer?",
+"a": ["Peptide bond (amide link, -CONH-)", "Ester bond", "Glycosidic bond", "Ether bond"],
+"correct": 0
+},
+{
+"q": "What property makes Kevlar exceptionally strong and rigid compared to standard aliphatic polyamides like Nylon 6,6?",
+"a": ["It is made of pure metal wire", "The rigid planar benzene rings and extensive intermolecular hydrogen bonding between polymer chains pack them tightly together", "It has branching carbon chains", "It dissolves in water"],
+"correct": 1
+},
+{
+"q": "What is the monomer required to form poly(chloroethene) (PVC)?",
+"a": ["Ethene", "1,2-dichloroethane", "Chloroethene (vinyl chloride, CH<sub>2</sub>=CHCl)", "Ethyne"],
+"correct": 2
+},
+{
+"q": "Which chemical linkage is broken when a polyester undergoes alkaline hydrolysis?",
+"a": ["Carbon-carbon single bond", "Carbon-hydrogen bond", "Amide bond", "Ester linkage (-COO-)"],
+"correct": 3
+}
+]
+}

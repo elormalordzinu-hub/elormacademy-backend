@@ -1,0 +1,206 @@
+{
+"id": "math-yr9-quizzes-finance",
+"name": "Compound interest and financial mathematics",
+"questions": [
+{
+"q": "What is the primary difference between simple interest and compound interest?",
+"a": ["Compound interest earns interest on previously earned interest as well as the principal.", "Simple interest has a higher rate.", "Compound interest is only used for loans under one year.", "Simple interest uses exponential growth."],
+"correct": 0
+},
+{
+"q": "If 1000 dollars is invested at 5% simple interest per year, how much interest is earned after 1 year?",
+"a": ["50 dollars", "55 dollars", "100 dollars", "500 dollars"],
+"correct": 1
+},
+{
+"q": "Which formula correctly represents the total amount A accrued under compound interest?",
+"a": ["A = P + (r * t)", "A = P * r * t", "A = P * (1 + r / 100)^t", "A = P * (1 - r)^t"],
+"correct": 2
+},
+{
+"q": "If an item costing 200 dollars increases in price by 10% due to inflation, what is its new price?",
+"a": ["210 dollars", "215 dollars", "240 dollars", "220 dollars"],
+"correct": 3
+},
+{
+"q": "Calculate the simple interest on 500 dollars at 4% per year for 3 years.",
+"a": ["60 dollars", "65 dollars", "70 dollars", "75 dollars"],
+"correct": 0
+},
+{
+"q": "If a jacket originally priced at 80 dollars is on sale with a 15% discount, what is the sale price?",
+"a": ["64 dollars", "68 dollars", "72 dollars", "65 dollars"],
+"correct": 1
+},
+{
+"q": "What multiplier is used to calculate a price increase of 8%?",
+"a": ["0.08", "0.80", "1.08", "1.80"],
+"correct": 2
+},
+{
+"q": "An investment of 2000 dollars grows by 5% compound interest each year. What is the value after 1 year?",
+"a": ["2050 dollars", "2150 dollars", "2200 dollars", "2100 dollars"],
+"correct": 3
+},
+{
+"q": "If a car depreciates by 10% each year, what multiplier represents its remaining value after one year?",
+"a": ["0.90", "0.10", "1.10", "0.80"],
+"correct": 0
+},
+{
+"q": "If you borrow 400 dollars at 5% simple interest per year for 2 years, what is the total amount to be repaid?",
+"a": ["420 dollars", "440 dollars", "460 dollars", "480 dollars"],
+"correct": 1
+},
+{
+"q": "What multiplier represents a 25% decrease in value?",
+"a": ["0.25", "1.25", "0.75", "0.025"],
+"correct": 2
+},
+{
+"q": "If a bank offers 4% compound interest per annum, what is the value multiplier for a 3-year calculation?",
+"a": ["1.04 * 3", "1.12", "(1.04)^3", "(1.4)^3"],
+"correct": 3
+},
+{
+"q": "What term describes the original amount of money borrowed or invested?",
+"a": ["Principal", "Interest", "Dividend", "Yield"],
+"correct": 0
+},
+{
+"q": "If a computer's value depreciates by 20% per year and it starts at 1000 dollars, what is its value after 1 year?",
+"a": ["750 dollars", "800 dollars", "850 dollars", "900 dollars"],
+"correct": 1
+},
+{
+"q": "Which percentage multiplier represents an increase of 12.5%",
+"a": ["1.0125", "1.125", "1.125", "Let's check: 1.125"],
+"correct": 2
+},
+{
+"q": "If 5000 dollars is invested at 6% simple interest per year, how many years will it take to accumulate 1500 dollars of simple interest?",
+"a": ["2 years", "3 years", "4 years", "5 years"],
+"correct": 3
+},
+{
+"q": "What is the compound interest earned on 1000 dollars invested at 10% per annum for 2 years?",
+"a": ["210 dollars", "200 dollars", "220 dollars", "250 dollars"],
+"correct": 0
+},
+{
+"q": "If a store marks up an item bought for 50 dollars by 40%, what is the selling price?",
+"a": ["60 dollars", "70 dollars", "80 dollars", "90 dollars"],
+"correct": 1
+},
+{
+"q": "Which of the following describes exponential growth?",
+"a": ["Linear addition", "Subtraction of fixed amounts", "Compound interest", "Simple interest"],
+"correct": 2
+},
+{
+"q": "A house valued at 100,000 dollars appreciates by 5% each year. What is its value after 2 years?",
+"a": ["110,000 dollars", "110,250 dollars", "110,500 dollars", "115,000 dollars"],
+"correct": 3
+},
+{
+"q": "If you invest money at 8% compound interest, approximately how long does it take to double according to the Rule of 72?",
+"a": ["9 years", "8 years", "12 years", "18 years"],
+"correct": 0
+},
+{
+"q": "What is the simple interest on 1200 dollars at 3.5% per year for 2 years?",
+"a": ["42 dollars", "84 dollars", "168 dollars", "210 dollars"],
+"correct": 1
+},
+{
+"q": "If a salary of 30,000 dollars increases by 4%, what is the new salary?",
+"a": ["30,400 dollars", "31,000 dollars", "31,200 dollars", "32,000 dollars"],
+"correct": 2
+},
+{
+"q": "If a machine depreciates from 5000 dollars to 4050 dollars in 2 years under compound depreciation, what is the annual percentage depreciation rate?",
+"a": ["5 percent", "8 percent", "12 percent", "10 percent"],
+"correct": 3
+},
+{
+"q": "What is the value of 500 dollars invested at 4% compound interest for 2 years (to the nearest cent)?",
+"a": ["540.80 dollars", "540.00 dollars", "541.20 dollars", "542.50 dollars"],
+"correct": 0
+},
+{
+"q": "If an item costs 45 dollars after a 10% discount, what was its original price?",
+"a": ["49.50 dollars", "50.00 dollars", "55.00 dollars", "60.00 dollars"],
+"correct": 1
+},
+{
+"q": "Which multiplier represents a 3.5% increase?",
+"a": ["1.035", "1.35", "1.035", "1.035"],
+"correct": 2
+},
+{
+"q": "If you deposit 300 dollars into an account paying 2% compound interest per year, how much is in the account after 3 years (to the nearest cent)?",
+"a": ["318.00 dollars", "318.36 dollars", "319.20 dollars", "320.00 dollars"],
+"correct": 3
+},
+{
+"q": "What is the term for the percentage charged by a lender for borrowing money?",
+"a": ["Interest rate", "Principal", "Inflation rate", "Discount rate"],
+"correct": 0
+},
+{
+"q": "If a town's population of 20,000 grows by 3% per year, what will the population be after 1 year?",
+"a": ["20,300", "20,600", "21,000", "26,000"],
+"correct": 1
+},
+{
+"q": "If a stock value drops by 15% and then rises by 15%, compared to the original price, the final price is:",
+"a": ["Higher", "The exact same", "Lower", "Double"],
+"correct": 2
+},
+{
+"q": "Calculate the total amount to be repaid on a simple interest loan of 1500 dollars at 7% per annum for 4 years.",
+"a": ["1820 dollars", "1900 dollars", "1920 dollars", "1920 dollars"],
+"correct": 3
+},
+{
+"q": "If an investment doubles in value over a certain period, the growth factor (multiplier) for that total period is:",
+"a": ["2", "1", "0.5", "10"],
+"correct": 0
+},
+{
+"q": "What is the simple interest earned on 800 dollars at 6% per year for 5 years?",
+"a": ["200 dollars", "240 dollars", "280 dollars", "300 dollars"],
+"correct": 1
+},
+{
+"q": "If you want to find the original price of an item before a 20% increase resulted in a price of 60 dollars, which calculation should you perform?",
+"a": ["60 * 0.8", "60 * 1.2", "60 / 1.2", "60 / 0.8"],
+"correct": 2
+},
+{
+"q": "If 10,000 dollars is invested at 8% compound interest compounded annually, what is the approximate value after 2 years?",
+"a": ["11,600 dollars", "11,660 dollars", "11,640 dollars", "11,664 dollars"],
+"correct": 3
+},
+{
+"q": "Which financial term describes a decrease in the value of an asset over time?",
+"a": ["Depreciation", "Appreciation", "Inflation", "Compounding"],
+"correct": 0
+},
+{
+"q": "If you invest 2500 dollars at 4% simple interest for 5 years, what is the total interest earned?",
+"a": ["400 dollars", "500 dollars", "600 dollars", "750 dollars"],
+"correct": 1
+},
+{
+"q": "What is the multiplier for a compound growth of 5% over 2 years?",
+"a": ["1.10", "1.05", "1.1025", "1.25"],
+"correct": 2
+},
+{
+"q": "If a bank pays 5% compound interest annually, approximately how many years will it take for 1000 dollars to grow to at least 2000 dollars?",
+"a": ["10 years", "12 years", "15 years", "14 years"],
+"correct": 3
+}
+]
+}

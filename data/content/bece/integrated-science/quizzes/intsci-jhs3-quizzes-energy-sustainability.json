@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs3-quizzes-energy-sustainability",
+"name": "Energy Sustainability",
+"questions": [
+{
+"q": "What term refers to the practice of using energy efficiently and meeting current energy needs without compromising the ability of future generations to meet theirs?",
+"a": ["Energy sustainability", "Energy wastage", "Power overload", "Thermal degradation"],
+"correct": 0
+},
+{
+"q": "Which of the following energy sources is classified as renewable and sustainable for long-term use?",
+"a": ["Crude oil", "Solar energy", "Coal", "Natural gas"],
+"correct": 1
+},
+{
+"q": "What is the primary environmental benefit of using renewable energy sources instead of fossil fuels?",
+"a": ["They increase global warming", "They deplete natural resources rapidly", "They reduce greenhouse gas emissions and pollution", "They produce toxic nuclear waste"],
+"correct": 2
+},
+{
+"q": "Which of the following everyday practices promotes energy conservation in domestic households?",
+"a": ["Leaving all lights and fans on overnight", "Using incandescent bulbs instead of LED lights", "Keeping doors and windows wide open while air conditioning runs", "Switching off electrical appliances at the socket when not in use"],
+"correct": 3
+},
+{
+"q": "What name is given to energy derived from natural sources that replenish themselves continuously, such as sunlight, wind, and flowing water?",
+"a": ["Renewable energy", "Non-renewable energy", "Fossil fuel energy", "Nuclear fission energy"],
+"correct": 0
+},
+{
+"q": "Which of the following is a major non-renewable energy source widely used for electricity generation and transportation?",
+"a": ["Solar radiation", "Petroleum (crude oil)", "Geothermal steam", "Tidal movement"],
+"correct": 1
+},
+{
+"q": "What term describes the measure of how much useful work is obtained from a given amount of total energy input?",
+"a": ["Energy dissipation", "Power rating", "Energy efficiency", "Circuit resistance"],
+"correct": 2
+},
+{
+"q": "Which of the following actions contributes to energy wastage in commercial buildings?",
+"a": ["Using motion-sensor LED lighting", "Installing double-glazed windows for insulation", "Performing regular maintenance on machinery", "Leaving high-power electric heaters and lights running in empty rooms"],
+"correct": 3
+},
+{
+"q": "What is the primary function of a solar panel (photovoltaic cell) in sustainable energy systems?",
+"a": ["Converting sunlight directly into electrical energy", "Burning coal to boil water", "Storing nuclear radiation", "Generating wind currents"],
+"correct": 0
+},
+{
+"q": "Which renewable energy technology harnesses the kinetic energy of moving air to generate electricity?",
+"a": ["Hydroelectric dam", "Wind turbine", "Geothermal plant", "Biomass digester"],
+"correct": 1
+},
+{
+"q": "Why is the reliance on fossil fuels considered unsustainable for the future?",
+"a": ["They are infinite in supply", "They produce zero emissions", "They are being consumed much faster than they can naturally form", "They are too cheap to manage"],
+"correct": 2
+},
+{
+"q": "Which of the following materials is commonly used to insulate buildings and reduce the energy needed for heating or cooling?",
+"a": ["Thin aluminum sheets", "Uninsulated glass panes", "Copper mesh screens", "Fiberglass or foam insulation"],
+"correct": 3
+},
+{
+"q": "What sustainable practice involves capturing organic waste, such as animal dung and plant material, to produce biogas for cooking and lighting?",
+"a": ["Biomass utilization / Anaerobic digestion", "Surface landfilling", "Open-air burning", "Chemical bleaching"],
+"correct": 0
+},
+{
+"q": "Which term describes energy sources that exist in limited amounts and will eventually run out once consumed?",
+"a": ["Infinite resources", "Non-renewable energy sources", "Sustainable resources", "Cyclic resources"],
+"correct": 1
+},
+{
+"q": "What is the main advantage of using energy-saving LED lamps over traditional incandescent bulbs?",
+"a": ["They consume much more electricity", "They burn out after a few hours", "They consume significantly less energy and last much longer", "They produce excessive heat"],
+"correct": 2
+},
+{
+"q": "Which of the following government policies encourages energy sustainability among citizens and industries?",
+"a": ["Subsidizing the importation of crude oil", "Penalizing the use of solar panels", "Banning all electric vehicles", "Providing incentives for renewable energy adoption and enforcing energy efficiency standards"],
+"correct": 3
+},
+{
+"q": "What clean energy technology uses the potential energy of impounded water in rivers to spin turbines and generate electricity?",
+"a": ["Hydroelectric power", "Geothermal extraction", "Tidal barrage", "Biomass combustion"],
+"correct": 0
+},
+{
+"q": "Which of the following is a direct consequence of excessive fossil fuel combustion on global climate systems?",
+"a": ["Global cooling", "Global warming and climate change", "Expansion of the ozone layer", "Increase in polar ice caps"],
+"correct": 1
+},
+{
+"q": "What term describes the total set of greenhouse gas emissions caused directly and indirectly by an individual, organization, or product?",
+"a": ["Energy rating", "Power output", "Carbon footprint", "Voltage drop"],
+"correct": 2
+},
+{
+"q": "Which of the following practices represents sustainable energy management in industrial manufacturing?",
+"a": ["Disposing of waste heat into the atmosphere without recovery", "Using outdated, high-friction electric motors", "Operating machinery continuously at maximum capacity when idle", "Implementing cogeneration systems to reuse waste heat for power"],
+"correct": 3
+},
+{
+"q": "What name is given to heat energy obtained from beneath the Earth's crust, used for generating sustainable electricity?",
+"a": ["Geothermal energy", "Solar thermal energy", "Nuclear energy", "Kinetic energy"],
+"correct": 0
+},
+{
+"q": "Why is energy conservation considered a crucial pillar of sustainable development?",
+"a": ["It increases electricity bills", "It reduces resource depletion and environmental degradation", "It stops all technological progress", "It accelerates the burning of coal"],
+"correct": 1
+},
+{
+"q": "Which of the following appliances typically consumes the most electrical energy in a home and requires energy-efficient management?",
+"a": ["LED table lamp", "Mobile phone charger", "Air conditioner or electric water heater", "Digital wall clock"],
+"correct": 2
+},
+{
+"q": "What is the primary environmental risk associated with poorly managed hydroelectric dam projects?",
+"a": ["Massive air pollution from smoke", "Depletion of global coal reserves", "Increased radioactive fallout", "Displacement of local communities and disruption of aquatic ecosystems"],
+"correct": 3
+},
+{
+"q": "Which international initiative or practice focuses on reducing net carbon emissions to zero to combat climate change?",
+"a": ["Carbon neutrality / Net-zero emissions", "Fossil fuel expansion", "Unrestricted industrial pollution", "Coal mining subsidization"],
+"correct": 0
+},
+{
+"q": "Which of the following is an effective way to harness solar energy for heating domestic water supplies?",
+"a": ["Using electric immersion coils", "Installing solar water heating panels on rooftops", "Placing incandescent bulbs underwater", "Burning firewood in open stoves"],
+"correct": 1
+},
+{
+"q": "What role do energy efficient star ratings on electronic home appliances play for consumers?",
+"a": ["They indicate the physical weight of the appliance", "They show the maximum sound volume", "They help consumers identify appliances that consume less electricity and save energy", "They measure the color brightness"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a smart grid system in sustainable energy distribution?",
+"a": ["A manual switchboard operated by hand", "An outdated wiring system prone to blackouts", "A network that relies entirely on burning diesel generators", "An automated digital electricity network that efficiently monitors and manages energy supply and demand"],
+"correct": 3
+},
+{
+"q": "What sustainable transport strategy helps reduce traffic congestion and vehicular fossil fuel consumption in cities?",
+"a": ["Promoting public mass transit, carpooling, and cycling", "Encouraging every citizen to drive separate large trucks", "Banning bicycles completely", "Leaving car engines idling in traffic"],
+"correct": 0
+},
+{
+"q": "Which of the following renewable energy sources depends directly on the gravitational pull of the moon and the sun?",
+"a": ["Solar power", "Tidal energy", "Wind power", "Geothermal energy"],
+"correct": 1
+},
+{
+"q": "What is the main objective of energy auditing in large facilities?",
+"a": ["To increase total power consumption", "To decorate the office building", "To assess energy usage patterns and identify areas where energy waste can be reduced", "To test the water plumbing system"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of converting waste biomass into useful liquid fuel for sustainable transport?",
+"a": ["Refining crude oil from deep wells", "Mining solid coal from underground seams", "Drilling natural gas from rock beds", "Producing bio-ethanol or biodiesel from agricultural crops and organic waste"],
+"correct": 3
+},
+{
+"q": "What term refers to energy resources that are inexhaustible and cause little to no environmental pollution?",
+"a": ["Clean / Green energy", "Exhaustible fuel", "Hazardous hydrocarbons", "Carbon-heavy sources"],
+"correct": 0
+},
+{
+"q": "Why is the transition from fossil fuels to renewable energy critical for island nations and coastal communities?",
+"a": ["To increase local noise levels", "To mitigate rising sea levels and extreme weather caused by climate change", "To eliminate all rainfall", "To stop ocean tides completely"],
+"correct": 1
+},
+{
+"q": "Which of the following building design concepts maximizes natural sunlight and heat to reduce artificial lighting and heating needs?",
+"a": ["Windowless basement construction", "Underground concrete bunkers", "Passive solar architecture", "Completely dark warehouse design"],
+"correct": 2
+},
+{
+"q": "Which of the following practices undermines energy sustainability at the national level?",
+"a": ["Investing in solar farms", "Enforcing strict appliance energy standards", "Promoting public education on conservation", "Relying heavily on subsidized, inefficient fossil fuel power plants without emission controls"],
+"correct": 3
+},
+{
+"q": "What name is given to energy generated from organic matter, such as wood, crop residue, and animal waste?",
+"a": ["Biomass energy", "Nuclear fusion", "Petroleum power", "Hydro-kinetic energy"],
+"correct": 0
+},
+{
+"q": "Which of the following is a key benefit of decentralized renewable energy systems (such as standalone solar home systems)?",
+"a": ["They require massive central power grids to function", "They provide reliable electricity to remote rural communities without extensive grid lines", "They increase transmission power losses", "They depend entirely on coal imports"],
+"correct": 1
+},
+{
+"q": "What is the primary purpose of energy storage technologies (such as lithium-ion batteries) in renewable energy systems?",
+"a": ["To burn excess electricity into heat", "To permanently destroy electric charges", "To store surplus energy generated from intermittent sources like solar and wind for later use", "To increase the voltage of power lines randomly"],
+"correct": 2
+},
+{
+"q": "Which of the following best defines the term 'energy conservation'?",
+"a": ["Using as much electricity as possible before it expires", "Storing energy in open containers", "Generating energy from nuclear waste", "The deliberate reduction of energy consumption through efficient behavior and technology"],
+"correct": 3
+}
+]
+}

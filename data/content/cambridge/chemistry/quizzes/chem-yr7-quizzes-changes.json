@@ -1,0 +1,166 @@
+{
+  "id": "chem-yr7-quizzes-changes",
+  "name": "Physical and chemical changes",
+  "questions": [
+    {
+      "q": "What is a primary characteristic of a physical change?",
+      "a": ["No new chemical substances are formed, and it is usually reversible", "A completely new substance is always created", "Thermal energy is never involved", "Mass always drops to zero"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is an example of a chemical change?",
+      "a": ["Melting ice", "Burning paper", "Dissolving sugar in water", "Chopping wood"],
+      "correct": 1
+    },
+    {
+      "q": "What happens during a chemical reaction?",
+      "a": ["Only the physical shape changes", "Atoms are destroyed", "Reactants rearrange their bonds to form new products with different properties", "Molecules move apart without changing structure"],
+      "correct": 2
+    },
+    {
+      "q": "Which observation strongly indicates that a chemical change has taken place?",
+      "a": ["An object changes its position", "A substance melts", "A liquid is filtered", "A permanent color change, fizzing, or release of light and heat occurs"],
+      "correct": 3
+    },
+    {
+      "q": "Why is dissolving salt in water classified as a physical change?",
+      "a": ["The salt can be recovered by evaporating the water", "Salt turns into gas bubbles", "A new compound is formed", "Water changes into hydrogen and oxygen"],
+      "correct": 0
+    },
+    {
+      "q": "Which process represents a reversible physical change?",
+      "a": ["Frying an egg", "Boiling liquid water into steam and condensing it back", "Baking a cake", "Rusting iron"],
+      "correct": 1
+    },
+    {
+      "q": "What occurs when magnesium ribbon is burned strongly in oxygen gas?",
+      "a": ["A physical mixture is formed", "Magnesium melts into a liquid", "A chemical reaction takes place, producing white magnesium oxide powder", "Magnesium turns into water vapor"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following changes is generally irreversible?",
+      "a": ["Freezing water", "Dissolving copper sulfate", "Stretching a rubber band", "Cooking raw meat or boiling an egg"],
+      "correct": 3
+    },
+    {
+      "q": "When iron rusts, what is the chemical nature of the rust compared to pure iron?",
+      "a": ["Rust is a brand new chemical substance (iron oxide) with different properties", "Rust is just wet iron", "Rust is a physical solution", "Rust has the exact same chemical makeup"],
+      "correct": 0
+    },
+    {
+      "q": "Which everyday activity is an example of a physical change?",
+      "a": ["Digesting food", "Crushing an aluminum drinks can", "Lighting a matchstick", "Fireworks exploding"],
+      "correct": 1
+    },
+    {
+      "q": "In a chemical reaction, what are the starting substances called?",
+      "a": ["Products", "Distillates", "Reactants", "Residues"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes a chemical reaction that releases heat to its surroundings?",
+      "a": ["Endothermic reaction", "Physical transition", "Melting", "Exothermic reaction"],
+      "correct": 3
+    },
+    {
+      "q": "Why is the melting of wax considered a physical change?",
+      "a": ["The liquid wax can solidify again upon cooling, and no new substance is created", "It produces carbon dioxide", "It turns atoms into gold", "It cannot be undone"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is evidence that a chemical reaction has produced a gas?",
+      "a": ["The container feels colder", "Bubbles of effervescence or fizzing are observed", "The liquid volume increases without adding anything", "The glass color changes"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when an acid reacts with an alkali?",
+      "a": ["Only pure oxygen gas", "A flammable liquid fuel", "Salt and water", "Solid iron nails"],
+      "correct": 2
+    },
+    {
+      "q": "Mixing baking soda and vinegar causes bubbling due to the release of which gas?",
+      "a": ["Hydrogen gas", "Chlorine gas", "Helium gas", "Carbon dioxide gas"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to total mass during physical and chemical changes?",
+      "a": ["Total mass is conserved in both physical and chemical changes", "Mass is destroyed during chemical changes", "Mass increases significantly during physical changes", "Mass only exists during reactions"],
+      "correct": 0
+    },
+    {
+      "q": "Which change involves thermal decomposition using heat?",
+      "a": ["Melting chocolate", "Heating green copper carbonate powder until it turns black and releases gas", "Boiling water", "Dissolving salt in hot water"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to chemical bonds during a chemical change?",
+      "a": ["Bonds remain untouched", "Atoms disappear", "Existing bonds break and new bonds form to create products", "Bonds become magnetic"],
+      "correct": 2
+    },
+    {
+      "q": "Which indicator represents a physical change rather than a chemical reaction?",
+      "a": ["Evolution of light and heat", "Formation of a precipitate", "Permanent change in composition", "Change of state like melting or freezing"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following is a sign of a chemical change?",
+      "a": ["A permanent color change", "Changing shape", "Changing size", "Tearing paper"],
+      "correct": 0
+    },
+    {
+      "q": "Is evaporating water a physical or chemical change?",
+      "a": ["Chemical change", "Physical change", "Nuclear change", "Biological change"],
+      "correct": 1
+    },
+    {
+      "q": "What is the term for a chemical reaction that absorbs heat from its surroundings, causing the temperature to drop?",
+      "a": ["Exothermic reaction", "Combustion reaction", "Endothermic reaction", "Precipitation reaction"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these represents a chemical change in the kitchen?",
+      "a": ["Cutting vegetables", "Boiling water in a kettle", "Melting butter", "Baking bread"],
+      "correct": 3
+    },
+    {
+      "q": "When wood burns, what are the primary products formed?",
+      "a": ["Ash, carbon dioxide, and water vapor", "Only liquid water", "Pure oxygen and hydrogen", "Unchanged wood particles"],
+      "correct": 0
+    },
+    {
+      "q": "Which property can be used to easily separate iron from a physical mixture with sand?",
+      "a": ["Boiling point", "Magnetism", "Solubility in water", "Color"],
+      "correct": 1
+    },
+    {
+      "q": "Why is chopping a carrot considered a physical change?",
+      "a": ["It changes color permanently", "It creates a new chemical compound", "It changes size and shape, but the carrot material remains chemically identical", "It releases carbon dioxide gas"],
+      "correct": 2
+    },
+    {
+      "q": "What term describes the new substances formed at the end of a chemical reaction?",
+      "a": ["Reactants", "Catalysts", "Solutes", "Products"],
+      "correct": 3
+    },
+    {
+      "q": "Which of these changes is reversible?",
+      "a": ["Freezing liquid juice into an ice lolly", "Cooking a steak", "Burning a candle wick", "Exploding dynamite"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following is NOT typically a sign of a chemical reaction?",
+      "a": ["A change in temperature", "A change of state from solid to liquid", "The production of a gas", "The emission of light"],
+      "correct": 1
+    },
+    {
+      "q": "What happens when anhydrous copper sulfate powder is mixed with water?",
+      "a": ["It turns green and produces gas", "It explodes", "It undergoes a chemical reaction turning blue and releasing heat", "Nothing happens"],
+      "correct": 2
+    },
+    {
+      "q": "Which statement best describes atoms in a chemical change?",
+      "a": ["Atoms are created from nothing", "Atoms are destroyed completely", "Atoms change into different elements", "Atoms are rearranged to form new combinations"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+"id": "intsci-jhs2-quizzes-balanced-diet",
+"name": "Balanced Diet",
+"questions": [
+{
+"q": "What is defined as a diet that contains all the essential nutrient classes in the correct and adequate proportions required by the body?",
+"a": ["Balanced diet", "Malnutrition diet", "Fad diet", "High-protein diet"],
+"correct": 0
+},
+{
+"q": "Which class of food is primarily known as energy-giving foods?",
+"a": ["Proteins", "Carbohydrates", "Vitamins", "Minerals"],
+"correct": 1
+},
+{
+"q": "Why are proteins often referred to as body-building foods?",
+"a": ["They provide instant energy for physical exercise", "They insulate the body against cold temperatures", "They are essential for growth, tissue repair, and the replacement of worn-out cells", "They protect the body from deficiency diseases like scurvy"],
+"correct": 2
+},
+{
+"q": "Which of the following food items is a rich source of carbohydrates?",
+"a": ["Eggs", "Fish", "Beans", "Cassava"],
+"correct": 3
+},
+{
+"q": "Which nutrient class provides the highest amount of stored energy per gram and protects vital internal organs?",
+"a": ["Fats and oils (Lipids)", "Proteins", "Vitamins", "Water"],
+"correct": 0
+},
+{
+"q": "What disease is caused by a severe and prolonged deficiency of proteins in a child's diet, typically characterized by a swollen belly and wasted limbs?",
+"a": ["Scurvy", "Kwashiorkor", "Rickets", "Goiter"],
+"correct": 1
+},
+{
+"q": "Which vitamin is essential for good vision, especially in dim light, and healthy skin?",
+"a": ["Vitamin C", "Vitamin D", "Vitamin A", "Vitamin K"],
+"correct": 2
+},
+{
+"q": "What condition results from a deficiency of Vitamin C in the diet?",
+"a": ["Beriberi", "Rickets", "Anemia", "Scurvy"],
+"correct": 3
+},
+{
+"q": "Which mineral element is vital for the formation of healthy red blood cells and the prevention of anemia?",
+"a": ["Iron", "Calcium", "Iodine", "Sodium"],
+"correct": 0
+},
+{
+"q": "What is the primary function of roughage (dietary fiber) in a balanced diet?",
+"a": ["To supply high energy for daily work", "To prevent constipation by adding bulk to food and helping bowel movement", "To build strong bones and teeth", "To cure infectious diseases"],
+"correct": 1
+},
+{
+"q": "Which mineral works together with phosphorus to build strong bones and teeth?",
+"a": ["Iron", "Iodine", "Calcium", "Potassium"],
+"correct": 2
+},
+{
+"q": "Which disease is caused by a lack of iodine in the diet, leading to an enlargement of the thyroid gland in the neck?",
+"a": ["Kwashiorkor", "Rickets", "Scurvy", "Goiter"],
+"correct": 3
+},
+{
+"q": "What is the main role of water in the human body?",
+"a": ["Acting as a universal solvent and medium for metabolic and transport processes", "Providing long-term energy storage", "Building muscle tissue", "Preventing night blindness"],
+"correct": 0
+},
+{
+"q": "Which vitamin is synthesized in human skin when exposed to sunlight and is crucial for strong bone development?",
+"a": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin B1"],
+"correct": 1
+},
+{
+"q": "What term describes a state of poor health resulting from a lack of proper nutrients or an unbalanced intake of food?",
+"a": ["Digestion", "Metabolism", "Malnutrition", "Respiration"],
+"correct": 2
+},
+{
+"q": "Which of the following is a symptom of iron deficiency anemia?",
+"a": ["Bleeding gums", "Enlarged neck", "Soft deformed bones", "General fatigue and weakness"],
+"correct": 3
+},
+{
+"q": "Which food group should make up the largest proportion of daily food intake according to food pyramids?",
+"a": ["Carbohydrates", "Proteins", "Fats and oils", "Vitamins"],
+"correct": 0
+},
+{
+"q": "What deficiency disease causes weak, soft, and deformed bones in children due to a lack of Vitamin D and calcium?",
+"a": ["Scurvy", "Rickets", "Kwashiorkor", "Beriberi"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of a plant-based (vegetable) source of protein?",
+"a": ["Beef", "Fish", "Soybeans", "Milk"],
+"correct": 2
+},
+{
+"q": "What simple chemical test is used to detect the presence of starch in a food sample?",
+"a": ["Biuret test", "Ethanol emulsion test", "Benedict's test", "Iodine test"],
+"correct": 3
+},
+{
+"q": "What color change is observed when iodine solution is added to a food sample containing starch?",
+"a": ["From brownish-orange to blue-black", "From blue to pink", "From clear to cloudy white", "From yellow to red"],
+"correct": 0
+},
+{
+"q": "Which test is used to confirm the presence of proteins in a food substance?",
+"a": ["Iodine test", "Biuret test", "Ethanol emulsion test", "Heat test"],
+"correct": 1
+},
+{
+"q": "What color change confirms a positive result when the Biuret test is performed on a protein solution?",
+"a": ["Brick-red precipitate", "Blue-black coloration", "Purple or violet coloration", "Greasy translucent spot"],
+"correct": 2
+},
+{
+"q": "Which test is used to determine the presence of lipids (fats and oils) in food?",
+"a": ["Biuret test", "Iodine test", "Benedict's test", "Ethanol emulsion test"],
+"correct": 3
+},
+{
+"q": "Why is milk considered a near-complete food for infants?",
+"a": ["It contains proteins, carbohydrates, fats, vitamins, and minerals in balanced proportions", "It contains only pure water and sugar", "It is high in harmful cholesterol", "It has zero nutritional value"],
+"correct": 0
+},
+{
+"q": "Which of the following groups of people generally requires a higher intake of energy-giving foods and proteins due to rapid physical development?",
+"a": ["Elderly people", "Growing adolescents and teenagers", "Sedentary office workers", "Adults on bed rest"],
+"correct": 1
+},
+{
+"q": "What is the main consequence of eating too much fatty and sugary food over a long period without adequate physical exercise?",
+"a": ["Kwashiorkor", "Anemia", "Obesity and related health problems", "Scurvy"],
+"correct": 2
+},
+{
+"q": "Which vitamin group helps in maintaining healthy nervous systems, releasing energy from food, and preventing beriberi?",
+"a": ["Vitamin C", "Vitamin D", "Vitamin K", "Vitamin B complex"],
+"correct": 3
+},
+{
+"q": "Which food item is classified primarily as a protective food rich in vitamins and minerals?",
+"a": ["Fresh fruits and green vegetables", "Refined white sugar", "Cooking oil", "White bread"],
+"correct": 0
+},
+{
+"q": "What is the purpose of adding iodized salt to food in public health programs?",
+"a": ["To increase the calorie count", "To prevent iodine deficiency disorders like goiter", "To make food taste sweet", "To preserve meat from rotting"],
+"correct": 1
+},
+{
+"q": "Which of the following nutrients does not yield energy but is vital for regulating chemical reactions in the body?",
+"a": ["Carbohydrates", "Fats", "Vitamins and minerals", "Proteins"],
+"correct": 2
+},
+{
+"q": "Why must raw vegetables be washed thoroughly before consumption?",
+"a": ["To make them softer", "To change their color", "To add salt content", "To remove dirt, chemical pesticide residues, and harmful pathogens"],
+"correct": 3
+}
+]
+}

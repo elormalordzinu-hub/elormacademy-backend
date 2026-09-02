@@ -1,0 +1,186 @@
+{
+"id": "phys-yr7-quizzes-light",
+"name": "Light propagation and shadow formation",
+"questions": [
+{
+"q": "How does light travel through a uniform, transparent medium?",
+"a": ["In straight lines called light rays", "In wavy circular loops", "In random zigzag paths", "In expanding spiral coils"],
+"correct": 0
+},
+{
+"q": "What scientific term describes materials such as clear glass or clean water that allow light to pass straight through them clearly?",
+"a": ["Opaque", "Transparent", "Translucent", "Reflective"],
+"correct": 1
+},
+{
+"q": "What term describes materials like frosted glass or tracing paper that scatter light as it passes through, making images through them blurry?",
+"a": ["Transparent", "Opaque", "Translucent", "Luminous"],
+"correct": 2
+},
+{
+"q": "What do we call materials like wood, metal, or thick stone that do not let any light pass through them at all?",
+"a": ["Transparent", "Translucent", "Prismatic", "Opaque"],
+"correct": 3
+},
+{
+"q": "What is formed on a screen behind an opaque object when light rays are blocked by that object?",
+"a": ["A shadow", "A reflection", "A rainbow", "A lens image"],
+"correct": 0
+},
+{
+"q": "Why are sharp, well-defined shadows produced by a small point source of light, such as a laser pointer or distant star?",
+"a": ["All light rays bend around the object", "All light rays are blocked equally, creating a dark umbra with no fuzzy outer penumbra", "Light travels slower in shadows", "The screen absorbs the color"],
+"correct": 1
+},
+{
+"q": "What is the darkest central part of a shadow called where all direct light rays are completely blocked?",
+"a": ["The penumbra", "The focal point", "The umbra", "The reflection zone"],
+"correct": 2
+},
+{
+"q": "What is the lighter, blurry outer fringe of a shadow called, which occurs when a large extended light source is used?",
+"a": ["The umbra", "The specular point", "The refraction band", "The penumbra"],
+"correct": 3
+},
+{
+"q": "What happens to the size of a shadow on a wall if you move the opaque object closer to the light source?",
+"a": ["The shadow becomes larger because more light rays are blocked across a wider area", "The shadow becomes smaller", "The shadow disappears entirely", "The shadow changes color"],
+"correct": 0
+},
+{
+"q": "What law explains why light bounces off a plane mirror at the exact same angle that it hits it?",
+"a": ["Law of Conservation of Energy", "Law of Reflection (angle of incidence equals angle of reflection)", "Ohm's Law", "Newton's First Law"],
+"correct": 1
+},
+{
+"q": "What term describes an object that creates and emits its own light, such as the Sun or a burning candle?",
+"a": ["Non-luminous", "Reflective", "Luminous", "Transparent"],
+"correct": 2
+},
+{
+"q": "Why can you see non-luminous objects like a wooden desk or a book in a lit room?",
+"a": ["They produce their own infrared light", "They absorb all light permanently", "They emit electricity", "They reflect light from a luminous source into your eyes"],
+"correct": 3
+},
+{
+"q": "What happens to the sharpness and size of a shadow if you move the screen further away from the opaque object?",
+"a": ["The shadow becomes larger and fuzzier (more blurred)", "The shadow becomes smaller and sharper", "The shadow stays exactly the same size", "The shadow turns upside down"],
+"correct": 0
+},
+{
+"q": "Which of the following natural phenomena is caused by the Earth or Moon blocking the light of the Sun?",
+"a": ["An earthquake", "An eclipse (solar or lunar)", "A thunderstorm", "A volcanic eruption"],
+"correct": 1
+},
+{
+"q": "What scientific term describes the bending of light as it passes from one medium into another of different density, such as from air into water?",
+"a": ["Reflection", "Absorption", "Refraction", "Diffusion"],
+"correct": 2
+},
+{
+"q": "What optical device uses curved glass or plastic to refract light and focus it to a point?",
+"a": ["A flat plane mirror", "A wooden prism", "A metal shield", "A lens"],
+"correct": 3
+},
+{
+"q": "What happens to white light when it passes through a triangular glass prism?",
+"a": ["It splits into a continuous spectrum of colors (dispersion)", "It turns completely black", "It stops moving", "It turns into sound waves"],
+"correct": 0
+},
+{
+"q": "Which color of the visible light spectrum has the shortest wavelength and bends the most when passing through a prism?",
+"a": ["Red", "Violet (purple)", "Yellow", "Orange"],
+"correct": 1
+},
+{
+"q": "Why does a red apple look red when white light shines on it?",
+"a": ["It absorbs red light and reflects blue light", "It creates red light", "It reflects red light wavelengths and absorbs all other colors", "It transmits all light through itself"],
+"correct": 2
+},
+{
+"q": "What is the speed of light in a vacuum (an empty space)?",
+"a": ["340 metres per second", "1,500 metres per second", "30,000 kilometres per hour", "Approximately 300,000 kilometres per second"],
+"correct": 3
+},
+{
+"q": "Which of the following objects is classified as luminous?",
+"a": ["A glowing neon light tube", "A wooden chair", "A silver mirror", "A glass marble"],
+"correct": 0
+},
+{
+"q": "What is formed when a smaller celestial body passes directly behind a larger one or vice versa, creating regions of total and partial shadow in space?",
+"a": ["A refraction ring", "An eclipse", "A mirage", "A convex reflection"],
+"correct": 1
+},
+{
+"q": "Why do shadows have distinct edges when formed by a small light bulb compared to a large fluorescent tube?",
+"a": ["Small bulbs produce colorful shadows", "Small bulbs emit sound waves", "Small point sources block light uniformly, creating sharp umbrae without large penumbrae", "Small bulbs are dimmer"],
+"correct": 2
+},
+{
+"q": "What term describes the bouncing of light off a smooth, shiny surface like a polished metal or mirror?",
+"a": ["Refraction", "Dispersion", "Absorption", "Reflection"],
+"correct": 3
+},
+{
+"q": "If an object is placed very close to a screen with a light source behind the object, what happens to the shadow?",
+"a": ["The shadow is small and sharply defined close to the object's actual dimensions", "The shadow covers the entire wall", "The shadow disappears", "The shadow inverts completely"],
+"correct": 0
+},
+{
+"q": "Which of the following materials is translucent?",
+"a": ["Clear window glass", "Tracing paper", "Solid brick wall", "Polished steel plate"],
+"correct": 1
+},
+{
+"q": "What happens to a light ray when it strikes a rough, dull, or textured surface?",
+"a": ["It reflects in a single perfect mirror image", "It vanishes into heat", "It undergoes diffuse reflection, scattering light rays in many different directions", "It turns into sound"],
+"correct": 2
+},
+{
+"q": "Why can you see your reflection clearly in a calm pool of water or a flat mirror?",
+"a": ["Water is opaque", "The water absorbs all colors", "The water surface is rough", "The smooth surface produces regular (specular) reflection"],
+"correct": 3
+},
+{
+"q": "What optical illusion is often seen on hot desert roads or asphalt highways, caused by the refraction of light through layers of air at different temperatures?",
+"a": ["A mirage", "A total solar eclipse", "A rainbow", "A shadow projection"],
+"correct": 0
+},
+{
+"q": "Which of the following best explains why we see lightning before we hear the thunder during a storm?",
+"a": ["Thunder travels faster than lightning", "Light travels enormously faster through air than sound does", "Lightning and thunder happen at different times", "Sound travels in straight lines while light travels in circles"],
+"correct": 1
+},
+{
+"q": "What happens to a light beam when it passes perpendicularly through a transparent glass block?",
+"a": ["It bends backward", "It stops completely", "It passes straight through without changing direction (though it slows down inside the glass)", "It turns into ultraviolet radiation"],
+"correct": 2
+},
+{
+"q": "What are the primary colors of light in the RGB color model used for mixing colored lights on screens?",
+"a": ["Red, yellow, blue", "Cyan, magenta, yellow", "Black, white, grey", "Red, green, blue"],
+"correct": 3
+},
+{
+"q": "What type of mirror curves inward like the inside of a bowl and can focus parallel light rays to a focal point?",
+"a": ["Concave mirror", "Plane mirror", "Convex mirror", "Flat glass sheet"],
+"correct": 0
+},
+{
+"q": "What type of mirror curves outward like the back of a spoon, providing a wide field of view often used for vehicle wing mirrors?",
+"a": ["Plane mirror", "Convex mirror", "Concave mirror", "Prismatic mirror"],
+"correct": 1
+},
+{
+"q": "Why do shadows change length and position throughout the course of a sunny day outdoors?",
+"a": ["The opaque objects change size", "The Sun's physical mass decreases", "The apparent position of the Sun in the sky changes as the Earth rotates", "Clouds create moving shadows"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about light propagation is correct?",
+"a": ["Light requires a physical medium of air or water to travel through", "Light can travel across the vacuum of empty space from distant stars", "Light travels slower than sound waves", "Light always curves around obstacles"],
+"correct": 3
+}
+]
+}

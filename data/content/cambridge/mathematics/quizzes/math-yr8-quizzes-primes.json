@@ -1,0 +1,206 @@
+{
+  "id": "math-yr8-quizzes-primes",
+  "name": "Prime factors multiples and powers",
+  "questions": [
+    {
+      "q": "Which of the following is the prime factorization of 72?",
+      "a": ["2³ × 3²", "2² × 3³", "2⁴ × 3", "2 × 3⁴"],
+      "correct": 0
+    },
+    {
+      "q": "What is the Highest Common Factor (HCF) of 36 and 48?",
+      "a": ["6", "12", "18", "24"],
+      "correct": 1
+    },
+    {
+      "q": "What is the Lowest Common Multiple (LCM) of 12 and 15?",
+      "a": ["30", "180", "60", "120"],
+      "correct": 2
+    },
+    {
+      "q": "Evaluate 5³.",
+      "a": ["15", "125", "25", "125"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of the square root of 196?",
+      "a": ["14", "16", "12", "18"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following numbers is a prime number?",
+      "a": ["91", "97", "93", "99"],
+      "correct": 1
+    },
+    {
+      "q": "What is the cube root of 343?",
+      "a": ["9", "6", "7", "8"],
+      "correct": 2
+    },
+    {
+      "q": "Express 150 as a product of its prime factors in index form.",
+      "a": ["2 × 3 × 5²", "2² × 3 × 5", "2 × 3² × 5", "2 × 3 × 5³"],
+      "correct": 3
+    },
+    {
+      "q": "What is the Highest Common Factor (HCF) of 54 and 90?",
+      "a": ["18", "9", "27", "6"],
+      "correct": 0
+    },
+    {
+      "q": "Find the Lowest Common Multiple (LCM) of 8, 12, and 16.",
+      "a": ["32", "48", "96", "24"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate the expression: 3² + 2³ - √64.",
+      "a": ["9", "12", "9", "15"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following numbers is a square number and also a cube number?",
+      "a": ["27", "16", "81", "64"],
+      "correct": 3
+    },
+    {
+      "q": "What is the prime factorization of 540 written in index form?",
+      "a": ["2² × 3³ × 5", "2³ × 3² × 5", "2 × 3³ × 5²", "2² × 3² × 5²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the value of 10⁵?",
+      "a": ["10,000", "100,000", "1,000,000", "50"],
+      "correct": 1
+    },
+    {
+      "q": "Using prime factorization (HCF of 252 and 180), find the HCF.",
+      "a": ["18", "12", "36", "72"],
+      "correct": 2
+    },
+    {
+      "q": "What is the next prime number after 79?",
+      "a": ["81", "85", "87", "83"],
+      "correct": 3
+    },
+    {
+      "q": "Evaluate: ∛1000 + √121.",
+      "a": ["21", "31", "111", "19"],
+      "correct": 0
+    },
+    {
+      "q": "Which of these numbers is a multiple of both 14 and 21?",
+      "a": ["28", "42", "56", "84"],
+      "correct": 1
+    },
+    {
+      "q": "What is the value of 2⁶?",
+      "a": ["32", "64", "64", "128"],
+      "correct": 2
+    },
+    {
+      "q": "Find the Lowest Common Multiple (LCM) of 24 and 36 using prime factors.",
+      "a": ["12", "144", "24", "72"],
+      "correct": 3
+    },
+    {
+      "q": "What is the product of the first four prime numbers?",
+      "a": ["210", "30", "70", "105"],
+      "correct": 0
+    },
+    {
+      "q": "Which number has the prime factorization 3² × 7?",
+      "a": ["42", "63", "189", "21"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate: 4³ / √64.",
+      "a": ["4", "16", "8", "2"],
+      "correct": 2
+    },
+    {
+      "q": "What is the HCF of two prime numbers that are different?",
+      "a": ["The sum of the numbers", "Their product", "The larger number", "1"],
+      "correct": 3
+    },
+    {
+      "q": "Write 200 as a product of its prime factors.",
+      "a": ["2³ × 5²", "2² × 5³", "2⁴ × 5", "2 × 5⁴"],
+      "correct": 0
+    },
+    {
+      "q": "What is the value of 3⁴ - 2⁵?",
+      "a": ["31", "49", "65", "17"],
+      "correct": 1
+    },
+    {
+      "q": "Find the LCM of 18, 24, and 30.",
+      "a": ["180", "240", "360", "720"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is NOT a composite number?",
+      "a": ["51", "57", "63", "53"],
+      "correct": 3
+    },
+    {
+      "q": "What is the missing exponent: 2ˣ = 128?",
+      "a": ["7", "6", "8", "5"],
+      "correct": 0
+    },
+    {
+      "q": "Find the square root of 441.",
+      "a": ["19", "21", "23", "29"],
+      "correct": 1
+    },
+    {
+      "q": "What is the Greatest Common Divisor of 108 and 144?",
+      "a": ["18", "24", "36", "12"],
+      "correct": 2
+    },
+    {
+      "q": "If a number can be expressed as 2³ × 3² × 5, how many prime factors does its prime decomposition have?",
+      "a": ["3", "4", "5", "6"],
+      "correct": 3
+    },
+    {
+      "q": "What is the value of (-2)⁴ vs -(2⁴)?",
+      "a": ["They are different (16 and -16)", "They are different (16 and -16)", "They are the same (16)", "They are the same (-16)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the sum of all prime numbers between 1 and 20?",
+      "a": ["60", "77", "58", "70"],
+      "correct": 1
+    },
+    {
+      "q": "Evaluate: √(14² + 48²).",
+      "a": ["62", "2500", "50", "48"],
+      "correct": 2
+    },
+    {
+      "q": "What is the LCM of two co-prime numbers, a and b?",
+      "a": ["a + b", "a - b", "a / b", "a × b"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following numbers is divisible by 3, 4, and 5?",
+      "a": ["60", "80", "90", "120"],
+      "correct": 0
+    },
+    {
+      "q": "What is the value of 5² × 2³?",
+      "a": ["400", "200", "100", "150"],
+      "correct": 1
+    },
+    {
+      "q": "Find the cube root of 1728.",
+      "a": ["14", "16", "12", "18"],
+      "correct": 2
+    },
+    {
+      "q": "If P = 2³ × 3 and Q = 2² × 3², what is the LCM of P and Q?",
+      "a": ["24", "36", "18", "72"],
+      "correct": 3
+    }
+  ]
+}

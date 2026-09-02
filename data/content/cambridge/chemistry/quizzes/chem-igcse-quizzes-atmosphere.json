@@ -1,0 +1,146 @@
+{
+"id": "chem-igcse-quizzes-atmosphere",
+"name": "Atmospheric chemistry and pollution",
+"questions": [
+{
+"q": "What is the approximate percentage of nitrogen gas in clean, dry air?",
+"a": ["78 percent", "21 percent", "0.9 percent", "0.04 percent"],
+"correct": 0
+},
+{
+"q": "What is the approximate percentage of oxygen gas in clean, dry air?",
+"a": ["1 percent", "21 percent", "78 percent", "50 percent"],
+"correct": 1
+},
+{
+"q": "Which gas in the atmosphere is most responsible for climate change due to its greenhouse effect?",
+"a": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+"correct": 2
+},
+{
+"q": "How is fractional distillation used to obtain gases from liquid air?",
+"a": ["By filtering air through carbon filters at room temperature", "By dissolving air in water and neutralizing it with acid", "By reacting air with magnesium ribbon to remove oxygen", "By cooling air until it liquefies and then separating gases based on their different boiling points"],
+"correct": 3
+},
+{
+"q": "Which pollutant gas is produced by the incomplete combustion of carbon-containing fuels in car engines?",
+"a": ["Carbon monoxide", "Sulfur dioxide", "Nitrogen", "Water vapor"],
+"correct": 0
+},
+{
+"q": "What is the main source of sulfur dioxide pollutant gas in the atmosphere?",
+"a": ["Photosynthesis in green plants", "Burning fossil fuels that contain sulfur impurities", "Respiration of animals", "Radioactive decay of rocks"],
+"correct": 1
+},
+{
+"q": "Which environmental problem is directly caused by sulfur dioxide and nitrogen oxides dissolving in rainwater?",
+"a": ["Global warming", "Ozone depletion", "Acid rain", "Photochemical smog"],
+"correct": 2
+},
+{
+"q": "How does a catalytic converter in a car exhaust system reduce pollution?",
+"a": ["It converts carbon dioxide into oxygen gas", "It freezes harmful gases into solid dust", "It absorbs all nitrogen gas", "It catalyzes the conversion of toxic carbon monoxide and nitrogen oxides into harmless carbon dioxide and nitrogen"],
+"correct": 3
+},
+{
+"q": "Why is carbon monoxide gas toxic to humans?",
+"a": ["It binds irreversibly to hemoglobin in red blood cells, reducing the capacity of blood to transport oxygen", "It causes immediate irritation to the skin", "It reacts with stomach acid to form corrosive liquids", "It destroys the ozone layer directly"],
+"correct": 0
+},
+{
+"q": "Which gas is released into the atmosphere during the thermal decomposition of calcium carbonate?",
+"a": ["Sulfur dioxide", "Carbon dioxide", "Hydrogen", "Methane"],
+"correct": 1
+},
+{
+"q": "What is a major consequence of acid rain on the environment?",
+"a": ["It turns soils alkaline and promotes plant growth", "It cools down the earth atmosphere rapidly", "It damages buildings made of limestone/marble and kills aquatic life in lakes", "It melts polar ice caps instantly"],
+"correct": 2
+},
+{
+"q": "Which of the following processes removes carbon dioxide from the atmosphere?",
+"a": ["Respiration", "Combustion of fossil fuels", "Volcanic eruptions", "Photosynthesis"],
+"correct": 3
+},
+{
+"q": "What noble gas makes up approximately 0.9 percent of clean air?",
+"a": ["Argon", "Helium", "Neon", "Krypton"],
+"correct": 0
+},
+{
+"q": "How are nitrogen oxides formed inside internal combustion engines of cars?",
+"a": ["From sulfur impurities in petrol reacting with air", "From high temperatures causing nitrogen and oxygen from the air to react together", "From the breakdown of catalytic converters", "From the combustion of lubricating oils"],
+"correct": 1
+},
+{
+"q": "Which of the following gases is also considered a greenhouse gas that contributes to global warming alongside carbon dioxide?",
+"a": ["Argon", "Nitrogen", "Methane", "Chlorine"],
+"correct": 2
+},
+{
+"q": "What is the primary role of the ozone layer in the upper atmosphere?",
+"a": ["To generate lightning storms", "To provide oxygen for human breathing", "To trap heat near the Earth surface", "To absorb harmful ultraviolet (UV) radiation from the Sun"],
+"correct": 3
+},
+{
+"q": "Which chemical test confirms the presence of carbon dioxide gas?",
+"a": ["Turns limewater milky/cloudy", "Relights a glowing splint", "Bleaches damp litmus paper", "Pops with a lighted splint"],
+"correct": 0
+},
+{
+"q": "What natural process adds carbon dioxide to the atmosphere?",
+"a": ["Filtration of water", "Respiration of living organisms", "Condensation of water vapor", "Melting of glaciers"],
+"correct": 1
+},
+{
+"q": "Which of the following substances helps neutralize acidic soils caused by acid rain?",
+"a": ["Dilute hydrochloric acid", "Sodium chloride", "Calcium hydroxide (slaked lime)", "Ethanol"],
+"correct": 2
+},
+{
+"q": "What type of chemical reaction occurs inside a catalytic converter when carbon monoxide reacts with nitrogen monoxide?",
+"a": ["Thermal decomposition", "Neutralization", "Addition", "Redox reaction (reduction of nitrogen monoxide and oxidation of carbon monoxide)"],
+"correct": 3
+},
+{
+"q": "Which gas is present in the atmosphere in the smallest percentage among the main components?",
+"a": ["Carbon dioxide", "Oxygen", "Nitrogen", "Water vapor"],
+"correct": 0
+},
+{
+"q": "Why is methane considered a potent greenhouse gas?",
+"a": ["It is toxic to plant life", "It traps thermal energy radiated from the Earth surface effectively", "It destroys ozone molecules in the stratosphere", "It causes acid rain directly"],
+"correct": 1
+},
+{
+"q": "Which of the following is a consequence of global warming?",
+"a": ["Cooling of ocean currents", "Increase in ozone concentration", "Rising sea levels and melting polar ice", "Increase in atmospheric nitrogen levels"],
+"correct": 2
+},
+{
+"q": "What is the chemical formula for carbon monoxide?",
+"a": ["CO<sub>2</sub>", "C<sub>2</sub>O", "C", "CO"],
+"correct": 3
+},
+{
+"q": "Which pollutant gas has a choking smell and is produced when coal containing sulfur impurities is burned in power stations?",
+"a": ["Sulfur dioxide", "Carbon dioxide", "Nitrogen", "Oxygen"],
+"correct": 0
+},
+{
+"q": "What is formed when nitrogen dioxide dissolves in water in the atmosphere?",
+"a": ["Ammonia", "Nitric acid", "Sodium nitrate", "Carbonic acid"],
+"correct": 1
+},
+{
+"q": "Which human activity significantly increases the concentration of carbon dioxide in the atmosphere?",
+"a": ["Planting trees in urban areas", "Using solar panels for electricity", "Deforestation and burning fossil fuels", "Recycling plastic waste"],
+"correct": 2
+},
+{
+"q": "Which gas is produced during the respiration of animals and plants?",
+"a": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+"correct": 3
+}
+]
+}

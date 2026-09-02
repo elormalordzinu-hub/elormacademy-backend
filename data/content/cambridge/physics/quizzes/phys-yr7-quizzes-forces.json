@@ -1,0 +1,206 @@
+{
+"id": "phys-yr7-quizzes-forces",
+"name": "Introduction to forces and types of forces",
+"questions": [
+{
+"q": "What is the scientific definition of a force in physics?",
+"a": ["A push or a pull acting upon an object", "The amount of matter inside a body", "The speed at which an object travels", "The total energy stored in an object"],
+"correct": 0
+},
+{
+"q": "What is the standard SI unit used to measure force?",
+"a": ["Kilogram (kg)", "Newton (N)", "Joule (J)", "Watt (W)"],
+"correct": 1
+},
+{
+"q": "Which instrument is standardly used to measure the size of a force in a school laboratory?",
+"a": ["A thermometer", "A top-pan balance", "A newton meter (spring balance)", "A metre rule"],
+"correct": 2
+},
+{
+"q": "Which of the following effects can a force produce on an object?",
+"a": ["Change its color", "Increase its chemical mass", "Make it invisible", "Change its shape, speed, or direction of motion"],
+"correct": 3
+},
+{
+"q": "What type of force is friction?",
+"a": ["A contact force that opposes motion between surfaces in contact", "A non-contact magnetic force", "A force that creates infinite energy", "An attractive gravitational force"],
+"correct": 0
+},
+{
+"q": "Which of the following is an example of a non-contact (action-at-a-distance) force?",
+"a": ["Friction", "Magnetic force", "Air resistance", "Tension in a rope"],
+"correct": 1
+},
+{
+"q": "What term describes the force exerted by a stretched or compressed spring or elastic band?",
+"a": ["Friction", "Gravity", "Tension (or elastic spring force)", "Magnetic pull"],
+"correct": 2
+},
+{
+"q": "When a skydiver falls through the air, what upward force acts against gravity due to collision with air particles?",
+"a": ["Magnetic attraction", "Electrostatic charge", "Normal contact force", "Air resistance (drag)"],
+"correct": 3
+},
+{
+"q": "What do we call forces that are equal in size but opposite in direction acting on an object, resulting in zero net force?",
+"a": ["Balanced forces", "Unbalanced forces", "Magnetic forces", "Centripetal forces"],
+"correct": 0
+},
+{
+"q": "If two opposing forces acting on a box are unbalanced (for example, a larger push to the right and a smaller friction to the left), what will happen to the box?",
+"a": ["It will remain completely stationary", "It will accelerate in the direction of the larger force", "It will vanish", "It will float into the air"],
+"correct": 1
+},
+{
+"q": "What is the upward force exerted by a surface (such as a table) to support an object resting on it called?",
+"a": ["Friction", "Air resistance", "Normal contact force", "Gravity"],
+"correct": 2
+},
+{
+"q": "Which of these forces acts when two electrical charges interact or when static electricity causes hair to stand up?",
+"a": ["Magnetic force", "Gravitational force", "Tension force", "Electrostatic force"],
+"correct": 3
+},
+{
+"q": "Why does a rolling football eventually slow down and stop on a flat grass pitch?",
+"a": ["Friction from the grass and air resistance create an unbalanced opposing force", "Gravity pulls the ball sideways", "The ball runs out of matter", "Internal magnetism stops it"],
+"correct": 0
+},
+{
+"q": "Which scientific diagram tool is used to show the direction and relative size of all forces acting on an object?",
+"a": ["Bar chart", "Force vector diagram (free-body diagram)", "Pie chart", "Distance-time graph"],
+"correct": 1
+},
+{
+"q": "What force allows a person to walk forward without slipping on a dry pavement?",
+"a": ["Air resistance", "Magnetic repulsion", "Friction between the shoes and the ground", "Electrostatic attraction"],
+"correct": 2
+},
+{
+"q": "What happens when you apply a pair of balanced forces to a stationary book resting on a table?",
+"a": ["The book accelerates quickly", "The book changes shape into a sphere", "The book flies off the table", "The book remains at rest"],
+"correct": 3
+},
+{
+"q": "Which of the following is a contact force experienced when pulling a heavy object using a string or cable?",
+"a": ["Tension", "Gravity", "Magnetism", "Electrostatic force"],
+"correct": 0
+},
+{
+"q": "If a parachute is opened by a skydiver, why does air resistance increase significantly?",
+"a": ["The parachute becomes heavier", "The large surface area of the parachute collides with many more air particles", "Gravity turns off", "The temperature increases"],
+"correct": 1
+},
+{
+"q": "What is the term for the overall single force that replaces multiple forces acting on an object?",
+"a": ["Balanced force", "Static force", "Resultant (net) force", "Frictional force"],
+"correct": 2
+},
+{
+"q": "Which force pulls objects toward the center of the Earth without any physical contact?",
+"a": ["Friction", "Tension", "Normal contact force", "Gravity"],
+"correct": 3
+},
+{
+"q": "Why do engineers use lubricants like oil or grease on moving metal parts of a machine?",
+"a": ["To reduce unwanted friction and wear and tear between surfaces", "To increase the weight of the machine", "To magnetize the parts", "To create electricity"],
+"correct": 0
+},
+{
+"q": "Which of the following pairs contains only contact forces?",
+"a": ["Gravity and magnetism", "Friction and air resistance", "Electrostatic force and gravity", "Magnetism and tension"],
+"correct": 1
+},
+{
+"q": "What force causes iron nails to be pulled toward a bar magnet?",
+"a": ["Frictional force", "Gravitational force", "Magnetic force", "Air resistance"],
+"correct": 2
+},
+{
+"q": "If an object is moving at a steady constant speed in a straight line, what can be deduced about the forces acting on it?",
+"a": ["There are no forces acting on it at all", "The forward force is much greater than friction", "Friction is greater than the pushing force", "The forces acting on it are balanced (resultant force is zero)"],
+"correct": 3
+},
+{
+"q": "What name is given to the resistance experienced by an object moving through water or any other fluid?",
+"a": ["Drag (or fluid resistance)", "Tension", "Electrostatic attraction", "Gravity"],
+"correct": 0
+},
+{
+"q": "Which of the following everyday activities relies heavily on increasing friction rather than reducing it?",
+"a": ["Ice skating", "Applying rubber treads on car tyres for rainy roads", "Putting oil on bicycle chain gears", "Sliding down a polished metal slide"],
+"correct": 1
+},
+{
+"q": "What scientific instrument uses a calibrated spring to measure the magnitude of applied forces?",
+"a": ["A thermometer", "A barometer", "A newton meter", "A micrometer"],
+"correct": 2
+},
+{
+"q": "When a gymnast hangs stationary from a high bar, what two main forces are acting on the gymnast in balance?",
+"a": ["Magnetic pull and air resistance", "Friction and tension", "Electrostatic force and drag", "Downward pull of gravity and upward tension in the arms/bar"],
+"correct": 3
+},
+{
+"q": "What happens to the extension of a spring if you double the stretching force applied to it (within its elastic limit)?",
+"a": ["The extension doubles", "The spring breaks instantly", "The extension remains unchanged", "The spring shrinks"],
+"correct": 0
+},
+{
+"q": "Which of these forces is responsible for keeping planets in orbit around the Sun?",
+"a": ["Magnetic repulsion", "Gravitational force", "Friction", "Electrostatic force"],
+"correct": 1
+},
+{
+"q": "What is the main reason streamlining (such as a teardrop shape) is used on cars, trains, and airplanes?",
+"a": ["To make them look attractive", "To increase their total weight", "To reduce air resistance (drag) at high speeds", "To generate static electricity"],
+"correct": 2
+},
+{
+"q": "If a box has a 50 N force pulling it to the right and a 30 N friction force pushing back to the left, what is the magnitude and direction of the resultant force?",
+"a": ["80 N to the right", "20 N to the left", "50 N to the right", "20 N to the right"],
+"correct": 3
+},
+{
+"q": "What is the term for a push or pull that can change the motion or shape of an object?",
+"a": ["Force", "Energy", "Power", "Mass"],
+"correct": 0
+},
+{
+"q": "Which physical property determines how much a spring stretches when a specific force is applied?",
+"a": ["Its color", "Its spring constant (stiffness)", "Its temperature", "Its electrical conductivity"],
+"correct": 1
+},
+{
+"q": "What kind of force occurs when rubbing a plastic ruler with a dry cloth causes small paper scraps to stick to it?",
+"a": ["Magnetic force", "Gravitational force", "Electrostatic force", "Tension force"],
+"correct": 2
+},
+{
+"q": "Which of the following best describes the effect of balanced forces on a moving bicycle?",
+"a": ["The bicycle will speed up rapidly", "The bicycle will turn around", "The bicycle will come to an immediate halt", "The bicycle will continue moving at a constant speed in a straight line"],
+"correct": 3
+},
+{
+"q": "What type of force opposes the relative motion of solid surfaces sliding past each other?",
+"a": ["Friction", "Tension", "Gravity", "Magnetism"],
+"correct": 0
+},
+{
+"q": "Why do wet ceramic kitchen floors present a slipping hazard compared to dry carpets?",
+"a": ["Water increases friction significantly", "Water acts as a lubricant, drastically reducing friction between shoes and the floor", "Water adds heavy magnetic forces", "Water stretches shoes"],
+"correct": 1
+},
+{
+"q": "If a spring stretches by 2 cm under a 4 N load, how much will it stretch under an 8 N load (assuming it stays within its elastic limit)?",
+"a": ["2 cm", "6 cm", "4 cm", "8 cm"],
+"correct": 2
+},
+{
+"q": "What is the primary factor that determines whether a force is classified as a contact force or a non-contact force?",
+"a": ["Whether the objects are made of metal", "Whether the force is measured in Newtons", "Whether the force causes movement", "Whether the objects need to physically touch each other to exert the force"],
+"correct": 3
+}
+]
+}

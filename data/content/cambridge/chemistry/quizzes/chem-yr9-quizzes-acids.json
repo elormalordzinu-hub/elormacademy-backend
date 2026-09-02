@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr9-quizzes-acids",
+  "name": "Acids bases and salts preparation",
+  "questions": [
+    {
+      "q": "What ions do all acid solutions contain in water, which are responsible for their acidic properties?",
+      "a": ["Hydrogen ions (H+)", "Hydroxide ions (OH-)", "Sodium ions (Na+)", "Chloride ions (Cl-)"],
+      "correct": 0
+    },
+    {
+      "q": "What type of ions do aqueous solutions of bases or alkalis contain?",
+      "a": ["Hydrogen ions (H+)", "Hydroxide ions (OH-)", "Carbonate ions (CO3^2-)", "Sulfate ions (SO4^2-)"],
+      "correct": 1
+    },
+    {
+      "q": "What is the pH range of a strongly acidic solution?",
+      "a": ["pH 8 to 10", "pH 7", "pH 0 to 3", "pH 12 to 14"],
+      "correct": 2
+    },
+    {
+      "q": "What color does Universal Indicator turn in a strongly alkaline solution (pH 13 to 14)?",
+      "a": ["Red", "Orange", "Green", "Purple / Dark Blue"],
+      "correct": 3
+    },
+    {
+      "q": "What is formed when an acid reacts with a metal base or alkali in a neutralization reaction?",
+      "a": ["Salt and water (and sometimes carbon dioxide if a carbonate)", "Only hydrogen gas", "A pure metal element", "An insoluble precipitate of oil"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances is classified as a soluble base (alkali)?",
+      "a": ["Copper(II) oxide", "Sodium hydroxide", "Silver chloride", "Silicon dioxide"],
+      "correct": 1
+    },
+    {
+      "q": "What is observed when a carbonate (such as calcium carbonate) reacts with hydrochloric acid?",
+      "a": ["The solution turns bright purple", "A pungent yellow gas is released", "Effervescence (bubbling) occurs as carbon dioxide gas is produced, which turns limewater milky", "The mixture explodes"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a strong mineral acid?",
+      "a": ["Ethanoic acid", "Citric acid", "Carbonic acid", "Hydrochloric acid"],
+      "correct": 3
+    },
+    {
+      "q": "What is the difference between a strong acid and a weak acid in aqueous solution?",
+      "a": ["Strong acids dissociate completely into ions, whereas weak acids only partially dissociate", "Strong acids contain metal atoms", "Weak acids have lower pH values than strong acids", "Strong acids are always solids"],
+      "correct": 0
+    },
+    {
+      "q": "How can you prepare a soluble salt (such as copper sulfate) using an excess of an insoluble base (copper oxide) and an acid?",
+      "a": ["By freezing the mixture", "By adding excess insoluble base to warm acid, filtering off the excess unreacted solid, and crystallizing the filtrate", "By distilling the acid", "By electrolysis with copper wires"],
+      "correct": 1
+    },
+    {
+      "q": "What method is used to prepare a soluble salt from an alkali (like sodium hydroxide) and an acid (like hydrochloric acid)?",
+      "a": ["Simple filtration", "Thermal decomposition", "Titration (using an indicator to find exact neutralization points, then evaporating without excess reactant)", "Precipitation mixing"],
+      "correct": 2
+    },
+    {
+      "q": "What method is used to prepare an insoluble salt (such as barium sulfate or silver chloride)?",
+      "a": ["Direct combination of elements", "Fractional distillation", "Electrolysis", "Precipitation (mixing two soluble salt solutions, filtering, washing, and drying the solid)"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical test and positive result for identifying hydrogen gas?",
+      "a": ["A burning splint makes a 'squeaky pop' sound", "A glowing splint relights", "Limewater turns milky", "Damp litmus paper turns white"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical test and positive result for identifying carbon dioxide gas?",
+      "a": ["It bleaches damp litmus paper", "Bubbling the gas through limewater turns the limewater milky/cloudy", "It has a choking smell", "It burns with a blue flame"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when an acid reacts with a reactive metal?",
+      "a": ["A salt and water only", "A salt and oxygen gas", "A salt and hydrogen gas", "A base and a metal oxide"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following salts is generally *insoluble* in water?",
+      "a": ["Sodium chloride", "Potassium nitrate", "Magnesium sulfate", "Lead(II) sulfate"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical formula for sulfuric acid?",
+      "a": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+      "correct": 0
+    },
+    {
+      "q": "What type of chemical oxide is sulfur dioxide (SO2), which dissolves in water to form an acidic solution?",
+      "a": ["Basic oxide", "Acidic oxide", "Amphoteric oxide", "Neutral oxide"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following oxides is classified as a neutral oxide (does not react with acids or bases)?",
+      "a": ["Copper(II) oxide", "Sodium oxide", "Carbon monoxide (CO)", "Sulfur dioxide"],
+      "correct": 2
+    },
+    {
+      "q": "What is an amphoteric oxide?",
+      "a": ["An oxide that dissolves in pure alcohol only", "An oxide that is radioactive", "An oxide that never reacts", "An oxide that can react with both acids and bases to form a salt and water (e.g., aluminum oxide)"],
+      "correct": 3
+    },
+    {
+      "q": "What color is litmus paper in an acidic solution?",
+      "a": ["Red", "Blue", "Green", "Yellow"],
+      "correct": 0
+    },
+    {
+      "q": "What color is phenolphthalein indicator in an alkaline solution?",
+      "a": ["Colorless", "Pink / Magenta", "Yellow", "Blue"],
+      "correct": 1
+    },
+    {
+      "q": "Why is excess insoluble reactant added when preparing a soluble salt from an acid and an insoluble metal oxide or carbonate?",
+      "a": ["To make the solution toxic", "To make the mixture alkaline", "To ensure all the acid is completely used up and reacted so no residual acid remains", "To speed up filtration"],
+      "correct": 2
+    },
+    {
+      "q": "What salt is produced when zinc reacts completely with dilute hydrochloric acid?",
+      "a": ["Zinc sulfate", "Zinc nitrate", "Zinc carbonate", "Zinc chloride"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following represents a neutralization ionic equation between hydrogen ions and hydroxide ions?",
+      "a": ["H^+ + OH^- -> H2O", "Na^+ + Cl^- -> NaCl", "H2 + O2 -> 2H2O", "Zn + 2H^+ -> Zn^2+ + H2"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical name for the salt produced by the reaction of nitric acid with potassium hydroxide?",
+      "a": ["Potassium chloride", "Potassium nitrate", "Potassium sulfate", "Potassium carbonate"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following compounds is a base, but *not* an alkali?",
+      "a": ["Sodium hydroxide", "Potassium hydroxide", "Iron(III) oxide (insoluble)", "Ammonia dissolved in water"],
+      "correct": 2
+    },
+    {
+      "q": "What happens to the pH of an acidic solution as sodium hydroxide solution is slowly added to it until complete neutralization occurs?",
+      "a": ["The pH drops to 0", "The pH stays at 1", "The pH becomes acidic", "The pH increases toward 7"],
+      "correct": 3
+    },
+    {
+      "q": "Why are weak acids, such as ethanoic acid in vinegar, safe to consume in food whereas strong acids like concentrated hydrochloric acid are corrosive?",
+      "a": ["Weak acids have a much lower concentration of hydrogen ions due to partial dissociation, whereas strong acids fully dissociate into high H^+ concentrations", "Weak acids contain metal ions", "Weak acids are solid crystals", "Weak acids do not contain hydrogen"],
+      "correct": 0
+    },
+    {
+      "q": "In a titration experiment, what piece of glassware is used to measure an accurate, fixed volume of alkali solution into a conical flask?",
+      "a": ["Beaker", "Pipette", "Graduated cylinder", "Reagent bottle"],
+      "correct": 1
+    },
+    {
+      "q": "What piece of apparatus is used in a titration to slowly add acid of known concentration to the alkali until the end-point is reached?",
+      "a": ["Dropper", "Funnel", "Burette", "Gas syringe"],
+      "correct": 2
+    },
+    {
+      "q": "What is the purpose of crystallisation in salt preparation?",
+      "a": ["To burn impurities", "To melt the salt into liquid", "To evaporate water completely into gas", "To obtain pure, dry solid salt crystals from a hot, saturated solution by cooling"],
+      "correct": 3
+    },
+    {
+      "q": "Which acid is used to manufacture sulfate salts?",
+      "a": ["Sulfuric acid", "Hydrochloric acid", "Nitric acid", "Carbonic acid"],
+      "correct": 0
+    },
+    {
+      "q": "Which acid is used to manufacture chloride salts?",
+      "a": ["Phosphoric acid", "Hydrochloric acid", "Sulfuric acid", "Nitric acid"],
+      "correct": 1
+    },
+    {
+      "q": "Which acid is used to manufacture nitrate salts?",
+      "a": ["Hydrochloric acid", "Sulfuric acid", "Nitric acid", "Ethanoic acid"],
+      "correct": 2
+    },
+    {
+      "q": "What is observed when a piece of magnesium ribbon is dropped into dilute hydrochloric acid?",
+      "a": ["The metal turns into liquid gold", "The solution freezes instantly", "No reaction occurs", "Rapid effervescence (bubbling of hydrogen gas) occurs and the metal dissolves"],
+      "correct": 3
+    },
+    {
+      "q": "What type of substance is calcium oxide (quicklime), which is added to acidic agricultural soils to neutralize them?",
+      "a": ["Basic oxide", "Acidic oxide", "Neutral gas", "Organic salt"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical formula of nitric acid?",
+      "a": ["H2SO4", "HNO3", "HCl", "H2CO3"],
+      "correct": 1
+    },
+    {
+      "q": "What is produced at the anode during the electrolysis of concentrated hydrochloric acid?",
+      "a": ["Oxygen gas", "Hydrogen gas", "Chlorine gas", "Sodium vapor"],
+      "correct": 2
+    },
+    {
+      "q": "Why does pure dry hydrogen chloride gas dissolved in a non-polar solvent (like methylbenzene) fail to show acidic properties or conduct electricity?",
+      "a": ["Because it turns into a solid", "Because it reacts with the solvent to form metal", "Because it contains hydroxide ions", "Because it does not ionize into hydrogen ions without water present"],
+      "correct": 3
+    }
+  ]
+}

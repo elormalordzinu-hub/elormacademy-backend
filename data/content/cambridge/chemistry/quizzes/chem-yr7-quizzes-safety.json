@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr7-quizzes-safety",
+  "name": "Laboratory safety and hazard symbols",
+  "questions": [
+    {
+      "q": "What is the primary reason for wearing safety goggles during a chemistry laboratory session?",
+      "a": ["To protect your eyes from accidental chemical splashes and flying debris", "To improve your vision under dim laboratory lighting", "To comply with school fashion trends", "To prevent your eyes from getting dry"],
+      "correct": 0
+    },
+    {
+      "q": "Which hazard symbol features a skull and crossbones, indicating a high level of danger?",
+      "a": ["Flammable", "Toxic / Poisonous", "Corrosive", "Oxidizing"],
+      "correct": 1
+    },
+    {
+      "q": "What should you do immediately if you spill an acid or chemical solution on your skin?",
+      "a": ["Wipe it off with a dry tissue", "Hide the spill from your teacher", "Flush the affected skin area thoroughly with plenty of running water and inform your teacher", "Apply cooking oil to neutralize it"],
+      "correct": 2
+    },
+    {
+      "q": "Why is it strictly forbidden to eat or drink inside a science laboratory?",
+      "a": ["It makes the desks untidy", "It disturbs other students who are working", "It slows down the progress of the experiment", "There is a serious risk of accidental poisoning or chemical contamination"],
+      "correct": 3
+    },
+    {
+      "q": "When heating a liquid in a test tube using a Bunsen burner, which direction should the open end of the test tube point?",
+      "a": ["Away from yourself and everyone else in the room", "Directly at your lab partner for easy viewing", "Straight down toward your work surface", "Upward toward the ceiling lights"],
+      "correct": 0
+    },
+    {
+      "q": "Which type of Bunsen burner flame is yellow, luminous, and primarily used as a safety flame when the burner is not actively heating?",
+      "a": ["Roaring blue flame", "Luminous safety flame", "Invisible pilot flame", "Green cracking flame"],
+      "correct": 1
+    },
+    {
+      "q": "What is the correct technique for smelling a chemical vapor or gas safely in the laboratory?",
+      "a": ["Place your nose directly over the rim of the container and inhale deeply", "Heat the container strongly and lean over it", "Gently wave your hand over the opening of the container to direct vapors toward your nose (wafting)", "Taste a drop of the chemical first to check its scent"],
+      "correct": 2
+    },
+    {
+      "q": "What does a hazard symbol showing an exclamation mark usually warn against?",
+      "a": ["Explosive hazards", "Extreme radioactive radiation", "Biohazardous materials", "Harmful or irritant substances that can cause skin irritation"],
+      "correct": 3
+    },
+    {
+      "q": "What is the main purpose of wearing a lab coat during practical science experiments?",
+      "a": ["To protect your clothing and skin from chemical spills and splashes", "To keep you warm during cold winter days", "To identify which class group you belong to", "To provide extra pockets for storing mobile phones"],
+      "correct": 0
+    },
+    {
+      "q": "What is the correct action to take if a piece of glassware breaks during an experiment?",
+      "a": ["Pick up the large pieces with your bare hands and throw them in the regular bin", "Inform your teacher immediately and do not touch the broken glass with bare hands", "Sweep the glass shards under the floor cabinets", "Melt the glass back together using a Bunsen burner"],
+      "correct": 1
+    },
+    {
+      "q": "What does a hazard symbol showing a flame over a circle signify?",
+      "a": ["A material that catches fire spontaneously in water", "A gas cylinder under high pressure", "An oxidizing substance that can provide oxygen to make other fires burn more fiercely", "A low-temperature freezing agent"],
+      "correct": 2
+    },
+    {
+      "q": "Why must long hair be tied back securely during practical lessons involving a Bunsen burner?",
+      "a": ["It helps you see your measurements more clearly", "It prevents hair from blocking your lab goggles", "It looks more professional for school inspections", "It prevents hair from accidentally catching fire or dipping into chemical solutions"],
+      "correct": 3
+    },
+    {
+      "q": "Which of these actions is extremely dangerous when dealing with electrical equipment in the laboratory?",
+      "a": ["Touching switches or plugs with wet hands", "Checking that cords are unfrayed before use", "Turning off the power supply before unplugging devices", "Keeping liquids away from electrical outlets"],
+      "correct": 0
+    },
+    {
+      "q": "What does a corrosive hazard symbol indicate about a chemical substance?",
+      "a": ["It evaporates instantly at room temperature", "It can destroy living tissue, skin, eyes, and damage metals upon contact", "It is completely safe to touch with bare hands", "It glows brightly in the dark"],
+      "correct": 1
+    },
+    {
+      "q": "How should unwanted chemical waste be disposed of at the end of an experiment?",
+      "a": ["Poured down any available sink tap with cold water", "Taken home in a plastic cup", "Disposed of carefully following the specific instructions given by your teacher", "Left on the workbench for the cleaning staff"],
+      "correct": 2
+    },
+    {
+      "q": "What safety precaution should you take when picking up a crucible or beaker that has just been heated over a Bunsen burner?",
+      "a": ["Pick it up quickly with your bare fingers before it cools", "Blow heavily on it to lower its temperature", "Pour cold tap water directly into it while it is hot", "Use proper tongs or heat-resistant gloves and place it on a heat-resistant mat"],
+      "correct": 3
+    },
+    {
+      "q": "Which hazard symbol indicates danger to aquatic life and natural environmental systems?",
+      "a": ["Environmental hazard (dead tree and fish symbol)", "Radioactive material symbol", "Compressed gas symbol", "Explosive material symbol"],
+      "correct": 0
+    },
+    {
+      "q": "What is the function of the air-hole on a Bunsen burner when it is fully opened?",
+      "a": ["To make the flame yellow and easy to see", "To allow oxygen to mix with the gas, producing a hotter, roaring blue heating flame", "To cool down the metal barrel", "To put out the flame automatically"],
+      "correct": 1
+    },
+    {
+      "q": "If a small chemical fire starts inside a beaker or flask, what is the standard safe response to contain it?",
+      "a": ["Throw a large bucket of water across the whole room", "Run out of the laboratory immediately without telling anyone", "Smother the fire using a fire blanket or a damp cloth as directed by your teacher", "Blow hard on the beaker to drive the flames away"],
+      "correct": 2
+    },
+    {
+      "q": "Why should school bags and coats be kept away from student workbenches during practical chemistry lessons?",
+      "a": ["To ensure the classroom looks tidy for visitors", "To give students more room to write long stories", "To prevent school books from absorbing unwanted smells", "To maintain clear walking pathways and prevent tripping or accidental spills"],
+      "correct": 3
+    },
+    {
+      "q": "What does a gas cylinder hazard symbol warn about?",
+      "a": ["Gas under pressure that may explode if heated or dropped", "A harmless container of fresh room air", "An empty piece of glass tubing", "A renewable energy solar panel"],
+      "correct": 0
+    },
+    {
+      "q": "When lighting a Bunsen burner, what is the correct sequence of safety steps?",
+      "a": ["Open the gas tap fully, then search for a lit match", "Close the air-hole, light a match or splint, hold it above the barrel, and then turn on the gas tap", "Turn on the gas tap for two minutes, and then strike a match near the base", "Open the air-hole wide and ignite the rubber tubing"],
+      "correct": 1
+    },
+    {
+      "q": "What should you do if you notice a crack in a boiling tube you are about to use for heating?",
+      "a": ["Wrap sticky tape around the crack to hold it together", "Ignore it if the crack is very small", "Inform your teacher and replace it with an uncompromised piece of apparatus", "Fill the crack with candle wax"],
+      "correct": 2
+    },
+    {
+      "q": "What does an explosive hazard symbol warn against?",
+      "a": ["Substances that are completely inert and non-reactive", "Liquids that freeze easily below zero degrees Celsius", "Substances that cause mild skin rashes after hours of contact", "Explosive chemical substances or mass explosion risks under heat, shock, or friction"],
+      "correct": 3
+    },
+    {
+      "q": "Which piece of laboratory equipment provides a stable platform to hold glassware above a Bunsen burner?",
+      "a": ["Tripod stand and wire gauze", "Plastic ruler and protractor", "Wooden test-tube rack", "Digital electronic balance"],
+      "correct": 0
+    },
+    {
+      "q": "Why is it important to close the air-hole of a Bunsen burner when leaving it unattended on the yellow safety flame?",
+      "a": ["It saves electrical grid energy", "It makes the flame clearly visible so people do not accidentally touch a hot, invisible blue flame", "It lowers the air pressure inside the laboratory", "It increases carbon soot production on purpose"],
+      "correct": 1
+    },
+    {
+      "q": "If a student accidentally splashes a chemical into their eye, what facility must be used immediately?",
+      "a": ["The classroom hand towel", "The main room fire extinguisher", "The emergency eye-wash station or eyewash bottle", "A dry chemical tissue"],
+      "correct": 2
+    },
+    {
+      "q": "Why must you never pour unused chemicals back into their original stock bottles?",
+      "a": ["It wastes valuable cleaning time", "It makes the stock bottles look untidy", "It increases the retail cost of glassware", "It risks contaminating the entire stock supply with impurities"],
+      "correct": 3
+    },
+    {
+      "q": "What does a health hazard symbol (such as a silhouette with a star on the chest) typically warn about?",
+      "a": ["Long-term or chronic health effects, such as respiratory sensitivities or carcinogenic risks", "Instantaneous skin burns upon contact", "Temporary eye watering from bright light", "Sudden freezing of bodily limbs"],
+      "correct": 0
+    },
+    {
+      "q": "What final check must students perform before leaving the laboratory at the end of a practical lesson?",
+      "a": ["Leave all Bunsen burners running for the next class", "Wash hands, ensure gas taps are fully closed, and leave the workspace clean and tidy", "Leave chemical stock bottles wide open to air out the room", "Store personal bags inside the fume cupboard"],
+      "correct": 1
+    },
+    {
+      "q": "Which action represents good personal hygiene and safety practice after completing a chemistry practical?",
+      "a": ["Wiping your dirty hands on your school shirt", "Eating lunch immediately without cleaning up", "Washing your hands thoroughly with soap and water at the sink", "Applying scented hand cream directly over chemical residues"],
+      "correct": 2
+    },
+    {
+      "q": "What should you do if an experiment behaves unexpectedly or an untoward reaction occurs?",
+      "a": ["Add random extra chemicals to see what happens", "Turn the Bunsen burner up to maximum heat immediately", "Hide the apparatus away in your desk drawer", "Stop immediately and notify your teacher"],
+      "correct": 3
+    },
+    {
+      "q": "What does a highly flammable hazard symbol (flame icon) indicate?",
+      "a": ["Substances that easily catch fire when exposed to a spark, flame, or heat source", "Substances that are used to extinguish fires", "Substances that glow brightly in the dark", "Substances that melt below zero degrees Celsius"],
+      "correct": 0
+    },
+    {
+      "q": "Why is heating substances inside a tightly closed, sealed container strictly prohibited?",
+      "a": ["It prevents the chemical from changing color properly", "Pressure builds up rapidly as gases expand or vaporize, causing the container to shatter or explode", "It uses up excessive electrical power", "It cools the substance down too quickly"],
+      "correct": 1
+    },
+    {
+      "q": "When using glass pipettes or droppers, why is mouth-suction strictly forbidden?",
+      "a": ["It makes an annoying whistling sound", "It ruins the glass calibration marks", "It risks drawing harmful chemicals directly into your mouth and digestive system", "It introduces saliva that alters the temperature"],
+      "correct": 2
+    },
+    {
+      "q": "Which item of footwear is considered safe and appropriate for wearing in a chemistry laboratory?",
+      "a": ["Open-toed fashion sandals", "Cloth bedroom slippers", "Thin socks without shoes", "Closed-toe sturdy leather or canvas shoes"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary function of a chemical fume cupboard in a school laboratory?",
+      "a": ["To safely extract and exhaust toxic gases, vapours, or fumes away from the user", "To freeze biological specimens quickly", "To heat large volumes of water to boiling point", "To weigh heavy rock samples accurately"],
+      "correct": 0
+    },
+    {
+      "q": "If a student's clothing catches fire, what is the best safety device to use immediately?",
+      "a": ["A beaker of cold tap water", "A fire blanket or safety shower to smother the flames", "A paper towel roll", "An electric room fan to blow out the fire"],
+      "correct": 1
+    },
+    {
+      "q": "Why must you never look directly down into the open top of a test tube while a reaction is taking place inside?",
+      "a": ["The light coming from the bottom is too bright", "You might inhale pleasant aromas", "Spattering or a sudden eruption of hot chemicals could injure your face and eyes", "It blocks light from reaching other students"],
+      "correct": 2
+    },
+    {
+      "q": "What is the correct protocol if you feel dizzy or unwell during a laboratory practical lesson?",
+      "a": ["Walk out of the room quietly without telling anyone", "Lie down on the floor under the work desks", "Wait until the end of the lesson to see if it passes", "Sit down and immediately inform your teacher that you feel ill"],
+      "correct": 3
+    }
+  ]
+}

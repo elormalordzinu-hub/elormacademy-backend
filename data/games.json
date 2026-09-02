@@ -1,0 +1,16 @@
+[
+    {
+        "id": "phys-001",
+        "title": "Newton's Second Law",
+        "subject": "physics",
+        "grade": "grade-10",
+        "curriculum": "cambridge"
+    },
+    {
+        "id": "chem-001",
+        "title": "Atomic Structure",
+        "subject": "chemistry",
+        "grade": "grade-9",
+        "curriculum": "waec"
+    }
+]

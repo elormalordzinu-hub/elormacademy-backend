@@ -1,0 +1,56 @@
+{
+"id": "bio-yr8-quizzes-gas-exchange",
+"name": "Gas exchange in the lungs",
+"questions": [
+{
+"q": "What is the primary site of gas exchange in the human respiratory system?",
+"a": ["The trachea", "The alveoli", "The larynx", "The bronchi"],
+"correct": 1
+},
+{
+"q": "How are alveoli structurally adapted to maximize the rate of diffusion?",
+"a": ["They have thick multi-layered walls made of bone", "They provide a massive surface area with walls that are only one cell thick", "They actively pump gas molecules using muscle energy", "They contain rigid cartilage rings to prevent expansion"],
+"correct": 1
+},
+{
+"q": "Which gas diffuses from the alveoli into the blood capillaries during external respiration?",
+"a": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+"correct": 1
+},
+{
+"q": "Which gas diffuses from the blood capillaries into the alveoli to be eliminated from the body?",
+"a": ["Oxygen", "Carbon dioxide", "Hydrogen", "Helium"],
+"correct": 1
+},
+{
+"q": "What keeps the inner surface of the alveoli moist, allowing gases to dissolve before diffusing?",
+"a": ["A thin layer of moisture/surfactant fluid", "Thick mucus produced by the trachea", "Liquid blood plasma filling the air space", "Pure water secreted by the ribs"],
+"correct": 0
+},
+{
+"q": "Why is the diffusion distance between the air in an alveolus and the blood in a capillary extremely short?",
+"a": ["Because the alveolar wall and capillary wall are each a single layer of flat cells pressed closely together", "Because the lungs are compressed by heavy muscle pressure", "Because red blood cells touch the outer chest skin directly", "Because air pressure forces cells to fuse together"],
+"correct": 0
+},
+{
+"q": "What role do the extensive network of capillaries surrounding each alveolus play?",
+"a": ["They maintain a steep concentration gradient by continuously carrying away oxygenated blood and bringing in deoxygenated blood", "They physically pump air back and forth like tiny hearts", "They heat up the blood to boiling point", "They destroy foreign dust particles using acid"],
+"correct": 0
+},
+{
+"q": "What physical factor drives the movement of oxygen and carbon dioxide across the alveolar-capillary membrane?",
+"a": ["Concentration and partial pressure gradients (diffusion)", "Active muscular pumping by white blood cells", "Electrical attraction between red blood cells and air", "Magnetic pulling forces inside the ribs"],
+"correct": 0
+},
+{
+"q": "What happens to oxygen molecules immediately after they diffuse across the alveolar wall into the capillary?",
+"a": ["They dissolve into the plasma and bind with hemoglobin inside red blood cells", "They turn into solid crystals", "They combine with carbon dioxide to form water", "They destroy the capillary walls"],
+"correct": 0
+},
+{
+"q": "Why does deoxygenated blood arriving at the lungs have a lower concentration of oxygen than the air inside the alveoli?",
+"a": ["Because body cells have continuously used up oxygen for respiration", "Because oxygen was destroyed inside the right ventricle", "Because the lungs absorb all oxygen during sleep", "Because nitrogen gas replaces the oxygen"],
+"correct": 0
+}
+]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "chem-yr7-quizzes-atoms",
+  "name": "Introduction to atoms and elements",
+  "questions": [
+    {
+      "q": "What is an atom?",
+      "a": ["The basic building block of all matter, consisting of a nucleus surrounded by electrons", "A mixture of chemical compounds", "A visible water droplet", "A type of chemical bond"],
+      "correct": 0
+    },
+    {
+      "q": "What is an element?",
+      "a": ["A substance made of different elements bonded", "A pure substance made of only one type of atom that cannot be split chemically", "A temporary gas mixture", "A liquid salt solution"],
+      "correct": 1
+    },
+    {
+      "q": "Where are protons and neutrons located within an atom?",
+      "a": ["Orbiting in outer shells", "Moving randomly across the room", "In the central core called the nucleus", "In empty space outside the atom"],
+      "correct": 2
+    },
+    {
+      "q": "What is the electric charge of a proton, a neutron, and an electron respectively?",
+      "a": ["Negative, positive, neutral", "Neutral, negative, positive", "Positive, negative, neutral", "Positive, neutral, negative"],
+      "correct": 3
+    },
+    {
+      "q": "How are elements organized on the Periodic Table?",
+      "a": ["By atomic number and chemical properties", "In alphabetical order", "By physical color", "By discovery date"],
+      "correct": 0
+    },
+    {
+      "q": "What chemical symbol represents carbon?",
+      "a": ["Co", "C", "Ca", "Cl"],
+      "correct": 1
+    },
+    {
+      "q": "Which subatomic particle has a negative electrical charge and orbits the nucleus?",
+      "a": ["Proton", "Neutron", "Electron", "Nucleon"],
+      "correct": 2
+    },
+    {
+      "q": "What is a chemical compound?",
+      "a": ["A physical mixture", "An element with extra neutrons", "Dust particles", "A pure substance formed when two or more different elements are chemically bonded"],
+      "correct": 3
+    },
+    {
+      "q": "Which is an example of an element symbol starting with a capital letter and followed by a lowercase letter?",
+      "a": ["Na (Sodium)", "CO (Carbon monoxide)", "H (Hydrogen)", "O (Oxygen)"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary difference between an element and a compound?",
+      "a": ["Elements are liquids, compounds are solids", "Elements consist of one type of atom, while compounds contain two or more different types chemically joined", "Compounds can never be broken down", "Elements have mass while compounds do not"],
+      "correct": 1
+    },
+    {
+      "q": "Which subatomic particle is electrically neutral?",
+      "a": ["Proton", "Electron", "Neutron", "Positron"],
+      "correct": 2
+    },
+    {
+      "q": "What do we call the horizontal rows on the Periodic Table?",
+      "a": ["Groups", "Families", "Columns", "Periods"],
+      "correct": 3
+    },
+    {
+      "q": "What do we call the vertical columns on the Periodic Table that share similar chemical properties?",
+      "a": ["Groups", "Periods", "Shells", "Distillates"],
+      "correct": 0
+    },
+    {
+      "q": "Which common substance is a chemical compound?",
+      "a": ["Gold (Au)", "Water (H₂O)", "Oxygen (O₂)", "Iron (Fe)"],
+      "correct": 1
+    },
+    {
+      "q": "What does the atomic number of an element represent?",
+      "a": ["Total electrons and neutrons", "Mass of the nucleus", "Number of protons in the nucleus", "Alphabetical position"],
+      "correct": 2
+    },
+    {
+      "q": "Which category makes up the majority of elements on the left and center of the Periodic Table?",
+      "a": ["Non-metals", "Noble gases", "Halogens", "Metals"],
+      "correct": 3
+    },
+    {
+      "q": "What are the physical properties typical of most metallic elements?",
+      "a": ["Good conductors of heat and electricity, shiny, malleable, and ductile", "Poor conductors, brittle, and dull", "Gaseous with low melting points", "Unreactive and colorful"],
+      "correct": 0
+    },
+    {
+      "q": "Which group contains unreactive, stable gases like helium and neon?",
+      "a": ["Alkali metals", "Noble gases", "Halogens", "Transition metals"],
+      "correct": 1
+    },
+    {
+      "q": "What is the chemical formula for a molecule of oxygen gas consisting of two oxygen atoms?",
+      "a": ["O", "O₃", "O₂", "CO₂"],
+      "correct": 2
+    },
+    {
+      "q": "Why do elements in the same group of the Periodic Table have similar chemical reactions?",
+      "a": ["Same atomic mass", "Same country of origin", "Same color", "Same number of outer shell electrons"],
+      "correct": 3
+    },
+    {
+      "q": "Which particle determines the identity of an element?",
+      "a": ["Proton", "Neutron", "Electron", "Photon"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical symbol for iron?",
+      "a": ["Ir", "Fe", "In", "F"],
+      "correct": 1
+    },
+    {
+      "q": "Which of these elements is classified as a non-metal?",
+      "a": ["Copper", "Sodium", "Sulfur", "Aluminum"],
+      "correct": 2
+    },
+    {
+      "q": "What term is used to describe atoms of the same element that have different numbers of neutrons?",
+      "a": ["Ions", "Isomers", "Molecules", "Isotopes"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical symbol for sodium?",
+      "a": ["Na", "S", "Sd", "Sn"],
+      "correct": 0
+    },
+    {
+      "q": "Which element is a liquid at room temperature?",
+      "a": ["Iron", "Mercury", "Carbon", "Oxygen"],
+      "correct": 1
+    },
+    {
+      "q": "What is the total number of protons and neutrons in an atom's nucleus called?",
+      "a": ["Atomic number", "Electron number", "Mass number", "Group number"],
+      "correct": 2
+    },
+    {
+      "q": "Which group on the Periodic Table contains highly reactive alkali metals?",
+      "a": ["Group 7", "Group 0", "Group 8", "Group 1"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical symbol for potassium?",
+      "a": ["K", "Po", "Pt", "P"],
+      "correct": 0
+    },
+    {
+      "q": "Which group contains the reactive halogens?",
+      "a": ["Group 1", "Group 7", "Group 2", "Group 0"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when two or more atoms are chemically joined together?",
+      "a": ["An electron", "A mixture", "A molecule", "A nucleus"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these statements about compounds is correct?",
+      "a": ["Compounds can be separated by simple physical filtering", "Compounds retain the exact properties of their individual constituent elements", "Elements in a compound are present in any random ratio", "Compounds have different properties from the elements that form them"],
+      "correct": 3
+    }
+  ]
+}

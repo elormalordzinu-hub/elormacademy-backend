@@ -1,0 +1,166 @@
+{
+  "id": "chem-yr8-quizzes-properties",
+  "name": "Properties of metals and non metals",
+  "questions": [
+    {
+      "q": "Which physical property is characteristic of almost all metals at room temperature (except mercury)?",
+      "a": ["They are shiny solids with high melting points", "They are brittle gases", "They are poor conductors of electricity", "They dissolve easily in alcohol"],
+      "correct": 0
+    },
+    {
+      "q": "What term describes the ability of metals to be hammered or shaped into flat sheets without breaking?",
+      "a": ["Brittleness", "Malleability", "Viscosity", "Insulation"],
+      "correct": 1
+    },
+    {
+      "q": "How do non-metals generally behave when in solid form?",
+      "a": ["They are extremely ductile and shiny", "They can be hammered into wires", "They tend to be brittle and shatter when struck", "They conduct electricity better than copper"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following elements is a non-metal that exists as a liquid at room temperature?",
+      "a": ["Iron", "Copper", "Mercury", "Bromine"],
+      "correct": 3
+    },
+    {
+      "q": "What type of oxides are formed when metals react with oxygen in the air?",
+      "a": ["Basic oxides (which can neutralize acids)", "Acidic oxides", "Inert gases", "Neutral hydrocarbons"],
+      "correct": 0
+    },
+    {
+      "q": "What type of oxides are typically formed when non-metals burn in oxygen and dissolve in water?",
+      "a": ["Metallic salts", "Acidic oxides", "Basic hydroxides", "Pure polymers"],
+      "correct": 1
+    },
+    {
+      "q": "Which physical property distinguishes graphite (a form of carbon) from almost all other non-metals?",
+      "a": ["It is a liquid", "It is transparent", "It can conduct electricity", "It is magnetic"],
+      "correct": 2
+    },
+    {
+      "q": "Why are metals used extensively for making electrical wiring and cooking utensils?",
+      "a": ["They are magnetic and heavy", "They have low melting points and dissolve in water", "They are brittle and opaque", "They are excellent conductors of heat and electricity"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following elements is classified as a metalloid (semimetal), possessing properties of both metals and non-metals?",
+      "a": ["Silicon", "Sodium", "Sulfur", "Oxygen"],
+      "correct": 0
+    },
+    {
+      "q": "What is the appearance of a freshly cut or polished metal surface?",
+      "a": ["Dull and powdery", "Shiny with a metallic luster", "Transparent and colorless", "Bright neon green"],
+      "correct": 1
+    },
+    {
+      "q": "Which of these everyday items is made entirely of a non-metal material?",
+      "a": ["Copper water pipe", "Aluminum foil wrapper", "Diamond gemstone (pure carbon)", "Steel girder"],
+      "correct": 2
+    },
+    {
+      "q": "When metals react with dilute hydrochloric acid, what gas is typically produced?",
+      "a": ["Oxygen gas", "Carbon dioxide gas", "Nitrogen gas", "Hydrogen gas"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following groups on the periodic table consists entirely of highly reactive metals?",
+      "a": ["Group 1 (Alkali metals)", "Group 7 (Halogens)", "Group 0 (Noble gases)", "Transition metals"],
+      "correct": 0
+    },
+    {
+      "q": "Which group on the periodic table consists of unreactive, stable non-metal gases?",
+      "a": ["Alkali metals", "Noble gases", "Halogens", "Alkaline earth metals"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to solid non-metals when they are struck with a hammer?",
+      "a": ["They bend into new shapes", "They stretch like rubber", "They shatter or break into pieces (brittle)", "They melt instantly"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following physical characteristics is typical of transition metals?",
+      "a": ["Low melting points and softness", "Gaseous state at room temperature", "Transparency and lack of color", "High densities, high melting points, and strength"],
+      "correct": 3
+    },
+    {
+      "q": "Why do non-metals make poor thermal and electrical conductors?",
+      "a": ["They lack free moving electrons or ions to carry current or heat energy", "They have too many protons", "They are too heavy", "They are always magnetic"],
+      "correct": 0
+    },
+    {
+      "q": "What is the physical state of most non-metals on the periodic table at room temperature?",
+      "a": ["Always solid", "Mostly gases or low-melting point solids (with one liquid)", "Always liquid", "Plasma"],
+      "correct": 1
+    },
+    {
+      "q": "Which metal is liquid at room temperature and is used in thermometers?",
+      "a": ["Iron", "Lead", "Mercury", "Aluminum"],
+      "correct": 2
+    },
+    {
+      "q": "How do the melting and boiling points of metals generally compare to those of non-metals?",
+      "a": ["Metals always have lower melting points", "Metals and non-metals have identical melting points", "Non-metals have higher melting points", "Metals generally have much higher melting and boiling points"],
+      "correct": 3
+    },
+    {
+      "q": "Which term describes the ringing sound a metal makes when struck?",
+      "a": ["Sonorous", "Malleable", "Ductile", "Viscous"],
+      "correct": 0
+    },
+    {
+      "q": "Which non-metal is essential for human respiration and burning fuels?",
+      "a": ["Nitrogen", "Oxygen", "Chlorine", "Argon"],
+      "correct": 1
+    },
+    {
+      "q": "What color change occurs when universal indicator is added to a solution made from dissolving a soluble metal oxide (like magnesium oxide)?",
+      "a": ["Turns bright red (acidic)", "Turns yellow", "Turns blue/purple (alkaline)", "Turns colorless"],
+      "correct": 2
+    },
+    {
+      "q": "Which non-metal element is a yellow solid that burns with a blue flame to produce sulfur dioxide?",
+      "a": ["Carbon", "Silicon", "Phosphorus", "Sulfur"],
+      "correct": 3
+    },
+    {
+      "q": "Where are metals generally located on the periodic table?",
+      "a": ["On the left and center side", "Exclusively on the far right", "At the very top row", "In a separate box below the table"],
+      "correct": 0
+    },
+    {
+      "q": "Where are non-metals located on the periodic table?",
+      "a": ["On the bottom left", "On the upper right side (plus hydrogen on the left)", "In the exact center", "Forming a barrier down the middle"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when a metal reacts directly with a halogen like chlorine?",
+      "a": ["A metal hydroxide", "A non-metal gas", "A metal salt (chloride)", "An organic polymer"],
+      "correct": 2
+    },
+    {
+      "q": "Why is copper used for plumbing pipes instead of a reactive metal like sodium?",
+      "a": ["Copper is a gas", "Sodium is too heavy", "Copper is extremely soft like butter", "Copper is unreactive with water and corrosion-resistant"],
+      "correct": 3
+    },
+    {
+      "q": "Which property allows metals to be drawn into thin wires?",
+      "a": ["Ductility", "Brittleness", "Solubility", "Opacity"],
+      "correct": 0
+    },
+    {
+      "q": "What type of chemical bonding holds metal atoms together in a solid lattice with a 'sea' of delocalized electrons?",
+      "a": ["Covalent bonding", "Metallic bonding", "Ionic bonding", "Hydrogen bonding"],
+      "correct": 1
+    },
+    {
+      "q": "Which non-metal is commonly used in water purification and swimming pools to kill bacteria?",
+      "a": ["Carbon", "Helium", "Chlorine", "Silicon"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these statements accurately contrasts metals and non-metals?",
+      "a": ["Metals are poor conductors while non-metals are excellent conductors", "Metals are brittle while non-metals are malleable", "Metals are gases while non-metals are solid", "Metals are lustrous and good conductors while non-metals are dull and poor conductors"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "phys-yr8-quizzes-sound",
+"name": "Sound waves and properties",
+"questions": [
+{
+"q": "How are sound waves produced?",
+"a": ["By mechanical vibrations of objects that cause disturbances in a surrounding medium", "By stationary electric charges in a vacuum", "By the reflection of light off mirrors", "By magnetic fields in outer space"],
+"correct": 0
+},
+{
+"q": "Why is sound unable to travel through a vacuum, such as empty outer space?",
+"a": ["Space is too cold for sound", "Sound requires a material medium (particles) to vibrate and transmit energy", "Gravity pulls sound waves downward", "Light prevents sound from forming"],
+"correct": 1
+},
+{
+"q": "Through which of the following media does sound generally travel the fastest?",
+"a": ["Air at room temperature", "A vacuum", "Solid steel rails", "Empty space"],
+"correct": 2
+},
+{
+"q": "What term describes the highness or lowness of a sound, which is determined by the frequency of the sound wave?",
+"a": ["Volume", "Amplitude", "Timbre", "Pitch"],
+"correct": 3
+},
+{
+"q": "What property of a sound wave determines its loudness or volume?",
+"a": ["Amplitude", "Frequency", "Wavelength", "Speed"],
+"correct": 0
+},
+{
+"q": "What are the standard units used to measure the frequency of sound waves?",
+"a": ["Decibels (dB)", "Hertz (Hz)", "Meters per second (m/s)", "Newtons (N)"],
+"correct": 1
+},
+{
+"q": "What happens to the pitch of a sound if the frequency of the vibrating source is increased?",
+"a": ["The sound becomes softer", "The pitch becomes lower", "The pitch becomes higher", "The sound stops completely"],
+"correct": 2
+},
+{
+"q": "What scientific term describes the reflection of sound waves off a hard surface, creating a repeated sound?",
+"a": ["Refraction", "Diffraction", "Absorption", "An echo"],
+"correct": 3
+},
+{
+"q": "In which state of matter do sound waves travel the slowest, and why?",
+"a": ["Gases, because particles are far apart and take longer to collide and transmit vibrations", "Solids, because particles are tightly packed", "Liquids, because molecules flow freely", "Plasma, because of high temperatures"],
+"correct": 0
+},
+{
+"q": "What instrument or unit is commonly used to measure the loudness or sound level of noise?",
+"a": ["A barometer in millibars", "A decibel (dB) meter", "An ammeter in amps", "A thermometer in Celsius"],
+"correct": 1
+},
+{
+"q": "What type of wave is a sound wave classified as?",
+"a": ["A transverse electromagnetic wave", "A stationary light wave", "A longitudinal wave", "A gravitational wave"],
+"correct": 2
+},
+{
+"q": "What happens to the amplitude of a sound wave as it travels further away from its source?",
+"a": ["Amplitude increases infinitely", "Amplitude doubles every meter", "Amplitude stays completely constant", "Amplitude decreases because energy spreads out and is absorbed by surroundings"],
+"correct": 3
+},
+{
+"q": "What is the approximate speed of sound in air at room temperature?",
+"a": ["340 meters per second", "3,000,000 meters per second", "10 meters per second", "5000 meters per second"],
+"correct": 0
+},
+{
+"q": "What is ultrasound?",
+"a": ["Sound with frequencies below human hearing range", "Sound waves with frequencies higher than 20,000 Hz, above the upper limit of human hearing", "Extremely loud sounds that cause pain", "Sound that travels faster than light"],
+"correct": 1
+},
+{
+"q": "Why do sound waves travel faster in warm air compared to cold air?",
+"a": ["Cold air has more pressure", "Warm air has lower density", "Warm air molecules have more kinetic energy and move faster, transmitting collisions quicker", "Sound prefers hot temperatures"],
+"correct": 2
+},
+{
+"q": "What is the normal human hearing range for a healthy young person?",
+"a": ["1 Hz to 10 Hz", "100 Hz to 1,000 Hz", "50,000 Hz to 100,000 Hz", "20 Hz to 20,000 Hz"],
+"correct": 3
+},
+{
+"q": "What does a longitudinal wave consist of as it travels through a medium?",
+"a": ["Compressions (particles pushed together) and rarefactions (particles spread apart)", "Peaks and troughs moving vertically", "Stationary loops of energy", "Circular whirlpools of particles"],
+"correct": 0
+},
+{
+"q": "How can ships use echoes (sonar) to measure the depth of the ocean floor?",
+"a": ["By measuring water temperature changes", "By sending a sound pulse down and timing how long the echo takes to bounce back from the seabed", "By listening to whale songs", "By weighing the water pressure"],
+"correct": 1
+},
+{
+"q": "Why do soft materials like foam, carpets, and heavy curtains act as good sound absorbers rather than reflectors?",
+"a": ["They reflect all sound loudly", "They amplify sound waves", "They trap sound wave energy within tiny air pockets and convert it into tiny amounts of heat, reducing echoes", "They destroy sound waves into electricity"],
+"correct": 2
+},
+{
+"q": "What term describes sound frequencies below 20 Hz, which are too low for humans to hear?",
+"a": ["Supersonic", "Ultrasound", "Megasound", "Infrasound"],
+"correct": 3
+},
+{
+"q": "If you strike a tuning fork and place it near your ear, what creates the sound you hear?",
+"a": ["The rapid back-and-forth vibration of the metal prongs disturbing air particles", "Heat radiating from the metal", "Magnetic forces from the room", "Chemical reactions in the air"],
+"correct": 0
+},
+{
+"q": "How does increasing the amplitude of a guitar string vibration affect the sound produced?",
+"a": ["The pitch becomes higher", "The sound becomes louder", "The frequency doubles", "The sound wavelength increases"],
+"correct": 1
+},
+{
+"q": "Why does a thunderclap usually reach your ears several seconds after you see the lightning flash during a storm?",
+"a": ["Sound travels faster than light", "Lightning makes no sound initially", "Light travels much faster than sound (300,000 km/s vs 340 m/s)", "Thunder originates closer to the ground"],
+"correct": 2
+},
+{
+"q": "What happens to the wavelength of a sound wave if its frequency is increased (higher pitch), assuming constant speed?",
+"a": ["Wavelength increases", "Wavelength stays the same", "Wavelength becomes infinite", "Wavelength decreases"],
+"correct": 3
+},
+{
+"q": "What is resonance in physics?",
+"a": ["When an object is forced to vibrate at its natural frequency by a matching external vibration, resulting in a large amplitude sound", "The total cancellation of sound waves", "The slowing down of sound in water", "The echoing of sound inside a cave"],
+"correct": 0
+},
+{
+"q": "Which of the following medical applications relies on high-frequency ultrasound waves?",
+"a": ["X-raying broken bones", "Scanning developing fetuses inside a mother's womb during pregnancy", "Treating skin cuts with heat", "Checking eye color"],
+"correct": 1
+},
+{
+"q": "What is noise pollution, and why is it a concern for human health?",
+"a": ["Any sound heard outdoors", "Sound produced by musical instruments", "Unwanted or excessive sound that can cause stress, hearing damage, and sleep disturbance", "Silent sound waves in laboratories"],
+"correct": 2
+},
+{
+"q": "How do bats navigate and hunt for prey in total darkness using sound?",
+"a": ["By smelling insects from afar", "By emitting high-pitched ultrasound clicks and listening to the returning echoes (echolocation) to locate objects", "By feeling air pressure with their wings", "By glowing in the dark"],
+"correct": 3
+},
+{
+"q": "What happens when two sound waves of opposing phases meet, resulting in a reduction or cancellation of sound?",
+"a": ["Destructive interference", "Constructive amplification", "Sonic boom generation", "Echo reflection"],
+"correct": 0
+},
+{
+"q": "What causes a sonic boom when an aircraft travels faster than the speed of sound (supersonic speed)?",
+"a": ["The engine breaking apart", "Sound waves piling up ahead of the aircraft and merging into a massive single shock wave", "Lightning striking the plane", "Air friction melting the metal"],
+"correct": 1
+},
+{
+"q": "Why can sound bend slightly around corners or through doorways?",
+"a": ["Because sound travels in straight laser beams", "Because sound particles bounce off walls randomly", "Because of diffraction, where sound waves spread out after passing through an opening or around an obstacle", "Because air currents push sound sideways"],
+"correct": 2
+},
+{
+"q": "What is the difference between noise and musical sound?",
+"a": ["Noise has a higher frequency than music", "Music only travels in water", "Noise has a constant volume", "Musical sound has a regular, repeating frequency pattern and pleasing tone, whereas noise is irregular and jumbled"],
+"correct": 3
+},
+{
+"q": "If a drum is hit harder, which property of the sound wave changes the most?",
+"a": ["Amplitude increases, making the sound louder", "Frequency increases, making the pitch higher", "Speed of sound in air increases", "Wavelength becomes longer"],
+"correct": 0
+},
+{
+"q": "Why is sound transmission more effective underwater than in air over long distances?",
+"a": ["Water absorbs all sound energy", "Water is denser and less compressible than air, allowing sound waves to travel with less energy loss over long ranges", "Sound travels faster in air than water", "Fish amplify sound waves"],
+"correct": 1
+},
+{
+"q": "What is the function of the outer ear (pinna) in humans?",
+"a": ["To produce earwax", "To convert sound into electrical signals", "To collect and funnel sound waves into the ear canal", "To balance body temperature"],
+"correct": 2
+},
+{
+"q": "Which part of the human ear converts vibrations into electrical nerve impulses sent to the brain?",
+"a": ["The earlobe", "The eardrum membrane", "The ear canal", "The cochlea (containing tiny hair cells)"],
+"correct": 3
+},
+{
+"q": "What happens to the speed of sound when it passes from air into a colder layer of air high in the atmosphere?",
+"a": ["The speed of sound decreases because colder air has lower particle kinetic energy", "The speed increases massively", "Sound stops moving", "Speed remains completely unchanged"],
+"correct": 0
+},
+{
+"q": "How does shortening the vibrating length of a guitar string affect the sound it produces?",
+"a": ["It makes the sound louder", "It increases the frequency, resulting in a higher pitch", "It decreases the frequency", "It creates an echo"],
+"correct": 1
+},
+{
+"q": "What is acoustic reverberation in a large empty hall?",
+"a": ["The total disappearance of sound", "The amplification of sound volume", "The persistence or echoing of sound in a space due to multiple reflections off hard walls, floors, and ceilings", "The distortion of musical notes"],
+"correct": 2
+},
+{
+"q": "Which of the following industrial uses relies on ultrasound to check for hidden cracks inside metal railway tracks or airplane wings?",
+"a": ["Melting the metal", "Painting the surface", "Measuring object weight", "Non-destructive testing using pulse-echo reflection"],
+"correct": 3
+}
+]
+}

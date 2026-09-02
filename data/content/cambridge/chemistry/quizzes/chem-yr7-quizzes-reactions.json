@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr7-quizzes-reactions",
+  "name": "Common chemical reactions burning and rusting",
+  "questions": [
+    {
+      "q": "What is another scientific term for burning a substance in the presence of oxygen?",
+      "a": ["Combustion", "Filtration", "Neutralization", "Sublimation"],
+      "correct": 0
+    },
+    {
+      "q": "What two key components are strictly required for iron to rust?",
+      "a": ["Nitrogen and sunlight", "Oxygen and water (moisture)", "Carbon dioxide and heat", "Salt and oil"],
+      "correct": 1
+    },
+    {
+      "q": "What is formed when magnesium burns brightly in air?",
+      "a": ["Magnesium chloride", "Magnesium hydroxide", "Magnesium oxide", "Magnesium carbonate"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is an example of an exothermic reaction (releasing heat energy)?",
+      "a": ["Melting ice cubes", "Dissolving ammonium nitrate in water", "Photosynthesis in plants", "Burning wood in a campfire"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical name for rust?",
+      "a": ["Hydrated iron(III) oxide", "Copper sulfate", "Calcium carbonate", "Sodium chloride"],
+      "correct": 0
+    },
+    {
+      "q": "Which gas is used up rapidly when a candle burns inside an enclosed glass jar?",
+      "a": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+      "correct": 1
+    },
+    {
+      "q": "How can you prevent an iron tool from rusting by creating a physical barrier against air and water?",
+      "a": ["Washing it with pure water", "Leaving it uncovered in the garden", "Painting it, oiling it, or galvanizing it with zinc", "Heating it with a torch"],
+      "correct": 2
+    },
+    {
+      "q": "What word equation best represents complete combustion of a hydrocarbon fuel?",
+      "a": ["Fuel + Nitrogen -> Ash", "Fuel + Water -> Hydrogen", "Fuel + Carbon -> Carbon monoxide", "Fuel + Oxygen -> Carbon dioxide + Water"],
+      "correct": 3
+    },
+    {
+      "q": "What color change is observed when blue copper(II) sulfate crystals are heated and lose their water of crystallization?",
+      "a": ["They turn from blue to white", "They turn from red to black", "They turn from green to yellow", "They turn transparent and invisible"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the total mass of an iron nail when it completely rusts in an open dish over several weeks?",
+      "a": ["Mass decreases to zero", "Mass increases because oxygen atoms from the air have bonded to the iron", "Mass stays exactly the same without any change", "Mass fluctuates up and down daily"],
+      "correct": 1
+    },
+    {
+      "q": "Which of these substances is formed when carbon burns in a limited supply of oxygen?",
+      "a": ["Carbon dioxide", "Pure oxygen", "Carbon monoxide", "Calcium carbonate"],
+      "correct": 2
+    },
+    {
+      "q": "Why is carbon monoxide gas dangerous to humans and animals when produced by faulty heaters?",
+      "a": ["It has a terrible smell", "It explodes on contact with skin", "It causes immediate freezing", "It is a toxic, odorless gas that binds to red blood cells and prevents oxygen transport"],
+      "correct": 3
+    },
+    {
+      "q": "What is the fire triangle composed of?",
+      "a": ["Fuel, oxygen, and heat", "Water, air, and soil", "Metal, acid, and salt", "Carbon, hydrogen, and nitrogen"],
+      "correct": 0
+    },
+    {
+      "q": "Which method of rust prevention involves coating iron with a more reactive metal like zinc?",
+      "a": ["Painting", "Galvanizing", "Freezing", "Filtration"],
+      "correct": 1
+    },
+    {
+      "q": "What is thermal decomposition?",
+      "a": ["Freezing a liquid into ice", "Cooling a hot gas", "Breaking down a single substance into simpler products using heat", "Mixing two liquids together"],
+      "correct": 2
+    },
+    {
+      "q": "What is observed when green copper carbonate powder undergoes thermal decomposition?",
+      "a": ["It turns blue and absorbs water", "It freezes solid", "It turns into a liquid metal", "It turns black and releases carbon dioxide gas"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following fuels is a fossil fuel commonly burned for electricity and transport?",
+      "a": ["Coal, oil, and natural gas", "Pure hydrogen gas", "Liquid mercury", "Table salt solution"],
+      "correct": 0
+    },
+    {
+      "q": "What is sacrificial protection in preventing rust?",
+      "a": ["Sacrificing the iron object by throwing it away", "Attaching a more reactive metal (like magnesium or zinc) that corrodes instead of the iron", "Covering iron with a cloth", "Keeping the iron in a vacuum chamber"],
+      "correct": 1
+    },
+    {
+      "q": "When sulfur burns in air, what acidic gas is produced?",
+      "a": ["Hydrogen sulfide", "Carbon monoxide", "Sulfur dioxide", "Nitrogen gas"],
+      "correct": 2
+    },
+    {
+      "q": "Why does wrapping iron nails in a test tube containing calcium chloride (a drying agent) prevent rusting?",
+      "a": ["It adds oxygen to the tube", "It freezes the water", "It creates a magnetic shield", "It absorbs moisture, removing the water necessary for rust to form"],
+      "correct": 3
+    },
+    {
+      "q": "What is the chemical test used to confirm that a gas produced in a reaction is carbon dioxide?",
+      "a": ["It turns limewater milky (cloudy)", "It causes a glowing splint to relight", "It burns with a squeaky pop", "It bleaches damp litmus paper white"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical test used to confirm the presence of oxygen gas?",
+      "a": ["It turns limewater milky", "It relights a glowing wooden splint", "It produces a squeaky pop with a lighted splint", "It turns blue cobalt chloride paper pink"],
+      "correct": 1
+    },
+    {
+      "q": "What is the chemical test for hydrogen gas?",
+      "a": ["It smells like rotten eggs", "It changes universal indicator to red", "It gives a 'squeaky pop' sound when a lighted splint is held near it", "It puts out all fires instantly"],
+      "correct": 2
+    },
+    {
+      "q": "What term is used to describe the general corrosion of metals other than iron?",
+      "a": ["Combustion", "Oxidation", "Reduction", "Tarnishing or general corrosion"],
+      "correct": 3
+    },
+    {
+      "q": "What type of oxide is formed when non-metals like sulfur or carbon burn in oxygen and dissolve in water?",
+      "a": ["Acidic oxide", "Basic oxide", "Neutral oxide", "Metallic salt"],
+      "correct": 0
+    },
+    {
+      "q": "What type of oxide is typically formed when metals like magnesium or iron burn in oxygen?",
+      "a": ["Acidic oxide", "Basic oxide", "Gaseous hydrocarbon", "Inert polymer"],
+      "correct": 1
+    },
+    {
+      "q": "Why is incomplete combustion dangerous and inefficient compared to complete combustion?",
+      "a": ["It produces too much light", "It freezes the engine", "It produces soot (carbon) and toxic carbon monoxide instead of only carbon dioxide", "It consumes no oxygen at all"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these everyday items undergoes rapid combustion?",
+      "a": ["A rusty iron bridge", "A block of granite stone", "A glass window pane", "A lit matchstick"],
+      "correct": 3
+    },
+    {
+      "q": "What role does heat play in the fire triangle?",
+      "a": ["It provides the activation energy needed to start and sustain the combustion reaction", "It puts out the flames", "It turns fuel into water", "It removes oxygen from the air"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary difference between rusting and burning (combustion)?",
+      "a": ["Rusting requires fire, burning requires water", "Rusting is a slow oxidation of iron at room temperature, whereas burning is a fast, exothermic oxidation reaction", "Burning happens underwater", "Rusting creates carbon dioxide gas"],
+      "correct": 1
+    },
+    {
+      "q": "If you place an iron nail in boiled water covered with a layer of oil, why does it NOT rust?",
+      "a": ["The oil freezes the nail", "The oil turns into acid", "Boiling removes dissolved oxygen, and the oil stops air from re-entering", "The oil reacts with the iron to make gold"],
+      "correct": 2
+    },
+    {
+      "q": "What is the environmental consequence of burning fossil fuels that contain sulfur impurities?",
+      "a": ["Global cooling", "Ozone layer repair", "Creation of fertile soil", "Formation of acid rain"],
+      "correct": 3
+    },
+    {
+      "q": "What is produced when magnesium metal reacts with dilute hydrochloric acid?",
+      "a": ["Hydrogen gas and a magnesium salt solution", "Oxygen gas and water", "Carbon dioxide and sulfur", "Pure chlorine gas"],
+      "correct": 0
+    },
+    {
+      "q": "How does galvanizing protect iron objects effectively even if the outer zinc layer gets slightly scratched?",
+      "a": ["Zinc forms a magnetic shield", "Zinc acts as a sacrificial metal and corrodes in preference to the underlying iron", "Zinc turns into gold", "Zinc absorbs all the water in the atmosphere"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes a reaction where oxygen is added to an element or compound?",
+      "a": ["Reduction", "Neutralization", "Oxidation", "Distillation"],
+      "correct": 2
+    },
+    {
+      "q": "Why are fire blankets effective at putting out small kitchen fires?",
+      "a": ["They cool the fire down to zero degrees", "They add water to the fuel", "They blow the fire away with wind", "They smother the fire by cutting off the supply of oxygen"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+"id": "intsci-jhs1-quizzes-plant-growth",
+"name": "Plant Growth",
+"questions": [
+{
+"q": "What is the process by which green plants manufacture their own food using sunlight, carbon dioxide, and water?",
+"a": ["Photosynthesis", "Respiration", "Transpiration", "Germination"],
+"correct": 0
+},
+{
+"q": "Which of the following environmental factors is essential for the germination of a seed?",
+"a": ["Direct sunlight", "Water, oxygen, and suitable temperature", "Strong chemical fertilizer", "High concentration of salt"],
+"correct": 1
+},
+{
+"q": "What is the primary function of plant roots during growth?",
+"a": ["To produce green leaves for food manufacture", "To attract pollinating insects like bees", "To anchor the plant securely in the soil and absorb water and mineral salts", "To release oxygen gas into the atmosphere"],
+"correct": 2
+},
+{
+"q": "Which part of a growing plant is responsible for transporting water and dissolved mineral nutrients upward from the roots to the leaves?",
+"a": ["Phloem", "Cortex", "Stomata", "Xylem"],
+"correct": 3
+},
+{
+"q": "What green pigment found in chloroplasts traps light energy needed for photosynthesis during plant growth?",
+"a": ["Chlorophyll", "Carotene", "Anthocyanin", "Xanthophyll"],
+"correct": 0
+},
+{
+"q": "What is the term for the early developmental stage of a plant from a seed under favorable conditions?",
+"a": ["Pollination", "Germination", "Fertilization", "Dispersal"],
+"correct": 1
+},
+{
+"q": "Which gas is absorbed by green plants from the atmosphere during photosynthesis?",
+"a": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+"correct": 2
+},
+{
+"q": "What is the name of the tissue in plants responsible for transporting manufactured food (sugars) from the leaves to other parts of the plant?",
+"a": ["Xylem", "Cambium", "Pith", "Phloem"],
+"correct": 3
+},
+{
+"q": "What tiny pores found mainly on the underside of plant leaves facilitate gas exchange and transpiration?",
+"a": ["Stomata", "Root hairs", "Lenticels", "Vascular bundles"],
+"correct": 0
+},
+{
+"q": "Which of the following macronutrients is most crucial for promoting healthy green leaf and stem growth in plants?",
+"a": ["Phosphorus", "Nitrogen", "Calcium", "Iron"],
+"correct": 1
+},
+{
+"q": "What is the loss of water vapor from the aerial parts of a plant, mainly through the leaves, called?",
+"a": ["Respiration", "Photosynthesis", "Transpiration", "Absorption"],
+"correct": 2
+},
+{
+"q": "Which type of root system is characterized by one main thick primary root growing vertically downwards with smaller lateral roots branching off it?",
+"a": ["Fibrous root system", "Adventitious root system", "Bulbous root system", "Taproot system"],
+"correct": 3
+},
+{
+"q": "What is the term for the upward growth of plant shoots towards a source of light?",
+"a": ["Phototropism", "Geotropism", "Hydrotropism", "Thigmotropism"],
+"correct": 0
+},
+{
+"q": "Which of the following describes epigeal germination?",
+"a": ["The cotyledons remain underground during seed sprouting", "The cotyledons are pushed above the soil surface by the elongation of the hypocotyl", "The seed coat fails to split open", "The root grows upwards toward the sky"],
+"correct": 1
+},
+{
+"q": "What mineral element is primarily required by plants for strong root development and flower/fruit formation?",
+"a": ["Sodium", "Chlorine", "Phosphorus", "Silicon"],
+"correct": 2
+},
+{
+"q": "What is the response of plant roots growing downward into the soil in response to gravity called?",
+"a": ["Positive phototropism", "Negative geotropism", "Positive hydrotropism", "Positive geotropism"],
+"correct": 3
+},
+{
+"q": "Which of the following plants typically has a fibrous root system?",
+"a": ["Maize (Corn)", "Bean", "Mango", "Orange"],
+"correct": 0
+},
+{
+"q": "What is hypogeal germination characterized by?",
+"a": ["Cotyledons being lifted high above the ground", "Cotyledons remaining below the soil surface while the epicotyl elongates", "Roots growing out of the stem tip", "Leaves turning yellow before sprouting"],
+"correct": 1
+},
+{
+"q": "What primary byproduct of photosynthesis is released into the atmosphere by green plants?",
+"a": ["Carbon dioxide", "Methane gas", "Oxygen gas", "Nitrogen gas"],
+"correct": 2
+},
+{
+"q": "Why is water vital for the continuous growth and internal rigidity (turgidity) of herbaceous plants?",
+"a": ["It acts as a solid support structure like bones", "It burns food to keep the plant warm", "It provides mechanical color to petals", "It acts as a transport medium and maintains cell turgor pressure"],
+"correct": 3
+},
+{
+"q": "What is the name of the protective outer covering of a seed that protects the internal embryo from damage and drying out?",
+"a": ["Seed coat (Testa)", "Endosperm", "Radicle", "Cotyledon"],
+"correct": 0
+},
+{
+"q": "Which part of a seed embryo develops into the future root system of the plant?",
+"a": ["Plumule", "Radicle", "Cotyledon", "Micropyle"],
+"correct": 1
+},
+{
+"q": "What part of a seed embryo develops into the future shoot system (stem and leaves) of the plant?",
+"a": ["Radicle", "Testa", "Plumule", "Hilum"],
+"correct": 2
+},
+{
+"q": "Which of the following farming practices helps improve soil fertility and supports healthy plant growth by adding decomposed organic matter?",
+"a": ["Continuous burning of crop residues", "Overgrazing by livestock", "Leaching all minerals with excessive washing", "Applying compost or organic manure"],
+"correct": 3
+},
+{
+"q": "What is the term for the resting or inactive period of a seed before germination begins when conditions are unfavorable?",
+"a": ["Seed dormancy", "Photosynthesis", "Pollination", "Wilting"],
+"correct": 0
+},
+{
+"q": "Which environmental condition can cause plant leaves to droop and stunt overall growth due to water stress?",
+"a": ["Excessive rainfall", "Severe drought or lack of soil moisture", "Optimal morning sunlight", "Balanced soil pH"],
+"correct": 1
+},
+{
+"q": "What is the role of the cotyledons in a non-endospermic seed during early germination?",
+"a": ["To absorb sunlight directly from the air", "To anchor the seed in the soil", "To store and provide food reserves for the growing embryo", "To attract pollinators to the seed"],
+"correct": 2
+},
+{
+"q": "What is the small pore on the seed coat that allows water and oxygen to enter the seed during germination called?",
+"a": ["Hilum", "Radicle", "Testa", "Micropyle"],
+"correct": 3
+},
+{
+"q": "Which of the following is an example of a leguminous crop known for enriching soil nitrogen through root nodules?",
+"a": ["Cowpea (Bean)", "Cassava", "Yam", "Tomato"],
+"correct": 0
+},
+{
+"q": "What instrument or method can be used to measure the rate of transpiration in a leafy shoot?",
+"a": ["Thermometer", "Potometer", "Barometer", "Rain gauge"],
+"correct": 1
+},
+{
+"q": "Which of the following plant nutrients is essential for overall plant vigor, disease resistance, and regulation of stomatal opening?",
+"a": ["Calcium", "Magnesium", "Potassium", "Copper"],
+"correct": 2
+},
+{
+"q": "What happens when a potted plant is kept in a completely dark room for several days?",
+"a": ["It grows faster and produces more flowers", "It turns bright emerald green", "It produces excess sugar", "It fails to manufacture food, turns yellow, and eventually wilts"],
+"correct": 3
+},
+{
+"q": "What is the primary function of flower petals in flowering plants?",
+"a": ["To attract pollinators with their bright colors and scents", "To absorb water from raindrops", "To protect developing roots underground", "To carry out the bulk of photosynthesis"],
+"correct": 0
+},
+{
+"q": "Which of the following conditions represents an optimum temperature range for rapid seed germination in most tropical crops?",
+"a": ["Freezing temperatures below zero", "Warm temperatures between 25°C and 30°C", "Extreme boiling heat at 100°C", "Constant darkness in a deep freezer"],
+"correct": 1
+},
+{
+"q": "What term describes plants that complete their life cycle from seed to death within one single growing season?",
+"a": ["Perennial plants", "Biennial plants", "Annual plants", "Woody shrubs"],
+"correct": 2
+},
+{
+"q": "Why is weeding an important practice in crop production and plant growth?",
+"a": ["To provide decoration for the farm", "To increase the population of plant pests", "To prevent weeds from competing with crops for light, water, and nutrients", "To dry out the soil completely"],
+"correct": 3
+},
+{
+"q": "What is the main function of the stem in a flowering plant?",
+"a": ["To support leaves, flowers, and fruits, and transport materials between roots and leaves", "To absorb mineral salts directly from dry air", "To anchor the entire plant in the bedrock", "To manufacture all food without sunlight"],
+"correct": 0
+},
+{
+"q": "Which process describes the transfer of pollen grains from the anther to the stigma of a flower?",
+"a": ["Germination", "Pollination", "Fertilization", "Dispersal"],
+"correct": 1
+},
+{
+"q": "What is formed after successful fertilization when the ovary of a flower develops and matures?",
+"a": ["A seed coat", "A root hair", "A fruit containing seeds", "A leaf bud"],
+"correct": 2
+},
+{
+"q": "Which of the following is a characteristic feature of monocotyledonous plants?",
+"a": ["Two cotyledons in their seeds", "Net-veined leaves", "Taproot systems", "Floral parts usually in multiples of three and parallel leaf veins"],
+"correct": 3
+}
+]
+}

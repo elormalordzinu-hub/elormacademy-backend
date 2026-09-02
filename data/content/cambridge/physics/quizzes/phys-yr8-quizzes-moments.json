@@ -1,0 +1,186 @@
+{
+"id": "phys-yr8-quizzes-moments",
+"name": "Turning effects of forces and moments",
+"questions": [
+{
+"q": "What scientific term is used to describe the turning effect of a force?",
+"a": ["Moment (or torque)", "Kinetic velocity", "Gravitational pull", "Frictional drag"],
+"correct": 0
+},
+{
+"q": "What is the formula used to calculate the moment of a force?",
+"a": ["Moment = Force divided by Distance", "Moment = Force multiplied by Perpendicular Distance from pivot", "Moment = Mass multiplied by Speed", "Moment = Pressure multiplied by Area"],
+"correct": 1
+},
+{
+"q": "What are the standard SI units for a moment of a force?",
+"a": ["Newtons (N)", "Pascals (Pa)", "Newton-metres (N m)", "Joules (J)"],
+"correct": 2
+},
+{
+"q": "What is a pivot (or fulcrum) in the context of turning forces?",
+"a": ["The heaviest part of a moving object", "The total surface area of contact", "The speed at which a lever rotates", "The fixed point or axis about which a body turns or rotates"],
+"correct": 3
+},
+{
+"q": "According to the principle of moments, what condition must be met for a seesaw or lever to be balanced in equilibrium?",
+"a": ["Total clockwise moments equal total anticlockwise moments", "The force on both sides must be zero", "The distance from the pivot must be identical on both sides", "Total mass must be distributed randomly"],
+"correct": 0
+},
+{
+"q": "Why are door handles placed as far away as possible from the door hinges (pivot)?",
+"a": ["To make the door look larger", "To increase the distance from the pivot, which reduces the force needed to open the door (creates a larger moment)", "To increase friction against the frame", "To keep handles out of reach of small children"],
+"correct": 1
+},
+{
+"q": "If a child applies a force of 200 N at a distance of 1.5 metres from a playground seesaw pivot, what is the turning moment?",
+"a": ["133.3 N m", "300 N m", "300 N", "0.0075 N m"],
+"correct": 2
+},
+{
+"q": "Which of the following is a classic everyday example of a first-class lever where the pivot is located between the effort force and the load?",
+"a": ["A wheelbarrow", "A pair of nutcrackers", "A pair of tweezers", "A crowbar or seesaw"],
+"correct": 3
+},
+{
+"q": "What happens to the turning moment if you double the distance of the applied force from the pivot while keeping the force the same?",
+"a": ["The moment is doubled", "The moment is halved", "The moment drops to zero", "The moment remains unchanged"],
+"correct": 0
+},
+{
+"q": "Why is it much easier to loosen a tight rusty nut using a long spanner (wrench) rather than a short one?",
+"a": ["Long spanners are made of stronger metal", "A longer spanner increases the distance from the pivot, producing a greater turning moment for the same push", "A long spanner reduces friction on the thread", "It adds extra weight to the bolt"],
+"correct": 1
+},
+{
+"q": "What term describes the single point through which the entire weight of an object appears to act?",
+"a": ["The focal point", "The turning radius", "The centre of gravity (or centre of mass)", "The pivot point"],
+"correct": 2
+},
+{
+"q": "How can you increase the stability of a tall object, such as a laboratory Bunsen burner or a racing car?",
+"a": ["By making it much taller and narrower", "By placing all the heavy parts at the very top", "By removing its base completely", "By lowering its centre of gravity and widening its base"],
+"correct": 3
+},
+{
+"q": "Which of the following describes a second-class lever, such as a wheelbarrow or bottle opener?",
+"a": ["The load is located between the pivot and the effort force", "The effort force is in the middle between the load and pivot", "The pivot is always at the very end", "There is no pivot involved"],
+"correct": 0
+},
+{
+"q": "What happens to an object if its centre of gravity moves outside its base when tilted?",
+"a": ["It returns automatically to its original position", "It topples over because gravity creates an unbalanced turning moment", "It floats away in mid-air", "It begins to spin horizontally"],
+"correct": 1
+},
+{
+"q": "If a wrench produces a moment of 50 N m with a force of 25 N, how far from the pivot is the force applied?",
+"a": ["0.5 metres", "1.25 metres", "2.0 metres", "1,250 metres"],
+"correct": 2
+},
+{
+"q": "Which of the following is an example of a third-class lever, where the effort force is applied between the load and the pivot?",
+"a": ["A seesaw", "A wheelbarrow", "A crowbar", "A pair of tweezers or fishing rod"],
+"correct": 3
+},
+{
+"q": "Why do crane operators place heavy concrete blocks at the back of a construction crane?",
+"a": ["To act as a counterweight that balances the heavy loads lifted at the front, preventing the crane from tipping over", "To anchor the crane into the clouds", "To provide electricity to the motor", "To make the crane look decorative"],
+"correct": 0
+},
+{
+"q": "What is the turning effect if two equal forces act on opposite sides of a pivot at equal distances, one pushing clockwise and the other anticlockwise?",
+"a": ["The object spins rapidly in circles", "The total net moment is zero, so the system is balanced", "The pivot breaks immediately", "The object moves upward"],
+"correct": 1
+},
+{
+"q": "Why is a racing car designed to have a very low profile (sitting low to the ground) and wide wheels?",
+"a": ["To make it travel slower around corners", "To increase air resistance", "To lower its centre of gravity, making it much more stable and less likely to roll over at high speeds", "To reduce fuel capacity"],
+"correct": 2
+},
+{
+"q": "What happens to the stability of a bus if too many passengers stand on the upper deck?",
+"a": ["Its centre of gravity is lowered, increasing stability", "Its mass decreases", "Its tyres inflate automatically", "Its centre of gravity is raised, making it less stable and more likely to tip over when turning corners"],
+"correct": 3
+},
+{
+"q": "If a heavy box is pushed across a floor, under what condition will it tip over rather than slide?",
+"a": ["When the line of action of its weight falls outside its base", "When friction drops to zero", "When the floor becomes completely smooth", "When gravity stops acting on it"],
+"correct": 0
+},
+{
+"q": "How does a nutcracker make it easier to crack a hard nutshell?",
+"a": ["It generates heat", "It acts as a lever where the short distance from the pivot to the nut multiplies the applied force", "It shatters the shell using sound waves", "It cuts the shell with lasers"],
+"correct": 1
+},
+{
+"q": "What is the moment produced if a force of 10 N is applied 0.4 metres away from a pivot?",
+"a": ["2.5 N m", "0.04 N m", "4.0 N m", "10.4 N m"],
+"correct": 2
+},
+{
+"q": "Which of the following objects has the lowest centre of gravity and is therefore exceptionally stable?",
+"a": ["A pencil standing vertically on its tip", "A tall circus unicycle", "A spinning top", "A wide-based traffic cone"],
+"correct": 3
+},
+{
+"q": "Why are steering wheels in cars made relatively large in diameter?",
+"a": ["To provide a larger radius from the steering column pivot, reducing the force the driver needs to apply to turn the wheels", "To give more legroom to the driver", "To hold car horns securely", "To look sporty"],
+"correct": 0
+},
+{
+"q": "If a seesaw has a 300 N child sitting 2 metres from the pivot on the left, what force must a 600 N adult exert on the right side to balance the seesaw?",
+"a": ["300 N at 2 metres", "300 N at 1 metre", "600 N at 2 metres", "150 N at 4 metres"],
+"correct": 1
+},
+{
+"q": "What term describes the perpendicular distance from the line of action of a force to the pivot?",
+"a": ["Leverage length", "Moment arm", "Turning radius", "Axis span"],
+"correct": 2
+},
+{
+"q": "Why do tightrope walkers carry a long, heavy pole while walking across a high rope?",
+"a": ["To hit birds away", "To provide shade from the sun", "To increase their forward speed", "To increase their rotational inertia and lower/shift their centre of gravity, making it easier to balance"],
+"correct": 3
+},
+{
+"q": "What happens to a balanced lever if the clockwise moment becomes greater than the anticlockwise moment?",
+"a": ["The lever starts to rotate in the clockwise direction", "The lever stays perfectly still", "The pivot dissolves", "The lever rotates anticlockwise"],
+"correct": 0
+},
+{
+"q": "Which simple machine uses a wheel and axle to make turning heavy valves or doorknobs easier?",
+"a": ["An inclined plane", "A lever system where a small force on a large wheel radius turns a smaller axle with a larger force", "A hydraulic pump", "A pulley block"],
+"correct": 1
+},
+{
+"q": "What condition must be satisfied for a physical object to be in complete mechanical equilibrium?",
+"a": ["Only forces must be balanced", "Only moments must be balanced", "Both resultant force must be zero and resultant moment must be zero", "The object must be traveling at the speed of light"],
+"correct": 2
+},
+{
+"q": "Why is it harder to push a heavy door open near its hinges compared to pushing near the outer edge?",
+"a": ["The hinges are magnetic", "The door is thicker near the hinges", "Friction is higher near the frame", "The distance from the pivot is very small, resulting in a tiny turning moment"],
+"correct": 3
+},
+{
+"q": "If a force of 40 N is applied to a spanner at a distance of 0.5 m from a bolt, what is the turning moment?",
+"a": ["20 N m", "80 N m", "0.0125 N m", "40.5 N m"],
+"correct": 0
+},
+{
+"q": "How does a crowbar help a worker lift heavy paving stones?",
+"a": ["By heating the stone up", "By acting as a long lever that multiplies the input force into a large moment at the load end", "By reducing the stone's mass", "By creating a magnetic attraction"],
+"correct": 1
+},
+{
+"q": "What happens to the centre of gravity of a person when they bend forward to touch their toes?",
+"a": ["It moves upward into their head", "It disappears completely", "It shifts forward, and as long as it stays above their feet, they will not fall over", "It moves backward behind their heels"],
+"correct": 2
+},
+{
+"q": "Which of the following tools operates on the principle of levers to cut through thick wire or metal rods?",
+"a": ["A sewing needle", "A wooden ruler", "A plastic comb", "Bolt cutters (pliers)"],
+"correct": 3
+}
+]
+}

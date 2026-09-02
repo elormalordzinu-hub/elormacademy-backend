@@ -1,0 +1,186 @@
+{
+"id": "phys-igcse-quizzes-forces",
+"name": "Forces and effects on motion",
+"questions": [
+{
+"q": "What is the main effect of a resultant force acting on an object?",
+"a": ["It causes the object to change its velocity (accelerate, decelerate, or change direction).", "It always guarantees the object will remain stationary.", "It changes the internal chemical composition of the object.", "It increases the total mass of the object."],
+"correct": 0
+},
+{
+"q": "According to Newton's Second Law of Motion, what is the relationship between force (F), mass (m), and acceleration (a)?",
+"a": ["F = m / a", "F = m times a", "F = a / m", "F = m times a squared"],
+"correct": 1
+},
+{
+"q": "What is the name of the frictional force that acts on an object moving through air or fluids?",
+"a": ["Magnetic drag", "Tension", "Air resistance (or drag)", "Normal contact force"],
+"correct": 2
+},
+{
+"q": "What does Hooke's Law state about a spring within its elastic limit?",
+"a": ["Extension is inversely proportional to the applied force.", "Force is proportional to the square of the extension.", "Extension is completely independent of force.", "Extension is directly proportional to the applied load (force)."],
+"correct": 3
+},
+{
+"q": "What is meant by the 'limit of proportionality' (or elastic limit) of a stretched spring?",
+"a": ["The point beyond which the spring no longer obeys Hooke's law and suffers permanent plastic deformation", "The maximum length the spring can ever reach before melting", "The point where the spring snaps into two pieces", "The initial un-stretched length of the spring"],
+"correct": 0
+},
+{
+"q": "A resultant force of 20 N acts on a mass of 4.0 kg. What is the resulting acceleration of the object?",
+"a": ["80.0 m/s squared", "5.0 m/s squared", "0.2 m/s squared", "16.0 m/s squared"],
+"correct": 1
+},
+{
+"q": "What is the turning effect of a force called?",
+"a": ["Momentum", "Pressure", "Moment of a force (torque)", "Gravitational field strength"],
+"correct": 2
+},
+{
+"q": "How is the moment of a force calculated?",
+"a": ["Force divided by perpendicular distance from pivot", "Force multiplied by time", "Force multiplied by mass", "Force multiplied by the perpendicular distance from the pivot"],
+"correct": 3
+},
+{
+"q": "State the Principle of Moments for a system in rotational equilibrium.",
+"a": ["Total clockwise moments equal total anticlockwise moments about the same pivot.", "Total forces upwards equal total forces downwards.", "Mass multiplied by velocity must remain constant.", "The pivot must be located at the exact center of gravity."],
+"correct": 0
+},
+{
+"q": "What two conditions are required for an extended object to be in complete mechanical equilibrium?",
+"a": ["Zero net force only", "Zero resultant force and zero net moment (clockwise moments equal anticlockwise moments)", "Constant high speed and zero friction", "Equal mass distribution on both sides of the pivot"],
+"correct": 1
+},
+{
+"q": "Where is the center of gravity of a uniform, regular object, such as a symmetrical rectangular metal block located?",
+"a": ["At one of its extreme corners", "On its outer surface edge", "At its geometrical center", "Outside the physical body of the object"],
+"correct": 2
+},
+{
+"q": "What effect does a wider base and a lower center of gravity have on the stability of an object?",
+"a": ["It decreases its stability, making it tip over easily.", "It has no effect on stability.", "It increases its total mass.", "It increases its stability, making it much harder to tip over."],
+"correct": 3
+},
+{
+"q": "What is momentum defined as in physics?",
+"a": ["Mass multiplied by velocity (p = m times v)", "Force multiplied by distance", "Mass multiplied by acceleration", "Weight divided by gravitational field strength"],
+"correct": 0
+},
+{
+"q": "State the Law of Conservation of Momentum for a closed system.",
+"a": ["Total momentum changes continuously during a collision.", "Total momentum before a collision is equal to total momentum after a collision, provided no external forces act.", "Kinetic energy is always conserved in every type of collision.", "Velocity remains constant for all objects in the system."],
+"correct": 1
+},
+{
+"q": "What is impulse defined as, and how relates to momentum?",
+"a": ["Force divided by time, representing change in mass", "Velocity multiplied by distance", "Force multiplied by time (F times t), which equals the change in momentum", "Mass divided by velocity"],
+"correct": 2
+},
+{
+"q": "Why do safety features in cars, such as crumple zones and seatbelts, reduce injury during a crash?",
+"a": ["They increase the total mass of the car.", "They stop the car in zero seconds.", "They reduce the total change in momentum.", "They increase the impact time, thereby reducing the magnitude of the deceleration force acting on passengers."],
+"correct": 3
+},
+{
+"q": "What is friction?",
+"a": ["A contact force that opposes the relative motion between two surfaces in contact", "A force that always speeds up moving objects", "A non-contact force acting at a distance", "A force caused exclusively by air pressure"],
+"correct": 0
+},
+{
+"q": "If a box is pushed across a rough floor at a constant steady speed by a horizontal force of 50 N, what is the magnitude of the frictional force opposing its motion?",
+"a": ["0 N", "50 N", "100 N", "25 N"],
+"correct": 1
+},
+{
+"q": "Which of the following describes Newton's First Law of Motion?",
+"a": ["Force equals mass times acceleration.", "Every action has an equal and opposite reaction.", "An object continues in a state of rest or uniform motion in a straight line unless acted upon by a resultant force.", "Momentum is always conserved."],
+"correct": 2
+},
+{
+"q": "What is the SI unit of force?",
+"a": ["Kilogram (kg)", "Joule (J)", "Watt (W)", "Newton (N)"],
+"correct": 3
+},
+{
+"q": "What happens to a spring when stretched beyond its elastic limit?",
+"a": ["It suffers permanent deformation and does not return to its original length when the load is removed.", "It becomes infinitely strong and elastic.", "It dissolves into a liquid.", "Its spring constant increases to zero."],
+"correct": 0
+},
+{
+"q": "A force of 15 N is applied perpendicularly at a distance of 0.4 m from a pivot. What is the moment of the force?",
+"a": ["3.75 Nm", "6.0 Nm", "37.5 Nm", "0.027 Nm"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of a non-contact force?",
+"a": ["Friction between tires and road", "Pushing a heavy box across a floor", "Gravitational force acting between the Earth and the Moon", "Air resistance against a moving plane"],
+"correct": 2
+},
+{
+"q": "What is the momentum of a 1,500 kg car traveling forward at a velocity of 20 m/s?",
+"a": ["75 kg m/s", "300 kg m/s", "3,000 kg m/s", "30,000 kg m/s"],
+"correct": 3
+},
+{
+"q": "What does a force-extension graph with a straight line passing through the origin demonstrate?",
+"a": ["Hooke's Law is obeyed, as force is directly proportional to extension.", "The spring has broken.", "The extension is inversely proportional to force.", "The material has reached its plastic region."],
+"correct": 0
+},
+{
+"q": "If two equal and opposite forces act on a stationary object, what will happen to its motion?",
+"a": ["It will accelerate rapidly in the direction of the larger force.", "It will remain stationary because the resultant force is zero.", "It will start spinning indefinitely.", "It will move at constant high speed."],
+"correct": 1
+},
+{
+"q": "What is the correct formula for calculating pressure?",
+"a": ["Pressure = Force times Area", "Pressure = Area divided by Force", "Pressure = Force divided by Area (P = F / A)", "Pressure = Mass times Gravity"],
+"correct": 2
+},
+{
+"q": "Why does a sharp knife cut objects much more easily than a blunt knife using the same applied force?",
+"a": ["It has a much larger mass.", "It generates more friction.", "It has a higher temperature.", "It has a very small surface area, creating a much higher pressure."],
+"correct": 3
+},
+{
+"q": "What is the SI unit of pressure?",
+"a": ["Pascal (Pa) or N/m squared", "Newton (N)", "Joule per second (J/s)", "Kilogram per cubic meter"],
+"correct": 0
+},
+{
+"q": "A force of 100 N is applied uniformly over an area of 2.0 m squared. What is the pressure exerted on the surface?",
+"a": ["200 Pa", "50 Pa", "0.02 Pa", "102 Pa"],
+"correct": 1
+},
+{
+"q": "According to Newton's Third Law, if object A exerts a force on object B, what does object B do?",
+"a": ["It exerts no force back.", "It exerts a smaller force in the same direction.", "It exerts an equal and opposite force back on object A.", "It accelerates away immediately."],
+"correct": 2
+},
+{
+"q": "What is the primary purpose of adding lubricating oil between moving metal engine parts?",
+"a": ["To increase friction and generate heat", "To increase the total mass of the engine", "To act as a fuel source", "To reduce friction and minimize wear and tear between surfaces"],
+"correct": 3
+},
+{
+"q": "If a 2 kg mass accelerates at 4 m/s squared, what is the magnitude of the resultant force acting on it?",
+"a": ["8 N", "0.5 N", "6 N", "2 N"],
+"correct": 0
+},
+{
+"q": "What happens to the pressure at a point in a liquid as the depth beneath the liquid surface increases?",
+"a": ["Pressure decreases to zero.", "Pressure increases due to the greater weight of the liquid column above.", "Pressure remains completely constant regardless of depth.", "Pressure fluctuates randomly."],
+"correct": 1
+},
+{
+"q": "What is the center of gravity of an object defined as?",
+"a": ["The geometric corner farthest from the base", "The point where the object is widest", "The point through which the entire weight of the object appears to act", "The point where temperature is highest"],
+"correct": 2
+},
+{
+"q": "A light rigid beam of length 2.0 m is balanced on a pivot at its exact center. A weight of 10 N is placed at a distance of 0.5 m to the left of the pivot. What downward force must be applied on the right side at a distance of 0.5 m from the pivot to maintain balance?",
+"a": ["5 N", "20 N", "2.5 N", "10 N"],
+"correct": 3
+}
+]
+}

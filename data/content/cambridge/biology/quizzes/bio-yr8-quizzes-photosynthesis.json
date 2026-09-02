@@ -1,0 +1,206 @@
+{
+"id": "bio-yr8-quizzes-photosynthesis",
+"name": "Photosynthesis and plant nutrition",
+"questions": [
+{
+"q": "What is the primary biological purpose of photosynthesis in green plants?",
+"a": ["To produce chemical energy in the form of glucose for food and growth", "To absorb mineral ions directly from dry soil", "To release large amounts of liquid water into the air", "To convert oxygen gas into carbon dioxide"],
+"correct": 0
+},
+{
+"q": "Which of the following represents the correct word equation for photosynthesis?",
+"a": ["Glucose + Oxygen -> Carbon Dioxide + Water + Energy", "Carbon Dioxide + Water -> Glucose + Oxygen", "Nitrogen + Water -> Protein + Hydrogen", "Starch + Oxygen -> Carbon Dioxide + Heat"],
+"correct": 1
+},
+{
+"q": "Which organelle inside plant leaf cells is responsible for capturing light energy?",
+"a": ["The nucleus", "The vacuole", "The chloroplast", "The mitochondrion"],
+"correct": 2
+},
+{
+"q": "What is the name of the green pigment found inside chloroplasts that absorbs light energy?",
+"a": ["Carotene", "Anthocyanin", "Xanthophyll", "Chlorophyll"],
+"correct": 3
+},
+{
+"q": "Which raw materials are taken in from the environment by a plant to carry out photosynthesis?",
+"a": ["Oxygen and glucose", "Carbon dioxide and water", "Nitrogen and mineral salts", "Hydrogen and carbon monoxide"],
+"correct": 1
+},
+{
+"q": "What happens to the oxygen gas produced as a byproduct during photosynthesis?",
+"a": ["It is used entirely for root growth", "It turns into solid starch inside veins", "It diffuses out of the leaves through stomata into the atmosphere", "It is trapped permanently inside vacuoles"],
+"correct": 2
+},
+{
+"q": "Why is sunlight necessary for photosynthesis?",
+"a": ["It acts as the physical heat source to burn wood", "It provides the light energy needed to drive the chemical reaction between carbon dioxide and water", "It freezes water inside xylem vessels", "It converts nitrogen gas into protein"],
+"correct": 1
+},
+{
+"q": "How does carbon dioxide enter a plant leaf from the surrounding air?",
+"a": ["Through microscopic pores called stomata by diffusion", "By active pumping through root hairs", "By dissolving into the waxy cuticle layer", "Through thick bark on tree trunks"],
+"correct": 0
+},
+{
+"q": "Which part of the plant absorbs water from the soil for photosynthesis?",
+"a": ["The flower petals", "The stem bark", "The root hair cells", "The waxy cuticle"],
+"correct": 2
+},
+{
+"q": "What is the immediate chemical product synthesized during photosynthesis before it is converted into storage polymers?",
+"a": ["Cellulose", "Glucose", "Amino acids", "Glycerol"],
+"correct": 1
+},
+{
+"q": "How do plants store the excess glucose they produce when photosynthesis happens faster than immediate use requires?",
+"a": ["As insoluble starch", "As liquid oil droplets in petals", "As free gas bubbles in stems", "As solid bone crystals"],
+"correct": 2
+},
+{
+"q": "Which layer of a leaf contains tightly packed cells with the highest concentration of chloroplasts for maximum light absorption?",
+"a": ["The spongy mesophyll layer", "The lower epidermis", "The palisade mesophyll layer", "The waxy cuticle"],
+"correct": 2
+},
+{
+"q": "What is the function of the spongy mesophyll layer in a leaf during photosynthesis?",
+"a": ["To form a waterproof shield against rain", "To allow gases like carbon dioxide to diffuse easily between cells", "To anchor the leaf firmly to branches", "To pump water upward against gravity"],
+"correct": 1
+},
+{
+"q": "Why are most leaves broad and flat in shape?",
+"a": ["To collect heavy stones on top", "To maximize surface area for capturing light and absorbing carbon dioxide", "To prevent all air movement around the plant", "To hide from grazing insects"],
+"correct": 1
+},
+{
+"q": "What is the role of guard cells in plant leaves?",
+"a": ["To produce green chlorophyll pigment", "To transport sugars down to roots", "To control the opening and closing of stomata for gas exchange", "To absorb mineral ions from soil"],
+"correct": 2
+},
+{
+"q": "What happens to stomata when a plant lacks water during a dry spell?",
+"a": ["They open wider to catch extra wind", "They close tightly to reduce water loss by transpiration", "They turn into solid wood", "They multiply in number"],
+"correct": 1
+},
+{
+"q": "Which environmental factor, if increased beyond a certain point, will no longer increase the rate of photosynthesis because another factor becomes limiting?",
+"a": ["Light intensity", "Temperature", "Carbon dioxide concentration", "All of the above"],
+"correct": 3
+},
+{
+"q": "How does very high temperature affect the rate of photosynthesis?",
+"a": ["It speeds up the reaction infinitely without limit", "It denatures the enzymes that control photosynthesis, causing the rate to drop sharply", "It turns chlorophyll into water", "It has no effect whatsoever on plant cells"],
+"correct": 1
+},
+{
+"q": "What is the first step when conducting a laboratory test on a leaf to prove starch is present?",
+"a": ["Boil the leaf in water to kill cells and soften it", "Add iodine solution directly to the living plant", "Freeze the leaf in liquid nitrogen", "Soak the leaf in heavy oil"],
+"correct": 0
+},
+{
+"q": "Why is a leaf boiled in ethanol during a starch test experiment?",
+"a": ["To cook the leaf for consumption", "To dissolve and remove the green chlorophyll so color changes can be seen clearly", "To add extra sugar into the tissue", "To freeze internal cell water"],
+"correct": 1
+},
+{
+"q": "What color change confirms a positive result for starch when iodine solution is added to a de-colorized leaf?",
+"a": ["From clear to bright red", "From orange-brown to blue-black", "From blue to purple liquid", "From green to yellow"],
+"correct": 1
+},
+{
+"q": "Why must a plant be placed in a dark room (destarched) before investigating factors needed for photosynthesis?",
+"a": ["To use up any existing starch stored in its leaves so test results are accurate", "To make the plant grow taller overnight", "To turn all chlorophyll into protein", "To freeze root activity"],
+"correct": 1
+},
+{
+"q": "What substance can be used in an enclosed experimental setup to absorb carbon dioxide from the air around a plant?",
+"a": ["Pure water", "Sodium hydroxide or soda lime", "Table salt solution", "Vegetable oil"],
+"correct": 1
+},
+{
+"q": "What is the role of mineral ions like magnesium in plant nutrition related to photosynthesis?",
+"a": ["Magnesium is required to build chlorophyll molecules", "Magnesium acts as the primary fuel source for respiration", "Magnesium forms the hard outer bark", "Magnesium digests soil insects"],
+"correct": 0
+},
+{
+"q": "Why do variegated leaves (leaves with green and white patches) only produce starch in the green sections during photosynthesis?",
+"a": ["White sections lack chloroplasts containing chlorophyll", "White sections absorb too much heat", "Green sections contain no water", "White sections are made of animal cells"],
+"correct": 0
+},
+{
+"q": "Which gas would you expect to be released in bubbles from an aquatic plant like Elodea when exposed to bright sunlight underwater?",
+"a": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+"correct": 1
+},
+{
+"q": "How does increasing light intensity affect the rate of photosynthesis up to the saturation point?",
+"a": ["It decreases the rate of sugar production", "It has zero effect on gas exchange", "It increases the rate of photosynthesis", "It stops the plant from respiring"],
+"correct": 2
+},
+{
+"q": "What happens to the rate of photosynthesis if the concentration of carbon dioxide in the air around a plant is increased?",
+"a": ["The rate of photosynthesis increases until another factor becomes limiting", "Photosynthesis stops completely", "The plant instantly turns into wood", "Oxygen production drops to zero"],
+"correct": 1
+},
+{
+"q": "Which adaptation of leaves helps prevent excessive water loss while still allowing light to penetrate?",
+"a": ["A thick transparent waxy cuticle on the upper epidermis", "A layer of heavy stones on top", "An outer coat of black fur", "Open holes on upper surfaces"],
+"correct": 0
+},
+{
+"q": "What energy conversion takes place inside chloroplasts during photosynthesis?",
+"a": ["Chemical energy is turned into sound energy", "Light energy is converted into chemical energy stored in glucose", "Heat energy is converted into kinetic wind energy", "Electrical energy is turned into light"],
+"correct": 1
+},
+{
+"q": "Which of the following describes a limiting factor in photosynthesis?",
+"a": ["A factor that is in shortest supply and restricts the rate of photosynthesis", "A factor that causes the plant to grow infinite leaves", "The total amount of water in the ocean", "The color of the flower petals"],
+"correct": 1
+},
+{
+"q": "Why do plants in deep shade often have larger, thinner leaves than plants exposed to full sun?",
+"a": ["To capture as much available light energy as possible", "To store extra heavy rainfall", "To prevent animals from walking on them", "To keep roots warm"],
+"correct": 1
+},
+{
+"q": "What is the primary function of the veins (vascular bundles) in a leaf during photosynthesis?",
+"a": ["To supply water via xylem and remove manufactured sugars via phloem", "To capture direct sunlight like solar panels", "To produce green chlorophyll pigment", "To trap insects for food"],
+"correct": 1
+},
+{
+"q": "What happens to glucose produced in leaves when it is transported to growing flower buds or roots?",
+"a": ["It is converted back into sucrose and moved through phloem tissue", "It turns into solid iron ore", "It is exhaled as carbon dust", "It evaporates into gas"],
+"correct": 1
+},
+{
+"q": "Which simple sugar is the direct product of photosynthesis that plants use for respiration and growth?",
+"a": ["Cellulose", "Glucose", "Starch", "Glycogen"],
+"correct": 1
+},
+{
+"q": "How does the structure of palisade mesophyll cells maximize light absorption?",
+"a": ["They are elongated vertically and packed with many chloroplasts", "They are spherical and buried deep underground", "They are hollow and filled with air", "They are covered in heavy brown bark"],
+"correct": 1
+},
+{
+"q": "Why is sodium bicarbonate often added to water in aquatic plant photosynthesis experiments?",
+"a": ["To dissolve the plant stem", "To provide a dissolved source of carbon dioxide for the plant", "To freeze the water instantly", "To test for protein presence"],
+"correct": 1
+},
+{
+"q": "Which of the following statements about respiration and photosynthesis in plants is correct?",
+"a": ["Photosynthesis occurs only in the dark, while respiration occurs only in light", "Photosynthesis occurs in the light, whereas respiration occurs continuously day and night", "Both processes stop completely at night", "Both processes produce oxygen gas as a main product"],
+"correct": 1
+},
+{
+"q": "What is the main reason plants need nitrate mineral ions absorbed from the soil?",
+"a": ["To combine with glucose and manufacture amino acids for protein synthesis", "To make leaves waterproof", "To provide energy for nighttime movement", "To color flowers bright red"],
+"correct": 1
+},
+{
+"q": "Which characteristic of life includes photosynthesis as part of a plant's nutrition?",
+"a": ["Excretion", "Movement", "Nutrition / Metabolism", "Sensitivity"],
+"correct": 2
+}
+]
+}

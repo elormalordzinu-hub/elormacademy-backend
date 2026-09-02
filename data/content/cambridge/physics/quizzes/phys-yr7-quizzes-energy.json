@@ -1,0 +1,186 @@
+{
+"id": "phys-yr7-quizzes-energy",
+"name": "Energy types and transfers",
+"questions": [
+{
+"q": "What is the scientific definition of energy?",
+"a": ["The capacity to do work or cause a change", "The physical weight of an object", "The speed at which an object travels", "The amount of matter inside a substance"],
+"correct": 0
+},
+{
+"q": "What is the standard SI unit used to measure energy?",
+"a": ["Newton (N)", "Joule (J)", "Watt (W)", "Kilogram (kg)"],
+"correct": 1
+},
+{
+"q": "Which type of energy is stored in food, fuels, and batteries before it is released?",
+"a": ["Kinetic energy", "Gravitational potential energy", "Chemical energy", "Thermal energy"],
+"correct": 2
+},
+{
+"q": "Which energy store increases when a rubber band is stretched or a spring is compressed?",
+"a": ["Thermal energy", "Magnetic energy", "Nuclear energy", "Elastic potential energy"],
+"correct": 3
+},
+{
+"q": "What type of energy does an object possess due to its motion?",
+"a": ["Kinetic energy", "Chemical energy", "Gravitational potential energy", "Nuclear energy"],
+"correct": 0
+},
+{
+"q": "Which energy transfer pathway involves energy moving through a temperature difference from a hot region to a cold region?",
+"a": ["Electrical pathway", "Heating pathway", "Radiation pathway", "Mechanical pathway"],
+"correct": 1
+},
+{
+"q": "What law of physics states that energy cannot be created or destroyed, only transferred from one store to another?",
+"a": ["Newton's First Law", "Ohm's Law", "Conservation of Energy", "Law of Gravity"],
+"correct": 2
+},
+{
+"q": "What energy store does a hot cup of coffee possess due to the rapid random motion of its particles?",
+"a": ["Chemical energy", "Elastic potential energy", "Magnetic energy", "Thermal (internal) energy"],
+"correct": 3
+},
+{
+"q": "Which energy transfer pathway occurs when a force moves an object over a distance?",
+"a": ["Mechanical pathway", "Thermal pathway", "Electrical pathway", "Radiation pathway"],
+"correct": 0
+},
+{
+"q": "What type of energy is stored in an object raised above the ground?",
+"a": ["Kinetic energy", "Gravitational potential energy", "Chemical energy", "Elastic potential energy"],
+"correct": 1
+},
+{
+"q": "Which of the following is an example of energy transferred by electromagnetic waves (radiation)?",
+"a": ["Sound traveling through air", "Electricity flowing through a copper wire", "Light and heat traveling from the Sun to the Earth", "A ball rolling down a ramp"],
+"correct": 2
+},
+{
+"q": "What energy store is associated with the nucleus of atoms, released during radioactive decay or nuclear reactions?",
+"a": ["Thermal energy", "Chemical energy", "Elastic energy", "Nuclear energy"],
+"correct": 3
+},
+{
+"q": "What do we call energy that is not usefully transferred and spreads out into the surroundings, usually as low-temperature heat?",
+"a": ["Wasted (dissipated) energy", "Stored kinetic energy", "Compressed energy", "Concentrated power"],
+"correct": 0
+},
+{
+"q": "When a battery-powered torch is switched on, what is the initial energy store inside the battery?",
+"a": ["Thermal energy", "Chemical energy", "Kinetic energy", "Gravitational energy"],
+"correct": 1
+},
+{
+"q": "What energy transfer pathway is used when a current flows through a complete electrical circuit?",
+"a": ["Heating pathway", "Mechanical pathway", "Electrical pathway", "Radiation pathway"],
+"correct": 2
+},
+{
+"q": "Which of these devices is designed to convert electrical energy directly into sound energy?",
+"a": ["An electric heater", "A standard light bulb", "An electric motor", "A loudspeaker"],
+"correct": 3
+},
+{
+"q": "What is the primary energy transformation that takes place when a green plant performs photosynthesis?",
+"a": ["Light energy into stored chemical energy", "Kinetic energy into thermal energy", "Sound energy into electrical energy", "Nuclear energy into kinetic energy"],
+"correct": 0
+},
+{
+"q": "If a machine has an input energy of 100 J and provides a useful output energy of 70 J, how much energy is wasted?",
+"a": ["170 J", "30 J", "7000 J", "0.7 J"],
+"correct": 1
+},
+{
+"q": "What term describes the ratio of useful energy output to total energy input for a machine or appliance?",
+"a": ["Power rating", "Energy conservation", "Efficiency", "Resistance"],
+"correct": 2
+},
+{
+"q": "Which of the following describes a Sankey diagram?",
+"a": ["A bar chart showing electricity prices", "A table listing chemical elements", "A graph of distance against time", "A diagram with arrows showing energy inputs, useful outputs, and wasted outputs"],
+"correct": 3
+},
+{
+"q": "When a bouncing ball hits the floor, some of its kinetic energy is converted into what type of energy before bouncing back up?",
+"a": ["Thermal and sound energy", "Chemical energy", "Nuclear energy", "Magnetic energy"],
+"correct": 0
+},
+{
+"q": "Which energy store increases when a wind-up toy spring is twisted tightly?",
+"a": ["Gravitational potential energy", "Elastic potential energy", "Thermal energy", "Chemical energy"],
+"correct": 1
+},
+{
+"q": "What happens to the kinetic energy of a car when the driver applies the brakes to stop?",
+"a": ["It vanishes completely from the universe", "It is converted entirely into sound", "It is transferred via friction into thermal energy in the brakes and surroundings", "It transforms into chemical fuel"],
+"correct": 2
+},
+{
+"q": "Which of the following objects has the greatest gravitational potential energy relative to the floor?",
+"a": ["A book resting on the floor", "A book on a low shelf", "A book held at waist height", "A book placed on a high bookshelf near the ceiling"],
+"correct": 3
+},
+{
+"q": "What type of energy is stored in a stretched bowstring before releasing an arrow?",
+"a": ["Elastic potential energy", "Kinetic energy", "Thermal energy", "Gravitational energy"],
+"correct": 0
+},
+{
+"q": "Why does a hot mug of tea cool down over time when left on a desk?",
+"a": ["Energy is created inside the desk", "Thermal energy is transferred from the hotter tea to the cooler surroundings", "The tea loses all its mass", "Gravity pulls the heat downwards"],
+"correct": 1
+},
+{
+"q": "Which energy conversion occurs inside a traditional coal-fired power station to generate electricity?",
+"a": ["Electrical to chemical", "Kinetic to nuclear", "Chemical to thermal to kinetic to electrical", "Light to sound to heat"],
+"correct": 2
+},
+{
+"q": "What do we call resources such as coal, oil, and natural gas that will eventually run out because they take millions of years to form?",
+"a": ["Renewable energy resources", "Inexhaustible power sources", "Biological fuels", "Non-renewable energy resources"],
+"correct": 3
+},
+{
+"q": "Which of the following is a renewable energy resource that harnesses the movement of water using dams or tides?",
+"a": ["Hydroelectric energy", "Natural gas", "Crude oil", "Coal"],
+"correct": 0
+},
+{
+"q": "Solar panels are designed to capture energy from which natural source?",
+"a": ["The wind", "The Sun (light and radiation)", "Underground magma", "Ocean tides"],
+"correct": 1
+},
+{
+"q": "What is the main advantage of using renewable energy resources over fossil fuels?",
+"a": ["They are always cheaper to install anywhere", "They produce toxic nuclear waste", "They will not run out and generally produce fewer greenhouse gases", "They require no maintenance"],
+"correct": 2
+},
+{
+"q": "Which energy store is tapped into when using geothermal energy in volcanic regions?",
+"a": ["Chemical energy stored in rocks", "Magnetic energy in the core", "Kinetic energy of moving air", "Thermal energy stored deep underground in rocks"],
+"correct": 3
+},
+{
+"q": "What energy transfer takes place when a microphone converts sound waves into an electrical signal?",
+"a": ["Sound energy to electrical energy", "Thermal energy to light energy", "Chemical energy to kinetic energy", "Electrical energy to sound energy"],
+"correct": 0
+},
+{
+"q": "Which of the following describes the principle of conservation of energy?",
+"a": ["Energy must be saved by turning off lights", "Total energy before a transfer is equal to total energy after a transfer", "Energy decreases every time it is used", "Energy can be created from nothing in a vacuum"],
+"correct": 1
+},
+{
+"q": "What type of energy is possessed by a flying bird high up in the sky?",
+"a": ["Chemical energy only", "Thermal energy only", "Both kinetic energy (due to motion) and gravitational potential energy (due to height)", "Nuclear energy only"],
+"correct": 2
+},
+{
+"q": "How is energy transferred from a glowing electric fire into a chilly room?",
+"a": ["By mechanical work and tension", "By electrical conduction", "By chemical reactions", "By infrared radiation and thermal heating"],
+"correct": 3
+}
+]
+}

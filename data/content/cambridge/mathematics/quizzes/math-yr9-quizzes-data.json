@@ -1,0 +1,206 @@
+{
+"id": "math-yr9-quizzes-data",
+"name": "Data representation scatter graphs and correlation",
+"questions": [
+{
+"q": "Which type of correlation is expected between the age of a used car and its resale price?",
+"a": ["Negative correlation", "Positive correlation", "No correlation", "Constant correlation"],
+"correct": 0
+},
+{
+"q": "What does a scatter graph primarily allow you to investigate?",
+"a": ["The exact mean of a single dataset", "The relationship between two different variables", "The frequency distribution of grouped data", "The probability of an independent event"],
+"correct": 1
+},
+{
+"q": "If points on a scatter graph trend upward from left to right as one variable increases while the other decreases, what type of relationship is shown?",
+"a": ["Zero correlation", "Non-linear correlation", "Negative correlation", "Positive correlation"],
+"correct": 3
+},
+{
+"q": "When drawing a line of best fit on a scatter graph, what is the primary rule to follow?",
+"a": ["It must connect the first and last data points directly", "It should have a roughly even balance of points above and below the line", "It must pass through the origin (0, 0)", "It should connect the maximum number of exact points possible"],
+"correct": 1
+},
+{
+"q": "What term describes estimating a value inside the range of data collected on a scatter graph?",
+"a": ["Interpolation", "Extrapolation", "Correlation", "Hypothesis testing"],
+"correct": 0
+},
+{
+"q": "What term describes estimating a value outside the range of data collected on a scatter graph?",
+"a": ["Interpolation", "Extrapolation", "Correlation", "Standardization"],
+"correct": 1
+},
+{
+"q": "Why is extrapolation generally less reliable than interpolation?",
+"a": ["It uses fewer mathematical calculations", "It assumes the established trend continues indefinitely beyond known data", "It requires the line of best fit to be curved", "It only applies to categorical variables"],
+"correct": 1
+},
+{
+"q": "If points on a scatter graph are scattered completely randomly with no discernible pattern, what can be concluded?",
+"a": ["There is strong positive correlation", "There is strong negative correlation", "There is no correlation between the variables", "There is a quadratic relationship"],
+"correct": 2
+},
+{
+"q": "Which of the following pairs of variables is most likely to show positive correlation?",
+"a": ["Hours spent revising for a math test and the exam score achieved", "Speed of a car and the time taken to complete a fixed journey", "Outdoor temperature and heating bills", "Age of a dog and its running speed"],
+"correct": 0
+},
+{
+"q": "Which of the following pairs of variables is most likely to show negative correlation?",
+"a": ["Height of a person and their shoe size", "Number of people in a household and weekly grocery cost", "Amount of fuel left in a car tank and distance travelled since last fill", "Daily rainfall and umbrella sales"],
+"correct": 2
+},
+{
+"q": "What does a strong correlation coefficient indicate about data points on a scatter graph?",
+"a": ["They are tightly clustered close to the line of best fit", "They form a perfectly horizontal line", "They are randomly spread across the entire grid", "They have equal mean and median values"],
+"correct": 0
+},
+{
+"q": "In a scatter graph analyzing study time versus test scores, what does an outlier represent?",
+"a": ["The most common result in the class", "A data point that does not fit the overall trend of the rest of the data", "The exact midpoint of the data set", "An error in the axis labels"],
+"correct": 1
+},
+{
+"q": "If a scatter graph shows that as advertising budget increases, sales revenue also increases at a steady rate, how would you describe the correlation?",
+"a": ["Weak negative", "Strong negative", "Moderate positive", "Zero"],
+"correct": 2
+},
+{
+"q": "Which of the following statements about correlation and causation is correct?",
+"a": ["Correlation always proves that one variable causes the other", "Correlation means two variables move together, but it does not automatically prove causation", "Causation can only exist if correlation is exactly zero", "Correlation and causation mean the exact same thing in statistics"],
+"correct": 1
+},
+{
+"q": "When plotting a scatter graph, which axis is traditionally used for the independent variable?",
+"a": ["The vertical axis (y-axis)", "The horizontal axis (x-axis)", "Either axis interchangeably", "The diagonal axis"],
+"correct": 1
+},
+{
+"q": "When plotting a scatter graph, which axis is traditionally used for the dependent variable?",
+"a": ["The horizontal axis (x-axis)", "The vertical axis (y-axis)", "The z-axis", "The origin point"],
+"correct": 1
+},
+{
+"q": "If a line of best fit passes through the points (2, 4) and (6, 12), what is its gradient?",
+"a": ["0.5", "1.0", "2.0", "4.0"],
+"correct": 2
+},
+{
+"q": "What does a correlation value close to negative one (-1) signify?",
+"a": ["Perfect negative linear correlation", "No correlation at all", "Perfect positive linear correlation", "Inverse quadratic relationship"],
+"correct": 0
+},
+{
+"q": "What does a correlation value close to positive one (+1) signify?",
+"a": ["Perfect negative linear correlation", "No correlation at all", "Perfect positive linear correlation", "Exponential growth"],
+"correct": 2
+},
+{
+"q": "If a scatter graph displays data points forming a curved U-shape, what type of relationship is present?",
+"a": ["Linear positive correlation", "Linear negative correlation", "Non-linear correlation", "Zero correlation"],
+"correct": 2
+},
+{
+"q": "Which tool is best suited for identifying trends or relationships between two continuous numerical variables?",
+"a": ["Pie chart", "Bar chart", "Scatter graph", "Frequency polygon"],
+"correct": 2
+},
+{
+"q": "If you use a line of best fit to estimate a score when given 45 study minutes, and 45 lies well within the range of collected data, this process is called:",
+"a": ["Interpolation", "Extrapolation", "Averaging", "Sampling"],
+"correct": 0
+},
+{
+"q": "If you use a line of best fit to predict sales for the year 2035 based on data ending in 2026, this process is called:",
+"a": ["Interpolation", "Extrapolation", "Correlation", "Calibration"],
+"correct": 1
+},
+{
+"q": "What can cause an outlier on a scatter graph?",
+"a": ["Consistent measurement across all samples", "An experimental error, a recording mistake, or an exceptional individual case", "A perfect linear equation", "Equal distribution of data points"],
+"correct": 1
+},
+{
+"q": "Which of the following describes a moderate negative correlation?",
+"a": ["Points trend downwards from left to right, with some spread around the line", "Points trend upwards from left to right tightly packed", "Points form a horizontal straight line", "Points form a vertical straight line"],
+"correct": 0
+},
+{
+"q": "In an experiment measuring temperature and ice cream sales, what is the independent variable?",
+"a": ["Ice cream sales", "Temperature", "The number of shop assistants", "The colour of the shop sign"],
+"correct": 1
+},
+{
+"q": "In an experiment measuring temperature and ice cream sales, what is the dependent variable?",
+"a": ["Temperature", "Ice cream sales", "The time of day", "The location of the shop"],
+"correct": 1
+},
+{
+"q": "If the equation of a line of best fit is y = 3x + 5, what is the expected value of y when x = 4?",
+"a": ["12", "17", "20", "27"],
+"correct": 1
+},
+{
+"q": "If the equation of a line of best fit is y = -2x + 20, what is the expected value of y when x = 5?",
+"a": ["10", "15", "30", "0"],
+"correct": 0
+},
+{
+"q": "Why should a line of best fit not be forced to pass through the origin (0, 0) unless justified by context?",
+"a": ["It is against government regulations", "It can distort the true relationship shown by the data points", "It makes the gradient impossible to calculate", "It turns the scatter graph into a bar chart"],
+"correct": 1
+},
+{
+"q": "What does a cluster of data points separate from the main group on a scatter graph indicate?",
+"a": ["A calculation error in the mean", "A distinct sub-group or a unique cluster within the population", "Perfect linear correlation", "A total absence of data"],
+"correct": 1
+},
+{
+"q": "Which statement is true regarding data points and a line of best fit?",
+"a": ["Every single data point must lie directly on the line of best fit", "The line of best fit represents the overall trend and rarely touches every single point", "The line of best fit must connect the highest and lowest points", "Data points are drawn after the line is finalised without real values"],
+"correct": 1
+},
+{
+"q": "If two variables have a correlation of zero, what does their scatter graph look like?",
+"a": ["A straight line sloping upwards", "A straight line sloping downwards", "A random scatter of points with no obvious upward or downward trend", "Points forming a perfect circle"],
+"correct": 2
+},
+{
+"q": "When is a scatter graph NOT appropriate for displaying data?",
+"a": ["When comparing height against weight", "When comparing category names (like eye color) against a single numerical variable", "When investigating test scores against hours of sleep", "When analyzing age against income"],
+"correct": 1
+},
+{
+"q": "If the gradient of a line of best fit is negative, what does this indicate about the correlation?",
+"a": ["Positive correlation", "Negative correlation", "Zero correlation", "Undefined correlation"],
+"correct": 1
+},
+{
+"q": "If the gradient of a line of best fit is positive, what does this indicate about the correlation?",
+"a": ["Negative correlation", "Positive correlation", "Zero correlation", "Inverse correlation"],
+"correct": 1
+},
+{
+"q": "What is the primary risk of relying on extrapolation?",
+"a": ["Conditions may change outside the tested range, making the prediction inaccurate", "It takes too long to calculate manually", "It requires complex calculus", "It changes the original data points on the graph"],
+"correct": 0
+},
+{
+"q": "How can you make predictions more accurate when using a line of best fit?",
+"a": ["By guessing a value without looking at the line", "By using interpolation within a large, densely populated dataset", "By ignoring outliers completely without checking them", "By drawing the line as steep as possible"],
+"correct": 1
+},
+{
+"q": "Which of these variables would show NO correlation when plotted on a scatter graph?",
+"a": ["Shoe size and math test score", "Height and arm span", "Hours worked and total pay", "Age of a house and its market value"],
+"correct": 0
+},
+{
+"q": "What is the main purpose of a scatter graph in statistical analysis?",
+"a": ["To calculate exact probabilities", "To display frequencies of single categorical groups", "To visually assess whether a relationship exists between two numerical variables", "To show changes in a single variable over time"],
+"correct": 2
+}
+]
+}

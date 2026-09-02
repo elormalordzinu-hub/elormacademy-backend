@@ -1,0 +1,1500 @@
+<!-- File: index.html | System: Bright & Bold Learning Arena -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bright and Bold | Learning Arena</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <!-- Paystack Inline Checkout Script -->
+    <script src="https://js.paystack.co/v1/inline.js"></script>
+    <style>
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        @keyframes pulseGlow { 0% { opacity: 0.6; } 50% { opacity: 1; text-shadow: 0 0 20px var(--neon-cyan); } 100% { opacity: 0.6; } }
+
+        /* Master Palette & Modal Overlays */
+        .bb-modal-overlay {
+            display: none;
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(5, 5, 5, 0.88);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
+        .bb-modal-content {
+            background: #0a0a0a;
+            border: 2px solid var(--neon-cyan, #00e5ff);
+            border-radius: 12px;
+            padding: 30px;
+            width: 90%;
+            max-width: 550px;
+            box-shadow: 0 0 25px rgba(0, 229, 255, 0.3);
+            text-align: center;
+        }
+        .bb-modal-content h3 {
+            color: var(--neon-yellow, #ffe600);
+            font-family: monospace;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+        }
+        .form-group {
+            margin-bottom: 15px;
+            text-align: left;
+        }
+        .form-group label {
+            display: block;
+            color: var(--text-main, #fff);
+            font-size: 13px;
+            margin-bottom: 5px;
+            font-family: monospace;
+        }
+        .form-group input {
+            width: 100%;
+            padding: 12px;
+            background: #121212;
+            border: 1px solid var(--neon-cyan, #00e5ff);
+            color: #fff;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        .nav-admin-btn {
+            background: #ffe600 !important;
+            color: #050505 !important;
+            font-weight: bold !important;
+            border: 1px solid #ffe600 !important;
+            box-shadow: 0 0 10px rgba(255, 230, 0, 0.4) !important;
+            text-transform: uppercase !important;
+            font-size: 12px !important;
+            letter-spacing: 0.5px !important;
+            border-radius: 6px !important;
+            padding: 6px 14px !important;
+            display: inline-flex !important;
+            align-items: center !important;
+            gap: 6px !important;
+            text-decoration: none !important;
+            transition: all 0.2s ease-in-out !important;
+        }
+        .nav-admin-btn:hover {
+            background: #fff !important;
+            border-color: #fff !important;
+            box-shadow: 0 0 16px rgba(255, 255, 255, 0.8) !important;
+            transform: scale(1.04);
+        }
+    </style>
+</head>
+<body class="home-page">
+
+    <nav>
+        <div class="logo">elormacademy.com</div>
+        <div class="nav-links">
+            <a href="../schoolmonitor/verify-code.html" class="nav-btn nav-admin-btn"><i class="fa-solid fa-user-shield"></i> SCHOOL ADMIN LOGIN</a>
+            <a href="about.html" class="nav-btn">About</a>
+            <a href="donate.html" class="nav-btn">Donate</a>
+            <a href="socials.html" class="nav-btn">Connect</a>
+            <a href="support.html" class="nav-btn">Help</a>
+            <a href="index.html" class="nav-btn">Home</a>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <div class="arena-header">
+            <a href="fact.html" class="flag-btn left-flag">Fun Facts ⭐</a>
+            <h1>Bright & Bold Learning Arena</h1>
+            <a href="fact.html" class="flag-btn right-flag">Fun Facts ⭐</a>
+        </div>
+
+        <p class="subtitle" id="user-status-subtitle">Enter your name and choose your path to unlock the arena.</p>
+
+        <!-- Dynamic Access / Unlock Button -->
+        <button id="dynamic-unlock-btn" class="cta-button btn-unlock animate__animated animate__pulse animate__infinite" onclick="handleDynamicUnlock()" style="background: linear-gradient(135deg, #00ff00, #ff4081); color: #050505; margin-bottom: 15px; max-width: 440px; width: 100%; box-shadow: 0 0 20px rgba(0,255,0,0.5);">🚀 STUDENT FULL ACCESS UNLOCK / SUBSCRIBE</button>
+
+        <!-- Delete Account Button -->
+        <button id="delete-account-btn" onclick="deleteAccount()" class="cta-button" style="background: #ff4081; color: #ffffff; border: 2px solid #ff4081; margin-bottom: 25px; max-width: 400px; width: 100%; font-size: 0.95rem; text-transform: uppercase; font-weight: bold; cursor: pointer; padding: 12px; border-radius: 8px; box-shadow: 0 0 15px rgba(255, 64, 129, 0.5); display: none;">Delete Account</button>
+
+        <input type="text" id="studentName" class="name-input" placeholder="Enter your full name here..." required oninput="this.value = this.value.toUpperCase()">
+
+        <div class="selection-wrapper">
+            <select id="subjectSelect" class="dropdown-menu" onchange="checkCurriculum()">
+               <option value="">Choose Subject</option>
+                <option value="biology">Biology</option>
+                <option value="carear-technology" style="display: none;">Career Technology</option>
+                <option value="chemistry">Chemistry</option>
+                <option value="creative-arts" style="display: none;">Creative Arts</option>
+                <option value="english" style="display: none;">English</option>
+                <option value="ewe" style="display: none;">Ewe</option>
+                <option value="french" style="display: none;">French</option>
+                <option value="ga" style="display: none;">Ga</option>
+                <option value="geography" style="display: none;">Geography</option>
+                <option value="ict" style="display: none;">ICT</option>
+                <option value="integrated-science">Integrated Science</option>
+                <option value="mathematics">Mathematics</option>
+                <option value="physics">Physics</option>
+                <option value="religious-studies" style="display: none;">Religious Studies</option>
+                <option value="twi" style="display: none;">Twi</option>
+            </select>
+
+            <select id="curriculumSelect" class="dropdown-menu" onchange="checkCurriculum()">
+                <option value="">Choose Curriculum</option>
+                <option value="cambridge">Cambridge</option>
+                <option value="wassce" style="display: none;">WASSCE</option>
+                <option value="bece">BECE</option>
+                <option value="pearson" style="display: none;">Pearson Edexcel</option>
+                <option value="american" style="display: none;">American</option>
+            </select>
+            <div id="system-message"></div>
+        </div>
+
+        <button id="enterArenaBtn" class="cta-button btn-enter" onclick="enterArena()">ENTER ARENA 🚀</button>
+    </div>
+
+    <!-- 1. UNLOCK METHOD CHOICE MODAL -->
+    <div id="unlockChoiceModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-yellow, #ffe600);">
+            <h3 style="color: var(--neon-yellow, #ffe600);">CHOOSE ACCESS METHOD</h3>
+            <p style="color: #bbb; font-size: 14px; margin-bottom: 25px;">Select how you would like to unlock full learning arena access:</p>
+            <div style="display: flex; flex-direction: column; gap: 15px;">
+                <button class="cta-button" type="button" onclick="openSubscriberTypeModal('online')" style="background: var(--neon-cyan, #00e5ff); color: #000; font-weight: bold; width: 100%; max-width: 100%; margin: 0; padding: 12px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">Online Registration (Packages)</button>
+                <button class="cta-button" type="button" onclick="openBuyCouponModal()" style="background: var(--neon-green, #00ff00); color: #000; font-weight: bold; width: 100%; max-width: 100%; margin: 0; padding: 12px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">Buy Coupon</button>
+                <button class="cta-button" type="button" onclick="openSubscriberTypeModal('coupon')" style="background: transparent; border: 2px solid var(--neon-pink, #ff4081); color: var(--neon-pink, #ff4081); width: 100%; max-width: 100%; margin: 0; padding: 12px; border-radius: 6px; cursor: pointer; text-transform: uppercase; font-weight: bold;">Redeem Coupon</button>
+                <button class="cta-button" type="button" onclick="openRestoreAccountModal()" style="background: transparent; border: 2px solid var(--neon-yellow, #ffe600); color: var(--neon-yellow, #ffe600); width: 100%; max-width: 100%; margin: 0; padding: 12px; border-radius: 6px; cursor: pointer; text-transform: uppercase; font-weight: bold; box-shadow: 0 0 15px rgba(255,230,0,0.25);">🔄 RESTORE DELETED ACCOUNT</button>
+                <button type="button" onclick="closeAllModals()" style="background: #333; color: #fff; border: none; padding: 10px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase; margin-top: 5px;">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 1B. SUBSCRIBER TYPE CHOICE MODAL (NEW VS EXISTING) -->
+    <div id="subscriberTypeModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-cyan, #00e5ff);">
+            <h3 id="subscriberTypeTitle" style="color: var(--neon-yellow, #ffe600);">CHOOSE SUBSCRIBER TYPE</h3>
+            <p style="color: #bbb; font-size: 14px; margin-bottom: 25px;">Are you registering as a new student or topping up an existing subscription?</p>
+            <div style="display: flex; flex-direction: column; gap: 15px;">
+                <button id="newSubscriberBtn" class="cta-button" type="button" onclick="handleSubscriberTypeSelection('new')" style="background: var(--neon-green, #00ff00); color: #000; font-weight: bold; width: 100%; max-width: 100%; margin: 0; padding: 13px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">🆕 NEW SUBSCRIBER</button>
+                <button id="existingSubscriberBtn" class="cta-button" type="button" onclick="handleSubscriberTypeSelection('existing')" style="background: var(--neon-cyan, #00e5ff); color: #000; font-weight: bold; width: 100%; max-width: 100%; margin: 0; padding: 13px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">🔄 EXISTING SUBSCRIBER (TOP UP)</button>
+                <div style="display: flex; gap: 10px; margin-top: 5px;">
+                    <button type="button" onclick="openUnlockChoiceModal()" style="flex: 1; background: #333; color: #fff; border: none; padding: 10px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Back</button>
+                    <button type="button" onclick="closeAllModals()" style="flex: 1; background: #222; color: #ff4081; border: 1px solid #ff4081; padding: 10px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 1C. EXISTING SUBSCRIBER PHONE LOOKUP MODAL -->
+    <div id="phoneLookupModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-cyan, #00e5ff);">
+            <h3 style="color: var(--neon-yellow, #ffe600);">🔍 LOOK UP EXISTING ACCOUNT</h3>
+            <p style="color: #bbb; font-size: 14px; margin-bottom: 20px;">Enter your registered contact / WhatsApp phone number to find your student accounts:</p>
+            <div class="form-group">
+                <label for="lookupPhoneInput">Registered Phone Number (WhatsApp)</label>
+                <input type="text" id="lookupPhoneInput" placeholder="e.g. +233241234567 or 0241234567" style="width: 100%; padding: 12px; background: #121212; border: 1px solid #00e5ff; color: #fff; border-radius: 6px; font-size: 14px; box-sizing: border-box;">
+                <small style="color: #888; font-size: 11px; display: block; margin-top: 4px;">Enter with country code or local format (e.g. <strong>+233241234567</strong>, <strong>0241234567</strong>)</small>
+            </div>
+            <div style="display: flex; gap: 10px; margin-top: 20px;">
+                <button type="button" onclick="openSubscriberTypeModal(currentSubscriptionRoute)" style="flex: 1; background: #333; color: #fff; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Back</button>
+                <button type="button" onclick="closeAllModals()" style="flex: 1; background: #222; color: #ff4081; border: 1px solid #ff4081; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Cancel</button>
+                <button type="button" onclick="performPhoneLookup()" style="flex: 1.5; background: var(--neon-cyan, #00e5ff); color: #000; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">FIND ACCOUNTS</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 1D. STUDENT ACCOUNT SELECTOR MODAL -->
+    <div id="accountSelectModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-yellow, #ffe600); max-width: 600px;">
+            <h3 style="color: var(--neon-yellow, #ffe600);">📋 SELECT STUDENT TO TOP UP</h3>
+            <p style="color: #bbb; font-size: 14px; margin-bottom: 15px;">We found the following student accounts linked to this phone number. Choose one account to top up:</p>
+            <div id="studentAccountsList" style="display: flex; flex-direction: column; gap: 12px; max-height: 50vh; overflow-y: auto; padding-right: 5px; margin-bottom: 20px; text-align: left;">
+                <!-- Dynamically rendered student account cards -->
+            </div>
+            <div style="display: flex; gap: 10px;">
+                <button type="button" onclick="openPhoneLookupModal()" style="flex: 1; background: #333; color: #fff; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Back</button>
+                <button type="button" onclick="closeAllModals()" style="flex: 1; background: #222; color: #ff4081; border: 1px solid #ff4081; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 1E. EXISTING STUDENT COUPON TOP-UP MODAL -->
+    <div id="existingCouponTopupModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-pink, #ff4081);">
+            <h3 style="color: var(--neon-pink, #ff4081);">🎟️ TOP UP WITH COUPON</h3>
+            <div id="topupSelectedStudentInfo" style="background: #151515; border: 1px solid #333; padding: 12px; border-radius: 6px; margin-bottom: 15px; text-align: left; font-size: 13px;">
+                <!-- Populated dynamically with selected student details -->
+            </div>
+            <form id="existingCouponTopupForm" onsubmit="submitExistingCouponTopup(event)">
+                <div class="form-group">
+                    <label for="topupSchoolCode">School Code</label>
+                    <input type="text" id="topupSchoolCode" required placeholder="e.g. SCH-1023" oninput="this.value = this.value.toUpperCase()">
+                </div>
+                <div class="form-group">
+                    <label for="topupProductCode">New Product / Coupon Code</label>
+                    <input type="text" id="topupProductCode" required placeholder="Enter product or coupon code" oninput="this.value = this.value.toUpperCase()">
+                </div>
+
+                <div style="display: flex; gap: 10px; margin-top: 20px;">
+                    <button type="button" onclick="openAccountSelectModal(lastFoundStudents)" style="flex: 1; background: #333; color: #fff; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Back</button>
+                    <button type="button" onclick="closeAllModals()" style="flex: 1; background: #222; color: var(--neon-pink, #ff4081); border: 1px solid var(--neon-pink, #ff4081); padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Cancel</button>
+                    <button type="submit" style="flex: 1.5; background: var(--neon-green, #00ff00); color: #000; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">APPLY TOP UP</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- 1F. RESTORE DELETED ACCOUNT MODAL -->
+    <div id="restoreAccountModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-yellow, #ffe600);">
+            <h3 style="color: var(--neon-yellow, #ffe600);">🔄 RESTORE DELETED ACCOUNT</h3>
+            <p style="color: #bbb; font-size: 14px; margin-bottom: 20px;">Enter your School Code and Product / Coupon Code pair. If the code is a linked coupon, your original registration will be restored and credited:</p>
+            <form id="restoreAccountForm" onsubmit="submitRestoreAccount(event)">
+                <div class="form-group">
+                    <label for="restoreSchoolCode">School Code</label>
+                    <input type="text" id="restoreSchoolCode" required placeholder="e.g. CER-4055774 or ONLINE-DIRECT" oninput="this.value = this.value.toUpperCase()">
+                </div>
+                <div class="form-group">
+                    <label for="restoreProductCode">Product / Coupon Code (Original or Linked)</label>
+                    <input type="text" id="restoreProductCode" required placeholder="Enter 16-character code" oninput="this.value = this.value.toUpperCase()">
+                </div>
+
+                <div style="display: flex; gap: 10px; margin-top: 20px;">
+                    <button type="button" onclick="openUnlockChoiceModal()" style="flex: 1; background: #333; color: #fff; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Back</button>
+                    <button type="button" onclick="closeAllModals()" style="flex: 1; background: #222; color: #ff4081; border: 1px solid #ff4081; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">Cancel</button>
+                    <button type="submit" style="flex: 1.5; background: var(--neon-yellow, #ffe600); color: #000; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; text-transform: uppercase;">RESTORE ACCOUNT</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- 2. CUSTOM BRIGHT & BOLD SUBSCRIPTION PACKAGES MODAL -->
+    <div id="subModal" class="sub-modal-overlay bb-modal-overlay">
+        <div class="sub-modal-content" style="max-width: 550px; width: 90%; background: #0a0a0a; border: 2px solid #ffe600; padding: 30px; border-radius: 12px; text-align: center;">
+            <h2 id="subModalHeaderTitle" style="color: #ffe600; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px;">🌟 Unlock Full Access</h2>
+            <p id="subModalSubtitle" style="color: #ccc; font-size: 0.9rem; margin-bottom: 15px;">Choose your subscription plan (Local & International options available):</p>
+            
+            <div id="topupOnlineStudentBadge" style="display: none; background: #151515; border-left: 4px solid #00e5ff; padding: 10px; border-radius: 6px; margin-bottom: 15px; text-align: left; font-size: 13px;">
+                <!-- Populated dynamically if top-up mode is active -->
+            </div>
+
+            <div class="sub-plan-cards" style="display: flex; flex-direction: column; gap: 10px; max-height: 50vh; overflow-y: auto; padding-right: 5px; text-align: left;">
+                <div style="font-size: 0.75rem; color: #00e5ff; font-weight: bold; text-transform: uppercase; margin-top: 5px;">🇬🇭 Ghana (Local - GHS via Paystack)</div>
+                <div class="sub-card" onclick="selectPlanOption('monthly', 5000, 'Monthly Pass (GHS 50)', 'GHS')">
+                    <span class="plan-title">Monthly Pass</span>
+                    <span class="plan-price" style="color: #00e5ff;">GHS 50</span>
+                </div>
+                <div class="sub-card popular" onclick="selectPlanOption('6months', 25000, '6-Month Pass (GHS 250)', 'GHS')">
+                    <span class="plan-badge">POPULAR</span>
+                    <span class="plan-title">6 Months</span>
+                    <span class="plan-price" style="color: #00ff00;">GHS 250</span>
+                </div>
+                <div class="sub-card" onclick="selectPlanOption('yearly', 45000, 'Yearly Pass (GHS 450)', 'GHS')">
+                    <span class="plan-title">Yearly Pass</span>
+                    <span class="plan-price" style="color: #ffe600;">GHS 450</span>
+                </div>
+            </div>
+
+            <div style="margin-top: 15px; display: flex; gap: 10px; justify-content: center; border-top: 1px solid #333; padding-top: 15px;">
+                <button type="button" id="subModalBackBtn" onclick="handleSubModalBack()" style="background: #333; color: #fff; border: none; padding: 10px 20px; border-radius: 6px; font-weight: bold; cursor: pointer; flex: 1; text-transform: uppercase;">BACK</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 3. COUPON REDEMPTION MODAL (NEW SUBSCRIBER) -->
+    <div id="couponModal" class="bb-modal-overlay">
+        <div class="bb-modal-content" style="border-color: var(--neon-pink, #ff4081);">
+            <h3 style="color: var(--neon-pink, #ff4081);">🎟️ REDEEM ACCESS COUPON</h3>
+            <form id="couponForm" onsubmit="submitCoupon(event)">
+                <div class="form-group">
+                    <label for="couponStudentName">Student Name</label>
+                    <input type="text" id="couponStudentName" required placeholder="Enter your full name" oninput="this.value = this.value.toUpperCase()">
+                </div>
+                <div class="form-group">
+                    <label for="couponSchoolCode">School Code</label>
+                    <input type="text" id="couponSchoolCode" required placeholder="e.g. SCH-1023" oninput="this.value = this.value.toUpperCase()">
+                </div>
+                <div class="form-group">
+                    <label for="couponProductCode">Product / Coupon Code</label>
+                    <input type="text" id="couponProductCode" required placeholder="Enter product or coupon code" oninput="this.value = this.value.toUpperCase()">
+                </div>
+                <div class="form-group">
+                    <label for="couponEmail">Email Address</label>
+                    <input type="email" id="couponEmail" required placeholder="student@school.com">
+                </div>
+                <div class="form-group">
+                    <label for="couponWhatsapp">Contact Number (WhatsApp)</label>
+                    <input type="text" id="couponWhatsapp" required placeholder="e.g. +233241234567">
+                    <small style="color: #888; font-size: 11px; display: block; margin-top: 4px;">Enter with country code. Examples: <strong>+233241234567</strong>, <strong>+14155552671</strong></small>
+                </div>
+
+                <div style="display: flex; gap: 10px; margin-top: 20px;">
+                    <button type="button" onclick="openSubscriberTypeModal('coupon')" style="background: #333; color: #fff; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; flex: 1; text-transform: uppercase;">Back</button>
+                    <button type="button" onclick="closeAllModals()" style="background: #222; color: var(--neon-pink, #ff4081); border: 1px solid var(--neon-pink, #ff4081); padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; flex: 1; text-transform: uppercase;">Cancel</button>
+                    <button type="submit" style="background: var(--neon-green, #00ff00); color: #000; border: none; padding: 10px 15px; border-radius: 6px; font-weight: bold; cursor: pointer; flex: 1; text-transform: uppercase;">SUBMIT COUPON</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Bright and Bold Learning Arena.</p>
+    </footer>
+
+    <!-- Modular JavaScript Files -->
+    <script>
+        const getBaseApiUrl = () => {
+            return (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+                ? 'http://localhost:3000'
+                : 'https://elormacademy-backend-production.up.railway.app';
+        };
+
+        // State variables for Top Up and Registration Workflow
+        let currentSubscriptionRoute = 'coupon'; // 'coupon' or 'online'
+        let isTopupMode = false;
+        let selectedTopupStudent = null;
+        let lastFoundStudents = [];
+        let searchedPhone = '';
+
+        // Global HTML Escaping Utility to prevent DOM-based XSS
+        function escapeHtml(str) {
+            if (!str) return '';
+            return String(str)
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+
+        // Strict client-side regex validators mirroring server rules
+        function isValidSchoolCodeFormat(code) {
+            if (!code) return false;
+            const clean = code.trim().toUpperCase();
+            if (clean === 'ONLINE-DIRECT' || clean === 'CEO-HQ') return true;
+            const schoolCodeRegex = /^[A-Z]{3}-[A-Z0-9]{7}$/;
+            return schoolCodeRegex.test(clean);
+        }
+
+        function isValidProductCodeFormat(code) {
+            if (!code) return false;
+            const clean = code.trim().toUpperCase();
+            if (clean.startsWith('ELORM_')) return true;
+            const productCodeRegex = /^[A-Z0-9]{3,4}-[A-Z0-9]{3,4}-[A-Z0-9]{3,4}-[A-Z0-9]{3,4}$/;
+            return productCodeRegex.test(clean);
+        }
+
+        // Format raw date into readable British format
+        function formatDisplayDate(dateStr) {
+            if (!dateStr || dateStr === 'Not yet') return 'Not Set';
+            const d = new Date(dateStr);
+            if (isNaN(d.getTime())) return String(dateStr);
+            return d.toLocaleDateString('en-GB', {
+                day: 'numeric',
+                month: 'short',
+                year: 'numeric'
+            });
+        }
+
+        // Global Modal Navigation Controls
+        window.openUnlockChoiceModal = function() {
+            closeAllModals();
+            isTopupMode = false;
+            selectedTopupStudent = null;
+            const choiceModal = document.getElementById('unlockChoiceModal');
+            if (choiceModal) choiceModal.style.display = 'flex';
+        };
+
+        window.openRestoreAccountModal = function() {
+            closeAllModals();
+            const modal = document.getElementById('restoreAccountModal');
+            if (modal) modal.style.display = 'flex';
+            const input = document.getElementById('restoreSchoolCode');
+            if (input) input.focus();
+        };
+
+        window.openSubscriberTypeModal = function(route) {
+            closeAllModals();
+            currentSubscriptionRoute = route || 'coupon';
+            const titleEl = document.getElementById('subscriberTypeTitle');
+            if (titleEl) {
+                titleEl.innerText = (currentSubscriptionRoute === 'online') 
+                    ? 'ONLINE REGISTRATION ACCESS' 
+                    : 'REDEEM ACCESS COUPON';
+            }
+
+            const isSubscriber = localStorage.getItem('mrelorm_subscriber') === 'true';
+            const expiryDate = localStorage.getItem('mrelorm_expiry');
+            const isActive = isSubscriber && (!expiryDate || Date.now() <= parseInt(expiryDate));
+            const newBtn = document.getElementById('newSubscriberBtn');
+            
+            if (newBtn) {
+                if (isActive) {
+                    newBtn.style.opacity = '0.45';
+                    newBtn.style.cursor = 'not-allowed';
+                    newBtn.style.pointerEvents = 'none';
+                    newBtn.innerText = '🔒 NEW SUBSCRIBER (ACTIVE ACCOUNT)';
+                } else {
+                    newBtn.style.opacity = '1';
+                    newBtn.style.cursor = 'pointer';
+                    newBtn.style.pointerEvents = 'auto';
+                    newBtn.innerText = '🆕 NEW SUBSCRIBER';
+                }
+            }
+
+            const modal = document.getElementById('subscriberTypeModal');
+            if (modal) modal.style.display = 'flex';
+        };
+
+        window.handleSubscriberTypeSelection = function(type) {
+            closeAllModals();
+            if (type === 'new') {
+                isTopupMode = false;
+                selectedTopupStudent = null;
+                if (currentSubscriptionRoute === 'online') {
+                    openDirectOnlineModal();
+                } else {
+                    openDirectCouponModal();
+                }
+            } else if (type === 'existing') {
+                isTopupMode = true;
+                openPhoneLookupModal();
+            }
+        };
+
+        window.openPhoneLookupModal = function() {
+            closeAllModals();
+            const modal = document.getElementById('phoneLookupModal');
+            if (modal) modal.style.display = 'flex';
+            const input = document.getElementById('lookupPhoneInput');
+            if (input) {
+                if (searchedPhone) input.value = searchedPhone;
+                input.focus();
+            }
+        };
+
+        window.openDirectOnlineModal = function() {
+            closeAllModals();
+            const subModal = document.getElementById('subModal');
+            const headerTitle = document.getElementById('subModalHeaderTitle');
+            const badgeEl = document.getElementById('topupOnlineStudentBadge');
+            
+            if (isTopupMode && selectedTopupStudent) {
+                if (headerTitle) headerTitle.innerText = '🌟 TOP UP SUBSCRIPTION';
+                if (badgeEl) {
+                    badgeEl.style.display = 'block';
+                    badgeEl.innerHTML = `<strong>Selected Student:</strong> <span style="color:#00e5ff;">${escapeHtml(selectedTopupStudent.name)}</span> | <strong>Status:</strong> <span style="color:#ffe600;">${escapeHtml(selectedTopupStudent.status || 'Active')}</span>`;
+                }
+            } else {
+                if (headerTitle) headerTitle.innerText = '🌟 Unlock Full Access';
+                if (badgeEl) badgeEl.style.display = 'none';
+            }
+
+            if (subModal) subModal.style.display = 'flex';
+        };
+
+        window.openOnlineRegistrationModal = function() {
+            openSubscriberTypeModal('online');
+        };
+
+        window.openBuyCouponModal = function() {
+            closeAllModals();
+            window.location.href = 'support.html';
+        };
+
+        window.openDirectCouponModal = function() {
+            closeAllModals();
+            const mainNameInput = document.getElementById('studentName');
+            const couponNameInput = document.getElementById('couponStudentName');
+            if (couponNameInput && mainNameInput && mainNameInput.value.trim()) {
+                couponNameInput.value = mainNameInput.value.trim().toUpperCase();
+            }
+            const couponModal = document.getElementById('couponModal');
+            if (couponModal) couponModal.style.display = 'flex';
+        };
+
+        window.openCouponModal = function() {
+            openSubscriberTypeModal('coupon');
+        };
+
+        window.handleSubModalBack = function() {
+            if (isTopupMode && lastFoundStudents && lastFoundStudents.length > 0) {
+                openAccountSelectModal(lastFoundStudents);
+            } else {
+                openSubscriberTypeModal('online');
+            }
+        };
+
+        window.closeAllModals = function() {
+            const choiceModal = document.getElementById('unlockChoiceModal');
+            const subModal = document.getElementById('subModal');
+            const couponModal = document.getElementById('couponModal');
+            const subTypeModal = document.getElementById('subscriberTypeModal');
+            const phoneModal = document.getElementById('phoneLookupModal');
+            const acctModal = document.getElementById('accountSelectModal');
+            const existingCouponModal = document.getElementById('existingCouponTopupModal');
+            const restoreModal = document.getElementById('restoreAccountModal');
+            const verificationModal = document.getElementById('couponVerificationModal');
+            const changeModal = document.getElementById('couponChangeModal');
+            const customPopup = document.getElementById('customColorfulPopup');
+
+            if (choiceModal) choiceModal.style.display = 'none';
+            if (subModal) subModal.style.display = 'none';
+            if (couponModal) couponModal.style.display = 'none';
+            if (subTypeModal) subTypeModal.style.display = 'none';
+            if (phoneModal) phoneModal.style.display = 'none';
+            if (acctModal) acctModal.style.display = 'none';
+            if (existingCouponModal) existingCouponModal.style.display = 'none';
+            if (restoreModal) restoreModal.style.display = 'none';
+
+            if (verificationModal) verificationModal.remove();
+            if (changeModal) changeModal.remove();
+            if (customPopup) customPopup.remove();
+        };
+
+        window.handleDynamicUnlock = function() {
+            const isSubscriber = localStorage.getItem('mrelorm_subscriber') === 'true';
+            const expiryDate = localStorage.getItem('mrelorm_expiry');
+            const isExpired = expiryDate && Date.now() > parseInt(expiryDate);
+
+            if (isSubscriber && !isExpired) {
+                window.location.href = 'templates/subscription-details.html';
+            } else {
+                openUnlockChoiceModal();
+            }
+        };
+
+        // Stunning Custom Colorful Popup Helper
+        function showColorfulAlert(message, title = "Notice", callback = null, showCancel = false) {
+            let existing = document.getElementById('customColorfulPopup');
+            if (existing) existing.remove();
+
+            const popup = document.createElement('div');
+            popup.id = 'customColorfulPopup';
+            popup.style.cssText = `
+                position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+                background: rgba(5, 5, 5, 0.85); z-index: 20000;
+                display: flex; justify-content: center; align-items: center; backdrop-filter: blur(5px);
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            `;
+
+            popup.innerHTML = `
+                <div style="background:#0e0e0e; border:2px solid #ffe600; border-radius:10px; padding:25px; width:90%; max-width:420px; box-shadow:0 0 25px rgba(255,230,0,0.3); text-align:center; color:#fff;">
+                    <h3 style="color:#ffe600; margin-top:0; text-transform:uppercase; font-size:18px;">${escapeHtml(title)}</h3>
+                    <p style="font-size:14px; color:#ddd; line-height:1.5; margin-bottom:20px; white-space: pre-line;">${escapeHtml(message)}</p>
+                    <div style="display:flex; gap:10px; justify-content:center;">
+                        <button id="popupOkBtn" style="background:#00e5ff; color:#050505; border:none; padding:10px 20px; font-weight:bold; border-radius:5px; cursor:pointer; text-transform:uppercase;">OK</button>
+                        <button id="popupCancelBtn" style="background:transparent; border:1px solid #555; color:#aaa; padding:10px 20px; font-weight:bold; border-radius:5px; cursor:pointer; text-transform:uppercase; display:${showCancel ? 'block' : 'none'};">Cancel</button>
+                    </div>
+                </div>
+            `;
+
+            document.body.appendChild(popup);
+
+            document.getElementById('popupOkBtn').onclick = () => {
+                popup.remove();
+                if (callback) callback(true);
+            };
+
+            if (showCancel) {
+                document.getElementById('popupCancelBtn').onclick = () => {
+                    popup.remove();
+                    if (callback) callback(false);
+                };
+            }
+        }
+
+        // Phone Lookup Zero-Match Decision Dialog Helper
+        function showZeroMatchLookupDialog(enteredPhone) {
+            let existing = document.getElementById('customColorfulPopup');
+            if (existing) existing.remove();
+
+            const popup = document.createElement('div');
+            popup.id = 'customColorfulPopup';
+            popup.style.cssText = `
+                position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+                background: rgba(5, 5, 5, 0.90); z-index: 20000;
+                display: flex; justify-content: center; align-items: center; backdrop-filter: blur(6px);
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            `;
+
+            popup.innerHTML = `
+                <div style="background:#0e0e0e; border:2px solid #ff4081; border-radius:10px; padding:25px; width:90%; max-width:460px; box-shadow:0 0 25px rgba(255,64,129,0.35); text-align:center; color:#fff;">
+                    <h3 style="color:#ff4081; margin-top:0; text-transform:uppercase; font-size:18px;">No Account Found</h3>
+                    <p style="font-size:14px; color:#ddd; line-height:1.5; margin-bottom:20px;">
+                        No registered student account was found under the phone number: <strong style="color:#00e5ff;">${escapeHtml(enteredPhone)}</strong>.<br><br>
+                        Would you like to double-check the phone number and retry, or register a new subscription?
+                    </p>
+                    <div style="display:flex; flex-direction:column; gap:10px;">
+                        <button id="lookupRetryBtn" style="background:#00e5ff; color:#050505; border:none; padding:12px; font-weight:bold; border-radius:6px; cursor:pointer; text-transform:uppercase;">🔍 CHECK PHONE NUMBER & RETRY</button>
+                        <button id="lookupNewSubBtn" style="background:var(--neon-green, #00ff00); color:#000; border:none; padding:12px; font-weight:bold; border-radius:6px; cursor:pointer; text-transform:uppercase;">🆕 REGISTER AS NEW SUBSCRIBER</button>
+                        <button id="lookupCancelBtn" style="background:transparent; border:1px solid #555; color:#aaa; padding:10px; font-weight:bold; border-radius:6px; cursor:pointer; text-transform:uppercase;">CANCEL</button>
+                    </div>
+                </div>
+            `;
+
+            document.body.appendChild(popup);
+
+            document.getElementById('lookupRetryBtn').onclick = () => {
+                popup.remove();
+                openPhoneLookupModal();
+            };
+
+            document.getElementById('lookupNewSubBtn').onclick = () => {
+                popup.remove();
+                handleSubscriberTypeSelection('new');
+            };
+
+            document.getElementById('lookupCancelBtn').onclick = () => {
+                popup.remove();
+                closeAllModals();
+            };
+        }
+
+        // STEP 1: Phone Lookup Execution
+        async function performPhoneLookup() {
+            const phoneInput = document.getElementById('lookupPhoneInput');
+            const rawPhone = phoneInput ? phoneInput.value.trim() : '';
+
+            if (!rawPhone) {
+                showColorfulAlert("Please enter the contact / WhatsApp phone number to look up your account.", "Phone Required");
+                return;
+            }
+
+            searchedPhone = rawPhone;
+
+            let loadingEl = document.createElement('div');
+            loadingEl.id = 'lookupLoadingOverlay';
+            loadingEl.style.cssText = 'display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(5,5,5,0.92); z-index:99999; justify-content:center; align-items:center; flex-direction:column; backdrop-filter: blur(6px);';
+            loadingEl.innerHTML = `
+                <div style="border: 5px solid #1a1a1a; border-top: 5px solid #00e5ff; border-right: 5px solid #ff4081; border-bottom: 5px solid #ffe600; border-radius: 50%; width: 65px; height: 65px; animation: spin 0.9s linear infinite;"></div>
+                <h3 style="color: #00e5ff; margin-top: 20px; font-family: monospace; font-size: 16px; letter-spacing: 1px;">Searching accounts for ${escapeHtml(searchedPhone)}...</h3>
+            `;
+            document.body.appendChild(loadingEl);
+
+            try {
+                const targetEndpoint = `${getBaseApiUrl()}/api/students/lookup?phone=${encodeURIComponent(searchedPhone)}`;
+                const response = await fetch(targetEndpoint, {
+                    method: 'GET',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch (e) {
+                    result = null;
+                }
+
+                loadingEl.remove();
+
+                const accounts = (result && Array.isArray(result.students)) 
+                    ? result.students 
+                    : (result && Array.isArray(result)) 
+                        ? result 
+                        : (result && result.data && Array.isArray(result.data)) 
+                            ? result.data 
+                            : [];
+
+                if (response.ok && accounts.length > 0) {
+                    lastFoundStudents = accounts;
+                    openAccountSelectModal(accounts);
+                } else {
+                    closeAllModals();
+                    showZeroMatchLookupDialog(searchedPhone);
+                }
+            } catch (err) {
+                loadingEl.remove();
+                closeAllModals();
+                showZeroMatchLookupDialog(searchedPhone);
+            }
+        }
+
+        // STEP 2: Render Found Student Accounts
+        function openAccountSelectModal(students) {
+            closeAllModals();
+            const modal = document.getElementById('accountSelectModal');
+            const listContainer = document.getElementById('studentAccountsList');
+
+            if (!listContainer || !modal) return;
+            listContainer.innerHTML = '';
+
+            students.forEach((stu, index) => {
+                const card = document.createElement('div');
+                card.style.cssText = `
+                    background: #111; border: 1px solid #333; border-radius: 8px; padding: 14px;
+                    display: flex; justify-content: space-between; align-items: center; cursor: pointer;
+                    transition: all 0.2s ease-in-out;
+                `;
+                card.onmouseover = () => { card.style.borderColor = '#00e5ff'; card.style.transform = 'translateY(-2px)'; card.style.boxShadow = '0 0 15px rgba(0,229,255,0.2)'; };
+                card.onmouseout = () => { card.style.borderColor = '#333'; card.style.transform = 'translateY(0)'; card.style.boxShadow = 'none'; };
+
+                // Calculate Badge Status (Active, Expired, Deleted)
+                let statusBadgeText = 'ACTIVE';
+                let statusBadgeStyle = 'background: rgba(0,255,0,0.15); color: #00ff00; border: 1px solid #00ff00;';
+
+                if (stu.isDeleted || stu.status === 'deleted' || stu.accountStatus === 'deleted') {
+                    statusBadgeText = 'DELETED';
+                    statusBadgeStyle = 'background: rgba(255,64,129,0.15); color: #ff4081; border: 1px solid #ff4081;';
+                } else if (stu.isExpired || (stu.expDate && new Date(stu.expDate).getTime() < Date.now()) || (stu.expiryDate && new Date(stu.expiryDate).getTime() < Date.now())) {
+                    statusBadgeText = 'EXPIRED';
+                    statusBadgeStyle = 'background: rgba(255,230,0,0.15); color: #ffe600; border: 1px solid #ffe600;';
+                }
+
+                const rawExpiry = stu.expDate || stu.expiryDate || stu.expirationDate;
+                const formattedExpiry = formatDisplayDate(rawExpiry);
+                const studentName = stu.studentName || stu.name || `Student #${index + 1}`;
+                const studentRefCode = stu.productCode || stu.schoolCode || stu.id || '';
+
+                card.innerHTML = `
+                    <div>
+                        <div style="font-size: 15px; font-weight: bold; color: #fff; margin-bottom: 4px;">
+                            ${escapeHtml(studentName.toUpperCase())}
+                        </div>
+                        <div style="font-size: 12px; color: #aaa;">
+                            Expiry: <span style="color: #00e5ff;">${escapeHtml(formattedExpiry)}</span>
+                            ${studentRefCode ? ` | Ref: <span style="color: #888; font-family: monospace;">${escapeHtml(studentRefCode)}</span>` : ''}
+                        </div>
+                    </div>
+                    <div>
+                        <span style="display: inline-block; padding: 4px 10px; border-radius: 4px; font-size: 11px; font-weight: bold; text-transform: uppercase; ${statusBadgeStyle}">
+                            ${statusBadgeText}
+                        </span>
+                    </div>
+                `;
+
+                card.onclick = () => selectStudentForTopup({
+                    ...stu,
+                    name: studentName,
+                    expDate: rawExpiry,
+                    status: statusBadgeText
+                });
+
+                listContainer.appendChild(card);
+            });
+
+            modal.style.display = 'flex';
+        }
+
+        // STEP 3: Student Selection Router (Coupon Top-Up vs Online Top-Up)
+        function selectStudentForTopup(student) {
+            selectedTopupStudent = student;
+
+            if (currentSubscriptionRoute === 'coupon') {
+                closeAllModals();
+                const modal = document.getElementById('existingCouponTopupModal');
+                const infoContainer = document.getElementById('topupSelectedStudentInfo');
+                
+                if (infoContainer) {
+                    infoContainer.innerHTML = `
+                        <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
+                            <span style="color:#aaa;">Student Name:</span>
+                            <strong style="color:#00e5ff;">${escapeHtml(student.name.toUpperCase())}</strong>
+                        </div>
+                        <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
+                            <span style="color:#aaa;">Current Expiry:</span>
+                            <strong style="color:#ffe600;">${escapeHtml(formatDisplayDate(student.expDate))}</strong>
+                        </div>
+                        <div style="display:flex; justify-content:space-between;">
+                            <span style="color:#aaa;">Account Status:</span>
+                            <strong style="color:${student.status === 'ACTIVE' ? '#00ff00' : student.status === 'EXPIRED' ? '#ffe600' : '#ff4081'};">${escapeHtml(student.status)}</strong>
+                        </div>
+                    `;
+                }
+                if (modal) modal.style.display = 'flex';
+            } else if (currentSubscriptionRoute === 'online') {
+                openDirectOnlineModal();
+            }
+        }
+
+        // STEP 4A: Submit Existing Coupon Top-Up
+        async function submitExistingCouponTopup(event) {
+            event.preventDefault();
+            if (!selectedTopupStudent) {
+                showColorfulAlert("Please select a student account first.", "Selection Required");
+                return;
+            }
+
+            const schoolCode = document.getElementById('topupSchoolCode').value.trim().toUpperCase();
+            const productCode = document.getElementById('topupProductCode').value.trim().toUpperCase();
+
+            if (!schoolCode || !productCode) {
+                showColorfulAlert("Please fill in both the School Code and Product Code.", "Input Required");
+                return;
+            }
+
+            if (!isValidSchoolCodeFormat(schoolCode) || !isValidProductCodeFormat(productCode)) {
+                showColorfulAlert("Please enter valid school code / product code formats.", "Invalid Code Format");
+                return;
+            }
+
+            let loadingEl = document.createElement('div');
+            loadingEl.id = 'topupLoadingOverlay';
+            loadingEl.style.cssText = 'display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(5,5,5,0.92); z-index:99999; justify-content:center; align-items:center; flex-direction:column; backdrop-filter: blur(6px);';
+            loadingEl.innerHTML = `
+                <div style="border: 5px solid #1a1a1a; border-top: 5px solid #00e5ff; border-right: 5px solid #00ff00; border-bottom: 5px solid #ffe600; border-radius: 50%; width: 70px; height: 70px; animation: spin 0.9s linear infinite;"></div>
+                <h3 style="color: #ffe600; margin-top: 25px; font-family: monospace; font-size: 17px; letter-spacing: 1px;">Validating code and extending subscription...</h3>
+            `;
+            document.body.appendChild(loadingEl);
+
+            try {
+                const targetEndpoint = `${getBaseApiUrl()}/api/coupons/topup`;
+                const response = await fetch(targetEndpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        schoolCode: schoolCode,
+                        productCode: productCode,
+                        studentId: selectedTopupStudent.id || selectedTopupStudent._id || selectedTopupStudent.username,
+                        studentName: selectedTopupStudent.name.toUpperCase(),
+                        phone: searchedPhone,
+                        whatsapp: selectedTopupStudent.parentWhatsapp || selectedTopupStudent.whatsapp || searchedPhone
+                    })
+                });
+
+                let result;
+                try {
+                    result = await response.json();
+                } catch (e) {
+                    result = null;
+                }
+
+                loadingEl.remove();
+
+                if (response.ok && result && result.success) {
+                    const newExpiryDateStr = result.newExpiryDate || (result.coupon && result.coupon.expDate) || result.expiryDate;
+                    const formattedNewExpiry = formatDisplayDate(newExpiryDateStr);
+
+                    // Update active session in localStorage if current active user matches topped-up student
+                    const currentLocalName = localStorage.getItem('studentName');
+                    if (currentLocalName && currentLocalName.trim().toUpperCase() === selectedTopupStudent.name.trim().toUpperCase()) {
+                        if (newExpiryDateStr) {
+                            localStorage.setItem('mrelorm_expiry', new Date(newExpiryDateStr).getTime());
+                        }
+                        localStorage.setItem('mrelorm_subscriber', 'true');
+                    }
+
+                    closeAllModals();
+
+                    showColorfulAlert(
+                        `Subscription for ${selectedTopupStudent.name.toUpperCase()} has been successfully extended!\n\n` +
+                        `📅 New Expiration Date: ${formattedNewExpiry}\n` +
+                        `🎟️ Applied Code: ${productCode}\n\n` +
+                        `Your learning arena access is active and ready to go.`,
+                        "Top-Up Successful",
+                        () => { 
+                            if (typeof AuthState !== 'undefined' && AuthState.initUI) {
+                                AuthState.initUI();
+                            }
+                            window.location.reload(); 
+                        }
+                    );
+                } else {
+                    showColorfulAlert(
+                        (result && result.message) ? result.message : "Failed to redeem top-up coupon. Please verify that your coupon is valid and unused.",
+                        "Top-Up Failed"
+                    );
+                }
+            } catch (err) {
+                loadingEl.remove();
+                showColorfulAlert(`Connection Error: ${err.message}. Please check your network and try again.`, "Network Error");
+            }
+        }
+
+        // STEP 4B: Online Plan Selection Handler (Handles New Subscriptions & Existing Account Top-Ups)
+        window.selectPlanOption = function(planType, amountInPesewas, planTitle, currency = 'GHS') {
+            const isLocal = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1');
+
+            if (isTopupMode && selectedTopupStudent) {
+                // Top-Up Mode Paystack Integration
+                const studentName = selectedTopupStudent.name.toUpperCase();
+                const studentEmail = selectedTopupStudent.email || `${studentName.toLowerCase().replace(/[^a-z0-9]/g, '')}@elormacademy.com`;
+                const studentPhone = selectedTopupStudent.parentWhatsapp || selectedTopupStudent.whatsapp || searchedPhone || '+233000000000';
+
+                if (typeof PaystackPop === 'undefined') {
+                    showColorfulAlert("Paystack payment library is currently loading. Please check your internet connection and try again.", "Payment Error");
+                    return;
+                }
+
+                const handler = PaystackPop.setup({
+                    key: isLocal ? 'pk_test_bb_dummy_key' : 'pk_live_bb_production_key',
+                    email: studentEmail,
+                    amount: amountInPesewas,
+                    currency: currency,
+                    metadata: {
+                        custom_fields: [
+                            { display_name: "Student Name", variable_name: "student_name", value: studentName },
+                            { display_name: "Operation", variable_name: "operation", value: "TOPUP" },
+                            { display_name: "Plan Type", variable_name: "plan_type", value: planType },
+                            { display_name: "Contact Number", variable_name: "phone_number", value: studentPhone },
+                            { display_name: "Student ID", variable_name: "student_id", value: selectedTopupStudent.id || '' }
+                        ]
+                    },
+                    callback: async function(response) {
+                        let loadingEl = document.createElement('div');
+                        loadingEl.id = 'paystackVerifyOverlay';
+                        loadingEl.style.cssText = 'display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(5,5,5,0.92); z-index:99999; justify-content:center; align-items:center; flex-direction:column; backdrop-filter: blur(6px);';
+                        loadingEl.innerHTML = `
+                            <div style="border: 5px solid #1a1a1a; border-top: 5px solid #00e5ff; border-right: 5px solid #ff4081; border-bottom: 5px solid #ffe600; border-radius: 50%; width: 70px; height: 70px; animation: spin 0.9s linear infinite;"></div>
+                            <h3 style="color: #00ff00; margin-top: 25px; font-family: monospace; font-size: 17px; letter-spacing: 1px;">Verifying payment & extending account...</h3>
+                        `;
+                        document.body.appendChild(loadingEl);
+
+                        try {
+                            const verifyRes = await fetch(`${getBaseApiUrl()}/api/paystack/verify-topup`, {
+                                method: 'POST',
+                                headers: { 'Content-Type': 'application/json' },
+                                body: JSON.stringify({
+                                    reference: response.reference,
+                                    studentId: selectedTopupStudent.id || '',
+                                    studentName: studentName,
+                                    email: studentEmail,
+                                    phone: studentPhone,
+                                    plan: planType,
+                                    amount: amountInPesewas
+                                })
+                            });
+
+                            const verifyResult = await verifyRes.json();
+                            loadingEl.remove();
+
+                            if (verifyRes.ok && verifyResult.success) {
+                                const newExpStr = verifyResult.newExpiryDate || verifyResult.expDate;
+                                const formattedNewExp = formatDisplayDate(newExpStr);
+
+                                const currentLocalName = localStorage.getItem('studentName');
+                                if (currentLocalName && currentLocalName.trim().toUpperCase() === studentName) {
+                                    if (newExpStr) localStorage.setItem('mrelorm_expiry', new Date(newExpStr).getTime());
+                                    localStorage.setItem('mrelorm_subscriber', 'true');
+                                }
+
+                                closeAllModals();
+
+                                showColorfulAlert(
+                                    `Payment Confirmed!\n\n` +
+                                    `Subscription for ${studentName} has been successfully extended with ${planTitle}.\n\n` +
+                                    `📅 New Expiration Date: ${formattedNewExp}\n` +
+                                    `💳 Reference: ${response.reference}`,
+                                    "Top-Up Successful",
+                                    () => { 
+                                        if (typeof AuthState !== 'undefined' && AuthState.initUI) {
+                                            AuthState.initUI();
+                                        }
+                                        window.location.reload(); 
+                                    }
+                                );
+                            } else {
+                                showColorfulAlert(
+                                    (verifyResult && verifyResult.message) ? verifyResult.message : "Payment received but account extension failed. Please contact support with reference: " + response.reference,
+                                    "Verification Notice"
+                                );
+                            }
+                        } catch (verErr) {
+                            loadingEl.remove();
+                            showColorfulAlert(`Verification network error: ${verErr.message}. Transaction Reference: ${response.reference}`, "Network Error");
+                        }
+                    },
+                    onClose: function() {
+                        showColorfulAlert("Payment window closed. Your account top-up was not completed.", "Payment Cancelled");
+                    }
+                });
+
+                handler.openIframe();
+            } else {
+                // New Subscriber Online Registration Route
+                const mainNameInput = document.getElementById('studentName');
+                const studentName = (mainNameInput && mainNameInput.value.trim()) ? mainNameInput.value.trim().toUpperCase() : 'BRIGHT & BOLD STUDENT';
+
+                if (typeof PaystackPop === 'undefined') {
+                    showColorfulAlert("Paystack payment library is loading. Please check your internet connection.", "Payment Error");
+                    return;
+                }
+
+                const handler = PaystackPop.setup({
+                    key: isLocal ? 'pk_test_bb_dummy_key' : 'pk_live_bb_production_key',
+                    email: 'student@elormacademy.com',
+                    amount: amountInPesewas,
+                    currency: currency,
+                    metadata: {
+                        custom_fields: [
+                            { display_name: "Student Name", variable_name: "student_name", value: studentName },
+                            { display_name: "Plan Type", variable_name: "plan_type", value: planType }
+                        ]
+                    },
+                    callback: function(response) {
+                        showColorfulAlert(`Payment successful! Reference: ${response.reference}. Setting up your full access...`, "Payment Success", () => {
+                            if (typeof AuthState !== 'undefined' && AuthState.initUI) {
+                                AuthState.initUI();
+                            }
+                            window.location.reload();
+                        });
+                    },
+                    onClose: function() {
+                        showColorfulAlert("Subscription payment cancelled.", "Payment Cancelled");
+                    }
+                });
+
+                handler.openIframe();
+            }
+        };
+
+        // STEP 4C: Restore Deleted Account Handler
+        async function submitRestoreAccount(event) {
+            event.preventDefault();
+            const schoolCode = document.getElementById('restoreSchoolCode').value.trim().toUpperCase();
+            const productCode = document.getElementById('restoreProductCode').value.trim().toUpperCase();
+
+            if (!schoolCode || !productCode) {
+                showColorfulAlert("Please enter both the School Code and Product Code.", "Input Required");
+                return;
+            }
+
+            if (!isValidSchoolCodeFormat(schoolCode) || !isValidProductCodeFormat(productCode)) {
+                showColorfulAlert("Please enter valid school code / product code formats.", "Invalid Code Format");
+                return;
+            }
+
+            let loadingEl = document.createElement('div');
+            loadingEl.id = 'restoreLoadingOverlay';
+            loadingEl.style.cssText = 'display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(5,5,5,0.92); z-index:99999; justify-content:center; align-items:center; flex-direction:column; backdrop-filter: blur(6px);';
+            loadingEl.innerHTML = `
+                <div style="border: 5px solid #1a1a1a; border-top: 5px solid #ffe600; border-right: 5px solid #00e5ff; border-bottom: 5px solid #00ff00; border-radius: 50%; width: 70px; height: 70px; animation: spin 0.9s linear infinite;"></div>
+                <h3 style="color: #ffe600; margin-top: 25px; font-family: monospace; font-size: 17px; letter-spacing: 1px;">Locating credentials and restoring account...</h3>
+            `;
+            document.body.appendChild(loadingEl);
+
+            try {
+                let targetEndpoint = `${getBaseApiUrl()}/api/restore-account`;
+                let response = await fetch(targetEndpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ schoolCode, productCode })
+                });
+
+                let result;
+                try { result = await response.json(); } catch (e) { result = null; }
+
+                if (!response.ok || !result || !result.success) {
+                    const fallbackRes = await fetch(`${getBaseApiUrl()}/api/check-subscription`, {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ schoolCode, productCode })
+                    });
+                    const fallbackData = await fallbackRes.json().catch(() => null);
+                    if (fallbackRes.ok && fallbackData && (fallbackData.status === 'active_subscription' || fallbackData.studentName)) {
+                        result = {
+                            success: true,
+                            studentName: fallbackData.studentName,
+                            email: fallbackData.email,
+                            schoolCode: fallbackData.schoolCode || schoolCode,
+                            productCode: fallbackData.productCode || productCode,
+                            whatsapp: fallbackData.whatsapp || fallbackData.phone,
+                            expires: fallbackData.expires,
+                            sessionToken: fallbackData.sessionToken
+                        };
+                        response = { ok: true };
+                    }
+                }
+
+                loadingEl.remove();
+
+                if (response.ok && result && (result.success || result.status === 'active_subscription')) {
+                    const restoredName = (result.studentName || (result.student && result.student.name) || (result.coupon && result.coupon.studentName) || 'STUDENT').toUpperCase();
+                    const restoredEmail = result.email || (result.student && result.student.email) || (result.coupon && result.coupon.redeemedBy) || 'restored@elormacademy.com';
+                    const restoredSchoolCode = result.schoolCode || schoolCode;
+                    const restoredProductCode = result.originalProductCode || result.productCode || productCode;
+                    const restoredWhatsapp = result.whatsapp || result.phone || (result.student && (result.student.parentWhatsapp || result.student.whatsapp)) || '';
+                    const restoredExpiry = result.expires ? parseInt(result.expires) : (result.coupon && result.coupon.expDate ? new Date(result.coupon.expDate).getTime() : Date.now() + (30 * 24 * 60 * 60 * 1000));
+
+                    localStorage.removeItem('bb_continuous_session_data');
+                    localStorage.removeItem('bb_last_active_timestamp');
+                    localStorage.removeItem('bb_session_start_timestamp');
+                    sessionStorage.clear();
+
+                    localStorage.setItem('mrelorm_subscriber', 'true');
+                    localStorage.setItem('mrelorm_email', restoredEmail);
+                    localStorage.setItem('schoolCode', restoredSchoolCode);
+                    localStorage.setItem('mrelorm_product_code', restoredProductCode);
+                    localStorage.setItem('mrelorm_plan', restoredProductCode);
+                    localStorage.setItem('studentName', restoredName);
+                    sessionStorage.setItem('currentStudentName', restoredName);
+                    localStorage.setItem('parentWhatsapp', restoredWhatsapp);
+                    localStorage.setItem('mrelorm_expiry', restoredExpiry);
+                    localStorage.setItem('mrelorm_session_token', result.sessionToken || 'restored_active_grace');
+
+                    closeAllModals();
+
+                    showColorfulAlert(
+                        `Account Restored Successfully!\n\n` +
+                        `👤 Student Name: ${restoredName}\n` +
+                        `🏫 School Code: ${restoredSchoolCode}\n` +
+                        `🎟️ Primary Code: ${restoredProductCode}\n` +
+                        `📅 Valid Expiry: ${formatDisplayDate(new Date(restoredExpiry))}\n\n` +
+                        `Your account has been fully restored with its original registration credentials and the arena is unlocked!`,
+                        "Account Restored",
+                        () => { 
+                            if (typeof AuthState !== 'undefined' && AuthState.initUI) {
+                                AuthState.initUI();
+                            }
+                            window.location.reload(); 
+                        }
+                    );
+                } else {
+                    showColorfulAlert(
+                        (result && result.message) ? result.message : "No matching active or linked credentials found for this School Code and Product Code pair.",
+                        "Restoration Failed"
+                    );
+                }
+            } catch (err) {
+                loadingEl.remove();
+                showColorfulAlert(`Connection Error: ${err.message}. Please check your network connection and try again.`, "Network Error");
+            }
+        }
+
+        // STEP 5: Intercept new coupon submission and launch Verification Modal
+        async function submitCoupon(event) {
+            event.preventDefault();
+            const studentName = document.getElementById('couponStudentName').value.trim().toUpperCase();
+            const schoolCode = document.getElementById('couponSchoolCode').value.trim().toUpperCase();
+            const productCode = document.getElementById('couponProductCode').value.trim().toUpperCase();
+            const email = document.getElementById('couponEmail').value.trim();
+            const whatsapp = document.getElementById('couponWhatsapp').value.trim();
+
+            if (!studentName) {
+                if (typeof showCustomPopup === 'function') showCustomPopup("Input Required", "Please enter the student's name.", "error");
+                return;
+            }
+
+            if (!schoolCode || !productCode || !email || !whatsapp) {
+                if (typeof showCustomPopup === 'function') showCustomPopup("Input Required", "Please fill in all required fields.", "error");
+                return;
+            }
+
+            if (!isValidSchoolCodeFormat(schoolCode) || !isValidProductCodeFormat(productCode)) {
+                if (typeof showCustomPopup === 'function') showCustomPopup("Invalid Code", "Enter correct school code / product code.", "error");
+                return;
+            }
+
+            const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+            if (!emailRegex.test(email)) {
+                if (typeof showCustomPopup === 'function') showCustomPopup("Invalid Format", "Invalid email format. Please enter a valid email address.", "error");
+                return;
+            }
+
+            const internationalPhoneRegex = /^\+[1-9]\d{7,14}$/;
+            if (!internationalPhoneRegex.test(whatsapp)) {
+                if (typeof showCustomPopup === 'function') showCustomPopup("Invalid Format", "Invalid phone number format. Must start with '+' followed by country code (e.g. +233241234567).", "error");
+                return;
+            }
+
+            closeAllModals();
+            showCouponVerificationModal({
+                schoolCode: schoolCode,
+                productCode: productCode,
+                email: email,
+                whatsapp: whatsapp,
+                studentName: studentName
+            });
+        }
+
+        // STEP 6: Injection of Verification Modal with Closures & Event Listeners
+        function showCouponVerificationModal(couponData) {
+            let existing = document.getElementById('couponVerificationModal');
+            if (existing) existing.remove();
+
+            const modal = document.createElement('div');
+            modal.id = 'couponVerificationModal';
+            modal.style.cssText = `
+                position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+                background: rgba(5,5,5,0.95); z-index: 15000;
+                display: flex; justify-content: center; align-items: center; backdrop-filter: blur(8px);
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            `;
+
+            modal.innerHTML = `
+                <div style="background:#0a0a0a; border:2px solid #00e5ff; border-radius:12px; padding:30px; width:90%; max-width:550px; box-shadow:0 0 30px rgba(0,229,255,0.25); color:#fff; position:relative; max-height:95vh; overflow-y:auto;">
+                    <h2 style="color:#ffe600; text-transform:uppercase; text-align:center; margin-top:0; font-size:20px; letter-spacing:1px;">Account & Credentials Verification</h2>
+                    
+                    <div style="background:#121212; border-left:4px solid #ff4081; padding:12px; border-radius:6px; margin-bottom:15px; font-size:13px; line-height:1.4;">
+                        <b style="color:#ff4081;">Important Notice:</b> Keep your <b>Reference / Coupon Number</b> safe! It is your primary point of reference whenever you contact us for any help or support.
+                    </div>
+
+                    <div style="background:#151515; border:1px solid #222; padding:15px; border-radius:6px; margin-bottom:15px;">
+                        <p style="margin:0 0 10px 0; font-size:14px; color:#ccc;">Please verify your details:</p>
+                        
+                        <div style="margin-bottom:10px; font-size:14px; display:flex; justify-content:space-between; align-items:center; background:#111; padding:8px 10px; border-radius:4px; border:1px solid #333;">
+                            <strong>Reference / Coupon No:</strong> 
+                            <span id="verifyCouponCodeDisplay" style="color:#00e5ff; font-family:monospace; font-weight:bold;">${escapeHtml(couponData.productCode)}</span>
+                        </div>
+
+                        <div style="margin-bottom:8px; font-size:14px; display:flex; justify-content:space-between; align-items:center;">
+                            <strong>Student Name:</strong> <span id="verifyNameDisplay" style="color:#00e5ff;">${escapeHtml(couponData.studentName)}</span>
+                        </div>
+
+                        <div style="margin-bottom:8px; font-size:14px; display:flex; justify-content:space-between; align-items:center;">
+                            <strong>Email Address:</strong> <span id="verifyEmailDisplay" style="color:#00e5ff;">${escapeHtml(couponData.email)}</span>
+                        </div>
+
+                        <div style="margin-bottom:12px; font-size:14px; display:flex; justify-content:space-between; align-items:center;">
+                            <strong>Phone Number:</strong> <span id="verifyPhoneDisplay" style="color:#00e5ff;">${escapeHtml(couponData.whatsapp)}</span>
+                        </div>
+
+                        <div style="display:flex; justify-content:space-between; align-items:center; border-top:1px solid #222; padding-top:10px;">
+                            <span style="font-size:12px; color:#888;">Is this correct?</span>
+                            <button type="button" id="couponChangeBtn" style="background:transparent; border:1px solid #ffe600; color:#ffe600; padding:6px 12px; border-radius:4px; font-size:12px; font-weight:bold; cursor:pointer; text-transform:uppercase;">CHANGE NOW</button>
+                        </div>
+                    </div>
+
+                    <div style="margin-bottom:15px;">
+                        <button type="button" id="saveCouponCredsBtn" style="width:100%; background:transparent; border:2px dashed #ffe600; color:#ffe600; padding:10px; font-weight:bold; font-size:13px; border-radius:6px; cursor:pointer; text-transform:uppercase;">
+                            📥 SAVE CREDENTIALS TO DEVICE (TXT FILE)
+                        </button>
+                    </div>
+
+                    <div style="margin-bottom:20px; display:flex; align-items:flex-start; gap:10px; background:#111; padding:12px; border-radius:6px; border:1px solid #333;">
+                        <input type="checkbox" id="couponConfirmCheckbox" style="margin-top:3px; width:18px; height:18px; accent-color:#00e5ff; cursor:pointer;">
+                        <label for="couponConfirmCheckbox" style="font-size:13px; color:#ddd; cursor:pointer; line-height:1.4;">
+                            I confirm that all information provided is correct and understand the reference and modification policies.
+                        </label>
+                    </div>
+
+                    <div style="display: flex; gap: 10px;">
+                        <button type="button" id="couponBackBtn" style="flex: 1; background: #333; color: #fff; border: 1px solid #555; padding: 14px; font-weight: bold; font-size: 13px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">BACK</button>
+                        <button type="button" id="couponCancelBtn" style="flex: 1; background: #222; color: #ff4081; border: 1px solid #ff4081; padding: 14px; font-weight: bold; font-size: 13px; border-radius: 6px; cursor: pointer; text-transform: uppercase;">CANCEL</button>
+                        <button type="button" id="couponProceedBtn" style="flex: 2; background:#00e5ff; color:#050505; border:none; padding:14px; font-weight:bold; font-size:14px; border-radius:6px; cursor:pointer; text-transform:uppercase; letter-spacing:1px; box-shadow:0 0 15px rgba(0,229,255,0.4);">OK / PROCEED</button>
+                    </div>
+                </div>
+            `;
+
+            document.body.appendChild(modal);
+
+            document.getElementById('couponChangeBtn').onclick = () => openCouponChangeModal(couponData);
+            document.getElementById('saveCouponCredsBtn').onclick = () => saveCouponCredentialsAsFile(couponData);
+            document.getElementById('couponBackBtn').onclick = () => {
+                modal.remove();
+                const nameInput = document.getElementById('couponStudentName');
+                const schoolInput = document.getElementById('couponSchoolCode');
+                const productInput = document.getElementById('couponProductCode');
+                const emailInput = document.getElementById('couponEmail');
+                const whatsappInput = document.getElementById('couponWhatsapp');
+
+                if (nameInput) nameInput.value = couponData.studentName || '';
+                if (schoolInput) schoolInput.value = couponData.schoolCode || '';
+                if (productInput) productInput.value = couponData.productCode || '';
+                if (emailInput) emailInput.value = couponData.email || '';
+                if (whatsappInput) whatsappInput.value = couponData.whatsapp || '';
+
+                const couponModal = document.getElementById('couponModal');
+                if (couponModal) couponModal.style.display = 'flex';
+            };
+            document.getElementById('couponCancelBtn').onclick = () => closeAllModals();
+            document.getElementById('couponProceedBtn').onclick = () => finalizeCouponRedemption(couponData);
+        }
+
+        function openCouponChangeModal(couponData) {
+            let existing = document.getElementById('couponChangeModal');
+            if (existing) existing.remove();
+
+            const changeModal = document.createElement('div');
+            changeModal.id = 'couponChangeModal';
+            changeModal.style.cssText = `
+                position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+                background: rgba(5,5,5,0.85); z-index: 18000;
+                display: flex; justify-content: center; align-items: center; backdrop-filter: blur(5px);
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            `;
+
+            changeModal.innerHTML = `
+                <div style="background:#0e0e0e; border:2px solid #00e5ff; border-radius:10px; padding:25px; width:90%; max-width:450px; color:#fff;">
+                    <h3 style="color:#ffe600; margin-top:0; text-transform:uppercase; font-size:18px; text-align:center;">Update Contact Details</h3>
+                    
+                    <div style="margin-bottom:12px;">
+                        <label style="display:block; font-size:13px; color:#aaa; margin-bottom:4px;">Student Name:</label>
+                        <input type="text" id="couponModalInputName" value="${escapeHtml(couponData.studentName)}" oninput="this.value = this.value.toUpperCase()" style="width:100%; padding:10px; background:#181818; border:1px solid #00e5ff; color:#fff; border-radius:5px; box-sizing:border-box; outline:none;">
+                    </div>
+
+                    <div style="margin-bottom:12px;">
+                        <label style="display:block; font-size:13px; color:#aaa; margin-bottom:4px;">Email Address:</label>
+                        <input type="email" id="couponModalInputEmail" value="${escapeHtml(couponData.email)}" style="width:100%; padding:10px; background:#181818; border:1px solid #00e5ff; color:#fff; border-radius:5px; box-sizing:border-box; outline:none;">
+                    </div>
+
+                    <div style="margin-bottom:15px;">
+                        <label style="display:block; font-size:13px; color:#aaa; margin-bottom:4px;">WhatsApp Number:</label>
+                        <input type="text" id="couponModalInputPhone" value="${escapeHtml(couponData.whatsapp)}" placeholder="+233241234567" style="width:100%; padding:10px; background:#181818; border:1px solid #00e5ff; color:#fff; border-radius:5px; box-sizing:border-box; outline:none;">
+                    </div>
+
+                    <div style="display:flex; gap:10px;">
+                        <button type="button" id="saveCouponChangeBtn" style="flex:1; background:#00e5ff; color:#050505; border:none; padding:10px; font-weight:bold; border-radius:5px; cursor:pointer; text-transform:uppercase;">Save Changes</button>
+                        <button type="button" id="cancelCouponChangeBtn" style="flex:1; background:transparent; border:1px solid #555; color:#aaa; padding:10px; font-weight:bold; border-radius:5px; cursor:pointer; text-transform:uppercase;">Cancel</button>
+                    </div>
+                </div>
+            `;
+
+            document.body.appendChild(changeModal);
+
+            document.getElementById('saveCouponChangeBtn').onclick = () => {
+                const newName = document.getElementById('couponModalInputName').value.trim().toUpperCase();
+                const newEmail = document.getElementById('couponModalInputEmail').value.trim();
+                const newPhone = document.getElementById('couponModalInputPhone').value.trim();
+
+                const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                const internationalPhoneRegex = /^\+[1-9]\d{7,14}$/;
+
+                if (!newName) {
+                    showColorfulAlert("Please enter a valid student name.", "Validation Error");
+                    return;
+                }
+
+                if (!emailRegex.test(newEmail)) {
+                    showColorfulAlert("Please enter a valid email address format.", "Validation Error");
+                    return;
+                }
+
+                if (!internationalPhoneRegex.test(newPhone)) {
+                    showColorfulAlert("Invalid phone number format. Must start with '+' followed by country code (e.g. +233241234567).", "Validation Error");
+                    return;
+                }
+
+                couponData.studentName = newName;
+                couponData.email = newEmail;
+                couponData.whatsapp = newPhone;
+
+                document.getElementById('verifyNameDisplay').innerText = newName;
+                document.getElementById('verifyEmailDisplay').innerText = newEmail;
+                document.getElementById('verifyPhoneDisplay').innerText = newPhone;
+
+                changeModal.remove();
+                showColorfulAlert("Contact details updated successfully.", "Success");
+            };
+
+            document.getElementById('cancelCouponChangeBtn').onclick = () => changeModal.remove();
+        }
+
+        function saveCouponCredentialsAsFile(data) {
+            const fileContent = `========================================\n` +
+                                `BRIGHT & BOLD - ACCOUNT CREDENTIALS\n` +
+                                `========================================\n` +
+                                `Reference / Coupon No : ${data.productCode}\n` +
+                                `Student Name          : ${data.studentName}\n` +
+                                `Email Address         : ${data.email}\n` +
+                                `WhatsApp Number       : ${data.whatsapp}\n` +
+                                `========================================\n` +
+                                `Keep this file safe! It is your primary reference for support.\n`;
+
+            const blob = new Blob([fileContent], { type: 'text/plain;charset=utf-8' });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `BrightAndBold_Credentials_${data.productCode}.txt`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        async function finalizeCouponRedemption(data) {
+            const checkbox = document.getElementById('couponConfirmCheckbox');
+            if (!checkbox.checked) {
+                showColorfulAlert("Please check the confirmation box to confirm your information is correct before proceeding.", "Required Confirmation");
+                return;
+            }
+
+            let loadingEl = document.createElement('div');
+            loadingEl.id = 'redeemLoadingOverlay';
+            loadingEl.style.cssText = 'display:flex; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(5,5,5,0.92); z-index:99999; justify-content:center; align-items:center; flex-direction:column; backdrop-filter: blur(6px);';
+            loadingEl.innerHTML = `
+                <div style="border: 5px solid #1a1a1a; border-top: 5px solid #00e5ff; border-right: 5px solid #ff4081; border-bottom: 5px solid #ffe600; border-radius: 50%; width: 70px; height: 70px; animation: spin 0.9s linear infinite; box-shadow: 0 0 25px rgba(0,229,255,0.4);"></div>
+                <h3 style="color: #ffe600; margin-top: 25px; font-family: monospace; font-size: 18px; letter-spacing: 1.5px; animation: pulseGlow 1.5s infinite;">Activating coupon & registering account... Please wait...</h3>
+            `;
+            document.body.appendChild(loadingEl);
+
+            try {
+                localStorage.removeItem('bb_continuous_session_data');
+                localStorage.removeItem('bb_last_active_timestamp');
+                localStorage.removeItem('bb_session_start_timestamp');
+                sessionStorage.clear();
+
+                localStorage.removeItem('mrelorm_subscriber');
+                localStorage.removeItem('mrelorm_plan');
+                localStorage.removeItem('mrelorm_product_code');
+                localStorage.removeItem('schoolCode');
+                localStorage.removeItem('mrelorm_session_token');
+                localStorage.removeItem('mrelorm_email');
+                localStorage.removeItem('studentName');
+                localStorage.removeItem('parentWhatsapp');
+
+                const targetEndpoint = `${getBaseApiUrl()}/api/coupons/redeem`;
+                const response = await fetch(targetEndpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        schoolCode: data.schoolCode,
+                        productCode: data.productCode,
+                        email: data.email,
+                        whatsapp: data.whatsapp,
+                        studentName: data.studentName.toUpperCase()
+                    })
+                });
+
+                const textResponse = await response.text();
+                let result;
+                try {
+                    result = JSON.parse(textResponse);
+                } catch (jsonErr) {
+                    loadingEl.remove();
+                    if (typeof showCustomPopup === 'function') {
+                        showCustomPopup("Server Error", "Server returned invalid data format.", "error");
+                    }
+                    return;
+                }
+
+                loadingEl.remove();
+
+                if (response.ok && result.success) {
+                    const restoredStudentName = (result.coupon && result.coupon.studentName) ? result.coupon.studentName.toUpperCase() : data.studentName.toUpperCase();
+                    const restoredEmail = (result.coupon && result.coupon.redeemedBy) ? result.coupon.redeemedBy : data.email;
+                    const resolvedSchoolCode = (result.coupon && result.coupon.schoolCode) ? result.coupon.schoolCode : data.schoolCode;
+                    const resolvedWhatsapp = (result.coupon && result.coupon.whatsapp) ? result.coupon.whatsapp : data.whatsapp;
+
+                    localStorage.setItem('mrelorm_subscriber', 'true');
+                    localStorage.setItem('mrelorm_email', restoredEmail);
+                    localStorage.setItem('schoolCode', resolvedSchoolCode);
+                    localStorage.setItem('mrelorm_product_code', data.productCode);
+                    localStorage.setItem('mrelorm_plan', data.productCode);
+                    localStorage.setItem('studentName', restoredStudentName);
+                    localStorage.setItem('parentWhatsapp', resolvedWhatsapp);
+                    localStorage.setItem('mrelorm_session_token', result.sessionToken || 'restored_active_grace');
+
+                    if (result.coupon && result.coupon.expDate) {
+                        localStorage.setItem('mrelorm_expiry', new Date(result.coupon.expDate).getTime());
+                    } else {
+                        localStorage.setItem('mrelorm_expiry', Date.now() + (30 * 24 * 60 * 60 * 1000));
+                    }
+
+                    const modal = document.getElementById('couponVerificationModal');
+                    if (modal) modal.remove();
+
+                    if (typeof showCustomPopup === 'function') {
+                        showCustomPopup("Success", "Coupon validation successful! Full access unlocked.", "success", () => {
+                            closeAllModals();
+                            if (typeof AuthState !== 'undefined' && AuthState.initUI) {
+                                AuthState.initUI();
+                            }
+                            window.location.reload();
+                        });
+                    }
+                } else {
+                    if (typeof showCustomPopup === 'function') {
+                        showCustomPopup("Verification Failed", result.message || `Server Error (${response.status}): Failed to redeem coupon.`, "error");
+                    }
+                }
+            } catch (err) {
+                loadingEl.remove();
+                if (typeof showCustomPopup === 'function') {
+                    showCustomPopup("Connection Error", `Network Exception: ${err.message}.`, "error");
+                }
+            }
+        }
+    </script>
+    <script src="js/sessionTracker.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

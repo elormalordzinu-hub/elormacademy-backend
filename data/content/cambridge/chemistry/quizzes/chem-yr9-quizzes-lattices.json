@@ -1,0 +1,166 @@
+{
+  "id": "chem-yr9-quizzes-lattices",
+  "name": "Structure of giant covalent lattices",
+  "questions": [
+    {
+      "q": "What is a giant covalent structure (macromolecule)?",
+      "a": ["A vast 3D network of atoms all joined together by strong covalent bonds", "A collection of small separate molecules held by weak forces", "A sea of delocalized electrons around metal ions", "An ionic crystal lattice of alternating charges"],
+      "correct": 0
+    },
+    {
+      "q": "Why do giant covalent structures (like diamond and silicon dioxide) have extremely high melting and boiling points?",
+      "a": ["They are made of gases", "A vast amount of thermal energy is required to break the massive number of strong covalent bonds throughout the entire lattice", "They contain weak intermolecular forces", "They have mobile ions"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is an allotrope of carbon that consists of a giant covalent tetrahedral network, making it the hardest naturally occurring substance known?",
+      "a": ["Graphite", "Buckminsterfullerene", "Diamond", "Amorphous carbon"],
+      "correct": 2
+    },
+    {
+      "q": "Why does graphite conduct electricity while diamond does not, even though both are made entirely of carbon atoms?",
+      "a": ["Graphite contains metal ions", "Diamond has free electrons", "Graphite is a liquid", "In graphite, each carbon atom forms three bonds, leaving one unbonded valence electron per atom that becomes delocalized between layers to carry current"],
+      "correct": 3
+    },
+    {
+      "q": "What is the physical property of graphite that makes it useful as a lubricant and in pencil lead?",
+      "a": ["Its layers of carbon atoms can slide over one another easily because only weak forces hold the layers together", "It is extremely hard and brittle", "It dissolves easily in water", "It melts at room temperature"],
+      "correct": 0
+    },
+    {
+      "q": "What is the chemical formula and structure of quartz/sand (silicon dioxide)?",
+      "a": ["SiO2, existing as small discrete gas molecules", "SiO2, possessing a giant covalent lattice structure similar to diamond", "Si2O3, existing as a soft ionic liquid", "Si, a pure metallic solid"],
+      "correct": 1
+    },
+    {
+      "q": "Why is diamond unable to conduct electricity in any state?",
+      "a": ["It has too many protons", "It dissolves in water", "All four outer electrons of each carbon atom are tightly locked in single covalent bonds, leaving no free or delocalized charges", "It is a gas at room temperature"],
+      "correct": 2
+    },
+    {
+      "q": "What is the structural arrangement of carbon atoms in a single layer of graphite?",
+      "a": ["Tetrahedral pyramids", "Random chains", "Octahedral cages", "Interlocking hexagonal rings"],
+      "correct": 3
+    },
+    {
+      "q": "What type of forces exist between the parallel layers of carbon atoms in graphite?",
+      "a": ["Weak intermolecular forces (van der Waals forces)", "Strong covalent bonds", "Ionic bonds", "Metallic bonds"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following giant covalent substances is commonly used to make cutting tools, drill bits, and jewelry due to its extreme hardness?",
+      "a": ["Graphite", "Diamond", "Sulfur", "Wax"],
+      "correct": 1
+    },
+    {
+      "q": "Why are giant covalent substances generally insoluble in water and organic solvents?",
+      "a": ["They dissolve into ionic gases", "They react violently to form acids", "The covalent bonds within the giant lattice are far too strong for any solvent molecules to break apart", "They are made of liquid solutions"],
+      "correct": 2
+    },
+    {
+      "q": "In a crystal of silicon dioxide (silica), how many oxygen atoms are bonded to each silicon atom, and how many silicon atoms are bonded to each oxygen atom?",
+      "a": ["1 silicon to 1 oxygen", "1 silicon to 2 oxygen atoms, and each oxygen is bonded to 2 silicon atoms", "4 silicons to 4 oxygens", "2 silicons to 1 oxygen"],
+      "correct": 3
+    },
+    {
+      "q": "What is Buckminsterfullerene (C60)?",
+      "a": ["A spherical fullerene molecule made of 60 carbon atoms arranged in pentagons and hexagons", "A giant ionic salt crystal", "A tetrahedral diamond lattice", "A linear polymer chain"],
+      "correct": 0
+    },
+    {
+      "q": "Why does silicon dioxide (sand) have a high melting point (around 1710°C)?",
+      "a": ["It is held by weak intermolecular forces", "Breaking the giant network requires supplying enough energy to snap countless strong silicon-oxygen covalent bonds", "It contains free electrons", "It is an ionic liquid"],
+      "correct": 1
+    },
+    {
+      "q": "How many covalent bonds does each carbon atom form in a diamond crystal lattice?",
+      "a": ["Two single bonds", "Three bonds (one double, two single)", "Four single covalent bonds arranged in a tetrahedral shape", "Zero bonds"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following materials is a form of pure carbon consisting of a single layer of graphite, known for being incredibly strong and lightweight?",
+      "a": ["Silica", "Glass", "Quartz", "Graphene"],
+      "correct": 3
+    },
+    {
+      "q": "Why can graphite be used effectively as the electrode in electrolysis cells?",
+      "a": ["Because it conducts electricity well due to delocalized electrons and is chemically unreactive (inert)", "Because it melts easily into liquid metal", "Because it dissolves in the electrolyte", "Because it contains ionic bonds"],
+      "correct": 0
+    },
+    {
+      "q": "What accounts for the difference in hardness between diamond and graphite, even though both are composed solely of carbon?",
+      "a": ["Diamond is ionic while graphite is covalent", "Diamond has a rigid 3D tetrahedral network with no planes of weakness, whereas graphite has layered planes held by weak forces that slide easily", "Graphite has stronger bonds than diamond", "Graphite contains hydrogen impurities"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances features a giant covalent structure?",
+      "a": ["Sodium chloride", "Water", "Silicon dioxide (sand)", "Methane"],
+      "correct": 2
+    },
+    {
+      "q": "What is the term for different structural modifications of the same element, such as diamond and graphite?",
+      "a": ["Isomers", "Isotopes", "Ions", "Allotropes"],
+      "correct": 3
+    },
+    {
+      "q": "How does the density of diamond compare to that of graphite?",
+      "a": ["Diamond is denser because its atoms are packed more tightly in a compact 3D tetrahedral lattice", "Graphite is much denser than diamond", "They have identical densities", "Diamond has zero density"],
+      "correct": 0
+    },
+    {
+      "q": "Why is silicon dioxide hard and brittle, unlike metals which are malleable?",
+      "a": ["It is made of soft molecules", "Its rigid covalent network prevents atoms from sliding past one another; applying heavy force snaps the covalent bonds, fracturing the crystal", "It contains mobile electrons", "It melts under pressure"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following is true regarding the thermal conductivity of diamond?",
+      "a": ["It is a poor thermal conductor", "It conducts heat worse than wood", "It is an exceptionally good thermal conductor due to the rigid transmission of atomic vibrations through its lattice", "It absorbs all heat and melts"],
+      "correct": 2
+    },
+    {
+      "q": "What is the coordination number of carbon (how many other carbon atoms are bonded to each carbon) in a diamond lattice?",
+      "a": ["2", "3", "6", "4"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following carbon nanostructures is shaped like a tiny hollow cylinder and possesses immense tensile strength and electrical conductivity?",
+      "a": ["Carbon nanotube", "Diamond crystal", "Carbon dioxide molecule", "Buckyball cluster"],
+      "correct": 0
+    },
+    {
+      "q": "Why do giant covalent lattices fail to dissolve in water?",
+      "a": ["Water molecules are non-polar", "Water molecules cannot form attractions strong enough to break the immense network of covalent bonds in the lattice", "Water reacts to turn them into gases", "They dissolve instantly into ions"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary reason why graphite leaves a dark mark on paper when used in a pencil?",
+      "a": ["It is wet ink", "It burns the paper", "Friction causes the weak forces between layers to break, leaving thin flakes of carbon layers stuck to the paper", "It undergoes chemical reaction with cellulose"],
+      "correct": 2
+    },
+    {
+      "q": "In terms of electrical conductivity, how does silicon dioxide compare to graphite?",
+      "a": ["Silicon dioxide conducts better than graphite", "Both conduct electricity equally well", "Graphite conducts electricity, whereas silicon dioxide is an electrical insulator", "Both are liquid semiconductors"],
+      "correct": 3
+    },
+    {
+      "q": "Which of the following statements correctly describes the bonding in silicon carbide (carborundum, SiC), which has a structure similar to diamond?",
+      "a": ["It consists of a giant covalent network of alternating silicon and carbon atoms joined by strong covalent bonds", "It is an ionic salt lattice", "It is a simple molecular gas", "It is a liquid metal"],
+      "correct": 0
+    },
+    {
+      "q": "Why can fullerenes (such as C60) dissolve in some organic solvents (like benzene) unlike diamond or graphite?",
+      "a": ["They have ionic charges", "They consist of distinct, large molecules with weak intermolecular forces between individual spheres, rather than an infinite infinite lattice", "They contain water molecules", "They are liquids at room temperature"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the electrical conductivity of graphite if an electric current is applied parallel to its carbon layers versus perpendicular to them?",
+      "a": ["It conducts in all directions equally", "It never conducts", "It conducts well parallel to the layers (where electrons move freely), but poorly perpendicular to the layers", "It explodes"],
+      "correct": 2
+    },
+    {
+      "q": "Which element directly below carbon in Group 4 also forms a giant covalent lattice with a diamond-like structure used in semiconductor chips?",
+      "a": ["Lead", "Tin", "Carbon", "Silicon"],
+      "correct": 3
+    }
+  ]
+}

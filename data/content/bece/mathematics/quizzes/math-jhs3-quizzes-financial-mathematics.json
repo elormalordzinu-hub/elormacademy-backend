@@ -1,0 +1,206 @@
+{
+"id": "math-jhs3-quizzes-financial-mathematics",
+"name": "Financial Mathematics",
+"questions": [
+{
+"q": "What term refers to the extra money paid or earned for borrowing or investing a sum of money over a specific period?",
+"a": ["Interest", "Principal", "Discount", "Tax"],
+"correct": 0
+},
+{
+"q": "If the principal amount is GH¢ 500, the rate is 10% per annum, and the time is 2 years, what is the simple interest?",
+"a": ["GH¢ 50", "GH¢ 100", "GH¢ 150", "GH¢ 200"],
+"correct": 1
+},
+{
+"q": "What do we call the original amount of money borrowed or invested before any interest is added?",
+"a": ["Profit", "Amount", "Principal", "Dividend"],
+"correct": 2
+},
+{
+"q": "Which formula is used to calculate simple interest (I)?",
+"a": ["I = P + r + t", "I = P(1 + rt)", "I = Prt / 100", "I = A - P"],
+"correct": 3
+},
+{
+"q": "An article bought for GH¢ 80 is sold for GH¢ 100. What is the profit made on the article?",
+"a": ["GH¢ 20", "GH¢ 80", "GH¢ 180", "GH¢ 25"],
+"correct": 0
+},
+{
+"q": "A trader sells a bicycle for GH¢ 300, incurring a loss of GH¢ 50. What was the cost price of the bicycle?",
+"a": ["GH¢ 250", "GH¢ 350", "GH¢ 300", "GH¢ 400"],
+"correct": 1
+},
+{
+"q": "How is percentage profit calculated?",
+"a": ["(Cost Price / Profit) × 100%", "(Selling Price / Profit) × 100%", "(Profit / Cost Price) × 100%", "(Profit / Selling Price) × 100%"],
+"correct": 2
+},
+{
+"q": "If a shirt with a marked price of GH¢ 120 is sold at a 15% discount, how much is the discount amount?",
+"a": ["GH¢ 10", "GH¢ 15", "GH¢ 25", "GH¢ 18"],
+"correct": 3
+},
+{
+"q": "Value Added Tax (VAT) in Ghana is typically charged as a percentage of what value?",
+"a": ["The taxable value of goods and services", "The total simple interest", "The depreciation value", "The principal investment"],
+"correct": 0
+},
+{
+"q": "If the cost price of an item is GH¢ 200 and it is sold at a profit of 20%, what is the selling price?",
+"a": ["GH¢ 220", "GH¢ 240", "GH¢ 260", "GH¢ 300"],
+"correct": 1
+},
+{
+"q": "What is the total amount (A) to be paid back after borrowing GH¢ 1,000 for 3 years at a simple interest rate of 5% per annum?",
+"a": ["GH¢ 1,050", "GH¢ 1,100", "GH¢ 1,150", "GH¢ 1,250"],
+"correct": 2
+},
+{
+"q": "A shopkeeper reduces the price of a radio from GH¢ 150 to GH¢ 120. What is the percentage decrease in price?",
+"a": ["10%", "15%", "25%", "20%"],
+"correct": 3
+},
+{
+"q": "If principal P = GH¢ 2,000, interest rate r = 5% per annum, and simple interest earned is GH¢ 300, for how many years was the money invested?",
+"a": ["3 years", "2 years", "4 years", "5 years"],
+"correct": 0
+},
+{
+"q": "What term describes the decrease in the value of an asset over time due to wear and tear?",
+"a": ["Appreciation", "Depreciation", "Inflation", "Compound interest"],
+"correct": 1
+},
+{
+"q": "If a machine bought for GH¢ 5,000 depreciates by 10% in its first year, what is its value at the end of the year?",
+"a": ["GH¢ 4,000", "GH¢ 4,300", "GH¢ 4,500", "GH¢ 4,800"],
+"correct": 2
+},
+{
+"q": "A trader marks up an article costing GH¢ 80 by 25% before selling it. What is the marked price?",
+"a": ["GH¢ 90", "GH¢ 95", "GH¢ 105", "GH¢ 100"],
+"correct": 3
+},
+{
+"q": "Compound interest differs from simple interest because in compound interest:",
+"a": ["Interest is calculated on the accumulated amount of previous periods", "Interest is always lower than simple interest", "The principal never changes", "The rate of interest decreases annually"],
+"correct": 0
+},
+{
+"q": "If you invest GH¢ 400 at a simple interest rate of 5% per year, how long will it take for the simple interest to reach GH¢ 100?",
+"a": ["3 years", "5 years", "4 years", "6 years"],
+"correct": 1
+},
+{
+"q": "A worker's monthly salary is GH¢ 1,200. If taxes and deductions amount to 15%, what is the worker's net monthly salary?",
+"a": ["GH¢ 950", "GH¢ 1,000", "GH¢ 1,020", "GH¢ 1,050"],
+"correct": 2
+},
+{
+"q": "What is the term for money paid to an employee as a percentage of the total sales they make for a business?",
+"a": ["Dividend", "Wage", "Bonus", "Commission"],
+"correct": 3
+},
+{
+"q": "A sales agent earns a 5% commission on all electronics sold. If she sells goods worth GH¢ 4,000, what is her commission?",
+"a": ["GH¢ 200", "GH¢ 150", "GH¢ 250", "GH¢ 300"],
+"correct": 0
+},
+{
+"q": "If an item is sold for GH¢ 72 after a discount of 10% was applied to its marked price, what was the original marked price?",
+"a": ["GH¢ 75", "GH¢ 80", "GH¢ 85", "GH¢ 90"],
+"correct": 1
+},
+{
+"q": "A man deposits GH¢ 2,500 in a bank paying simple interest. After 4 years, the total amount in his account is GH¢ 3,000. What was the annual interest rate?",
+"a": ["4%", "6%", "5%", "8%"],
+"correct": 2
+},
+{
+"q": "What is the term used to describe goods brought into a country from abroad, which may attract customs duties or taxes?",
+"a": ["Exports", "Subsidies", "Rebates", "Imports"],
+"correct": 3
+},
+{
+"q": "If the rate of inflation is 8% per year, and a loaf of bread costs GH¢ 5.00 today, what is expected to be its approximate price next year due to inflation?",
+"a": ["GH¢ 5.40", "GH¢ 5.50", "GH¢ 5.25", "GH¢ 6.00"],
+"correct": 0
+},
+{
+"q": "A jacket is bought for GH¢ 150 and sold at a loss of 10%. What is the selling price?",
+"a": ["GH¢ 140", "GH¢ 135", "GH¢ 130", "GH¢ 125"],
+"correct": 1
+},
+{
+"q": "Which of the following represents the formula for calculating the total amount (A) using simple interest?",
+"a": ["A = P - I", "A = P × I × t", "A = P + I", "A = P(1 - rt)"],
+"correct": 2
+},
+{
+"q": "If a mobile phone is sold for GH¢ 600 at a profit of 25% on the cost price, what was the cost price of the phone?",
+"a": ["GH¢ 500", "GH¢ 450", "GH¢ 550", "GH¢ 480"],
+"correct": 3
+},
+{
+"q": "Find the simple interest on GH¢ 1,500 at 8% per annum for 9 months.",
+"a": ["GH¢ 90", "GH¢ 120", "GH¢ 150", "GH¢ 100"],
+"correct": 0
+},
+{
+"q": "An investor places GH¢ 5,000 in a fixed deposit account at 12% simple interest per year. How much interest is earned in 6 months?",
+"a": ["GH¢ 600", "GH¢ 300", "GH¢ 250", "GH¢ 450"],
+"correct": 1
+},
+{
+"q": "If a shop offers a 20% discount on a television set marked at GH¢ 1,000, how much does the customer pay?",
+"a": ["GH¢ 750", "GH¢ 700", "GH¢ 800", "GH¢ 850"],
+"correct": 2
+},
+{
+"q": "What do we call a share of the profits distributed by a company to its shareholders?",
+"a": ["Interest", "Tax", "Loan principal", "Dividend"],
+"correct": 3
+},
+{
+"q": "If a basket of yams is bought for GH¢ 40 and sold for GH¢ 50, what is the percentage profit?",
+"a": ["25%", "20%", "15%", "30%"],
+"correct": 0
+},
+{
+"q": "A car depreciates in value from GH¢ 20,000 to GH¢ 16,000 over a year. What is the percentage depreciation?",
+"a": ["15%", "20%", "25%", "10%"],
+"correct": 1
+},
+{
+"q": "If the simple interest on a certain principal for 2 years at 5% per annum is GH¢ 80, what is the principal amount?",
+"a": ["GH¢ 600", "GH¢ 700", "GH¢ 800", "GH¢ 1,000"],
+"correct": 2
+},
+{
+"q": "What is the term for a fixed regular payment made by an employer to an employee, typically expressed as an annual sum paid monthly?",
+"a": ["Commission", "Fee", "Dividend", "Salary"],
+"correct": 3
+},
+{
+"q": "A storekeeper buys 50 exercise books at GH¢ 2.00 each and sells all of them for GH¢ 150 total. What is the total profit?",
+"a": ["GH¢ 50", "GH¢ 40", "GH¢ 60", "GH¢ 30"],
+"correct": 0
+},
+{
+"q": "If a property tax is charged at 2% of a house's assessed value of GH¢ 80,000, how much tax is owed?",
+"a": ["GH¢ 800", "GH¢ 1,600", "GH¢ 2,000", "GH¢ 1,200"],
+"correct": 1
+},
+{
+"q": "Which financial term describes a situation where total expenses exceed total income or revenue?",
+"a": ["Profit", "Surplus", "Deficit", "Investment"],
+"correct": 2
+},
+{
+"q": "If GH¢ 3,000 amounts to GH¢ 3,600 in 2 years under simple interest, what is the annual interest rate?",
+"a": ["5%", "12%", "8%", "10%"],
+"correct": 3
+}
+]
+}

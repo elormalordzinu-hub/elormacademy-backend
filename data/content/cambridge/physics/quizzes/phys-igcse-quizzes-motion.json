@@ -1,0 +1,207 @@
+{
+"id": "phys-igcse-quizzes-motion",
+"name": "General physics measurement and motion",
+"questions": [
+{
+"q": "Which of the following is a scalar quantity rather than a vector quantity?",
+"q_source": "IGCSE Physics 0625/0972 Core/Extended Syllabus",
+"a": ["Speed", "Velocity", "Displacement", "Acceleration"],
+"correct": 0
+},
+{
+"q": "What is the average speed of an object that travels a distance of 120 m in a time of 15 s?",
+"a": ["4.0 m/s", "8.0 m/s", "12.0 m/s", "180.0 m/s"],
+"correct": 1
+},
+{
+"q": "On a distance-time graph, what does a straight, upward-sloping line indicate about the motion of an object?",
+"a": ["The object is accelerating at a changing rate.", "The object is completely stationary.", "The object is moving at a constant speed.", "The object is decelerating to a stop."],
+"correct": 2
+},
+{
+"q": "How can the distance traveled by an object be determined from a speed-time graph?",
+"a": ["By calculating the gradient of the line", "By reading the maximum y-value directly", "By dividing speed by time", "By calculating the area under the speed-time graph"],
+"correct": 3
+},
+{
+"q": "What does the gradient (slope) of a speed-time graph represent physically?",
+"a": ["Acceleration", "Total distance", "Average speed", "Instantaneous displacement"],
+"correct": 0
+},
+{
+"q": "An object accelerates uniformly from rest at 3.0 m/s squared for 4.0 s. What is its final speed?",
+"a": ["0.75 m/s", "12.0 m/s", "24.0 m/s", "3.0 m/s"],
+"correct": 1
+},
+{
+"q": "Which of the following statements correctly defines velocity?",
+"a": ["The total distance traveled divided by the total time taken", "The rate of change of distance in any direction", "The speed of an object in a given specified direction", "The maximum speed reached during a journey"],
+"correct": 2
+},
+{
+"q": "What is the approximate free-fall acceleration (g) near the Earth surface used in IGCSE calculations?",
+"a": ["1.0 m/s squared", "5.0 m/s squared", "8.9 m/s squared", "9.8 m/s squared (or 10 m/s squared)"],
+"correct": 3
+},
+{
+"q": "Which instrument is best suited for measuring the internal diameter of a small metal pipe with high precision?",
+"a": ["Vernier calipers", "A wooden meter rule", "A cloth measuring tape", "A standard kitchen scale"],
+"correct": 0
+},
+{
+"q": "What does a horizontal flat line on a distance-time graph signify?",
+"a": ["The object is moving at a constant high speed.", "The object is stationary (at rest).", "The object is accelerating uniformly.", "The object is moving backward."],
+"correct": 1
+},
+{
+"q": "If a car travels around a circular track at a constant speed of 20 m/s, why is its velocity considered to be changing?",
+"a": ["Its magnitude is decreasing constantly.", "Its mass is changing over time.", "Its direction of motion is constantly changing.", "There is no friction acting on the tires."],
+"correct": 2
+},
+{
+"q": "A runner completes a 400 m round track in 50 s and returns to her exact starting position. What is her average velocity for the entire journey?",
+"a": ["4.0 m/s", "50.0 m/s", "8.0 m/s", "0 m/s"],
+"correct": 3
+},
+{
+"q": "What is the formula used to calculate acceleration (a) given change in velocity (delta v) and time (t)?",
+"a": ["a = delta v / t", "a = distance / time", "a = mass times velocity", "a = force divided by distance"],
+"correct": 0
+},
+{
+"q": "What does a curved line sloping upwards on a distance-time graph represent?",
+"a": ["Constant speed", "Accelerating motion", "Decelerating motion", "Zero speed"],
+"correct": 1
+},
+{
+"q": "Which of the following units is the correct SI unit for acceleration?",
+"a": ["m/s", "km/h", "m/s squared", "N/kg"],
+"correct": 2
+},
+{
+"q": "A train accelerates from 10 m/s to 30 m/s in 5.0 s. What is its acceleration?",
+"a": ["2.0 m/s squared", "3.0 m/s squared", "5.0 m/s squared", "4.0 m/s squared"],
+"correct": 3
+},
+{
+"q": "What is meant by the term 'terminal velocity' for a falling object?",
+"a": ["The constant maximum velocity reached when air resistance equals the downward gravitational force", "The initial speed of an object when dropped from rest", "The speed at which an object hits the ground", "The velocity when acceleration is at its highest value"],
+"correct": 0
+},
+{
+"q": "When a sky-diver jumps from an airplane before opening their parachute, what happens to their acceleration as their speed increases?",
+"a": ["Acceleration increases rapidly.", "Acceleration decreases until it reaches zero at terminal velocity.", "Acceleration remains perfectly constant at 9.8 m/s squared.", "Acceleration drops immediately to zero."],
+"correct": 1
+},
+{
+"q": "What is the distance traveled by a car moving at a steady speed of 15 m/s for 2 minutes?",
+"a": ["30 m", "300 m", "1800 m", "7.5 m"],
+"correct": 2
+},
+{
+"q": "Which of the following graphs represents an object moving with a constant non-zero acceleration?",
+"a": ["A horizontal line on a distance-time graph", "A curved line on a speed-time graph flattening out", "A horizontal line on a speed-time graph", "A straight diagonal line passing through the origin on a speed-time graph"],
+"correct": 3
+},
+{
+"q": "What is the resolution of a standard laboratory meter rule graduated in millimeters?",
+"a": ["1.0 mm", "0.1 mm", "0.01 mm", "10.0 mm"],
+"correct": 0
+},
+{
+"q": "How does opening a parachute affect a skydiver's motion?",
+"a": ["It increases their downward acceleration immediately.", "It creates a large upward air resistance force, causing rapid deceleration to a new, much slower terminal velocity.", "It stops gravity from acting on them entirely.", "It reduces air resistance to zero."],
+"correct": 1
+},
+{
+"q": "What quantity is represented by the area under an acceleration-time graph?",
+"a": ["Total distance traveled", "Average power", "Change in velocity", "Total mass"],
+"correct": 2
+},
+{
+"q": "If a car's speed-time graph shows a horizontal line at 20 m/s for 10 seconds, what is the distance covered during this time interval?",
+"a": ["2.0 m", "200.0 m", "0.5 m", "50.0 m"],
+"correct": 3
+},
+{
+"q": "Which of the following quantities has both magnitude and a specific direction?",
+"a": ["Displacement", "Distance", "Speed", "Mass"],
+"correct": 0
+},
+{
+"q": "What does a negative gradient on a speed-time graph indicate?",
+"a": ["The object is moving in reverse at constant speed.", "The object is decelerating (slowing down).", "The object is stationary.", "The object is gaining mass."],
+"correct": 1
+},
+{
+"q": "A cyclist travels 60 km in 2 hours, and then another 30 km in 1 hour. What is the average speed for the entire journey?",
+"a": ["20 km/h", "45 km/h", "30 km/h", "15 km/h"],
+"correct": 2
+},
+{
+"q": "Why is it important to repeat measurements of time when timing a moving trolley with a stopwatch in a lab?",
+"a": ["To use up excess classroom time", "To increase systematic error", "To ensure the stopwatch battery stays charged", "To reduce the effect of human reaction time errors and calculate a reliable mean"],
+"correct": 3
+},
+{
+"q": "What is the speed of an object at rest?",
+"a": ["0 m/s", "1 m/s", "Infinite", "Equal to its acceleration"],
+"correct": 0
+},
+{
+"q": "What does the slope of a distance-time graph tell you about a moving object?",
+"a": ["Its acceleration", "Its speed", "Its total weight", "Its momentum"],
+"correct": 1
+},
+{
+"q": "If an object travels 50 meters in 5 seconds at a constant speed, what is its speed?",
+"a": ["5 m/s", "250 m/s", "10 m/s", "0.1 m/s"],
+"correct": 2
+},
+{
+"q": "Which of the following scenarios describes an object experiencing deceleration?",
+"a": ["A car speeding up as it enters a highway", "A ball falling freely from a high ledge", "A rocket launching into space", "A braking car coming to a red traffic light"],
+"correct": 3
+},
+{
+"q": "What is the term for the speed of an object in a particular direction at one specific instant in time?",
+"a": ["Instantaneous velocity", "Average speed", "Terminal velocity", "Uniform speed"],
+"correct": 0
+},
+{
+"q": "When calculating the volume of an irregular solid using a measuring cylinder, what potential experimental error should be avoided?",
+"a": ["Parallax error when reading the liquid meniscus level", "Using too much water", "Weighing the solid before dropping it in", "Using a plastic cylinder instead of glass"],
+"correct": 1
+},
+{
+"q": "A bus moves from rest with a constant acceleration of 2 m/s squared. How far does it travel in 3 seconds?",
+"a": ["6 m", "18 m", "9 m", "36 m"],
+"correct": 2
+},
+{
+"q": "Which physical quantity is correctly paired with its standard unit?",
+"a": ["Acceleration and km/h", "Distance and kg", "Time and N", "Speed and m/s"],
+"correct": 3
+},
+{
+"q": "What is the primary cause of a falling object reaching a terminal velocity in Earth's atmosphere?",
+"a": ["Air resistance increasing until it equals the weight of the object", "Gravity stopping completely", "The object running out of mass", "Magnetic repulsion from the ground"],
+"correct": 0
+},
+{
+"q": "If an object moves along a straight line covering equal distances in equal time intervals, how is its speed described?",
+"a": ["Accelerating", "Constant (uniform) speed", "Decreasing", "Zero"],
+"correct": 1
+},
+{
+"q": "Which measuring device would provide the highest resolution for measuring the thickness of a single human hair?",
+"a": ["A meter rule", "A folding pocket ruler", "A micrometer screw gauge", "A tape measure"],
+"correct": 2
+},
+{
+"q": "What does a curved line with a decreasing gradient on a distance-time graph indicate?",
+"a": ["Constant high speed", "Increasing acceleration", "Uniform deceleration", "The object is slowing down to a stop"],
+"correct": 3
+}
+]
+}

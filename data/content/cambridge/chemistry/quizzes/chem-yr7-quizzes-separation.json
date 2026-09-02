@@ -1,0 +1,206 @@
+{
+  "id": "chem-yr7-quizzes-separation",
+  "name": "Separation of mixtures filtration and evaporation",
+  "questions": [
+    {
+      "q": "Which technique is best used to separate an insoluble solid from a liquid?",
+      "a": ["Filtration", "Evaporation", "Distillation", "Chromatography"],
+      "correct": 0
+    },
+    {
+      "q": "What is the solid substance left behind on the filter paper called?",
+      "a": ["Filtrate", "Residue", "Distillate", "Solvent"],
+      "correct": 1
+    },
+    {
+      "q": "During evaporation of a salt solution, what happens to the water component?",
+      "a": ["It changes into solid crystals", "It reacts chemically to form gas", "It turns into water vapor and escapes into the air", "It settles at the bottom of the dish"],
+      "correct": 2
+    },
+    {
+      "q": "Which method is used to separate a soluble solid from a liquid by boiling away the liquid completely?",
+      "a": ["Magnetic separation", "Simple decanting", "Paper chromatography", "Evaporation to dryness"],
+      "correct": 3
+    },
+    {
+      "q": "What is the liquid that passes through the filter paper called?",
+      "a": ["Filtrate", "Residue", "Solute", "Suspension"],
+      "correct": 0
+    },
+    {
+      "q": "How can you easily separate a mixture of iron filings and sulfur powder?",
+      "a": ["Dissolving them in hot water", "Using a magnet to attract the iron filings", "Filtering through fine paper", "Distilling the mixture"],
+      "correct": 1
+    },
+    {
+      "q": "Which technique is most suitable for separating a mixture of different colored ink pigments?",
+      "a": ["Simple distillation", "Evaporation", "Paper chromatography", "Filtration"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following best defines a chemical mixture?",
+      "a": ["A single pure element", "A compound with fixed chemical bonds", "A substance made of identical atoms", "Two or more substances mingled together without being chemically bonded"],
+      "correct": 3
+    },
+    {
+      "q": "Why is filter paper folded into a cone shape inside a funnel?",
+      "a": ["To maximize the surface area for liquid to pass through", "To make the setup look tidy", "To heat the solution", "To block all air movement"],
+      "correct": 0
+    },
+    {
+      "q": "Which method is used to obtain pure water from a saltwater solution while keeping the water?",
+      "a": ["Filtration", "Simple distillation", "Chromatography", "Decantation"],
+      "correct": 1
+    },
+    {
+      "q": "What apparatus is required to heat an evaporating dish gently?",
+      "a": ["Freezing tray and ice", "Stirring rod and beaker", "Tripod stand and Bunsen burner", "Pipette and burette"],
+      "correct": 2
+    },
+    {
+      "q": "What is the liquid that dissolves a substance to form a solution called?",
+      "a": ["Solute", "Residue", "Filtrate", "Solvent"],
+      "correct": 3
+    },
+    {
+      "q": "If a solid substance does not dissolve in a liquid, how is it classified?",
+      "a": ["Insoluble", "Soluble", "Miscible", "Saturated"],
+      "correct": 0
+    },
+    {
+      "q": "How would you separate a mixture containing sand and salt mixed in water?",
+      "a": ["Evaporate the water immediately", "Filter out the sand first, then evaporate the filtrate to recover salt", "Use a magnet to pull out the salt", "Distill without filtering"],
+      "correct": 1
+    },
+    {
+      "q": "In paper chromatography, what name is given to the solvent that moves up the paper?",
+      "a": ["Stationary phase", "Chromatogram", "Mobile phase", "Residue"],
+      "correct": 2
+    },
+    {
+      "q": "What is a saturated solution?",
+      "a": ["A solution containing no solute", "A solution that has been frozen", "A solution with maximum water content", "A solution in which no more solute can dissolve at that temperature"],
+      "correct": 3
+    },
+    {
+      "q": "Which separation method relies on differences in boiling points?",
+      "a": ["Distillation", "Filtration", "Decantation", "Chromatography"],
+      "correct": 0
+    },
+    {
+      "q": "What is the primary purpose of a condenser in simple distillation?",
+      "a": ["To heat the liquid mixture", "To cool hot vapor back into liquid form", "To filter out solid impurities", "To measure gas volume"],
+      "correct": 1
+    },
+    {
+      "q": "What term describes two liquids, like oil and water, that do not mix?",
+      "a": ["Miscible", "Soluble", "Immiscible", "Saturated"],
+      "correct": 2
+    },
+    {
+      "q": "Which laboratory apparatus is best used to separate two immiscible liquids like oil and water?",
+      "a": ["Filter funnel", "Evaporating dish", "Liebig condenser", "Separating funnel"],
+      "correct": 3
+    },
+    {
+      "q": "What is the final pattern of separated spots on filter paper after chromatography called?",
+      "a": ["Chromatogram", "Distillate", "Filtrate", "Residue"],
+      "correct": 0
+    },
+    {
+      "q": "Why is fractional distillation used instead of simple distillation for some liquid mixtures?",
+      "a": ["It uses no energy", "The liquids have boiling points that are very close to each other", "It only works for solids", "It freezes the liquids"],
+      "correct": 1
+    },
+    {
+      "q": "Why must the baseline in paper chromatography be drawn in pencil rather than ink?",
+      "a": ["Pencil marks are invisible", "Ink is radioactive", "Pencil graphite is insoluble in the solvent and will not run", "Ink reacts explosively"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these mixtures can be separated using simple filtration?",
+      "a": ["Sugar dissolved in water", "Salt dissolved in tea", "Ethanol mixed in water", "Chalk powder mixed in water"],
+      "correct": 3
+    },
+    {
+      "q": "What is the solid substance that dissolves in a liquid to form a solution called?",
+      "a": ["Solute", "Solvent", "Residue", "Filtrate"],
+      "correct": 0
+    },
+    {
+      "q": "If you leave a saltwater solution uncovered in a warm room, what process occurs and what remains?",
+      "a": ["Filtration leaves sand behind", "Evaporation leaves solid salt crystals behind", "Condensation leaves pure water", "Sublimation turns it to gas"],
+      "correct": 1
+    },
+    {
+      "q": "Which term describes liquids that mix completely with each other in all proportions?",
+      "a": ["Insoluble", "Immiscible", "Miscible", "Saturated"],
+      "correct": 2
+    },
+    {
+      "q": "What is the main advantage of slow crystallization over rapid evaporation to dryness?",
+      "a": ["It takes two seconds", "It needs no equipment", "It removes water permanently", "It prevents thermal decomposition and produces larger, purer crystals"],
+      "correct": 3
+    },
+    {
+      "q": "In a distillation setup, what is the pure liquid collected in the receiving flask called?",
+      "a": ["Distillate", "Residue", "Filtrate", "Solute"],
+      "correct": 0
+    },
+    {
+      "q": "Why is water frequently described as a universal solvent in school chemistry?",
+      "a": ["It dissolves every single substance on earth", "It dissolves a very wide variety of useful solutes", "It is the only liquid in existence", "It never boils"],
+      "correct": 1
+    },
+    {
+      "q": "If solid impurities are present in a hot liquid solution, what step is taken before crystallization?",
+      "a": ["Freezing the mixture", "Using a magnet", "Hot filtration to remove insoluble impurities", "Adding more solute"],
+      "correct": 2
+    },
+    {
+      "q": "Which everyday industry relies on evaporation ponds to produce table salt from seawater?",
+      "a": ["Water treatment works", "Carbonated drink manufacturing", "Desalination plants", "Salterns or salt pans"],
+      "correct": 3
+    },
+    {
+      "q": "When filtering a mixture, what keeps the liquid flowing through the filter paper?",
+      "a": ["Gravity pulling the liquid down", "Magnetic force", "High air pressure", "Heat from a burner"],
+      "correct": 0
+    },
+    {
+      "q": "Which method would you use to separate alcohol from water?",
+      "a": ["Filtration", "Fractional distillation", "Evaporation", "Magnetic separation"],
+      "correct": 1
+    },
+    {
+      "q": "What is the purpose of putting boiling chips into a flask during distillation?",
+      "a": ["To cool the vapor", "To add color", "To ensure smooth, even boiling and prevent bumping", "To filter out solid particles"],
+      "correct": 2
+    },
+    {
+      "q": "Which of these substances is soluble in water?",
+      "a": ["Sand", "Chalk", "Plastic beads", "Copper sulfate"],
+      "correct": 3
+    },
+    {
+      "q": "What is the term for a solution that contains a small amount of solute dissolved in a large amount of solvent?",
+      "a": ["Dilute solution", "Concentrated solution", "Saturated solution", "Suspension"],
+      "correct": 0
+    },
+    {
+      "q": "What is the term for a solution that contains a large amount of dissolved solute?",
+      "a": ["Dilute solution", "Concentrated solution", "Insoluble mixture", "Pure distillate"],
+      "correct": 1
+    },
+    {
+      "q": "During paper chromatography, why must the solvent level in the beaker be kept below the pencil baseline?",
+      "a": ["To make the paper wet faster", "To save solvent liquid", "To prevent the ink or dye spots from dissolving directly into the solvent pool", "To heat the paper"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following mixtures requires distillation rather than filtration to separate?",
+      "a": ["Sand and water", "Chalk and water", "Mud and water", "Salt and water"],
+      "correct": 3
+    }
+  ]
+}

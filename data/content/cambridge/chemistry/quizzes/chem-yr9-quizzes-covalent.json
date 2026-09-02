@@ -1,0 +1,186 @@
+{
+  "id": "chem-yr9-quizzes-covalent",
+  "name": "Properties of simple covalent molecules",
+  "questions": [
+    {
+      "q": "What type of forces exist between simple discrete molecules in a molecular covalent substance?",
+      "a": ["Weak intermolecular forces", "Strong ionic bonds", "Metallic bonding networks", "Strong covalent bonds throughout the bulk solid"],
+      "correct": 0
+    },
+    {
+      "q": "Why do simple covalent substances generally have low melting and boiling points?",
+      "a": ["They contain giant ionic lattices", "Little thermal energy is needed to overcome the weak intermolecular forces between molecules", "Their covalent bonds break easily", "They have high densities"],
+      "correct": 1
+    },
+    {
+      "q": "Why do simple covalent molecules typically fail to conduct electricity in any state?",
+      "a": ["They contain too many protons", "They are extremely cold", "They have no overall electrical charge and no mobile electrons or ions to carry current", "They react with air"],
+      "correct": 2
+    },
+    {
+      "q": "What is the physical state of most simple covalent substances (such as carbon dioxide, methane, and oxygen) at room temperature?",
+      "a": ["Hard crystalline solids", "High-density liquids", "High-melting metals", "Gases or liquids with low boiling points"],
+      "correct": 3
+    },
+    {
+      "q": "How do the boiling points of simple covalent molecules generally change as the size and relative molecular mass of the molecules increase?",
+      "a": ["Boiling points increase because larger molecules have stronger intermolecular forces of attraction", "Boiling points decrease to absolute zero", "Boiling points remain completely constant", "Boiling points fluctuate randomly with no pattern"],
+      "correct": 0
+    },
+    {
+      "q": "Are simple covalent compounds generally soluble in water, and what determines their solubility?",
+      "a": ["Yes, all covalent compounds dissolve to form ionic solutions", "Many simple covalent substances are insoluble in water unless they react with it or are polar (like ethanol), while non-polar molecules (like hexane) dissolve in organic solvents", "No, covalent substances only dissolve in liquid metals", "Yes, because covalent bonds break easily in water"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following substances is a simple covalent molecule that is a liquid at room temperature?",
+      "a": ["Sodium chloride", "Iron", "Water (H2O)", "Carbon dioxide"],
+      "correct": 2
+    },
+    {
+      "q": "When a simple molecular substance melts or boils, which forces are actually being broken?",
+      "a": ["The strong covalent bonds holding the atoms together inside the molecule", "The ionic bonds between positive and negative ions", "The delocalized sea of electrons", "The weak intermolecular forces between separate molecules"],
+      "correct": 3
+    },
+    {
+      "q": "Why does methane (CH4) have a much lower boiling point than water (H2O)?",
+      "a": ["Methane has weaker intermolecular forces between its small, non-polar molecules compared to the hydrogen bonding in water", "Methane has ionic bonds", "Methane is a giant lattice structure", "Methane molecules are much heavier"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following properties is characteristic of simple molecular substances?",
+      "a": ["High electrical conductivity when solid", "Low melting and boiling points due to weak intermolecular forces", "High density and extreme hardness", "Inability to evaporate"],
+      "correct": 1
+    },
+    {
+      "q": "Why do iodine crystals sublime (turn directly from a solid to a purple gas) when gently heated?",
+      "a": ["They melt into a liquid first", "They contain strong ionic bonds", "The weak intermolecular forces between iodine molecules are easily overcome by a small amount of heat energy", "The covalent bonds inside the iodine molecule break"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following is a simple covalent gas at room temperature and pressure?",
+      "a": ["Magnesium oxide", "Sodium chloride", "Silicon dioxide", "Carbon dioxide"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the volatility (tendency to turn into a gas) of simple covalent liquids as you go down a homologous series of alkanes?",
+      "a": ["Volatility decreases as molecular size and intermolecular forces increase", "Volatility increases indefinitely", "Volatility stays exactly the same", "Liquids turn into solid metals"],
+      "correct": 0
+    },
+    {
+      "q": "Why do sugar (sucrose, a molecular covalent compound) solutions fail to conduct electricity?",
+      "a": ["Sugar contains metal ions", "When sugar dissolves, it forms separate neutral molecules in solution rather than mobile ions or electrons", "Sugar molecules have a strong negative charge", "Sugar reacts with the copper wires"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following pairs contains only substances with simple molecular structures?",
+      "a": ["Sodium chloride and diamond", "Silicon dioxide and magnesium oxide", "Water and carbon dioxide", "Iron and copper"],
+      "correct": 2
+    },
+    {
+      "q": "What term is used to describe different forms of the same element in the same physical state, such as oxygen (O2) and ozone (O3)?",
+      "a": ["Isotopes", "Ions", "Alloys", "Allotropes"],
+      "correct": 3
+    },
+    {
+      "q": "How does the strength of covalent bonds *within* a molecule compare to the intermolecular forces *between* molecules?",
+      "a": ["Covalent intramolecular bonds are very strong, whereas intermolecular forces are relatively weak", "Covalent bonds are weaker than intermolecular forces", "Intramolecular and intermolecular forces are identical in strength", "Intermolecular forces are stronger than nuclear forces"],
+      "correct": 0
+    },
+    {
+      "q": "Why are most simple covalent compounds soft and easily scratched when in solid form (like solid wax or sulfur)?",
+      "a": ["Because their atoms are held by strong ionic lattices", "Because little force is required to slide separate molecules past one another due to weak intermolecular forces", "Because they contain free electrons", "Because they are made of rubber"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following molecules has a triple covalent bond and makes up about 78% of Earth's atmosphere?",
+      "a": ["Oxygen (O2)", "Carbon dioxide (CO2)", "Nitrogen (N2)", "Hydrogen (H2)"],
+      "correct": 2
+    },
+    {
+      "q": "Why do some simple covalent substances dissolve well in non-polar organic solvents like petrol or methylbenzene?",
+      "a": ["They react chemically to form salts", "They form ionic bonds with the solvent", "They have high melting points", "Like dissolves like; non-polar solute molecules experience similar weak intermolecular attractions with non-polar solvent molecules"],
+      "correct": 3
+    },
+    {
+      "q": "What type of structure do most non-metal elements (other than noble gases and giant lattices like carbon) exhibit at room temperature?",
+      "a": ["Simple molecular structures consisting of small discrete molecules", "Giant ionic crystal lattices", "Continuous metallic sheets", "Random plasma clouds"],
+      "correct": 0
+    },
+    {
+      "q": "When liquid water boils to form steam, what physical change happens to the water molecules themselves?",
+      "a": ["The molecules break apart into hydrogen and oxygen atoms", "The molecules remain intact, but gain enough kinetic energy to separate completely as intermolecular forces are broken", "The molecules turn into ionic crystals", "The molecules shrink in size"],
+      "correct": 1
+    },
+    {
+      "q": "Which of the following characteristics is typical of liquid simple covalent compounds like liquid bromine or ethanol?",
+      "a": ["High electrical conductivity", "High melting point above 1000°C", "Low viscosity and volatility depending on molecular weight", "Metallic luster"],
+      "correct": 2
+    },
+    {
+      "q": "Why do solid molecular substances like dry ice (solid carbon dioxide) have low enthalpy changes of vaporization?",
+      "a": ["Because covalent bonds require enormous energy to break", "Because ions are tightly bound", "Because electrons flow freely", "Because only weak intermolecular forces need to be overcome"],
+      "correct": 3
+    },
+    {
+      "q": "How does increasing molecular mass affect the physical state of halogens (fluorine, chlorine, bromine, iodine) at room temperature?",
+      "a": ["They transition from gases (F2, Cl2) to a liquid (Br2) to a solid (I2) as intermolecular forces strengthen with size", "They all remain gases", "They turn into hard ionic metals", "They become radioactive"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following explains why hydrogen sulfide (H2S) is a gas at room temperature while water (H2O) is a liquid, despite similar molecular structures?",
+      "a": ["Water has ionic bonds", "Water molecules experience stronger intermolecular hydrogen bonding than hydrogen sulfide molecules", "Hydrogen sulfide is a giant lattice", "Water molecules are heavier than H2S"],
+      "correct": 1
+    },
+    {
+      "q": "What happens to the physical properties of simple molecular substances if you increase the external pressure?",
+      "a": ["Their boiling points decrease instantly", "They turn into plasma", "Their melting and boiling points can change slightly, and gases can be compressed or liquefied", "Their covalent bonds double in strength"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following represents a correct explanation for why ammonia (NH3) has a low melting point (-77.7°C)?",
+      "a": ["It is held together by a giant network of covalent bonds", "It is an ionic salt crystal", "It contains free delocalized electrons", "It is composed of simple discrete molecules held together by weak intermolecular forces"],
+      "correct": 3
+    },
+    {
+      "q": "In terms of thermal conductivity, how do simple molecular materials generally behave?",
+      "a": ["They are typically poor thermal conductors (good thermal insulators) because they lack mobile electrons or ions", "They conduct heat as well as copper", "They are supercooled conductors", "They generate heat spontaneously"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following substances is a simple molecular gas that is essential for human respiration?",
+      "a": ["Sodium vapor", "Oxygen (O2)", "Silicon tetrachloride", "Calcium carbonate"],
+      "correct": 1
+    },
+    {
+      "q": "What is the primary reason why carbon dioxide is a gas at room temperature while silicon dioxide (sand) is a hard solid with a high melting point?",
+      "a": ["Carbon dioxide has ionic bonds", "Silicon dioxide is a gas", "Carbon dioxide consists of small discrete molecules with weak intermolecular forces, whereas silicon dioxide is a giant covalent lattice", "Silicon dioxide contains free electrons"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following best describes the intermolecular forces present in non-polar simple molecular substances like methane or neon?",
+      "a": ["Strong ionic bonds", "Covalent bonds", "Metallic bonding", "Weak intermolecular forces (London dispersion / van der Waals forces)"],
+      "correct": 3
+    },
+    {
+      "q": "Why do simple molecular liquids generally have low surface tension compared to ionic melts?",
+      "a": ["Because intermolecular attractions between neutral molecules are weaker than electrostatic attractions between full ions", "Because molecular liquids are extremely hot", "Because molecules repel each other", "Because they contain free protons"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following observations confirms that a substance has a simple molecular structure rather than an ionic structure?",
+      "a": ["It conducts electricity when solid", "It has a low melting point and does not conduct electricity when molten or dissolved in water", "It shatters into sharp crystals", "It dissolves in water to form a conducting electrolyte"],
+      "correct": 1
+    },
+    {
+      "q": "What happens when chlorine gas dissolves in water to form chlorine water?",
+      "a": ["It forms a giant crystal lattice", "It turns into solid metal", "Some of it reacts reversibly with water to form hydrochloric and hypochlorous acids while dissolving", "It explodes into hydrogen"],
+      "correct": 2
+    },
+    {
+      "q": "Why do large polymer molecules (which are giant covalent chains held together by weak intermolecular forces between chains) tend to melt over a temperature range rather than at a single sharp melting point?",
+      "a": ["They are made of ionic bonds", "They contain free electrons", "They are pure elements", "Because chains of varying lengths have different intermolecular forces requiring different amounts of energy to separate"],
+      "correct": 3
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": "phys-igcse-quizzes-pressure",
+  "name": "Pressure and its applications",
+  "questions": [
+    {
+      "q": "What is the formula used to calculate pressure (P) from force (F) and surface area (A)?",
+      "a": ["P = F / A", "P = F × A", "P = A / F", "P = F × A²"],
+      "correct": 0
+    },
+    {
+      "q": "What is the standard SI unit of pressure, equivalent to one Newton per square meter?",
+      "a": ["Joule (J)", "Pascal (Pa)", "Watt (W)", "Newton (N)"],
+      "correct": 1
+    },
+    {
+      "q": "Why do snowshoes prevent a person from sinking deeply into soft snow?",
+      "a": ["They increase the total weight of the person", "They reduce atmospheric pressure around the legs", "They have a very large surface area, which spreads the person's weight and significantly reduces the pressure exerted on the snow", "They generate an upward magnetic force"],
+      "correct": 2
+    },
+    {
+      "q": "What formula is used to calculate the pressure beneath the surface of a liquid?",
+      "a": ["P = F × A", "P = m × g", "P = F / A", "P = ρ × g × h"],
+      "correct": 3
+    },
+    {
+      "q": "In the liquid pressure formula (P = ρ × g × h), what does the symbol 'ρ' represent?",
+      "a": ["Density of the liquid", "Depth of the container", "Gravitational field strength", "Surface area of the liquid"],
+      "correct": 0
+    },
+    {
+      "q": "What is atmospheric pressure at sea level approximately equal to?",
+      "a": ["1.0 Pa", "101,325 Pa (or about 101 kPa)", "10 Pa", "0.001 Pa"],
+      "correct": 1
+    },
+    {
+      "q": "Why do deep-sea submarines require extremely thick, reinforced steel hulls?",
+      "a": ["To prevent them from floating upward too fast", "To keep the interior temperature high", "To withstand the immense liquid pressure exerted by the surrounding water at great ocean depths", "To block all magnetic fields"],
+      "correct": 2
+    },
+    {
+      "q": "How does atmospheric pressure change as an aircraft climbs to a high cruising altitude?",
+      "a": ["Atmospheric pressure increases significantly", "Atmospheric pressure remains completely constant", "Atmospheric pressure drops to zero immediately at ground level", "Atmospheric pressure decreases because there is less air column above pressing down"],
+      "correct": 3
+    },
+    {
+      "q": "What is a mercury barometer used to measure?",
+      "a": ["Atmospheric pressure", "Liquid density", "Wind speed", "Electrical resistance"],
+      "correct": 0
+    },
+    {
+      "q": "What does a manometer measure?",
+      "a": ["Atmospheric pressure only", "The pressure difference between a gas supply and atmospheric pressure", "The speed of sound in gases", "The total mass of a liquid"],
+      "correct": 1
+    },
+    {
+      "q": "What principle forms the underlying operational basis for hydraulic systems, such as car braking systems and hydraulic lifts?",
+      "a": ["Archimedes' principle of flotation", "The principle of moments", "Pascal's principle (pressure applied to an enclosed liquid is transmitted undiminished to every part of the fluid)", "Hooke's law of elasticity"],
+      "correct": 2
+    },
+    {
+      "q": "In a simple hydraulic press, a small piston of cross-sectional area 2 cm² has a force of 10 N applied to it. If the larger output piston has an area of 20 cm², what is the output force exerted by the large piston?",
+      "a": ["1.0 N", "10 N", "20 N", "100 N"],
+      "correct": 3
+    },
+    {
+      "q": "A force of 200 N is applied uniformly over a surface area of 0.5 m². What is the pressure exerted on the surface?",
+      "a": ["400 Pa", "100 Pa", "0.0025 Pa", "50 Pa"],
+      "correct": 0
+    },
+    {
+      "q": "What happens to the pressure at the bottom of a container if the depth of water inside the container is doubled?",
+      "a": ["Pressure is halved", "Pressure is doubled", "Pressure increases by a factor of four", "Pressure remains unchanged"],
+      "correct": 1
+    },
+    {
+      "q": "Why do sharp pins and needles easily penetrate materials with very little applied force?",
+      "a": ["They have a very large mass", "They are made of magnetic steel", "Their extremely small point surface area concentrates the force, creating a massive pressure", "They generate internal heat"],
+      "correct": 2
+    },
+    {
+      "q": "What causes gas pressure inside a sealed rigid metal container?",
+      "a": ["Chemical reactions between gas molecules and the metal", "Gravity pulling gas molecules downward", "Magnetic repulsion between atoms", "Frequent collisions of high-speed gas molecules against the internal walls of the container"],
+      "correct": 3
+    },
+    {
+      "q": "What is the pressure at a depth of 10 meters in fresh water (density = 1,000 kg/m³, g = 10 N/kg), ignoring atmospheric pressure?",
+      "a": ["100,000 Pa (100 kPa)", "1,000 Pa", "10 Pa", "1,000,000 Pa"],
+      "correct": 0
+    },
+    {
+      "q": "How does increasing the temperature of a fixed mass of gas in a sealed rigid container affect its pressure?",
+      "a": ["Pressure decreases because molecules slow down", "Pressure increases because gas molecules gain kinetic energy and collide harder and more frequently with the walls", "Pressure drops to zero instantly", "Pressure remains completely unaffected"],
+      "correct": 1
+    },
+    {
+      "q": "Why can a person lie down safely on a 'bed of nails' without injury, whereas standing on a single nail would pierce the skin?",
+      "a": ["The nails are made of soft rubber", "The person's weight decreases when lying down", "Spreading the body weight across hundreds of nails drastically increases total surface area, reducing the pressure on any single contact point below skin-piercing levels", "Atmospheric pressure holds the person up"],
+      "correct": 2
+    },
+    {
+      "q": "What instrument is commonly used to measure gas or air pressure inside a car tire?",
+      "a": ["A liquid-in-glass thermometer", "A hydrometer", "A metre rule", "A Bourdon gauge or digital tire pressure gauge"],
+      "correct": 3
+    },
+    {
+      "q": "If the area over which a force acts is halved while the force remains constant, what happens to the resulting pressure?",
+      "a": ["Pressure is doubled", "Pressure is halved", "Pressure remains constant", "Pressure increases by four times"],
+      "correct": 0
+    },
+    {
+      "q": "What is the total pressure at a depth of 5 meters underwater if atmospheric pressure is 100,000 Pa, water density is 1,000 kg/m³, and g = 10 N/kg?",
+      "a": ["50,000 Pa", "150,000 Pa (150 kPa)", "100,000 Pa", "500,000 Pa"],
+      "correct": 1
+    },
+    {
+      "q": "Why does a suction cup stick firmly to a smooth, flat wall when pressed against it?",
+      "a": ["Glue inside the rubber creates a chemical bond", "Magnetic attraction pulls it to the wall", "Pushing the cup expels air from underneath, creating a partial vacuum so that higher atmospheric pressure outside pushes it tightly against the surface", "Gravity pulls it sideways"],
+      "correct": 2
+    },
+    {
+      "q": "What does Boyle's Law state about a fixed mass of gas at a constant temperature?",
+      "a": ["Pressure is directly proportional to volume", "Pressure is inversely proportional to temperature", "Volume is zero when pressure is maximum", "Pressure is inversely proportional to volume (P × V equals a constant)"],
+      "correct": 3
+    },
+    {
+      "q": "If a volume of gas at constant temperature has its pressure tripled, what happens to its volume?",
+      "a": ["Volume is reduced to one-third of its original value", "Volume is tripled", "Volume remains unchanged", "Volume increases nine times"],
+      "correct": 0
+    },
+    {
+      "q": "Why are dam walls built significantly thicker and wider at the base than at the top?",
+      "a": ["To make the dam look more architectural", "To withstand the much greater water pressure found at greater depths", "To prevent birds from landing on top", "To reduce the total weight of the concrete structure"],
+      "correct": 1
+    },
+    {
+      "q": "What is the force acting on a submarine hatch of area 2.0 m² when the water pressure acting on it is 250,000 Pa?",
+      "a": ["125,000 N", "500 N", "500,000 N (500 kN)", "1,250,000 N"],
+      "correct": 2
+    },
+    {
+      "q": "How does a hydraulic brake system multiply the force applied by a driver's foot on the brake pedal?",
+      "a": ["By using electrical amplifiers", "By burning fuel inside the brake lines", "By using springs to push harder", "By using pistons of different cross-sectional areas, where a small force on a small piston creates a proportionally larger force on a larger piston"],
+      "correct": 3
+    },
+    {
+      "q": "What happens to the reading of a mercury barometer if it is carried from sea level up to the top of a high mountain?",
+      "a": ["The mercury column height decreases because atmospheric pressure is lower at high altitudes", "The mercury column height increases", "The mercury freezes solid", "The mercury level remains completely unchanged"],
+      "correct": 0
+    },
+    {
+      "q": "Which of the following describes Pascal's principle of transmission of pressure in fluids?",
+      "a": ["Pressure in a fluid acts only downwards", "Pressure applied to an enclosed fluid is transmitted undiminished to every part of the fluid and to the container walls", "Fluid pressure is independent of depth", "Fluids can be compressed easily under high pressure"],
+      "correct": 1
+    },
+    {
+      "q": "A gas cylinder contains a fixed mass of gas at a pressure of 200 kPa and a volume of 4.0 m³. If the volume is compressed to 2.0 m³ at constant temperature, what is the new gas pressure?",
+      "a": ["100 kPa", "200 kPa", "400 kPa", "800 kPa"],
+      "correct": 2
+    },
+    {
+      "q": "Why do heavy transport trucks and tractors often have multiple large tires or very wide caterpillar tracks?",
+      "a": ["To travel faster on highways", "To burn less fuel", "To improve radio signal reception", "To distribute their heavy weight over a larger surface area, thereby reducing ground pressure and preventing them from sinking into mud"],
+      "correct": 3
+    },
+    {
+      "q": "What is the primary reason why liquid pressure acts equally in all directions at a given depth?",
+      "a": ["Liquid molecules are free to move in all directions and collide mutually against surfaces", "Liquids are pulled upwards by the sky", "Gravity only acts sideways in liquids", "Containers force water to spin"],
+      "correct": 0
+    },
+    {
+      "q": "If a U-tube manometer filled with water shows a height difference of 10 cm between the two liquid columns connected to a gas supply, what does this height difference indicate?",
+      "a": ["The absolute temperature of the gas", "The pressure difference between the gas supply and atmospheric pressure, equivalent to the pressure exerted by a 10 cm column of water", "The total mass of the gas sample", "The velocity of gas flow"],
+      "correct": 1
+    },
+    {
+      "q": "What is the force exerted on a flat tabletop of area 1.5 m² by standard atmospheric pressure of 100,000 Pa?",
+      "a": ["66,667 N", "100,000 N", "150,000 N", "15,000 N"],
+      "correct": 2
+    },
+    {
+      "q": "Why do divers ascending from deep water need to rise slowly and avoid holding their breath?",
+      "a": ["To prevent getting cold in shallow water", "To see marine life more clearly", "To save oxygen in their tanks", "To allow dissolved gases in their bloodstream to safely escape as external water pressure decreases, preventing decompression sickness (the bends) and lung over-expansion injuries"],
+      "correct": 3
+    },
+    {
+      "q": "What is the pressure exerted by a block weighing 600 N resting on a surface with an area of 0.2 m²?",
+      "a": ["3,000 Pa", "120 Pa", "12,000 Pa", "300 Pa"],
+      "correct": 0
+    },
+    {
+      "q": "How does the pressure in a moving fluid (such as air flowing over an aircraft wing) change as the speed of the fluid increases, according to the Bernoulli effect?",
+      "a": ["Pressure increases proportionally to speed squared", "Pressure decreases where the fluid speed is higher", "Pressure remains completely constant regardless of speed", "Pressure drops immediately to absolute zero"],
+      "correct": 1
+    },
+    {
+      "q": "What is the depth of water in a tank if the water pressure at the bottom is 40,000 Pa? (Density of water = 1,000 kg/m³, g = 10 N/kg)",
+      "a": ["0.25 m", "2.5 m", "4.0 m", "40.0 m"],
+      "correct": 2
+    },
+    {
+      "q": "Which of the following everyday objects relies on atmospheric pressure pushing liquid up a tube when air is removed from the top?",
+      "a": ["A mechanical wrench", "A hydraulic car jack", "A mercury thermometer", "A drinking straw"],
+      "correct": 3
+    }
+  ]
+}

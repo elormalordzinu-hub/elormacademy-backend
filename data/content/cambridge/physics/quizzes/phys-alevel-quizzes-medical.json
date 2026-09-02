@@ -1,0 +1,198 @@
+{
+"id": "phys-alevel-quizzes-medical",
+"name": "Medical imaging and diagnostic techniques",
+"questions": [
+{
+"q": "What is attenuation in the context of medical X-ray imaging?",
+"p": "Context from source 14.",
+"a": ["The decrease in intensity of an X-ray beam as it passes through matter due to absorption and scattering", "The acceleration of electrons inside an X-ray tube", "The amplification of electrical signals in an ultrasound transducer", "The bending of gamma rays through magnetic fields"],
+"correct": 0
+},
+{
+"q": "How is the linear attenuation coefficient mu defined for an X-ray beam passing through a uniform material of thickness x?",
+"p": "Context from source 14.",
+"a": ["I = I_0 * e^(mu * x)", "I = I_0 * e^(-mu * x)", "I = I_0 - mu * x", "I = mu * I_0 / x"],
+"correct": 1
+},
+{
+"q": "What is the half-value thickness (HVT) of a material for X-rays?",
+"p": "Context from source 14.",
+"a": ["The thickness of material required to reduce the X-ray tube voltage by half", "The thickness of material required to double the intensity of an X-ray beam", "The thickness of material required to reduce the intensity of an X-ray beam to half its initial value", "Half the total physical width of the patient"],
+"correct": 2
+},
+{
+"q": "What is the purpose of using a contrast medium (such as barium or iodine compounds) in X-ray imaging?",
+"p": "Context from source 14.",
+"a": ["To eliminate all radiation doses to the patient completely", "To decrease the energy of the X-ray tube", "To speed up the scanning process", "To enhance the contrast of soft tissues by greatly increasing X-ray attenuation in specific organs or blood vessels"],
+"correct": 3
+},
+{
+"q": "How are X-rays produced in a standard diagnostic X-ray tube?",
+"p": "Context from source 14.",
+"a": ["By bombarding a high-melting-point metal target (such as tungsten) with high-speed electrons accelerated through a high potential difference", "By spontaneous radioactive decay of cobalt-60", "By passing high-frequency alternating current through quartz crystals", "By cooling liquid helium to absolute zero"],
+"correct": 0
+},
+{
+"q": "What is computed tomography (CT scanning) superior to standard 2D X-ray projection imaging for?",
+"p": "Context from source 14.",
+"a": ["Producing zero radiation exposure", "Providing detailed 3D cross-sectional images that clearly resolve overlapping soft tissue structures", "Cost-free immediate diagnosis", "Operating without any electronic detectors"],
+"correct": 1
+},
+{
+"q": "What physical principle is utilized in ultrasound imaging transducers?",
+"p": "Context from source 14.",
+"a": ["The photoelectric effect", "Nuclear magnetic resonance", "The piezoelectric effect (converting electrical voltage pulses into mechanical ultrasound vibrations and vice versa)", "Electromagnetic induction in rotating coils"],
+"correct": 2
+},
+{
+"q": "What is acoustic impedance Z of a medium defined as in ultrasound physics?",
+"p": "Context from source 14.",
+"a": ["Z = v / rho", "Z = rho / v", "Z = rho + v", "Z = rho * v (product of density rho and speed of ultrasound in the medium v)"],
+"correct": 3
+},
+{
+"q": "Why is a coupling gel applied between the ultrasound transducer and the patient's skin?",
+"p": "Context from source 14.",
+"a": ["To match acoustic impedances and prevent almost total reflection of ultrasound waves at the air-skin boundary", "To cool down the transducer head", "To amplify the electrical current inside the body", "To numb the skin during the scan"],
+"correct": 0
+},
+{
+"q": "What does the intensity reflection coefficient alpha (or R) depend on when an ultrasound beam travels from medium 1 (impedance Z_1) to medium 2 (impedance Z_2)?",
+"p": "Context from source 14.",
+"a": ["The frequency of the ultrasound wave alone", "The difference in acoustic impedances: R = ((Z_2 - Z_1) / (Z_2 + Z_1))²", "The total thickness of medium 2", "The electrical resistance of the skin"],
+"correct": 1
+},
+{
+"q": "What is the purpose of Doppler ultrasound in medical diagnostics?",
+"p": "Context from source 14.",
+"a": ["To measure bone density", "To produce high-resolution images of brain tumors", "To measure the speed and direction of blood flow within blood vessels using frequency shifts", "To destroy kidney stones non-invasively"],
+"correct": 2
+},
+{
+"q": "What is a tracer (radiopharmaceutical) used in Positron Emission Tomography (PET) scanning?",
+"p": "Context from source 14.",
+"a": ["A high-powered optical laser beam", "A stable, non-radioactive salt solution", "An ultrasound gel infused with microbubbles", "A biologically active molecule tagged with a positron-emitting radioisotope (such as fluorine-18 in FDG)"],
+"correct": 3
+},
+{
+"q": "What fundamental particle interaction occurs when a positron emitted by a PET tracer collides with an electron in the body?",
+"p": "Context from source 14.",
+"a": ["Annihilation resulting in the emission of two gamma-ray photons travelling in opposite directions", "Elastic scattering producing an alpha particle", "Nuclear fusion releasing a neutron", "Photoelectric absorption creating an X-ray"],
+"correct": 0
+},
+{
+"q": "What is the half-value thickness (HVT) for a material if its linear attenuation coefficient is 0.23 cm⁻¹?",
+"p": "Context from source 14.",
+"a": ["0.69 cm", "3.01 cm (ln(2) / 0.23)", "1.50 cm", "4.34 cm"],
+"correct": 1
+},
+{
+"q": "Which medical imaging technique exposes the patient to ionizing radiation?",
+"p": "Context from source 14.",
+"a": ["Ultrasound imaging", "Standard A-scan and B-scan ultrasonography", "Computed Tomography (CT scan)", "Magnetic Resonance Imaging (MRI)"],
+"correct": 2
+},
+{
+"q": "What is the primary advantage of using magnetic resonance imaging (MRI) over CT scanning?",
+"p": "Context from source 14.",
+"a": ["It is significantly cheaper and faster", "It uses high-intensity X-rays for bone imaging", "It requires no specialized cooling systems", "It does not use ionizing radiation, offering exceptional soft tissue contrast"],
+"correct": 3
+},
+{
+"q": "What role does the strong uniform magnetic field play in an MRI scanner?",
+"p": "Context from source 14.",
+"a": ["It aligns the magnetic dipole moments (spin axes) of hydrogen nuclei (protons) in the body", "It accelerates electrons to create X-rays", "It generates ultrasonic pressure waves", "It ionizes tissue molecules for detection"],
+"correct": 0
+},
+{
+"q": "What is the function of gradient magnetic coils in an MRI machine?",
+"p": "Context from source 14.",
+"a": ["To cool the superconducting magnets to 4 Kelvin", "To superimpose small spatial variations on the main magnetic field so different regions of the body can be spatially encoded and localized", "To shield the operator room from radio waves", "To inject the contrast medium into blood vessels"],
+"correct": 1
+},
+{
+"q": "What radiofrequency (RF) pulses are used for in an MRI scan?",
+"p": "Context from source 14.",
+"a": ["To cool the patient during the scan", "To generate ultrasound echoes", "To knock aligned hydrogen protons out of equilibrium, causing them to emit detectable RF signals as they relax back", "To accelerate tracer atoms through blood vessels"],
+"correct": 2
+},
+{
+"q": "What is the acoustic impedance of muscle tissue, given its density is 1070 kg m⁻³ and the speed of ultrasound in muscle is 1580 m s⁻¹?",
+"p": "Context from source 14.",
+"a": ["1.48 x 10⁶ kg m⁻² s⁻¹", "1.69 x 10⁵ kg m⁻² s⁻¹", "6.77 x 10² kg m⁻² s⁻¹", "1.69 x 10⁶ kg m⁻² s⁻¹ (1070 * 1580)"],
+"correct": 3
+},
+{
+"q": "Why are X-ray tubes evacuated to a high vacuum?",
+"p": "Context from source 14.",
+"a": ["To prevent collisions between accelerated electrons and air molecules, which would scatter electrons and lose energy", "To allow ultrasound waves to propagate freely", "To keep the target metal molten", "To generate positrons for PET imaging"],
+"correct": 0
+},
+{
+"q": "What is 'sharpness' in X-ray imaging improved by?",
+"p": "Context from source 14.",
+"a": ["Using a large physical X-ray source focal spot", "Using a small focal spot, placing the patient closer to the image receptor, and using a narrower X-ray beam", "Increasing the distance between the X-ray film and the patient indefinitely", "Removing all filtration from the X-ray tube"],
+"correct": 1
+},
+{
+"q": "What is the purpose of an X-ray filter (such as an aluminum sheet) placed at the tube window?",
+"p": "Context from source 14.",
+"a": ["To increase the total radiation dose to the patient's skin", "To focus X-rays into a narrow laser beam", "To absorb low-energy (soft) X-rays that would otherwise be absorbed by the patient's skin without contributing to the image", "To convert X-rays into visible light"],
+"correct": 2
+},
+{
+"q": "What is piezoelectric material commonly used in ultrasound probes?",
+"p": "Context from source 14.",
+"a": ["Lead zirconate titanate (PZT) ceramic", "Pure copper wire coils", "Lead shielding blocks", "Liquid helium"],
+"correct": 3
+},
+{
+"q": "What happens to ultrasound waves when they encounter a boundary between two media with very different acoustic impedances?",
+"p": "Context from source 14.",
+"a": ["A large fraction of the ultrasound intensity is reflected at the boundary", "All ultrasound waves pass through completely without attenuation", "Ultrasound waves convert directly into X-rays", "Ultrasound wavelength increases to infinity"],
+"correct": 0
+},
+{
+"q": "What is the purpose of the collimator in a gamma camera used for medical scintigraphy?",
+"p": "Context from source 14.",
+"a": ["To accelerate radioactive tracers in the bloodstream", "To absorb divergent gamma-ray photons and allow only those travelling parallel to the collimator holes to reach the scintillator crystal, forming a sharp image", "To filter out high-frequency radio waves", "To cool the detector crystal"],
+"correct": 1
+},
+{
+"q": "What is the function of the sodium iodide (NaI) scintillator crystal in a gamma camera?",
+"p": "Context from source 14.",
+"a": ["To reflect gamma rays back into the patient", "To convert gamma-ray photons into high-energy electrons", "To absorb incoming gamma-ray photons and re-emit their energy as flashes of visible light photons", "To amplify electrical voltage signals electronically"],
+"correct": 2
+},
+{
+"q": "What device converts the light flashes from a scintillator crystal into an electrical pulse in a gamma camera or photomultiplier tube assembly?",
+"p": "Context from source 14.",
+"a": ["A piezoelectric crystal", "An ultrasonic transducer", "A high-voltage transformer", "A photomultiplier tube (PMT)"],
+"correct": 3
+},
+{
+"q": "If the linear attenuation coefficient of bone for 100 keV X-rays is 0.50 cm⁻¹, what percentage of the X-ray beam intensity is transmitted through a 2.0 cm thick bone layer?",
+"p": "Context from source 14.",
+"a": ["36.8 percent (I / I_0 = e^(-0.50 * 2.0) = e^(-1.0) = 0.368)", "50.0 percent", "13.5 percent", "63.2 percent"],
+"correct": 0
+},
+{
+"q": "Why is ultrasound not suitable for imaging structures surrounded by thick bone (such as the adult brain through the skull)?",
+"p": "Context from source 14.",
+"a": ["Bones generate high levels of radioactive tracers", "High acoustic impedance mismatch and high attenuation coefficient of bone cause severe reflection and absorption of ultrasound waves", "Ultrasound travels too fast through bone to be detected", "Bones absorb all electrical power from the transducer"],
+"correct": 1
+},
+{
+"q": "What is the Doppler frequency shift delta f observed when an ultrasound wave of frequency f reflects off red blood cells moving at velocity v directly towards the transducer (speed of sound in tissue c)?",
+"p": "Context from source 14.",
+"a": ["delta f = f * v / c", "delta f = 2 * f * v / c", "delta f = c / (2 * f * v)", "delta f = f * c / v"],
+"correct": 2
+},
+{
+"q": "What is the primary biological hazard of ionizing radiation in medical imaging?",
+"p": "Context from source 14.",
+"a": ["Thermal burns on the skin surface", "Temporary hearing loss", "Muscle fatigue during long scans", "Ionization of atoms and molecules in living cells, potentially damaging DNA and causing mutations or cancer"],
+"correct": 3
+}
+]
+}
