@@ -46,8 +46,6 @@ const messageQueue = [];
 let isProcessingQueue = false;
 const loginCooldowns = new Map();
 const LOGIN_COOLDOWN_MS = 15 * 60 * 1000;
-const autoReplyCooldowns = new Map();
-const AUTO_REPLY_COOLDOWN_MS = 60 * 60 * 1000;
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -340,33 +338,6 @@ async function initWhatsApp() {
                     pairingRequested = false;
                 }
             }, 4000);
-        }
-    });
-
-    sock.ev.on('messages.upsert', async ({ messages, type }) => {
-        if (type !== 'notify') return;
-        for (const msg of messages) {
-            if (!msg.key.fromMe && msg.message && !msg.key.remoteJid.includes('@g.us')) {
-                const senderJid = msg.key.remoteJid;
-                const now = Date.now();
-                const lastReplied = autoReplyCooldowns.get(senderJid);
-
-                if (!lastReplied || (now - lastReplied) > AUTO_REPLY_COOLDOWN_MS) {
-                    autoReplyCooldowns.set(senderJid, now);
-                    try {
-                        await sleep(2000);
-                        await sock.sendPresenceUpdate('composing', senderJid);
-                        await sleep(2000);
-                        await sock.sendPresenceUpdate('paused', senderJid);
-                        await sock.sendMessage(senderJid, {
-                            text: "Thank you for reaching out to Bright & Bold! 🎓\nThis is an automated notification line for student learning updates.\nhttps://www.elormacademy.com"
-                        });
-                        console.log(`💬 [WhatsApp Two-Way Auto-Reply] Replied to ${senderJid}`);
-                    } catch (err) {
-                        console.error('[WhatsApp Auto-Reply Error]:', err.message);
-                    }
-                }
-            }
         }
     });
 }
